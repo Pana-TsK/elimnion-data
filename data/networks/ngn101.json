@@ -1,0 +1,90 @@
+{
+"assetId": "ngn101",
+"updated": "2026-10-14",
+"generatedBy": "elimnion-data pipeline",
+"sources": {
+"trials": 1
+},
+"nodes": [
+{
+"k": "asset:ngn101",
+"t": "asset",
+"n": "NGN-101",
+"sub": "CLN5 Batten disease",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05228145",
+"t": "trial",
+"n": "Gene Therapy Study for Children With CLN5 Batten Disease",
+"sub": "P1/P2 · active_not_recruiting · 2022-2028",
+"url": "https://clinicaltrials.gov/study/NCT05228145",
+"c": ""
+},
+{
+"k": "org:neurogene",
+"t": "company",
+"n": "Neurogene Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:effie-albanis",
+"t": "person",
+"n": "Effie Albanis",
+"sub": "study director · Neurogene Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-rochester",
+"t": "academic",
+"n": "University of Rochester",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:great-ormond-street-hospital-for-children",
+"t": "hospital",
+"n": "Great Ormond Street Hospital for Children",
+"sub": "",
+"url": "",
+"c": "United Kingdom"
+}
+],
+"edges": [
+{
+"a": "asset:ngn101",
+"b": "trial:nct05228145",
+"r": "tested_in"
+},
+{
+"a": "org:great-ormond-street-hospital-for-children",
+"b": "trial:nct05228145",
+"r": "site_of"
+},
+{
+"a": "org:neurogene",
+"b": "trial:nct05228145",
+"r": "sponsors"
+},
+{
+"a": "org:university-of-rochester",
+"b": "trial:nct05228145",
+"r": "site_of"
+},
+{
+"a": "person:effie-albanis",
+"b": "org:neurogene",
+"r": "affiliated"
+},
+{
+"a": "person:effie-albanis",
+"b": "trial:nct05228145",
+"r": "investigator"
+}
+]
+}

@@ -1,0 +1,5169 @@
+{
+"assetId": "acd440",
+"updated": "2026-10-14",
+"generatedBy": "elimnion-data pipeline",
+"sources": {
+"trials": 43
+},
+"nodes": [
+{
+"k": "asset:acd440",
+"t": "asset",
+"n": "ACD440",
+"sub": "neuropathic pain; erythromelalgia",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04704232",
+"t": "trial",
+"n": "Study of Safety, Efficacy, and Pharmacokinetics of Topical ACD440 in Healthy Volunteers",
+"sub": "P1 · completed · 2021-2021",
+"url": "https://clinicaltrials.gov/study/NCT04704232",
+"c": ""
+},
+{
+"k": "org:alzecure-pharma",
+"t": "company",
+"n": "AlzeCure Pharma",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:alzecure-pharma-investigational-site",
+"t": "company",
+"n": "AlzeCure Pharma investigational site",
+"sub": "",
+"url": "",
+"c": "Sweden"
+},
+{
+"k": "trial:nct05416931",
+"t": "trial",
+"n": "ACD440 Gel in Peripheral Neuropathic Pain",
+"sub": "P2 · completed · 2022-2023",
+"url": "https://clinicaltrials.gov/study/NCT05416931",
+"c": ""
+},
+{
+"k": "org:akademiska-sjukhuset",
+"t": "company",
+"n": "Akademiska sjukhuset",
+"sub": "",
+"url": "",
+"c": "Sweden"
+},
+{
+"k": "trial:nct05206773",
+"t": "trial",
+"n": "A Study to Evaluate the Effect of Venglustat Tablets on Neuropathic and Abdominal Pain in ",
+"sub": "P3 · active_not_recruiting · 2022-2027",
+"url": "https://clinicaltrials.gov/study/NCT05206773",
+"c": ""
+},
+{
+"k": "org:sanofi",
+"t": "company",
+"n": "Sanofi",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:clinical-sciences-operations",
+"t": "person",
+"n": "Clinical Sciences & Operations",
+"sub": "study director · Sanofi",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-alabama-the-kirklin-clinic-site-number-8400011",
+"t": "hospital",
+"n": "University of Alabama -The Kirklin Clinic- Site Number : 8400011",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:david-geffen-school-of-medicine-at-ucla-site-number-8400006",
+"t": "academic",
+"n": "David Geffen School of Medicine at UCLA- Site Number : 8400006",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-california-irvine-medical-center-site-number-8",
+"t": "hospital",
+"n": "University of California Irvine Medical Center- Site Number : 8400019",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:adventhealth-orlando-site-number-8400008",
+"t": "hospital",
+"n": "AdventHealth Orlando- Site Number : 8400008",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:emory-university-school-of-medicine-atlanta-site-number-8400",
+"t": "academic",
+"n": "Emory University School of Medicine - Atlanta- Site Number : 8400010",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:wmchealth-advanced-physician-services-site-number-8400001",
+"t": "hospital",
+"n": "WMCHealth Advanced Physician Services- Site Number : 8400001",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cincinnati-children-s-hospital-medical-center-site-number-84",
+"t": "hospital",
+"n": "Cincinnati Children's Hospital Medical Center- Site Number : 8400013",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:upmc-montefiore-site-number-8400009",
+"t": "company",
+"n": "UPMC Montefiore- Site Number : 8400009",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:renal-disease-research-institute-dallas-live-oak-street-site",
+"t": "academic",
+"n": "Renal Disease Research Institute - Dallas - Live Oak Street- Site Number : 8400012",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-utah-health-hospital-site-number-8400005",
+"t": "hospital",
+"n": "University of Utah Health Hospital- Site Number : 8400005",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:venglustat-gz402671",
+"t": "drug",
+"n": "Venglustat (GZ402671)",
+"sub": "Sanofi",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06023706",
+"t": "trial",
+"n": "Study Evaluating the Analgesic Efficacy of Capsaicin 8% Patches in Chronic Coccygodynia.",
+"sub": "P3 · recruiting · 2023-2027",
+"url": "https://clinicaltrials.gov/study/NCT06023706",
+"c": ""
+},
+{
+"k": "org:nantes-university-hospital",
+"t": "hospital",
+"n": "Nantes University Hospital",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:brest-university-hospital",
+"t": "hospital",
+"n": "Brest University Hospital",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:vendee-departmental-hospital",
+"t": "hospital",
+"n": "Vendée Departmental Hospital",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:confluent-private-hospital-centre",
+"t": "hospital",
+"n": "Confluent Private Hospital Centre",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:gh-paris-saint-joseph",
+"t": "company",
+"n": "GH Paris saint Joseph",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:rouen-university-hospital",
+"t": "hospital",
+"n": "Rouen University Hospital",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "drug:capsaicin-179-mg-cutaneous-patch",
+"t": "drug",
+"n": "Capsaicin 179 Mg Cutaneous Patch",
+"sub": "Nantes University Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:capsaicin-low-concentration-patch-capsaicin-0-04-3-2-mg-cm2",
+"t": "drug",
+"n": "Capsaicin low concentration patch (capsaicin 0,04%, 3,2 mg/cm2)",
+"sub": "Nantes University Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06696443",
+"t": "trial",
+"n": "Evaluation of the Long-term Safety and Effectiveness of Suzetrigine (SUZ) in Participants ",
+"sub": "P3 · active_not_recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06696443",
+"c": ""
+},
+{
+"k": "org:vertex-pharmaceuticals",
+"t": "company",
+"n": "Vertex Pharmaceuticals Incorporated",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:pinnacle-research-group",
+"t": "company",
+"n": "Pinnacle Research Group, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:amr-daphne-al",
+"t": "company",
+"n": "AMR Daphne, AL",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:scottsdale-clinical-trials",
+"t": "hospital",
+"n": "Scottsdale Clinical Trials",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:neuro-pain-medical-center",
+"t": "hospital",
+"n": "Neuro-Pain Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:long-beach-research-institute",
+"t": "academic",
+"n": "Long Beach Research Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:angel-city-research",
+"t": "company",
+"n": "Angel City Research, Inc",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:empire-clinical-research",
+"t": "hospital",
+"n": "Empire Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:clinical-trials-research",
+"t": "hospital",
+"n": "Clinical Trials Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:velocity-clinical-research-san-bernardino",
+"t": "hospital",
+"n": "Velocity Clinical Research, San Bernardino",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:scla-management-pain-management-and-injury-relief",
+"t": "company",
+"n": "SCLA Management - Pain Management and Injury Relief",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:suzetrigine",
+"t": "drug",
+"n": "Suzetrigine",
+"sub": "Vertex Pharmaceuticals Incorporated",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct02219373",
+"t": "trial",
+"n": "Gabapentin and Oxcarbazepine for Chronic Neuropathic Pain in Children and Adolescents: A C",
+"sub": "P3 · withdrawn · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT02219373",
+"c": ""
+},
+{
+"k": "org:boston-children-s-hospital",
+"t": "hospital",
+"n": "Boston Children's Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "person:monique-ribeiro",
+"t": "person",
+"n": "Monique Ribeiro",
+"sub": "principal investigator · Boston Children's Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:gabapentin",
+"t": "drug",
+"n": "Gabapentin",
+"sub": "Boston Children's Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:oxcarbazepine",
+"t": "drug",
+"n": "Oxcarbazepine",
+"sub": "Boston Children's Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06807164",
+"t": "trial",
+"n": "Serratus Plane Block (SPB) Versus Capsaïcine Versus Botox-A for Chronic Neuropathic Pain i",
+"sub": "P2 · withdrawn · 2025-2026",
+"url": "https://clinicaltrials.gov/study/NCT06807164",
+"c": ""
+},
+{
+"k": "org:centre-oscar-lambret",
+"t": "academic",
+"n": "Centre Oscar Lambret",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:ligue-contre-le-cancer-france",
+"t": "academic",
+"n": "Ligue contre le cancer, France",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:santelys-association",
+"t": "foundation",
+"n": "Santelys Association",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:ctd-cno-caen",
+"t": "company",
+"n": "CTD-CNO, Caen",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:didier-delbrouck-anesthesiologist",
+"t": "person",
+"n": "Didier DELBROUCK, Anesthesiologist",
+"sub": "principal investigator · Centre Oscar Lambret",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:capsaicin-8-patch",
+"t": "drug",
+"n": "Capsaicin 8% Patch",
+"sub": "Centre Oscar Lambret",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07072468",
+"t": "trial",
+"n": "Analgesic Efficacy and Safety of Topical VMD-3866 Gel in Management of Pain Induced by Che",
+"sub": "P2 · recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT07072468",
+"c": ""
+},
+{
+"k": "org:vm-therapeutics",
+"t": "company",
+"n": "VM Therapeutics LLC",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:clinical-development",
+"t": "person",
+"n": "Clinical Development",
+"sub": "study chair · VM Therapeutics LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "org:hammersmith-medicines-research-24-503-tel-0800-783-8792-recr",
+"t": "company",
+"n": "Hammersmith Medicines Research Ltd (24-503; Tel: 0800 783 8792; recruit@hmrlondon.com)",
+"sub": "",
+"url": "",
+"c": "United Kingdom"
+},
+{
+"k": "drug:vmd-3866-gel",
+"t": "drug",
+"n": "VMD-3866 Gel",
+"sub": "VM Therapeutics LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07858344",
+"t": "trial",
+"n": "Randomized, Double-blind, Placebo-controlled, Multicenter Phase IIb Clinical Trial of Spra",
+"sub": "P2 · completed · 2024-2025",
+"url": "https://clinicaltrials.gov/study/NCT07858344",
+"c": ""
+},
+{
+"k": "org:zhejiang-yuejia-pharmaceuticals",
+"t": "company",
+"n": "Zhejiang Yuejia Pharmaceuticals Co., Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:peking-university-third-hospital",
+"t": "hospital",
+"n": "Peking University Third Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "drug:yj001-spray-simulator",
+"t": "drug",
+"n": "YJ001 spray simulator",
+"sub": "Zhejiang Yuejia Pharmaceuticals Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:yj001-spray-240-mg-day",
+"t": "drug",
+"n": "YJ001 Spray 240 mg/day",
+"sub": "Zhejiang Yuejia Pharmaceuticals Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:yj001-spray-480-mg-day",
+"t": "drug",
+"n": "YJ001 Spray 480 mg/day",
+"sub": "Zhejiang Yuejia Pharmaceuticals Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:yj001-spray-960-mg-day",
+"t": "drug",
+"n": "YJ001 Spray 960 mg/day",
+"sub": "Zhejiang Yuejia Pharmaceuticals Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07859111",
+"t": "trial",
+"n": "YJ001 Spray for Diabetic Peripheral Neuropathic Pain",
+"sub": "P3 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07859111",
+"c": ""
+},
+{
+"k": "org:zhejiang-hanmai-pharmaceutical-technology",
+"t": "company",
+"n": "Zhejiang Hanmai Pharmaceutical Technology Co., Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:medical-institution",
+"t": "academic",
+"n": "Medical Institution",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "drug:yj001-spray-simulant",
+"t": "drug",
+"n": "YJ001 spray simulant",
+"sub": "Zhejiang Hanmai Pharmaceutical Technology Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:yj001-spray",
+"t": "drug",
+"n": "YJ001 spray",
+"sub": "Zhejiang Hanmai Pharmaceutical Technology Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:crisugabalin-besilate-capsules",
+"t": "drug",
+"n": "Crisugabalin Besilate Capsules",
+"sub": "Zhejiang Hanmai Pharmaceutical Technology Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:crisugabalin-besilate-capsules-simulant",
+"t": "drug",
+"n": "Crisugabalin Besilate Capsules simulant",
+"sub": "Zhejiang Hanmai Pharmaceutical Technology Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07838506",
+"t": "trial",
+"n": "Phase 3, Multi-Center, Randomized, Double-Masked, Placebo-Controlled Study Assessing the S",
+"sub": "P3 · not_yet_recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07838506",
+"c": ""
+},
+{
+"k": "org:okyo-pharma",
+"t": "company",
+"n": "Okyo Pharma Ltd",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:flavio-mantelli",
+"t": "person",
+"n": "Flavio Mantelli",
+"sub": "study director · Okyo Pharma Ltd",
+"url": "",
+"c": ""
+},
+{
+"k": "org:toyos-eye-clinic",
+"t": "hospital",
+"n": "Toyos Eye Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:urcosimod-ophthalmic-solution-is-a-preservative-free-topical",
+"t": "drug",
+"n": "Urcosimod ophthalmic solution is a preservative-free topical ophthalmic product; supplied ",
+"sub": "Okyo Pharma Ltd",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04299893",
+"t": "trial",
+"n": "Ozone Therapy in Chemotherapy-induced Peripheral Neuropathy: RCT (O3NPIQ)",
+"sub": "P2/P3 · recruiting · 2020-2027",
+"url": "https://clinicaltrials.gov/study/NCT04299893",
+"c": ""
+},
+{
+"k": "org:bernardino-clavo-md-phd",
+"t": "academic",
+"n": "Bernardino Clavo, MD, PhD",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:servicio-canario-de-salud",
+"t": "academic",
+"n": "Servicio Canario de Salud",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:instituto-de-salud-carlos-iii",
+"t": "funder",
+"n": "Instituto de Salud Carlos III",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:red-de-investigacion-en-servicios-de-salud-en-enfermedades-c",
+"t": "academic",
+"n": "Red de Investigación en Servicios de Salud en Enfermedades Crónicas",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:fundacion-disa-spain",
+"t": "company",
+"n": "Fundación DISA, Spain",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:fundacion-espanola-del-dolor-fed",
+"t": "company",
+"n": "Fundación Española del Dolor (FED)",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:council-of-gran-canaria",
+"t": "academic",
+"n": "Council of Gran Canaria",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:dr-negrin-university-hospital-las-palmas-spain",
+"t": "hospital",
+"n": "Dr. Negrín University Hospital, Las Palmas, Spain",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:bernardino-clavo",
+"t": "person",
+"n": "Bernardino Clavo",
+"sub": "study chair · Dr. Negrín University Hospital, Las Palmas, Spain",
+"url": "",
+"c": ""
+},
+{
+"k": "org:servicio-de-evaluacion-servicio-canario-de-salud-spain",
+"t": "company",
+"n": "Servicio de Evaluación. Servicio Canario de Salud. Spain",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:pedro-g-serrano-aguilar",
+"t": "person",
+"n": "Pedro G Serrano-Aguilar",
+"sub": "study director · Servicio de Evaluación. Servicio Canario de Salud. Spain",
+"url": "",
+"c": ""
+},
+{
+"k": "org:complejo-hospitalario-universitario-insular-materno-infantil",
+"t": "hospital",
+"n": "Complejo Hospitalario Universitario Insular Materno Infantil, Las Palmas, Spain",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:delvys-rodriguez-abreu",
+"t": "person",
+"n": "Delvys Rodríguez-Abreu",
+"sub": "principal investigator · Complejo Hospitalario Universitario Insular Materno Infantil, Las",
+"url": "",
+"c": ""
+},
+{
+"k": "org:institute-for-applied-microelectronics-university-of-las-pal",
+"t": "academic",
+"n": "Institute for Applied Microelectronics, University of Las Palmas de G. C., Spain",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:gustavo-m-callico",
+"t": "person",
+"n": "Gustavo M Callico",
+"sub": "principal investigator · Institute for Applied Microelectronics, University of Las Palmas ",
+"url": "",
+"c": ""
+},
+{
+"k": "person:francisco-rodriguez-esparragon-bsc",
+"t": "person",
+"n": "Francisco Rodríguez-Esparragón, BSc",
+"sub": "principal investigator · Dr. Negrín University Hospital, Las Palmas, Spain",
+"url": "",
+"c": ""
+},
+{
+"k": "org:complejo-hospitalario-materno-insular",
+"t": "hospital",
+"n": "Complejo Hospitalario Materno Insular",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:hospital-universitario-de-gran-canaria-dr-negrin",
+"t": "hospital",
+"n": "Hospital Universitario de Gran Canaria Dr. Negrín",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "drug:ozone",
+"t": "drug",
+"n": "Ozone",
+"sub": "Bernardino Clavo, MD, PhD",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:oxygen",
+"t": "drug",
+"n": "Oxygen",
+"sub": "Bernardino Clavo, MD, PhD",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05986292",
+"t": "trial",
+"n": "A Master Protocol Study (LY900028) of Multiple Intervention-Specific-Appendices (ISAs) in ",
+"sub": "P2 · recruiting · 2020-2027",
+"url": "https://clinicaltrials.gov/study/NCT05986292",
+"c": ""
+},
+{
+"k": "org:eli-lilly-and-company",
+"t": "company",
+"n": "Eli Lilly and Company",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
+"t": "person",
+"n": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 8 AM - 8 PM Eastern time (",
+"sub": "study director · Eli Lilly and Company",
+"url": "",
+"c": ""
+},
+{
+"k": "org:central-research-associates",
+"t": "company",
+"n": "Central Research Associates",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:simon-williamson-clinic",
+"t": "hospital",
+"n": "Simon Williamson Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:synexus-clinical-research-glendale",
+"t": "hospital",
+"n": "Synexus Clinical Research - Glendale",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:synexus-clinical-research-us",
+"t": "hospital",
+"n": "Synexus Clinical Research US, Inc.",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:arizona-research-center",
+"t": "company",
+"n": "Arizona Research Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:alliance-for-multispecialty-research",
+"t": "foundation",
+"n": "Alliance for Multispecialty Research, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:irvine-clinical-research",
+"t": "hospital",
+"n": "Irvine Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:desert-oasis-healthcare-medical-group",
+"t": "hospital",
+"n": "Desert Oasis Healthcare Medical Group",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:artemis-institute-for-clinical-research",
+"t": "hospital",
+"n": "Artemis Institute for Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:ly3016859-isa",
+"t": "drug",
+"n": "LY3016859 ISA",
+"sub": "Eli Lilly and Company",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ly3556050-isa",
+"t": "drug",
+"n": "LY3556050 ISA",
+"sub": "Eli Lilly and Company",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ly3526318-isa",
+"t": "drug",
+"n": "LY3526318 ISA",
+"sub": "Eli Lilly and Company",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ly3857210-isa",
+"t": "drug",
+"n": "LY3857210 ISA",
+"sub": "Eli Lilly and Company",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ly4065967-isa",
+"t": "drug",
+"n": "LY4065967 ISA",
+"sub": "Eli Lilly and Company",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04967664",
+"t": "trial",
+"n": "Comparison of Qutenza (8% Capsaicin) With a Low-dose Capsaicin for Treatment of Nerve Pain",
+"sub": "P3 · completed · 2021-2025",
+"url": "https://clinicaltrials.gov/study/NCT04967664",
+"c": ""
+},
+{
+"k": "org:averitas-pharma",
+"t": "company",
+"n": "Averitas Pharma, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:tucson-orthopaedic-institute",
+"t": "academic",
+"n": "Tucson Orthopaedic Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ild-research-center",
+"t": "company",
+"n": "ILD Research Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:international-spine-pain-and-performance-center",
+"t": "company",
+"n": "International Spine, Pain, and Performance Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:south-lake-pain-institute",
+"t": "academic",
+"n": "South Lake Pain Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-clinical-research-deland-clinical-research-unit",
+"t": "hospital",
+"n": "University Clinical Research - DeLand Clinical Research Unit",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:florida-research-center",
+"t": "company",
+"n": "Florida Research Center, Inc.",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:clinical-research-of-west-florida",
+"t": "hospital",
+"n": "Clinical Research of West Florida",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:drug-studies-america",
+"t": "company",
+"n": "Drug Studies America",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:rush-university-medical-center",
+"t": "hospital",
+"n": "Rush University Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:neuroscience-research-center",
+"t": "company",
+"n": "Neuroscience Research Center, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:qutenza-capsaicin-8-topical-system",
+"t": "drug",
+"n": "Qutenza (capsaicin) 8% topical system",
+"sub": "Averitas Pharma, Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:capsaicin-0-04-topical-system",
+"t": "drug",
+"n": "capsaicin 0.04% topical system",
+"sub": "Averitas Pharma, Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06848348",
+"t": "trial",
+"n": "Efficacy and Safety Study of Halneuron in the Treatment of Chemotherapy-Induced Neuropathi",
+"sub": "P2 · active_not_recruiting · 2025-2026",
+"url": "https://clinicaltrials.gov/study/NCT06848348",
+"c": ""
+},
+{
+"k": "org:dogwood-therapeutics",
+"t": "company",
+"n": "Dogwood Therapeutics Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:central-recruiting-site",
+"t": "company",
+"n": "Central Recruiting Site",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:halneuron",
+"t": "drug",
+"n": "Halneuron",
+"sub": "Dogwood Therapeutics Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:halneuron-open-label-extension",
+"t": "drug",
+"n": "Halneuron (Open Label Extension)",
+"sub": "Dogwood Therapeutics Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06614322",
+"t": "trial",
+"n": "SPENDD: Quantitative Sensory Testing and Analgesic Response for Painful Peripheral Neuropa",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT06614322",
+"c": ""
+},
+{
+"k": "org:university-of-rochester",
+"t": "academic",
+"n": "University of Rochester",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:beth-israel-deaconess-medical-center",
+"t": "hospital",
+"n": "Beth Israel Deaconess Medical Center",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:jennifer-gewandter-mph",
+"t": "person",
+"n": "Jennifer Gewandter, MPH",
+"sub": "principal investigator · University of Rochester",
+"url": "",
+"c": ""
+},
+{
+"k": "org:beth-israel-deaconess-medical-center-for-autonomic-and-perip",
+"t": "hospital",
+"n": "Beth Israel Deaconess Medical Center for Autonomic and Peripheral Nerve Disorders",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ichan-school-of-medicine-at-mount-sinai",
+"t": "academic",
+"n": "Ichan School of Medicine at Mount Sinai",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-pittsburgh",
+"t": "academic",
+"n": "University of Pittsburgh",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-utah",
+"t": "academic",
+"n": "University of Utah",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-vermont",
+"t": "academic",
+"n": "University of Vermont",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:vcu-medical-center",
+"t": "hospital",
+"n": "VCU Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:pregabalin",
+"t": "drug",
+"n": "Pregabalin",
+"sub": "University of Rochester",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:duloxetine",
+"t": "drug",
+"n": "Duloxetine",
+"sub": "University of Rochester",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07579351",
+"t": "trial",
+"n": "Corticosteroid Lumbar Epidural Analgesia for Radicular Pain 2",
+"sub": "P3 · not_yet_recruiting · 2027-2029",
+"url": "https://clinicaltrials.gov/study/NCT07579351",
+"c": ""
+},
+{
+"k": "org:semnur-pharmaceuticals",
+"t": "company",
+"n": "Semnur Pharmaceuticals, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:syngene",
+"t": "company",
+"n": "Syngene",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:cromos-pharma",
+"t": "company",
+"n": "Cromos Pharma LLC",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:sp-102",
+"t": "drug",
+"n": "SP-102",
+"sub": "Semnur Pharmaceuticals, Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:dexamethasone-sodium-phosphate-10-mg-ml",
+"t": "drug",
+"n": "Dexamethasone Sodium Phosphate 10 MG/ML",
+"sub": "Semnur Pharmaceuticals, Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07644520",
+"t": "trial",
+"n": "Vitamin D in Diabetic Neuropathy",
+"sub": "P2/P3 · not_yet_recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07644520",
+"c": ""
+},
+{
+"k": "org:tanta-university",
+"t": "academic",
+"n": "Tanta University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07794475",
+"t": "trial",
+"n": "Effect of Trimetazidine on Endothelin-1 and Clinical Outcomes of Patients With Diabetic Pe",
+"sub": "P1/P2 · recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07794475",
+"c": ""
+},
+{
+"k": "org:sara-refaat-azab-metry",
+"t": "academic",
+"n": "Sara Refaat Azab Metry",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:faculty-of-pharmacy-ain-shams-university",
+"t": "academic",
+"n": "Faculty of Pharmacy, Ain Shams University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:lamia-el-wakeel",
+"t": "person",
+"n": "Lamia El Wakeel",
+"sub": "principal investigator · Faculty of Pharmacy, Ain Shams University",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institute-of-diabetes",
+"t": "academic",
+"n": "National Institute of Diabetes",
+"sub": "",
+"url": "",
+"c": "Egypt"
+},
+{
+"k": "drug:trimetazidine-dihydrochloride-tablets",
+"t": "drug",
+"n": "Trimetazidine Dihydrochloride Tablets",
+"sub": "Sara Refaat Azab Metry",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07396129",
+"t": "trial",
+"n": "Assessing the Efficacy of a High-Dose Lidocaine-Tetracaine Cream for the Treatment of Peri",
+"sub": "P1/P2 · not_yet_recruiting · 2026-2026",
+"url": "https://clinicaltrials.gov/study/NCT07396129",
+"c": ""
+},
+{
+"k": "org:pontificia-universidad-catolica-de-chile",
+"t": "academic",
+"n": "Pontificia Universidad Catolica de Chile",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:lidocaine-23-tetracaine-7",
+"t": "drug",
+"n": "Lidocaine (23%) + Tetracaine (7%)",
+"sub": "Pontificia Universidad Catolica de Chile",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05630235",
+"t": "trial",
+"n": "Effects of CBD/CBD-A Oral Extract on Resting-state EEG and Neuropathic Pain Symptoms After",
+"sub": "P1/P2 · completed · 2025-2026",
+"url": "https://clinicaltrials.gov/study/NCT05630235",
+"c": ""
+},
+{
+"k": "org:university-of-miami",
+"t": "academic",
+"n": "University of Miami",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:consortium-for-medical-marijuana-clinical-outcomes-research",
+"t": "hospital",
+"n": "Consortium for Medical Marijuana Clinical Outcomes Research",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:eva-widerstrom-noga-dds",
+"t": "person",
+"n": "Eva Widerstrom-Noga, DDS",
+"sub": "principal investigator · University of Miami",
+"url": "",
+"c": ""
+},
+{
+"k": "org:lynn-rehabilitation-center",
+"t": "company",
+"n": "Lynn Rehabilitation Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:cbd-cbd-a",
+"t": "drug",
+"n": "CBD/CBD-A",
+"sub": "University of Miami",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07758920",
+"t": "trial",
+"n": "A Clinical Trial to Evaluate the Efficacy and Safety of HL-1186 Tablet in the Treatment of",
+"sub": "P2 · recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07758920",
+"c": ""
+},
+{
+"k": "org:shanghai-yidian-pharmaceutical-technology-development",
+"t": "company",
+"n": "Shanghai Yidian Pharmaceutical Technology Development Co., Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:peking-university-first-hospital",
+"t": "hospital",
+"n": "Peking University First Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "drug:hl-1186",
+"t": "drug",
+"n": "HL-1186",
+"sub": "Shanghai Yidian Pharmaceutical Technology Development Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:pregabalin-capsule",
+"t": "drug",
+"n": "Pregabalin capsule",
+"sub": "Shanghai Yidian Pharmaceutical Technology Development Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07251491",
+"t": "trial",
+"n": "Psilocybin to Treat Depression in Spinal Cord Injury",
+"sub": "P1/P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07251491",
+"c": ""
+},
+{
+"k": "org:james-j-peters-veterans-affairs-medical-center",
+"t": "funder",
+"n": "James J. Peters Veterans Affairs Medical Center",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:bronx-veterans-medical-research-foundation",
+"t": "foundation",
+"n": "Bronx Veterans Medical Research Foundation, Inc",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:usona-institute",
+"t": "academic",
+"n": "Usona Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:united-states-department-of-defense",
+"t": "funder",
+"n": "United States Department of Defense",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:james-j-peters-va-medical-center",
+"t": "hospital",
+"n": "James J Peters VA Medical Center",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:jill-m-wecht-edd",
+"t": "person",
+"n": "Jill M Wecht, EdD",
+"sub": "principal investigator · James J Peters VA Medical Center",
+"url": "",
+"c": ""
+},
+{
+"k": "org:james-j-peters-department-of-veterans-affairs-medical-center",
+"t": "hospital",
+"n": "James J. Peters Department of Veterans Affairs Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:psilocybin-usona-institute",
+"t": "drug",
+"n": "Psilocybin (Usona Institute)",
+"sub": "James J. Peters Veterans Affairs Medical Center",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04650074",
+"t": "trial",
+"n": "Effectiveness of Ketamine Administered by Mesotherapy in Complex Regional Pain Syndrome Ty",
+"sub": "P2/P3 · completed · 2021-2024",
+"url": "https://clinicaltrials.gov/study/NCT04650074",
+"c": ""
+},
+{
+"k": "org:hospices-civils-de-lyon",
+"t": "academic",
+"n": "Hospices Civils de Lyon",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:department-of-orthopedic-surgery-and-trauma-emergencies-of-t",
+"t": "hospital",
+"n": "Department of orthopedic surgery and trauma emergencies of the lower limb, Edouard Herriot",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "drug:lidocaine-20-mg",
+"t": "drug",
+"n": "LIDOCAINE 20 mg",
+"sub": "Hospices Civils de Lyon",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:lidocaine-20-mg-ketamine-20-mg",
+"t": "drug",
+"n": "LIDOCAINE 20 mg + KETAMINE 20 mg",
+"sub": "Hospices Civils de Lyon",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:lidocaine-20-mg-ketamine-40-mg",
+"t": "drug",
+"n": "LIDOCAINE 20 mg + KETAMINE 40 mg",
+"sub": "Hospices Civils de Lyon",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05864053",
+"t": "trial",
+"n": "(2R,6R)-Hydroxynorketamine for the Treatment of Neuropathic Pain",
+"sub": "P1/P2 · recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT05864053",
+"c": ""
+},
+{
+"k": "org:congressionally-directed-medical-research-programs",
+"t": "funder",
+"n": "Congressionally Directed Medical Research Programs",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:asokumar-buvanendran",
+"t": "person",
+"n": "Asokumar Buvanendran",
+"sub": "principal investigator · Rush University Medical Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ketamine",
+"t": "drug",
+"n": "Ketamine",
+"sub": "Rush University Medical Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:2r-6r-hydroxynorketamine",
+"t": "drug",
+"n": "(2R,6R)-hydroxynorketamine",
+"sub": "Rush University Medical Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:saline",
+"t": "drug",
+"n": "Saline",
+"sub": "Rush University Medical Center",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct03848143",
+"t": "trial",
+"n": "Intraoral Administration of Botox in Patients With Dentoalveolar Neuropathic Pain",
+"sub": "P2 · completed · 2019-2025",
+"url": "https://clinicaltrials.gov/study/NCT03848143",
+"c": ""
+},
+{
+"k": "org:isabel-moreno-hay",
+"t": "academic",
+"n": "Isabel Moreno Hay",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:abbvie",
+"t": "company",
+"n": "AbbVie",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:associate-professor",
+"t": "company",
+"n": "Associate Professor",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:jeffrey-p-okeson-d",
+"t": "person",
+"n": "Jeffrey P Okeson, D",
+"sub": "study director · Associate Professor",
+"url": "",
+"c": ""
+},
+{
+"k": "org:orofacial-pain-center",
+"t": "company",
+"n": "Orofacial Pain Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:onabotulinum-toxin-a",
+"t": "drug",
+"n": "onabotulinum toxin A",
+"sub": "Isabel Moreno Hay",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06518720",
+"t": "trial",
+"n": "Treatment With Psilocybin for Chronic Neuropathic Pain and Depression (TRANSCEND)",
+"sub": "P2 · recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT06518720",
+"c": ""
+},
+{
+"k": "org:centre-for-addiction-and-mental-health",
+"t": "hospital",
+"n": "Centre for Addiction and Mental Health",
+"sub": "",
+"url": "",
+"c": "Canada"
+},
+{
+"k": "person:ishrat-husain",
+"t": "person",
+"n": "Ishrat Husain",
+"sub": "principal investigator · Centre for Addiction and Mental Health",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:psilocybin-25-mg",
+"t": "drug",
+"n": "Psilocybin 25 mg",
+"sub": "Centre for Addiction and Mental Health",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06074562",
+"t": "trial",
+"n": "A Study of LY3556050 in Adult Participants With Diabetic Peripheral Neuropathic Pain",
+"sub": "P2 · completed · 2023-2025",
+"url": "https://clinicaltrials.gov/study/NCT06074562",
+"c": ""
+},
+{
+"k": "org:the-institute-for-liver-health-ii-dba-arizona-clinical-trial",
+"t": "hospital",
+"n": "The Institute for Liver Health II dba Arizona Clinical Trials - Mesa",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:headlands-research-scottsdale",
+"t": "company",
+"n": "Headlands Research - Scottsdale",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:orange-grove-family-practice",
+"t": "company",
+"n": "Orange Grove Family Practice",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:preferred-research-partners",
+"t": "company",
+"n": "Preferred Research Partners",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:hope-clinical-research",
+"t": "hospital",
+"n": "Hope Clinical Research, Inc.",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:valley-clinical-trials",
+"t": "hospital",
+"n": "Valley Clinical Trials, Inc.",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:northern-california-research-sacramento",
+"t": "company",
+"n": "Northern California Research - Sacramento",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cmr-of-greater-new-haven",
+"t": "company",
+"n": "CMR of Greater New Haven, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:suncoast-research-group",
+"t": "company",
+"n": "Suncoast Research Group",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:new-horizon-research-center",
+"t": "company",
+"n": "New Horizon Research Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:mazisotine",
+"t": "drug",
+"n": "Mazisotine",
+"sub": "Eli Lilly and Company",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07301632",
+"t": "trial",
+"n": "Ecstasy to Alleviate SEvere Chronic Neuropathic Pain Trial",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07301632",
+"c": ""
+},
+{
+"k": "org:unity-health-toronto",
+"t": "hospital",
+"n": "Unity Health Toronto",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:akash-goel-mph",
+"t": "person",
+"n": "Akash Goel,MPH",
+"sub": "principal investigator · Unity Health Toronto",
+"url": "",
+"c": ""
+},
+{
+"k": "org:st-michael-s-hospital",
+"t": "hospital",
+"n": "St. Michael's Hospital",
+"sub": "",
+"url": "",
+"c": "Canada"
+},
+{
+"k": "drug:3-4-methylenedioxymethamphetamine",
+"t": "drug",
+"n": "3,4-Methylenedioxymethamphetamine",
+"sub": "Unity Health Toronto",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:methylphenidate",
+"t": "drug",
+"n": "Methylphenidate",
+"sub": "Unity Health Toronto",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06741579",
+"t": "trial",
+"n": "Mechanisms of Stimulation for Pain Alleviation",
+"sub": "P3 · recruiting · 2025-2028",
+"url": "https://clinicaltrials.gov/study/NCT06741579",
+"c": ""
+},
+{
+"k": "org:stanford-university",
+"t": "academic",
+"n": "Stanford University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:national-institutes-of-health-nih",
+"t": "funder",
+"n": "National Institutes of Health (NIH)",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institute-of-neurological-disorders-and-stroke-nind",
+"t": "funder",
+"n": "National Institute of Neurological Disorders and Stroke (NINDS)",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-kansas-medical-center",
+"t": "hospital",
+"n": "University of Kansas Medical Center",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:jennifer-hah-ms",
+"t": "person",
+"n": "Jennifer Hah, MS.",
+"sub": "principal investigator · Stanford University",
+"url": "",
+"c": ""
+},
+{
+"k": "person:andrea-chadwick-m-d-fasa",
+"t": "person",
+"n": "Andrea Chadwick, M.D., FASA",
+"sub": "principal investigator · University of Kansas Medical Center",
+"url": "",
+"c": ""
+},
+{
+"k": "org:the-university-of-kansas-medical-center",
+"t": "hospital",
+"n": "The University of Kansas Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct07712913",
+"t": "trial",
+"n": "Extended-release Pregabalin for the Treatment of Neuropathic Pain in Patients With Diabeti",
+"sub": "P3 · recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07712913",
+"c": ""
+},
+{
+"k": "org:brainfarma-industria-quimica-e-farmaceutica-s-a",
+"t": "company",
+"n": "Brainfarma Industria Química e Farmacêutica S/A",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:a2z-clinical-centro-de-pesquisa-clinica-valinhos-sao-paulo-1",
+"t": "hospital",
+"n": "A2Z CLINICAL - CENTRO DE PESQUISA CLÍNICA, Valinhos, São Paulo 13271130",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:mariana-ferreira-sports-nutrition",
+"t": "person",
+"n": "Mariana Ferreira, Sports Nutrition",
+"sub": "principal investigator · A2Z CLINICAL - CENTRO DE PESQUISA CLÍNICA, Valinhos, São Paulo 13",
+"url": "",
+"c": ""
+},
+{
+"k": "org:cpec-obras-sociais-irma-dulce",
+"t": "company",
+"n": "Cpec Obras Sociais Irmã Dulce",
+"sub": "",
+"url": "",
+"c": "Brazil"
+},
+{
+"k": "org:instituto-anima-de-extensao-universitaria-unibh",
+"t": "academic",
+"n": "Instituto Anima de Extensão Universitária - Unibh",
+"sub": "",
+"url": "",
+"c": "Brazil"
+},
+{
+"k": "org:centro-de-ensino-superior-de-vespasiano",
+"t": "company",
+"n": "Centro de Ensino Superior de Vespasiano",
+"sub": "",
+"url": "",
+"c": "Brazil"
+},
+{
+"k": "org:instituto-estadual-do-cerebro-paulo-niemeyer",
+"t": "academic",
+"n": "Instituto Estadual Do Cerebro Paulo Niemeyer",
+"sub": "",
+"url": "",
+"c": "Brazil"
+},
+{
+"k": "org:apec-sociedade-potiguar-de-educacao-e-cultura",
+"t": "company",
+"n": "Apec Sociedade Potiguar de Educação E Cultura",
+"sub": "",
+"url": "",
+"c": "Brazil"
+},
+{
+"k": "org:clinica-neurologica-e-neurocirurgica-de-joinville",
+"t": "hospital",
+"n": "Clinica Neurologica E Neurocirurgica de Joinville",
+"sub": "",
+"url": "",
+"c": "Brazil"
+},
+{
+"k": "org:instituto-anima-de-extensao-universitaria-unisul",
+"t": "academic",
+"n": "Instituto Anima de Extensão Universitária - Unisul",
+"sub": "",
+"url": "",
+"c": "Brazil"
+},
+{
+"k": "org:fundacao-de-beneficencia-hospital-de-cirurgia",
+"t": "hospital",
+"n": "Fundação de Beneficência Hospital de Cirurgia",
+"sub": "",
+"url": "",
+"c": "Brazil"
+},
+{
+"k": "org:associacao-aracajuana-hospital-santa-isabel",
+"t": "hospital",
+"n": "Associação Aracajuana Hospital Santa Isabel",
+"sub": "",
+"url": "",
+"c": "Brazil"
+},
+{
+"k": "org:newdata-clinical-research",
+"t": "hospital",
+"n": "Newdata Clinical Research",
+"sub": "",
+"url": "",
+"c": "Brazil"
+},
+{
+"k": "drug:experimental-pregabalin-xr",
+"t": "drug",
+"n": "Experimental: Pregabalin XR",
+"sub": "Brainfarma Industria Química e Farmacêutica S/A",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:comparator-dorene-tabs",
+"t": "drug",
+"n": "Comparator: Dorene Tabs",
+"sub": "Brainfarma Industria Química e Farmacêutica S/A",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07231419",
+"t": "trial",
+"n": "Evaluation of Efficacy and Safety of Suzetrigine (SUZ) for Pain Associated With Diabetic P",
+"sub": "P3 · recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT07231419",
+"c": ""
+},
+{
+"k": "org:accel-research-birmingham",
+"t": "company",
+"n": "Accel Research - Birmingham",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:amr-mobile",
+"t": "company",
+"n": "AMR Mobile",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:sun-city-clinical-research",
+"t": "hospital",
+"n": "Sun City Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:lynn-institute-of-the-ozarks",
+"t": "academic",
+"n": "Lynn Institute of the Ozarks",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:marvel-clinical-research",
+"t": "hospital",
+"n": "Marvel Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:eximia-research-ca",
+"t": "company",
+"n": "Eximia Research-CA, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct07227649",
+"t": "trial",
+"n": "NAC-REPAIR for Post-surgical Pain",
+"sub": "P2 · not_yet_recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07227649",
+"c": ""
+},
+{
+"k": "org:university-of-arizona",
+"t": "academic",
+"n": "University of Arizona",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:banner-university-medical-center",
+"t": "hospital",
+"n": "Banner University Medical Center",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:banner-health",
+"t": "hospital",
+"n": "Banner Health",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:nac",
+"t": "drug",
+"n": "NAC",
+"sub": "University of Arizona",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06708416",
+"t": "trial",
+"n": "A Study of ONO-1110 in Patients With Postherpetic Neuralgia",
+"sub": "P2 · completed · 2025-2026",
+"url": "https://clinicaltrials.gov/study/NCT06708416",
+"c": ""
+},
+{
+"k": "org:ono-pharmaceutical",
+"t": "company",
+"n": "Ono Pharmaceutical Co., Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:project-leader",
+"t": "person",
+"n": "Project Leader",
+"sub": "study director · Ono Pharmaceutical Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "org:kamezawa-clinic",
+"t": "hospital",
+"n": "Kamezawa Clinic",
+"sub": "",
+"url": "",
+"c": "Japan"
+},
+{
+"k": "org:kimura-clinic",
+"t": "hospital",
+"n": "Kimura Clinic",
+"sub": "",
+"url": "",
+"c": "Japan"
+},
+{
+"k": "org:fukuoka-tokushukai-hospital",
+"t": "hospital",
+"n": "Fukuoka Tokushukai Hospital",
+"sub": "",
+"url": "",
+"c": "Japan"
+},
+{
+"k": "org:southern-tohoku-general-hospital",
+"t": "hospital",
+"n": "Southern Tohoku General Hospital",
+"sub": "",
+"url": "",
+"c": "Japan"
+},
+{
+"k": "org:central-japan-international-medical-center",
+"t": "hospital",
+"n": "Central Japan International Medical Center",
+"sub": "",
+"url": "",
+"c": "Japan"
+},
+{
+"k": "org:national-hospital-organization-kure-medical-center",
+"t": "hospital",
+"n": "National Hospital Organization Kure Medical Center",
+"sub": "",
+"url": "",
+"c": "Japan"
+},
+{
+"k": "org:national-hospital-organization-hokkaido-medical-center",
+"t": "hospital",
+"n": "National Hospital Organization Hokkaido Medical Center",
+"sub": "",
+"url": "",
+"c": "Japan"
+},
+{
+"k": "org:nishinomiya-municipal-central-hospital",
+"t": "hospital",
+"n": "Nishinomiya Municipal Central Hospital",
+"sub": "",
+"url": "",
+"c": "Japan"
+},
+{
+"k": "org:mito-saiseikai-general-hospital",
+"t": "hospital",
+"n": "Mito Saiseikai General Hospital",
+"sub": "",
+"url": "",
+"c": "Japan"
+},
+{
+"k": "org:kawasaki-municipal-hospital",
+"t": "hospital",
+"n": "Kawasaki Municipal Hospital",
+"sub": "",
+"url": "",
+"c": "Japan"
+},
+{
+"k": "drug:ono-1110",
+"t": "drug",
+"n": "ONO-1110",
+"sub": "Ono Pharmaceutical Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06568042",
+"t": "trial",
+"n": "Effects of LY3848575 Versus Placebo in Participants With Painful Distal Sensory Polyneurop",
+"sub": "P2 · completed · 2024-2026",
+"url": "https://clinicaltrials.gov/study/NCT06568042",
+"c": ""
+},
+{
+"k": "org:md-first-research-chandler",
+"t": "company",
+"n": "MD First Research - Chandler",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:hope-research-institute",
+"t": "academic",
+"n": "HOPE Research Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:alpine-clinical-research-center",
+"t": "hospital",
+"n": "Alpine Clinical Research Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:accel-research-sites-st-pete-largo-clinical-research-unit",
+"t": "hospital",
+"n": "Accel Research Sites - St. Pete-Largo Clinical Research Unit",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:design-neuroscience-center",
+"t": "company",
+"n": "Design Neuroscience Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:conquest-research-orlando",
+"t": "company",
+"n": "Conquest Research - Orlando",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:charter-research-lady-lake",
+"t": "company",
+"n": "Charter Research - Lady Lake",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:encore-medical-research-weston",
+"t": "company",
+"n": "Encore Medical Research - Weston",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:conquest-research",
+"t": "company",
+"n": "Conquest Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:ly3848575",
+"t": "drug",
+"n": "LY3848575",
+"sub": "Eli Lilly and Company",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07693387",
+"t": "trial",
+"n": "Topical Herbal Medicine for Chemotherapy-Induced Peripheral Neuropathy",
+"sub": "P2 · active_not_recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT07693387",
+"c": ""
+},
+{
+"k": "org:taiwan-municipal-an-nan-hospital-china-medical-university",
+"t": "hospital",
+"n": "Taiwan Municipal An-Nan Hospital-China Medical University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:china-medical-university-taiwan",
+"t": "academic",
+"n": "China Medical University, Taiwan",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:an-nan-hospital-china-medical-university",
+"t": "hospital",
+"n": "An Nan Hospital, China Medical University",
+"sub": "",
+"url": "",
+"c": "Taiwan"
+},
+{
+"k": "drug:menthol-based-hand-and-foot-gloves",
+"t": "drug",
+"n": "menthol-based hand and foot gloves",
+"sub": "Taiwan Municipal An-Nan Hospital-China Medical University",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:sham-menthol-based-hand-and-foot-gloves",
+"t": "drug",
+"n": "Sham menthol-based hand and foot gloves",
+"sub": "Taiwan Municipal An-Nan Hospital-China Medical University",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07285018",
+"t": "trial",
+"n": "A Chronic Pain Master Protocol (CPMP): A Study of LY4065967 in Participants With Diabetic ",
+"sub": "P2 · recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07285018",
+"c": ""
+},
+{
+"k": "org:bradenton-research-center",
+"t": "company",
+"n": "Bradenton Research Center, Inc.",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:accel-research-sites-deland-clinical-research-unit",
+"t": "hospital",
+"n": "Accel Research Sites - DeLand Clinical Research Unit",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:k2-medical-research-the-villages",
+"t": "company",
+"n": "K2 MEDICAL Research THE VILLAGES",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:ly4065967",
+"t": "drug",
+"n": "LY4065967",
+"sub": "Eli Lilly and Company",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06490445",
+"t": "trial",
+"n": "A Study of Medical Cannabis Aerosol Via the Fixed-dose Syqe Inhaler as an Add-on Treatment",
+"sub": "P2 · completed · 2024-2026",
+"url": "https://clinicaltrials.gov/study/NCT06490445",
+"c": ""
+},
+{
+"k": "org:syqe-medical",
+"t": "company",
+"n": "Syqe Medical",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:edith-dekel",
+"t": "person",
+"n": "Edith Dekel",
+"sub": "study director · Syqe Medical Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "org:innovate-clinical-research",
+"t": "hospital",
+"n": "Innovate Clinical Research",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "org:western-sydney-university-nicm-health-research-institute-nic",
+"t": "hospital",
+"n": "Western Sydney University NICM Health Research Institute (NICM HRI)",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "org:westmead-hospital",
+"t": "hospital",
+"n": "Westmead Hospital",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "org:emeritus-research",
+"t": "company",
+"n": "Emeritus Research",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "org:the-royal-melbourne-hospital",
+"t": "hospital",
+"n": "The Royal Melbourne Hospital",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "org:rychnov-nad-kneznou-hradec-kralove",
+"t": "company",
+"n": "Rychnov nad Kneznou, Hradec Kralove",
+"sub": "",
+"url": "",
+"c": "Czechia"
+},
+{
+"k": "org:ostrava-ostrava-city",
+"t": "company",
+"n": "Ostrava, Ostrava City",
+"sub": "",
+"url": "",
+"c": "Czechia"
+},
+{
+"k": "org:plzen-plzen-city",
+"t": "company",
+"n": "Plzen, Plzen City",
+"sub": "",
+"url": "",
+"c": "Czechia"
+},
+{
+"k": "org:prague-praha-12",
+"t": "company",
+"n": "Prague, Praha 12",
+"sub": "",
+"url": "",
+"c": "Czechia"
+},
+{
+"k": "org:heidelberg-baden-wuerttemberg",
+"t": "company",
+"n": "Heidelberg, Baden-Wuerttemberg",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
+"k": "drug:medical-cannabis",
+"t": "drug",
+"n": "Medical Cannabis",
+"sub": "Syqe Medical",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07668674",
+"t": "trial",
+"n": "Functional Brain MRI to Understand Pain Phenotypes in Knee Osteoarthritis",
+"sub": "P2 · not_yet_recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07668674",
+"c": ""
+},
+{
+"k": "org:university-hospital-clermont-ferrand",
+"t": "hospital",
+"n": "University Hospital, Clermont-Ferrand",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:sylvain-mathieu",
+"t": "person",
+"n": "Sylvain MATHIEU",
+"sub": "principal investigator · University Hospital, Clermont-Ferrand",
+"url": "",
+"c": ""
+},
+{
+"k": "org:chu-clermont-ferrand",
+"t": "hospital",
+"n": "CHU Clermont-Ferrand",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:aphp-pitie-salpetriere",
+"t": "company",
+"n": "APHP - Pitié-Salpêtrière",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:aphp-saint-antoine",
+"t": "company",
+"n": "APHP - Saint-Antoine",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "drug:blood-sampling",
+"t": "drug",
+"n": "blood sampling",
+"sub": "University Hospital, Clermont-Ferrand",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07497711",
+"t": "trial",
+"n": "Virtual Menstrual Pain Approaches in Females",
+"sub": "P2/P3 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07497711",
+"c": ""
+},
+{
+"k": "org:nanyang-technological-university",
+"t": "academic",
+"n": "Nanyang Technological University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:chengdu-university-of-traditional-chinese-medicine",
+"t": "academic",
+"n": "Chengdu University of Traditional Chinese Medicine",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:ihealth-lab-nanyang-technological-university",
+"t": "hospital",
+"n": "iHealth Lab, Nanyang Technological University",
+"sub": "",
+"url": "",
+"c": "Singapore"
+},
+{
+"k": "trial:nct06628908",
+"t": "trial",
+"n": "Evaluation of Efficacy and Safety of Suzetrigine for Pain Associated With Diabetic Periphe",
+"sub": "P3 · recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06628908",
+"c": ""
+},
+{
+"k": "org:synexus-clinical-research-birmingham",
+"t": "hospital",
+"n": "Synexus Clinical Research - Birmingham",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:synexus-clinical-research-phoenix-central",
+"t": "hospital",
+"n": "Synexus Clinical Research - Phoenix Central",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct05997979",
+"t": "trial",
+"n": "Analgesic Effectiveness of Capsaicin 8% Cutaneous Patch in Children",
+"sub": "P3 · recruiting · 2024-2028",
+"url": "https://clinicaltrials.gov/study/NCT05997979",
+"c": ""
+},
+{
+"k": "org:university-hospital-brest",
+"t": "hospital",
+"n": "University Hospital, Brest",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:chu-of-brest",
+"t": "hospital",
+"n": "CHU of Brest",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:philippe-j-le-moine",
+"t": "person",
+"n": "Philippe J LE MOINE",
+"sub": "principal investigator · CHU of Brest",
+"url": "",
+"c": ""
+},
+{
+"k": "org:chu-d-amiens",
+"t": "hospital",
+"n": "CHU d'Amiens",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chu-d-angers",
+"t": "hospital",
+"n": "CHU d'Angers",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chu-de-bordeaux",
+"t": "hospital",
+"n": "CHU de Bordeaux",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chu-de-brest",
+"t": "hospital",
+"n": "CHU de Brest",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chu-de-nantes",
+"t": "hospital",
+"n": "CHU de Nantes",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chu-de-lyon",
+"t": "hospital",
+"n": "CHU de Lyon",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chu-de-marseille",
+"t": "hospital",
+"n": "CHU de Marseille",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chu-de-montpellier",
+"t": "hospital",
+"n": "CHU de Montpellier",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chu-de-tours",
+"t": "hospital",
+"n": "CHU de Tours",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:institut-gustave-roussy",
+"t": "academic",
+"n": "Institut Gustave Roussy",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "trial:nct05917912",
+"t": "trial",
+"n": "EASE (Efficacy of ATX01 Study in Erythromelalgia)",
+"sub": "P2 · completed · 2023-2024",
+"url": "https://clinicaltrials.gov/study/NCT05917912",
+"c": ""
+},
+{
+"k": "org:algotherapeutix",
+"t": "company",
+"n": "AlgoTherapeutix",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:mayo-clinic",
+"t": "hospital",
+"n": "Mayo Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:universitatsklinikum-erlangen-hautklinik",
+"t": "hospital",
+"n": "Universitätsklinikum Erlangen Hautklinik",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
+"k": "drug:amitriptyline-hydrochloride",
+"t": "drug",
+"n": "Amitriptyline Hydrochloride",
+"sub": "AlgoTherapeutix",
+"url": "",
+"c": ""
+}
+],
+"edges": [
+{
+"a": "asset:acd440",
+"b": "trial:nct04704232",
+"r": "tested_in"
+},
+{
+"a": "asset:acd440",
+"b": "trial:nct05416931",
+"r": "tested_in"
+},
+{
+"a": "drug:2r-6r-hydroxynorketamine",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:2r-6r-hydroxynorketamine",
+"b": "trial:nct05864053",
+"r": "tested_in"
+},
+{
+"a": "drug:3-4-methylenedioxymethamphetamine",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:3-4-methylenedioxymethamphetamine",
+"b": "trial:nct07301632",
+"r": "tested_in"
+},
+{
+"a": "drug:amitriptyline-hydrochloride",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:amitriptyline-hydrochloride",
+"b": "trial:nct05917912",
+"r": "tested_in"
+},
+{
+"a": "drug:blood-sampling",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:blood-sampling",
+"b": "trial:nct07668674",
+"r": "tested_in"
+},
+{
+"a": "drug:capsaicin-0-04-topical-system",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:capsaicin-0-04-topical-system",
+"b": "trial:nct04967664",
+"r": "tested_in"
+},
+{
+"a": "drug:capsaicin-179-mg-cutaneous-patch",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:capsaicin-179-mg-cutaneous-patch",
+"b": "trial:nct06023706",
+"r": "tested_in"
+},
+{
+"a": "drug:capsaicin-8-patch",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:capsaicin-8-patch",
+"b": "trial:nct05997979",
+"r": "tested_in"
+},
+{
+"a": "drug:capsaicin-8-patch",
+"b": "trial:nct06807164",
+"r": "tested_in"
+},
+{
+"a": "drug:capsaicin-low-concentration-patch-capsaicin-0-04-3-2-mg-cm2",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:capsaicin-low-concentration-patch-capsaicin-0-04-3-2-mg-cm2",
+"b": "trial:nct06023706",
+"r": "tested_in"
+},
+{
+"a": "drug:cbd-cbd-a",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:cbd-cbd-a",
+"b": "trial:nct05630235",
+"r": "tested_in"
+},
+{
+"a": "drug:comparator-dorene-tabs",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:comparator-dorene-tabs",
+"b": "trial:nct07712913",
+"r": "tested_in"
+},
+{
+"a": "drug:crisugabalin-besilate-capsules",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:crisugabalin-besilate-capsules",
+"b": "trial:nct07859111",
+"r": "tested_in"
+},
+{
+"a": "drug:crisugabalin-besilate-capsules-simulant",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:crisugabalin-besilate-capsules-simulant",
+"b": "trial:nct07859111",
+"r": "tested_in"
+},
+{
+"a": "drug:dexamethasone-sodium-phosphate-10-mg-ml",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:dexamethasone-sodium-phosphate-10-mg-ml",
+"b": "trial:nct07579351",
+"r": "tested_in"
+},
+{
+"a": "drug:duloxetine",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:duloxetine",
+"b": "trial:nct06614322",
+"r": "tested_in"
+},
+{
+"a": "drug:experimental-pregabalin-xr",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:experimental-pregabalin-xr",
+"b": "trial:nct07712913",
+"r": "tested_in"
+},
+{
+"a": "drug:gabapentin",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:gabapentin",
+"b": "trial:nct02219373",
+"r": "tested_in"
+},
+{
+"a": "drug:halneuron",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:halneuron",
+"b": "trial:nct06848348",
+"r": "tested_in"
+},
+{
+"a": "drug:halneuron-open-label-extension",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:halneuron-open-label-extension",
+"b": "trial:nct06848348",
+"r": "tested_in"
+},
+{
+"a": "drug:hl-1186",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:hl-1186",
+"b": "trial:nct07758920",
+"r": "tested_in"
+},
+{
+"a": "drug:ketamine",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:ketamine",
+"b": "trial:nct05864053",
+"r": "tested_in"
+},
+{
+"a": "drug:lidocaine-20-mg",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:lidocaine-20-mg",
+"b": "trial:nct04650074",
+"r": "tested_in"
+},
+{
+"a": "drug:lidocaine-20-mg-ketamine-20-mg",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:lidocaine-20-mg-ketamine-20-mg",
+"b": "trial:nct04650074",
+"r": "tested_in"
+},
+{
+"a": "drug:lidocaine-20-mg-ketamine-40-mg",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:lidocaine-20-mg-ketamine-40-mg",
+"b": "trial:nct04650074",
+"r": "tested_in"
+},
+{
+"a": "drug:lidocaine-23-tetracaine-7",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:lidocaine-23-tetracaine-7",
+"b": "trial:nct07396129",
+"r": "tested_in"
+},
+{
+"a": "drug:ly3016859-isa",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:ly3016859-isa",
+"b": "trial:nct05986292",
+"r": "tested_in"
+},
+{
+"a": "drug:ly3526318-isa",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:ly3526318-isa",
+"b": "trial:nct05986292",
+"r": "tested_in"
+},
+{
+"a": "drug:ly3556050-isa",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:ly3556050-isa",
+"b": "trial:nct05986292",
+"r": "tested_in"
+},
+{
+"a": "drug:ly3848575",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:ly3848575",
+"b": "trial:nct06568042",
+"r": "tested_in"
+},
+{
+"a": "drug:ly3857210-isa",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:ly3857210-isa",
+"b": "trial:nct05986292",
+"r": "tested_in"
+},
+{
+"a": "drug:ly4065967",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:ly4065967",
+"b": "trial:nct07285018",
+"r": "tested_in"
+},
+{
+"a": "drug:ly4065967-isa",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:ly4065967-isa",
+"b": "trial:nct05986292",
+"r": "tested_in"
+},
+{
+"a": "drug:mazisotine",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:mazisotine",
+"b": "trial:nct06074562",
+"r": "tested_in"
+},
+{
+"a": "drug:medical-cannabis",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:medical-cannabis",
+"b": "trial:nct06490445",
+"r": "tested_in"
+},
+{
+"a": "drug:menthol-based-hand-and-foot-gloves",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:menthol-based-hand-and-foot-gloves",
+"b": "trial:nct07693387",
+"r": "tested_in"
+},
+{
+"a": "drug:methylphenidate",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:methylphenidate",
+"b": "trial:nct07301632",
+"r": "tested_in"
+},
+{
+"a": "drug:nac",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:nac",
+"b": "trial:nct07227649",
+"r": "tested_in"
+},
+{
+"a": "drug:onabotulinum-toxin-a",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:onabotulinum-toxin-a",
+"b": "trial:nct03848143",
+"r": "tested_in"
+},
+{
+"a": "drug:ono-1110",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:ono-1110",
+"b": "trial:nct06708416",
+"r": "tested_in"
+},
+{
+"a": "drug:oxcarbazepine",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:oxcarbazepine",
+"b": "trial:nct02219373",
+"r": "tested_in"
+},
+{
+"a": "drug:oxygen",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:oxygen",
+"b": "trial:nct04299893",
+"r": "tested_in"
+},
+{
+"a": "drug:ozone",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:ozone",
+"b": "trial:nct04299893",
+"r": "tested_in"
+},
+{
+"a": "drug:pregabalin",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:pregabalin",
+"b": "trial:nct06614322",
+"r": "tested_in"
+},
+{
+"a": "drug:pregabalin",
+"b": "trial:nct06628908",
+"r": "tested_in"
+},
+{
+"a": "drug:pregabalin-capsule",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:pregabalin-capsule",
+"b": "trial:nct07758920",
+"r": "tested_in"
+},
+{
+"a": "drug:psilocybin-25-mg",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:psilocybin-25-mg",
+"b": "trial:nct06518720",
+"r": "tested_in"
+},
+{
+"a": "drug:psilocybin-usona-institute",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:psilocybin-usona-institute",
+"b": "trial:nct07251491",
+"r": "tested_in"
+},
+{
+"a": "drug:qutenza-capsaicin-8-topical-system",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:qutenza-capsaicin-8-topical-system",
+"b": "trial:nct04967664",
+"r": "tested_in"
+},
+{
+"a": "drug:saline",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:saline",
+"b": "trial:nct05864053",
+"r": "tested_in"
+},
+{
+"a": "drug:sham-menthol-based-hand-and-foot-gloves",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:sham-menthol-based-hand-and-foot-gloves",
+"b": "trial:nct07693387",
+"r": "tested_in"
+},
+{
+"a": "drug:sp-102",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:sp-102",
+"b": "trial:nct07579351",
+"r": "tested_in"
+},
+{
+"a": "drug:suzetrigine",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:suzetrigine",
+"b": "trial:nct06628908",
+"r": "tested_in"
+},
+{
+"a": "drug:suzetrigine",
+"b": "trial:nct06696443",
+"r": "tested_in"
+},
+{
+"a": "drug:suzetrigine",
+"b": "trial:nct07231419",
+"r": "tested_in"
+},
+{
+"a": "drug:trimetazidine-dihydrochloride-tablets",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:trimetazidine-dihydrochloride-tablets",
+"b": "trial:nct07794475",
+"r": "tested_in"
+},
+{
+"a": "drug:urcosimod-ophthalmic-solution-is-a-preservative-free-topical",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:urcosimod-ophthalmic-solution-is-a-preservative-free-topical",
+"b": "trial:nct07838506",
+"r": "tested_in"
+},
+{
+"a": "drug:venglustat-gz402671",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:venglustat-gz402671",
+"b": "trial:nct05206773",
+"r": "tested_in"
+},
+{
+"a": "drug:vmd-3866-gel",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:vmd-3866-gel",
+"b": "trial:nct07072468",
+"r": "tested_in"
+},
+{
+"a": "drug:yj001-spray",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:yj001-spray",
+"b": "trial:nct07859111",
+"r": "tested_in"
+},
+{
+"a": "drug:yj001-spray-240-mg-day",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:yj001-spray-240-mg-day",
+"b": "trial:nct07858344",
+"r": "tested_in"
+},
+{
+"a": "drug:yj001-spray-480-mg-day",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:yj001-spray-480-mg-day",
+"b": "trial:nct07858344",
+"r": "tested_in"
+},
+{
+"a": "drug:yj001-spray-960-mg-day",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:yj001-spray-960-mg-day",
+"b": "trial:nct07858344",
+"r": "tested_in"
+},
+{
+"a": "drug:yj001-spray-simulant",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:yj001-spray-simulant",
+"b": "trial:nct07859111",
+"r": "tested_in"
+},
+{
+"a": "drug:yj001-spray-simulator",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:yj001-spray-simulator",
+"b": "trial:nct07858344",
+"r": "tested_in"
+},
+{
+"a": "org:abbvie",
+"b": "trial:nct03848143",
+"r": "collaborates"
+},
+{
+"a": "org:accel-research-birmingham",
+"b": "trial:nct07231419",
+"r": "site_of"
+},
+{
+"a": "org:accel-research-sites-deland-clinical-research-unit",
+"b": "trial:nct07285018",
+"r": "site_of"
+},
+{
+"a": "org:accel-research-sites-st-pete-largo-clinical-research-unit",
+"b": "trial:nct06568042",
+"r": "site_of"
+},
+{
+"a": "org:adventhealth-orlando-site-number-8400008",
+"b": "trial:nct05206773",
+"r": "site_of"
+},
+{
+"a": "org:akademiska-sjukhuset",
+"b": "trial:nct05416931",
+"r": "site_of"
+},
+{
+"a": "org:algotherapeutix",
+"b": "drug:amitriptyline-hydrochloride",
+"r": "develops"
+},
+{
+"a": "org:algotherapeutix",
+"b": "trial:nct05917912",
+"r": "sponsors"
+},
+{
+"a": "org:alliance-for-multispecialty-research",
+"b": "trial:nct05986292",
+"r": "site_of"
+},
+{
+"a": "org:alpine-clinical-research-center",
+"b": "trial:nct06568042",
+"r": "site_of"
+},
+{
+"a": "org:alzecure-pharma",
+"b": "trial:nct04704232",
+"r": "sponsors"
+},
+{
+"a": "org:alzecure-pharma",
+"b": "trial:nct05416931",
+"r": "sponsors"
+},
+{
+"a": "org:alzecure-pharma-investigational-site",
+"b": "trial:nct04704232",
+"r": "site_of"
+},
+{
+"a": "org:amr-daphne-al",
+"b": "trial:nct06628908",
+"r": "site_of"
+},
+{
+"a": "org:amr-daphne-al",
+"b": "trial:nct06696443",
+"r": "site_of"
+},
+{
+"a": "org:amr-mobile",
+"b": "trial:nct07231419",
+"r": "site_of"
+},
+{
+"a": "org:an-nan-hospital-china-medical-university",
+"b": "trial:nct07693387",
+"r": "site_of"
+},
+{
+"a": "org:angel-city-research",
+"b": "trial:nct06628908",
+"r": "site_of"
+},
+{
+"a": "org:angel-city-research",
+"b": "trial:nct06696443",
+"r": "site_of"
+},
+{
+"a": "org:apec-sociedade-potiguar-de-educacao-e-cultura",
+"b": "trial:nct07712913",
+"r": "site_of"
+},
+{
+"a": "org:aphp-pitie-salpetriere",
+"b": "trial:nct07668674",
+"r": "site_of"
+},
+{
+"a": "org:aphp-saint-antoine",
+"b": "trial:nct07668674",
+"r": "site_of"
+},
+{
+"a": "org:arizona-research-center",
+"b": "trial:nct05986292",
+"r": "site_of"
+},
+{
+"a": "org:arizona-research-center",
+"b": "trial:nct07285018",
+"r": "site_of"
+},
+{
+"a": "org:artemis-institute-for-clinical-research",
+"b": "trial:nct05986292",
+"r": "site_of"
+},
+{
+"a": "org:artemis-institute-for-clinical-research",
+"b": "trial:nct07285018",
+"r": "site_of"
+},
+{
+"a": "org:associacao-aracajuana-hospital-santa-isabel",
+"b": "trial:nct07712913",
+"r": "site_of"
+},
+{
+"a": "org:averitas-pharma",
+"b": "drug:capsaicin-0-04-topical-system",
+"r": "develops"
+},
+{
+"a": "org:averitas-pharma",
+"b": "drug:qutenza-capsaicin-8-topical-system",
+"r": "develops"
+},
+{
+"a": "org:averitas-pharma",
+"b": "trial:nct04967664",
+"r": "sponsors"
+},
+{
+"a": "org:banner-health",
+"b": "trial:nct07227649",
+"r": "site_of"
+},
+{
+"a": "org:banner-university-medical-center",
+"b": "trial:nct07227649",
+"r": "collaborates"
+},
+{
+"a": "org:bernardino-clavo-md-phd",
+"b": "drug:oxygen",
+"r": "develops"
+},
+{
+"a": "org:bernardino-clavo-md-phd",
+"b": "drug:ozone",
+"r": "develops"
+},
+{
+"a": "org:bernardino-clavo-md-phd",
+"b": "trial:nct04299893",
+"r": "sponsors"
+},
+{
+"a": "org:beth-israel-deaconess-medical-center",
+"b": "trial:nct06614322",
+"r": "collaborates"
+},
+{
+"a": "org:beth-israel-deaconess-medical-center-for-autonomic-and-perip",
+"b": "trial:nct06614322",
+"r": "site_of"
+},
+{
+"a": "org:boston-children-s-hospital",
+"b": "drug:gabapentin",
+"r": "develops"
+},
+{
+"a": "org:boston-children-s-hospital",
+"b": "drug:oxcarbazepine",
+"r": "develops"
+},
+{
+"a": "org:boston-children-s-hospital",
+"b": "trial:nct02219373",
+"r": "site_of"
+},
+{
+"a": "org:boston-children-s-hospital",
+"b": "trial:nct02219373",
+"r": "sponsors"
+},
+{
+"a": "org:bradenton-research-center",
+"b": "trial:nct07285018",
+"r": "site_of"
+},
+{
+"a": "org:brainfarma-industria-quimica-e-farmaceutica-s-a",
+"b": "drug:comparator-dorene-tabs",
+"r": "develops"
+},
+{
+"a": "org:brainfarma-industria-quimica-e-farmaceutica-s-a",
+"b": "drug:experimental-pregabalin-xr",
+"r": "develops"
+},
+{
+"a": "org:brainfarma-industria-quimica-e-farmaceutica-s-a",
+"b": "trial:nct07712913",
+"r": "sponsors"
+},
+{
+"a": "org:brest-university-hospital",
+"b": "trial:nct06023706",
+"r": "site_of"
+},
+{
+"a": "org:bronx-veterans-medical-research-foundation",
+"b": "trial:nct07251491",
+"r": "collaborates"
+},
+{
+"a": "org:central-japan-international-medical-center",
+"b": "trial:nct06708416",
+"r": "site_of"
+},
+{
+"a": "org:central-recruiting-site",
+"b": "trial:nct06848348",
+"r": "site_of"
+},
+{
+"a": "org:central-research-associates",
+"b": "trial:nct05986292",
+"r": "site_of"
+},
+{
+"a": "org:central-research-associates",
+"b": "trial:nct07231419",
+"r": "site_of"
+},
+{
+"a": "org:central-research-associates",
+"b": "trial:nct07285018",
+"r": "site_of"
+},
+{
+"a": "org:centre-for-addiction-and-mental-health",
+"b": "drug:psilocybin-25-mg",
+"r": "develops"
+},
+{
+"a": "org:centre-for-addiction-and-mental-health",
+"b": "trial:nct06518720",
+"r": "site_of"
+},
+{
+"a": "org:centre-for-addiction-and-mental-health",
+"b": "trial:nct06518720",
+"r": "sponsors"
+},
+{
+"a": "org:centre-oscar-lambret",
+"b": "drug:capsaicin-8-patch",
+"r": "develops"
+},
+{
+"a": "org:centre-oscar-lambret",
+"b": "trial:nct06807164",
+"r": "site_of"
+},
+{
+"a": "org:centre-oscar-lambret",
+"b": "trial:nct06807164",
+"r": "sponsors"
+},
+{
+"a": "org:centro-de-ensino-superior-de-vespasiano",
+"b": "trial:nct07712913",
+"r": "site_of"
+},
+{
+"a": "org:charter-research-lady-lake",
+"b": "trial:nct06568042",
+"r": "site_of"
+},
+{
+"a": "org:chengdu-university-of-traditional-chinese-medicine",
+"b": "trial:nct07497711",
+"r": "collaborates"
+},
+{
+"a": "org:china-medical-university-taiwan",
+"b": "trial:nct07693387",
+"r": "collaborates"
+},
+{
+"a": "org:chu-clermont-ferrand",
+"b": "trial:nct07668674",
+"r": "site_of"
+},
+{
+"a": "org:chu-d-amiens",
+"b": "trial:nct05997979",
+"r": "site_of"
+},
+{
+"a": "org:chu-d-angers",
+"b": "trial:nct05997979",
+"r": "site_of"
+},
+{
+"a": "org:chu-de-bordeaux",
+"b": "trial:nct05997979",
+"r": "site_of"
+},
+{
+"a": "org:chu-de-brest",
+"b": "trial:nct05997979",
+"r": "site_of"
+},
+{
+"a": "org:chu-de-lyon",
+"b": "trial:nct05997979",
+"r": "site_of"
+},
+{
+"a": "org:chu-de-marseille",
+"b": "trial:nct05997979",
+"r": "site_of"
+},
+{
+"a": "org:chu-de-montpellier",
+"b": "trial:nct05997979",
+"r": "site_of"
+},
+{
+"a": "org:chu-de-nantes",
+"b": "trial:nct05997979",
+"r": "site_of"
+},
+{
+"a": "org:chu-de-tours",
+"b": "trial:nct05997979",
+"r": "site_of"
+},
+{
+"a": "org:cincinnati-children-s-hospital-medical-center-site-number-84",
+"b": "trial:nct05206773",
+"r": "site_of"
+},
+{
+"a": "org:clinica-neurologica-e-neurocirurgica-de-joinville",
+"b": "trial:nct07712913",
+"r": "site_of"
+},
+{
+"a": "org:clinical-research-of-west-florida",
+"b": "trial:nct04967664",
+"r": "site_of"
+},
+{
+"a": "org:clinical-trials-research",
+"b": "trial:nct06628908",
+"r": "site_of"
+},
+{
+"a": "org:clinical-trials-research",
+"b": "trial:nct06696443",
+"r": "site_of"
+},
+{
+"a": "org:cmr-of-greater-new-haven",
+"b": "trial:nct06074562",
+"r": "site_of"
+},
+{
+"a": "org:cmr-of-greater-new-haven",
+"b": "trial:nct07285018",
+"r": "site_of"
+},
+{
+"a": "org:complejo-hospitalario-materno-insular",
+"b": "trial:nct04299893",
+"r": "site_of"
+},
+{
+"a": "org:confluent-private-hospital-centre",
+"b": "trial:nct06023706",
+"r": "site_of"
+},
+{
+"a": "org:congressionally-directed-medical-research-programs",
+"b": "trial:nct05864053",
+"r": "collaborates"
+},
+{
+"a": "org:conquest-research",
+"b": "trial:nct06568042",
+"r": "site_of"
+},
+{
+"a": "org:conquest-research-orlando",
+"b": "trial:nct06568042",
+"r": "site_of"
+},
+{
+"a": "org:consortium-for-medical-marijuana-clinical-outcomes-research",
+"b": "trial:nct05630235",
+"r": "collaborates"
+},
+{
+"a": "org:council-of-gran-canaria",
+"b": "trial:nct04299893",
+"r": "collaborates"
+},
+{
+"a": "org:cpec-obras-sociais-irma-dulce",
+"b": "trial:nct07712913",
+"r": "site_of"
+},
+{
+"a": "org:cromos-pharma",
+"b": "trial:nct07579351",
+"r": "collaborates"
+},
+{
+"a": "org:ctd-cno-caen",
+"b": "trial:nct06807164",
+"r": "collaborates"
+},
+{
+"a": "org:david-geffen-school-of-medicine-at-ucla-site-number-8400006",
+"b": "trial:nct05206773",
+"r": "site_of"
+},
+{
+"a": "org:department-of-orthopedic-surgery-and-trauma-emergencies-of-t",
+"b": "trial:nct04650074",
+"r": "site_of"
+},
+{
+"a": "org:desert-oasis-healthcare-medical-group",
+"b": "trial:nct05986292",
+"r": "site_of"
+},
+{
+"a": "org:desert-oasis-healthcare-medical-group",
+"b": "trial:nct07285018",
+"r": "site_of"
+},
+{
+"a": "org:design-neuroscience-center",
+"b": "trial:nct06568042",
+"r": "site_of"
+},
+{
+"a": "org:dogwood-therapeutics",
+"b": "drug:halneuron",
+"r": "develops"
+},
+{
+"a": "org:dogwood-therapeutics",
+"b": "drug:halneuron-open-label-extension",
+"r": "develops"
+},
+{
+"a": "org:dogwood-therapeutics",
+"b": "trial:nct06848348",
+"r": "sponsors"
+},
+{
+"a": "org:drug-studies-america",
+"b": "trial:nct04967664",
+"r": "site_of"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "drug:ly3016859-isa",
+"r": "develops"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "drug:ly3526318-isa",
+"r": "develops"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "drug:ly3556050-isa",
+"r": "develops"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "drug:ly3848575",
+"r": "develops"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "drug:ly3857210-isa",
+"r": "develops"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "drug:ly4065967",
+"r": "develops"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "drug:ly4065967-isa",
+"r": "develops"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "drug:mazisotine",
+"r": "develops"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "trial:nct05986292",
+"r": "sponsors"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "trial:nct06074562",
+"r": "sponsors"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "trial:nct06568042",
+"r": "sponsors"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "trial:nct07285018",
+"r": "sponsors"
+},
+{
+"a": "org:emeritus-research",
+"b": "trial:nct06490445",
+"r": "site_of"
+},
+{
+"a": "org:emory-university-school-of-medicine-atlanta-site-number-8400",
+"b": "trial:nct05206773",
+"r": "site_of"
+},
+{
+"a": "org:empire-clinical-research",
+"b": "trial:nct06628908",
+"r": "site_of"
+},
+{
+"a": "org:empire-clinical-research",
+"b": "trial:nct06696443",
+"r": "site_of"
+},
+{
+"a": "org:encore-medical-research-weston",
+"b": "trial:nct06568042",
+"r": "site_of"
+},
+{
+"a": "org:eximia-research-ca",
+"b": "trial:nct07231419",
+"r": "site_of"
+},
+{
+"a": "org:florida-research-center",
+"b": "trial:nct04967664",
+"r": "site_of"
+},
+{
+"a": "org:fukuoka-tokushukai-hospital",
+"b": "trial:nct06708416",
+"r": "site_of"
+},
+{
+"a": "org:fundacao-de-beneficencia-hospital-de-cirurgia",
+"b": "trial:nct07712913",
+"r": "site_of"
+},
+{
+"a": "org:fundacion-disa-spain",
+"b": "trial:nct04299893",
+"r": "collaborates"
+},
+{
+"a": "org:fundacion-espanola-del-dolor-fed",
+"b": "trial:nct04299893",
+"r": "collaborates"
+},
+{
+"a": "org:gh-paris-saint-joseph",
+"b": "trial:nct06023706",
+"r": "site_of"
+},
+{
+"a": "org:hammersmith-medicines-research-24-503-tel-0800-783-8792-recr",
+"b": "trial:nct07072468",
+"r": "site_of"
+},
+{
+"a": "org:headlands-research-scottsdale",
+"b": "trial:nct06074562",
+"r": "site_of"
+},
+{
+"a": "org:heidelberg-baden-wuerttemberg",
+"b": "trial:nct06490445",
+"r": "site_of"
+},
+{
+"a": "org:hope-clinical-research",
+"b": "trial:nct06074562",
+"r": "site_of"
+},
+{
+"a": "org:hope-clinical-research",
+"b": "trial:nct07231419",
+"r": "site_of"
+},
+{
+"a": "org:hope-research-institute",
+"b": "trial:nct06568042",
+"r": "site_of"
+},
+{
+"a": "org:hospices-civils-de-lyon",
+"b": "drug:lidocaine-20-mg",
+"r": "develops"
+},
+{
+"a": "org:hospices-civils-de-lyon",
+"b": "drug:lidocaine-20-mg-ketamine-20-mg",
+"r": "develops"
+},
+{
+"a": "org:hospices-civils-de-lyon",
+"b": "drug:lidocaine-20-mg-ketamine-40-mg",
+"r": "develops"
+},
+{
+"a": "org:hospices-civils-de-lyon",
+"b": "trial:nct04650074",
+"r": "sponsors"
+},
+{
+"a": "org:hospital-universitario-de-gran-canaria-dr-negrin",
+"b": "trial:nct04299893",
+"r": "site_of"
+},
+{
+"a": "org:ichan-school-of-medicine-at-mount-sinai",
+"b": "trial:nct06614322",
+"r": "site_of"
+},
+{
+"a": "org:ihealth-lab-nanyang-technological-university",
+"b": "trial:nct07497711",
+"r": "site_of"
+},
+{
+"a": "org:ild-research-center",
+"b": "trial:nct04967664",
+"r": "site_of"
+},
+{
+"a": "org:innovate-clinical-research",
+"b": "trial:nct06490445",
+"r": "site_of"
+},
+{
+"a": "org:institut-gustave-roussy",
+"b": "trial:nct05997979",
+"r": "site_of"
+},
+{
+"a": "org:instituto-anima-de-extensao-universitaria-unibh",
+"b": "trial:nct07712913",
+"r": "site_of"
+},
+{
+"a": "org:instituto-anima-de-extensao-universitaria-unisul",
+"b": "trial:nct07712913",
+"r": "site_of"
+},
+{
+"a": "org:instituto-de-salud-carlos-iii",
+"b": "trial:nct04299893",
+"r": "collaborates"
+},
+{
+"a": "org:instituto-estadual-do-cerebro-paulo-niemeyer",
+"b": "trial:nct07712913",
+"r": "site_of"
+},
+{
+"a": "org:international-spine-pain-and-performance-center",
+"b": "trial:nct04967664",
+"r": "site_of"
+},
+{
+"a": "org:irvine-clinical-research",
+"b": "trial:nct05986292",
+"r": "site_of"
+},
+{
+"a": "org:isabel-moreno-hay",
+"b": "drug:onabotulinum-toxin-a",
+"r": "develops"
+},
+{
+"a": "org:isabel-moreno-hay",
+"b": "trial:nct03848143",
+"r": "sponsors"
+},
+{
+"a": "org:james-j-peters-department-of-veterans-affairs-medical-center",
+"b": "trial:nct07251491",
+"r": "site_of"
+},
+{
+"a": "org:james-j-peters-veterans-affairs-medical-center",
+"b": "drug:psilocybin-usona-institute",
+"r": "develops"
+},
+{
+"a": "org:james-j-peters-veterans-affairs-medical-center",
+"b": "trial:nct07251491",
+"r": "sponsors"
+},
+{
+"a": "org:k2-medical-research-the-villages",
+"b": "trial:nct07285018",
+"r": "site_of"
+},
+{
+"a": "org:kamezawa-clinic",
+"b": "trial:nct06708416",
+"r": "site_of"
+},
+{
+"a": "org:kawasaki-municipal-hospital",
+"b": "trial:nct06708416",
+"r": "site_of"
+},
+{
+"a": "org:kimura-clinic",
+"b": "trial:nct06708416",
+"r": "site_of"
+},
+{
+"a": "org:ligue-contre-le-cancer-france",
+"b": "trial:nct06807164",
+"r": "collaborates"
+},
+{
+"a": "org:long-beach-research-institute",
+"b": "trial:nct06628908",
+"r": "site_of"
+},
+{
+"a": "org:long-beach-research-institute",
+"b": "trial:nct06696443",
+"r": "site_of"
+},
+{
+"a": "org:long-beach-research-institute",
+"b": "trial:nct07231419",
+"r": "site_of"
+},
+{
+"a": "org:lynn-institute-of-the-ozarks",
+"b": "trial:nct07231419",
+"r": "site_of"
+},
+{
+"a": "org:lynn-rehabilitation-center",
+"b": "trial:nct05630235",
+"r": "site_of"
+},
+{
+"a": "org:marvel-clinical-research",
+"b": "trial:nct07231419",
+"r": "site_of"
+},
+{
+"a": "org:mayo-clinic",
+"b": "trial:nct05917912",
+"r": "site_of"
+},
+{
+"a": "org:md-first-research-chandler",
+"b": "trial:nct06568042",
+"r": "site_of"
+},
+{
+"a": "org:medical-institution",
+"b": "trial:nct07859111",
+"r": "site_of"
+},
+{
+"a": "org:mito-saiseikai-general-hospital",
+"b": "trial:nct06708416",
+"r": "site_of"
+},
+{
+"a": "org:nantes-university-hospital",
+"b": "drug:capsaicin-179-mg-cutaneous-patch",
+"r": "develops"
+},
+{
+"a": "org:nantes-university-hospital",
+"b": "drug:capsaicin-low-concentration-patch-capsaicin-0-04-3-2-mg-cm2",
+"r": "develops"
+},
+{
+"a": "org:nantes-university-hospital",
+"b": "trial:nct06023706",
+"r": "site_of"
+},
+{
+"a": "org:nantes-university-hospital",
+"b": "trial:nct06023706",
+"r": "sponsors"
+},
+{
+"a": "org:nanyang-technological-university",
+"b": "trial:nct07497711",
+"r": "sponsors"
+},
+{
+"a": "org:national-hospital-organization-hokkaido-medical-center",
+"b": "trial:nct06708416",
+"r": "site_of"
+},
+{
+"a": "org:national-hospital-organization-kure-medical-center",
+"b": "trial:nct06708416",
+"r": "site_of"
+},
+{
+"a": "org:national-institute-of-diabetes",
+"b": "trial:nct07794475",
+"r": "site_of"
+},
+{
+"a": "org:national-institute-of-neurological-disorders-and-stroke-nind",
+"b": "trial:nct06741579",
+"r": "collaborates"
+},
+{
+"a": "org:national-institutes-of-health-nih",
+"b": "trial:nct06741579",
+"r": "collaborates"
+},
+{
+"a": "org:neuro-pain-medical-center",
+"b": "trial:nct06568042",
+"r": "site_of"
+},
+{
+"a": "org:neuro-pain-medical-center",
+"b": "trial:nct06628908",
+"r": "site_of"
+},
+{
+"a": "org:neuro-pain-medical-center",
+"b": "trial:nct06696443",
+"r": "site_of"
+},
+{
+"a": "org:neuroscience-research-center",
+"b": "trial:nct04967664",
+"r": "site_of"
+},
+{
+"a": "org:new-horizon-research-center",
+"b": "trial:nct06074562",
+"r": "site_of"
+},
+{
+"a": "org:newdata-clinical-research",
+"b": "trial:nct07712913",
+"r": "site_of"
+},
+{
+"a": "org:nishinomiya-municipal-central-hospital",
+"b": "trial:nct06708416",
+"r": "site_of"
+},
+{
+"a": "org:northern-california-research-sacramento",
+"b": "trial:nct06074562",
+"r": "site_of"
+},
+{
+"a": "org:okyo-pharma",
+"b": "drug:urcosimod-ophthalmic-solution-is-a-preservative-free-topical",
+"r": "develops"
+},
+{
+"a": "org:okyo-pharma",
+"b": "trial:nct07838506",
+"r": "sponsors"
+},
+{
+"a": "org:ono-pharmaceutical",
+"b": "drug:ono-1110",
+"r": "develops"
+},
+{
+"a": "org:ono-pharmaceutical",
+"b": "trial:nct06708416",
+"r": "sponsors"
+},
+{
+"a": "org:orange-grove-family-practice",
+"b": "trial:nct06074562",
+"r": "site_of"
+},
+{
+"a": "org:orofacial-pain-center",
+"b": "trial:nct03848143",
+"r": "site_of"
+},
+{
+"a": "org:ostrava-ostrava-city",
+"b": "trial:nct06490445",
+"r": "site_of"
+},
+{
+"a": "org:peking-university-first-hospital",
+"b": "trial:nct07758920",
+"r": "site_of"
+},
+{
+"a": "org:peking-university-third-hospital",
+"b": "trial:nct07858344",
+"r": "site_of"
+},
+{
+"a": "org:pinnacle-research-group",
+"b": "trial:nct06628908",
+"r": "site_of"
+},
+{
+"a": "org:pinnacle-research-group",
+"b": "trial:nct06696443",
+"r": "site_of"
+},
+{
+"a": "org:plzen-plzen-city",
+"b": "trial:nct06490445",
+"r": "site_of"
+},
+{
+"a": "org:pontificia-universidad-catolica-de-chile",
+"b": "drug:lidocaine-23-tetracaine-7",
+"r": "develops"
+},
+{
+"a": "org:pontificia-universidad-catolica-de-chile",
+"b": "trial:nct07396129",
+"r": "sponsors"
+},
+{
+"a": "org:prague-praha-12",
+"b": "trial:nct06490445",
+"r": "site_of"
+},
+{
+"a": "org:preferred-research-partners",
+"b": "trial:nct06074562",
+"r": "site_of"
+},
+{
+"a": "org:red-de-investigacion-en-servicios-de-salud-en-enfermedades-c",
+"b": "trial:nct04299893",
+"r": "collaborates"
+},
+{
+"a": "org:renal-disease-research-institute-dallas-live-oak-street-site",
+"b": "trial:nct05206773",
+"r": "site_of"
+},
+{
+"a": "org:rouen-university-hospital",
+"b": "trial:nct06023706",
+"r": "site_of"
+},
+{
+"a": "org:rush-university-medical-center",
+"b": "drug:2r-6r-hydroxynorketamine",
+"r": "develops"
+},
+{
+"a": "org:rush-university-medical-center",
+"b": "drug:ketamine",
+"r": "develops"
+},
+{
+"a": "org:rush-university-medical-center",
+"b": "drug:saline",
+"r": "develops"
+},
+{
+"a": "org:rush-university-medical-center",
+"b": "trial:nct04967664",
+"r": "site_of"
+},
+{
+"a": "org:rush-university-medical-center",
+"b": "trial:nct05864053",
+"r": "site_of"
+},
+{
+"a": "org:rush-university-medical-center",
+"b": "trial:nct05864053",
+"r": "sponsors"
+},
+{
+"a": "org:rychnov-nad-kneznou-hradec-kralove",
+"b": "trial:nct06490445",
+"r": "site_of"
+},
+{
+"a": "org:sanofi",
+"b": "drug:venglustat-gz402671",
+"r": "develops"
+},
+{
+"a": "org:sanofi",
+"b": "trial:nct05206773",
+"r": "sponsors"
+},
+{
+"a": "org:santelys-association",
+"b": "trial:nct06807164",
+"r": "collaborates"
+},
+{
+"a": "org:sara-refaat-azab-metry",
+"b": "drug:trimetazidine-dihydrochloride-tablets",
+"r": "develops"
+},
+{
+"a": "org:sara-refaat-azab-metry",
+"b": "trial:nct07794475",
+"r": "sponsors"
+},
+{
+"a": "org:scla-management-pain-management-and-injury-relief",
+"b": "trial:nct06696443",
+"r": "site_of"
+},
+{
+"a": "org:scottsdale-clinical-trials",
+"b": "trial:nct06628908",
+"r": "site_of"
+},
+{
+"a": "org:scottsdale-clinical-trials",
+"b": "trial:nct06696443",
+"r": "site_of"
+},
+{
+"a": "org:scottsdale-clinical-trials",
+"b": "trial:nct07231419",
+"r": "site_of"
+},
+{
+"a": "org:semnur-pharmaceuticals",
+"b": "drug:dexamethasone-sodium-phosphate-10-mg-ml",
+"r": "develops"
+},
+{
+"a": "org:semnur-pharmaceuticals",
+"b": "drug:sp-102",
+"r": "develops"
+},
+{
+"a": "org:semnur-pharmaceuticals",
+"b": "trial:nct07579351",
+"r": "sponsors"
+},
+{
+"a": "org:servicio-canario-de-salud",
+"b": "trial:nct04299893",
+"r": "collaborates"
+},
+{
+"a": "org:shanghai-yidian-pharmaceutical-technology-development",
+"b": "drug:hl-1186",
+"r": "develops"
+},
+{
+"a": "org:shanghai-yidian-pharmaceutical-technology-development",
+"b": "drug:pregabalin-capsule",
+"r": "develops"
+},
+{
+"a": "org:shanghai-yidian-pharmaceutical-technology-development",
+"b": "trial:nct07758920",
+"r": "sponsors"
+},
+{
+"a": "org:simon-williamson-clinic",
+"b": "trial:nct05986292",
+"r": "site_of"
+},
+{
+"a": "org:south-lake-pain-institute",
+"b": "trial:nct04967664",
+"r": "site_of"
+},
+{
+"a": "org:southern-tohoku-general-hospital",
+"b": "trial:nct06708416",
+"r": "site_of"
+},
+{
+"a": "org:st-michael-s-hospital",
+"b": "trial:nct07301632",
+"r": "site_of"
+},
+{
+"a": "org:stanford-university",
+"b": "trial:nct06741579",
+"r": "site_of"
+},
+{
+"a": "org:stanford-university",
+"b": "trial:nct06741579",
+"r": "sponsors"
+},
+{
+"a": "org:sun-city-clinical-research",
+"b": "trial:nct07231419",
+"r": "site_of"
+},
+{
+"a": "org:suncoast-research-group",
+"b": "trial:nct06074562",
+"r": "site_of"
+},
+{
+"a": "org:synexus-clinical-research-birmingham",
+"b": "trial:nct06628908",
+"r": "site_of"
+},
+{
+"a": "org:synexus-clinical-research-glendale",
+"b": "trial:nct05986292",
+"r": "site_of"
+},
+{
+"a": "org:synexus-clinical-research-phoenix-central",
+"b": "trial:nct06628908",
+"r": "site_of"
+},
+{
+"a": "org:synexus-clinical-research-us",
+"b": "trial:nct05986292",
+"r": "site_of"
+},
+{
+"a": "org:synexus-clinical-research-us",
+"b": "trial:nct07285018",
+"r": "site_of"
+},
+{
+"a": "org:syngene",
+"b": "trial:nct07579351",
+"r": "collaborates"
+},
+{
+"a": "org:syqe-medical",
+"b": "drug:medical-cannabis",
+"r": "develops"
+},
+{
+"a": "org:syqe-medical",
+"b": "trial:nct06490445",
+"r": "sponsors"
+},
+{
+"a": "org:taiwan-municipal-an-nan-hospital-china-medical-university",
+"b": "drug:menthol-based-hand-and-foot-gloves",
+"r": "develops"
+},
+{
+"a": "org:taiwan-municipal-an-nan-hospital-china-medical-university",
+"b": "drug:sham-menthol-based-hand-and-foot-gloves",
+"r": "develops"
+},
+{
+"a": "org:taiwan-municipal-an-nan-hospital-china-medical-university",
+"b": "trial:nct07693387",
+"r": "sponsors"
+},
+{
+"a": "org:tanta-university",
+"b": "trial:nct07644520",
+"r": "sponsors"
+},
+{
+"a": "org:the-institute-for-liver-health-ii-dba-arizona-clinical-trial",
+"b": "trial:nct06074562",
+"r": "site_of"
+},
+{
+"a": "org:the-royal-melbourne-hospital",
+"b": "trial:nct06490445",
+"r": "site_of"
+},
+{
+"a": "org:the-university-of-kansas-medical-center",
+"b": "trial:nct06741579",
+"r": "site_of"
+},
+{
+"a": "org:toyos-eye-clinic",
+"b": "trial:nct07838506",
+"r": "site_of"
+},
+{
+"a": "org:tucson-orthopaedic-institute",
+"b": "trial:nct04967664",
+"r": "site_of"
+},
+{
+"a": "org:united-states-department-of-defense",
+"b": "trial:nct07251491",
+"r": "collaborates"
+},
+{
+"a": "org:unity-health-toronto",
+"b": "drug:3-4-methylenedioxymethamphetamine",
+"r": "develops"
+},
+{
+"a": "org:unity-health-toronto",
+"b": "drug:methylphenidate",
+"r": "develops"
+},
+{
+"a": "org:unity-health-toronto",
+"b": "trial:nct07301632",
+"r": "sponsors"
+},
+{
+"a": "org:universitatsklinikum-erlangen-hautklinik",
+"b": "trial:nct05917912",
+"r": "site_of"
+},
+{
+"a": "org:university-clinical-research-deland-clinical-research-unit",
+"b": "trial:nct04967664",
+"r": "site_of"
+},
+{
+"a": "org:university-hospital-brest",
+"b": "drug:capsaicin-8-patch",
+"r": "develops"
+},
+{
+"a": "org:university-hospital-brest",
+"b": "trial:nct05997979",
+"r": "sponsors"
+},
+{
+"a": "org:university-hospital-clermont-ferrand",
+"b": "drug:blood-sampling",
+"r": "develops"
+},
+{
+"a": "org:university-hospital-clermont-ferrand",
+"b": "trial:nct07668674",
+"r": "sponsors"
+},
+{
+"a": "org:university-of-alabama-the-kirklin-clinic-site-number-8400011",
+"b": "trial:nct05206773",
+"r": "site_of"
+},
+{
+"a": "org:university-of-arizona",
+"b": "drug:nac",
+"r": "develops"
+},
+{
+"a": "org:university-of-arizona",
+"b": "trial:nct07227649",
+"r": "sponsors"
+},
+{
+"a": "org:university-of-california-irvine-medical-center-site-number-8",
+"b": "trial:nct05206773",
+"r": "site_of"
+},
+{
+"a": "org:university-of-kansas-medical-center",
+"b": "trial:nct06741579",
+"r": "collaborates"
+},
+{
+"a": "org:university-of-miami",
+"b": "drug:cbd-cbd-a",
+"r": "develops"
+},
+{
+"a": "org:university-of-miami",
+"b": "trial:nct05630235",
+"r": "sponsors"
+},
+{
+"a": "org:university-of-pittsburgh",
+"b": "trial:nct06614322",
+"r": "site_of"
+},
+{
+"a": "org:university-of-rochester",
+"b": "drug:duloxetine",
+"r": "develops"
+},
+{
+"a": "org:university-of-rochester",
+"b": "drug:pregabalin",
+"r": "develops"
+},
+{
+"a": "org:university-of-rochester",
+"b": "trial:nct06614322",
+"r": "site_of"
+},
+{
+"a": "org:university-of-rochester",
+"b": "trial:nct06614322",
+"r": "sponsors"
+},
+{
+"a": "org:university-of-utah",
+"b": "trial:nct06614322",
+"r": "site_of"
+},
+{
+"a": "org:university-of-utah-health-hospital-site-number-8400005",
+"b": "trial:nct05206773",
+"r": "site_of"
+},
+{
+"a": "org:university-of-vermont",
+"b": "trial:nct06614322",
+"r": "site_of"
+},
+{
+"a": "org:upmc-montefiore-site-number-8400009",
+"b": "trial:nct05206773",
+"r": "site_of"
+},
+{
+"a": "org:usona-institute",
+"b": "trial:nct07251491",
+"r": "collaborates"
+},
+{
+"a": "org:valley-clinical-trials",
+"b": "trial:nct06074562",
+"r": "site_of"
+},
+{
+"a": "org:vcu-medical-center",
+"b": "trial:nct06614322",
+"r": "site_of"
+},
+{
+"a": "org:velocity-clinical-research-san-bernardino",
+"b": "trial:nct06696443",
+"r": "site_of"
+},
+{
+"a": "org:vendee-departmental-hospital",
+"b": "trial:nct06023706",
+"r": "site_of"
+},
+{
+"a": "org:vertex-pharmaceuticals",
+"b": "drug:pregabalin",
+"r": "develops"
+},
+{
+"a": "org:vertex-pharmaceuticals",
+"b": "drug:suzetrigine",
+"r": "develops"
+},
+{
+"a": "org:vertex-pharmaceuticals",
+"b": "trial:nct06628908",
+"r": "sponsors"
+},
+{
+"a": "org:vertex-pharmaceuticals",
+"b": "trial:nct06696443",
+"r": "sponsors"
+},
+{
+"a": "org:vertex-pharmaceuticals",
+"b": "trial:nct07231419",
+"r": "sponsors"
+},
+{
+"a": "org:vm-therapeutics",
+"b": "drug:vmd-3866-gel",
+"r": "develops"
+},
+{
+"a": "org:vm-therapeutics",
+"b": "trial:nct07072468",
+"r": "sponsors"
+},
+{
+"a": "org:western-sydney-university-nicm-health-research-institute-nic",
+"b": "trial:nct06490445",
+"r": "site_of"
+},
+{
+"a": "org:westmead-hospital",
+"b": "trial:nct06490445",
+"r": "site_of"
+},
+{
+"a": "org:wmchealth-advanced-physician-services-site-number-8400001",
+"b": "trial:nct05206773",
+"r": "site_of"
+},
+{
+"a": "org:zhejiang-hanmai-pharmaceutical-technology",
+"b": "drug:crisugabalin-besilate-capsules",
+"r": "develops"
+},
+{
+"a": "org:zhejiang-hanmai-pharmaceutical-technology",
+"b": "drug:crisugabalin-besilate-capsules-simulant",
+"r": "develops"
+},
+{
+"a": "org:zhejiang-hanmai-pharmaceutical-technology",
+"b": "drug:yj001-spray",
+"r": "develops"
+},
+{
+"a": "org:zhejiang-hanmai-pharmaceutical-technology",
+"b": "drug:yj001-spray-simulant",
+"r": "develops"
+},
+{
+"a": "org:zhejiang-hanmai-pharmaceutical-technology",
+"b": "trial:nct07859111",
+"r": "sponsors"
+},
+{
+"a": "org:zhejiang-yuejia-pharmaceuticals",
+"b": "drug:yj001-spray-240-mg-day",
+"r": "develops"
+},
+{
+"a": "org:zhejiang-yuejia-pharmaceuticals",
+"b": "drug:yj001-spray-480-mg-day",
+"r": "develops"
+},
+{
+"a": "org:zhejiang-yuejia-pharmaceuticals",
+"b": "drug:yj001-spray-960-mg-day",
+"r": "develops"
+},
+{
+"a": "org:zhejiang-yuejia-pharmaceuticals",
+"b": "drug:yj001-spray-simulator",
+"r": "develops"
+},
+{
+"a": "org:zhejiang-yuejia-pharmaceuticals",
+"b": "trial:nct07858344",
+"r": "sponsors"
+},
+{
+"a": "person:akash-goel-mph",
+"b": "org:unity-health-toronto",
+"r": "affiliated"
+},
+{
+"a": "person:akash-goel-mph",
+"b": "trial:nct07301632",
+"r": "investigator"
+},
+{
+"a": "person:andrea-chadwick-m-d-fasa",
+"b": "org:university-of-kansas-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:andrea-chadwick-m-d-fasa",
+"b": "trial:nct06741579",
+"r": "investigator"
+},
+{
+"a": "person:asokumar-buvanendran",
+"b": "org:rush-university-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:asokumar-buvanendran",
+"b": "trial:nct05864053",
+"r": "investigator"
+},
+{
+"a": "person:bernardino-clavo",
+"b": "org:dr-negrin-university-hospital-las-palmas-spain",
+"r": "affiliated"
+},
+{
+"a": "person:bernardino-clavo",
+"b": "trial:nct04299893",
+"r": "investigator"
+},
+{
+"a": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
+"b": "org:eli-lilly-and-company",
+"r": "affiliated"
+},
+{
+"a": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
+"b": "trial:nct05986292",
+"r": "investigator"
+},
+{
+"a": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
+"b": "trial:nct06074562",
+"r": "investigator"
+},
+{
+"a": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
+"b": "trial:nct06568042",
+"r": "investigator"
+},
+{
+"a": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
+"b": "trial:nct07285018",
+"r": "investigator"
+},
+{
+"a": "person:clinical-development",
+"b": "org:vm-therapeutics",
+"r": "affiliated"
+},
+{
+"a": "person:clinical-development",
+"b": "trial:nct07072468",
+"r": "investigator"
+},
+{
+"a": "person:clinical-sciences-operations",
+"b": "org:sanofi",
+"r": "affiliated"
+},
+{
+"a": "person:clinical-sciences-operations",
+"b": "trial:nct05206773",
+"r": "investigator"
+},
+{
+"a": "person:delvys-rodriguez-abreu",
+"b": "org:complejo-hospitalario-universitario-insular-materno-infantil",
+"r": "affiliated"
+},
+{
+"a": "person:delvys-rodriguez-abreu",
+"b": "trial:nct04299893",
+"r": "investigator"
+},
+{
+"a": "person:didier-delbrouck-anesthesiologist",
+"b": "org:centre-oscar-lambret",
+"r": "affiliated"
+},
+{
+"a": "person:didier-delbrouck-anesthesiologist",
+"b": "trial:nct06807164",
+"r": "investigator"
+},
+{
+"a": "person:edith-dekel",
+"b": "org:syqe-medical",
+"r": "affiliated"
+},
+{
+"a": "person:edith-dekel",
+"b": "trial:nct06490445",
+"r": "investigator"
+},
+{
+"a": "person:eva-widerstrom-noga-dds",
+"b": "org:university-of-miami",
+"r": "affiliated"
+},
+{
+"a": "person:eva-widerstrom-noga-dds",
+"b": "trial:nct05630235",
+"r": "investigator"
+},
+{
+"a": "person:flavio-mantelli",
+"b": "org:okyo-pharma",
+"r": "affiliated"
+},
+{
+"a": "person:flavio-mantelli",
+"b": "trial:nct07838506",
+"r": "investigator"
+},
+{
+"a": "person:francisco-rodriguez-esparragon-bsc",
+"b": "org:dr-negrin-university-hospital-las-palmas-spain",
+"r": "affiliated"
+},
+{
+"a": "person:francisco-rodriguez-esparragon-bsc",
+"b": "trial:nct04299893",
+"r": "investigator"
+},
+{
+"a": "person:gustavo-m-callico",
+"b": "org:institute-for-applied-microelectronics-university-of-las-pal",
+"r": "affiliated"
+},
+{
+"a": "person:gustavo-m-callico",
+"b": "trial:nct04299893",
+"r": "investigator"
+},
+{
+"a": "person:ishrat-husain",
+"b": "org:centre-for-addiction-and-mental-health",
+"r": "affiliated"
+},
+{
+"a": "person:ishrat-husain",
+"b": "trial:nct06518720",
+"r": "investigator"
+},
+{
+"a": "person:jeffrey-p-okeson-d",
+"b": "org:associate-professor",
+"r": "affiliated"
+},
+{
+"a": "person:jeffrey-p-okeson-d",
+"b": "trial:nct03848143",
+"r": "investigator"
+},
+{
+"a": "person:jennifer-gewandter-mph",
+"b": "org:university-of-rochester",
+"r": "affiliated"
+},
+{
+"a": "person:jennifer-gewandter-mph",
+"b": "trial:nct06614322",
+"r": "investigator"
+},
+{
+"a": "person:jennifer-hah-ms",
+"b": "org:stanford-university",
+"r": "affiliated"
+},
+{
+"a": "person:jennifer-hah-ms",
+"b": "trial:nct06741579",
+"r": "investigator"
+},
+{
+"a": "person:jill-m-wecht-edd",
+"b": "org:james-j-peters-va-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:jill-m-wecht-edd",
+"b": "trial:nct07251491",
+"r": "investigator"
+},
+{
+"a": "person:lamia-el-wakeel",
+"b": "org:faculty-of-pharmacy-ain-shams-university",
+"r": "affiliated"
+},
+{
+"a": "person:lamia-el-wakeel",
+"b": "trial:nct07794475",
+"r": "investigator"
+},
+{
+"a": "person:mariana-ferreira-sports-nutrition",
+"b": "org:a2z-clinical-centro-de-pesquisa-clinica-valinhos-sao-paulo-1",
+"r": "affiliated"
+},
+{
+"a": "person:mariana-ferreira-sports-nutrition",
+"b": "trial:nct07712913",
+"r": "investigator"
+},
+{
+"a": "person:monique-ribeiro",
+"b": "org:boston-children-s-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:monique-ribeiro",
+"b": "trial:nct02219373",
+"r": "investigator"
+},
+{
+"a": "person:pedro-g-serrano-aguilar",
+"b": "org:servicio-de-evaluacion-servicio-canario-de-salud-spain",
+"r": "affiliated"
+},
+{
+"a": "person:pedro-g-serrano-aguilar",
+"b": "trial:nct04299893",
+"r": "investigator"
+},
+{
+"a": "person:philippe-j-le-moine",
+"b": "org:chu-of-brest",
+"r": "affiliated"
+},
+{
+"a": "person:philippe-j-le-moine",
+"b": "trial:nct05997979",
+"r": "investigator"
+},
+{
+"a": "person:project-leader",
+"b": "org:ono-pharmaceutical",
+"r": "affiliated"
+},
+{
+"a": "person:project-leader",
+"b": "trial:nct06708416",
+"r": "investigator"
+},
+{
+"a": "person:sylvain-mathieu",
+"b": "org:university-hospital-clermont-ferrand",
+"r": "affiliated"
+},
+{
+"a": "person:sylvain-mathieu",
+"b": "trial:nct07668674",
+"r": "investigator"
+}
+]
+}

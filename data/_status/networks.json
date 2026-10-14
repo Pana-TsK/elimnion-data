@@ -1,0 +1,278 @@
+{
+"started": "2026-10-14T11:31:44.477853Z",
+"calls": {
+"clinicaltrials.gov": 78,
+"api.openalex.org": 110,
+"api.reporter.nih.gov": 30
+},
+"errors": [
+"api.openalex.org 400 https://api.openalex.org/works?search=ABS-101+Inflammatory+bowel+disease&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=",
+"api.openalex.org 400 https://api.openalex.org/works?search=ABS-101&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A201",
+"api.openalex.org 400 https://api.openalex.org/works?search=Inflammatory+bowel+disease&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_pub",
+"api.openalex.org 400 https://api.openalex.org/works?search=ACD440+neuropathic+pain&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_public",
+"api.openalex.org 400 https://api.openalex.org/works?search=ACD440&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A2016",
+"api.openalex.org 400 https://api.openalex.org/works?search=neuropathic+pain&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_d",
+"api.openalex.org 400 https://api.openalex.org/works?search=erythromelalgia&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_da",
+"api.openalex.org 400 https://api.openalex.org/works?search=acumapimod+Acute+exacerbations+of+COPD&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&fil",
+"api.openalex.org 400 https://api.openalex.org/works?search=acumapimod&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A",
+"api.openalex.org 400 https://api.openalex.org/works?search=Acumapimod+Acute+exacerbations+of+COPD&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&fil",
+"api.openalex.org 400 https://api.openalex.org/works?search=Acumapimod&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A",
+"api.openalex.org 400 https://api.openalex.org/works?search=Acute+exacerbations+of+COPD&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_pu",
+"api.openalex.org 400 https://api.openalex.org/works?search=ALG-055009+MASH&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_da",
+"api.openalex.org 400 https://api.openalex.org/works?search=ALG-055009&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A",
+"api.openalex.org 400 https://api.openalex.org/works?search=MASH&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A2020-0",
+"api.openalex.org 400 https://api.openalex.org/works?search=nonalcoholic+steatohepatitis&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_p",
+"api.openalex.org 400 https://api.openalex.org/works?search=amsulostat+Myelofibrosis+%28add-on+to+ruxolitinib%29&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_c",
+"api.openalex.org 400 https://api.openalex.org/works?search=amsulostat&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A",
+"api.openalex.org 400 https://api.openalex.org/works?search=Amsulostat+Myelofibrosis+%28add-on+to+ruxolitinib%29&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_c",
+"api.openalex.org 400 https://api.openalex.org/works?search=Amsulostat&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A",
+"api.openalex.org 400 https://api.openalex.org/works?search=Myelofibrosis+%28add-on+to+ruxolitinib%29&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&",
+"api.openalex.org 400 https://api.openalex.org/works?search=ANXV+Retinal+vein+occlusion&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_pu",
+"api.openalex.org 400 https://api.openalex.org/works?search=ANXV&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A2016-0",
+"api.openalex.org 400 https://api.openalex.org/works?search=Retinal+vein+occlusion&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publica",
+"api.openalex.org 400 https://api.openalex.org/works?search=diabetic+retinopathy&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publicati",
+"api.openalex.org 400 https://api.openalex.org/works?search=ARINA-1+Non-CF+bronchiectasis&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_",
+"api.openalex.org 400 https://api.openalex.org/works?search=ARINA-1&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A201",
+"api.openalex.org 400 https://api.openalex.org/works?search=Non-CF+bronchiectasis&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publicat",
+"api.openalex.org 400 https://api.openalex.org/works?search=AUP-16+Diabetic+foot+ulcers&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_pu",
+"api.openalex.org 400 https://api.openalex.org/works?search=AUP-16&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A2016",
+"api.openalex.org 400 https://api.openalex.org/works?search=Diabetic+foot+ulcers&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publicati",
+"api.openalex.org 400 https://api.openalex.org/works?search=Aurase+Venous+leg+ulcers&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publi",
+"api.openalex.org 400 https://api.openalex.org/works?search=Aurase&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A2016",
+"api.openalex.org 400 https://api.openalex.org/works?search=Venous+leg+ulcers&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_",
+"api.openalex.org 400 https://api.openalex.org/works?search=belapectin+MASH+cirrhosis&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publ",
+"api.openalex.org 400 https://api.openalex.org/works?search=belapectin&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A",
+"api.openalex.org 400 https://api.openalex.org/works?search=Belapectin+MASH+cirrhosis&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publ",
+"api.openalex.org 400 https://api.openalex.org/works?search=Belapectin&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A",
+"api.openalex.org 400 https://api.openalex.org/works?search=MASH+cirrhosis&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_dat",
+"api.openalex.org 400 https://api.openalex.org/works?search=portal+hypertension&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publicatio",
+"clinicaltrials.gov 400 https://clinicaltrials.gov/api/v2/studies?query.cond=Osteogenesis+imperfecta+%28severe&sort=LastUpdatePostDate%3Adesc&filter.advanced=%28AREA%5BPhase%5DPHASE2+OR+AREA%5BPhase%5DPHASE3%29+AND+AREA%5BSt",
+"clinicaltrials.gov 400 https://clinicaltrials.gov/api/v2/studies?query.cond=Osteogenesis+imperfecta+%28severe&sort=LastUpdatePostDate%3Adesc&filter.advanced=%28AREA%5BPhase%5DPHASE2+OR+AREA%5BPhase%5DPHASE3%29+AND+AREA%5BSt",
+"clinicaltrials.gov 400 https://clinicaltrials.gov/api/v2/studies?query.cond=paediatric%29&sort=LastUpdatePostDate%3Adesc&filter.advanced=%28AREA%5BPhase%5DPHASE2+OR+AREA%5BPhase%5DPHASE3%29+AND+AREA%5BStartDate%5DRANGE%5B20",
+"clinicaltrials.gov 400 https://clinicaltrials.gov/api/v2/studies?query.cond=paediatric%29&sort=LastUpdatePostDate%3Adesc&filter.advanced=%28AREA%5BPhase%5DPHASE2+OR+AREA%5BPhase%5DPHASE3%29+AND+AREA%5BStartDate%5DRANGE%5B20",
+"api.openalex.org 400 https://api.openalex.org/works?search=BT-101+Osteogenesis+imperfecta+%28severe&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&f",
+"api.openalex.org 400 https://api.openalex.org/works?search=BT-101&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A2016",
+"api.openalex.org 400 https://api.openalex.org/works?search=Osteogenesis+imperfecta+%28severe&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=f",
+"api.openalex.org 400 https://api.openalex.org/works?search=paediatric%29&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date",
+"api.openalex.org 400 https://api.openalex.org/works?search=CBA-1205+hepatocellular+carcinoma&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=f",
+"api.openalex.org 400 https://api.openalex.org/works?search=CBA-1205&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A20",
+"api.openalex.org 400 https://api.openalex.org/works?search=hepatocellular+carcinoma&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publi",
+"api.openalex.org 400 https://api.openalex.org/works?search=pediatric+solid+tumor&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publicat",
+"api.openalex.org 400 https://api.openalex.org/works?search=Dravet+syndrome&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_da",
+"api.openalex.org 400 https://api.openalex.org/works?search=Lennox-Gastaut+syndrome&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_public",
+"api.openalex.org 400 https://api.openalex.org/works?search=developmental+and+epileptic+encephalopathy&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids",
+"api.openalex.org 400 https://api.openalex.org/works?search=DFNA9&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A2020-",
+"api.openalex.org 400 https://api.openalex.org/works?search=COCH+hearing+loss&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_",
+"api.openalex.org 400 https://api.openalex.org/works?search=ETX-155+Rare+epilepsies+%28CDKL5+angle%29&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&",
+"api.openalex.org 400 https://api.openalex.org/works?search=ETX-155&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A201",
+"api.openalex.org 400 https://api.openalex.org/works?search=Rare+epilepsies+%28CDKL5+angle%29&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=f",
+"api.openalex.org 400 https://api.openalex.org/works?search=HER-096+Parkinson%27s+disease&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_",
+"api.openalex.org 400 https://api.openalex.org/works?search=HER-096&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A201",
+"api.openalex.org 400 https://api.openalex.org/works?search=Parkinson%27s+disease&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publicat",
+"api.openalex.org 400 https://api.openalex.org/works?search=LPCN+1148+cirrhosis&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publicatio",
+"api.openalex.org 400 https://api.openalex.org/works?search=LPCN+1148&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A2",
+"api.openalex.org 400 https://api.openalex.org/works?search=LPCN1148+cirrhosis&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication",
+"api.openalex.org 400 https://api.openalex.org/works?search=LPCN1148&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A20",
+"api.openalex.org 400 https://api.openalex.org/works?search=cirrhosis&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A2",
+"api.openalex.org 400 https://api.openalex.org/works?search=sarcopenia&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A",
+"api.openalex.org 400 https://api.openalex.org/works?search=M1Pram+Type+1+diabetes+with+obesity&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter",
+"api.openalex.org 400 https://api.openalex.org/works?search=M1Pram&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A2016",
+"api.openalex.org 400 https://api.openalex.org/works?search=Type+1+diabetes+with+obesity&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_p",
+"api.openalex.org 400 https://api.openalex.org/works?search=migaldendranib+Wet+AMD&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publica",
+"api.openalex.org 400 https://api.openalex.org/works?search=migaldendranib&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_dat",
+"api.openalex.org 400 https://api.openalex.org/works?search=Migaldendranib+Wet+AMD&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publica",
+"api.openalex.org 400 https://api.openalex.org/works?search=Migaldendranib&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_dat",
+"api.openalex.org 400 https://api.openalex.org/works?search=Wet+AMD&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A202",
+"api.openalex.org 400 https://api.openalex.org/works?search=diabetic+macular+edema&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publica",
+"api.openalex.org 400 https://api.openalex.org/works?search=NGN-101+CLN5+Batten+disease&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_pu",
+"api.openalex.org 400 https://api.openalex.org/works?search=NGN-101&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A201",
+"api.openalex.org 400 https://api.openalex.org/works?search=CLN5+Batten+disease&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publicatio",
+"api.openalex.org 400 https://api.openalex.org/works?search=OPM-101+inflammatory+bowel+disease&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=",
+"api.openalex.org 400 https://api.openalex.org/works?search=OPM-101&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A201",
+"api.openalex.org 400 https://api.openalex.org/works?search=inflammatory+bowel+disease&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_pub",
+"api.openalex.org 400 https://api.openalex.org/works?search=SBT101+adrenomyeloneuropathy&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_p",
+"api.openalex.org 400 https://api.openalex.org/works?search=SBT101&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A2016",
+"api.openalex.org 400 https://api.openalex.org/works?search=adrenomyeloneuropathy&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publicat",
+"api.openalex.org 400 https://api.openalex.org/works?search=TBC1D24&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A202",
+"api.openalex.org 400 https://api.openalex.org/works?search=DOORS+syndrome&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_dat",
+"api.openalex.org 400 https://api.openalex.org/works?search=Tesomet+Prader-Willi+syndrome&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_",
+"api.openalex.org 400 https://api.openalex.org/works?search=Tesomet&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A201",
+"api.openalex.org 400 https://api.openalex.org/works?search=tesofensine+Prader-Willi+syndrome&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=f",
+"api.openalex.org 400 https://api.openalex.org/works?search=tesofensine&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3",
+"api.openalex.org 400 https://api.openalex.org/works?search=Prader-Willi+syndrome&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publicat",
+"api.openalex.org 400 https://api.openalex.org/works?search=hypothalamic+obesity&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publicati",
+"api.openalex.org 400 https://api.openalex.org/works?search=VES001+frontotemporal+dementia&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from",
+"api.openalex.org 400 https://api.openalex.org/works?search=VES001&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A2016",
+"api.openalex.org 400 https://api.openalex.org/works?search=frontotemporal+dementia&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_public",
+"api.openalex.org 400 https://api.openalex.org/works?search=vinpocetine+multiple+system+atrophy&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter",
+"api.openalex.org 400 https://api.openalex.org/works?search=vinpocetine&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3",
+"api.openalex.org 400 https://api.openalex.org/works?search=multiple+system+atrophy&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_public",
+"api.openalex.org 400 https://api.openalex.org/works?search=VTP-300+Chronic+hepatitis+B&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_pu",
+"api.openalex.org 400 https://api.openalex.org/works?search=VTP-300&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A201",
+"api.openalex.org 400 https://api.openalex.org/works?search=Chronic+hepatitis+B&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publicatio",
+"api.openalex.org 400 https://api.openalex.org/works?search=fingolimod+adrenoleukodystrophy&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=fro",
+"api.openalex.org 400 https://api.openalex.org/works?search=fingolimod&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A",
+"api.openalex.org 400 https://api.openalex.org/works?search=siponimod+adrenoleukodystrophy&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from",
+"api.openalex.org 400 https://api.openalex.org/works?search=siponimod&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A2",
+"api.openalex.org 400 https://api.openalex.org/works?search=adrenoleukodystrophy&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publicati",
+"api.openalex.org 400 https://api.openalex.org/works?search=XSTEM-VLU+Venous+leg+ulcers&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_pu",
+"api.openalex.org 400 https://api.openalex.org/works?search=XSTEM-VLU&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A2",
+"api.openalex.org 400 https://api.openalex.org/works?search=XSTEM+Venous+leg+ulcers&per-page=50&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_public",
+"api.openalex.org 400 https://api.openalex.org/works?search=XSTEM&per-page=25&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_date%3A2016-",
+"api.openalex.org 400 https://api.openalex.org/works?search=Venous+leg+ulcers&per-page=35&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Cauthorships%2Cgrants%2Cprimary_location%2Ccited_by_count%2Cids&filter=from_publication_"
+],
+"finished": "2026-10-14T11:32:48.880146Z",
+"built": {
+"abs101": {
+"nodes": 388,
+"edges": 572,
+"bytes": 109078
+},
+"acd440": {
+"nodes": 344,
+"edges": 481,
+"bytes": 95695
+},
+"acumapimod": {
+"nodes": 130,
+"edges": 161,
+"bytes": 34662
+},
+"alg055009": {
+"nodes": 454,
+"edges": 656,
+"bytes": 126142
+},
+"amsulostat": {
+"nodes": 41,
+"edges": 44,
+"bytes": 10694
+},
+"anxv": {
+"nodes": 538,
+"edges": 816,
+"bytes": 151810
+},
+"arina1": {
+"nodes": 65,
+"edges": 75,
+"bytes": 16231
+},
+"aup16": {
+"nodes": 306,
+"edges": 372,
+"bytes": 80293
+},
+"aurase": {
+"nodes": 174,
+"edges": 213,
+"bytes": 44644
+},
+"belapectin": {
+"nodes": 429,
+"edges": 619,
+"bytes": 124012
+},
+"bt101": {
+"nodes": 1,
+"edges": 0,
+"bytes": 251
+},
+"cba1205": {
+"nodes": 664,
+"edges": 1075,
+"bytes": 198964
+},
+"p-19fc72dc": {
+"nodes": 264,
+"edges": 352,
+"bytes": 70866
+},
+"p-39b0eddd": {
+"nodes": 264,
+"edges": 391,
+"bytes": 76907
+},
+"coch-aso": {
+"nodes": 11,
+"edges": 14,
+"bytes": 3187
+},
+"etx155": {
+"nodes": 1,
+"edges": 0,
+"bytes": 239
+},
+"her096": {
+"nodes": 313,
+"edges": 412,
+"bytes": 83766
+},
+"lpcn1148": {
+"nodes": 569,
+"edges": 817,
+"bytes": 160307
+},
+"m1pram": {
+"nodes": 145,
+"edges": 191,
+"bytes": 37927
+},
+"migaldendranib": {
+"nodes": 595,
+"edges": 937,
+"bytes": 171557
+},
+"ngn101": {
+"nodes": 6,
+"edges": 6,
+"bytes": 1461
+},
+"opm101": {
+"nodes": 390,
+"edges": 574,
+"bytes": 109625
+},
+"sbt101": {
+"nodes": 55,
+"edges": 66,
+"bytes": 13720
+},
+"synj1": {
+"nodes": 24,
+"edges": 31,
+"bytes": 7202
+},
+"tesomet": {
+"nodes": 364,
+"edges": 550,
+"bytes": 105256
+},
+"ves001": {
+"nodes": 327,
+"edges": 478,
+"bytes": 92793
+},
+"vinpocetine-msa": {
+"nodes": 415,
+"edges": 529,
+"bytes": 109930
+},
+"vtp300": {
+"nodes": 262,
+"edges": 428,
+"bytes": 80454
+},
+"xald-fingolimod": {
+"nodes": 700,
+"edges": 1100,
+"bytes": 212968
+},
+"xstem": {
+"nodes": 180,
+"edges": 222,
+"bytes": 46168
+}
+},
+"hubs": 1072
+}

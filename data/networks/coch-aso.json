@@ -1,0 +1,170 @@
+{
+"assetId": "coch-aso",
+"updated": "2026-10-14",
+"generatedBy": "elimnion-data pipeline",
+"sources": {
+"grants": 6
+},
+"nodes": [
+{
+"k": "asset:coch-aso",
+"t": "asset",
+"n": "COCH antisense for DFNA9",
+"sub": "DFNA9; COCH hearing loss",
+"url": "",
+"c": ""
+},
+{
+"k": "grant:nih-1r01dc021104-01",
+"t": "grant",
+"n": "Genetic Approach to Therapy for DFNA9",
+"sub": "NIH NIDCD · $774,053 · 2023-2028",
+"url": "https://reporter.nih.gov/project-details/10681990",
+"c": ""
+},
+{
+"k": "org:nih-nidcd",
+"t": "funder",
+"n": "NIH NIDCD",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:brigham-and-women-s-hospital",
+"t": "hospital",
+"n": "BRIGHAM AND WOMEN'S HOSPITAL",
+"sub": "",
+"url": "",
+"c": "UN"
+},
+{
+"k": "person:cynthia-casson-morton",
+"t": "person",
+"n": "Cynthia Casson Morton",
+"sub": "BRIGHAM AND WOMEN'S HOSPITAL",
+"url": "",
+"c": ""
+},
+{
+"k": "grant:nih-5r01dc021104-04",
+"t": "grant",
+"n": "Genetic Approach to Therapy for DFNA9",
+"sub": "NIH NIDCD · $693,926 · 2023-2028",
+"url": "https://reporter.nih.gov/project-details/11324984",
+"c": ""
+},
+{
+"k": "grant:nih-5r01dc021104-02",
+"t": "grant",
+"n": "Genetic Approach to Therapy for DFNA9",
+"sub": "NIH NIDCD · $703,055 · 2023-2028",
+"url": "https://reporter.nih.gov/project-details/10831099",
+"c": ""
+},
+{
+"k": "grant:nih-5r01dc021104-03",
+"t": "grant",
+"n": "Genetic Approach to Therapy for DFNA9",
+"sub": "NIH NIDCD · $703,055 · 2023-2028",
+"url": "https://reporter.nih.gov/project-details/11063134",
+"c": ""
+},
+{
+"k": "grant:nih-1f32dc019839-01a1",
+"t": "grant",
+"n": "Gene Editing for DFNA9 Deafness",
+"sub": "NIH NIDCD · $79,642 · 2021-2022",
+"url": "https://reporter.nih.gov/project-details/10389933",
+"c": ""
+},
+{
+"k": "person:hila-romi",
+"t": "person",
+"n": "Hila  Romi",
+"sub": "BRIGHAM AND WOMEN'S HOSPITAL",
+"url": "",
+"c": ""
+},
+{
+"k": "grant:nih-5f32dc019839-02",
+"t": "grant",
+"n": "Gene Editing for DFNA9 Deafness",
+"sub": "NIH NIDCD · $13,235 · 2021-2022",
+"url": "https://reporter.nih.gov/project-details/10579835",
+"c": ""
+}
+],
+"edges": [
+{
+"a": "org:nih-nidcd",
+"b": "grant:nih-1f32dc019839-01a1",
+"r": "funded"
+},
+{
+"a": "org:nih-nidcd",
+"b": "grant:nih-1r01dc021104-01",
+"r": "funded"
+},
+{
+"a": "org:nih-nidcd",
+"b": "grant:nih-5f32dc019839-02",
+"r": "funded"
+},
+{
+"a": "org:nih-nidcd",
+"b": "grant:nih-5r01dc021104-02",
+"r": "funded"
+},
+{
+"a": "org:nih-nidcd",
+"b": "grant:nih-5r01dc021104-03",
+"r": "funded"
+},
+{
+"a": "org:nih-nidcd",
+"b": "grant:nih-5r01dc021104-04",
+"r": "funded"
+},
+{
+"a": "person:cynthia-casson-morton",
+"b": "grant:nih-1r01dc021104-01",
+"r": "grant_pi"
+},
+{
+"a": "person:cynthia-casson-morton",
+"b": "grant:nih-5r01dc021104-02",
+"r": "grant_pi"
+},
+{
+"a": "person:cynthia-casson-morton",
+"b": "grant:nih-5r01dc021104-03",
+"r": "grant_pi"
+},
+{
+"a": "person:cynthia-casson-morton",
+"b": "grant:nih-5r01dc021104-04",
+"r": "grant_pi"
+},
+{
+"a": "person:cynthia-casson-morton",
+"b": "org:brigham-and-women-s-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:hila-romi",
+"b": "grant:nih-1f32dc019839-01a1",
+"r": "grant_pi"
+},
+{
+"a": "person:hila-romi",
+"b": "grant:nih-5f32dc019839-02",
+"r": "grant_pi"
+},
+{
+"a": "person:hila-romi",
+"b": "org:brigham-and-women-s-hospital",
+"r": "affiliated"
+}
+]
+}
