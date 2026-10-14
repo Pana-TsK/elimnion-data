@@ -3,7 +3,8 @@
 "updated": "2026-10-14",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
-"trials": 40
+"trials": 40,
+"papers": 62
 },
 "nodes": [
 {
@@ -137,7 +138,7 @@
 {
 "k": "drug:participants-in-the-randomized-phase-are-assigned-by-randomi",
 "t": "drug",
-"n": "Participants in the randomized phase are assigned by randomization (2:1) to BIOxHEAL plus ",
+"n": "Participants in the randomized phase are assigned by randomization to BIOxHEAL plus SOC or",
 "sub": "Applied Biologics, LLC",
 "url": "",
 "c": ""
@@ -273,7 +274,7 @@
 {
 "k": "person:hamid-khoja-chief-scientific-officer-ph-d",
 "t": "person",
-"n": "Hamid Khoja Chief Scientific Officer, Ph.D.",
+"n": "Hamid Khoja Chief Scientific Officer, Ph.D",
 "sub": "principal investigator · FibroBiologics",
 "url": "",
 "c": ""
@@ -351,17 +352,17 @@
 "c": "Australia"
 },
 {
-"k": "drug:soc-low-dose-cywc628",
+"k": "drug:soc-low",
 "t": "drug",
-"n": "SoC + Low dose CYWC628",
+"n": "SoC + Low",
 "sub": "FibroBiologics",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:soc-high-dose-cywc628",
+"k": "drug:soc-high",
 "t": "drug",
-"n": "SoC + High dose CYWC628",
+"n": "SoC + High",
 "sub": "FibroBiologics",
 "url": "",
 "c": ""
@@ -423,9 +424,9 @@
 "c": ""
 },
 {
-"k": "drug:pep-purified-exosome-product-tisseel",
+"k": "drug:pep-tisseel",
 "t": "drug",
-"n": "PEP (Purified Exosome Product) / TISSEEL",
+"n": "PEP / TISSEEL",
 "sub": "Rion Inc.",
 "url": "",
 "c": ""
@@ -591,9 +592,9 @@
 "c": "Denmark"
 },
 {
-"k": "drug:semaglutide-1-34-mg-ml",
+"k": "drug:semaglutide",
 "t": "drug",
-"n": "Semaglutide, 1.34 mg/mL",
+"n": "Semaglutide",
 "sub": "Ole Lander Svendsen",
 "url": "",
 "c": ""
@@ -953,7 +954,7 @@
 {
 "k": "drug:neovasculgen",
 "t": "drug",
-"n": "Neovasculgen®",
+"n": "Neovasculgen",
 "sub": "JSC NextGen",
 "url": "",
 "c": ""
@@ -1180,7 +1181,7 @@
 "n": "University of Pittsburgh",
 "sub": "",
 "url": "",
-"c": ""
+"c": "US"
 },
 {
 "k": "person:sashwati-roy",
@@ -1249,7 +1250,7 @@
 {
 "k": "person:seungkyu-han-ph-d",
 "t": "person",
-"n": "SeungKyu Han. Ph D",
+"n": "SeungKyu Han Ph D",
 "sub": "principal investigator · Korea University Guro Hospital",
 "url": "",
 "c": ""
@@ -1265,7 +1266,7 @@
 {
 "k": "person:baekkyu-kim-ph-d",
 "t": "person",
-"n": "BaekKyu Kim. Ph D",
+"n": "BaekKyu Kim Ph D",
 "sub": "principal investigator · Seoul National University Bundang Hospital",
 "url": "",
 "c": ""
@@ -1281,7 +1282,7 @@
 {
 "k": "person:junpio-hong-ph-d",
 "t": "person",
-"n": "JunPio Hong. Ph D",
+"n": "JunPio Hong Ph D",
 "sub": "principal investigator · Asan Medical Center",
 "url": "",
 "c": ""
@@ -1297,7 +1298,7 @@
 {
 "k": "person:jiung-bak-ph-d",
 "t": "person",
-"n": "JiUng Bak. Ph D",
+"n": "JiUng Bak Ph D",
 "sub": "principal investigator · Borame Medical Center",
 "url": "",
 "c": ""
@@ -1313,7 +1314,7 @@
 {
 "k": "person:yeongcheol-seo-ph-d",
 "t": "person",
-"n": "YeongCheol Seo. Ph D",
+"n": "YeongCheol Seo Ph D",
 "sub": "principal investigator · Bucheon St. Mary's Hospital",
 "url": "",
 "c": ""
@@ -1727,17 +1728,17 @@
 "c": "Spain"
 },
 {
-"k": "drug:high-dose-allogeneic-mesenchymal-stromal-cells",
+"k": "drug:high",
 "t": "drug",
-"n": "High dose allogeneic mesenchymal stromal cells",
+"n": "High",
 "sub": "Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:low-dose-allogeneic-mesenchymal-stromal-cells",
+"k": "drug:low",
 "t": "drug",
-"n": "Low dose allogeneic mesenchymal stromal cells",
+"n": "Low",
 "sub": "Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz",
 "url": "",
 "c": ""
@@ -1895,14 +1896,6 @@
 "c": ""
 },
 {
-"k": "org:site-001",
-"t": "company",
-"n": "Site 001",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "trial:nct06020235",
 "t": "trial",
 "n": "Nu-3 Gel for Infected Diabetic Foot Ulcers",
@@ -1964,7 +1957,7 @@
 "n": "Jan Apelqvist/",
 "sub": "principal investigator · Department of Endocrinology, Skåne University Hospital, Malmö, Sw",
 "url": "",
-"c": ""
+"c": "SE"
 },
 {
 "k": "org:department-of-endocrinology-skane-university-hospital",
@@ -1983,17 +1976,17 @@
 "c": "Sweden"
 },
 {
-"k": "drug:ilp100-topical-emilimogene-sigulactibac-5x10-7-cfu-cm-2",
+"k": "drug:ilp100-topical-5x10-7-cfu-cm-2",
 "t": "drug",
-"n": "ILP100-Topical (emilimogene sigulactibac) 5x10^7 CFU/cm^2",
+"n": "ILP100-Topical 5x10^7 CFU/cm^2",
 "sub": "Ilya Pharma",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:ilp100-topical-emilimogene-sigulactibac-1x10-9-cfu-cm-2",
+"k": "drug:ilp100-topical-1x10-9-cfu-cm-2",
 "t": "drug",
-"n": "ILP100-Topical (emilimogene sigulactibac) 1x10^9 CFU/cm^2",
+"n": "ILP100-Topical 1x10^9 CFU/cm^2",
 "sub": "Ilya Pharma",
 "url": "",
 "c": ""
@@ -2033,7 +2026,7 @@
 {
 "k": "person:beata-mrozikiewicz-rakowska-assoc",
 "t": "person",
-"n": "Beata Mrozikiewicz-Rakowska, Assoc..",
+"n": "Beata Mrozikiewicz-Rakowska, Assoc",
 "sub": "principal investigator · Bielanski Hospital",
 "url": "",
 "c": ""
@@ -2087,9 +2080,9 @@
 "c": ""
 },
 {
-"k": "person:david-g-armstrong-ph-d",
+"k": "person:david-g-armstrongph-d",
 "t": "person",
-"n": "David G. Armstrong.Ph D.",
+"n": "David G. ArmstrongPh D",
 "sub": "principal investigator · University of Southern California",
 "url": "",
 "c": ""
@@ -2135,17 +2128,17 @@
 "c": ""
 },
 {
-"k": "person:mobina-tajdari-pharmd-student",
+"k": "person:mobina-tajdari-student",
 "t": "person",
-"n": "Mobina Tajdari, PharmD Student",
+"n": "Mobina Tajdari Student",
 "sub": "principal investigator · ",
 "url": "",
 "c": ""
 },
 {
-"k": "person:kamyab-andarzbakhsh-pharmd",
+"k": "person:kamyab-andarzbakhsh",
 "t": "person",
-"n": "Kamyab Andarzbakhsh, PharmD",
+"n": "Kamyab Andarzbakhsh",
 "sub": "principal investigator · ",
 "url": "",
 "c": ""
@@ -2453,6 +2446,2470 @@
 "sub": "principal investigator · Hunter Holmes McGuire VAMC",
 "url": "",
 "c": ""
+},
+{
+"k": "paper:doi-10-1016-j-jval-2023-09-437",
+"t": "paper",
+"n": "EE168 A Markov Model to Determine the Cost-Effectiveness of a Multi-Targeting Bacterial Ge",
+"sub": "Value in Health 2023 · cited 0",
+"url": "https://doi.org/10.1016/j.jval.2023.09.437",
+"c": ""
+},
+{
+"k": "person:le-basskin",
+"t": "person",
+"n": "LE Basskin",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:skane-university-hospital",
+"t": "hospital",
+"n": "Skåne University Hospital",
+"sub": "",
+"url": "",
+"c": "SE"
+},
+{
+"k": "paper:doi-10-37349-eds-2026-1008168",
+"t": "paper",
+"n": "Emerging targets and gene-based therapeutics in diabetic foot ulcer: a comprehensive revie",
+"sub": "Exploration of Drug Science 2026 · cited 0",
+"url": "https://doi.org/10.37349/eds.2026.1008168",
+"c": ""
+},
+{
+"k": "person:irwing-f-alvarez",
+"t": "person",
+"n": "Irwing F. Alvarez",
+"sub": "Western University of Health Sciences",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:western-university-of-health-sciences",
+"t": "academic",
+"n": "Western University of Health Sciences",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:vikrant-rai",
+"t": "person",
+"n": "Vikrant Rai",
+"sub": "Western University of Health Sciences",
+"url": "https://orcid.org/0000-0001-6286-2341",
+"c": "US"
+},
+{
+"k": "paper:pmid-28283830",
+"t": "paper",
+"n": "Is 5 days of oral fluoroquinolone enough for acute uncomplicated pyelonephritis? The DTP r",
+"sub": "European Journal of Clinical Microbiology & Infectious Diseases 2017 · cited 36",
+"url": "https://pubmed.ncbi.nlm.nih.gov/28283830",
+"c": ""
+},
+{
+"k": "person:aurelien-dinh",
+"t": "person",
+"n": "Aurélien Dinh",
+"sub": "Assistance Publique – Hôpitaux de Paris",
+"url": "https://orcid.org/0000-0002-5843-4819",
+"c": "FR"
+},
+{
+"k": "org:assistance-publique-hopitaux-de-paris",
+"t": "hospital",
+"n": "Assistance Publique – Hôpitaux de Paris",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:hopital-raymond-poincare",
+"t": "hospital",
+"n": "Hôpital Raymond-Poincaré",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:benjamin-davido",
+"t": "person",
+"n": "Benjamin Davido",
+"sub": "Université de Versailles Saint-Quentin-en-Yvelines",
+"url": "https://orcid.org/0000-0002-2859-8417",
+"c": "FR"
+},
+{
+"k": "org:universite-de-versailles-saint-quentin-en-yvelines",
+"t": "academic",
+"n": "Université de Versailles Saint-Quentin-en-Yvelines",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:manuel-etienne",
+"t": "person",
+"n": "Manuel Etienne",
+"sub": "Centre Hospitalier Universitaire de Rouen",
+"url": "https://orcid.org/0000-0002-7301-2614",
+"c": "FR"
+},
+{
+"k": "org:centre-hospitalier-universitaire-de-rouen",
+"t": "hospital",
+"n": "Centre Hospitalier Universitaire de Rouen",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:frederique-bouchand",
+"t": "person",
+"n": "Frédérique Bouchand",
+"sub": "Université de Versailles Saint-Quentin-en-Yvelines",
+"url": "https://orcid.org/0000-0003-0313-9166",
+"c": "FR"
+},
+{
+"k": "person:anne-raynaud-lambinet",
+"t": "person",
+"n": "Anne Raynaud-Lambinet",
+"sub": "Centre Hospitalier Universitaire de Toulouse",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:centre-hospitalier-universitaire-de-toulouse",
+"t": "hospital",
+"n": "Centre Hospitalier Universitaire de Toulouse",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:hopital-rangueil",
+"t": "hospital",
+"n": "Hôpital Rangueil",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:e-aslangul",
+"t": "person",
+"n": "E. Aslangul",
+"sub": "Hôtel-Dieu de Paris",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:hotel-dieu-de-paris",
+"t": "hospital",
+"n": "Hôtel-Dieu de Paris",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:talianne-szwebel",
+"t": "person",
+"n": "Tali‐Anne Szwebel",
+"sub": "Hôtel-Dieu de Paris",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:clara-duran",
+"t": "person",
+"n": "Clara Duran",
+"sub": "Université de Versailles Saint-Quentin-en-Yvelines",
+"url": "https://orcid.org/0000-0002-1509-2660",
+"c": "FR"
+},
+{
+"k": "person:guillaume-der-sahakian",
+"t": "person",
+"n": "Guillaume Der Sahakian",
+"sub": "Hôtel-Dieu de Paris",
+"url": "https://orcid.org/0000-0002-1594-5299",
+"c": "FR"
+},
+{
+"k": "person:c-jordy",
+"t": "person",
+"n": "C. Jordy",
+"sub": "Hôpital André Mignot",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:hopital-andre-mignot",
+"t": "hospital",
+"n": "Hôpital André Mignot",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:centre-hospitalier-de-versailles",
+"t": "hospital",
+"n": "Centre Hospitalier de Versailles",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:x-ranchoux",
+"t": "person",
+"n": "X. Ranchoux",
+"sub": "Hôpital André Mignot",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:nicole-sembach",
+"t": "person",
+"n": "Nicole Sembach",
+"sub": "Hôpital Européen Georges-Pompidou",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:hopital-europeen-georges-pompidou",
+"t": "hospital",
+"n": "Hôpital Européen Georges-Pompidou",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:emmanuel-mathieu",
+"t": "person",
+"n": "Emmanuel Mathieu",
+"sub": "Hôpital Foch",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:hopital-foch",
+"t": "hospital",
+"n": "Hôpital Foch",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:a-davido",
+"t": "person",
+"n": "A Davido",
+"sub": "Hôpital Européen Georges-Pompidou",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:j-salomon",
+"t": "person",
+"n": "J. Salomon",
+"sub": "Inserm",
+"url": "https://orcid.org/0000-0002-3749-4337",
+"c": "FR"
+},
+{
+"k": "org:inserm",
+"t": "funder",
+"n": "Inserm",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:institut-pasteur",
+"t": "foundation",
+"n": "Institut Pasteur",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:louis-bernard",
+"t": "person",
+"n": "Louis Bernard",
+"sub": "Université de Tours",
+"url": "https://orcid.org/0000-0001-8127-7519",
+"c": "FR"
+},
+{
+"k": "org:universite-de-tours",
+"t": "academic",
+"n": "Université de Tours",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:hopital-bretonneau",
+"t": "hospital",
+"n": "Hôpital Bretonneau",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:ministere-des-affaires-sociales-et-de-la-sante",
+"t": "funder",
+"n": "Ministère des Affaires Sociales et de la Santé",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-30149787",
+"t": "paper",
+"n": "Improved anaerobic biodegradability of wheat straw, solid cattle manure and solid slaughte",
+"sub": "Environmental Technology 2018 · cited 27",
+"url": "https://pubmed.ncbi.nlm.nih.gov/30149787",
+"c": ""
+},
+{
+"k": "person:radziah-wahid",
+"t": "person",
+"n": "Radziah Wahid",
+"sub": "Aarhus University",
+"url": "https://orcid.org/0000-0003-4592-7021",
+"c": "DK"
+},
+{
+"k": "org:aarhus-university",
+"t": "academic",
+"n": "Aarhus University",
+"sub": "",
+"url": "",
+"c": "DK"
+},
+{
+"k": "org:norwegian-university-of-life-sciences",
+"t": "academic",
+"n": "Norwegian University of Life Sciences",
+"sub": "",
+"url": "",
+"c": "NO"
+},
+{
+"k": "person:belen-fernandez",
+"t": "person",
+"n": "Belén Fernández",
+"sub": "Institute of Agrifood Research and Technology",
+"url": "https://orcid.org/0000-0001-6854-2349",
+"c": "ES"
+},
+{
+"k": "org:institute-of-agrifood-research-and-technology",
+"t": "academic",
+"n": "Institute of Agrifood Research and Technology",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "org:innovationsfonden",
+"t": "funder",
+"n": "Innovationsfonden",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:fondation-idella",
+"t": "funder",
+"n": "Fondation Idella",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:energiteknologisk-udviklings-og-demonstrationsprogram",
+"t": "funder",
+"n": "Energiteknologisk udviklings- og demonstrationsprogram",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-1109-tasc-2022-3148971",
+"t": "paper",
+"n": "Assembly and Pre-Loading Specifications for the Series Production of the Nb3Sn MQXFA Quadr",
+"sub": "IEEE Transactions on Applied Superconductivity 2022 · cited 8",
+"url": "https://doi.org/10.1109/tasc.2022.3148971",
+"c": ""
+},
+{
+"k": "person:paolo-ferracin",
+"t": "person",
+"n": "Paolo Ferracin",
+"sub": "Lawrence Berkeley National Laboratory",
+"url": "https://orcid.org/0000-0003-0415-8895",
+"c": "US"
+},
+{
+"k": "org:lawrence-berkeley-national-laboratory",
+"t": "academic",
+"n": "Lawrence Berkeley National Laboratory",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:giorgio-vallone",
+"t": "person",
+"n": "Giorgio Vallone",
+"sub": "Lawrence Berkeley National Laboratory",
+"url": "https://orcid.org/0000-0003-0716-8116",
+"c": "US"
+},
+{
+"k": "org:u-s-department-of-energy",
+"t": "funder",
+"n": "U.S. Department of Energy",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:cern",
+"t": "funder",
+"n": "CERN",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:office-of-science",
+"t": "funder",
+"n": "Office of Science",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:high-energy-physics",
+"t": "funder",
+"n": "High Energy Physics",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-41329067",
+"t": "paper",
+"n": "2D AuPS: Revealing Giant In-Plane Anisotropy Driven by Mixed-Coordination via Stereoscopic",
+"sub": "ACS Nano 2025 · cited 7",
+"url": "https://pubmed.ncbi.nlm.nih.gov/41329067",
+"c": ""
+},
+{
+"k": "person:huai-yang",
+"t": "person",
+"n": "Huai Yang",
+"sub": "Hubei University of Technology",
+"url": "https://orcid.org/0009-0001-8921-0834",
+"c": "CN"
+},
+{
+"k": "org:hubei-university-of-technology",
+"t": "academic",
+"n": "Hubei University of Technology",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:zhengwang-cheng",
+"t": "person",
+"n": "Zhengwang Cheng",
+"sub": "Hubei University of Technology",
+"url": "https://orcid.org/0000-0001-7013-7190",
+"c": "CN"
+},
+{
+"k": "person:changcun-han",
+"t": "person",
+"n": "Changcun Han",
+"sub": "Nanyang Technological University",
+"url": "https://orcid.org/0000-0002-3322-441X",
+"c": "SG"
+},
+{
+"k": "org:nanyang-technological-university",
+"t": "academic",
+"n": "Nanyang Technological University",
+"sub": "",
+"url": "",
+"c": "SG"
+},
+{
+"k": "person:yizhong-huang",
+"t": "person",
+"n": "Yizhong Huang",
+"sub": "Nanyang Technological University",
+"url": "https://orcid.org/0000-0003-2644-856X",
+"c": "SG"
+},
+{
+"k": "org:national-natural-science-foundation-of-china",
+"t": "funder",
+"n": "National Natural Science Foundation of China",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:natural-science-foundation-of-hubei-province",
+"t": "funder",
+"n": "Natural Science Foundation of Hubei Province",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:hubei-university-of-science-and-technology",
+"t": "funder",
+"n": "Hubei University of Science and Technology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-1681-asn-20233411s1979b",
+"t": "paper",
+"n": "Concomitant Sparsentan and Sodium-Glucose Cotransporter-2 Inhibitors (SGLT2i) in Patients ",
+"sub": "Journal of the American Society of Nephrology 2023 · cited 3",
+"url": "https://doi.org/10.1681/asn.20233411s1979b",
+"c": ""
+},
+{
+"k": "person:laura-ann-kooienga",
+"t": "person",
+"n": "Laura Ann Kooienga",
+"sub": "Colorado Kidney Care",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:colorado-kidney-care",
+"t": "hospital",
+"n": "Colorado Kidney Care",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:alex-mercer",
+"t": "person",
+"n": "Alex Mercer",
+"sub": "",
+"url": "https://orcid.org/0009-0006-5279-1416",
+"c": ""
+},
+{
+"k": "paper:doi-10-1109-tasc-2023-3243876",
+"t": "paper",
+"n": "Applied Metrology for the Assembly of the Nb3Sn MQXFA Quadrupole Magnets for the HL-LHC AU",
+"sub": "IEEE Transactions on Applied Superconductivity 2023 · cited 2",
+"url": "https://doi.org/10.1109/tasc.2023.3243876",
+"c": ""
+},
+{
+"k": "person:k-l-ray",
+"t": "person",
+"n": "K. L. Ray",
+"sub": "Lawrence Berkeley National Laboratory",
+"url": "https://orcid.org/0000-0003-1577-794X",
+"c": "US"
+},
+{
+"k": "person:m-solis",
+"t": "person",
+"n": "M. Solis",
+"sub": "Lawrence Berkeley National Laboratory",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:fermilab",
+"t": "funder",
+"n": "Fermilab",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-51161-rems-3323",
+"t": "paper",
+"n": "A RELAÇÃO DO CONSUMO DE ALIMENTOS ULTRAPROCESSADOS COM O DESENVOLVIMENTO DA OBESIDADE.",
+"sub": "Anais do I Congresso Brasileiro de Saúde Pública On-line: Uma abordagem Multiprofissional ",
+"url": "https://doi.org/10.51161/rems/3323",
+"c": ""
+},
+{
+"k": "person:ana-leticia-almeida-cavalcante-gomes",
+"t": "person",
+"n": "Ana Leticia Almeida Cavalcante Gomes",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:silvia-fernandes-ribeiro-da-silva",
+"t": "person",
+"n": "Sílvia Fernandes Ribeiro da Silva",
+"sub": "",
+"url": "https://orcid.org/0000-0002-3223-5184",
+"c": ""
+},
+{
+"k": "paper:doi-10-1093-jas-sky404-355",
+"t": "paper",
+"n": "PSXIII-9 Essential amino acid intake in obese cats before and after weight loss on a veter",
+"sub": "Journal of Animal Science 2018 · cited 0",
+"url": "https://doi.org/10.1093/jas/sky404.355",
+"c": ""
+},
+{
+"k": "person:c-grant",
+"t": "person",
+"n": "C Grant",
+"sub": "Ontario Veterinary College",
+"url": "",
+"c": ""
+},
+{
+"k": "org:ontario-veterinary-college",
+"t": "academic",
+"n": "Ontario Veterinary College",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:adronie-verbrugghe",
+"t": "person",
+"n": "Adronie Verbrugghe",
+"sub": "Ontario Veterinary College",
+"url": "https://orcid.org/0000-0001-6366-8866",
+"c": ""
+},
+{
+"k": "paper:doi-10-37657-vniipo-2020-99-2-007",
+"t": "paper",
+"n": "Calculated estimation of geometric parameters of automatic water fire extinguishing system",
+"sub": "Pozharnaia bezopasnost` 2020 · cited 0",
+"url": "https://doi.org/10.37657/vniipo.2020.99.2.007",
+"c": ""
+},
+{
+"k": "paper:doi-10-2139-ssrn-3369796",
+"t": "paper",
+"n": "Visualising Antimicrobial Susceptibility with Supervised Machine Learning",
+"sub": "SSRN Electronic Journal 2019 · cited 0",
+"url": "https://doi.org/10.2139/ssrn.3369796",
+"c": ""
+},
+{
+"k": "person:tim-j-j-inglis",
+"t": "person",
+"n": "Tim J. J. Inglis",
+"sub": "The University of Western Australia",
+"url": "",
+"c": "AU"
+},
+{
+"k": "org:the-university-of-western-australia",
+"t": "academic",
+"n": "The University of Western Australia",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "org:queen-elizabeth-ii-medical-centre",
+"t": "hospital",
+"n": "Queen Elizabeth II Medical Centre",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "person:christine-f-carson",
+"t": "person",
+"n": "Christine F Carson",
+"sub": "The University of Western Australia",
+"url": "https://orcid.org/0000-0003-3669-1651",
+"c": "AU"
+},
+{
+"k": "paper:doi-10-54265-iqcy1958",
+"t": "paper",
+"n": "EXPOSIÇÃO A ALIMENTOS ULTRAPROCESSADOS E O AMBIENTE ALIMENTAR PROMOTOR DA OBESIDADE ENTRE ",
+"sub": " 2020 · cited 0",
+"url": "https://doi.org/10.54265/iqcy1958",
+"c": ""
+},
+{
+"k": "person:isabela-barroso-paixao",
+"t": "person",
+"n": "Isabela Barroso Paixão",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:jorginete-de-jesus-damiao",
+"t": "person",
+"n": "Jorginete de Jesus Damião",
+"sub": "",
+"url": "https://orcid.org/0000-0001-6591-3474",
+"c": ""
+},
+{
+"k": "paper:doi-10-1136-jitc-2022-sitc2022-0852",
+"t": "paper",
+"n": "852 Investigating the functional role of GPNMB in glioblastoma and the tumor immune microe",
+"sub": "Regular and Young Investigator Award Abstracts 2022 · cited 0",
+"url": "https://doi.org/10.1136/jitc-2022-sitc2022.0852",
+"c": ""
+},
+{
+"k": "person:neil-j-savage",
+"t": "person",
+"n": "Neil J. Savage",
+"sub": "McMaster University",
+"url": "https://orcid.org/0009-0004-5940-0567",
+"c": "CA"
+},
+{
+"k": "org:mcmaster-university",
+"t": "academic",
+"n": "McMaster University",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "person:sheila-kumari-singh",
+"t": "person",
+"n": "Sheila Kumari Singh",
+"sub": "McMaster University",
+"url": "https://orcid.org/0000-0003-1272-5300",
+"c": "CA"
+},
+{
+"k": "paper:doi-10-5117-tvar2021-5-004",
+"t": "paper",
+"n": "Pacht - ( ECLI:NL:GHARL:2019:9216 / ECLI:NL:GHARL:2021:1462 ) Hof Arnhem-Leeuwarden, 29 ok",
+"sub": "Tijdschrift voor Agrarisch Recht 2021 · cited 0",
+"url": "https://doi.org/10.5117/tvar2021.5.004",
+"c": ""
+},
+{
+"k": "person:prof-dr-j-w-a-rheinfeld",
+"t": "person",
+"n": "prof. dr. J.W.A. Rheinfeld",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-5117-tvar2020-11-12-007",
+"t": "paper",
+"n": "Pacht - Hoge Raad, 16 oktober 2020, ECLI:NL:HR:2020:1633 (Teeltpacht) (mrs. M.V. Polak, T.",
+"sub": "Tijdschrift voor Agrarisch Recht 2020 · cited 0",
+"url": "https://doi.org/10.5117/tvar2020.11-12.007",
+"c": ""
+},
+{
+"k": "paper:doi-10-5117-tvar2019-10-003",
+"t": "paper",
+"n": "Zakelijke rechten - Rechtbank Den Haag, 16 juli 2019, ECLI:NL:RBDHA:2019:7094 (Zonneparken",
+"sub": "Tijdschrift voor Agrarisch Recht 2019 · cited 0",
+"url": "https://doi.org/10.5117/tvar2019.10.003",
+"c": ""
+},
+{
+"k": "paper:doi-10-5117-tvar2019-5-009",
+"t": "paper",
+"n": "Milieu - College van Beroep voor het bedrijfsleven, 16 april 2019, ECLI:NL:CBB:2019:139 (J",
+"sub": "Tijdschrift voor Agrarisch Recht 2019 · cited 0",
+"url": "https://doi.org/10.5117/tvar2019.5.009",
+"c": ""
+},
+{
+"k": "paper:doi-10-5117-tvar2017-3-001",
+"t": "paper",
+"n": "Ruimtelijke Ordening - Hoge Raad, 16 december 2016, ECLI:NL:HR:2016:2877 - (Agrarische bes",
+"sub": "Tijdschrift voor Agrarisch Recht 2017 · cited 0",
+"url": "https://doi.org/10.5117/tvar2017.3.001",
+"c": ""
+},
+{
+"k": "paper:doi-10-5117-tvar2017-3-005",
+"t": "paper",
+"n": "Ruimtelijke Ordening - Hoge Raad, 16 december 2016, ECLI:NL:HR:2016:2885 (Agrarische beste",
+"sub": "Tijdschrift voor Agrarisch Recht 2017 · cited 0",
+"url": "https://doi.org/10.5117/tvar2017.3.005",
+"c": ""
+},
+{
+"k": "paper:doi-10-5117-tvar2019-1-009",
+"t": "paper",
+"n": "Pacht - Hof Arnhem-Leeuwarden, 16 januari 2018, ECLI:NL:GHARL:2018:570 (Elbrink-Rouwenhors",
+"sub": "Tijdschrift voor Agrarisch Recht 2019 · cited 0",
+"url": "https://doi.org/10.5117/tvar2019.1.009",
+"c": ""
+},
+{
+"k": "paper:doi-10-5117-tvar2017-3-011",
+"t": "paper",
+"n": "Ruimtelijke Ordening - Hoge Raad, 16 december 2016, ECLI:NL:HR:2016:2884 - (Agrarische bes",
+"sub": "Tijdschrift voor Agrarisch Recht 2017 · cited 0",
+"url": "https://doi.org/10.5117/tvar2017.3.011",
+"c": ""
+},
+{
+"k": "paper:doi-10-5117-tvar2021-2-006",
+"t": "paper",
+"n": "Diversen - Gerechtshof Den Haag, 16 juni 2020, ECLI:NL:GHDHA:2020:2297 (meerwaardeclausule",
+"sub": "Tijdschrift voor Agrarisch Recht 2021 · cited 0",
+"url": "https://doi.org/10.5117/tvar2021.2.006",
+"c": ""
+},
+{
+"k": "person:t-j-mellema-kranenburg",
+"t": "person",
+"n": "T.J. Mellema-Kranenburg",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-5117-tvar2019-11-007",
+"t": "paper",
+"n": "Pacht - Centrale Grondkamer , 16 juli 2019 (TvAR 2019/8004)",
+"sub": "Tijdschrift voor Agrarisch Recht 2019 · cited 0",
+"url": "https://doi.org/10.5117/tvar2019.11.007",
+"c": ""
+},
+{
+"k": "paper:doi-10-5117-tvar2017-2-009",
+"t": "paper",
+"n": "Diversen - Hoge Raad, 16 december 2016 ECLI:NL:HR:2016:2888 (TvAR 2017/5870)",
+"sub": "Tijdschrift voor Agrarisch Recht 2017 · cited 0",
+"url": "https://doi.org/10.5117/tvar2017.2.009",
+"c": ""
+},
+{
+"k": "paper:doi-10-6084-m9-figshare-21385128",
+"t": "paper",
+"n": "Evaluation of Concentration, RQ, ECR of BTX, MDA level and DNA degeneration in Workers exp",
+"sub": "Figshare 2022 · cited 0",
+"url": "https://doi.org/10.6084/m9.figshare.21385128",
+"c": ""
+},
+{
+"k": "person:abdul-rohim-tualeka",
+"t": "person",
+"n": "Abdul Rohim Tualeka",
+"sub": "",
+"url": "https://orcid.org/0000-0002-8276-2441",
+"c": ""
+},
+{
+"k": "person:pudji-rahmawati",
+"t": "person",
+"n": "Pudji Rahmawati",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-37395769",
+"t": "paper",
+"n": "Diabetic Foot Ulcers",
+"sub": "JAMA 2023 · cited 1662",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37395769",
+"c": ""
+},
+{
+"k": "person:david-g-armstrong",
+"t": "person",
+"n": "David G. Armstrong",
+"sub": "University of Southern California",
+"url": "https://orcid.org/0000-0003-1887-9175",
+"c": "US"
+},
+{
+"k": "person:sicco-a-bus",
+"t": "person",
+"n": "Sicco A. Bus",
+"sub": "Amsterdam University Medical Centers",
+"url": "https://orcid.org/0000-0002-8357-9163",
+"c": "NL"
+},
+{
+"k": "org:amsterdam-university-medical-centers",
+"t": "hospital",
+"n": "Amsterdam University Medical Centers",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "org:amsterdam-movement-sciences",
+"t": "funder",
+"n": "Amsterdam Movement Sciences",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "org:national-science-foundation",
+"t": "funder",
+"n": "National Science Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institutes-of-health",
+"t": "funder",
+"n": "National Institutes of Health",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
+"t": "funder",
+"n": "National Institute of Diabetes and Digestive and Kidney Diseases",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36548709",
+"t": "paper",
+"n": "Etiology, Epidemiology, and Disparities in the Burden of Diabetic Foot Ulcers",
+"sub": "Diabetes Care 2022 · cited 1252",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36548709",
+"c": ""
+},
+{
+"k": "person:katherine-m-mcdermott",
+"t": "person",
+"n": "Katherine M. McDermott",
+"sub": "Johns Hopkins University",
+"url": "https://orcid.org/0000-0003-2166-524X",
+"c": "US"
+},
+{
+"k": "org:johns-hopkins-university",
+"t": "academic",
+"n": "Johns Hopkins University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:johns-hopkins-medicine",
+"t": "hospital",
+"n": "Johns Hopkins Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:caitlin-w-hicks",
+"t": "person",
+"n": "Caitlin W. Hicks",
+"sub": "Johns Hopkins University",
+"url": "https://orcid.org/0000-0001-7638-1936",
+"c": "US"
+},
+{
+"k": "org:national-heart-lung-and-blood-institute",
+"t": "funder",
+"n": "National Heart, Lung, and Blood Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32209136",
+"t": "paper",
+"n": "Five year mortality and direct costs of care for people with diabetic foot complications a",
+"sub": "Journal of Foot and Ankle Research 2020 · cited 967",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32209136",
+"c": ""
+},
+{
+"k": "org:national-center-for-advancing-translational-sciences",
+"t": "funder",
+"n": "National Center for Advancing Translational Sciences",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33628388",
+"t": "paper",
+"n": "The Role of Oxidative Stress and Antioxidants in Diabetic Wound Healing",
+"sub": "Oxidative Medicine and Cellular Longevity 2021 · cited 762",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33628388",
+"c": ""
+},
+{
+"k": "person:liling-deng",
+"t": "person",
+"n": "Liling Deng",
+"sub": "Chongqing University",
+"url": "https://orcid.org/0000-0002-9299-1870",
+"c": "CN"
+},
+{
+"k": "org:chongqing-university",
+"t": "academic",
+"n": "Chongqing University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:chongqing-emergency-medical-center",
+"t": "hospital",
+"n": "Chongqing Emergency Medical Center",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:wuquan-deng",
+"t": "person",
+"n": "Wuquan Deng",
+"sub": "Chongqing University",
+"url": "https://orcid.org/0000-0002-5450-9713",
+"c": "CN"
+},
+{
+"k": "org:natural-science-foundation-of-chongqing",
+"t": "funder",
+"n": "Natural Science Foundation of Chongqing",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34089902",
+"t": "paper",
+"n": "Macrophage polarization and diabetic wound healing",
+"sub": "Translational research 2021 · cited 721",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34089902",
+"c": ""
+},
+{
+"k": "person:amanda-e-louiselle",
+"t": "person",
+"n": "Amanda E. Louiselle",
+"sub": "Children's Hospital Colorado",
+"url": "https://orcid.org/0000-0003-3997-3144",
+"c": "US"
+},
+{
+"k": "org:children-s-hospital-colorado",
+"t": "hospital",
+"n": "Children's Hospital Colorado",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:university-of-colorado-anschutz",
+"t": "academic",
+"n": "University of Colorado Anschutz",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:kenneth-w-liechty",
+"t": "person",
+"n": "Kenneth W. Liechty",
+"sub": "Children's Hospital Colorado",
+"url": "https://orcid.org/0000-0001-8084-5342",
+"c": "US"
+},
+{
+"k": "paper:pmid-33596041",
+"t": "paper",
+"n": "Strategy for Treatment of Infected Diabetic Foot Ulcers",
+"sub": "Accounts of Chemical Research 2021 · cited 710",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33596041",
+"c": ""
+},
+{
+"k": "person:mayland-chang",
+"t": "person",
+"n": "Mayland Chang",
+"sub": "University of Notre Dame",
+"url": "https://orcid.org/0000-0002-4333-3775",
+"c": "US"
+},
+{
+"k": "org:university-of-notre-dame",
+"t": "academic",
+"n": "University of Notre Dame",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:trung-t-nguyen",
+"t": "person",
+"n": "Trung T. Nguyen",
+"sub": "University of Notre Dame",
+"url": "https://orcid.org/0000-0003-3169-2460",
+"c": "US"
+},
+{
+"k": "org:u-s-department-of-defense",
+"t": "funder",
+"n": "U.S. Department of Defense",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32139380",
+"t": "paper",
+"n": "Global Disability Burdens of Diabetes-Related Lower-Extremity Complications in 1990 and 20",
+"sub": "Diabetes Care 2020 · cited 559",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32139380",
+"c": ""
+},
+{
+"k": "person:yuqi-zhang",
+"t": "person",
+"n": "Yuqi Zhang",
+"sub": "Queensland University of Technology",
+"url": "https://orcid.org/0000-0002-3656-5383",
+"c": "AU"
+},
+{
+"k": "org:queensland-university-of-technology",
+"t": "academic",
+"n": "Queensland University of Technology",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "person:rosana-pacella",
+"t": "person",
+"n": "Rosana Pacella",
+"sub": "Queensland University of Technology",
+"url": "https://orcid.org/0000-0002-9742-1957",
+"c": "AU"
+},
+{
+"k": "org:university-of-greenwich",
+"t": "academic",
+"n": "University of Greenwich",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:institute-for-health-metrics-and-evaluation",
+"t": "funder",
+"n": "Institute for Health Metrics and Evaluation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:medical-research-council",
+"t": "funder",
+"n": "Medical Research Council",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-health-and-medical-research-council",
+"t": "funder",
+"n": "National Health and Medical Research Council",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32266224",
+"t": "paper",
+"n": "Selection of Appropriate Wound Dressing for Various Wounds",
+"sub": "Frontiers in Bioengineering and Biotechnology 2020 · cited 520",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32266224",
+"c": ""
+},
+{
+"k": "person:chenyu-shi",
+"t": "person",
+"n": "Chenyu Shi",
+"sub": "Jilin University",
+"url": "https://orcid.org/0000-0002-8590-8194",
+"c": "CN"
+},
+{
+"k": "org:jilin-university",
+"t": "academic",
+"n": "Jilin University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:second-affiliated-hospital-of-jilin-university",
+"t": "hospital",
+"n": "Second Affiliated Hospital of Jilin University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:ying-shao",
+"t": "person",
+"n": "Ying Shao",
+"sub": "Jilin University",
+"url": "https://orcid.org/0000-0001-9909-784X",
+"c": "CN"
+},
+{
+"k": "org:first-hospital-of-jilin-university",
+"t": "hospital",
+"n": "First Hospital of Jilin University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:jincheng-wang",
+"t": "person",
+"n": "Jincheng Wang",
+"sub": "Jilin University",
+"url": "https://orcid.org/0000-0002-1217-5962",
+"c": "CN"
+},
+{
+"k": "org:people-s-government-of-jilin-province",
+"t": "funder",
+"n": "People's Government of Jilin Province",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32176451",
+"t": "paper",
+"n": "Guidelines on the prevention of foot ulcers in persons with diabetes (IWGDF 2019 update)",
+"sub": "Diabetes/Metabolism Research and Reviews 2020 · cited 517",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32176451",
+"c": ""
+},
+{
+"k": "org:steno-diabetes-center-copenhagen",
+"t": "funder",
+"n": "Steno Diabetes Center Copenhagen",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33731435",
+"t": "paper",
+"n": "Advanced bandages for diabetic wound healing",
+"sub": "Science Translational Medicine 2021 · cited 498",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33731435",
+"c": ""
+},
+{
+"k": "person:simon-matoori",
+"t": "person",
+"n": "Simon Matoori",
+"sub": "Harvard University",
+"url": "https://orcid.org/0000-0002-1559-0950",
+"c": "US"
+},
+{
+"k": "org:harvard-university",
+"t": "academic",
+"n": "Harvard University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:wyss-institute-for-biologically-inspired-engineering",
+"t": "academic",
+"n": "Wyss Institute for Biologically Inspired Engineering",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:aristidis-veves",
+"t": "person",
+"n": "Aristidis Veves",
+"sub": "Beth Israel Deaconess Medical Center",
+"url": "https://orcid.org/0000-0002-3901-4405",
+"c": "US"
+},
+{
+"k": "person:david-j-mooney",
+"t": "person",
+"n": "David J. Mooney",
+"sub": "Harvard University",
+"url": "https://orcid.org/0000-0001-6299-1194",
+"c": "US"
+},
+{
+"k": "org:schweizerischer-nationalfonds-zur-forderung-der-wissenschaft",
+"t": "funder",
+"n": "Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33680841",
+"t": "paper",
+"n": "The current burden of diabetic foot disease",
+"sub": "Journal of Clinical Orthopaedics and Trauma 2021 · cited 473",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33680841",
+"c": ""
+},
+{
+"k": "person:michael-e-edmonds",
+"t": "person",
+"n": "MICHAEL E. EDMONDS",
+"sub": "King's College London",
+"url": "https://orcid.org/0000-0002-8931-0069",
+"c": "GB"
+},
+{
+"k": "org:king-s-college-london",
+"t": "academic",
+"n": "King's College London",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:king-s-college-hospital",
+"t": "hospital",
+"n": "King's College Hospital",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:chris-adusei-manu",
+"t": "person",
+"n": "Chris Adusei Manu",
+"sub": "King's College Hospital",
+"url": "https://orcid.org/0000-0002-1703-7059",
+"c": "GB"
+},
+{
+"k": "person:prashanth-r-j-vas",
+"t": "person",
+"n": "Prashanth R. J. Vas",
+"sub": "King's College London",
+"url": "https://orcid.org/0000-0001-7448-2995",
+"c": "GB"
+},
+{
+"k": "paper:pmid-32440554",
+"t": "paper",
+"n": "Dissolved oxygen from microalgae-gel patch promotes chronic wound healing in diabetes",
+"sub": "Science Advances 2020 · cited 463",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32440554",
+"c": ""
+},
+{
+"k": "person:huanhuan-chen",
+"t": "person",
+"n": "Huanhuan Chen",
+"sub": "State Key Laboratory of Pharmaceutical Biotechnology",
+"url": "https://orcid.org/0000-0002-6280-6910",
+"c": ""
+},
+{
+"k": "org:state-key-laboratory-of-pharmaceutical-biotechnology",
+"t": "academic",
+"n": "State Key Laboratory of Pharmaceutical Biotechnology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:nanjing-university",
+"t": "academic",
+"n": "Nanjing University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:yuhao-cheng",
+"t": "person",
+"n": "Yuhao Cheng",
+"sub": "State Key Laboratory of Pharmaceutical Biotechnology",
+"url": "https://orcid.org/0000-0001-8371-5244",
+"c": ""
+},
+{
+"k": "person:yiqiao-hu",
+"t": "person",
+"n": "Yiqiao Hu",
+"sub": "State Key Laboratory of Pharmaceutical Biotechnology",
+"url": "https://orcid.org/0000-0002-3656-7143",
+"c": ""
+},
+{
+"k": "person:jinhui-wu",
+"t": "person",
+"n": "Jinhui Wu",
+"sub": "State Key Laboratory of Pharmaceutical Biotechnology",
+"url": "https://orcid.org/0000-0001-8809-1290",
+"c": ""
+},
+{
+"k": "paper:pmid-35013299",
+"t": "paper",
+"n": "Single cell transcriptomic landscape of diabetic foot ulcers",
+"sub": "Nature Communications 2022 · cited 451",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35013299",
+"c": ""
+},
+{
+"k": "person:georgios-theocharidis",
+"t": "person",
+"n": "Georgios Theocharidis",
+"sub": "Beth Israel Deaconess Medical Center",
+"url": "https://orcid.org/0000-0002-8895-9130",
+"c": "US"
+},
+{
+"k": "person:manoj-bhasin",
+"t": "person",
+"n": "Manoj Bhasin",
+"sub": "Emory University",
+"url": "https://orcid.org/0000-0001-5172-420X",
+"c": "US"
+},
+{
+"k": "org:emory-university",
+"t": "academic",
+"n": "Emory University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:u-s-department-of-health-and-human-services",
+"t": "funder",
+"n": "U.S. Department of Health and Human Services",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34443506",
+"t": "paper",
+"n": "Skin Wound Healing: Normal Macrophage Function and Macrophage Dysfunction in Diabetic Woun",
+"sub": "Molecules 2021 · cited 438",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34443506",
+"c": ""
+},
+{
+"k": "person:savannah-margaret-aitcheson",
+"t": "person",
+"n": "Savannah Margaret Aitcheson",
+"sub": "Queensland University of Technology",
+"url": "https://orcid.org/0000-0002-8452-4711",
+"c": "AU"
+},
+{
+"k": "person:rachael-zoe-murray",
+"t": "person",
+"n": "Rachael Zoe Murray",
+"sub": "Queensland University of Technology",
+"url": "https://orcid.org/0000-0002-4935-7794",
+"c": "AU"
+},
+{
+"k": "paper:pmid-37803944",
+"t": "paper",
+"n": "An Immunomodulatory Hydrogel by Hyperthermia‐Assisted Self‐Cascade Glucose Depletion and R",
+"sub": "Advanced Materials 2023 · cited 389",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37803944",
+"c": ""
+},
+{
+"k": "person:xiaoliang-qi",
+"t": "person",
+"n": "Xiaoliang Qi",
+"sub": "Wenzhou Medical University",
+"url": "https://orcid.org/0000-0002-2480-7242",
+"c": "CN"
+},
+{
+"k": "org:wenzhou-medical-university",
+"t": "academic",
+"n": "Wenzhou Medical University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:affiliated-eye-hospital-of-wenzhou-medical-college",
+"t": "hospital",
+"n": "Affiliated Eye Hospital of Wenzhou Medical College",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:jianliang-shen",
+"t": "person",
+"n": "Jianliang Shen",
+"sub": "Wenzhou Medical University",
+"url": "https://orcid.org/0000-0003-4351-4872",
+"c": "CN"
+},
+{
+"k": "org:science-and-technology-plan-project-of-wenzhou-china",
+"t": "funder",
+"n": "Science and Technology Plan Project of Wenzhou, China",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-31958217",
+"t": "paper",
+"n": "Guidelines on diagnosis, prognosis, and management of peripheral artery disease in patient",
+"sub": "Diabetes/Metabolism Research and Reviews 2020 · cited 380",
+"url": "https://pubmed.ncbi.nlm.nih.gov/31958217",
+"c": ""
+},
+{
+"k": "person:robert-j-hinchliffe",
+"t": "person",
+"n": "Robert J. Hinchliffe",
+"sub": "University of Bristol",
+"url": "https://orcid.org/0000-0002-6370-0800",
+"c": "GB"
+},
+{
+"k": "org:university-of-bristol",
+"t": "academic",
+"n": "University of Bristol",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "paper:pmid-36424137",
+"t": "paper",
+"n": "Microenvironment‐Based Diabetic Foot Ulcer Nanomedicine",
+"sub": "Advanced Science 2022 · cited 365",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36424137",
+"c": ""
+},
+{
+"k": "person:fang-huang",
+"t": "person",
+"n": "Fang Huang",
+"sub": "Tongji University",
+"url": "https://orcid.org/0009-0008-5721-8621",
+"c": "CN"
+},
+{
+"k": "org:tongji-university",
+"t": "academic",
+"n": "Tongji University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:chinese-academy-of-sciences",
+"t": "funder",
+"n": "Chinese Academy of Sciences",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:xiangyu-lu",
+"t": "person",
+"n": "Xiangyu Lu",
+"sub": "Tongji University",
+"url": "https://orcid.org/0000-0002-5606-894X",
+"c": "CN"
+},
+{
+"k": "person:bin-li",
+"t": "person",
+"n": "Bin Li",
+"sub": "Tongji University",
+"url": "https://orcid.org/0000-0002-8607-8874",
+"c": "CN"
+},
+{
+"k": "org:shanghai-university-of-traditional-chinese-medicine",
+"t": "academic",
+"n": "Shanghai University of Traditional Chinese Medicine",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:haiqing-dong",
+"t": "person",
+"n": "Haiqing Dong",
+"sub": "Tongji University",
+"url": "https://orcid.org/0000-0001-6428-5904",
+"c": "CN"
+},
+{
+"k": "person:jianlin-shi",
+"t": "person",
+"n": "Jianlin Shi",
+"sub": "Tongji University",
+"url": "https://orcid.org/0000-0001-8790-195X",
+"c": "CN"
+},
+{
+"k": "org:shanghai-municipal-health-commission",
+"t": "funder",
+"n": "Shanghai Municipal Health Commission",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-37756368",
+"t": "paper",
+"n": "Human Wound and Its Burden: Updated 2022 Compendium of Estimates",
+"sub": "Advances in Wound Care 2023 · cited 356",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37756368",
+"c": ""
+},
+{
+"k": "person:chandan-k-sen",
+"t": "person",
+"n": "Chandan K. Sen",
+"sub": "University of Pittsburgh",
+"url": "https://orcid.org/0000-0003-3151-5202",
+"c": "US"
+},
+{
+"k": "org:university-of-pittsburgh-medical-center",
+"t": "hospital",
+"n": "University of Pittsburgh Medical Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-32938916",
+"t": "paper",
+"n": "Deregulated immune cell recruitment orchestrated by FOXM1 impairs human diabetic wound hea",
+"sub": "Nature Communications 2020 · cited 351",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32938916",
+"c": ""
+},
+{
+"k": "person:andrew-phillip-sawaya",
+"t": "person",
+"n": "Andrew Phillip Sawaya",
+"sub": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+"url": "https://orcid.org/0000-0002-4675-3919",
+"c": "US"
+},
+{
+"k": "org:national-institute-of-arthritis-and-musculoskeletal-and-skin",
+"t": "academic",
+"n": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:maria-i-morasso",
+"t": "person",
+"n": "María I. Morasso",
+"sub": "National Institutes of Health",
+"url": "https://orcid.org/0000-0002-9632-9593",
+"c": "US"
+},
+{
+"k": "person:marjana-tomiccanic",
+"t": "person",
+"n": "Marjana Tomic‐Canic",
+"sub": "University of Miami",
+"url": "https://orcid.org/0000-0002-9341-0193",
+"c": "US"
+},
+{
+"k": "org:university-of-miami",
+"t": "academic",
+"n": "University of Miami",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:university-of-miami-health-system",
+"t": "hospital",
+"n": "University of Miami Health System",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:university-of-california-san-diego",
+"t": "funder",
+"n": "University of California, San Diego",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-35788686",
+"t": "paper",
+"n": "A strain-programmed patch for the healing of diabetic wounds",
+"sub": "Nature Biomedical Engineering 2022 · cited 336",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35788686",
+"c": ""
+},
+{
+"k": "person:hyunwoo-yuk",
+"t": "person",
+"n": "Hyunwoo Yuk",
+"sub": "Massachusetts Institute of Technology",
+"url": "https://orcid.org/0000-0003-1710-9750",
+"c": "US"
+},
+{
+"k": "org:massachusetts-institute-of-technology",
+"t": "academic",
+"n": "Massachusetts Institute of Technology",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:xuanhe-zhao",
+"t": "person",
+"n": "Xuanhe Zhao",
+"sub": "Massachusetts Institute of Technology",
+"url": "https://orcid.org/0000-0001-5387-6186",
+"c": "US"
+},
+{
+"k": "org:defense-advanced-research-projects-agency",
+"t": "funder",
+"n": "Defense Advanced Research Projects Agency",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-37535449",
+"t": "paper",
+"n": "Ultrasound-Augmented Multienzyme-like Nanozyme Hydrogel Spray for Promoting Diabetic Wound",
+"sub": "ACS Nano 2023 · cited 314",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37535449",
+"c": ""
+},
+{
+"k": "person:limin-shang",
+"t": "person",
+"n": "Limin Shang",
+"sub": "Qingdao University of Science and Technology",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:qingdao-university-of-science-and-technology",
+"t": "academic",
+"n": "Qingdao University of Science and Technology",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:zhiling-zhu",
+"t": "person",
+"n": "Zhiling Zhu",
+"sub": "Qingdao University of Science and Technology",
+"url": "https://orcid.org/0000-0003-3878-0391",
+"c": "CN"
+},
+{
+"k": "org:natural-science-foundation-of-shandong-province",
+"t": "funder",
+"n": "Natural Science Foundation of Shandong Province",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-37608335",
+"t": "paper",
+"n": "Research advances in smart responsive-hydrogel dressings with potential clinical diabetic ",
+"sub": "Military Medical Research 2023 · cited 313",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37608335",
+"c": ""
+},
+{
+"k": "person:ying-chen",
+"t": "person",
+"n": "Ying Chen",
+"sub": "Xiamen University",
+"url": "https://orcid.org/0000-0001-6107-6103",
+"c": "CN"
+},
+{
+"k": "org:xiamen-university",
+"t": "academic",
+"n": "Xiamen University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:zi-biao-li",
+"t": "person",
+"n": "Zi-Biao Li",
+"sub": "Agency for Science, Technology and Research",
+"url": "",
+"c": "SG"
+},
+{
+"k": "org:agency-for-science-technology-and-research",
+"t": "funder",
+"n": "Agency for Science, Technology and Research",
+"sub": "",
+"url": "",
+"c": "SG"
+},
+{
+"k": "org:institute-of-materials-research-and-engineering",
+"t": "academic",
+"n": "Institute of Materials Research and Engineering",
+"sub": "",
+"url": "",
+"c": "SG"
+},
+{
+"k": "person:yunlong-wu",
+"t": "person",
+"n": "Yun‐Long Wu",
+"sub": "Xiamen University",
+"url": "https://orcid.org/0000-0001-6426-6340",
+"c": "CN"
+},
+{
+"k": "person:dawei-li",
+"t": "person",
+"n": "Dawei Li",
+"sub": "Chinese PLA General Hospital",
+"url": "https://orcid.org/0000-0002-1094-9282",
+"c": "CN"
+},
+{
+"k": "org:chinese-pla-general-hospital",
+"t": "hospital",
+"n": "Chinese PLA General Hospital",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:youth-innovation-promotion-association-of-the-chinese-academ",
+"t": "funder",
+"n": "Youth Innovation Promotion Association of the Chinese Academy of Sciences",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:key-technologies-research-and-development-program",
+"t": "funder",
+"n": "Key Technologies Research and Development Program",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-key-research-and-development-program-of-china",
+"t": "funder",
+"n": "National Key Research and Development Program of China",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-38264279",
+"t": "paper",
+"n": "Diabetic peripheral neuropathy: pathogenetic mechanisms and treatment",
+"sub": "Frontiers in Endocrinology 2024 · cited 310",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38264279",
+"c": ""
+},
+{
+"k": "person:jinxi-zhu",
+"t": "person",
+"n": "Jinxi Zhu",
+"sub": "Nanchang University",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:nanchang-university",
+"t": "academic",
+"n": "Nanchang University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:second-affiliated-hospital-of-nanchang-university",
+"t": "hospital",
+"n": "Second Affiliated Hospital of Nanchang University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:jialing-hu",
+"t": "person",
+"n": "Jialing Hu",
+"sub": "Second Affiliated Hospital of Nanchang University",
+"url": "https://orcid.org/0000-0002-6812-5577",
+"c": "CN"
+},
+{
+"k": "person:shengliang-peng",
+"t": "person",
+"n": "Shengliang Peng",
+"sub": "Second Affiliated Hospital of Nanchang University",
+"url": "https://orcid.org/0009-0003-5464-1153",
+"c": "CN"
+},
+{
+"k": "org:jiangxi-provincial-department-of-science-and-technology",
+"t": "funder",
+"n": "Jiangxi Provincial Department of Science and Technology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-38310127",
+"t": "paper",
+"n": "Programmed microalgae-gel promotes chronic wound healing in diabetes",
+"sub": "Nature Communications 2024 · cited 310",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38310127",
+"c": ""
+},
+{
+"k": "person:yong-kang",
+"t": "person",
+"n": "Yong Kang",
+"sub": "Tianjin University",
+"url": "https://orcid.org/0000-0002-0151-8683",
+"c": "CN"
+},
+{
+"k": "org:tianjin-university",
+"t": "academic",
+"n": "Tianjin University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:bing-liu",
+"t": "person",
+"n": "Bing Liu",
+"sub": "",
+"url": "https://orcid.org/0000-0003-1670-6115",
+"c": ""
+},
+{
+"k": "person:julin-xie",
+"t": "person",
+"n": "Julin Xie",
+"sub": "The First Affiliated Hospital, Sun Yat-sen University",
+"url": "https://orcid.org/0000-0002-8276-2994",
+"c": "CN"
+},
+{
+"k": "org:the-first-affiliated-hospital-sun-yat-sen-university",
+"t": "hospital",
+"n": "The First Affiliated Hospital, Sun Yat-sen University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:xiaoyuan-ji",
+"t": "person",
+"n": "Xiaoyuan Ji",
+"sub": "Linyi University",
+"url": "https://orcid.org/0000-0002-6768-2304",
+"c": "CN"
+},
+{
+"k": "org:linyi-university",
+"t": "academic",
+"n": "Linyi University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:china-postdoctoral-science-foundation",
+"t": "funder",
+"n": "China Postdoctoral Science Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36578871",
+"t": "paper",
+"n": "Diabetic foot ulcers: Classification, risk factors and management",
+"sub": "World Journal of Diabetes 2022 · cited 305",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36578871",
+"c": ""
+},
+{
+"k": "person:xuan-wang",
+"t": "person",
+"n": "Xuan Wang",
+"sub": "Nanjing University of Chinese Medicine",
+"url": "https://orcid.org/0000-0002-3556-3239",
+"c": "CN"
+},
+{
+"k": "org:nanjing-university-of-chinese-medicine",
+"t": "academic",
+"n": "Nanjing University of Chinese Medicine",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:zhi-yu",
+"t": "person",
+"n": "Zhi Yu",
+"sub": "Nanjing University of Chinese Medicine",
+"url": "https://orcid.org/0000-0003-4810-3474",
+"c": "CN"
+},
+{
+"k": "paper:pmid-33808207",
+"t": "paper",
+"n": "Novel Transfer Learning Approach for Medical Imaging with Limited Labeled Data",
+"sub": "Cancers 2021 · cited 292",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33808207",
+"c": ""
+},
+{
+"k": "person:laith-alzubaidi",
+"t": "person",
+"n": "Laith Alzubaidi",
+"sub": "Queensland University of Technology",
+"url": "https://orcid.org/0000-0002-7296-5413",
+"c": "AU"
+},
+{
+"k": "org:university-of-information-technology-and-communications",
+"t": "academic",
+"n": "University of Information Technology and Communications",
+"sub": "",
+"url": "",
+"c": "IQ"
+},
+{
+"k": "person:ye-duan",
+"t": "person",
+"n": "Ye Duan",
+"sub": "University of Missouri",
+"url": "https://orcid.org/0000-0002-1166-7703",
+"c": "US"
+},
+{
+"k": "org:university-of-missouri",
+"t": "academic",
+"n": "University of Missouri",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:louisiana-state-university",
+"t": "funder",
+"n": "Louisiana State University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-37302121",
+"t": "paper",
+"n": "Guidelines on the prevention of foot ulcers in persons with diabetes (IWGDF 2023 update)",
+"sub": "Diabetes/Metabolism Research and Reviews 2023 · cited 279",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37302121",
+"c": ""
+},
+{
+"k": "org:amsterdam-umc-location-university-of-amsterdam",
+"t": "hospital",
+"n": "Amsterdam UMC Location University of Amsterdam",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "person:jaap-j-van-netten",
+"t": "person",
+"n": "Jaap J. van Netten",
+"sub": "Amsterdam UMC Location University of Amsterdam",
+"url": "https://orcid.org/0000-0002-6420-6046",
+"c": "NL"
+},
+{
+"k": "org:essity-germany",
+"t": "funder",
+"n": "Essity Germany",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32433566",
+"t": "paper",
+"n": "Electrospun cellulose acetate/gelatin nanofibrous wound dressing containing berberine for ",
+"sub": "Scientific Reports 2020 · cited 275",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32433566",
+"c": ""
+},
+{
+"k": "person:hadi-samadian",
+"t": "person",
+"n": "Hadi Samadian",
+"sub": "Kermanshah University of Medical Sciences",
+"url": "https://orcid.org/0000-0002-2478-5709",
+"c": "IR"
+},
+{
+"k": "org:kermanshah-university-of-medical-sciences",
+"t": "academic",
+"n": "Kermanshah University of Medical Sciences",
+"sub": "",
+"url": "",
+"c": "IR"
+},
+{
+"k": "person:majid-salehi",
+"t": "person",
+"n": "Majid Salehi",
+"sub": "Shahroud University of Medical Sciences",
+"url": "https://orcid.org/0000-0001-6283-8181",
+"c": "IR"
+},
+{
+"k": "org:shahroud-university-of-medical-sciences",
+"t": "academic",
+"n": "Shahroud University of Medical Sciences",
+"sub": "",
+"url": "",
+"c": "IR"
+},
+{
+"k": "paper:pmid-32003952",
+"t": "paper",
+"n": "Chronic Wounds: Evaluation and Management.",
+"sub": "PubMed 2020 · cited 272",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32003952",
+"c": ""
+},
+{
+"k": "person:steven-p-bowers",
+"t": "person",
+"n": "Steven P. Bowers",
+"sub": "St. Luke's University Health Network",
+"url": "https://orcid.org/0000-0001-7370-3071",
+"c": "US"
+},
+{
+"k": "org:st-luke-s-university-health-network",
+"t": "hospital",
+"n": "St. Luke's University Health Network",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:eginia-franco",
+"t": "person",
+"n": "Eginia Franco",
+"sub": "St. Luke's University Health Network",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-34168731",
+"t": "paper",
+"n": "Diabetes and peripheral artery disease: A review",
+"sub": "World Journal of Diabetes 2021 · cited 272",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34168731",
+"c": ""
+},
+{
+"k": "person:david-olubukunmi-soyoye",
+"t": "person",
+"n": "David Olubukunmi Soyoye",
+"sub": "Obafemi Awolowo University",
+"url": "https://orcid.org/0000-0002-9659-2658",
+"c": "NG"
+},
+{
+"k": "org:obafemi-awolowo-university",
+"t": "academic",
+"n": "Obafemi Awolowo University",
+"sub": "",
+"url": "",
+"c": "NG"
+},
+{
+"k": "person:anthony-olubunmi-akintomide",
+"t": "person",
+"n": "Anthony Olubunmi Akintomide",
+"sub": "Obafemi Awolowo University",
+"url": "",
+"c": "NG"
+},
+{
+"k": "paper:pmid-32176445",
+"t": "paper",
+"n": "Guidelines on the classification of diabetic foot ulcers (IWGDF 2019)",
+"sub": "Diabetes/Metabolism Research and Reviews 2020 · cited 271",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32176445",
+"c": ""
+},
+{
+"k": "person:matilde-monteirosoares",
+"t": "person",
+"n": "Matilde Monteiro‐Soares",
+"sub": "Universidade do Porto",
+"url": "https://orcid.org/0000-0002-4586-2910",
+"c": "PT"
+},
+{
+"k": "org:universidade-do-porto",
+"t": "academic",
+"n": "Universidade do Porto",
+"sub": "",
+"url": "",
+"c": "PT"
+},
+{
+"k": "org:centre-for-health-technology-and-services-research",
+"t": "academic",
+"n": "Centre for Health Technology and Services Research",
+"sub": "",
+"url": "",
+"c": "PT"
+},
+{
+"k": "org:national-institute-for-health-and-care-research",
+"t": "funder",
+"n": "National Institute for Health and Care Research",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:european-regional-development-fund",
+"t": "funder",
+"n": "European Regional Development Fund",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32672829",
+"t": "paper",
+"n": "Effect of Cold Atmospheric Plasma Therapy vs Standard Therapy Placebo on Wound Healing in ",
+"sub": "JAMA Network Open 2020 · cited 271",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32672829",
+"c": ""
+},
+{
+"k": "person:bernd-stratmann",
+"t": "person",
+"n": "Bernd Stratmann",
+"sub": "Heart and Diabetes Center North Rhine-Westphalia",
+"url": "https://orcid.org/0000-0001-5777-3715",
+"c": "DE"
+},
+{
+"k": "org:heart-and-diabetes-center-north-rhine-westphalia",
+"t": "hospital",
+"n": "Heart and Diabetes Center North Rhine-Westphalia",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:ruhr-university-bochum",
+"t": "academic",
+"n": "Ruhr University Bochum",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "person:diethelm-tschoepe",
+"t": "person",
+"n": "Diethelm Tschoepe",
+"sub": "Heart and Diabetes Center North Rhine-Westphalia",
+"url": "https://orcid.org/0000-0001-5263-8856",
+"c": "DE"
+},
+{
+"k": "paper:pmid-36054820",
+"t": "paper",
+"n": "Global mortality of diabetic foot ulcer: A systematic review and meta‐analysis of observat",
+"sub": "Diabetes Obesity and Metabolism 2022 · cited 260",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36054820",
+"c": ""
+},
+{
+"k": "person:lihong-chen",
+"t": "person",
+"n": "Lihong Chen",
+"sub": "Sichuan University",
+"url": "https://orcid.org/0000-0003-0105-090X",
+"c": "CN"
+},
+{
+"k": "org:sichuan-university",
+"t": "academic",
+"n": "Sichuan University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:west-china-medical-center-of-sichuan-university",
+"t": "hospital",
+"n": "West China Medical Center of Sichuan University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:xingwu-ran",
+"t": "person",
+"n": "Xingwu Ran",
+"sub": "Sichuan University",
+"url": "https://orcid.org/0000-0002-6634-1241",
+"c": "CN"
+},
+{
+"k": "paper:doi-10-3390-app10134523",
+"t": "paper",
+"n": "Towards a Better Understanding of Transfer Learning for Medical Imaging: A Case Study",
+"sub": "Applied Sciences 2020 · cited 256",
+"url": "https://doi.org/10.3390/app10134523",
+"c": ""
+},
+{
+"k": "person:sameer-razzaq-oleiwi",
+"t": "person",
+"n": "Sameer Razzaq Oleiwi",
+"sub": "Al-Muthanna University",
+"url": "https://orcid.org/0000-0001-9959-3747",
+"c": "IQ"
+},
+{
+"k": "org:al-muthanna-university",
+"t": "academic",
+"n": "Al-Muthanna University",
+"sub": "",
+"url": "",
+"c": "IQ"
+},
+{
+"k": "paper:pmid-36891783",
+"t": "paper",
+"n": "Mechanisms of diabetic foot ulceration: A review",
+"sub": "Journal of Diabetes 2023 · cited 251",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36891783",
+"c": ""
+},
+{
+"k": "person:haibo-deng",
+"t": "person",
+"n": "Haibo Deng",
+"sub": "Huazhong University of Science and Technology",
+"url": "https://orcid.org/0000-0002-7807-4304",
+"c": "CN"
+},
+{
+"k": "org:huazhong-university-of-science-and-technology",
+"t": "academic",
+"n": "Huazhong University of Science and Technology",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:gongchi-li",
+"t": "person",
+"n": "Gongchi Li",
+"sub": "Wuhan Union Hospital",
+"url": "https://orcid.org/0000-0002-3742-9404",
+"c": "CN"
+},
+{
+"k": "org:wuhan-union-hospital",
+"t": "hospital",
+"n": "Wuhan Union Hospital",
+"sub": "",
+"url": "",
+"c": "CN"
 }
 ],
 "edges": [
@@ -2582,32 +5039,32 @@
 "r": "tested_in"
 },
 {
-"a": "drug:high-dose-allogeneic-mesenchymal-stromal-cells",
+"a": "drug:high",
 "b": "asset:aup16",
 "r": "competes"
 },
 {
-"a": "drug:high-dose-allogeneic-mesenchymal-stromal-cells",
+"a": "drug:high",
 "b": "trial:nct04466007",
 "r": "tested_in"
 },
 {
-"a": "drug:ilp100-topical-emilimogene-sigulactibac-1x10-9-cfu-cm-2",
+"a": "drug:ilp100-topical-1x10-9-cfu-cm-2",
 "b": "asset:aup16",
 "r": "competes"
 },
 {
-"a": "drug:ilp100-topical-emilimogene-sigulactibac-1x10-9-cfu-cm-2",
+"a": "drug:ilp100-topical-1x10-9-cfu-cm-2",
 "b": "trial:nct05608187",
 "r": "tested_in"
 },
 {
-"a": "drug:ilp100-topical-emilimogene-sigulactibac-5x10-7-cfu-cm-2",
+"a": "drug:ilp100-topical-5x10-7-cfu-cm-2",
 "b": "asset:aup16",
 "r": "competes"
 },
 {
-"a": "drug:ilp100-topical-emilimogene-sigulactibac-5x10-7-cfu-cm-2",
+"a": "drug:ilp100-topical-5x10-7-cfu-cm-2",
 "b": "trial:nct05608187",
 "r": "tested_in"
 },
@@ -2652,12 +5109,12 @@
 "r": "tested_in"
 },
 {
-"a": "drug:low-dose-allogeneic-mesenchymal-stromal-cells",
+"a": "drug:low",
 "b": "asset:aup16",
 "r": "competes"
 },
 {
-"a": "drug:low-dose-allogeneic-mesenchymal-stromal-cells",
+"a": "drug:low",
 "b": "trial:nct04466007",
 "r": "tested_in"
 },
@@ -2692,12 +5149,12 @@
 "r": "tested_in"
 },
 {
-"a": "drug:pep-purified-exosome-product-tisseel",
+"a": "drug:pep-tisseel",
 "b": "asset:aup16",
 "r": "competes"
 },
 {
-"a": "drug:pep-purified-exosome-product-tisseel",
+"a": "drug:pep-tisseel",
 "b": "trial:nct06319287",
 "r": "tested_in"
 },
@@ -2722,12 +5179,12 @@
 "r": "tested_in"
 },
 {
-"a": "drug:semaglutide-1-34-mg-ml",
+"a": "drug:semaglutide",
 "b": "asset:aup16",
 "r": "competes"
 },
 {
-"a": "drug:semaglutide-1-34-mg-ml",
+"a": "drug:semaglutide",
 "b": "trial:nct07581145",
 "r": "tested_in"
 },
@@ -2752,22 +5209,22 @@
 "r": "tested_in"
 },
 {
-"a": "drug:soc-high-dose-cywc628",
+"a": "drug:soc-high",
 "b": "asset:aup16",
 "r": "competes"
 },
 {
-"a": "drug:soc-high-dose-cywc628",
+"a": "drug:soc-high",
 "b": "trial:nct07096934",
 "r": "tested_in"
 },
 {
-"a": "drug:soc-low-dose-cywc628",
+"a": "drug:soc-low",
 "b": "asset:aup16",
 "r": "competes"
 },
 {
-"a": "drug:soc-low-dose-cywc628",
+"a": "drug:soc-low",
 "b": "trial:nct07096934",
 "r": "tested_in"
 },
@@ -3057,6 +5514,11 @@
 "r": "sponsors"
 },
 {
+"a": "org:cern",
+"b": "paper:doi-10-1109-tasc-2022-3148971",
+"r": "funded"
+},
+{
 "a": "org:ch-de-tourcoing",
 "b": "trial:nct02664740",
 "r": "site_of"
@@ -3065,6 +5527,21 @@
 "a": "org:ch-intercommunal-de-villeneuve-saint-georges",
 "b": "trial:nct02664740",
 "r": "site_of"
+},
+{
+"a": "org:china-postdoctoral-science-foundation",
+"b": "paper:pmid-38310127",
+"r": "funded"
+},
+{
+"a": "org:chinese-academy-of-sciences",
+"b": "paper:pmid-36424137",
+"r": "funded"
+},
+{
+"a": "org:chongqing-university",
+"b": "paper:pmid-33628388",
+"r": "funded"
 },
 {
 "a": "org:chru-de-nimes-hopital-universitaire-de-readaptation-du-grau",
@@ -3157,6 +5634,11 @@
 "r": "site_of"
 },
 {
+"a": "org:defense-advanced-research-projects-agency",
+"b": "paper:pmid-35788686",
+"r": "funded"
+},
+{
 "a": "org:delray-physician-care-center",
 "b": "trial:nct04450693",
 "r": "site_of"
@@ -3197,6 +5679,16 @@
 "r": "sponsors"
 },
 {
+"a": "org:energiteknologisk-udviklings-og-demonstrationsprogram",
+"b": "paper:pmid-30149787",
+"r": "funded"
+},
+{
+"a": "org:essity-germany",
+"b": "paper:pmid-37302121",
+"r": "funded"
+},
+{
 "a": "org:estar-medical-dba-medical-technologies",
 "b": "trial:nct06810726",
 "r": "sponsors"
@@ -3205,6 +5697,11 @@
 "a": "org:european-commission",
 "b": "trial:nct05608187",
 "r": "collaborates"
+},
+{
+"a": "org:european-regional-development-fund",
+"b": "paper:pmid-32176445",
+"r": "funded"
 },
 {
 "a": "org:facultad-de-medicina-de-la-universidad-autonoma-de-nuevo-leo",
@@ -3217,13 +5714,18 @@
 "r": "site_of"
 },
 {
+"a": "org:fermilab",
+"b": "paper:doi-10-1109-tasc-2023-3243876",
+"r": "funded"
+},
+{
 "a": "org:fibrobiologics",
-"b": "drug:soc-high-dose-cywc628",
+"b": "drug:soc-high",
 "r": "develops"
 },
 {
 "a": "org:fibrobiologics",
-"b": "drug:soc-low-dose-cywc628",
+"b": "drug:soc-low",
 "r": "develops"
 },
 {
@@ -3235,6 +5737,11 @@
 "a": "org:first-excellent-research-group",
 "b": "trial:nct07565506",
 "r": "site_of"
+},
+{
+"a": "org:fondation-idella",
+"b": "paper:pmid-30149787",
+"r": "funded"
 },
 {
 "a": "org:futuro-clinical-trials",
@@ -3270,6 +5777,16 @@
 "a": "org:hauarztliche-und-diabetologische-praxis",
 "b": "trial:nct06111183",
 "r": "site_of"
+},
+{
+"a": "org:high-energy-physics",
+"b": "paper:doi-10-1109-tasc-2022-3148971",
+"r": "funded"
+},
+{
+"a": "org:high-energy-physics",
+"b": "paper:doi-10-1109-tasc-2023-3243876",
+"r": "funded"
 },
 {
 "a": "org:hopital-europeen",
@@ -3347,6 +5864,11 @@
 "r": "site_of"
 },
 {
+"a": "org:hubei-university-of-science-and-technology",
+"b": "paper:pmid-41329067",
+"r": "funded"
+},
+{
 "a": "org:hunter-holmes-mcguire-vamc",
 "b": "trial:nct04723134",
 "r": "site_of"
@@ -3373,12 +5895,12 @@
 },
 {
 "a": "org:ilya-pharma",
-"b": "drug:ilp100-topical-emilimogene-sigulactibac-1x10-9-cfu-cm-2",
+"b": "drug:ilp100-topical-1x10-9-cfu-cm-2",
 "r": "develops"
 },
 {
 "a": "org:ilya-pharma",
-"b": "drug:ilp100-topical-emilimogene-sigulactibac-5x10-7-cfu-cm-2",
+"b": "drug:ilp100-topical-5x10-7-cfu-cm-2",
 "r": "develops"
 },
 {
@@ -3392,18 +5914,28 @@
 "r": "site_of"
 },
 {
+"a": "org:innovationsfonden",
+"b": "paper:pmid-30149787",
+"r": "funded"
+},
+{
 "a": "org:institut-fur-diabetesforschung-muenster",
 "b": "trial:nct06111183",
 "r": "site_of"
 },
 {
+"a": "org:institute-for-health-metrics-and-evaluation",
+"b": "paper:pmid-32139380",
+"r": "funded"
+},
+{
 "a": "org:instituto-de-investigacion-sanitaria-de-la-fundacion-jimenez",
-"b": "drug:high-dose-allogeneic-mesenchymal-stromal-cells",
+"b": "drug:high",
 "r": "develops"
 },
 {
 "a": "org:instituto-de-investigacion-sanitaria-de-la-fundacion-jimenez",
-"b": "drug:low-dose-allogeneic-mesenchymal-stromal-cells",
+"b": "drug:low",
 "r": "develops"
 },
 {
@@ -3442,6 +5974,16 @@
 "r": "sponsors"
 },
 {
+"a": "org:jiangxi-provincial-department-of-science-and-technology",
+"b": "paper:pmid-38264279",
+"r": "funded"
+},
+{
+"a": "org:jilin-university",
+"b": "paper:pmid-32266224",
+"r": "funded"
+},
+{
 "a": "org:joseph-boykin-md",
 "b": "trial:nct04723134",
 "r": "sponsors"
@@ -3460,6 +6002,16 @@
 "a": "org:keck-medical-center-of-usc",
 "b": "trial:nct04460573",
 "r": "site_of"
+},
+{
+"a": "org:kermanshah-university-of-medical-sciences",
+"b": "paper:pmid-32433566",
+"r": "funded"
+},
+{
+"a": "org:key-technologies-research-and-development-program",
+"b": "paper:pmid-37608335",
+"r": "funded"
 },
 {
 "a": "org:korea-university-guro-hospital",
@@ -3542,6 +6094,11 @@
 "r": "site_of"
 },
 {
+"a": "org:louisiana-state-university",
+"b": "paper:pmid-33808207",
+"r": "funded"
+},
+{
 "a": "org:mackay-hospital-and-health-service",
 "b": "trial:nct07096934",
 "r": "site_of"
@@ -3560,6 +6117,11 @@
 "a": "org:medical-research-agency-poland",
 "b": "trial:nct06843122",
 "r": "collaborates"
+},
+{
+"a": "org:medical-research-council",
+"b": "paper:pmid-32139380",
+"r": "funded"
 },
 {
 "a": "org:medical-university-of-warsaw",
@@ -3592,6 +6154,11 @@
 "r": "site_of"
 },
 {
+"a": "org:ministere-des-affaires-sociales-et-de-la-sante",
+"b": "paper:pmid-28283830",
+"r": "funded"
+},
+{
 "a": "org:monash-house-research-centre",
 "b": "trial:nct07096934",
 "r": "site_of"
@@ -3612,9 +6179,54 @@
 "r": "site_of"
 },
 {
+"a": "org:national-center-for-advancing-translational-sciences",
+"b": "paper:pmid-32209136",
+"r": "funded"
+},
+{
+"a": "org:national-center-for-advancing-translational-sciences",
+"b": "paper:pmid-35013299",
+"r": "funded"
+},
+{
 "a": "org:national-cheng-kung-university-hospital",
 "b": "trial:nct06383013",
 "r": "site_of"
+},
+{
+"a": "org:national-health-and-medical-research-council",
+"b": "paper:pmid-32139380",
+"r": "funded"
+},
+{
+"a": "org:national-heart-lung-and-blood-institute",
+"b": "paper:pmid-36548709",
+"r": "funded"
+},
+{
+"a": "org:national-institute-for-health-and-care-research",
+"b": "paper:pmid-32176445",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
+"b": "paper:pmid-33628388",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
+"b": "paper:pmid-35013299",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
+"b": "paper:pmid-36548709",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
+"b": "paper:pmid-37395769",
+"r": "funded"
 },
 {
 "a": "org:national-institute-of-diabetes-and-endocrinology",
@@ -3622,9 +6234,104 @@
 "r": "site_of"
 },
 {
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-32938916",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-33628388",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-33731435",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-35013299",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-35788686",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-37395769",
+"r": "funded"
+},
+{
+"a": "org:national-key-research-and-development-program-of-china",
+"b": "paper:pmid-37608335",
+"r": "funded"
+},
+{
 "a": "org:national-medical-research-council-nmrc-singapore",
 "b": "trial:nct05174806",
 "r": "collaborates"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-32266224",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-36424137",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-36891783",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-37535449",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-37608335",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-37803944",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-38310127",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-41329067",
+"r": "funded"
+},
+{
+"a": "org:national-science-foundation",
+"b": "paper:pmid-37395769",
+"r": "funded"
+},
+{
+"a": "org:natural-science-foundation-of-chongqing",
+"b": "paper:pmid-33628388",
+"r": "funded"
+},
+{
+"a": "org:natural-science-foundation-of-hubei-province",
+"b": "paper:pmid-41329067",
+"r": "funded"
+},
+{
+"a": "org:natural-science-foundation-of-shandong-province",
+"b": "paper:pmid-37535449",
+"r": "funded"
 },
 {
 "a": "org:new-horizons-research",
@@ -3657,8 +6364,18 @@
 "r": "site_of"
 },
 {
+"a": "org:office-of-science",
+"b": "paper:doi-10-1109-tasc-2022-3148971",
+"r": "funded"
+},
+{
+"a": "org:office-of-science",
+"b": "paper:doi-10-1109-tasc-2023-3243876",
+"r": "funded"
+},
+{
 "a": "org:ole-lander-svendsen",
-"b": "drug:semaglutide-1-34-mg-ml",
+"b": "drug:semaglutide",
 "r": "develops"
 },
 {
@@ -3720,6 +6437,11 @@
 "a": "org:parkland-memorial-hospital",
 "b": "trial:nct05174806",
 "r": "site_of"
+},
+{
+"a": "org:people-s-government-of-jilin-province",
+"b": "paper:pmid-32266224",
+"r": "funded"
 },
 {
 "a": "org:phagenix",
@@ -3798,7 +6520,7 @@
 },
 {
 "a": "org:rion",
-"b": "drug:pep-purified-exosome-product-tisseel",
+"b": "drug:pep-tisseel",
 "r": "develops"
 },
 {
@@ -3832,9 +6554,24 @@
 "r": "sponsors"
 },
 {
+"a": "org:schweizerischer-nationalfonds-zur-forderung-der-wissenschaft",
+"b": "paper:pmid-33731435",
+"r": "funded"
+},
+{
+"a": "org:science-and-technology-plan-project-of-wenzhou-china",
+"b": "paper:pmid-37803944",
+"r": "funded"
+},
+{
 "a": "org:seoul-national-university-bundang-hospital",
 "b": "trial:nct04569409",
 "r": "site_of"
+},
+{
+"a": "org:shanghai-municipal-health-commission",
+"b": "paper:pmid-36424137",
+"r": "funded"
 },
 {
 "a": "org:shenyang-seventh-people-s-hospital-shenyang-hospital-of-inte",
@@ -3852,14 +6589,14 @@
 "r": "site_of"
 },
 {
-"a": "org:site-001",
-"b": "trial:nct06852976",
-"r": "site_of"
-},
-{
 "a": "org:southern-medical-university-third-hospital",
 "b": "trial:nct06531512",
 "r": "site_of"
+},
+{
+"a": "org:steno-diabetes-center-copenhagen",
+"b": "paper:pmid-32176451",
+"r": "funded"
 },
 {
 "a": "org:sun-yat-sen-memorial-hospital-sun-yat-sen-university",
@@ -3907,6 +6644,46 @@
 "r": "site_of"
 },
 {
+"a": "org:tongji-university",
+"b": "paper:pmid-36424137",
+"r": "funded"
+},
+{
+"a": "org:u-s-department-of-defense",
+"b": "paper:pmid-33596041",
+"r": "funded"
+},
+{
+"a": "org:u-s-department-of-defense",
+"b": "paper:pmid-35788686",
+"r": "funded"
+},
+{
+"a": "org:u-s-department-of-energy",
+"b": "paper:doi-10-1109-tasc-2022-3148971",
+"r": "funded"
+},
+{
+"a": "org:u-s-department-of-energy",
+"b": "paper:doi-10-1109-tasc-2023-3243876",
+"r": "funded"
+},
+{
+"a": "org:u-s-department-of-health-and-human-services",
+"b": "paper:pmid-32938916",
+"r": "funded"
+},
+{
+"a": "org:u-s-department-of-health-and-human-services",
+"b": "paper:pmid-35013299",
+"r": "funded"
+},
+{
+"a": "org:u-s-department-of-health-and-human-services",
+"b": "paper:pmid-35788686",
+"r": "funded"
+},
+{
 "a": "org:united-medical-and-dental-college",
 "b": "trial:nct07488247",
 "r": "sponsors"
@@ -3940,6 +6717,16 @@
 "a": "org:university-of-california-los-angeles",
 "b": "trial:nct04460573",
 "r": "collaborates"
+},
+{
+"a": "org:university-of-california-san-diego",
+"b": "paper:pmid-32938916",
+"r": "funded"
+},
+{
+"a": "org:university-of-miami",
+"b": "paper:pmid-32938916",
+"r": "funded"
 },
 {
 "a": "org:university-of-nove-de-julho",
@@ -4012,6 +6799,11 @@
 "r": "collaborates"
 },
 {
+"a": "org:wenzhou-medical-university",
+"b": "paper:pmid-37803944",
+"r": "funded"
+},
+{
 "a": "org:woundcentrics-wound-care-center-at-corpus-christi-south",
 "b": "trial:nct06810726",
 "r": "site_of"
@@ -4022,9 +6814,159 @@
 "r": "site_of"
 },
 {
+"a": "org:youth-innovation-promotion-association-of-the-chinese-academ",
+"b": "paper:pmid-37608335",
+"r": "funded"
+},
+{
 "a": "org:zhuhai-rui-inno-pharmaceutical-technology",
 "b": "trial:nct06852976",
 "r": "sponsors"
+},
+{
+"a": "paper:doi-10-1016-j-jval-2023-09-437",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1093-jas-sky404-355",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1109-tasc-2022-3148971",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1109-tasc-2023-3243876",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1136-jitc-2022-sitc2022-0852",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1681-asn-20233411s1979b",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-2139-ssrn-3369796",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-37349-eds-2026-1008168",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-37657-vniipo-2020-99-2-007",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-51161-rems-3323",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-5117-tvar2017-2-009",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-5117-tvar2017-3-001",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-5117-tvar2017-3-005",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-5117-tvar2017-3-011",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-5117-tvar2019-1-009",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-5117-tvar2019-10-003",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-5117-tvar2019-11-007",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-5117-tvar2019-5-009",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-5117-tvar2020-11-12-007",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-5117-tvar2021-2-006",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-5117-tvar2021-5-004",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-54265-iqcy1958",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-6084-m9-figshare-21385128",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-28283830",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-30149787",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-41329067",
+"b": "asset:aup16",
+"r": "cites_asset"
+},
+{
+"a": "person:a-davido",
+"b": "org:hopital-europeen-georges-pompidou",
+"r": "affiliated"
+},
+{
+"a": "person:a-davido",
+"b": "paper:pmid-28283830",
+"r": "authored"
+},
+{
+"a": "person:abdul-rohim-tualeka",
+"b": "paper:doi-10-6084-m9-figshare-21385128",
+"r": "authored"
 },
 {
 "a": "person:adrianne-p-smith",
@@ -4037,6 +6979,16 @@
 "r": "investigator"
 },
 {
+"a": "person:adronie-verbrugghe",
+"b": "org:ontario-veterinary-college",
+"r": "affiliated"
+},
+{
+"a": "person:adronie-verbrugghe",
+"b": "paper:doi-10-1093-jas-sky404-355",
+"r": "authored"
+},
+{
 "a": "person:albert-sotto",
 "b": "org:centre-hospitalier-universitaire-de-nimes",
 "r": "affiliated"
@@ -4047,6 +6999,11 @@
 "r": "investigator"
 },
 {
+"a": "person:alex-mercer",
+"b": "paper:doi-10-1681-asn-20233411s1979b",
+"r": "authored"
+},
+{
 "a": "person:alexander-m-reyzelman-dpm",
 "b": "org:center-for-clinical-research",
 "r": "affiliated"
@@ -4055,6 +7012,101 @@
 "a": "person:alexander-m-reyzelman-dpm",
 "b": "trial:nct03754465",
 "r": "investigator"
+},
+{
+"a": "person:amanda-e-louiselle",
+"b": "org:children-s-hospital-colorado",
+"r": "affiliated"
+},
+{
+"a": "person:amanda-e-louiselle",
+"b": "org:university-of-colorado-anschutz",
+"r": "affiliated"
+},
+{
+"a": "person:amanda-e-louiselle",
+"b": "paper:pmid-34089902",
+"r": "authored"
+},
+{
+"a": "person:ana-leticia-almeida-cavalcante-gomes",
+"b": "paper:doi-10-51161-rems-3323",
+"r": "authored"
+},
+{
+"a": "person:andrew-phillip-sawaya",
+"b": "org:national-institute-of-arthritis-and-musculoskeletal-and-skin",
+"r": "affiliated"
+},
+{
+"a": "person:andrew-phillip-sawaya",
+"b": "paper:pmid-32938916",
+"r": "authored"
+},
+{
+"a": "person:anne-raynaud-lambinet",
+"b": "org:centre-hospitalier-universitaire-de-toulouse",
+"r": "affiliated"
+},
+{
+"a": "person:anne-raynaud-lambinet",
+"b": "org:hopital-rangueil",
+"r": "affiliated"
+},
+{
+"a": "person:anne-raynaud-lambinet",
+"b": "paper:pmid-28283830",
+"r": "authored"
+},
+{
+"a": "person:anthony-olubunmi-akintomide",
+"b": "org:obafemi-awolowo-university",
+"r": "affiliated"
+},
+{
+"a": "person:anthony-olubunmi-akintomide",
+"b": "paper:pmid-34168731",
+"r": "authored"
+},
+{
+"a": "person:aristidis-veves",
+"b": "org:beth-israel-deaconess-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:aristidis-veves",
+"b": "org:harvard-university",
+"r": "affiliated"
+},
+{
+"a": "person:aristidis-veves",
+"b": "paper:pmid-33731435",
+"r": "authored"
+},
+{
+"a": "person:aristidis-veves",
+"b": "paper:pmid-35013299",
+"r": "authored"
+},
+{
+"a": "person:aristidis-veves",
+"b": "paper:pmid-35788686",
+"r": "authored"
+},
+{
+"a": "person:aurelien-dinh",
+"b": "org:assistance-publique-hopitaux-de-paris",
+"r": "affiliated"
+},
+{
+"a": "person:aurelien-dinh",
+"b": "org:hopital-raymond-poincare",
+"r": "affiliated"
+},
+{
+"a": "person:aurelien-dinh",
+"b": "paper:pmid-28283830",
+"r": "authored"
 },
 {
 "a": "person:baekkyu-kim-ph-d",
@@ -4077,6 +7129,136 @@
 "r": "investigator"
 },
 {
+"a": "person:belen-fernandez",
+"b": "org:institute-of-agrifood-research-and-technology",
+"r": "affiliated"
+},
+{
+"a": "person:belen-fernandez",
+"b": "paper:pmid-30149787",
+"r": "authored"
+},
+{
+"a": "person:benjamin-davido",
+"b": "org:assistance-publique-hopitaux-de-paris",
+"r": "affiliated"
+},
+{
+"a": "person:benjamin-davido",
+"b": "org:universite-de-versailles-saint-quentin-en-yvelines",
+"r": "affiliated"
+},
+{
+"a": "person:benjamin-davido",
+"b": "paper:pmid-28283830",
+"r": "authored"
+},
+{
+"a": "person:bernd-stratmann",
+"b": "org:heart-and-diabetes-center-north-rhine-westphalia",
+"r": "affiliated"
+},
+{
+"a": "person:bernd-stratmann",
+"b": "org:ruhr-university-bochum",
+"r": "affiliated"
+},
+{
+"a": "person:bernd-stratmann",
+"b": "paper:pmid-32672829",
+"r": "authored"
+},
+{
+"a": "person:bin-li",
+"b": "org:shanghai-university-of-traditional-chinese-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:bin-li",
+"b": "org:tongji-university",
+"r": "affiliated"
+},
+{
+"a": "person:bin-li",
+"b": "paper:pmid-36424137",
+"r": "authored"
+},
+{
+"a": "person:bing-liu",
+"b": "paper:pmid-38310127",
+"r": "authored"
+},
+{
+"a": "person:c-grant",
+"b": "org:ontario-veterinary-college",
+"r": "affiliated"
+},
+{
+"a": "person:c-grant",
+"b": "paper:doi-10-1093-jas-sky404-355",
+"r": "authored"
+},
+{
+"a": "person:c-jordy",
+"b": "org:centre-hospitalier-de-versailles",
+"r": "affiliated"
+},
+{
+"a": "person:c-jordy",
+"b": "org:hopital-andre-mignot",
+"r": "affiliated"
+},
+{
+"a": "person:c-jordy",
+"b": "paper:pmid-28283830",
+"r": "authored"
+},
+{
+"a": "person:caitlin-w-hicks",
+"b": "org:johns-hopkins-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:caitlin-w-hicks",
+"b": "org:johns-hopkins-university",
+"r": "affiliated"
+},
+{
+"a": "person:caitlin-w-hicks",
+"b": "paper:pmid-36548709",
+"r": "authored"
+},
+{
+"a": "person:chandan-k-sen",
+"b": "org:university-of-pittsburgh",
+"r": "affiliated"
+},
+{
+"a": "person:chandan-k-sen",
+"b": "org:university-of-pittsburgh-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:chandan-k-sen",
+"b": "paper:pmid-37756368",
+"r": "authored"
+},
+{
+"a": "person:changcun-han",
+"b": "org:hubei-university-of-technology",
+"r": "affiliated"
+},
+{
+"a": "person:changcun-han",
+"b": "org:nanyang-technological-university",
+"r": "affiliated"
+},
+{
+"a": "person:changcun-han",
+"b": "paper:pmid-41329067",
+"r": "authored"
+},
+{
 "a": "person:charles-zelen-dpm",
 "b": "org:professional-education-research-institute-peri",
 "r": "affiliated"
@@ -4085,6 +7267,71 @@
 "a": "person:charles-zelen-dpm",
 "b": "trial:nct07852338",
 "r": "investigator"
+},
+{
+"a": "person:chenyu-shi",
+"b": "org:jilin-university",
+"r": "affiliated"
+},
+{
+"a": "person:chenyu-shi",
+"b": "org:second-affiliated-hospital-of-jilin-university",
+"r": "affiliated"
+},
+{
+"a": "person:chenyu-shi",
+"b": "paper:pmid-32266224",
+"r": "authored"
+},
+{
+"a": "person:chris-adusei-manu",
+"b": "org:king-s-college-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:chris-adusei-manu",
+"b": "paper:pmid-33680841",
+"r": "authored"
+},
+{
+"a": "person:christine-f-carson",
+"b": "org:the-university-of-western-australia",
+"r": "affiliated"
+},
+{
+"a": "person:christine-f-carson",
+"b": "paper:doi-10-2139-ssrn-3369796",
+"r": "authored"
+},
+{
+"a": "person:clara-duran",
+"b": "org:assistance-publique-hopitaux-de-paris",
+"r": "affiliated"
+},
+{
+"a": "person:clara-duran",
+"b": "org:universite-de-versailles-saint-quentin-en-yvelines",
+"r": "affiliated"
+},
+{
+"a": "person:clara-duran",
+"b": "paper:pmid-28283830",
+"r": "authored"
+},
+{
+"a": "person:david-g-armstrong",
+"b": "org:university-of-southern-california",
+"r": "affiliated"
+},
+{
+"a": "person:david-g-armstrong",
+"b": "paper:pmid-32209136",
+"r": "authored"
+},
+{
+"a": "person:david-g-armstrong",
+"b": "paper:pmid-37395769",
+"r": "authored"
 },
 {
 "a": "person:david-g-armstrong-dpn",
@@ -4097,14 +7344,149 @@
 "r": "investigator"
 },
 {
-"a": "person:david-g-armstrong-ph-d",
+"a": "person:david-g-armstrongph-d",
 "b": "org:university-of-southern-california",
 "r": "affiliated"
 },
 {
-"a": "person:david-g-armstrong-ph-d",
+"a": "person:david-g-armstrongph-d",
 "b": "trial:nct03754465",
 "r": "investigator"
+},
+{
+"a": "person:david-j-mooney",
+"b": "org:harvard-university",
+"r": "affiliated"
+},
+{
+"a": "person:david-j-mooney",
+"b": "org:wyss-institute-for-biologically-inspired-engineering",
+"r": "affiliated"
+},
+{
+"a": "person:david-j-mooney",
+"b": "paper:pmid-33731435",
+"r": "authored"
+},
+{
+"a": "person:david-olubukunmi-soyoye",
+"b": "org:obafemi-awolowo-university",
+"r": "affiliated"
+},
+{
+"a": "person:david-olubukunmi-soyoye",
+"b": "paper:pmid-34168731",
+"r": "authored"
+},
+{
+"a": "person:dawei-li",
+"b": "org:chinese-pla-general-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:dawei-li",
+"b": "paper:pmid-37608335",
+"r": "authored"
+},
+{
+"a": "person:diethelm-tschoepe",
+"b": "org:heart-and-diabetes-center-north-rhine-westphalia",
+"r": "affiliated"
+},
+{
+"a": "person:diethelm-tschoepe",
+"b": "org:ruhr-university-bochum",
+"r": "affiliated"
+},
+{
+"a": "person:diethelm-tschoepe",
+"b": "paper:pmid-32672829",
+"r": "authored"
+},
+{
+"a": "person:e-aslangul",
+"b": "org:hotel-dieu-de-paris",
+"r": "affiliated"
+},
+{
+"a": "person:e-aslangul",
+"b": "paper:pmid-28283830",
+"r": "authored"
+},
+{
+"a": "person:eginia-franco",
+"b": "org:st-luke-s-university-health-network",
+"r": "affiliated"
+},
+{
+"a": "person:eginia-franco",
+"b": "paper:pmid-32003952",
+"r": "authored"
+},
+{
+"a": "person:emmanuel-mathieu",
+"b": "org:hopital-foch",
+"r": "affiliated"
+},
+{
+"a": "person:emmanuel-mathieu",
+"b": "paper:pmid-28283830",
+"r": "authored"
+},
+{
+"a": "person:fang-huang",
+"b": "org:chinese-academy-of-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:fang-huang",
+"b": "org:tongji-university",
+"r": "affiliated"
+},
+{
+"a": "person:fang-huang",
+"b": "paper:pmid-36424137",
+"r": "authored"
+},
+{
+"a": "person:frederique-bouchand",
+"b": "org:assistance-publique-hopitaux-de-paris",
+"r": "affiliated"
+},
+{
+"a": "person:frederique-bouchand",
+"b": "org:universite-de-versailles-saint-quentin-en-yvelines",
+"r": "affiliated"
+},
+{
+"a": "person:frederique-bouchand",
+"b": "paper:pmid-28283830",
+"r": "authored"
+},
+{
+"a": "person:georgios-theocharidis",
+"b": "org:beth-israel-deaconess-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:georgios-theocharidis",
+"b": "paper:pmid-35013299",
+"r": "authored"
+},
+{
+"a": "person:georgios-theocharidis",
+"b": "paper:pmid-35788686",
+"r": "authored"
+},
+{
+"a": "person:giorgio-vallone",
+"b": "org:lawrence-berkeley-national-laboratory",
+"r": "affiliated"
+},
+{
+"a": "person:giorgio-vallone",
+"b": "paper:doi-10-1109-tasc-2022-3148971",
+"r": "authored"
 },
 {
 "a": "person:giovanni-pratesi",
@@ -4117,6 +7499,21 @@
 "r": "investigator"
 },
 {
+"a": "person:gongchi-li",
+"b": "org:huazhong-university-of-science-and-technology",
+"r": "affiliated"
+},
+{
+"a": "person:gongchi-li",
+"b": "org:wuhan-union-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:gongchi-li",
+"b": "paper:pmid-36891783",
+"r": "authored"
+},
+{
 "a": "person:guang-ning",
 "b": "org:ruijin-hospital",
 "r": "affiliated"
@@ -4125,6 +7522,46 @@
 "a": "person:guang-ning",
 "b": "trial:nct06531512",
 "r": "investigator"
+},
+{
+"a": "person:guillaume-der-sahakian",
+"b": "org:hotel-dieu-de-paris",
+"r": "affiliated"
+},
+{
+"a": "person:guillaume-der-sahakian",
+"b": "paper:pmid-28283830",
+"r": "authored"
+},
+{
+"a": "person:hadi-samadian",
+"b": "org:kermanshah-university-of-medical-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:hadi-samadian",
+"b": "paper:pmid-32433566",
+"r": "authored"
+},
+{
+"a": "person:haibo-deng",
+"b": "org:huazhong-university-of-science-and-technology",
+"r": "affiliated"
+},
+{
+"a": "person:haibo-deng",
+"b": "paper:pmid-36891783",
+"r": "authored"
+},
+{
+"a": "person:haiqing-dong",
+"b": "org:tongji-university",
+"r": "affiliated"
+},
+{
+"a": "person:haiqing-dong",
+"b": "paper:pmid-36424137",
+"r": "authored"
 },
 {
 "a": "person:hamid-khoja-chief-scientific-officer-ph-d",
@@ -4137,6 +7574,56 @@
 "r": "investigator"
 },
 {
+"a": "person:huai-yang",
+"b": "org:hubei-university-of-technology",
+"r": "affiliated"
+},
+{
+"a": "person:huai-yang",
+"b": "paper:pmid-41329067",
+"r": "authored"
+},
+{
+"a": "person:huanhuan-chen",
+"b": "org:nanjing-university",
+"r": "affiliated"
+},
+{
+"a": "person:huanhuan-chen",
+"b": "org:state-key-laboratory-of-pharmaceutical-biotechnology",
+"r": "affiliated"
+},
+{
+"a": "person:huanhuan-chen",
+"b": "paper:pmid-32440554",
+"r": "authored"
+},
+{
+"a": "person:hyunwoo-yuk",
+"b": "org:massachusetts-institute-of-technology",
+"r": "affiliated"
+},
+{
+"a": "person:hyunwoo-yuk",
+"b": "paper:pmid-35788686",
+"r": "authored"
+},
+{
+"a": "person:irwing-f-alvarez",
+"b": "org:western-university-of-health-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:irwing-f-alvarez",
+"b": "paper:doi-10-37349-eds-2026-1008168",
+"r": "authored"
+},
+{
+"a": "person:isabela-barroso-paixao",
+"b": "paper:doi-10-54265-iqcy1958",
+"r": "authored"
+},
+{
 "a": "person:j-benjamin-jackson",
 "b": "org:prisma-health-midlands",
 "r": "affiliated"
@@ -4147,14 +7634,139 @@
 "r": "investigator"
 },
 {
+"a": "person:j-salomon",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:j-salomon",
+"b": "org:institut-pasteur",
+"r": "affiliated"
+},
+{
+"a": "person:j-salomon",
+"b": "paper:pmid-28283830",
+"r": "authored"
+},
+{
+"a": "person:jaap-j-van-netten",
+"b": "org:amsterdam-movement-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:jaap-j-van-netten",
+"b": "org:amsterdam-umc-location-university-of-amsterdam",
+"r": "affiliated"
+},
+{
+"a": "person:jaap-j-van-netten",
+"b": "paper:pmid-37302121",
+"r": "authored"
+},
+{
 "a": "person:jan-apelqvist",
 "b": "org:department-of-endocrinology-skane-university-hospital-malmo",
 "r": "affiliated"
 },
 {
 "a": "person:jan-apelqvist",
+"b": "org:skane-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:jan-apelqvist",
+"b": "paper:doi-10-1016-j-jval-2023-09-437",
+"r": "authored"
+},
+{
+"a": "person:jan-apelqvist",
 "b": "trial:nct05608187",
 "r": "investigator"
+},
+{
+"a": "person:jialing-hu",
+"b": "org:second-affiliated-hospital-of-nanchang-university",
+"r": "affiliated"
+},
+{
+"a": "person:jialing-hu",
+"b": "paper:pmid-38264279",
+"r": "authored"
+},
+{
+"a": "person:jianliang-shen",
+"b": "org:affiliated-eye-hospital-of-wenzhou-medical-college",
+"r": "affiliated"
+},
+{
+"a": "person:jianliang-shen",
+"b": "org:wenzhou-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:jianliang-shen",
+"b": "paper:pmid-37803944",
+"r": "authored"
+},
+{
+"a": "person:jianlin-shi",
+"b": "org:chinese-academy-of-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:jianlin-shi",
+"b": "org:tongji-university",
+"r": "affiliated"
+},
+{
+"a": "person:jianlin-shi",
+"b": "paper:pmid-36424137",
+"r": "authored"
+},
+{
+"a": "person:jincheng-wang",
+"b": "org:jilin-university",
+"r": "affiliated"
+},
+{
+"a": "person:jincheng-wang",
+"b": "org:second-affiliated-hospital-of-jilin-university",
+"r": "affiliated"
+},
+{
+"a": "person:jincheng-wang",
+"b": "paper:pmid-32266224",
+"r": "authored"
+},
+{
+"a": "person:jinhui-wu",
+"b": "org:nanjing-university",
+"r": "affiliated"
+},
+{
+"a": "person:jinhui-wu",
+"b": "org:state-key-laboratory-of-pharmaceutical-biotechnology",
+"r": "affiliated"
+},
+{
+"a": "person:jinhui-wu",
+"b": "paper:pmid-32440554",
+"r": "authored"
+},
+{
+"a": "person:jinxi-zhu",
+"b": "org:nanchang-university",
+"r": "affiliated"
+},
+{
+"a": "person:jinxi-zhu",
+"b": "org:second-affiliated-hospital-of-nanchang-university",
+"r": "affiliated"
+},
+{
+"a": "person:jinxi-zhu",
+"b": "paper:pmid-38264279",
+"r": "authored"
 },
 {
 "a": "person:jiung-bak-ph-d",
@@ -4165,6 +7777,11 @@
 "a": "person:jiung-bak-ph-d",
 "b": "trial:nct04569409",
 "r": "investigator"
+},
+{
+"a": "person:jorginete-de-jesus-damiao",
+"b": "paper:doi-10-54265-iqcy1958",
+"r": "authored"
 },
 {
 "a": "person:jose-l-elizondo-cirujano-general",
@@ -4187,6 +7804,16 @@
 "r": "investigator"
 },
 {
+"a": "person:julin-xie",
+"b": "org:the-first-affiliated-hospital-sun-yat-sen-university",
+"r": "affiliated"
+},
+{
+"a": "person:julin-xie",
+"b": "paper:pmid-38310127",
+"r": "authored"
+},
+{
 "a": "person:junpio-hong-ph-d",
 "b": "org:asan-medical-center",
 "r": "affiliated"
@@ -4197,9 +7824,179 @@
 "r": "investigator"
 },
 {
-"a": "person:kamyab-andarzbakhsh-pharmd",
+"a": "person:k-l-ray",
+"b": "org:lawrence-berkeley-national-laboratory",
+"r": "affiliated"
+},
+{
+"a": "person:k-l-ray",
+"b": "paper:doi-10-1109-tasc-2023-3243876",
+"r": "authored"
+},
+{
+"a": "person:kamyab-andarzbakhsh",
 "b": "trial:nct06786403",
 "r": "investigator"
+},
+{
+"a": "person:katherine-m-mcdermott",
+"b": "org:johns-hopkins-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:katherine-m-mcdermott",
+"b": "org:johns-hopkins-university",
+"r": "affiliated"
+},
+{
+"a": "person:katherine-m-mcdermott",
+"b": "paper:pmid-36548709",
+"r": "authored"
+},
+{
+"a": "person:kenneth-w-liechty",
+"b": "org:children-s-hospital-colorado",
+"r": "affiliated"
+},
+{
+"a": "person:kenneth-w-liechty",
+"b": "org:university-of-colorado-anschutz",
+"r": "affiliated"
+},
+{
+"a": "person:kenneth-w-liechty",
+"b": "paper:pmid-34089902",
+"r": "authored"
+},
+{
+"a": "person:laith-alzubaidi",
+"b": "org:queensland-university-of-technology",
+"r": "affiliated"
+},
+{
+"a": "person:laith-alzubaidi",
+"b": "org:university-of-information-technology-and-communications",
+"r": "affiliated"
+},
+{
+"a": "person:laith-alzubaidi",
+"b": "paper:doi-10-3390-app10134523",
+"r": "authored"
+},
+{
+"a": "person:laith-alzubaidi",
+"b": "paper:pmid-33808207",
+"r": "authored"
+},
+{
+"a": "person:laura-ann-kooienga",
+"b": "org:colorado-kidney-care",
+"r": "affiliated"
+},
+{
+"a": "person:laura-ann-kooienga",
+"b": "paper:doi-10-1681-asn-20233411s1979b",
+"r": "authored"
+},
+{
+"a": "person:le-basskin",
+"b": "paper:doi-10-1016-j-jval-2023-09-437",
+"r": "authored"
+},
+{
+"a": "person:lihong-chen",
+"b": "org:sichuan-university",
+"r": "affiliated"
+},
+{
+"a": "person:lihong-chen",
+"b": "org:west-china-medical-center-of-sichuan-university",
+"r": "affiliated"
+},
+{
+"a": "person:lihong-chen",
+"b": "paper:pmid-36054820",
+"r": "authored"
+},
+{
+"a": "person:liling-deng",
+"b": "org:chongqing-emergency-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:liling-deng",
+"b": "org:chongqing-university",
+"r": "affiliated"
+},
+{
+"a": "person:liling-deng",
+"b": "paper:pmid-33628388",
+"r": "authored"
+},
+{
+"a": "person:limin-shang",
+"b": "org:qingdao-university-of-science-and-technology",
+"r": "affiliated"
+},
+{
+"a": "person:limin-shang",
+"b": "paper:pmid-37535449",
+"r": "authored"
+},
+{
+"a": "person:louis-bernard",
+"b": "org:hopital-bretonneau",
+"r": "affiliated"
+},
+{
+"a": "person:louis-bernard",
+"b": "org:universite-de-tours",
+"r": "affiliated"
+},
+{
+"a": "person:louis-bernard",
+"b": "paper:pmid-28283830",
+"r": "authored"
+},
+{
+"a": "person:m-solis",
+"b": "org:lawrence-berkeley-national-laboratory",
+"r": "affiliated"
+},
+{
+"a": "person:m-solis",
+"b": "paper:doi-10-1109-tasc-2023-3243876",
+"r": "authored"
+},
+{
+"a": "person:majid-salehi",
+"b": "org:shahroud-university-of-medical-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:majid-salehi",
+"b": "paper:pmid-32433566",
+"r": "authored"
+},
+{
+"a": "person:manoj-bhasin",
+"b": "org:emory-university",
+"r": "affiliated"
+},
+{
+"a": "person:manoj-bhasin",
+"b": "paper:pmid-35013299",
+"r": "authored"
+},
+{
+"a": "person:manuel-etienne",
+"b": "org:centre-hospitalier-universitaire-de-rouen",
+"r": "affiliated"
+},
+{
+"a": "person:manuel-etienne",
+"b": "paper:pmid-28283830",
+"r": "authored"
 },
 {
 "a": "person:marcus-l-gitterle",
@@ -4212,9 +8009,99 @@
 "r": "investigator"
 },
 {
-"a": "person:mobina-tajdari-pharmd-student",
+"a": "person:maria-i-morasso",
+"b": "org:national-institute-of-arthritis-and-musculoskeletal-and-skin",
+"r": "affiliated"
+},
+{
+"a": "person:maria-i-morasso",
+"b": "org:national-institutes-of-health",
+"r": "affiliated"
+},
+{
+"a": "person:maria-i-morasso",
+"b": "paper:pmid-32938916",
+"r": "authored"
+},
+{
+"a": "person:marjana-tomiccanic",
+"b": "org:university-of-miami",
+"r": "affiliated"
+},
+{
+"a": "person:marjana-tomiccanic",
+"b": "org:university-of-miami-health-system",
+"r": "affiliated"
+},
+{
+"a": "person:marjana-tomiccanic",
+"b": "paper:pmid-32938916",
+"r": "authored"
+},
+{
+"a": "person:matilde-monteirosoares",
+"b": "org:centre-for-health-technology-and-services-research",
+"r": "affiliated"
+},
+{
+"a": "person:matilde-monteirosoares",
+"b": "org:universidade-do-porto",
+"r": "affiliated"
+},
+{
+"a": "person:matilde-monteirosoares",
+"b": "paper:pmid-32176445",
+"r": "authored"
+},
+{
+"a": "person:mayland-chang",
+"b": "org:university-of-notre-dame",
+"r": "affiliated"
+},
+{
+"a": "person:mayland-chang",
+"b": "paper:pmid-33596041",
+"r": "authored"
+},
+{
+"a": "person:michael-e-edmonds",
+"b": "org:king-s-college-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:michael-e-edmonds",
+"b": "org:king-s-college-london",
+"r": "affiliated"
+},
+{
+"a": "person:michael-e-edmonds",
+"b": "paper:pmid-33680841",
+"r": "authored"
+},
+{
+"a": "person:mobina-tajdari-student",
 "b": "trial:nct06786403",
 "r": "investigator"
+},
+{
+"a": "person:neil-j-savage",
+"b": "org:mcmaster-university",
+"r": "affiliated"
+},
+{
+"a": "person:neil-j-savage",
+"b": "paper:doi-10-1136-jitc-2022-sitc2022-0852",
+"r": "authored"
+},
+{
+"a": "person:nicole-sembach",
+"b": "org:hopital-europeen-georges-pompidou",
+"r": "affiliated"
+},
+{
+"a": "person:nicole-sembach",
+"b": "paper:pmid-28283830",
+"r": "authored"
 },
 {
 "a": "person:nikolai-sopko",
@@ -4237,6 +8124,101 @@
 "r": "investigator"
 },
 {
+"a": "person:paolo-ferracin",
+"b": "org:lawrence-berkeley-national-laboratory",
+"r": "affiliated"
+},
+{
+"a": "person:paolo-ferracin",
+"b": "paper:doi-10-1109-tasc-2022-3148971",
+"r": "authored"
+},
+{
+"a": "person:prashanth-r-j-vas",
+"b": "org:king-s-college-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:prashanth-r-j-vas",
+"b": "org:king-s-college-london",
+"r": "affiliated"
+},
+{
+"a": "person:prashanth-r-j-vas",
+"b": "paper:pmid-33680841",
+"r": "authored"
+},
+{
+"a": "person:prof-dr-j-w-a-rheinfeld",
+"b": "paper:doi-10-5117-tvar2021-5-004",
+"r": "authored"
+},
+{
+"a": "person:pudji-rahmawati",
+"b": "paper:doi-10-6084-m9-figshare-21385128",
+"r": "authored"
+},
+{
+"a": "person:rachael-zoe-murray",
+"b": "org:queensland-university-of-technology",
+"r": "affiliated"
+},
+{
+"a": "person:rachael-zoe-murray",
+"b": "paper:pmid-34443506",
+"r": "authored"
+},
+{
+"a": "person:radziah-wahid",
+"b": "org:aarhus-university",
+"r": "affiliated"
+},
+{
+"a": "person:radziah-wahid",
+"b": "org:norwegian-university-of-life-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:radziah-wahid",
+"b": "paper:pmid-30149787",
+"r": "authored"
+},
+{
+"a": "person:robert-j-hinchliffe",
+"b": "org:university-of-bristol",
+"r": "affiliated"
+},
+{
+"a": "person:robert-j-hinchliffe",
+"b": "paper:pmid-31958217",
+"r": "authored"
+},
+{
+"a": "person:rosana-pacella",
+"b": "org:queensland-university-of-technology",
+"r": "affiliated"
+},
+{
+"a": "person:rosana-pacella",
+"b": "org:university-of-greenwich",
+"r": "affiliated"
+},
+{
+"a": "person:rosana-pacella",
+"b": "paper:pmid-32139380",
+"r": "authored"
+},
+{
+"a": "person:sameer-razzaq-oleiwi",
+"b": "org:al-muthanna-university",
+"r": "affiliated"
+},
+{
+"a": "person:sameer-razzaq-oleiwi",
+"b": "paper:doi-10-3390-app10134523",
+"r": "authored"
+},
+{
 "a": "person:sashwati-roy",
 "b": "org:university-of-pittsburgh",
 "r": "affiliated"
@@ -4245,6 +8227,16 @@
 "a": "person:sashwati-roy",
 "b": "trial:nct02577120",
 "r": "investigator"
+},
+{
+"a": "person:savannah-margaret-aitcheson",
+"b": "org:queensland-university-of-technology",
+"r": "affiliated"
+},
+{
+"a": "person:savannah-margaret-aitcheson",
+"b": "paper:pmid-34443506",
+"r": "authored"
 },
 {
 "a": "person:seema-kumbhat",
@@ -4267,6 +8259,26 @@
 "r": "investigator"
 },
 {
+"a": "person:sheila-kumari-singh",
+"b": "org:mcmaster-university",
+"r": "affiliated"
+},
+{
+"a": "person:sheila-kumari-singh",
+"b": "paper:doi-10-1136-jitc-2022-sitc2022-0852",
+"r": "authored"
+},
+{
+"a": "person:shengliang-peng",
+"b": "org:second-affiliated-hospital-of-nanchang-university",
+"r": "affiliated"
+},
+{
+"a": "person:shengliang-peng",
+"b": "paper:pmid-38264279",
+"r": "authored"
+},
+{
 "a": "person:shug-cheng-chang",
 "b": "org:taipei-medical-university-shuang-ho-hospital-ministry-of-hea",
 "r": "affiliated"
@@ -4287,6 +8299,76 @@
 "r": "investigator"
 },
 {
+"a": "person:sicco-a-bus",
+"b": "org:amsterdam-movement-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:sicco-a-bus",
+"b": "org:amsterdam-umc-location-university-of-amsterdam",
+"r": "affiliated"
+},
+{
+"a": "person:sicco-a-bus",
+"b": "org:amsterdam-university-medical-centers",
+"r": "affiliated"
+},
+{
+"a": "person:sicco-a-bus",
+"b": "org:university-of-southern-california",
+"r": "affiliated"
+},
+{
+"a": "person:sicco-a-bus",
+"b": "paper:pmid-32176451",
+"r": "authored"
+},
+{
+"a": "person:sicco-a-bus",
+"b": "paper:pmid-32209136",
+"r": "authored"
+},
+{
+"a": "person:sicco-a-bus",
+"b": "paper:pmid-37302121",
+"r": "authored"
+},
+{
+"a": "person:sicco-a-bus",
+"b": "paper:pmid-37395769",
+"r": "authored"
+},
+{
+"a": "person:silvia-fernandes-ribeiro-da-silva",
+"b": "paper:doi-10-51161-rems-3323",
+"r": "authored"
+},
+{
+"a": "person:simon-matoori",
+"b": "org:harvard-university",
+"r": "affiliated"
+},
+{
+"a": "person:simon-matoori",
+"b": "org:wyss-institute-for-biologically-inspired-engineering",
+"r": "affiliated"
+},
+{
+"a": "person:simon-matoori",
+"b": "paper:pmid-33731435",
+"r": "authored"
+},
+{
+"a": "person:steven-p-bowers",
+"b": "org:st-luke-s-university-health-network",
+"r": "affiliated"
+},
+{
+"a": "person:steven-p-bowers",
+"b": "paper:pmid-32003952",
+"r": "authored"
+},
+{
 "a": "person:sung-ho-steve-bae-dpm",
 "b": "org:baefoot-podiatry",
 "r": "affiliated"
@@ -4295,6 +8377,176 @@
 "a": "person:sung-ho-steve-bae-dpm",
 "b": "trial:nct05607979",
 "r": "investigator"
+},
+{
+"a": "person:t-j-mellema-kranenburg",
+"b": "paper:doi-10-5117-tvar2021-2-006",
+"r": "authored"
+},
+{
+"a": "person:talianne-szwebel",
+"b": "org:hotel-dieu-de-paris",
+"r": "affiliated"
+},
+{
+"a": "person:talianne-szwebel",
+"b": "paper:pmid-28283830",
+"r": "authored"
+},
+{
+"a": "person:tim-j-j-inglis",
+"b": "org:queen-elizabeth-ii-medical-centre",
+"r": "affiliated"
+},
+{
+"a": "person:tim-j-j-inglis",
+"b": "org:the-university-of-western-australia",
+"r": "affiliated"
+},
+{
+"a": "person:tim-j-j-inglis",
+"b": "paper:doi-10-2139-ssrn-3369796",
+"r": "authored"
+},
+{
+"a": "person:trung-t-nguyen",
+"b": "org:university-of-notre-dame",
+"r": "affiliated"
+},
+{
+"a": "person:trung-t-nguyen",
+"b": "paper:pmid-33596041",
+"r": "authored"
+},
+{
+"a": "person:vikrant-rai",
+"b": "org:western-university-of-health-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:vikrant-rai",
+"b": "paper:doi-10-37349-eds-2026-1008168",
+"r": "authored"
+},
+{
+"a": "person:wuquan-deng",
+"b": "org:chongqing-emergency-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:wuquan-deng",
+"b": "org:chongqing-university",
+"r": "affiliated"
+},
+{
+"a": "person:wuquan-deng",
+"b": "paper:pmid-33628388",
+"r": "authored"
+},
+{
+"a": "person:x-ranchoux",
+"b": "org:centre-hospitalier-de-versailles",
+"r": "affiliated"
+},
+{
+"a": "person:x-ranchoux",
+"b": "org:hopital-andre-mignot",
+"r": "affiliated"
+},
+{
+"a": "person:x-ranchoux",
+"b": "paper:pmid-28283830",
+"r": "authored"
+},
+{
+"a": "person:xiangyu-lu",
+"b": "org:chinese-academy-of-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:xiangyu-lu",
+"b": "org:tongji-university",
+"r": "affiliated"
+},
+{
+"a": "person:xiangyu-lu",
+"b": "paper:pmid-36424137",
+"r": "authored"
+},
+{
+"a": "person:xiaoliang-qi",
+"b": "org:affiliated-eye-hospital-of-wenzhou-medical-college",
+"r": "affiliated"
+},
+{
+"a": "person:xiaoliang-qi",
+"b": "org:wenzhou-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:xiaoliang-qi",
+"b": "paper:pmid-37803944",
+"r": "authored"
+},
+{
+"a": "person:xiaoyuan-ji",
+"b": "org:linyi-university",
+"r": "affiliated"
+},
+{
+"a": "person:xiaoyuan-ji",
+"b": "org:tianjin-university",
+"r": "affiliated"
+},
+{
+"a": "person:xiaoyuan-ji",
+"b": "paper:pmid-38310127",
+"r": "authored"
+},
+{
+"a": "person:xingwu-ran",
+"b": "org:sichuan-university",
+"r": "affiliated"
+},
+{
+"a": "person:xingwu-ran",
+"b": "org:west-china-medical-center-of-sichuan-university",
+"r": "affiliated"
+},
+{
+"a": "person:xingwu-ran",
+"b": "paper:pmid-36054820",
+"r": "authored"
+},
+{
+"a": "person:xuan-wang",
+"b": "org:nanjing-university-of-chinese-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:xuan-wang",
+"b": "paper:pmid-36578871",
+"r": "authored"
+},
+{
+"a": "person:xuanhe-zhao",
+"b": "org:massachusetts-institute-of-technology",
+"r": "affiliated"
+},
+{
+"a": "person:xuanhe-zhao",
+"b": "paper:pmid-35788686",
+"r": "authored"
+},
+{
+"a": "person:ye-duan",
+"b": "org:university-of-missouri",
+"r": "affiliated"
+},
+{
+"a": "person:ye-duan",
+"b": "paper:pmid-33808207",
+"r": "authored"
 },
 {
 "a": "person:yeongcheol-seo-ph-d",
@@ -4307,6 +8559,71 @@
 "r": "investigator"
 },
 {
+"a": "person:ying-chen",
+"b": "org:xiamen-university",
+"r": "affiliated"
+},
+{
+"a": "person:ying-chen",
+"b": "paper:pmid-37608335",
+"r": "authored"
+},
+{
+"a": "person:ying-shao",
+"b": "org:first-hospital-of-jilin-university",
+"r": "affiliated"
+},
+{
+"a": "person:ying-shao",
+"b": "org:jilin-university",
+"r": "affiliated"
+},
+{
+"a": "person:ying-shao",
+"b": "paper:pmid-32266224",
+"r": "authored"
+},
+{
+"a": "person:yiqiao-hu",
+"b": "org:nanjing-university",
+"r": "affiliated"
+},
+{
+"a": "person:yiqiao-hu",
+"b": "org:state-key-laboratory-of-pharmaceutical-biotechnology",
+"r": "affiliated"
+},
+{
+"a": "person:yiqiao-hu",
+"b": "paper:pmid-32440554",
+"r": "authored"
+},
+{
+"a": "person:yizhong-huang",
+"b": "org:hubei-university-of-technology",
+"r": "affiliated"
+},
+{
+"a": "person:yizhong-huang",
+"b": "org:nanyang-technological-university",
+"r": "affiliated"
+},
+{
+"a": "person:yizhong-huang",
+"b": "paper:pmid-41329067",
+"r": "authored"
+},
+{
+"a": "person:yong-kang",
+"b": "org:tianjin-university",
+"r": "affiliated"
+},
+{
+"a": "person:yong-kang",
+"b": "paper:pmid-38310127",
+"r": "authored"
+},
+{
 "a": "person:young-nathan-dpm",
 "b": "org:martinsville-research-institute",
 "r": "affiliated"
@@ -4315,6 +8632,86 @@
 "a": "person:young-nathan-dpm",
 "b": "trial:nct03754465",
 "r": "investigator"
+},
+{
+"a": "person:yuhao-cheng",
+"b": "org:nanjing-university",
+"r": "affiliated"
+},
+{
+"a": "person:yuhao-cheng",
+"b": "org:state-key-laboratory-of-pharmaceutical-biotechnology",
+"r": "affiliated"
+},
+{
+"a": "person:yuhao-cheng",
+"b": "paper:pmid-32440554",
+"r": "authored"
+},
+{
+"a": "person:yunlong-wu",
+"b": "org:xiamen-university",
+"r": "affiliated"
+},
+{
+"a": "person:yunlong-wu",
+"b": "paper:pmid-37608335",
+"r": "authored"
+},
+{
+"a": "person:yuqi-zhang",
+"b": "org:queensland-university-of-technology",
+"r": "affiliated"
+},
+{
+"a": "person:yuqi-zhang",
+"b": "paper:pmid-32139380",
+"r": "authored"
+},
+{
+"a": "person:zhengwang-cheng",
+"b": "org:hubei-university-of-technology",
+"r": "affiliated"
+},
+{
+"a": "person:zhengwang-cheng",
+"b": "paper:pmid-41329067",
+"r": "authored"
+},
+{
+"a": "person:zhi-yu",
+"b": "org:nanjing-university-of-chinese-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:zhi-yu",
+"b": "paper:pmid-36578871",
+"r": "authored"
+},
+{
+"a": "person:zhiling-zhu",
+"b": "org:qingdao-university-of-science-and-technology",
+"r": "affiliated"
+},
+{
+"a": "person:zhiling-zhu",
+"b": "paper:pmid-37535449",
+"r": "authored"
+},
+{
+"a": "person:zi-biao-li",
+"b": "org:agency-for-science-technology-and-research",
+"r": "affiliated"
+},
+{
+"a": "person:zi-biao-li",
+"b": "org:institute-of-materials-research-and-engineering",
+"r": "affiliated"
+},
+{
+"a": "person:zi-biao-li",
+"b": "paper:pmid-37608335",
+"r": "authored"
 }
 ]
 }

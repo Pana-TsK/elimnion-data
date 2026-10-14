@@ -3,14 +3,15 @@
 "updated": "2026-10-14",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
-"trials": 2
+"trials": 40,
+"papers": 38
 },
 "nodes": [
 {
 "k": "asset:amsulostat",
 "t": "asset",
 "n": "Amsulostat",
-"sub": "Myelofibrosis (add-on to ruxolitinib)",
+"sub": "myelofibrosis",
 "url": "",
 "c": ""
 },
@@ -223,28 +224,604 @@
 "c": "Taiwan"
 },
 {
-"k": "trial:nct06479135",
+"k": "trial:nct07357727",
 "t": "trial",
-"n": "Study of Navtemadlin add-on to Ruxolitinib in JAK Inhibitor-Naïve Patients With Myelofibro",
-"sub": "P3 · recruiting · 2024-2028",
-"url": "https://clinicaltrials.gov/study/NCT06479135",
+"n": "A Phase 3 Study of Pelabresib (DAK539) and Ruxolitinib in Myelofibrosis (MF)",
+"sub": "P3 · recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07357727",
 "c": ""
 },
 {
-"k": "org:kartos-therapeutics",
+"k": "org:novartis-pharmaceuticals",
 "t": "company",
-"n": "Kartos Therapeutics, Inc.",
+"n": "Novartis Pharmaceuticals",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:uab-hospital",
-"t": "hospital",
-"n": "UAB Hospital",
+"k": "org:yale-university-school-of-medicine",
+"t": "academic",
+"n": "Yale University School Of Medicine",
 "sub": "",
 "url": "",
 "c": "United States"
+},
+{
+"k": "org:florida-cancer-specialist-south-reg",
+"t": "company",
+"n": "Florida Cancer Specialist South Reg",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:the-anderson-family-cancer-institute",
+"t": "academic",
+"n": "The Anderson Family Cancer Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:miami-ns-ins-baptist-health-s-fl",
+"t": "hospital",
+"n": "Miami NS Ins Baptist Health S FL",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:florida-cancer-specialists-north",
+"t": "company",
+"n": "Florida Cancer Specialists-North",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:florida-cancer-specialists-east",
+"t": "company",
+"n": "Florida Cancer Specialists East",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:winship-cancer-institute-of-emory-university",
+"t": "academic",
+"n": "Winship Cancer Institute of Emory University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-chicago-hospital",
+"t": "hospital",
+"n": "University of Chicago Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:franciscan-health-indianapolis",
+"t": "hospital",
+"n": "Franciscan Health Indianapolis",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:american-oncology-partners-pa-center-for-cancer-and-blood-di",
+"t": "company",
+"n": "American Oncology Partners PA Center for Cancer and Blood Disorders",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:pelabresib",
+"t": "drug",
+"n": "Pelabresib",
+"sub": "Novartis Pharmaceuticals",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ruxolitinib",
+"t": "drug",
+"n": "Ruxolitinib",
+"sub": "Novartis Pharmaceuticals",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07128381",
+"t": "trial",
+"n": "Phase I/II Clinical Trial of Axatilimab, a CSF1R Monoclonal Antibody, in Combination With ",
+"sub": "P1/P2 · recruiting · 2026-2033",
+"url": "https://clinicaltrials.gov/study/NCT07128381",
+"c": ""
+},
+{
+"k": "org:m-d-anderson-cancer-center",
+"t": "academic",
+"n": "M.D. Anderson Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:incyte",
+"t": "company",
+"n": "Incyte, Inc",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:naveen-pemmaraju",
+"t": "person",
+"n": "Naveen Pemmaraju",
+"sub": "principal investigator · M.D. Anderson Cancer Center",
+"url": "https://orcid.org/0000-0002-1670-6513",
+"c": "US"
+},
+{
+"k": "org:the-university-of-texas-m-d-anderson-cancer-center",
+"t": "academic",
+"n": "The University of Texas M. D. Anderson Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:axatilimab",
+"t": "drug",
+"n": "Axatilimab",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07394153",
+"t": "trial",
+"n": "Pacritinib For Bone Marrow Fibrosis In Patients With Myelofibrosis Who Have Thrombocytopen",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07394153",
+"c": ""
+},
+{
+"k": "org:grupo-espanol-de-enfermedades-mieloproliferativas-cronicas-p",
+"t": "academic",
+"n": "Grupo Español de Enfermedades Mieloproliferativas Crónicas PH Negativas",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:swedish-orphan-biovitrum",
+"t": "company",
+"n": "Swedish Orphan Biovitrum",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:mfar-clinical-research-s-l",
+"t": "hospital",
+"n": "MFAR Clinical Research S.L.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:fundacion-jimenez-diaz",
+"t": "company",
+"n": "Fundación Jimenez Díaz",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "person:francisca-ferrer-marin-m-d-ph-d",
+"t": "person",
+"n": "Francisca Ferrer Marín, M.D.; Ph.D",
+"sub": "study chair · Fundación Jimenez Díaz",
+"url": "",
+"c": ""
+},
+{
+"k": "org:hospital-del-mar-barcelona",
+"t": "hospital",
+"n": "Hospital del Mar Barcelona",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:hospital-universitario-vall-d-hebron",
+"t": "hospital",
+"n": "Hospital Universitario Vall d´Hebron",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:hospital-clinic-de-barcelona",
+"t": "hospital",
+"n": "Hospital Clinic de Barcelona",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:hospital-universitario-de-jerez",
+"t": "hospital",
+"n": "Hospital Universitario de Jerez",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:hospital-general-universitario-gregorio-maranon",
+"t": "hospital",
+"n": "Hospital General Universitario Gregorio Marañon",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:hospital-universitario-ramon-y-cajal",
+"t": "hospital",
+"n": "Hospital Universitario Ramon y Cajal",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:hospital-universitario-12-de-octubre",
+"t": "hospital",
+"n": "Hospital Universitario 12 de Octubre",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:hospital-general-universitario-morales-meseguer",
+"t": "hospital",
+"n": "Hospital General Universitario Morales Meseguer",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:hospital-universitario-de-salamanca",
+"t": "hospital",
+"n": "Hospital Universitario de Salamanca",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "drug:pacritinib",
+"t": "drug",
+"n": "Pacritinib",
+"sub": "Grupo Español de Enfermedades Mieloproliferativas Crónicas PH Negativas",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04176198",
+"t": "trial",
+"n": "A Study of Oral Nuvisertib (TP-3654) in Patients With Myelofibrosis",
+"sub": "P1/P2 · recruiting · 2019-2030",
+"url": "https://clinicaltrials.gov/study/NCT04176198",
+"c": ""
+},
+{
+"k": "org:sumitomo-pharma-america",
+"t": "company",
+"n": "Sumitomo Pharma America, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-alabama",
+"t": "academic",
+"n": "University of Alabama",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:the-university-of-arizona-cancer-center",
+"t": "academic",
+"n": "The University of Arizona Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:city-of-hope",
+"t": "company",
+"n": "City of Hope",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-southern-california",
+"t": "academic",
+"n": "University of Southern California",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:hoag-family-cancer-institute",
+"t": "academic",
+"n": "Hoag Family Cancer Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:blood-cancer-center",
+"t": "company",
+"n": "Blood Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:yale-school-of-medicine",
+"t": "academic",
+"n": "Yale School of Medicine",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-florida-health-shands-cancer-hospital",
+"t": "hospital",
+"n": "University of Florida Health Shands Cancer Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-miami",
+"t": "academic",
+"n": "University of Miami",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:baptist-health-miami-cancer-institute",
+"t": "hospital",
+"n": "Baptist Health - Miami Cancer Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:nusivertib",
+"t": "drug",
+"n": "Nusivertib",
+"sub": "Sumitomo Pharma America, Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:momelotinib",
+"t": "drug",
+"n": "Momelotinib",
+"sub": "Sumitomo Pharma America, Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04455841",
+"t": "trial",
+"n": "INCB000928 Administered as a Monotherapy or in Combination With Ruxolitinib in Participant",
+"sub": "P1/P2 · completed · 2021-2026",
+"url": "https://clinicaltrials.gov/study/NCT04455841",
+"c": ""
+},
+{
+"k": "person:amanda-mcbride",
+"t": "person",
+"n": "Amanda McBride",
+"sub": "study director · Incyte Corporation",
+"url": "",
+"c": ""
+},
+{
+"k": "org:city-of-hope-national-medical-center",
+"t": "hospital",
+"n": "City of Hope National Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:city-of-hope-orange-county",
+"t": "company",
+"n": "City of Hope Orange County",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:usc-norris-comprehensive-cancer-center",
+"t": "company",
+"n": "Usc Norris Comprehensive Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:stanford-cancer-center",
+"t": "company",
+"n": "Stanford Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:prebys-cancer-center",
+"t": "company",
+"n": "Prebys Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:emory-university-winship-cancer-institute",
+"t": "academic",
+"n": "Emory University - Winship Cancer Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:start-midwest",
+"t": "company",
+"n": "Start Midwest",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:washington-university-school-of-medicine",
+"t": "academic",
+"n": "Washington University School of Medicine",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:weill-cornell-medical-centers",
+"t": "hospital",
+"n": "Weill Cornell Medical Centers",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:incb000928",
+"t": "drug",
+"n": "INCB000928",
+"sub": "Incyte Corporation",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04562389",
+"t": "trial",
+"n": "Study of Selinexor in Combination With Ruxolitinib in Myelofibrosis",
+"sub": "P3 · active_not_recruiting · 2021-2028",
+"url": "https://clinicaltrials.gov/study/NCT04562389",
+"c": ""
+},
+{
+"k": "org:karyopharm-therapeutics",
+"t": "company",
+"n": "Karyopharm Therapeutics Inc",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:uab-division-of-hematology-oncology",
+"t": "company",
+"n": "UAB Division of Hematology/Oncology",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ucla-satellite-site",
+"t": "company",
+"n": "UCLA - Satellite Site",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:city-of-hope-irvine-lennar-satellite",
+"t": "company",
+"n": "City of Hope - Irvine Lennar - Satellite",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ucla",
+"t": "company",
+"n": "UCLA",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:the-oncology-institute-of-hope-innovation",
+"t": "academic",
+"n": "The Oncology Institute of Hope & Innovation",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:usor-rocky-mountain-cancer-centers-aurora",
+"t": "company",
+"n": "USOR - Rocky Mountain Cancer Centers - Aurora",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:smilow-cancer-hospital-new-haven",
+"t": "hospital",
+"n": "Smilow Cancer Hospital - New Haven",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:georgetown-lombardi-comprehensive-center",
+"t": "company",
+"n": "Georgetown Lombardi Comprehensive Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:selinexor",
+"t": "drug",
+"n": "Selinexor",
+"sub": "Karyopharm Therapeutics Inc",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07623161",
+"t": "trial",
+"n": "A Study to Compare Elritercept to Placebo in Adults With Myelofibrosis and Anemia Who Are ",
+"sub": "P3 · recruiting · 2026-2034",
+"url": "https://clinicaltrials.gov/study/NCT07623161",
+"c": ""
+},
+{
+"k": "org:takeda",
+"t": "company",
+"n": "Takeda",
+"sub": "",
+"url": "",
+"c": ""
 },
 {
 "k": "org:banner-md-anderson-cancer-center",
@@ -255,9 +832,1201 @@
 "c": "United States"
 },
 {
-"k": "org:mayo-clinic-phoenix",
+"k": "org:los-angeles-cancer-network",
+"t": "company",
+"n": "Los Angeles Cancer Network",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cancer-and-blood-specialty-clinic",
 "t": "hospital",
-"n": "Mayo Clinic - Phoenix",
+"n": "Cancer and Blood Specialty Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:medstar-georgetown-university-hospital",
+"t": "hospital",
+"n": "MedStar Georgetown University Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:advanced-research",
+"t": "company",
+"n": "Advanced Research, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:bioresearch-partners",
+"t": "company",
+"n": "Bioresearch Partners",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:adventhealth-cancer-institute-orlando",
+"t": "hospital",
+"n": "AdventHealth - Cancer Institute - Orlando",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:florida-clinical-trials-group",
+"t": "hospital",
+"n": "Florida Clinical Trials Group",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:moffit-cancer-center",
+"t": "company",
+"n": "Moffit Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:emory-university",
+"t": "academic",
+"n": "Emory University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:elritercept",
+"t": "drug",
+"n": "Elritercept",
+"sub": "Takeda",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06661915",
+"t": "trial",
+"n": "A Randomized Study of ASTX727 With or Without Iadademstat in Advanced Myeloproliferative N",
+"sub": "P2 · recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT06661915",
+"c": ""
+},
+{
+"k": "org:national-cancer-institute-nci",
+"t": "funder",
+"n": "National Cancer Institute (NCI)",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:city-of-hope-comprehensive-cancer-center-lao",
+"t": "company",
+"n": "City of Hope Comprehensive Cancer Center LAO",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:anand-a-patel",
+"t": "person",
+"n": "Anand A Patel",
+"sub": "principal investigator · City of Hope Comprehensive Cancer Center LAO",
+"url": "",
+"c": ""
+},
+{
+"k": "org:uci-health-chao-family-comprehensive-cancer-center-and-ambul",
+"t": "hospital",
+"n": "UCI Health - Chao Family Comprehensive Cancer Center and Ambulatory Care",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:uc-irvine-health-chao-family-comprehensive-cancer-center",
+"t": "hospital",
+"n": "UC Irvine Health/Chao Family Comprehensive Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:stanford-cancer-institute-palo-alto",
+"t": "academic",
+"n": "Stanford Cancer Institute Palo Alto",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-california-davis-comprehensive-cancer-center",
+"t": "academic",
+"n": "University of California Davis Comprehensive Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:um-sylvester-comprehensive-cancer-center-at-coral-gables",
+"t": "company",
+"n": "UM Sylvester Comprehensive Cancer Center at Coral Gables",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:um-sylvester-comprehensive-cancer-center-at-coral-springs",
+"t": "company",
+"n": "UM Sylvester Comprehensive Cancer Center at Coral Springs",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:um-sylvester-comprehensive-cancer-center-at-deerfield-beach",
+"t": "company",
+"n": "UM Sylvester Comprehensive Cancer Center at Deerfield Beach",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:um-sylvester-comprehensive-cancer-center-at-doral",
+"t": "company",
+"n": "UM Sylvester Comprehensive Cancer Center at Doral",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:um-sylvester-comprehensive-cancer-center-at-hollywood",
+"t": "company",
+"n": "UM Sylvester Comprehensive Cancer Center at Hollywood",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-miami-miller-school-of-medicine-sylvester-canc",
+"t": "academic",
+"n": "University of Miami Miller School of Medicine-Sylvester Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:decitabine-and-cedazuridine",
+"t": "drug",
+"n": "Decitabine and Cedazuridine",
+"sub": "National Cancer Institute (NCI)",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:iadademstat",
+"t": "drug",
+"n": "Iadademstat",
+"sub": "National Cancer Institute (NCI)",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05320198",
+"t": "trial",
+"n": "Study of DISC-0974 (RALLY-MF) in Participants With Myelofibrosis or Myelodysplastic Syndro",
+"sub": "P1/P2 · recruiting · 2022-2027",
+"url": "https://clinicaltrials.gov/study/NCT05320198",
+"c": ""
+},
+{
+"k": "org:disc-medicine",
+"t": "company",
+"n": "Disc Medicine, Inc",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:will-savage",
+"t": "person",
+"n": "Will Savage",
+"sub": "study director · Disc Medicine",
+"url": "",
+"c": ""
+},
+{
+"k": "org:banner-md-anderson",
+"t": "company",
+"n": "Banner MD Anderson",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:city-of-hope-duarte",
+"t": "company",
+"n": "City of Hope - Duarte",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:city-of-hope-lennar",
+"t": "company",
+"n": "City of Hope - Lennar",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-california-san-francisco",
+"t": "academic",
+"n": "University of California, San Francisco",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-colorado-anschutz-medical-campus",
+"t": "academic",
+"n": "University of Colorado Anschutz Medical Campus",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:mayo-clinic-jacksonville",
+"t": "hospital",
+"n": "Mayo Clinic Jacksonville",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:sylvester-cancer-center-u-miami",
+"t": "company",
+"n": "Sylvester Cancer Center - U Miami",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:moffitt-cancer-center",
+"t": "company",
+"n": "Moffitt Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:emory-winship-cancer-institute",
+"t": "academic",
+"n": "Emory Winship Cancer Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:disc-0974",
+"t": "drug",
+"n": "DISC-0974",
+"sub": "Disc Medicine, Inc",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04282187",
+"t": "trial",
+"n": "Decitabine With Ruxolitinib, Fedratinib or Pacritinib for the Treatment of Accelerated/Bla",
+"sub": "P2 · recruiting · 2020-2027",
+"url": "https://clinicaltrials.gov/study/NCT04282187",
+"c": ""
+},
+{
+"k": "org:university-of-washington",
+"t": "academic",
+"n": "University of Washington",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:fred-hutch-university-of-washington-cancer-consortium",
+"t": "academic",
+"n": "Fred Hutch/University of Washington Cancer Consortium",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "person:anna-halpern",
+"t": "person",
+"n": "Anna Halpern",
+"sub": "principal investigator · Fred Hutch/University of Washington Cancer Consortium",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:decitabine",
+"t": "drug",
+"n": "Decitabine",
+"sub": "University of Washington",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:fedratinib",
+"t": "drug",
+"n": "Fedratinib",
+"sub": "University of Washington",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06345495",
+"t": "trial",
+"n": "High Dose Ruxolitinib and Allogeneic Stem Cell Transplantation in Myelofibrosis Patients W",
+"sub": "P2 · recruiting · 2024-2029",
+"url": "https://clinicaltrials.gov/study/NCT06345495",
+"c": ""
+},
+{
+"k": "person:uday-popat",
+"t": "person",
+"n": "Uday Popat",
+"sub": "principal investigator · M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "org:md-anderson-cancer-center",
+"t": "company",
+"n": "MD Anderson Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:levetiracetam",
+"t": "drug",
+"n": "Levetiracetam",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:eltrombopag",
+"t": "drug",
+"n": "Eltrombopag",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:busulfan",
+"t": "drug",
+"n": "Busulfan",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:romiplostim",
+"t": "drug",
+"n": "Romiplostim",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:fludarabine-phosphate",
+"t": "drug",
+"n": "Fludarabine phosphate",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:cyclophosphamide",
+"t": "drug",
+"n": "Cyclophosphamide",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:mesna",
+"t": "drug",
+"n": "Mesna",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:tacrolimus",
+"t": "drug",
+"n": "Tacrolimus",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06397313",
+"t": "trial",
+"n": "RVU120 in Patients With Intermediate or High-risk, Primary or Secondary Myelofibrosis",
+"sub": "P2 · terminated · 2024-2026",
+"url": "https://clinicaltrials.gov/study/NCT06397313",
+"c": ""
+},
+{
+"k": "org:ryvu-therapeutics",
+"t": "company",
+"n": "Ryvu Therapeutics SA",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:policlinico-sant-orsola-malpighi",
+"t": "hospital",
+"n": "Policlinico Sant'Orsola-Malpighi",
+"sub": "",
+"url": "",
+"c": "Italy"
+},
+{
+"k": "org:azienda-socio-sanitaria-territoriale-degli-spedali-civili-di",
+"t": "company",
+"n": "Azienda Socio Sanitaria Territoriale Degli Spedali Civili Di Brescia",
+"sub": "",
+"url": "",
+"c": "Italy"
+},
+{
+"k": "org:azienda-ospedaliero-universitaria-policlinico-g-rodolico-san",
+"t": "hospital",
+"n": "Azienda Ospedaliero Universitaria Policlinico \"G. Rodolico - San Marco\"",
+"sub": "",
+"url": "",
+"c": "Italy"
+},
+{
+"k": "org:istituto-romagnolo-per-lo-studio-dei-tumori-dino-amadori-irs",
+"t": "company",
+"n": "Istituto Romagnolo per lo Studio dei Tumori Dino Amadori IRST S.r.l.",
+"sub": "",
+"url": "",
+"c": "Italy"
+},
+{
+"k": "org:fondazione-irccs-ca-granda-ospedale-maggiore-policlinico",
+"t": "hospital",
+"n": "Fondazione IRCCS Cà Granda Ospedale Maggiore Policlinico",
+"sub": "",
+"url": "",
+"c": "Italy"
+},
+{
+"k": "org:wojewodzki-szpital-specjalistyczny-w-biaej-podlaskiej",
+"t": "company",
+"n": "Wojewódzki Szpital Specjalistyczny w Białej Podlaskiej",
+"sub": "",
+"url": "",
+"c": "Poland"
+},
+{
+"k": "org:szpital-uniwersytecki-nr-2-im-dr-jana-biziela",
+"t": "company",
+"n": "Szpital Uniwersytecki nr 2 im. dr Jana Biziela",
+"sub": "",
+"url": "",
+"c": "Poland"
+},
+{
+"k": "org:m2m-med-sp-z-o-o-sp-j",
+"t": "company",
+"n": "M2M Med. Sp. z o.o. Sp. j.",
+"sub": "",
+"url": "",
+"c": "Poland"
+},
+{
+"k": "org:centrum-wsparcia-badan-klinicznych-uck-osrodek-badan-klinicz",
+"t": "company",
+"n": "Centrum Wsparcia Badań Klinicznych UCK Ośrodek Badań Klinicznych Wczesnych Faz",
+"sub": "",
+"url": "",
+"c": "Poland"
+},
+{
+"k": "org:pratia-hematologia-sp-z-o-o",
+"t": "company",
+"n": "Pratia Hematologia Sp. z o.o.",
+"sub": "",
+"url": "",
+"c": "Poland"
+},
+{
+"k": "drug:rvu120",
+"t": "drug",
+"n": "RVU120",
+"sub": "Ryvu Therapeutics SA",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07228624",
+"t": "trial",
+"n": "Ruxolitinib Before, During and After Hematopoietic Cell Transplant in Older Patients With ",
+"sub": "P2 · recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07228624",
+"c": ""
+},
+{
+"k": "org:fred-hutchinson-cancer-center",
+"t": "academic",
+"n": "Fred Hutchinson Cancer Center",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:rachel-salit",
+"t": "person",
+"n": "Rachel Salit",
+"sub": "principal investigator · Fred Hutch/University of Washington Cancer Consortium",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:fludarabine",
+"t": "drug",
+"n": "Fludarabine",
+"sub": "Fred Hutchinson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:jak-inhibitor",
+"t": "drug",
+"n": "JAK Inhibitor",
+"sub": "Fred Hutchinson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:melphalan",
+"t": "drug",
+"n": "Melphalan",
+"sub": "Fred Hutchinson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:methotrexate",
+"t": "drug",
+"n": "Methotrexate",
+"sub": "Fred Hutchinson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06001385",
+"t": "trial",
+"n": "HLA-Mismatched Unrelated Donor Peripheral Blood Stem Cell Transplantation With Reduced Dos",
+"sub": "P2 · active_not_recruiting · 2023-2026",
+"url": "https://clinicaltrials.gov/study/NCT06001385",
+"c": ""
+},
+{
+"k": "org:center-for-international-blood-and-marrow-transplant-researc",
+"t": "academic",
+"n": "Center for International Blood and Marrow Transplant Research",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-marrow-donor-program",
+"t": "academic",
+"n": "National Marrow Donor Program",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:nmdp",
+"t": "company",
+"n": "NMDP",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:steven-devine",
+"t": "person",
+"n": "Steven Devine",
+"sub": "principal investigator · NMDP",
+"url": "",
+"c": ""
+},
+{
+"k": "person:ginna-laport",
+"t": "person",
+"n": "Ginna Laport",
+"sub": "study chair · NMDP",
+"url": "",
+"c": ""
+},
+{
+"k": "org:mayo-clinic-arizona",
+"t": "hospital",
+"n": "Mayo Clinic Arizona",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:honor-health",
+"t": "hospital",
+"n": "Honor Health",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-arkansas-for-medical-sciences",
+"t": "academic",
+"n": "University of Arkansas for Medical Sciences",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:stanford-university",
+"t": "academic",
+"n": "Stanford University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:colorado-blood-cancer-institute-at-presbyterian-st-luke-s",
+"t": "academic",
+"n": "Colorado Blood Cancer Institute at Presbyterian St. Luke's",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-miami-sylvester-cancer-center",
+"t": "academic",
+"n": "University of Miami Sylvester Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:post-transplant-cyclophosphamide",
+"t": "drug",
+"n": "Post-Transplant Cyclophosphamide",
+"sub": "Center for International Blood and Marrow Transplant Research",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:mycophenolate-mofetil",
+"t": "drug",
+"n": "Mycophenolate Mofetil",
+"sub": "Center for International Blood and Marrow Transplant Research",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07317700",
+"t": "trial",
+"n": "A Clinical Trial of Flonoltinib Maleate for Intermediate or High-Risk Myelofibrosis",
+"sub": "P3 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07317700",
+"c": ""
+},
+{
+"k": "org:chengdu-zenitar-biomedical-technology",
+"t": "company",
+"n": "Chengdu Zenitar Biomedical Technology Co., Ltd",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:institute-of-hematology-blood-diseases-hospital-chinese-acad",
+"t": "hospital",
+"n": "Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences (IH",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "person:xiao-zhijian-doctor",
+"t": "person",
+"n": "Xiao Zhijian, Doctor",
+"sub": "principal investigator · Institute of Hematology & Blood Diseases Hospital, Chinese Academ",
+"url": "",
+"c": ""
+},
+{
+"k": "org:west-china-hospital",
+"t": "hospital",
+"n": "West China Hospital",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:niu-ting-doctor",
+"t": "person",
+"n": "Niu Ting, Doctor",
+"sub": "principal investigator · West China Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "person:miao-jia-doctor",
+"t": "person",
+"n": "Miao Jia, Doctor",
+"sub": "principal investigator · West China Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "org:west-china-hospital-sichuan-university",
+"t": "hospital",
+"n": "West China Hospital Sichuan University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "drug:flonoltinib",
+"t": "drug",
+"n": "Flonoltinib",
+"sub": "Chengdu Zenitar Biomedical Technology Co., Ltd",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ruxolitinib-phosphate",
+"t": "drug",
+"n": "Ruxolitinib Phosphate",
+"sub": "Chengdu Zenitar Biomedical Technology Co., Ltd",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07443306",
+"t": "trial",
+"n": "A Clinical Trial of Flonoltinib Maleate Tablets in the Treatment of JAK Inhibitor Refracto",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07443306",
+"c": ""
+},
+{
+"k": "person:xiao-zhijian",
+"t": "person",
+"n": "Xiao Zhijian",
+"sub": "principal investigator · Institute of Hematology & Blood Diseases Hospital, Chinese Academ",
+"url": "",
+"c": ""
+},
+{
+"k": "person:niu-ting",
+"t": "person",
+"n": "Niu Ting",
+"sub": "principal investigator · West China Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:flonoltinib-maleate",
+"t": "drug",
+"n": "Flonoltinib Maleate",
+"sub": "Chengdu Zenitar Biomedical Technology Co., Ltd",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06468033",
+"t": "trial",
+"n": "P1101 in Treating Patients With Early PMF or Overt PMF at Low or Intermediate-1 Risk",
+"sub": "P3 · active_not_recruiting · 2025-2029",
+"url": "https://clinicaltrials.gov/study/NCT06468033",
+"c": ""
+},
+{
+"k": "org:pharmaessentia",
+"t": "company",
+"n": "PharmaEssentia",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:pharmaessentia-jp",
+"t": "company",
+"n": "PharmaEssentia JP",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:toshiaki-sato",
+"t": "person",
+"n": "Toshiaki Sato/",
+"sub": "study director · PharmaEssentia JP",
+"url": "",
+"c": ""
+},
+{
+"k": "org:georgetown-university-medical-center",
+"t": "hospital",
+"n": "Georgetown University Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-kansas-medical-center-kumc",
+"t": "hospital",
+"n": "University of Kansas Medical Center (KUMC)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:american-oncology-partners-of-maryland-pa-center-for-cancer",
+"t": "company",
+"n": "American Oncology Partners of Maryland PA (Center for Cancer and Blood Disorders)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:weill-medical-college-of-cornell-university",
+"t": "academic",
+"n": "Weill Medical College of Cornell University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:stony-brook-university-medical-center",
+"t": "hospital",
+"n": "Stony Brook University Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:levine-cancer-institute",
+"t": "academic",
+"n": "Levine Cancer Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:duke-university",
+"t": "academic",
+"n": "Duke University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ohio-state-university",
+"t": "academic",
+"n": "Ohio State University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:ropeginterferon-alfa-2b",
+"t": "drug",
+"n": "Ropeginterferon alfa-2b",
+"sub": "PharmaEssentia",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06457425",
+"t": "trial",
+"n": "A Phase II Clinical Trial of Flonoltinib Maleate Tablet in Intermediate-High Risk Myelofib",
+"sub": "P2 · active_not_recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06457425",
+"c": ""
+},
+{
+"k": "org:hematology-hospital-chinese-academy-of-medical-sciences",
+"t": "hospital",
+"n": "Hematology Hospital, Chinese Academy of Medical Sciences",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "person:zhijian-xiao-doctor",
+"t": "person",
+"n": "Zhijian Xiao, Doctor",
+"sub": "principal investigator · Hematology Hospital, Chinese Academy of Medical Sciences",
+"url": "",
+"c": ""
+},
+{
+"k": "person:ting-niu-doctor",
+"t": "person",
+"n": "Ting Niu, Doctor",
+"sub": "principal investigator · West China Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07750574",
+"t": "trial",
+"n": "Flonoltinib Maleate Oral Regimens in Patients With Myelofibrosis",
+"sub": "P2 · not_yet_recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07750574",
+"c": ""
+},
+{
+"k": "drug:flonoltinib-maleate-orally",
+"t": "drug",
+"n": "Flonoltinib Maleate orally",
+"sub": "Chengdu Zenitar Biomedical Technology Co., Ltd",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07734077",
+"t": "trial",
+"n": "Revumenib in Patients With Myelofibrosis",
+"sub": "P1/P2 · not_yet_recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07734077",
+"c": ""
+},
+{
+"k": "org:john-mascarenhas",
+"t": "academic",
+"n": "John Mascarenhas",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:syndax-pharmaceuticals",
+"t": "company",
+"n": "Syndax Pharmaceuticals",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:icahn-school-of-medicine-at-mount-sinai",
+"t": "academic",
+"n": "Icahn School of Medicine at Mount Sinai",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "person:john-mascarenhas",
+"t": "person",
+"n": "John Mascarenhas",
+"sub": "study chair · Icahn School of Medicine at Mount Sinai",
+"url": "",
+"c": ""
+},
+{
+"k": "person:anthony-m-hunter",
+"t": "person",
+"n": "Anthony M Hunter",
+"sub": "study chair · Emory University",
+"url": "",
+"c": ""
+},
+{
+"k": "org:icahn-school-of-medicine-at-the-mount-sinai-hospital",
+"t": "hospital",
+"n": "Icahn School of Medicine at the Mount Sinai Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:revumenib",
+"t": "drug",
+"n": "Revumenib",
+"sub": "John Mascarenhas",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06773195",
+"t": "trial",
+"n": "A Study of Ruxolitinib in Combination With Ulixertinib in People With Myelofibrosis",
+"sub": "P1/P2 · recruiting · 2025-2028",
+"url": "https://clinicaltrials.gov/study/NCT06773195",
+"c": ""
+},
+{
+"k": "org:memorial-sloan-kettering-cancer-center",
+"t": "academic",
+"n": "Memorial Sloan Kettering Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:biomed-valley-discoveries",
+"t": "company",
+"n": "BioMed Valley Discoveries, Inc",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:raajit-rampal",
+"t": "person",
+"n": "Raajit Rampal",
+"sub": "principal investigator · Memorial Sloan Kettering Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "org:massachusetts-general-hospital-data-collection-only",
+"t": "hospital",
+"n": "Massachusetts General Hospital (Data Collection Only)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:memorial-sloan-kettering-basking-ridge-protocol-activities",
+"t": "company",
+"n": "Memorial Sloan Kettering Basking Ridge (Limited Protocol Activities)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:memorial-sloan-kettering-monmouth-protocol-activities",
+"t": "company",
+"n": "Memorial Sloan Kettering Monmouth (Limited Protocol Activities)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:memorial-sloan-kettering-bergen-protocol-activities",
+"t": "company",
+"n": "Memorial Sloan Kettering Bergen (Limited Protocol Activities)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:memorial-sloan-kettering-suffolk-commack-protocol-activities",
+"t": "company",
+"n": "Memorial Sloan Kettering Suffolk - Commack (Limited Protocol Activities)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:memorial-sloan-kettering-westchester-protocol-activities",
+"t": "company",
+"n": "Memorial Sloan Kettering Westchester (Limited Protocol Activities)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:memorial-sloan-kettering-nassau-protocol-activities",
+"t": "company",
+"n": "Memorial Sloan Kettering Nassau (Limited Protocol Activities)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cleveland-clinic",
+"t": "hospital",
+"n": "Cleveland Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:ulixertinib",
+"t": "drug",
+"n": "Ulixertinib",
+"sub": "Memorial Sloan Kettering Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04370301",
+"t": "trial",
+"n": "Reduced Intensity Haploidentical Transplantation for the Treatment of Primary or Secondary",
+"sub": "P2 · recruiting · 2021-2029",
+"url": "https://clinicaltrials.gov/study/NCT04370301",
+"c": ""
+},
+{
+"k": "person:rachel-b-salit",
+"t": "person",
+"n": "Rachel B. Salit",
+"sub": "principal investigator · Fred Hutch/University of Washington Cancer Consortium",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:recombinant-granulocyte-colony-stimulating-factor",
+"t": "drug",
+"n": "Recombinant Granulocyte Colony-Stimulating Factor",
+"sub": "Fred Hutchinson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04603495",
+"t": "trial",
+"n": "Phase 3 Study of Pelabresib (CPI-0610) in Myelofibrosis (MF) (MANIFEST-2)",
+"sub": "P3 · active_not_recruiting · 2021-2027",
+"url": "https://clinicaltrials.gov/study/NCT04603495",
+"c": ""
+},
+{
+"k": "org:university-of-alabama-at-birmingham",
+"t": "academic",
+"n": "University of Alabama at Birmingham",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ironwood-physicians-p-c-dba-ironwood-cancer-and-research-cen",
+"t": "company",
+"n": "Ironwood Physicians P.C. dba Ironwood Cancer and Research Centers",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -271,66 +2040,2338 @@
 "c": "United States"
 },
 {
-"k": "org:ucla-hematology-oncology-clinic-los-angeles",
+"k": "org:ucla-medical-center",
 "t": "hospital",
-"n": "UCLA Hematology/Oncology Clinic - Los Angeles",
+"n": "UCLA Medical Center",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "org:scripps-health-prebys-cancer-center",
+"k": "org:mayo-clinic",
 "t": "hospital",
-"n": "Scripps Health, Prebys Cancer Center",
+"n": "Mayo Clinic",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "org:the-lundquist-institute-for-biomedical-innovation-at-harbor",
+"k": "org:decatur-memorial-hospital-cancer-care-center-of-decatur-canc",
 "t": "hospital",
-"n": "The Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center",
+"n": "Decatur Memorial Hospital Cancer Care Center of Decatur/Cancer Care Specialists of IL",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "org:rocky-mountain-cancer-centers-aurora",
-"t": "company",
-"n": "Rocky Mountain Cancer Centers - Aurora",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:medical-oncology-hematology-consultants-pa",
-"t": "company",
-"n": "Medical Oncology Hematology Consultants, PA",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:medstar-georgetown-university-hospital-lombardi-comprehensiv",
+"k": "org:franciscan-health-indiana-blood-and-marrow-transplantation",
 "t": "hospital",
-"n": "MedStar Georgetown University Hospital, Lombardi Comprehensive Cancer Center",
+"n": "Franciscan Health/Indiana blood and Marrow Transplantation",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "drug:navtemadlin",
-"t": "drug",
-"n": "Navtemadlin",
-"sub": "Kartos Therapeutics, Inc.",
+"k": "trial:nct03862157",
+"t": "trial",
+"n": "Azacitidine, Venetoclax, and Pevonedistat in Treating Patients With Newly Diagnosed Acute ",
+"sub": "P1/P2 · active_not_recruiting · 2019-2027",
+"url": "https://clinicaltrials.gov/study/NCT03862157",
+"c": ""
+},
+{
+"k": "person:nicholas-short",
+"t": "person",
+"n": "Nicholas Short",
+"sub": "principal investigator · M.D. Anderson Cancer Center",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:ruxolitinib",
+"k": "drug:azacitidine",
 "t": "drug",
-"n": "Ruxolitinib",
-"sub": "Kartos Therapeutics, Inc.",
+"n": "Azacitidine",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:pevonedistat",
+"t": "drug",
+"n": "Pevonedistat",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:venetoclax",
+"t": "drug",
+"n": "Venetoclax",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04717414",
+"t": "trial",
+"n": "An Efficacy and Safety Study of Luspatercept (ACE-536) Versus Placebo in Subjects With Mye",
+"sub": "P3 · active_not_recruiting · 2021-2032",
+"url": "https://clinicaltrials.gov/study/NCT04717414",
+"c": ""
+},
+{
+"k": "org:celgene",
+"t": "company",
+"n": "Celgene",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:bristol-myers-squibb",
+"t": "company",
+"n": "Bristol-Myers Squibb",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:bristol-myers-squibb",
+"t": "person",
+"n": "Bristol-Myers Squibb",
+"sub": "study director · Bristol-Myers Squibb",
+"url": "",
+"c": ""
+},
+{
+"k": "org:john-theurer-cancer-center",
+"t": "company",
+"n": "John Theurer Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:mount-sinai-medical-center",
+"t": "hospital",
+"n": "Mount Sinai Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-pittsburg-medical-center",
+"t": "hospital",
+"n": "University of Pittsburg Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:ace-536",
+"t": "drug",
+"n": "ACE-536",
+"sub": "Celgene",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07551427",
+"t": "trial",
+"n": "A Clinical Trial to Evaluate the Efficacy, Safety, and Pharmacokinetics of TQ05105 Tablets",
+"sub": "P2 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07551427",
+"c": ""
+},
+{
+"k": "org:chia-tai-tianqing-pharmaceutical-group",
+"t": "company",
+"n": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:the-first-affiliated-hospital-of-university-of-science-and-t",
+"t": "hospital",
+"n": "The First Affiliated Hospital of University of Science and Technology of China",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:fujian-medical-university-union-hospital",
+"t": "hospital",
+"n": "Fujian Medical University Union Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:guangzhou-first-municipal-people-s-hospital",
+"t": "hospital",
+"n": "Guangzhou First Municipal People's Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:the-first-affiliated-hospital-of-guangxi-medical-university",
+"t": "hospital",
+"n": "The First Affiliated Hospital of Guangxi Medical University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:cangzhou-people-s-hospital-rovince",
+"t": "hospital",
+"n": "Cangzhou People's Hospital rovince",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:affiliated-hospital-of-chengde-medical-college",
+"t": "hospital",
+"n": "Affiliated Hospital of Chengde Medical College",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:the-second-hospital-of-hebei-medical-university",
+"t": "hospital",
+"n": "The Second Hospital of Hebei Medical University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:xingtai-people-s-hospital",
+"t": "hospital",
+"n": "Xingtai People's Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:henan-cancer-hospital",
+"t": "hospital",
+"n": "Henan Cancer Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:tongji-hospital-affiliated-to-tongji-medical-college-of-huaz",
+"t": "hospital",
+"n": "Tongji Hospital affiliated to Tongji Medical College of Huazhong University of Science & T",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "drug:tq05105",
+"t": "drug",
+"n": "TQ05105",
+"sub": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04576156",
+"t": "trial",
+"n": "A Study Comparing Imetelstat Versus Best Available Therapy for the Treatment of Intermedia",
+"sub": "P3 · active_not_recruiting · 2021-2028",
+"url": "https://clinicaltrials.gov/study/NCT04576156",
+"c": ""
+},
+{
+"k": "org:geron",
+"t": "company",
+"n": "Geron Corporation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:joe-eid",
+"t": "person",
+"n": "Joe Eid",
+"sub": "study director · Geron Corporation",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-california-san-diego-moores-ucsd-cancer-center",
+"t": "academic",
+"n": "University of California-San Diego/Moores UCSD Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ucla-david-geffen-school-of-medicine",
+"t": "academic",
+"n": "UCLA David Geffen School of Medicine",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:smilow-cancer-center-at-ynhh",
+"t": "company",
+"n": "Smilow Cancer Center at YNHH",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:brcr-medical-center",
+"t": "hospital",
+"n": "BRCR Medical Center Inc",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-south-florida",
+"t": "academic",
+"n": "University of South Florida",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:norton-cancer-institute",
+"t": "academic",
+"n": "Norton Cancer Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:duke-university-medical-center",
+"t": "hospital",
+"n": "Duke University Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:gabrail-cancer-center",
+"t": "company",
+"n": "Gabrail Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:prairie-lakes-health-care-system",
+"t": "hospital",
+"n": "Prairie Lakes Health Care System, Inc.",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:imetelstat",
+"t": "drug",
+"n": "Imetelstat",
+"sub": "Geron Corporation",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:best-available-therapy",
+"t": "drug",
+"n": "Best Available Therapy",
+"sub": "Geron Corporation",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05805605",
+"t": "trial",
+"n": "Allo HSCT Using RIC and PTCy for Hematological Diseases",
+"sub": "P2 · recruiting · 2023-2028",
+"url": "https://clinicaltrials.gov/study/NCT05805605",
+"c": ""
+},
+{
+"k": "org:masonic-cancer-center-university-of-minnesota",
+"t": "academic",
+"n": "Masonic Cancer Center, University of Minnesota",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:mark-juckett",
+"t": "person",
+"n": "Mark Juckett",
+"sub": "principal investigator · Masonic Cancer Center, University of Minnesota",
+"url": "",
+"c": ""
+},
+{
+"k": "org:masonic-cancer-center-at-university-of-minnesota",
+"t": "academic",
+"n": "Masonic Cancer Center at University of Minnesota",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:peripheral-blood-stem-cell-transplant",
+"t": "drug",
+"n": "Peripheral Blood Stem Cell Transplant",
+"sub": "Masonic Cancer Center, University of Minnesota",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:allopurinol",
+"t": "drug",
+"n": "Allopurinol",
+"sub": "Masonic Cancer Center, University of Minnesota",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:bone-marrow-cell-transplant",
+"t": "drug",
+"n": "Bone Marrow Cell Transplant",
+"sub": "Masonic Cancer Center, University of Minnesota",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:sirolimus-pill",
+"t": "drug",
+"n": "Sirolimus Pill",
+"sub": "Masonic Cancer Center, University of Minnesota",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04562870",
+"t": "trial",
+"n": "A Study to Evaluate Single Agent Selinexor Versus Physician's Choice in Participants With ",
+"sub": "P2 · active_not_recruiting · 2021-2026",
+"url": "https://clinicaltrials.gov/study/NCT04562870",
+"c": ""
+},
+{
+"k": "org:the-oncology-institute-of-hope-and-innovation",
+"t": "academic",
+"n": "The Oncology Institute of Hope and Innovation",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:rocky-mountain-cancer-centers-llp",
+"t": "company",
+"n": "Rocky Mountain Cancer Centers, LLP",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:illinois-cancer-specialist",
+"t": "company",
+"n": "Illinois Cancer Specialist",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:texas-oncology-northeast-texas",
+"t": "company",
+"n": "Texas Oncology - Northeast Texas",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:peking-union-medical-college-hospital",
+"t": "hospital",
+"n": "Peking Union Medical College Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:union-hospital-tongji-medical-college-huazhong-university-of",
+"t": "hospital",
+"n": "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:affiliated-hospital-of-nantong-university",
+"t": "hospital",
+"n": "Affiliated Hospital of Nantong University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:the-second-affiliated-hospital-of-soochow-university",
+"t": "hospital",
+"n": "The Second Affiliated Hospital of Soochow University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:suzhou-university-the-first-affiliated-hospital",
+"t": "hospital",
+"n": "Suzhou University -The First Affiliated Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:the-first-hospital-of-jilin-university",
+"t": "hospital",
+"n": "The First Hospital of Jilin University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "trial:nct04064060",
+"t": "trial",
+"n": "A Study to Evaluate Long-term Safety in Participants Who Have Participated in Other Luspat",
+"sub": "P3 · recruiting · 2019-2028",
+"url": "https://clinicaltrials.gov/study/NCT04064060",
+"c": ""
+},
+{
+"k": "drug:luspatercept",
+"t": "drug",
+"n": "Luspatercept",
+"sub": "Celgene",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04640025",
+"t": "trial",
+"n": "A Rollover Study to Provide Continued Treatment for Participants Previously Enrolled in St",
+"sub": "P2 · terminated · 2021-2026",
+"url": "https://clinicaltrials.gov/study/NCT04640025",
+"c": ""
+},
+{
+"k": "person:lance-leopold",
+"t": "person",
+"n": "Lance Leopold",
+"sub": "study director · Incyte Corporation",
+"url": "",
+"c": ""
+},
+{
+"k": "org:anschutz-cancer-pavilion-university-of-colorado",
+"t": "academic",
+"n": "Anschutz Cancer Pavilion-University of Colorado",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:parkview-cancer-institute",
+"t": "academic",
+"n": "Parkview Cancer Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:hospital-of-the-university-of-pennsylvania",
+"t": "hospital",
+"n": "Hospital of the University of Pennsylvania",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:temple-university-department-of-thoracic-medicine-and-surger",
+"t": "academic",
+"n": "Temple University Department of Thoracic Medicine and Surgery",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:sarah-cannon-research-institute",
+"t": "academic",
+"n": "Sarah Cannon Research Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:texas-oncology-san-antonio",
+"t": "company",
+"n": "Texas Oncology San Antonio",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ordensklinikum-linz-elisabethinen",
+"t": "hospital",
+"n": "Ordensklinikum Linz Gmbh Elisabethinen",
+"sub": "",
+"url": "",
+"c": "Austria"
+},
+{
+"k": "org:universitaire-ziekenhuis-leuven-gasthuisberg",
+"t": "hospital",
+"n": "Universitaire Ziekenhuis Leuven - Gasthuisberg",
+"sub": "",
+"url": "",
+"c": "Belgium"
+},
+{
+"k": "drug:itacitinib",
+"t": "drug",
+"n": "itacitinib",
+"sub": "Incyte Corporation",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06887803",
+"t": "trial",
+"n": "A Study of Roginolisib in Combination With Ruxolitinib in Patients With Myelofibrosis (MF)",
+"sub": "P1/P2 · recruiting · 2025-2028",
+"url": "https://clinicaltrials.gov/study/NCT06887803",
+"c": ""
+},
+{
+"k": "org:ionctura",
+"t": "company",
+"n": "iOnctura",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:michael-lahn",
+"t": "person",
+"n": "Michael Lahn",
+"sub": "study director · iOnctura",
+"url": "",
+"c": ""
+},
+{
+"k": "org:azienda-ospedaliero-universitaria-careggi-firenze-struttura",
+"t": "academic",
+"n": "Azienda Ospedaliero Universitaria Careggi Firenze, Struttura Complessa di Ematologia",
+"sub": "",
+"url": "",
+"c": "Italy"
+},
+{
+"k": "org:irccs-clinical-institute-humanitas",
+"t": "hospital",
+"n": "IRCCS Clinical Institute Humanitas",
+"sub": "",
+"url": "",
+"c": "Italy"
+},
+{
+"k": "org:istituto-di-ematolgia-e-oncologia-medica",
+"t": "company",
+"n": "Istituto di Ematolgia e Oncologia Medica",
+"sub": "",
+"url": "",
+"c": "Italy"
+},
+{
+"k": "org:istituto-romagnolo-per-lo-studio-dei-tumori",
+"t": "company",
+"n": "Istituto Romagnolo per lo Studio dei Tumori",
+"sub": "",
+"url": "",
+"c": "Italy"
+},
+{
+"k": "org:azienda-sanitario-universitaria-friuli-centrale",
+"t": "academic",
+"n": "Azienda Sanitario Universitaria Friuli Centrale",
+"sub": "",
+"url": "",
+"c": "Italy"
+},
+{
+"k": "org:vall-d-hebron-university-hospital",
+"t": "hospital",
+"n": "Vall d'Hebron University Hospital",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:avigunda-gran-via-de-l-hospitalet-199-203-08908-l-hospitalet",
+"t": "hospital",
+"n": "Avigunda Gran via de l'Hospitalet 199-203, 08908 L'Hospitalet de Llobregat",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:start-madrid-ciocc",
+"t": "company",
+"n": "START Madrid CIOCC",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:united-lincolnshire-teach-hospitals-nhs-trust-pilgrim-hospit",
+"t": "hospital",
+"n": "United Lincolnshire Teach Hospitals NHS Trust, Pilgrim Hospital Boston",
+"sub": "",
+"url": "",
+"c": "United Kingdom"
+},
+{
+"k": "drug:roginolisib",
+"t": "drug",
+"n": "Roginolisib",
+"sub": "iOnctura",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04517851",
+"t": "trial",
+"n": "Elotuzumab for the Treatment of JAK2-Mutated Myelofibrosis",
+"sub": "P2 · active_not_recruiting · 2021-2027",
+"url": "https://clinicaltrials.gov/study/NCT04517851",
+"c": ""
+},
+{
+"k": "person:prithviraj-bose",
+"t": "person",
+"n": "Prithviraj Bose",
+"sub": "principal investigator · M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:elotuzumab",
+"t": "drug",
+"n": "Elotuzumab",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct03627403",
+"t": "trial",
+"n": "Selinexor in Myelofibrosis Refractory or Intolerant to JAK1/2 Inhibitors",
+"sub": "P2 · terminated · 2019-2025",
+"url": "https://clinicaltrials.gov/study/NCT03627403",
+"c": ""
+},
+{
+"k": "org:university-of-utah",
+"t": "academic",
+"n": "University of Utah",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:srinivas-tantravahi",
+"t": "person",
+"n": "Srinivas Tantravahi",
+"sub": "principal investigator · University of Utah",
+"url": "",
+"c": ""
+},
+{
+"k": "org:huntsman-cancer-institute-university-of-utah",
+"t": "academic",
+"n": "Huntsman Cancer Institute/University of Utah",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct05364762",
+"t": "trial",
+"n": "Adding Itacitinib to Cyclophosphamide and Tacrolimus for the Prevention of Graft Versus Ho",
+"sub": "P2 · active_not_recruiting · 2022-2027",
+"url": "https://clinicaltrials.gov/study/NCT05364762",
+"c": ""
+},
+{
+"k": "org:city-of-hope-medical-center",
+"t": "hospital",
+"n": "City of Hope Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "person:monzr-m-al-malki",
+"t": "person",
+"n": "Monzr M Al Malki",
+"sub": "principal investigator · City of Hope Medical Center",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05020652",
+"t": "trial",
+"n": "A Clinical Trial of TQ05105 Tablets in the Treatment of Moderate and High Risk Myelofibros",
+"sub": "P2 · completed · 2021-2023",
+"url": "https://clinicaltrials.gov/study/NCT05020652",
+"c": ""
+},
+{
+"k": "org:guangdong-provincial-peoples-hospital",
+"t": "hospital",
+"n": "Guangdong Provincial Peoples Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:west-china-school-of-medicine-west-china-hospital-sichuan-un",
+"t": "hospital",
+"n": "West China School of Medicine / West China Hospital, Sichuan University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:institute-of-hematology-blood-diseases-hostpital-chinese-aca",
+"t": "academic",
+"n": "Institute of Hematology & Blood Diseases Hostpital, Chinese Academy of medical sciences & ",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "drug:hydroxycarbamide",
+"t": "drug",
+"n": "Hydroxycarbamide",
+"sub": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06327100",
+"t": "trial",
+"n": "Open Label Phase 1/2 Study of Tasquinimod in Patients With Primary Myelofibrosis (PMF), Po",
+"sub": "P1/P2 · recruiting · 2024-2031",
+"url": "https://clinicaltrials.gov/study/NCT06327100",
+"c": ""
+},
+{
+"k": "org:active-biotech",
+"t": "company",
+"n": "Active Biotech AB",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:lucia-masarova",
+"t": "person",
+"n": "Lucia Masarova",
+"sub": "principal investigator · M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:tasquinimod",
+"t": "drug",
+"n": "Tasquinimod",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04817007",
+"t": "trial",
+"n": "A Study to Assess the Safety and Tolerability of BMS-986158 Alone and in Combination With ",
+"sub": "P1/P2 · active_not_recruiting · 2021-2028",
+"url": "https://clinicaltrials.gov/study/NCT04817007",
+"c": ""
+},
+{
+"k": "drug:bms-986158",
+"t": "drug",
+"n": "BMS-986158",
+"sub": "Bristol-Myers Squibb",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05467800",
+"t": "trial",
+"n": "Study of Canakinumab in Patients With Myelofibrosis",
+"sub": "P2 · active_not_recruiting · 2022-2027",
+"url": "https://clinicaltrials.gov/study/NCT05467800",
+"c": ""
+},
+{
+"k": "org:mount-sinai-hospital",
+"t": "hospital",
+"n": "MOUNT SINAI HOSPITAL",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:cedars-sinai-medical-center-samuel-oschin-comprehensive-canc",
+"t": "hospital",
+"n": "Cedars-Sinai Medical Center, Samuel Oschin Comprehensive Cancer Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:the-university-of-kansas-cancer-center-westwood",
+"t": "academic",
+"n": "The University of Kansas Cancer Center-Westwood",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ruttenberg-treatment-center",
+"t": "company",
+"n": "Ruttenberg Treatment Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:atrium-health-levine-cancer-institute",
+"t": "hospital",
+"n": "Atrium Health Levine Cancer Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:wake-forest-baptist-health-comprehensive-cancer-center",
+"t": "hospital",
+"n": "Wake Forest Baptist Health Comprehensive Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cleveland-clinic-foundation",
+"t": "hospital",
+"n": "Cleveland Clinic Foundation",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:canakinumab",
+"t": "drug",
+"n": "Canakinumab",
+"sub": "John Mascarenhas",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-1182-blood-2025-2027",
+"t": "paper",
+"n": "A phase 1/2a trial of amsulostat, a novel pan-lysyl oxidase inhibitor, in patients with ad",
+"sub": "Blood 2025 · cited 1",
+"url": "https://doi.org/10.1182/blood-2025-2027",
+"c": ""
+},
+{
+"k": "person:ross-ian-baker",
+"t": "person",
+"n": "Ross Ian Baker",
+"sub": "",
+"url": "https://orcid.org/0000-0002-2728-6788",
+"c": ""
+},
+{
+"k": "person:wolfgang-jarolimek",
+"t": "person",
+"n": "Wolfgang Jarolimek",
+"sub": "American Forests",
+"url": "https://orcid.org/0000-0002-1757-5420",
+"c": "US"
+},
+{
+"k": "org:american-forests",
+"t": "foundation",
+"n": "American Forests",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:doi-10-1182-blood-2025-1406",
+"t": "paper",
+"n": "Lysyl oxidases directly control cell surface abundance of platelet-derived growth factor r",
+"sub": "Blood 2025 · cited 0",
+"url": "https://doi.org/10.1182/blood-2025-1406",
+"c": ""
+},
+{
+"k": "person:katya-ravid",
+"t": "person",
+"n": "Katya Ravid",
+"sub": "Boston University",
+"url": "https://orcid.org/0000-0002-9918-3024",
+"c": "US"
+},
+{
+"k": "org:boston-university",
+"t": "academic",
+"n": "Boston University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-38216005",
+"t": "paper",
+"n": "Properties of FDA-approved small molecule protein kinase inhibitors: A 2024 update",
+"sub": "Pharmacological Research 2024 · cited 383",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38216005",
+"c": ""
+},
+{
+"k": "person:robert-jr-roskoski",
+"t": "person",
+"n": "Robert Jr. Roskoski",
+"sub": "",
+"url": "https://orcid.org/0000-0001-9861-4139",
+"c": ""
+},
+{
+"k": "paper:pmid-32974939",
+"t": "paper",
+"n": "Polycythemia vera and essential thrombocythemia: 2021 update on diagnosis, risk‐stratifica",
+"sub": "American Journal of Hematology 2020 · cited 352",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32974939",
+"c": ""
+},
+{
+"k": "person:ayalew-tefferi",
+"t": "person",
+"n": "Ayalew Tefferi",
+"sub": "Mayo Clinic",
+"url": "https://orcid.org/0000-0003-4605-3821",
+"c": "US"
+},
+{
+"k": "person:tiziano-barbui",
+"t": "person",
+"n": "Tiziano Barbui",
+"sub": "Ospedale Papa Giovanni XXIII",
+"url": "https://orcid.org/0000-0003-2747-6327",
+"c": "IT"
+},
+{
+"k": "org:ospedale-papa-giovanni-xxiii",
+"t": "hospital",
+"n": "Ospedale Papa Giovanni XXIII",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "paper:pmid-34125572",
+"t": "paper",
+"n": "Safety and Immunogenicity of a Third Dose of SARS-CoV-2 Vaccine in Solid Organ Transplant ",
+"sub": "Annals of Internal Medicine 2021 · cited 333",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34125572",
+"c": ""
+},
+{
+"k": "person:william-a-werbel",
+"t": "person",
+"n": "William A. Werbel",
+"sub": "Johns Hopkins University",
+"url": "https://orcid.org/0000-0003-2943-5895",
+"c": "US"
+},
+{
+"k": "org:johns-hopkins-university",
+"t": "academic",
+"n": "Johns Hopkins University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:dorry-lidor-segev",
+"t": "person",
+"n": "Dorry Lidor Segev",
+"sub": "Johns Hopkins University",
+"url": "https://orcid.org/0000-0002-1924-4801",
+"c": "US"
+},
+{
+"k": "org:american-society-of-transplantation",
+"t": "funder",
+"n": "American Society of Transplantation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institute-of-allergy-and-infectious-diseases",
+"t": "funder",
+"n": "National Institute of Allergy and Infectious Diseases",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
+"t": "funder",
+"n": "National Institute of Diabetes and Digestive and Kidney Diseases",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33197049",
+"t": "paper",
+"n": "Primary myelofibrosis: 2021 update on diagnosis, risk‐stratification and management",
+"sub": "American Journal of Hematology 2020 · cited 315",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33197049",
+"c": ""
+},
+{
+"k": "paper:pmid-36680511",
+"t": "paper",
+"n": "Primary myelofibrosis: 2023 update on diagnosis, risk‐stratification, and management",
+"sub": "American Journal of Hematology 2023 · cited 304",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36680511",
+"c": ""
+},
+{
+"k": "paper:pmid-36403719",
+"t": "paper",
+"n": "Properties of FDA-approved small molecule protein kinase inhibitors: A 2023 update",
+"sub": "Pharmacological Research 2022 · cited 298",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36403719",
+"c": ""
+},
+{
+"k": "org:eli-lilly-and-company",
+"t": "funder",
+"n": "Eli Lilly and Company",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:pfizer",
+"t": "funder",
+"n": "Pfizer",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-31945802",
+"t": "paper",
+"n": "Mutation‐enhanced international prognostic systems for essential thrombocythaemia and poly",
+"sub": "British Journal of Haematology 2020 · cited 231",
+"url": "https://pubmed.ncbi.nlm.nih.gov/31945802",
+"c": ""
+},
+{
+"k": "person:alessandro-maria-vannucchi",
+"t": "person",
+"n": "Alessandro Maria Vannucchi",
+"sub": "Azienda Ospedaliero-Universitaria Careggi",
+"url": "https://orcid.org/0000-0001-5755-0730",
+"c": "IT"
+},
+{
+"k": "org:azienda-ospedaliero-universitaria-careggi",
+"t": "hospital",
+"n": "Azienda Ospedaliero-Universitaria Careggi",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:university-of-florence",
+"t": "academic",
+"n": "University of Florence",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:ministero-della-salute",
+"t": "funder",
+"n": "Ministero della Salute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:universita-degli-studi-di-firenze",
+"t": "funder",
+"n": "Università degli Studi di Firenze",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:associazione-italiana-per-la-ricerca-sul-cancro",
+"t": "funder",
+"n": "Associazione Italiana per la Ricerca sul Cancro",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-37357958",
+"t": "paper",
+"n": "Polycythemia vera: 2024 update on diagnosis, risk‐stratification, and management",
+"sub": "American Journal of Hematology 2023 · cited 220",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37357958",
+"c": ""
+},
+{
+"k": "paper:pmid-36351055",
+"t": "paper",
+"n": "Human Bone Marrow Organoids for Disease Modeling, Discovery, and Validation of Therapeutic",
+"sub": "Cancer Discovery 2022 · cited 214",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36351055",
+"c": ""
+},
+{
+"k": "person:abdullah-obaid-khan",
+"t": "person",
+"n": "Abdullah Obaid Khan",
+"sub": "University of Oxford",
+"url": "https://orcid.org/0000-0003-0825-3179",
+"c": "GB"
+},
+{
+"k": "org:university-of-oxford",
+"t": "academic",
+"n": "University of Oxford",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:nihr-oxford-biomedical-research-centre",
+"t": "funder",
+"n": "NIHR Oxford Biomedical Research Centre",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:bethan-psaila",
+"t": "person",
+"n": "Bethan Psaila",
+"sub": "Churchill Hospital",
+"url": "https://orcid.org/0000-0001-8198-9663",
+"c": "GB"
+},
+{
+"k": "org:churchill-hospital",
+"t": "hospital",
+"n": "Churchill Hospital",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:european-hematology-association",
+"t": "funder",
+"n": "European Hematology Association",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:wellcome-trust",
+"t": "funder",
+"n": "Wellcome Trust",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:kennedy-trust-for-rheumatology-research",
+"t": "funder",
+"n": "Kennedy Trust for Rheumatology Research",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:cancer-research-uk",
+"t": "funder",
+"n": "Cancer Research UK",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36709073",
+"t": "paper",
+"n": "Momelotinib versus danazol in symptomatic patients with anaemia and myelofibrosis (MOMENTU",
+"sub": "The Lancet 2023 · cited 202",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36709073",
+"c": ""
+},
+{
+"k": "person:sran-verstovsek",
+"t": "person",
+"n": "Srđan Verstovšek",
+"sub": "The University of Texas MD Anderson Cancer Center",
+"url": "https://orcid.org/0000-0002-6912-8569",
+"c": "US"
+},
+{
+"k": "paper:pmid-32647323",
+"t": "paper",
+"n": "Fedratinib, a newly approved treatment for patients with myeloproliferative neoplasm-assoc",
+"sub": "Leukemia 2020 · cited 188",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32647323",
+"c": ""
+},
+{
+"k": "person:moshe-talpaz",
+"t": "person",
+"n": "Moshe Talpaz",
+"sub": "U-M Rogel Cancer Center",
+"url": "https://orcid.org/0000-0003-3361-3981",
+"c": "US"
+},
+{
+"k": "org:u-m-rogel-cancer-center",
+"t": "hospital",
+"n": "U-M Rogel Cancer Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:jeanjacques-kiladjian",
+"t": "person",
+"n": "Jean‐Jacques Kiladjian",
+"sub": "Inserm",
+"url": "https://orcid.org/0000-0002-8121-438X",
+"c": "FR"
+},
+{
+"k": "org:inserm",
+"t": "funder",
+"n": "Inserm",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:universite-paris-cite",
+"t": "academic",
+"n": "Université Paris Cité",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "paper:pmid-32386542",
+"t": "paper",
+"n": "Single-Cell Analyses Reveal Megakaryocyte-Biased Hematopoiesis in Myelofibrosis and Identi",
+"sub": "Molecular Cell 2020 · cited 184",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32386542",
+"c": ""
+},
+{
+"k": "org:national-institutes-of-health",
+"t": "funder",
+"n": "National Institutes of Health",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:supat-thongjuea",
+"t": "person",
+"n": "Supat Thongjuea",
+"sub": "University of Oxford",
+"url": "https://orcid.org/0000-0002-9129-4694",
+"c": "GB"
+},
+{
+"k": "org:mrc-weatherall-institute-of-molecular-medicine",
+"t": "academic",
+"n": "MRC Weatherall Institute of Molecular Medicine",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:adam-j-mead",
+"t": "person",
+"n": "Adam J. Mead",
+"sub": "University of Oxford",
+"url": "https://orcid.org/0000-0001-8522-1002",
+"c": "GB"
+},
+{
+"k": "org:national-institute-for-health-and-care-research",
+"t": "funder",
+"n": "National Institute for Health and Care Research",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33301706",
+"t": "paper",
+"n": "Heterogeneous bone-marrow stromal progenitors drive myelofibrosis via a druggable alarmin ",
+"sub": "Cell stem cell 2020 · cited 176",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33301706",
+"c": ""
+},
+{
+"k": "person:nils-b-leimkuhler",
+"t": "person",
+"n": "Nils B. Leimkühler",
+"sub": "Erasmus MC",
+"url": "https://orcid.org/0000-0003-2530-4329",
+"c": "NL"
+},
+{
+"k": "org:erasmus-mc",
+"t": "hospital",
+"n": "Erasmus MC",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "person:rebekka-k-schneider",
+"t": "person",
+"n": "Rebekka K. Schneider",
+"sub": "Erasmus MC",
+"url": "https://orcid.org/0000-0002-0749-1565",
+"c": "NL"
+},
+{
+"k": "org:rwth-aachen-university",
+"t": "academic",
+"n": "RWTH Aachen University",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:mpn-research-foundation",
+"t": "funder",
+"n": "MPN Research Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-bern",
+"t": "funder",
+"n": "University of Bern",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:cancer-couch-foundation",
+"t": "funder",
+"n": "Cancer Couch Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36671504",
+"t": "paper",
+"n": "The Role of JAK/STAT Pathway in Fibrotic Diseases: Molecular and Cellular Mechanisms",
+"sub": "Biomolecules 2023 · cited 171",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36671504",
+"c": ""
+},
+{
+"k": "person:jia-liu",
+"t": "person",
+"n": "Jia Liu",
+"sub": "Sichuan University",
+"url": "https://orcid.org/0000-0001-9474-4139",
+"c": "CN"
+},
+{
+"k": "org:sichuan-university",
+"t": "academic",
+"n": "Sichuan University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:west-china-medical-center-of-sichuan-university",
+"t": "hospital",
+"n": "West China Medical Center of Sichuan University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:fengming-luo",
+"t": "person",
+"n": "Fengming Luo",
+"sub": "Sichuan University",
+"url": "https://orcid.org/0000-0001-9267-3437",
+"c": "CN"
+},
+{
+"k": "org:national-natural-science-foundation-of-china",
+"t": "funder",
+"n": "National Natural Science Foundation of China",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36347013",
+"t": "paper",
+"n": "Genetic basis and molecular profiling in myeloproliferative neoplasms",
+"sub": "Blood 2022 · cited 166",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36347013",
+"c": ""
+},
+{
+"k": "person:damien-luque-paz",
+"t": "person",
+"n": "Damien Luque Paz",
+"sub": "Centre National de la Recherche Scientifique",
+"url": "https://orcid.org/0000-0002-4523-675X",
+"c": "FR"
+},
+{
+"k": "org:centre-national-de-la-recherche-scientifique",
+"t": "funder",
+"n": "Centre National de la Recherche Scientifique",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:radek-c-skoda",
+"t": "person",
+"n": "Radek C. Skoda",
+"sub": "University of Basel",
+"url": "https://orcid.org/0000-0002-3626-9496",
+"c": "CH"
+},
+{
+"k": "org:university-of-basel",
+"t": "academic",
+"n": "University of Basel",
+"sub": "",
+"url": "",
+"c": "CH"
+},
+{
+"k": "org:university-hospital-of-basel",
+"t": "hospital",
+"n": "University Hospital of Basel",
+"sub": "",
+"url": "",
+"c": "CH"
+},
+{
+"k": "org:national-science-foundation",
+"t": "funder",
+"n": "National Science Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:schweizerischer-nationalfonds-zur-forderung-der-wissenschaft",
+"t": "funder",
+"n": "Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:austrian-science-fund",
+"t": "funder",
+"n": "Austrian Science Fund",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:swiss-cancer-research-foundation",
+"t": "funder",
+"n": "Swiss Cancer Research Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-35645034",
+"t": "paper",
+"n": "Thrombophilia testing: A British Society for Haematology guideline",
+"sub": "British Journal of Haematology 2022 · cited 154",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35645034",
+"c": ""
+},
+{
+"k": "person:deepa-j-arachchillage",
+"t": "person",
+"n": "Deepa J. Arachchillage",
+"sub": "Imperial College Healthcare NHS Trust",
+"url": "https://orcid.org/0000-0001-5993-4850",
+"c": "GB"
+},
+{
+"k": "org:imperial-college-healthcare-nhs-trust",
+"t": "hospital",
+"n": "Imperial College Healthcare NHS Trust",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:imperial-college-london",
+"t": "academic",
+"n": "Imperial College London",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:michael-laffan",
+"t": "person",
+"n": "Michael Laffan",
+"sub": "Imperial College Healthcare NHS Trust",
+"url": "https://orcid.org/0000-0002-8268-3268",
+"c": "GB"
+},
+{
+"k": "org:british-society-for-haematology",
+"t": "funder",
+"n": "British Society for Haematology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36416738",
+"t": "paper",
+"n": "Myelofibrosis",
+"sub": "Blood 2022 · cited 153",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36416738",
+"c": ""
+},
+{
+"k": "person:francesco-passamonti",
+"t": "person",
+"n": "Francesco Passamonti",
+"sub": "University of Insubria",
+"url": "https://orcid.org/0000-0001-8068-5289",
+"c": "IT"
+},
+{
+"k": "org:university-of-insubria",
+"t": "academic",
+"n": "University of Insubria",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:ospedale-di-circolo-e-fondazione-macchi",
+"t": "hospital",
+"n": "Ospedale di Circolo e Fondazione Macchi",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:barbara-mora",
+"t": "person",
+"n": "Barbara Mora",
+"sub": "Ospedale di Circolo e Fondazione Macchi",
+"url": "https://orcid.org/0000-0002-6325-3916",
+"c": "IT"
+},
+{
+"k": "org:aziende-socio-sanitarie-territoriale-dei-sette-laghi",
+"t": "funder",
+"n": "Aziende Socio Sanitarie Territoriale dei Sette Laghi",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32129512",
+"t": "paper",
+"n": "Fedratinib in patients with myelofibrosis previously treated with ruxolitinib: An updated ",
+"sub": "American Journal of Hematology 2020 · cited 151",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32129512",
+"c": ""
+},
+{
+"k": "person:claire-n-harrison",
+"t": "person",
+"n": "Claire N. Harrison",
+"sub": "St Thomas' Hospital",
+"url": "https://orcid.org/0000-0002-3212-920X",
+"c": "GB"
+},
+{
+"k": "org:st-thomas-hospital",
+"t": "hospital",
+"n": "St Thomas' Hospital",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:ruben-a-mesa",
+"t": "person",
+"n": "Ruben A. Mesa",
+"sub": "The University of Texas at San Antonio Health Science Center",
+"url": "https://orcid.org/0000-0001-5880-7972",
+"c": "US"
+},
+{
+"k": "org:the-university-of-texas-at-san-antonio-health-science-center",
+"t": "academic",
+"n": "The University of Texas at San Antonio Health Science Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:sanofi",
+"t": "funder",
+"n": "Sanofi",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-cancer-institute",
+"t": "funder",
+"n": "National Cancer Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-35699322",
+"t": "paper",
+"n": "Iron overload disorders",
+"sub": "Hepatology Communications 2022 · cited 150",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35699322",
+"c": ""
+},
+{
+"k": "person:christine-cho-shing-hsu",
+"t": "person",
+"n": "Christine Cho-Shing Hsu",
+"sub": "MedStar Georgetown University Hospital",
+"url": "https://orcid.org/0000-0001-8779-9422",
+"c": "US"
+},
+{
+"k": "person:kris-v-kowdley",
+"t": "person",
+"n": "Kris V. Kowdley",
+"sub": "Liver Institute Northwest",
+"url": "https://orcid.org/0000-0002-8553-3652",
+"c": "US"
+},
+{
+"k": "org:liver-institute-northwest",
+"t": "hospital",
+"n": "Liver Institute Northwest",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:washington-state-university",
+"t": "academic",
+"n": "Washington State University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-38269572",
+"t": "paper",
+"n": "Essential thrombocythemia: 2024 update on diagnosis, risk stratification, and management",
+"sub": "American Journal of Hematology 2024 · cited 149",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38269572",
+"c": ""
+},
+{
+"k": "paper:pmid-34480106",
+"t": "paper",
+"n": "Polycythemia vera: historical oversights, diagnostic details, and therapeutic views",
+"sub": "Leukemia 2021 · cited 143",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34480106",
+"c": ""
+},
+{
+"k": "paper:pmid-36075392",
+"t": "paper",
+"n": "Myeloproliferative Neoplasms, Version 3.2022, NCCN Clinical Practice Guidelines in Oncolog",
+"sub": "Journal of the National Comprehensive Cancer Network 2022 · cited 137",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36075392",
+"c": ""
+},
+{
+"k": "person:aaron-thomas-gerds",
+"t": "person",
+"n": "Aaron Thomas Gerds",
+"sub": "Cleveland Clinic",
+"url": "https://orcid.org/0000-0002-3422-1309",
+"c": "US"
+},
+{
+"k": "org:university-hospitals-seidman-cancer-center",
+"t": "hospital",
+"n": "University Hospitals Seidman Cancer Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:cindy-hochstetler",
+"t": "person",
+"n": "Cindy Hochstetler",
+"sub": "National Comprehensive Cancer Network",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-comprehensive-cancer-network",
+"t": "funder",
+"n": "National Comprehensive Cancer Network",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32915978",
+"t": "paper",
+"n": "ACVR1/JAK1/JAK2 inhibitor momelotinib reverses transfusion dependency and suppresses hepci",
+"sub": "Blood Advances 2020 · cited 129",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32915978",
+"c": ""
+},
+{
+"k": "person:stephen-t-oh",
+"t": "person",
+"n": "Stephen T. Oh",
+"sub": "Washington University in St. Louis",
+"url": "https://orcid.org/0000-0002-8564-5400",
+"c": "US"
+},
+{
+"k": "org:washington-university-in-st-louis",
+"t": "academic",
+"n": "Washington University in St. Louis",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:carrie-baker-brachmann",
+"t": "person",
+"n": "Carrie Baker Brachmann",
+"sub": "Gilead Sciences (United States)",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:gilead-sciences-united-states",
+"t": "company",
+"n": "Gilead Sciences (United States)",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-35130339",
+"t": "paper",
+"n": "A prognostic model to predict survival after 6 months of ruxolitinib in patients with myel",
+"sub": "Blood Advances 2022 · cited 127",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35130339",
+"c": ""
+},
+{
+"k": "person:margherita-maffioli",
+"t": "person",
+"n": "Margherita Maffioli",
+"sub": "Ospedale di Circolo e Fondazione Macchi",
+"url": "https://orcid.org/0000-0002-2268-391X",
+"c": "IT"
+},
+{
+"k": "org:associazione-italiana-contro-le-leucemie-linfomi-e-mieloma",
+"t": "funder",
+"n": "Associazione Italiana Contro le Leucemie-Linfomi e Mieloma",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-35180010",
+"t": "paper",
+"n": "Addition of Navitoclax to Ongoing Ruxolitinib Therapy for Patients With Myelofibrosis With",
+"sub": "Journal of Clinical Oncology 2022 · cited 127",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35180010",
+"c": ""
+},
+{
+"k": "org:guy-s-and-st-thomas-nhs-foundation-trust",
+"t": "hospital",
+"n": "Guy's and St Thomas' NHS Foundation Trust",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "paper:pmid-35210530",
+"t": "paper",
+"n": "Long-term outcomes of polycythemia vera patients treated with ropeginterferon Alfa-2b",
+"sub": "Leukemia 2022 · cited 120",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35210530",
+"c": ""
+},
+{
+"k": "person:heinz-gisslinger",
+"t": "person",
+"n": "Heinz Gisslinger",
+"sub": "Medical University of Vienna",
+"url": "https://orcid.org/0000-0002-0295-7629",
+"c": "AT"
+},
+{
+"k": "org:medical-university-of-vienna",
+"t": "academic",
+"n": "Medical University of Vienna",
+"sub": "",
+"url": "",
+"c": "AT"
+},
+{
+"k": "org:american-society-of-hematology",
+"t": "funder",
+"n": "American Society of Hematology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:aop-orphan",
+"t": "funder",
+"n": "AOP Orphan",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34193229",
+"t": "paper",
+"n": "Molecular pathogenesis of the myeloproliferative neoplasms",
+"sub": "Journal of Hematology & Oncology 2021 · cited 118",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34193229",
+"c": ""
+},
+{
+"k": "person:graeme-greenfield",
+"t": "person",
+"n": "Graeme Greenfield",
+"sub": "Queen's University Belfast",
+"url": "https://orcid.org/0000-0003-2333-1374",
+"c": "GB"
+},
+{
+"k": "org:queen-s-university-belfast",
+"t": "academic",
+"n": "Queen's University Belfast",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:ken-mills",
+"t": "person",
+"n": "Ken Mills",
+"sub": "Queen's University Belfast",
+"url": "https://orcid.org/0000-0002-6362-4481",
+"c": "GB"
+},
+{
+"k": "org:canadian-institute-for-theoretical-astrophysics",
+"t": "funder",
+"n": "Canadian Institute for Theoretical Astrophysics",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:health-research-board",
+"t": "funder",
+"n": "Health Research Board",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:health-service-executive",
+"t": "funder",
+"n": "Health Service Executive",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32017044",
+"t": "paper",
+"n": "Primary analysis of JUMP, a phase 3b, expanded‐access study evaluating the safety and effi",
+"sub": "British Journal of Haematology 2020 · cited 115",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32017044",
+"c": ""
+},
+{
+"k": "person:haifa-kathrin-alali",
+"t": "person",
+"n": "Haifa Kathrin Al‐Ali",
+"sub": "University Hospital in Halle",
+"url": "https://orcid.org/0000-0001-5009-2239",
+"c": "DE"
+},
+{
+"k": "org:university-hospital-in-halle",
+"t": "hospital",
+"n": "University Hospital in Halle",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:amgen",
+"t": "funder",
+"n": "Amgen",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33654206",
+"t": "paper",
+"n": "Interferon-alpha for treating polycythemia vera yields improved myelofibrosis-free and ove",
+"sub": "Leukemia 2021 · cited 113",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33654206",
+"c": ""
+},
+{
+"k": "person:ghaith-f-abu-zeinah",
+"t": "person",
+"n": "Ghaith F. Abu-Zeinah",
+"sub": "Weill Cornell Medicine",
+"url": "https://orcid.org/0000-0002-1881-3670",
+"c": "US"
+},
+{
+"k": "org:weill-cornell-medicine",
+"t": "academic",
+"n": "Weill Cornell Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:richard-t-silver",
+"t": "person",
+"n": "Richard T. Silver",
+"sub": "Weill Cornell Medicine",
+"url": "https://orcid.org/0000-0002-8524-0964",
+"c": "US"
+},
+{
+"k": "org:national-center-for-advancing-translational-sciences",
+"t": "funder",
+"n": "National Center for Advancing Translational Sciences",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34140953",
+"t": "paper",
+"n": "Inflammatory Pathophysiology as a Contributor to Myeloproliferative Neoplasms",
+"sub": "Frontiers in Immunology 2021 · cited 113",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34140953",
+"c": ""
+},
+{
+"k": "person:daniel-a-c-fisher",
+"t": "person",
+"n": "Daniel A.C. Fisher",
+"sub": "Washington University in St. Louis",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:national-institute-of-arthritis-and-musculoskeletal-and-skin",
+"t": "funder",
+"n": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-38061384",
+"t": "paper",
+"n": "Indication and management of allogeneic haematopoietic stem-cell transplantation in myelof",
+"sub": "The Lancet Haematology 2023 · cited 113",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38061384",
+"c": ""
+},
+{
+"k": "person:nicolaus-martin-kroger",
+"t": "person",
+"n": "Nicolaus Martin Kröger",
+"sub": "University Medical Center Hamburg-Eppendorf",
+"url": "https://orcid.org/0000-0001-5103-9966",
+"c": "DE"
+},
+{
+"k": "org:university-medical-center-hamburg-eppendorf",
+"t": "hospital",
+"n": "University Medical Center Hamburg-Eppendorf",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "person:giovanni-barosi",
+"t": "person",
+"n": "Giovanni Barosi",
+"sub": "Policlinico San Matteo Fondazione",
+"url": "https://orcid.org/0000-0002-8357-7192",
+"c": "IT"
+},
+{
+"k": "org:policlinico-san-matteo-fondazione",
+"t": "hospital",
+"n": "Policlinico San Matteo Fondazione",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "paper:pmid-32212392",
+"t": "paper",
+"n": "Leukoerythroblastic reaction in a patient with COVID ‐19 infection",
+"sub": "American Journal of Hematology 2020 · cited 110",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32212392",
+"c": ""
+},
+{
+"k": "person:anupam-mitra",
+"t": "person",
+"n": "Anupam Mitra",
+"sub": "University of California Davis Medical Center",
+"url": "https://orcid.org/0000-0003-2385-7325",
+"c": "US"
+},
+{
+"k": "org:university-of-california-davis-medical-center",
+"t": "hospital",
+"n": "University of California Davis Medical Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:john-paul-graff",
+"t": "person",
+"n": "John Paul Graff",
+"sub": "University of California Davis Medical Center",
+"url": "https://orcid.org/0000-0002-1247-2588",
+"c": "US"
+},
+{
+"k": "paper:pmid-34138638",
+"t": "paper",
+"n": "Randomized, Single-Blind, Multicenter Phase II Study of Two Doses of Imetelstat in Relapse",
+"sub": "Journal of Clinical Oncology 2021 · cited 110",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34138638",
+"c": ""
+},
+{
+"k": "person:john-o-mascarenhas",
+"t": "person",
+"n": "John O Mascarenhas",
+"sub": "Tisch Cancer Institute",
+"url": "https://orcid.org/0000-0002-8400-0483",
+"c": ""
+},
+{
+"k": "org:tisch-cancer-institute",
+"t": "hospital",
+"n": "Tisch Cancer Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:hopital-saint-louis",
+"t": "hospital",
+"n": "Hôpital Saint-Louis",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:agence-nationale-de-la-recherche",
+"t": "funder",
+"n": "Agence Nationale de la Recherche",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36745865",
+"t": "paper",
+"n": "JAK2 V617F allele burden in polycythemia vera: burden of proof",
+"sub": "Blood 2023 · cited 108",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36745865",
+"c": ""
+},
+{
+"k": "person:alison-r-moliterno",
+"t": "person",
+"n": "Alison R. Moliterno",
+"sub": "Johns Hopkins University",
+"url": "https://orcid.org/0000-0002-8673-4317",
+"c": "US"
+},
+{
+"k": "org:johns-hopkins-medicine",
+"t": "hospital",
+"n": "Johns Hopkins Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:brandi-reeves",
+"t": "person",
+"n": "Brandi Reeves",
+"sub": "University of North Carolina at Chapel Hill",
+"url": "https://orcid.org/0000-0002-2106-3698",
+"c": "US"
+},
+{
+"k": "org:university-of-north-carolina-at-chapel-hill",
+"t": "academic",
+"n": "University of North Carolina at Chapel Hill",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:unc-lineberger-comprehensive-cancer-center",
+"t": "hospital",
+"n": "UNC Lineberger Comprehensive Cancer Center",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-heart-lung-and-blood-institute",
+"t": "funder",
+"n": "National Heart, Lung, and Blood Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32726410",
+"t": "paper",
+"n": "Increased CXCL4 expression in hematopoietic cells links inflammation and progression of bo",
+"sub": "Blood 2020 · cited 107",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32726410",
+"c": ""
+},
+{
+"k": "person:helene-f-e-gleitz",
+"t": "person",
+"n": "Hélène F.E. Gleitz",
+"sub": "Erasmus MC",
+"url": "https://orcid.org/0000-0001-6138-8916",
+"c": "NL"
+},
+{
+"k": "org:erasmus-mc-cancer-institute",
+"t": "hospital",
+"n": "Erasmus MC Cancer Institute",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "org:bayer",
+"t": "funder",
+"n": "Bayer",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:european-commission",
+"t": "funder",
+"n": "European Commission",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:deutsche-forschungsgemeinschaft",
+"t": "funder",
+"n": "Deutsche Forschungsgemeinschaft",
+"sub": "",
 "url": "",
 "c": ""
 }
@@ -342,13 +4383,578 @@
 "r": "tested_in"
 },
 {
-"a": "drug:navtemadlin",
+"a": "drug:ace-536",
 "b": "asset:amsulostat",
 "r": "competes"
 },
 {
-"a": "drug:navtemadlin",
-"b": "trial:nct06479135",
+"a": "drug:ace-536",
+"b": "trial:nct04717414",
+"r": "tested_in"
+},
+{
+"a": "drug:allopurinol",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:allopurinol",
+"b": "trial:nct05805605",
+"r": "tested_in"
+},
+{
+"a": "drug:axatilimab",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:axatilimab",
+"b": "trial:nct07128381",
+"r": "tested_in"
+},
+{
+"a": "drug:azacitidine",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:azacitidine",
+"b": "trial:nct03862157",
+"r": "tested_in"
+},
+{
+"a": "drug:best-available-therapy",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:best-available-therapy",
+"b": "trial:nct04576156",
+"r": "tested_in"
+},
+{
+"a": "drug:bms-986158",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:bms-986158",
+"b": "trial:nct04817007",
+"r": "tested_in"
+},
+{
+"a": "drug:bone-marrow-cell-transplant",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:bone-marrow-cell-transplant",
+"b": "trial:nct05805605",
+"r": "tested_in"
+},
+{
+"a": "drug:busulfan",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:busulfan",
+"b": "trial:nct06001385",
+"r": "tested_in"
+},
+{
+"a": "drug:busulfan",
+"b": "trial:nct06345495",
+"r": "tested_in"
+},
+{
+"a": "drug:busulfan",
+"b": "trial:nct07228624",
+"r": "tested_in"
+},
+{
+"a": "drug:canakinumab",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:canakinumab",
+"b": "trial:nct05467800",
+"r": "tested_in"
+},
+{
+"a": "drug:cyclophosphamide",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:cyclophosphamide",
+"b": "trial:nct04370301",
+"r": "tested_in"
+},
+{
+"a": "drug:cyclophosphamide",
+"b": "trial:nct05364762",
+"r": "tested_in"
+},
+{
+"a": "drug:cyclophosphamide",
+"b": "trial:nct05805605",
+"r": "tested_in"
+},
+{
+"a": "drug:cyclophosphamide",
+"b": "trial:nct06001385",
+"r": "tested_in"
+},
+{
+"a": "drug:cyclophosphamide",
+"b": "trial:nct06345495",
+"r": "tested_in"
+},
+{
+"a": "drug:cyclophosphamide",
+"b": "trial:nct07228624",
+"r": "tested_in"
+},
+{
+"a": "drug:decitabine",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:decitabine",
+"b": "trial:nct04282187",
+"r": "tested_in"
+},
+{
+"a": "drug:decitabine-and-cedazuridine",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:decitabine-and-cedazuridine",
+"b": "trial:nct06661915",
+"r": "tested_in"
+},
+{
+"a": "drug:disc-0974",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:disc-0974",
+"b": "trial:nct05320198",
+"r": "tested_in"
+},
+{
+"a": "drug:elotuzumab",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:elotuzumab",
+"b": "trial:nct04517851",
+"r": "tested_in"
+},
+{
+"a": "drug:elritercept",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:elritercept",
+"b": "trial:nct07623161",
+"r": "tested_in"
+},
+{
+"a": "drug:eltrombopag",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:eltrombopag",
+"b": "trial:nct06345495",
+"r": "tested_in"
+},
+{
+"a": "drug:fedratinib",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:fedratinib",
+"b": "trial:nct04282187",
+"r": "tested_in"
+},
+{
+"a": "drug:fedratinib",
+"b": "trial:nct04817007",
+"r": "tested_in"
+},
+{
+"a": "drug:fedratinib",
+"b": "trial:nct07734077",
+"r": "tested_in"
+},
+{
+"a": "drug:flonoltinib",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:flonoltinib",
+"b": "trial:nct06457425",
+"r": "tested_in"
+},
+{
+"a": "drug:flonoltinib",
+"b": "trial:nct07317700",
+"r": "tested_in"
+},
+{
+"a": "drug:flonoltinib-maleate",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:flonoltinib-maleate",
+"b": "trial:nct07443306",
+"r": "tested_in"
+},
+{
+"a": "drug:flonoltinib-maleate-orally",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:flonoltinib-maleate-orally",
+"b": "trial:nct07750574",
+"r": "tested_in"
+},
+{
+"a": "drug:fludarabine",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:fludarabine",
+"b": "trial:nct04370301",
+"r": "tested_in"
+},
+{
+"a": "drug:fludarabine",
+"b": "trial:nct05805605",
+"r": "tested_in"
+},
+{
+"a": "drug:fludarabine",
+"b": "trial:nct06001385",
+"r": "tested_in"
+},
+{
+"a": "drug:fludarabine",
+"b": "trial:nct07228624",
+"r": "tested_in"
+},
+{
+"a": "drug:fludarabine-phosphate",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:fludarabine-phosphate",
+"b": "trial:nct06345495",
+"r": "tested_in"
+},
+{
+"a": "drug:hydroxycarbamide",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:hydroxycarbamide",
+"b": "trial:nct05020652",
+"r": "tested_in"
+},
+{
+"a": "drug:iadademstat",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:iadademstat",
+"b": "trial:nct06661915",
+"r": "tested_in"
+},
+{
+"a": "drug:imetelstat",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:imetelstat",
+"b": "trial:nct04576156",
+"r": "tested_in"
+},
+{
+"a": "drug:incb000928",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:incb000928",
+"b": "trial:nct04455841",
+"r": "tested_in"
+},
+{
+"a": "drug:itacitinib",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:itacitinib",
+"b": "trial:nct04640025",
+"r": "tested_in"
+},
+{
+"a": "drug:itacitinib",
+"b": "trial:nct05364762",
+"r": "tested_in"
+},
+{
+"a": "drug:jak-inhibitor",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:jak-inhibitor",
+"b": "trial:nct04370301",
+"r": "tested_in"
+},
+{
+"a": "drug:jak-inhibitor",
+"b": "trial:nct07228624",
+"r": "tested_in"
+},
+{
+"a": "drug:levetiracetam",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:levetiracetam",
+"b": "trial:nct06345495",
+"r": "tested_in"
+},
+{
+"a": "drug:luspatercept",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:luspatercept",
+"b": "trial:nct04064060",
+"r": "tested_in"
+},
+{
+"a": "drug:melphalan",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:melphalan",
+"b": "trial:nct04370301",
+"r": "tested_in"
+},
+{
+"a": "drug:melphalan",
+"b": "trial:nct06001385",
+"r": "tested_in"
+},
+{
+"a": "drug:melphalan",
+"b": "trial:nct07228624",
+"r": "tested_in"
+},
+{
+"a": "drug:mesna",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:mesna",
+"b": "trial:nct06001385",
+"r": "tested_in"
+},
+{
+"a": "drug:mesna",
+"b": "trial:nct06345495",
+"r": "tested_in"
+},
+{
+"a": "drug:methotrexate",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:methotrexate",
+"b": "trial:nct07228624",
+"r": "tested_in"
+},
+{
+"a": "drug:momelotinib",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:momelotinib",
+"b": "trial:nct04176198",
+"r": "tested_in"
+},
+{
+"a": "drug:momelotinib",
+"b": "trial:nct07734077",
+"r": "tested_in"
+},
+{
+"a": "drug:mycophenolate-mofetil",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:mycophenolate-mofetil",
+"b": "trial:nct04370301",
+"r": "tested_in"
+},
+{
+"a": "drug:mycophenolate-mofetil",
+"b": "trial:nct05805605",
+"r": "tested_in"
+},
+{
+"a": "drug:mycophenolate-mofetil",
+"b": "trial:nct06001385",
+"r": "tested_in"
+},
+{
+"a": "drug:nusivertib",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:nusivertib",
+"b": "trial:nct04176198",
+"r": "tested_in"
+},
+{
+"a": "drug:pacritinib",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:pacritinib",
+"b": "trial:nct04282187",
+"r": "tested_in"
+},
+{
+"a": "drug:pacritinib",
+"b": "trial:nct07394153",
+"r": "tested_in"
+},
+{
+"a": "drug:pelabresib",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:pelabresib",
+"b": "trial:nct04603495",
+"r": "tested_in"
+},
+{
+"a": "drug:pelabresib",
+"b": "trial:nct07357727",
+"r": "tested_in"
+},
+{
+"a": "drug:peripheral-blood-stem-cell-transplant",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:peripheral-blood-stem-cell-transplant",
+"b": "trial:nct05805605",
+"r": "tested_in"
+},
+{
+"a": "drug:pevonedistat",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:pevonedistat",
+"b": "trial:nct03862157",
+"r": "tested_in"
+},
+{
+"a": "drug:post-transplant-cyclophosphamide",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:post-transplant-cyclophosphamide",
+"b": "trial:nct06001385",
+"r": "tested_in"
+},
+{
+"a": "drug:recombinant-granulocyte-colony-stimulating-factor",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:recombinant-granulocyte-colony-stimulating-factor",
+"b": "trial:nct04370301",
+"r": "tested_in"
+},
+{
+"a": "drug:revumenib",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:revumenib",
+"b": "trial:nct07734077",
+"r": "tested_in"
+},
+{
+"a": "drug:roginolisib",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:roginolisib",
+"b": "trial:nct06887803",
+"r": "tested_in"
+},
+{
+"a": "drug:romiplostim",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:romiplostim",
+"b": "trial:nct06345495",
+"r": "tested_in"
+},
+{
+"a": "drug:ropeginterferon-alfa-2b",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:ropeginterferon-alfa-2b",
+"b": "trial:nct06468033",
 "r": "tested_in"
 },
 {
@@ -358,8 +4964,268 @@
 },
 {
 "a": "drug:ruxolitinib",
-"b": "trial:nct06479135",
+"b": "trial:nct04176198",
 "r": "tested_in"
+},
+{
+"a": "drug:ruxolitinib",
+"b": "trial:nct04282187",
+"r": "tested_in"
+},
+{
+"a": "drug:ruxolitinib",
+"b": "trial:nct04455841",
+"r": "tested_in"
+},
+{
+"a": "drug:ruxolitinib",
+"b": "trial:nct04562389",
+"r": "tested_in"
+},
+{
+"a": "drug:ruxolitinib",
+"b": "trial:nct04603495",
+"r": "tested_in"
+},
+{
+"a": "drug:ruxolitinib",
+"b": "trial:nct04817007",
+"r": "tested_in"
+},
+{
+"a": "drug:ruxolitinib",
+"b": "trial:nct06327100",
+"r": "tested_in"
+},
+{
+"a": "drug:ruxolitinib",
+"b": "trial:nct06345495",
+"r": "tested_in"
+},
+{
+"a": "drug:ruxolitinib",
+"b": "trial:nct06397313",
+"r": "tested_in"
+},
+{
+"a": "drug:ruxolitinib",
+"b": "trial:nct06457425",
+"r": "tested_in"
+},
+{
+"a": "drug:ruxolitinib",
+"b": "trial:nct06773195",
+"r": "tested_in"
+},
+{
+"a": "drug:ruxolitinib",
+"b": "trial:nct07128381",
+"r": "tested_in"
+},
+{
+"a": "drug:ruxolitinib",
+"b": "trial:nct07228624",
+"r": "tested_in"
+},
+{
+"a": "drug:ruxolitinib",
+"b": "trial:nct07357727",
+"r": "tested_in"
+},
+{
+"a": "drug:ruxolitinib",
+"b": "trial:nct07734077",
+"r": "tested_in"
+},
+{
+"a": "drug:ruxolitinib-phosphate",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:ruxolitinib-phosphate",
+"b": "trial:nct07317700",
+"r": "tested_in"
+},
+{
+"a": "drug:rvu120",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:rvu120",
+"b": "trial:nct06397313",
+"r": "tested_in"
+},
+{
+"a": "drug:selinexor",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:selinexor",
+"b": "trial:nct03627403",
+"r": "tested_in"
+},
+{
+"a": "drug:selinexor",
+"b": "trial:nct04562389",
+"r": "tested_in"
+},
+{
+"a": "drug:selinexor",
+"b": "trial:nct04562870",
+"r": "tested_in"
+},
+{
+"a": "drug:sirolimus-pill",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:sirolimus-pill",
+"b": "trial:nct05805605",
+"r": "tested_in"
+},
+{
+"a": "drug:tacrolimus",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:tacrolimus",
+"b": "trial:nct04370301",
+"r": "tested_in"
+},
+{
+"a": "drug:tacrolimus",
+"b": "trial:nct05364762",
+"r": "tested_in"
+},
+{
+"a": "drug:tacrolimus",
+"b": "trial:nct06001385",
+"r": "tested_in"
+},
+{
+"a": "drug:tacrolimus",
+"b": "trial:nct06345495",
+"r": "tested_in"
+},
+{
+"a": "drug:tacrolimus",
+"b": "trial:nct07228624",
+"r": "tested_in"
+},
+{
+"a": "drug:tasquinimod",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:tasquinimod",
+"b": "trial:nct06327100",
+"r": "tested_in"
+},
+{
+"a": "drug:tq05105",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:tq05105",
+"b": "trial:nct05020652",
+"r": "tested_in"
+},
+{
+"a": "drug:tq05105",
+"b": "trial:nct07551427",
+"r": "tested_in"
+},
+{
+"a": "drug:ulixertinib",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:ulixertinib",
+"b": "trial:nct06773195",
+"r": "tested_in"
+},
+{
+"a": "drug:venetoclax",
+"b": "asset:amsulostat",
+"r": "competes"
+},
+{
+"a": "drug:venetoclax",
+"b": "trial:nct03862157",
+"r": "tested_in"
+},
+{
+"a": "org:active-biotech",
+"b": "trial:nct06327100",
+"r": "collaborates"
+},
+{
+"a": "org:advanced-research",
+"b": "trial:nct07623161",
+"r": "site_of"
+},
+{
+"a": "org:adventhealth-cancer-institute-orlando",
+"b": "trial:nct07623161",
+"r": "site_of"
+},
+{
+"a": "org:affiliated-hospital-of-chengde-medical-college",
+"b": "trial:nct07551427",
+"r": "site_of"
+},
+{
+"a": "org:affiliated-hospital-of-nantong-university",
+"b": "trial:nct04562870",
+"r": "site_of"
+},
+{
+"a": "org:agence-nationale-de-la-recherche",
+"b": "paper:pmid-34138638",
+"r": "funded"
+},
+{
+"a": "org:american-oncology-partners-of-maryland-pa-center-for-cancer",
+"b": "trial:nct06468033",
+"r": "site_of"
+},
+{
+"a": "org:american-oncology-partners-pa-center-for-cancer-and-blood-di",
+"b": "trial:nct07357727",
+"r": "site_of"
+},
+{
+"a": "org:american-society-of-hematology",
+"b": "paper:pmid-35210530",
+"r": "funded"
+},
+{
+"a": "org:american-society-of-transplantation",
+"b": "paper:pmid-34125572",
+"r": "funded"
+},
+{
+"a": "org:amgen",
+"b": "paper:pmid-32017044",
+"r": "funded"
+},
+{
+"a": "org:anschutz-cancer-pavilion-university-of-colorado",
+"b": "trial:nct04640025",
+"r": "site_of"
+},
+{
+"a": "org:aop-orphan",
+"b": "paper:pmid-35210530",
+"r": "funded"
 },
 {
 "a": "org:asan-medical-centre",
@@ -372,8 +5238,243 @@
 "r": "site_of"
 },
 {
+"a": "org:associazione-italiana-contro-le-leucemie-linfomi-e-mieloma",
+"b": "paper:pmid-35130339",
+"r": "funded"
+},
+{
+"a": "org:associazione-italiana-per-la-ricerca-sul-cancro",
+"b": "paper:pmid-31945802",
+"r": "funded"
+},
+{
+"a": "org:atrium-health-levine-cancer-institute",
+"b": "trial:nct05467800",
+"r": "site_of"
+},
+{
+"a": "org:austrian-science-fund",
+"b": "paper:pmid-36347013",
+"r": "funded"
+},
+{
+"a": "org:avigunda-gran-via-de-l-hospitalet-199-203-08908-l-hospitalet",
+"b": "trial:nct06887803",
+"r": "site_of"
+},
+{
+"a": "org:azienda-ospedaliero-universitaria-careggi-firenze-struttura",
+"b": "trial:nct06887803",
+"r": "site_of"
+},
+{
+"a": "org:azienda-ospedaliero-universitaria-policlinico-g-rodolico-san",
+"b": "trial:nct06397313",
+"r": "site_of"
+},
+{
+"a": "org:azienda-sanitario-universitaria-friuli-centrale",
+"b": "trial:nct06887803",
+"r": "site_of"
+},
+{
+"a": "org:azienda-socio-sanitaria-territoriale-degli-spedali-civili-di",
+"b": "trial:nct06397313",
+"r": "site_of"
+},
+{
+"a": "org:banner-md-anderson",
+"b": "trial:nct05320198",
+"r": "site_of"
+},
+{
 "a": "org:banner-md-anderson-cancer-center",
-"b": "trial:nct06479135",
+"b": "trial:nct07623161",
+"r": "site_of"
+},
+{
+"a": "org:baptist-health-miami-cancer-institute",
+"b": "trial:nct04176198",
+"r": "site_of"
+},
+{
+"a": "org:bayer",
+"b": "paper:pmid-32726410",
+"r": "funded"
+},
+{
+"a": "org:biomed-valley-discoveries",
+"b": "trial:nct06773195",
+"r": "collaborates"
+},
+{
+"a": "org:bioresearch-partners",
+"b": "trial:nct07623161",
+"r": "site_of"
+},
+{
+"a": "org:blood-cancer-center",
+"b": "trial:nct04176198",
+"r": "site_of"
+},
+{
+"a": "org:brcr-medical-center",
+"b": "trial:nct04576156",
+"r": "site_of"
+},
+{
+"a": "org:bristol-myers-squibb",
+"b": "drug:bms-986158",
+"r": "develops"
+},
+{
+"a": "org:bristol-myers-squibb",
+"b": "drug:fedratinib",
+"r": "develops"
+},
+{
+"a": "org:bristol-myers-squibb",
+"b": "drug:ruxolitinib",
+"r": "develops"
+},
+{
+"a": "org:bristol-myers-squibb",
+"b": "paper:pmid-32017044",
+"r": "funded"
+},
+{
+"a": "org:bristol-myers-squibb",
+"b": "paper:pmid-32647323",
+"r": "funded"
+},
+{
+"a": "org:bristol-myers-squibb",
+"b": "trial:nct04817007",
+"r": "sponsors"
+},
+{
+"a": "org:british-society-for-haematology",
+"b": "paper:pmid-35645034",
+"r": "funded"
+},
+{
+"a": "org:canadian-institute-for-theoretical-astrophysics",
+"b": "paper:pmid-34193229",
+"r": "funded"
+},
+{
+"a": "org:cancer-and-blood-specialty-clinic",
+"b": "trial:nct07623161",
+"r": "site_of"
+},
+{
+"a": "org:cancer-couch-foundation",
+"b": "paper:pmid-33301706",
+"r": "funded"
+},
+{
+"a": "org:cancer-research-uk",
+"b": "paper:pmid-32386542",
+"r": "funded"
+},
+{
+"a": "org:cancer-research-uk",
+"b": "paper:pmid-35180010",
+"r": "funded"
+},
+{
+"a": "org:cancer-research-uk",
+"b": "paper:pmid-36351055",
+"r": "funded"
+},
+{
+"a": "org:cangzhou-people-s-hospital-rovince",
+"b": "trial:nct07551427",
+"r": "site_of"
+},
+{
+"a": "org:cedars-sinai-medical-center-samuel-oschin-comprehensive-canc",
+"b": "trial:nct05467800",
+"r": "site_of"
+},
+{
+"a": "org:celgene",
+"b": "drug:ace-536",
+"r": "develops"
+},
+{
+"a": "org:celgene",
+"b": "drug:luspatercept",
+"r": "develops"
+},
+{
+"a": "org:celgene",
+"b": "paper:pmid-32129512",
+"r": "funded"
+},
+{
+"a": "org:celgene",
+"b": "paper:pmid-32647323",
+"r": "funded"
+},
+{
+"a": "org:celgene",
+"b": "trial:nct04064060",
+"r": "sponsors"
+},
+{
+"a": "org:celgene",
+"b": "trial:nct04717414",
+"r": "sponsors"
+},
+{
+"a": "org:center-for-international-blood-and-marrow-transplant-researc",
+"b": "drug:busulfan",
+"r": "develops"
+},
+{
+"a": "org:center-for-international-blood-and-marrow-transplant-researc",
+"b": "drug:cyclophosphamide",
+"r": "develops"
+},
+{
+"a": "org:center-for-international-blood-and-marrow-transplant-researc",
+"b": "drug:fludarabine",
+"r": "develops"
+},
+{
+"a": "org:center-for-international-blood-and-marrow-transplant-researc",
+"b": "drug:melphalan",
+"r": "develops"
+},
+{
+"a": "org:center-for-international-blood-and-marrow-transplant-researc",
+"b": "drug:mesna",
+"r": "develops"
+},
+{
+"a": "org:center-for-international-blood-and-marrow-transplant-researc",
+"b": "drug:mycophenolate-mofetil",
+"r": "develops"
+},
+{
+"a": "org:center-for-international-blood-and-marrow-transplant-researc",
+"b": "drug:post-transplant-cyclophosphamide",
+"r": "develops"
+},
+{
+"a": "org:center-for-international-blood-and-marrow-transplant-researc",
+"b": "drug:tacrolimus",
+"r": "develops"
+},
+{
+"a": "org:center-for-international-blood-and-marrow-transplant-researc",
+"b": "trial:nct06001385",
+"r": "sponsors"
+},
+{
+"a": "org:centrum-wsparcia-badan-klinicznych-uck-osrodek-badan-klinicz",
+"b": "trial:nct06397313",
 "r": "site_of"
 },
 {
@@ -382,8 +5483,163 @@
 "r": "site_of"
 },
 {
+"a": "org:chengdu-zenitar-biomedical-technology",
+"b": "drug:flonoltinib",
+"r": "develops"
+},
+{
+"a": "org:chengdu-zenitar-biomedical-technology",
+"b": "drug:flonoltinib-maleate",
+"r": "develops"
+},
+{
+"a": "org:chengdu-zenitar-biomedical-technology",
+"b": "drug:flonoltinib-maleate-orally",
+"r": "develops"
+},
+{
+"a": "org:chengdu-zenitar-biomedical-technology",
+"b": "drug:ruxolitinib",
+"r": "develops"
+},
+{
+"a": "org:chengdu-zenitar-biomedical-technology",
+"b": "drug:ruxolitinib-phosphate",
+"r": "develops"
+},
+{
+"a": "org:chengdu-zenitar-biomedical-technology",
+"b": "trial:nct06457425",
+"r": "sponsors"
+},
+{
+"a": "org:chengdu-zenitar-biomedical-technology",
+"b": "trial:nct07317700",
+"r": "sponsors"
+},
+{
+"a": "org:chengdu-zenitar-biomedical-technology",
+"b": "trial:nct07443306",
+"r": "sponsors"
+},
+{
+"a": "org:chengdu-zenitar-biomedical-technology",
+"b": "trial:nct07750574",
+"r": "sponsors"
+},
+{
+"a": "org:chia-tai-tianqing-pharmaceutical-group",
+"b": "drug:hydroxycarbamide",
+"r": "develops"
+},
+{
+"a": "org:chia-tai-tianqing-pharmaceutical-group",
+"b": "drug:tq05105",
+"r": "develops"
+},
+{
+"a": "org:chia-tai-tianqing-pharmaceutical-group",
+"b": "trial:nct05020652",
+"r": "sponsors"
+},
+{
+"a": "org:chia-tai-tianqing-pharmaceutical-group",
+"b": "trial:nct07551427",
+"r": "sponsors"
+},
+{
 "a": "org:china-medical-university-hospital-internal-medicine-taichung",
 "b": "trial:nct04676529",
+"r": "site_of"
+},
+{
+"a": "org:city-of-hope",
+"b": "trial:nct04176198",
+"r": "site_of"
+},
+{
+"a": "org:city-of-hope",
+"b": "trial:nct04562389",
+"r": "site_of"
+},
+{
+"a": "org:city-of-hope",
+"b": "trial:nct06001385",
+"r": "site_of"
+},
+{
+"a": "org:city-of-hope-duarte",
+"b": "trial:nct05320198",
+"r": "site_of"
+},
+{
+"a": "org:city-of-hope-irvine-lennar-satellite",
+"b": "trial:nct04562389",
+"r": "site_of"
+},
+{
+"a": "org:city-of-hope-lennar",
+"b": "trial:nct05320198",
+"r": "site_of"
+},
+{
+"a": "org:city-of-hope-medical-center",
+"b": "drug:cyclophosphamide",
+"r": "develops"
+},
+{
+"a": "org:city-of-hope-medical-center",
+"b": "drug:itacitinib",
+"r": "develops"
+},
+{
+"a": "org:city-of-hope-medical-center",
+"b": "drug:tacrolimus",
+"r": "develops"
+},
+{
+"a": "org:city-of-hope-medical-center",
+"b": "trial:nct05364762",
+"r": "site_of"
+},
+{
+"a": "org:city-of-hope-medical-center",
+"b": "trial:nct05364762",
+"r": "sponsors"
+},
+{
+"a": "org:city-of-hope-national-medical-center",
+"b": "trial:nct04455841",
+"r": "site_of"
+},
+{
+"a": "org:city-of-hope-national-medical-center",
+"b": "trial:nct04640025",
+"r": "site_of"
+},
+{
+"a": "org:city-of-hope-orange-county",
+"b": "trial:nct04455841",
+"r": "site_of"
+},
+{
+"a": "org:cleveland-clinic",
+"b": "trial:nct04640025",
+"r": "site_of"
+},
+{
+"a": "org:cleveland-clinic",
+"b": "trial:nct06773195",
+"r": "site_of"
+},
+{
+"a": "org:cleveland-clinic-foundation",
+"b": "trial:nct05467800",
+"r": "site_of"
+},
+{
+"a": "org:colorado-blood-cancer-institute-at-presbyterian-st-luke-s",
+"b": "trial:nct06001385",
 "r": "site_of"
 },
 {
@@ -392,13 +5648,503 @@
 "r": "site_of"
 },
 {
+"a": "org:decatur-memorial-hospital-cancer-care-center-of-decatur-canc",
+"b": "trial:nct04603495",
+"r": "site_of"
+},
+{
+"a": "org:deutsche-forschungsgemeinschaft",
+"b": "paper:pmid-32726410",
+"r": "funded"
+},
+{
+"a": "org:disc-medicine",
+"b": "drug:disc-0974",
+"r": "develops"
+},
+{
+"a": "org:disc-medicine",
+"b": "trial:nct05320198",
+"r": "sponsors"
+},
+{
+"a": "org:duke-university",
+"b": "trial:nct06468033",
+"r": "site_of"
+},
+{
+"a": "org:duke-university-medical-center",
+"b": "trial:nct04576156",
+"r": "site_of"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "paper:pmid-36403719",
+"r": "funded"
+},
+{
+"a": "org:emory-university",
+"b": "trial:nct07623161",
+"r": "site_of"
+},
+{
+"a": "org:emory-university-winship-cancer-institute",
+"b": "trial:nct04455841",
+"r": "site_of"
+},
+{
+"a": "org:emory-winship-cancer-institute",
+"b": "trial:nct05320198",
+"r": "site_of"
+},
+{
+"a": "org:european-commission",
+"b": "paper:pmid-32726410",
+"r": "funded"
+},
+{
+"a": "org:european-hematology-association",
+"b": "paper:pmid-32386542",
+"r": "funded"
+},
+{
+"a": "org:european-hematology-association",
+"b": "paper:pmid-32726410",
+"r": "funded"
+},
+{
+"a": "org:european-hematology-association",
+"b": "paper:pmid-33301706",
+"r": "funded"
+},
+{
+"a": "org:european-hematology-association",
+"b": "paper:pmid-35210530",
+"r": "funded"
+},
+{
+"a": "org:european-hematology-association",
+"b": "paper:pmid-36351055",
+"r": "funded"
+},
+{
+"a": "org:florida-cancer-specialist-south-reg",
+"b": "trial:nct07357727",
+"r": "site_of"
+},
+{
+"a": "org:florida-cancer-specialists-east",
+"b": "trial:nct07357727",
+"r": "site_of"
+},
+{
+"a": "org:florida-cancer-specialists-north",
+"b": "trial:nct07357727",
+"r": "site_of"
+},
+{
+"a": "org:florida-clinical-trials-group",
+"b": "trial:nct07623161",
+"r": "site_of"
+},
+{
+"a": "org:fondazione-irccs-ca-granda-ospedale-maggiore-policlinico",
+"b": "trial:nct06397313",
+"r": "site_of"
+},
+{
+"a": "org:franciscan-health-indiana-blood-and-marrow-transplantation",
+"b": "trial:nct04603495",
+"r": "site_of"
+},
+{
+"a": "org:franciscan-health-indianapolis",
+"b": "trial:nct07357727",
+"r": "site_of"
+},
+{
+"a": "org:fred-hutch-university-of-washington-cancer-consortium",
+"b": "trial:nct04282187",
+"r": "site_of"
+},
+{
+"a": "org:fred-hutch-university-of-washington-cancer-consortium",
+"b": "trial:nct04370301",
+"r": "site_of"
+},
+{
+"a": "org:fred-hutch-university-of-washington-cancer-consortium",
+"b": "trial:nct07228624",
+"r": "site_of"
+},
+{
+"a": "org:fred-hutchinson-cancer-center",
+"b": "drug:busulfan",
+"r": "develops"
+},
+{
+"a": "org:fred-hutchinson-cancer-center",
+"b": "drug:cyclophosphamide",
+"r": "develops"
+},
+{
+"a": "org:fred-hutchinson-cancer-center",
+"b": "drug:fludarabine",
+"r": "develops"
+},
+{
+"a": "org:fred-hutchinson-cancer-center",
+"b": "drug:jak-inhibitor",
+"r": "develops"
+},
+{
+"a": "org:fred-hutchinson-cancer-center",
+"b": "drug:melphalan",
+"r": "develops"
+},
+{
+"a": "org:fred-hutchinson-cancer-center",
+"b": "drug:methotrexate",
+"r": "develops"
+},
+{
+"a": "org:fred-hutchinson-cancer-center",
+"b": "drug:mycophenolate-mofetil",
+"r": "develops"
+},
+{
+"a": "org:fred-hutchinson-cancer-center",
+"b": "drug:recombinant-granulocyte-colony-stimulating-factor",
+"r": "develops"
+},
+{
+"a": "org:fred-hutchinson-cancer-center",
+"b": "drug:ruxolitinib",
+"r": "develops"
+},
+{
+"a": "org:fred-hutchinson-cancer-center",
+"b": "drug:tacrolimus",
+"r": "develops"
+},
+{
+"a": "org:fred-hutchinson-cancer-center",
+"b": "trial:nct04370301",
+"r": "sponsors"
+},
+{
+"a": "org:fred-hutchinson-cancer-center",
+"b": "trial:nct07228624",
+"r": "sponsors"
+},
+{
+"a": "org:fujian-medical-university-union-hospital",
+"b": "trial:nct07551427",
+"r": "site_of"
+},
+{
+"a": "org:fundacion-jimenez-diaz",
+"b": "trial:nct07394153",
+"r": "site_of"
+},
+{
+"a": "org:gabrail-cancer-center",
+"b": "trial:nct04576156",
+"r": "site_of"
+},
+{
 "a": "org:gachon-university-gil-hospital",
 "b": "trial:nct04676529",
 "r": "site_of"
 },
 {
+"a": "org:georgetown-lombardi-comprehensive-center",
+"b": "trial:nct04562389",
+"r": "site_of"
+},
+{
+"a": "org:georgetown-university-medical-center",
+"b": "trial:nct06468033",
+"r": "site_of"
+},
+{
+"a": "org:geron",
+"b": "drug:best-available-therapy",
+"r": "develops"
+},
+{
+"a": "org:geron",
+"b": "drug:imetelstat",
+"r": "develops"
+},
+{
+"a": "org:geron",
+"b": "trial:nct04576156",
+"r": "sponsors"
+},
+{
+"a": "org:grupo-espanol-de-enfermedades-mieloproliferativas-cronicas-p",
+"b": "drug:pacritinib",
+"r": "develops"
+},
+{
+"a": "org:grupo-espanol-de-enfermedades-mieloproliferativas-cronicas-p",
+"b": "trial:nct07394153",
+"r": "sponsors"
+},
+{
+"a": "org:guangdong-provincial-peoples-hospital",
+"b": "trial:nct05020652",
+"r": "site_of"
+},
+{
+"a": "org:guangzhou-first-municipal-people-s-hospital",
+"b": "trial:nct07551427",
+"r": "site_of"
+},
+{
+"a": "org:health-research-board",
+"b": "paper:pmid-34193229",
+"r": "funded"
+},
+{
+"a": "org:health-service-executive",
+"b": "paper:pmid-34193229",
+"r": "funded"
+},
+{
+"a": "org:hematology-hospital-chinese-academy-of-medical-sciences",
+"b": "trial:nct06457425",
+"r": "site_of"
+},
+{
+"a": "org:henan-cancer-hospital",
+"b": "trial:nct07551427",
+"r": "site_of"
+},
+{
+"a": "org:hoag-family-cancer-institute",
+"b": "trial:nct04176198",
+"r": "site_of"
+},
+{
+"a": "org:honor-health",
+"b": "trial:nct06001385",
+"r": "site_of"
+},
+{
+"a": "org:hospital-clinic-de-barcelona",
+"b": "trial:nct07394153",
+"r": "site_of"
+},
+{
+"a": "org:hospital-del-mar-barcelona",
+"b": "trial:nct07394153",
+"r": "site_of"
+},
+{
+"a": "org:hospital-general-universitario-gregorio-maranon",
+"b": "trial:nct07394153",
+"r": "site_of"
+},
+{
+"a": "org:hospital-general-universitario-morales-meseguer",
+"b": "trial:nct07394153",
+"r": "site_of"
+},
+{
+"a": "org:hospital-of-the-university-of-pennsylvania",
+"b": "trial:nct04640025",
+"r": "site_of"
+},
+{
+"a": "org:hospital-universitario-12-de-octubre",
+"b": "trial:nct07394153",
+"r": "site_of"
+},
+{
+"a": "org:hospital-universitario-de-jerez",
+"b": "trial:nct07394153",
+"r": "site_of"
+},
+{
+"a": "org:hospital-universitario-de-salamanca",
+"b": "trial:nct06887803",
+"r": "site_of"
+},
+{
+"a": "org:hospital-universitario-de-salamanca",
+"b": "trial:nct07394153",
+"r": "site_of"
+},
+{
+"a": "org:hospital-universitario-ramon-y-cajal",
+"b": "trial:nct07394153",
+"r": "site_of"
+},
+{
+"a": "org:hospital-universitario-vall-d-hebron",
+"b": "trial:nct07394153",
+"r": "site_of"
+},
+{
+"a": "org:huntsman-cancer-institute-university-of-utah",
+"b": "trial:nct03627403",
+"r": "site_of"
+},
+{
+"a": "org:icahn-school-of-medicine-at-mount-sinai",
+"b": "trial:nct04576156",
+"r": "site_of"
+},
+{
+"a": "org:icahn-school-of-medicine-at-the-mount-sinai-hospital",
+"b": "trial:nct07734077",
+"r": "site_of"
+},
+{
+"a": "org:illinois-cancer-specialist",
+"b": "trial:nct04562870",
+"r": "site_of"
+},
+{
+"a": "org:incyte",
+"b": "drug:incb000928",
+"r": "develops"
+},
+{
+"a": "org:incyte",
+"b": "drug:itacitinib",
+"r": "develops"
+},
+{
+"a": "org:incyte",
+"b": "drug:ruxolitinib",
+"r": "develops"
+},
+{
+"a": "org:incyte",
+"b": "trial:nct04455841",
+"r": "sponsors"
+},
+{
+"a": "org:incyte",
+"b": "trial:nct04640025",
+"r": "sponsors"
+},
+{
+"a": "org:incyte",
+"b": "trial:nct06345495",
+"r": "collaborates"
+},
+{
+"a": "org:incyte",
+"b": "trial:nct06773195",
+"r": "collaborates"
+},
+{
+"a": "org:incyte",
+"b": "trial:nct07128381",
+"r": "collaborates"
+},
+{
+"a": "org:incyte",
+"b": "trial:nct07228624",
+"r": "collaborates"
+},
+{
 "a": "org:inje-university-busan-paik-hospital-internal-medicine",
 "b": "trial:nct04676529",
+"r": "site_of"
+},
+{
+"a": "org:institute-of-hematology-blood-diseases-hospital-chinese-acad",
+"b": "trial:nct07317700",
+"r": "site_of"
+},
+{
+"a": "org:institute-of-hematology-blood-diseases-hospital-chinese-acad",
+"b": "trial:nct07443306",
+"r": "site_of"
+},
+{
+"a": "org:institute-of-hematology-blood-diseases-hostpital-chinese-aca",
+"b": "trial:nct05020652",
+"r": "site_of"
+},
+{
+"a": "org:ionctura",
+"b": "drug:roginolisib",
+"r": "develops"
+},
+{
+"a": "org:ionctura",
+"b": "trial:nct06887803",
+"r": "sponsors"
+},
+{
+"a": "org:irccs-clinical-institute-humanitas",
+"b": "trial:nct06887803",
+"r": "site_of"
+},
+{
+"a": "org:ironwood-physicians-p-c-dba-ironwood-cancer-and-research-cen",
+"b": "trial:nct04603495",
+"r": "site_of"
+},
+{
+"a": "org:istituto-di-ematolgia-e-oncologia-medica",
+"b": "trial:nct06887803",
+"r": "site_of"
+},
+{
+"a": "org:istituto-romagnolo-per-lo-studio-dei-tumori",
+"b": "trial:nct06887803",
+"r": "site_of"
+},
+{
+"a": "org:istituto-romagnolo-per-lo-studio-dei-tumori-dino-amadori-irs",
+"b": "trial:nct06397313",
+"r": "site_of"
+},
+{
+"a": "org:john-mascarenhas",
+"b": "drug:canakinumab",
+"r": "develops"
+},
+{
+"a": "org:john-mascarenhas",
+"b": "drug:fedratinib",
+"r": "develops"
+},
+{
+"a": "org:john-mascarenhas",
+"b": "drug:momelotinib",
+"r": "develops"
+},
+{
+"a": "org:john-mascarenhas",
+"b": "drug:revumenib",
+"r": "develops"
+},
+{
+"a": "org:john-mascarenhas",
+"b": "drug:ruxolitinib",
+"r": "develops"
+},
+{
+"a": "org:john-mascarenhas",
+"b": "trial:nct05467800",
+"r": "sponsors"
+},
+{
+"a": "org:john-mascarenhas",
+"b": "trial:nct07734077",
+"r": "sponsors"
+},
+{
+"a": "org:john-theurer-cancer-center",
+"b": "trial:nct04717414",
 "r": "site_of"
 },
 {
@@ -407,18 +6153,28 @@
 "r": "site_of"
 },
 {
-"a": "org:kartos-therapeutics",
-"b": "drug:navtemadlin",
-"r": "develops"
-},
-{
-"a": "org:kartos-therapeutics",
+"a": "org:karyopharm-therapeutics",
 "b": "drug:ruxolitinib",
 "r": "develops"
 },
 {
-"a": "org:kartos-therapeutics",
-"b": "trial:nct06479135",
+"a": "org:karyopharm-therapeutics",
+"b": "drug:selinexor",
+"r": "develops"
+},
+{
+"a": "org:karyopharm-therapeutics",
+"b": "trial:nct03627403",
+"r": "collaborates"
+},
+{
+"a": "org:karyopharm-therapeutics",
+"b": "trial:nct04562389",
+"r": "sponsors"
+},
+{
+"a": "org:karyopharm-therapeutics",
+"b": "trial:nct04562870",
 "r": "sponsors"
 },
 {
@@ -427,24 +6183,339 @@
 "r": "site_of"
 },
 {
+"a": "org:kennedy-trust-for-rheumatology-research",
+"b": "paper:pmid-36351055",
+"r": "funded"
+},
+{
+"a": "org:levine-cancer-institute",
+"b": "trial:nct06468033",
+"r": "site_of"
+},
+{
 "a": "org:liverpool-hospital",
 "b": "trial:nct04676529",
 "r": "site_of"
 },
 {
-"a": "org:mayo-clinic-phoenix",
-"b": "trial:nct06479135",
+"a": "org:los-angeles-cancer-network",
+"b": "trial:nct07623161",
 "r": "site_of"
 },
 {
-"a": "org:medical-oncology-hematology-consultants-pa",
-"b": "trial:nct06479135",
+"a": "org:m-d-anderson-cancer-center",
+"b": "drug:axatilimab",
+"r": "develops"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "drug:azacitidine",
+"r": "develops"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "drug:busulfan",
+"r": "develops"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "drug:cyclophosphamide",
+"r": "develops"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "drug:elotuzumab",
+"r": "develops"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "drug:eltrombopag",
+"r": "develops"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "drug:fludarabine-phosphate",
+"r": "develops"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "drug:levetiracetam",
+"r": "develops"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "drug:mesna",
+"r": "develops"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "drug:pevonedistat",
+"r": "develops"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "drug:romiplostim",
+"r": "develops"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "drug:ruxolitinib",
+"r": "develops"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "drug:tacrolimus",
+"r": "develops"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "drug:tasquinimod",
+"r": "develops"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "drug:venetoclax",
+"r": "develops"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "trial:nct03862157",
 "r": "site_of"
 },
 {
-"a": "org:medstar-georgetown-university-hospital-lombardi-comprehensiv",
-"b": "trial:nct06479135",
+"a": "org:m-d-anderson-cancer-center",
+"b": "trial:nct03862157",
+"r": "sponsors"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "trial:nct04517851",
 "r": "site_of"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "trial:nct04517851",
+"r": "sponsors"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "trial:nct06327100",
+"r": "sponsors"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "trial:nct06345495",
+"r": "sponsors"
+},
+{
+"a": "org:m-d-anderson-cancer-center",
+"b": "trial:nct07128381",
+"r": "sponsors"
+},
+{
+"a": "org:m2m-med-sp-z-o-o-sp-j",
+"b": "trial:nct06397313",
+"r": "site_of"
+},
+{
+"a": "org:masonic-cancer-center-at-university-of-minnesota",
+"b": "trial:nct05805605",
+"r": "site_of"
+},
+{
+"a": "org:masonic-cancer-center-university-of-minnesota",
+"b": "drug:allopurinol",
+"r": "develops"
+},
+{
+"a": "org:masonic-cancer-center-university-of-minnesota",
+"b": "drug:bone-marrow-cell-transplant",
+"r": "develops"
+},
+{
+"a": "org:masonic-cancer-center-university-of-minnesota",
+"b": "drug:cyclophosphamide",
+"r": "develops"
+},
+{
+"a": "org:masonic-cancer-center-university-of-minnesota",
+"b": "drug:fludarabine",
+"r": "develops"
+},
+{
+"a": "org:masonic-cancer-center-university-of-minnesota",
+"b": "drug:mycophenolate-mofetil",
+"r": "develops"
+},
+{
+"a": "org:masonic-cancer-center-university-of-minnesota",
+"b": "drug:peripheral-blood-stem-cell-transplant",
+"r": "develops"
+},
+{
+"a": "org:masonic-cancer-center-university-of-minnesota",
+"b": "drug:sirolimus-pill",
+"r": "develops"
+},
+{
+"a": "org:masonic-cancer-center-university-of-minnesota",
+"b": "trial:nct05805605",
+"r": "sponsors"
+},
+{
+"a": "org:massachusetts-general-hospital-data-collection-only",
+"b": "trial:nct06773195",
+"r": "site_of"
+},
+{
+"a": "org:mayo-clinic",
+"b": "paper:pmid-31945802",
+"r": "funded"
+},
+{
+"a": "org:mayo-clinic",
+"b": "trial:nct04603495",
+"r": "site_of"
+},
+{
+"a": "org:mayo-clinic-arizona",
+"b": "trial:nct06001385",
+"r": "site_of"
+},
+{
+"a": "org:mayo-clinic-jacksonville",
+"b": "trial:nct05320198",
+"r": "site_of"
+},
+{
+"a": "org:mayo-clinic-jacksonville",
+"b": "trial:nct06001385",
+"r": "site_of"
+},
+{
+"a": "org:md-anderson-cancer-center",
+"b": "trial:nct06327100",
+"r": "site_of"
+},
+{
+"a": "org:md-anderson-cancer-center",
+"b": "trial:nct06345495",
+"r": "site_of"
+},
+{
+"a": "org:medstar-georgetown-university-hospital",
+"b": "trial:nct07623161",
+"r": "site_of"
+},
+{
+"a": "org:memorial-sloan-kettering-basking-ridge-protocol-activities",
+"b": "trial:nct06773195",
+"r": "site_of"
+},
+{
+"a": "org:memorial-sloan-kettering-bergen-protocol-activities",
+"b": "trial:nct06773195",
+"r": "site_of"
+},
+{
+"a": "org:memorial-sloan-kettering-cancer-center",
+"b": "drug:ruxolitinib",
+"r": "develops"
+},
+{
+"a": "org:memorial-sloan-kettering-cancer-center",
+"b": "drug:ulixertinib",
+"r": "develops"
+},
+{
+"a": "org:memorial-sloan-kettering-cancer-center",
+"b": "trial:nct06773195",
+"r": "site_of"
+},
+{
+"a": "org:memorial-sloan-kettering-cancer-center",
+"b": "trial:nct06773195",
+"r": "sponsors"
+},
+{
+"a": "org:memorial-sloan-kettering-monmouth-protocol-activities",
+"b": "trial:nct06773195",
+"r": "site_of"
+},
+{
+"a": "org:memorial-sloan-kettering-nassau-protocol-activities",
+"b": "trial:nct06773195",
+"r": "site_of"
+},
+{
+"a": "org:memorial-sloan-kettering-suffolk-commack-protocol-activities",
+"b": "trial:nct06773195",
+"r": "site_of"
+},
+{
+"a": "org:memorial-sloan-kettering-westchester-protocol-activities",
+"b": "trial:nct06773195",
+"r": "site_of"
+},
+{
+"a": "org:mfar-clinical-research-s-l",
+"b": "trial:nct07394153",
+"r": "collaborates"
+},
+{
+"a": "org:miami-ns-ins-baptist-health-s-fl",
+"b": "trial:nct07357727",
+"r": "site_of"
+},
+{
+"a": "org:ministero-della-salute",
+"b": "paper:pmid-31945802",
+"r": "funded"
+},
+{
+"a": "org:ministero-della-salute",
+"b": "paper:pmid-35130339",
+"r": "funded"
+},
+{
+"a": "org:ministero-della-salute",
+"b": "paper:pmid-36416738",
+"r": "funded"
+},
+{
+"a": "org:moffit-cancer-center",
+"b": "trial:nct07623161",
+"r": "site_of"
+},
+{
+"a": "org:moffitt-cancer-center",
+"b": "trial:nct04603495",
+"r": "site_of"
+},
+{
+"a": "org:moffitt-cancer-center",
+"b": "trial:nct05320198",
+"r": "site_of"
+},
+{
+"a": "org:moffitt-cancer-center",
+"b": "trial:nct05467800",
+"r": "site_of"
+},
+{
+"a": "org:moffitt-cancer-center",
+"b": "trial:nct06001385",
+"r": "site_of"
+},
+{
+"a": "org:mount-sinai-medical-center",
+"b": "trial:nct04717414",
+"r": "site_of"
+},
+{
+"a": "org:mpn-research-foundation",
+"b": "paper:pmid-33301706",
+"r": "funded"
 },
 {
 "a": "org:national-cancer-center-seoul-metro-northern",
@@ -452,13 +6523,113 @@
 "r": "site_of"
 },
 {
+"a": "org:national-cancer-institute",
+"b": "paper:pmid-32129512",
+"r": "funded"
+},
+{
+"a": "org:national-cancer-institute",
+"b": "paper:pmid-32915978",
+"r": "funded"
+},
+{
+"a": "org:national-cancer-institute",
+"b": "paper:pmid-35180010",
+"r": "funded"
+},
+{
+"a": "org:national-cancer-institute-nci",
+"b": "drug:decitabine-and-cedazuridine",
+"r": "develops"
+},
+{
+"a": "org:national-cancer-institute-nci",
+"b": "drug:iadademstat",
+"r": "develops"
+},
+{
+"a": "org:national-cancer-institute-nci",
+"b": "trial:nct03862157",
+"r": "collaborates"
+},
+{
+"a": "org:national-cancer-institute-nci",
+"b": "trial:nct05364762",
+"r": "collaborates"
+},
+{
+"a": "org:national-cancer-institute-nci",
+"b": "trial:nct06661915",
+"r": "sponsors"
+},
+{
+"a": "org:national-cancer-institute-nci",
+"b": "trial:nct07734077",
+"r": "collaborates"
+},
+{
+"a": "org:national-center-for-advancing-translational-sciences",
+"b": "paper:pmid-33654206",
+"r": "funded"
+},
+{
+"a": "org:national-center-for-advancing-translational-sciences",
+"b": "paper:pmid-36745865",
+"r": "funded"
+},
+{
 "a": "org:national-cheng-kung-university-hospital",
 "b": "trial:nct04676529",
 "r": "site_of"
 },
 {
+"a": "org:national-heart-lung-and-blood-institute",
+"b": "paper:pmid-36745865",
+"r": "funded"
+},
+{
+"a": "org:national-institute-for-health-and-care-research",
+"b": "paper:pmid-32386542",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-allergy-and-infectious-diseases",
+"b": "paper:pmid-34125572",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-arthritis-and-musculoskeletal-and-skin",
+"b": "paper:pmid-34140953",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
+"b": "paper:pmid-34125572",
+"r": "funded"
+},
+{
+"a": "org:national-marrow-donor-program",
+"b": "trial:nct06001385",
+"r": "collaborates"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-36671504",
+"r": "funded"
+},
+{
+"a": "org:national-science-foundation",
+"b": "paper:pmid-36347013",
+"r": "funded"
+},
+{
 "a": "org:national-taiwan-university-hospital-hematology-and-oncology",
 "b": "trial:nct04676529",
+"r": "site_of"
+},
+{
+"a": "org:norton-cancer-institute",
+"b": "trial:nct04576156",
 "r": "site_of"
 },
 {
@@ -467,14 +6638,119 @@
 "r": "site_of"
 },
 {
+"a": "org:novartis-pharmaceuticals",
+"b": "drug:pelabresib",
+"r": "develops"
+},
+{
+"a": "org:novartis-pharmaceuticals",
+"b": "drug:ruxolitinib",
+"r": "develops"
+},
+{
+"a": "org:novartis-pharmaceuticals",
+"b": "trial:nct04603495",
+"r": "sponsors"
+},
+{
+"a": "org:novartis-pharmaceuticals",
+"b": "trial:nct07357727",
+"r": "sponsors"
+},
+{
+"a": "org:ohio-state-university",
+"b": "trial:nct06468033",
+"r": "site_of"
+},
+{
 "a": "org:one-clinical-research",
 "b": "trial:nct04676529",
 "r": "site_of"
 },
 {
-"a": "org:rocky-mountain-cancer-centers-aurora",
-"b": "trial:nct06479135",
+"a": "org:ordensklinikum-linz-elisabethinen",
+"b": "trial:nct04640025",
 "r": "site_of"
+},
+{
+"a": "org:parkview-cancer-institute",
+"b": "trial:nct04640025",
+"r": "site_of"
+},
+{
+"a": "org:peking-union-medical-college-hospital",
+"b": "trial:nct04562870",
+"r": "site_of"
+},
+{
+"a": "org:peking-union-medical-college-hospital",
+"b": "trial:nct05020652",
+"r": "site_of"
+},
+{
+"a": "org:pfizer",
+"b": "paper:pmid-32017044",
+"r": "funded"
+},
+{
+"a": "org:pfizer",
+"b": "paper:pmid-36403719",
+"r": "funded"
+},
+{
+"a": "org:pharmaessentia",
+"b": "drug:ropeginterferon-alfa-2b",
+"r": "develops"
+},
+{
+"a": "org:pharmaessentia",
+"b": "trial:nct06468033",
+"r": "sponsors"
+},
+{
+"a": "org:policlinico-sant-orsola-malpighi",
+"b": "trial:nct06397313",
+"r": "site_of"
+},
+{
+"a": "org:prairie-lakes-health-care-system",
+"b": "trial:nct04576156",
+"r": "site_of"
+},
+{
+"a": "org:pratia-hematologia-sp-z-o-o",
+"b": "trial:nct06397313",
+"r": "site_of"
+},
+{
+"a": "org:prebys-cancer-center",
+"b": "trial:nct04455841",
+"r": "site_of"
+},
+{
+"a": "org:rocky-mountain-cancer-centers-llp",
+"b": "trial:nct04562870",
+"r": "site_of"
+},
+{
+"a": "org:ruttenberg-treatment-center",
+"b": "trial:nct05467800",
+"r": "site_of"
+},
+{
+"a": "org:ryvu-therapeutics",
+"b": "drug:ruxolitinib",
+"r": "develops"
+},
+{
+"a": "org:ryvu-therapeutics",
+"b": "drug:rvu120",
+"r": "develops"
+},
+{
+"a": "org:ryvu-therapeutics",
+"b": "trial:nct06397313",
+"r": "sponsors"
 },
 {
 "a": "org:samsung-medical-center",
@@ -482,9 +6758,24 @@
 "r": "site_of"
 },
 {
-"a": "org:scripps-health-prebys-cancer-center",
-"b": "trial:nct06479135",
+"a": "org:sanofi",
+"b": "paper:pmid-32017044",
+"r": "funded"
+},
+{
+"a": "org:sanofi",
+"b": "paper:pmid-32129512",
+"r": "funded"
+},
+{
+"a": "org:sarah-cannon-research-institute",
+"b": "trial:nct04640025",
 "r": "site_of"
+},
+{
+"a": "org:schweizerischer-nationalfonds-zur-forderung-der-wissenschaft",
+"b": "paper:pmid-36347013",
+"r": "funded"
 },
 {
 "a": "org:seoul-national-university-hospital",
@@ -502,9 +6793,94 @@
 "r": "site_of"
 },
 {
+"a": "org:smilow-cancer-center-at-ynhh",
+"b": "trial:nct04576156",
+"r": "site_of"
+},
+{
+"a": "org:smilow-cancer-hospital-new-haven",
+"b": "trial:nct04562389",
+"r": "site_of"
+},
+{
 "a": "org:st-vincent-s-hospital-melbourne",
 "b": "trial:nct04676529",
 "r": "site_of"
+},
+{
+"a": "org:stanford-cancer-center",
+"b": "trial:nct04455841",
+"r": "site_of"
+},
+{
+"a": "org:stanford-cancer-institute-palo-alto",
+"b": "trial:nct06661915",
+"r": "site_of"
+},
+{
+"a": "org:stanford-university",
+"b": "trial:nct06001385",
+"r": "site_of"
+},
+{
+"a": "org:start-madrid-ciocc",
+"b": "trial:nct06887803",
+"r": "site_of"
+},
+{
+"a": "org:start-midwest",
+"b": "trial:nct04455841",
+"r": "site_of"
+},
+{
+"a": "org:stony-brook-university-medical-center",
+"b": "trial:nct06468033",
+"r": "site_of"
+},
+{
+"a": "org:sumitomo-pharma-america",
+"b": "drug:momelotinib",
+"r": "develops"
+},
+{
+"a": "org:sumitomo-pharma-america",
+"b": "drug:nusivertib",
+"r": "develops"
+},
+{
+"a": "org:sumitomo-pharma-america",
+"b": "drug:ruxolitinib",
+"r": "develops"
+},
+{
+"a": "org:sumitomo-pharma-america",
+"b": "trial:nct04176198",
+"r": "sponsors"
+},
+{
+"a": "org:suzhou-university-the-first-affiliated-hospital",
+"b": "trial:nct04562870",
+"r": "site_of"
+},
+{
+"a": "org:swedish-orphan-biovitrum",
+"b": "trial:nct07394153",
+"r": "collaborates"
+},
+{
+"a": "org:swiss-cancer-research-foundation",
+"b": "paper:pmid-36347013",
+"r": "funded"
+},
+{
+"a": "org:sylvester-cancer-center-u-miami",
+"b": "trial:nct05320198",
+"r": "site_of"
+},
+{
+"a": "org:syndax-pharmaceuticals",
+"b": "trial:nct07734077",
+"r": "collaborates"
 },
 {
 "a": "org:syntara",
@@ -512,13 +6888,68 @@
 "r": "sponsors"
 },
 {
+"a": "org:szpital-uniwersytecki-nr-2-im-dr-jana-biziela",
+"b": "trial:nct06397313",
+"r": "site_of"
+},
+{
+"a": "org:takeda",
+"b": "drug:elritercept",
+"r": "develops"
+},
+{
+"a": "org:takeda",
+"b": "trial:nct07623161",
+"r": "sponsors"
+},
+{
+"a": "org:temple-university-department-of-thoracic-medicine-and-surger",
+"b": "trial:nct04640025",
+"r": "site_of"
+},
+{
+"a": "org:texas-oncology-northeast-texas",
+"b": "trial:nct04562870",
+"r": "site_of"
+},
+{
+"a": "org:texas-oncology-san-antonio",
+"b": "trial:nct04640025",
+"r": "site_of"
+},
+{
+"a": "org:the-anderson-family-cancer-institute",
+"b": "trial:nct07357727",
+"r": "site_of"
+},
+{
 "a": "org:the-catholic-university-of-korea-seoul-st-mary-s-hospital",
 "b": "trial:nct04676529",
 "r": "site_of"
 },
 {
-"a": "org:the-lundquist-institute-for-biomedical-innovation-at-harbor",
-"b": "trial:nct06479135",
+"a": "org:the-first-affiliated-hospital-of-guangxi-medical-university",
+"b": "trial:nct07551427",
+"r": "site_of"
+},
+{
+"a": "org:the-first-affiliated-hospital-of-university-of-science-and-t",
+"b": "trial:nct07551427",
+"r": "site_of"
+},
+{
+"a": "org:the-first-hospital-of-jilin-university",
+"b": "trial:nct04562870",
+"r": "site_of"
+},
+{
+"a": "org:the-oncology-institute-of-hope-and-innovation",
+"b": "trial:nct04562870",
+"r": "site_of"
+},
+{
+"a": "org:the-oncology-institute-of-hope-innovation",
+"b": "trial:nct04562389",
 "r": "site_of"
 },
 {
@@ -527,24 +6958,849 @@
 "r": "site_of"
 },
 {
+"a": "org:the-second-affiliated-hospital-of-soochow-university",
+"b": "trial:nct04562870",
+"r": "site_of"
+},
+{
+"a": "org:the-second-hospital-of-hebei-medical-university",
+"b": "trial:nct07551427",
+"r": "site_of"
+},
+{
+"a": "org:the-university-of-arizona-cancer-center",
+"b": "trial:nct04176198",
+"r": "site_of"
+},
+{
+"a": "org:the-university-of-kansas-cancer-center-westwood",
+"b": "trial:nct05467800",
+"r": "site_of"
+},
+{
+"a": "org:the-university-of-texas-m-d-anderson-cancer-center",
+"b": "trial:nct07128381",
+"r": "site_of"
+},
+{
 "a": "org:the-university-of-texas-md-anderson-cancer-center",
 "b": "trial:nct04676529",
 "r": "site_of"
 },
 {
-"a": "org:uab-hospital",
-"b": "trial:nct06479135",
+"a": "org:tongji-hospital-affiliated-to-tongji-medical-college-of-huaz",
+"b": "trial:nct07551427",
+"r": "site_of"
+},
+{
+"a": "org:uab-division-of-hematology-oncology",
+"b": "trial:nct04562389",
+"r": "site_of"
+},
+{
+"a": "org:uc-irvine-health-chao-family-comprehensive-cancer-center",
+"b": "trial:nct06661915",
 "r": "site_of"
 },
 {
 "a": "org:uc-san-diego-moores-cancer-center",
-"b": "trial:nct06479135",
+"b": "trial:nct04603495",
 "r": "site_of"
 },
 {
-"a": "org:ucla-hematology-oncology-clinic-los-angeles",
-"b": "trial:nct06479135",
+"a": "org:uci-health-chao-family-comprehensive-cancer-center-and-ambul",
+"b": "trial:nct06661915",
 "r": "site_of"
+},
+{
+"a": "org:ucla",
+"b": "trial:nct04562389",
+"r": "site_of"
+},
+{
+"a": "org:ucla",
+"b": "trial:nct05320198",
+"r": "site_of"
+},
+{
+"a": "org:ucla-david-geffen-school-of-medicine",
+"b": "trial:nct04576156",
+"r": "site_of"
+},
+{
+"a": "org:ucla-medical-center",
+"b": "trial:nct04603495",
+"r": "site_of"
+},
+{
+"a": "org:ucla-satellite-site",
+"b": "trial:nct04562389",
+"r": "site_of"
+},
+{
+"a": "org:um-sylvester-comprehensive-cancer-center-at-coral-gables",
+"b": "trial:nct06661915",
+"r": "site_of"
+},
+{
+"a": "org:um-sylvester-comprehensive-cancer-center-at-coral-springs",
+"b": "trial:nct06661915",
+"r": "site_of"
+},
+{
+"a": "org:um-sylvester-comprehensive-cancer-center-at-deerfield-beach",
+"b": "trial:nct06661915",
+"r": "site_of"
+},
+{
+"a": "org:um-sylvester-comprehensive-cancer-center-at-doral",
+"b": "trial:nct06661915",
+"r": "site_of"
+},
+{
+"a": "org:um-sylvester-comprehensive-cancer-center-at-hollywood",
+"b": "trial:nct06661915",
+"r": "site_of"
+},
+{
+"a": "org:union-hospital-tongji-medical-college-huazhong-university-of",
+"b": "trial:nct04562870",
+"r": "site_of"
+},
+{
+"a": "org:united-lincolnshire-teach-hospitals-nhs-trust-pilgrim-hospit",
+"b": "trial:nct06887803",
+"r": "site_of"
+},
+{
+"a": "org:universita-degli-studi-di-firenze",
+"b": "paper:pmid-31945802",
+"r": "funded"
+},
+{
+"a": "org:universitaire-ziekenhuis-leuven-gasthuisberg",
+"b": "trial:nct04640025",
+"r": "site_of"
+},
+{
+"a": "org:university-of-alabama",
+"b": "trial:nct04176198",
+"r": "site_of"
+},
+{
+"a": "org:university-of-alabama-at-birmingham",
+"b": "trial:nct04603495",
+"r": "site_of"
+},
+{
+"a": "org:university-of-arkansas-for-medical-sciences",
+"b": "trial:nct06001385",
+"r": "site_of"
+},
+{
+"a": "org:university-of-bern",
+"b": "paper:pmid-33301706",
+"r": "funded"
+},
+{
+"a": "org:university-of-california-davis-comprehensive-cancer-center",
+"b": "trial:nct06661915",
+"r": "site_of"
+},
+{
+"a": "org:university-of-california-san-diego-moores-ucsd-cancer-center",
+"b": "trial:nct04576156",
+"r": "site_of"
+},
+{
+"a": "org:university-of-california-san-francisco",
+"b": "trial:nct05320198",
+"r": "site_of"
+},
+{
+"a": "org:university-of-california-san-francisco",
+"b": "trial:nct06001385",
+"r": "site_of"
+},
+{
+"a": "org:university-of-chicago-hospital",
+"b": "trial:nct07357727",
+"r": "site_of"
+},
+{
+"a": "org:university-of-colorado-anschutz-medical-campus",
+"b": "trial:nct05320198",
+"r": "site_of"
+},
+{
+"a": "org:university-of-florida-health-shands-cancer-hospital",
+"b": "trial:nct04176198",
+"r": "site_of"
+},
+{
+"a": "org:university-of-kansas-medical-center-kumc",
+"b": "trial:nct06468033",
+"r": "site_of"
+},
+{
+"a": "org:university-of-miami",
+"b": "trial:nct04176198",
+"r": "site_of"
+},
+{
+"a": "org:university-of-miami-miller-school-of-medicine-sylvester-canc",
+"b": "trial:nct06661915",
+"r": "site_of"
+},
+{
+"a": "org:university-of-miami-sylvester-cancer-center",
+"b": "trial:nct06001385",
+"r": "site_of"
+},
+{
+"a": "org:university-of-pittsburg-medical-center",
+"b": "trial:nct04717414",
+"r": "site_of"
+},
+{
+"a": "org:university-of-south-florida",
+"b": "trial:nct04576156",
+"r": "site_of"
+},
+{
+"a": "org:university-of-southern-california",
+"b": "trial:nct04176198",
+"r": "site_of"
+},
+{
+"a": "org:university-of-utah",
+"b": "drug:selinexor",
+"r": "develops"
+},
+{
+"a": "org:university-of-utah",
+"b": "trial:nct03627403",
+"r": "sponsors"
+},
+{
+"a": "org:university-of-washington",
+"b": "drug:decitabine",
+"r": "develops"
+},
+{
+"a": "org:university-of-washington",
+"b": "drug:fedratinib",
+"r": "develops"
+},
+{
+"a": "org:university-of-washington",
+"b": "drug:pacritinib",
+"r": "develops"
+},
+{
+"a": "org:university-of-washington",
+"b": "drug:ruxolitinib",
+"r": "develops"
+},
+{
+"a": "org:university-of-washington",
+"b": "trial:nct04282187",
+"r": "sponsors"
+},
+{
+"a": "org:usc-norris-comprehensive-cancer-center",
+"b": "trial:nct04455841",
+"r": "site_of"
+},
+{
+"a": "org:usc-norris-comprehensive-cancer-center",
+"b": "trial:nct04603495",
+"r": "site_of"
+},
+{
+"a": "org:usc-norris-comprehensive-cancer-center",
+"b": "trial:nct06468033",
+"r": "site_of"
+},
+{
+"a": "org:usor-rocky-mountain-cancer-centers-aurora",
+"b": "trial:nct04562389",
+"r": "site_of"
+},
+{
+"a": "org:vall-d-hebron-university-hospital",
+"b": "trial:nct06887803",
+"r": "site_of"
+},
+{
+"a": "org:wake-forest-baptist-health-comprehensive-cancer-center",
+"b": "trial:nct05467800",
+"r": "site_of"
+},
+{
+"a": "org:washington-university-school-of-medicine",
+"b": "trial:nct04455841",
+"r": "site_of"
+},
+{
+"a": "org:washington-university-school-of-medicine",
+"b": "trial:nct06468033",
+"r": "site_of"
+},
+{
+"a": "org:weill-cornell-medical-centers",
+"b": "trial:nct04455841",
+"r": "site_of"
+},
+{
+"a": "org:weill-medical-college-of-cornell-university",
+"b": "trial:nct06468033",
+"r": "site_of"
+},
+{
+"a": "org:wellcome-trust",
+"b": "paper:pmid-32386542",
+"r": "funded"
+},
+{
+"a": "org:wellcome-trust",
+"b": "paper:pmid-34193229",
+"r": "funded"
+},
+{
+"a": "org:wellcome-trust",
+"b": "paper:pmid-36351055",
+"r": "funded"
+},
+{
+"a": "org:west-china-hospital-sichuan-university",
+"b": "paper:pmid-36671504",
+"r": "funded"
+},
+{
+"a": "org:west-china-hospital-sichuan-university",
+"b": "trial:nct06457425",
+"r": "site_of"
+},
+{
+"a": "org:west-china-hospital-sichuan-university",
+"b": "trial:nct07317700",
+"r": "site_of"
+},
+{
+"a": "org:west-china-hospital-sichuan-university",
+"b": "trial:nct07443306",
+"r": "site_of"
+},
+{
+"a": "org:west-china-school-of-medicine-west-china-hospital-sichuan-un",
+"b": "trial:nct05020652",
+"r": "site_of"
+},
+{
+"a": "org:winship-cancer-institute-of-emory-university",
+"b": "trial:nct07357727",
+"r": "site_of"
+},
+{
+"a": "org:wojewodzki-szpital-specjalistyczny-w-biaej-podlaskiej",
+"b": "trial:nct06397313",
+"r": "site_of"
+},
+{
+"a": "org:xingtai-people-s-hospital",
+"b": "trial:nct07551427",
+"r": "site_of"
+},
+{
+"a": "org:yale-school-of-medicine",
+"b": "trial:nct04176198",
+"r": "site_of"
+},
+{
+"a": "org:yale-university-school-of-medicine",
+"b": "trial:nct04603495",
+"r": "site_of"
+},
+{
+"a": "org:yale-university-school-of-medicine",
+"b": "trial:nct07357727",
+"r": "site_of"
+},
+{
+"a": "paper:doi-10-1182-blood-2025-1406",
+"b": "asset:amsulostat",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1182-blood-2025-2027",
+"b": "asset:amsulostat",
+"r": "cites_asset"
+},
+{
+"a": "person:aaron-thomas-gerds",
+"b": "org:cleveland-clinic",
+"r": "affiliated"
+},
+{
+"a": "person:aaron-thomas-gerds",
+"b": "org:university-hospitals-seidman-cancer-center",
+"r": "affiliated"
+},
+{
+"a": "person:aaron-thomas-gerds",
+"b": "paper:pmid-36075392",
+"r": "authored"
+},
+{
+"a": "person:abdullah-obaid-khan",
+"b": "org:nihr-oxford-biomedical-research-centre",
+"r": "affiliated"
+},
+{
+"a": "person:abdullah-obaid-khan",
+"b": "org:university-of-oxford",
+"r": "affiliated"
+},
+{
+"a": "person:abdullah-obaid-khan",
+"b": "paper:pmid-36351055",
+"r": "authored"
+},
+{
+"a": "person:adam-j-mead",
+"b": "org:nihr-oxford-biomedical-research-centre",
+"r": "affiliated"
+},
+{
+"a": "person:adam-j-mead",
+"b": "org:university-of-oxford",
+"r": "affiliated"
+},
+{
+"a": "person:adam-j-mead",
+"b": "paper:pmid-32386542",
+"r": "authored"
+},
+{
+"a": "person:alessandro-maria-vannucchi",
+"b": "org:azienda-ospedaliero-universitaria-careggi",
+"r": "affiliated"
+},
+{
+"a": "person:alessandro-maria-vannucchi",
+"b": "org:university-of-florence",
+"r": "affiliated"
+},
+{
+"a": "person:alessandro-maria-vannucchi",
+"b": "paper:pmid-31945802",
+"r": "authored"
+},
+{
+"a": "person:alessandro-maria-vannucchi",
+"b": "paper:pmid-32017044",
+"r": "authored"
+},
+{
+"a": "person:alison-r-moliterno",
+"b": "org:johns-hopkins-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:alison-r-moliterno",
+"b": "org:johns-hopkins-university",
+"r": "affiliated"
+},
+{
+"a": "person:alison-r-moliterno",
+"b": "paper:pmid-36745865",
+"r": "authored"
+},
+{
+"a": "person:amanda-mcbride",
+"b": "org:incyte",
+"r": "affiliated"
+},
+{
+"a": "person:amanda-mcbride",
+"b": "trial:nct04455841",
+"r": "investigator"
+},
+{
+"a": "person:anand-a-patel",
+"b": "org:city-of-hope-comprehensive-cancer-center-lao",
+"r": "affiliated"
+},
+{
+"a": "person:anand-a-patel",
+"b": "trial:nct06661915",
+"r": "investigator"
+},
+{
+"a": "person:anna-halpern",
+"b": "org:fred-hutch-university-of-washington-cancer-consortium",
+"r": "affiliated"
+},
+{
+"a": "person:anna-halpern",
+"b": "trial:nct04282187",
+"r": "investigator"
+},
+{
+"a": "person:anthony-m-hunter",
+"b": "org:emory-university",
+"r": "affiliated"
+},
+{
+"a": "person:anthony-m-hunter",
+"b": "trial:nct07734077",
+"r": "investigator"
+},
+{
+"a": "person:anupam-mitra",
+"b": "org:university-of-california-davis-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:anupam-mitra",
+"b": "paper:pmid-32212392",
+"r": "authored"
+},
+{
+"a": "person:ayalew-tefferi",
+"b": "org:mayo-clinic",
+"r": "affiliated"
+},
+{
+"a": "person:ayalew-tefferi",
+"b": "paper:pmid-31945802",
+"r": "authored"
+},
+{
+"a": "person:ayalew-tefferi",
+"b": "paper:pmid-32974939",
+"r": "authored"
+},
+{
+"a": "person:ayalew-tefferi",
+"b": "paper:pmid-33197049",
+"r": "authored"
+},
+{
+"a": "person:ayalew-tefferi",
+"b": "paper:pmid-34480106",
+"r": "authored"
+},
+{
+"a": "person:ayalew-tefferi",
+"b": "paper:pmid-36680511",
+"r": "authored"
+},
+{
+"a": "person:ayalew-tefferi",
+"b": "paper:pmid-37357958",
+"r": "authored"
+},
+{
+"a": "person:ayalew-tefferi",
+"b": "paper:pmid-38269572",
+"r": "authored"
+},
+{
+"a": "person:barbara-mora",
+"b": "org:aziende-socio-sanitarie-territoriale-dei-sette-laghi",
+"r": "affiliated"
+},
+{
+"a": "person:barbara-mora",
+"b": "org:ospedale-di-circolo-e-fondazione-macchi",
+"r": "affiliated"
+},
+{
+"a": "person:barbara-mora",
+"b": "paper:pmid-36416738",
+"r": "authored"
+},
+{
+"a": "person:bethan-psaila",
+"b": "org:churchill-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:bethan-psaila",
+"b": "org:national-institutes-of-health",
+"r": "affiliated"
+},
+{
+"a": "person:bethan-psaila",
+"b": "org:university-of-oxford",
+"r": "affiliated"
+},
+{
+"a": "person:bethan-psaila",
+"b": "paper:pmid-32386542",
+"r": "authored"
+},
+{
+"a": "person:bethan-psaila",
+"b": "paper:pmid-36351055",
+"r": "authored"
+},
+{
+"a": "person:brandi-reeves",
+"b": "org:unc-lineberger-comprehensive-cancer-center",
+"r": "affiliated"
+},
+{
+"a": "person:brandi-reeves",
+"b": "org:university-of-north-carolina-at-chapel-hill",
+"r": "affiliated"
+},
+{
+"a": "person:brandi-reeves",
+"b": "paper:pmid-36745865",
+"r": "authored"
+},
+{
+"a": "person:bristol-myers-squibb",
+"b": "org:bristol-myers-squibb",
+"r": "affiliated"
+},
+{
+"a": "person:bristol-myers-squibb",
+"b": "trial:nct04064060",
+"r": "investigator"
+},
+{
+"a": "person:bristol-myers-squibb",
+"b": "trial:nct04717414",
+"r": "investigator"
+},
+{
+"a": "person:bristol-myers-squibb",
+"b": "trial:nct04817007",
+"r": "investigator"
+},
+{
+"a": "person:carrie-baker-brachmann",
+"b": "org:gilead-sciences-united-states",
+"r": "affiliated"
+},
+{
+"a": "person:carrie-baker-brachmann",
+"b": "paper:pmid-32915978",
+"r": "authored"
+},
+{
+"a": "person:christine-cho-shing-hsu",
+"b": "org:medstar-georgetown-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:christine-cho-shing-hsu",
+"b": "paper:pmid-35699322",
+"r": "authored"
+},
+{
+"a": "person:cindy-hochstetler",
+"b": "org:national-comprehensive-cancer-network",
+"r": "affiliated"
+},
+{
+"a": "person:cindy-hochstetler",
+"b": "paper:pmid-36075392",
+"r": "authored"
+},
+{
+"a": "person:claire-n-harrison",
+"b": "org:guy-s-and-st-thomas-nhs-foundation-trust",
+"r": "affiliated"
+},
+{
+"a": "person:claire-n-harrison",
+"b": "org:st-thomas-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:claire-n-harrison",
+"b": "paper:pmid-32129512",
+"r": "authored"
+},
+{
+"a": "person:claire-n-harrison",
+"b": "paper:pmid-35180010",
+"r": "authored"
+},
+{
+"a": "person:damien-luque-paz",
+"b": "org:centre-national-de-la-recherche-scientifique",
+"r": "affiliated"
+},
+{
+"a": "person:damien-luque-paz",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:damien-luque-paz",
+"b": "paper:pmid-36347013",
+"r": "authored"
+},
+{
+"a": "person:daniel-a-c-fisher",
+"b": "org:washington-university-in-st-louis",
+"r": "affiliated"
+},
+{
+"a": "person:daniel-a-c-fisher",
+"b": "paper:pmid-34140953",
+"r": "authored"
+},
+{
+"a": "person:deepa-j-arachchillage",
+"b": "org:imperial-college-healthcare-nhs-trust",
+"r": "affiliated"
+},
+{
+"a": "person:deepa-j-arachchillage",
+"b": "org:imperial-college-london",
+"r": "affiliated"
+},
+{
+"a": "person:deepa-j-arachchillage",
+"b": "paper:pmid-35645034",
+"r": "authored"
+},
+{
+"a": "person:dorry-lidor-segev",
+"b": "org:johns-hopkins-university",
+"r": "affiliated"
+},
+{
+"a": "person:dorry-lidor-segev",
+"b": "paper:pmid-34125572",
+"r": "authored"
+},
+{
+"a": "person:fengming-luo",
+"b": "org:sichuan-university",
+"r": "affiliated"
+},
+{
+"a": "person:fengming-luo",
+"b": "org:west-china-medical-center-of-sichuan-university",
+"r": "affiliated"
+},
+{
+"a": "person:fengming-luo",
+"b": "paper:pmid-36671504",
+"r": "authored"
+},
+{
+"a": "person:francesco-passamonti",
+"b": "org:ospedale-di-circolo-e-fondazione-macchi",
+"r": "affiliated"
+},
+{
+"a": "person:francesco-passamonti",
+"b": "org:university-of-insubria",
+"r": "affiliated"
+},
+{
+"a": "person:francesco-passamonti",
+"b": "paper:pmid-35130339",
+"r": "authored"
+},
+{
+"a": "person:francesco-passamonti",
+"b": "paper:pmid-36416738",
+"r": "authored"
+},
+{
+"a": "person:francisca-ferrer-marin-m-d-ph-d",
+"b": "org:fundacion-jimenez-diaz",
+"r": "affiliated"
+},
+{
+"a": "person:francisca-ferrer-marin-m-d-ph-d",
+"b": "trial:nct07394153",
+"r": "investigator"
+},
+{
+"a": "person:ghaith-f-abu-zeinah",
+"b": "org:weill-cornell-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:ghaith-f-abu-zeinah",
+"b": "paper:pmid-33654206",
+"r": "authored"
+},
+{
+"a": "person:ginna-laport",
+"b": "org:nmdp",
+"r": "affiliated"
+},
+{
+"a": "person:ginna-laport",
+"b": "trial:nct06001385",
+"r": "investigator"
+},
+{
+"a": "person:giovanni-barosi",
+"b": "org:policlinico-san-matteo-fondazione",
+"r": "affiliated"
+},
+{
+"a": "person:giovanni-barosi",
+"b": "paper:pmid-38061384",
+"r": "authored"
+},
+{
+"a": "person:graeme-greenfield",
+"b": "org:queen-s-university-belfast",
+"r": "affiliated"
+},
+{
+"a": "person:graeme-greenfield",
+"b": "paper:pmid-34193229",
+"r": "authored"
+},
+{
+"a": "person:haifa-kathrin-alali",
+"b": "org:university-hospital-in-halle",
+"r": "affiliated"
+},
+{
+"a": "person:haifa-kathrin-alali",
+"b": "paper:pmid-32017044",
+"r": "authored"
+},
+{
+"a": "person:heinz-gisslinger",
+"b": "org:medical-university-of-vienna",
+"r": "affiliated"
+},
+{
+"a": "person:heinz-gisslinger",
+"b": "paper:pmid-35210530",
+"r": "authored"
+},
+{
+"a": "person:helene-f-e-gleitz",
+"b": "org:erasmus-mc",
+"r": "affiliated"
+},
+{
+"a": "person:helene-f-e-gleitz",
+"b": "org:erasmus-mc-cancer-institute",
+"r": "affiliated"
+},
+{
+"a": "person:helene-f-e-gleitz",
+"b": "paper:pmid-32726410",
+"r": "authored"
 },
 {
 "a": "person:jana-baskar-mmedsc-mba",
@@ -554,6 +7810,606 @@
 {
 "a": "person:jana-baskar-mmedsc-mba",
 "b": "trial:nct04676529",
+"r": "investigator"
+},
+{
+"a": "person:jeanjacques-kiladjian",
+"b": "org:hopital-saint-louis",
+"r": "affiliated"
+},
+{
+"a": "person:jeanjacques-kiladjian",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:jeanjacques-kiladjian",
+"b": "org:universite-paris-cite",
+"r": "affiliated"
+},
+{
+"a": "person:jeanjacques-kiladjian",
+"b": "paper:pmid-32647323",
+"r": "authored"
+},
+{
+"a": "person:jeanjacques-kiladjian",
+"b": "paper:pmid-34138638",
+"r": "authored"
+},
+{
+"a": "person:jeanjacques-kiladjian",
+"b": "paper:pmid-35210530",
+"r": "authored"
+},
+{
+"a": "person:jia-liu",
+"b": "org:sichuan-university",
+"r": "affiliated"
+},
+{
+"a": "person:jia-liu",
+"b": "org:west-china-medical-center-of-sichuan-university",
+"r": "affiliated"
+},
+{
+"a": "person:jia-liu",
+"b": "paper:pmid-36671504",
+"r": "authored"
+},
+{
+"a": "person:joe-eid",
+"b": "org:geron",
+"r": "affiliated"
+},
+{
+"a": "person:joe-eid",
+"b": "trial:nct04576156",
+"r": "investigator"
+},
+{
+"a": "person:john-mascarenhas",
+"b": "org:icahn-school-of-medicine-at-mount-sinai",
+"r": "affiliated"
+},
+{
+"a": "person:john-mascarenhas",
+"b": "org:mount-sinai-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:john-mascarenhas",
+"b": "trial:nct05467800",
+"r": "investigator"
+},
+{
+"a": "person:john-mascarenhas",
+"b": "trial:nct07734077",
+"r": "investigator"
+},
+{
+"a": "person:john-o-mascarenhas",
+"b": "org:icahn-school-of-medicine-at-mount-sinai",
+"r": "affiliated"
+},
+{
+"a": "person:john-o-mascarenhas",
+"b": "org:tisch-cancer-institute",
+"r": "affiliated"
+},
+{
+"a": "person:john-o-mascarenhas",
+"b": "paper:pmid-34138638",
+"r": "authored"
+},
+{
+"a": "person:john-paul-graff",
+"b": "org:university-of-california-davis-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:john-paul-graff",
+"b": "paper:pmid-32212392",
+"r": "authored"
+},
+{
+"a": "person:katya-ravid",
+"b": "org:boston-university",
+"r": "affiliated"
+},
+{
+"a": "person:katya-ravid",
+"b": "paper:doi-10-1182-blood-2025-1406",
+"r": "authored"
+},
+{
+"a": "person:ken-mills",
+"b": "org:queen-s-university-belfast",
+"r": "affiliated"
+},
+{
+"a": "person:ken-mills",
+"b": "paper:pmid-34193229",
+"r": "authored"
+},
+{
+"a": "person:kris-v-kowdley",
+"b": "org:liver-institute-northwest",
+"r": "affiliated"
+},
+{
+"a": "person:kris-v-kowdley",
+"b": "org:washington-state-university",
+"r": "affiliated"
+},
+{
+"a": "person:kris-v-kowdley",
+"b": "paper:pmid-35699322",
+"r": "authored"
+},
+{
+"a": "person:lance-leopold",
+"b": "org:incyte",
+"r": "affiliated"
+},
+{
+"a": "person:lance-leopold",
+"b": "trial:nct04640025",
+"r": "investigator"
+},
+{
+"a": "person:lucia-masarova",
+"b": "org:m-d-anderson-cancer-center",
+"r": "affiliated"
+},
+{
+"a": "person:lucia-masarova",
+"b": "trial:nct06327100",
+"r": "investigator"
+},
+{
+"a": "person:margherita-maffioli",
+"b": "org:aziende-socio-sanitarie-territoriale-dei-sette-laghi",
+"r": "affiliated"
+},
+{
+"a": "person:margherita-maffioli",
+"b": "org:ospedale-di-circolo-e-fondazione-macchi",
+"r": "affiliated"
+},
+{
+"a": "person:margherita-maffioli",
+"b": "paper:pmid-35130339",
+"r": "authored"
+},
+{
+"a": "person:mark-juckett",
+"b": "org:masonic-cancer-center-university-of-minnesota",
+"r": "affiliated"
+},
+{
+"a": "person:mark-juckett",
+"b": "trial:nct05805605",
+"r": "investigator"
+},
+{
+"a": "person:miao-jia-doctor",
+"b": "org:west-china-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:miao-jia-doctor",
+"b": "trial:nct07317700",
+"r": "investigator"
+},
+{
+"a": "person:michael-laffan",
+"b": "org:imperial-college-healthcare-nhs-trust",
+"r": "affiliated"
+},
+{
+"a": "person:michael-laffan",
+"b": "org:imperial-college-london",
+"r": "affiliated"
+},
+{
+"a": "person:michael-laffan",
+"b": "paper:pmid-35645034",
+"r": "authored"
+},
+{
+"a": "person:michael-lahn",
+"b": "org:ionctura",
+"r": "affiliated"
+},
+{
+"a": "person:michael-lahn",
+"b": "trial:nct06887803",
+"r": "investigator"
+},
+{
+"a": "person:monzr-m-al-malki",
+"b": "org:city-of-hope-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:monzr-m-al-malki",
+"b": "trial:nct05364762",
+"r": "investigator"
+},
+{
+"a": "person:moshe-talpaz",
+"b": "org:u-m-rogel-cancer-center",
+"r": "affiliated"
+},
+{
+"a": "person:moshe-talpaz",
+"b": "paper:pmid-32647323",
+"r": "authored"
+},
+{
+"a": "person:naveen-pemmaraju",
+"b": "org:m-d-anderson-cancer-center",
+"r": "affiliated"
+},
+{
+"a": "person:naveen-pemmaraju",
+"b": "org:the-university-of-texas-md-anderson-cancer-center",
+"r": "affiliated"
+},
+{
+"a": "person:naveen-pemmaraju",
+"b": "paper:pmid-35180010",
+"r": "authored"
+},
+{
+"a": "person:naveen-pemmaraju",
+"b": "trial:nct07128381",
+"r": "investigator"
+},
+{
+"a": "person:nicholas-short",
+"b": "org:m-d-anderson-cancer-center",
+"r": "affiliated"
+},
+{
+"a": "person:nicholas-short",
+"b": "trial:nct03862157",
+"r": "investigator"
+},
+{
+"a": "person:nicolaus-martin-kroger",
+"b": "org:university-medical-center-hamburg-eppendorf",
+"r": "affiliated"
+},
+{
+"a": "person:nicolaus-martin-kroger",
+"b": "paper:pmid-38061384",
+"r": "authored"
+},
+{
+"a": "person:nils-b-leimkuhler",
+"b": "org:erasmus-mc",
+"r": "affiliated"
+},
+{
+"a": "person:nils-b-leimkuhler",
+"b": "paper:pmid-33301706",
+"r": "authored"
+},
+{
+"a": "person:niu-ting",
+"b": "org:west-china-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:niu-ting",
+"b": "trial:nct07443306",
+"r": "investigator"
+},
+{
+"a": "person:niu-ting-doctor",
+"b": "org:west-china-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:niu-ting-doctor",
+"b": "trial:nct07317700",
+"r": "investigator"
+},
+{
+"a": "person:prithviraj-bose",
+"b": "org:m-d-anderson-cancer-center",
+"r": "affiliated"
+},
+{
+"a": "person:prithviraj-bose",
+"b": "trial:nct04517851",
+"r": "investigator"
+},
+{
+"a": "person:raajit-rampal",
+"b": "org:memorial-sloan-kettering-cancer-center",
+"r": "affiliated"
+},
+{
+"a": "person:raajit-rampal",
+"b": "trial:nct06773195",
+"r": "investigator"
+},
+{
+"a": "person:rachel-b-salit",
+"b": "org:fred-hutch-university-of-washington-cancer-consortium",
+"r": "affiliated"
+},
+{
+"a": "person:rachel-b-salit",
+"b": "trial:nct04370301",
+"r": "investigator"
+},
+{
+"a": "person:rachel-salit",
+"b": "org:fred-hutch-university-of-washington-cancer-consortium",
+"r": "affiliated"
+},
+{
+"a": "person:rachel-salit",
+"b": "trial:nct07228624",
+"r": "investigator"
+},
+{
+"a": "person:radek-c-skoda",
+"b": "org:university-hospital-of-basel",
+"r": "affiliated"
+},
+{
+"a": "person:radek-c-skoda",
+"b": "org:university-of-basel",
+"r": "affiliated"
+},
+{
+"a": "person:radek-c-skoda",
+"b": "paper:pmid-36347013",
+"r": "authored"
+},
+{
+"a": "person:rebekka-k-schneider",
+"b": "org:erasmus-mc",
+"r": "affiliated"
+},
+{
+"a": "person:rebekka-k-schneider",
+"b": "org:erasmus-mc-cancer-institute",
+"r": "affiliated"
+},
+{
+"a": "person:rebekka-k-schneider",
+"b": "org:rwth-aachen-university",
+"r": "affiliated"
+},
+{
+"a": "person:rebekka-k-schneider",
+"b": "paper:pmid-32726410",
+"r": "authored"
+},
+{
+"a": "person:rebekka-k-schneider",
+"b": "paper:pmid-33301706",
+"r": "authored"
+},
+{
+"a": "person:richard-t-silver",
+"b": "org:weill-cornell-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:richard-t-silver",
+"b": "paper:pmid-33654206",
+"r": "authored"
+},
+{
+"a": "person:robert-jr-roskoski",
+"b": "paper:pmid-36403719",
+"r": "authored"
+},
+{
+"a": "person:robert-jr-roskoski",
+"b": "paper:pmid-38216005",
+"r": "authored"
+},
+{
+"a": "person:ross-ian-baker",
+"b": "paper:doi-10-1182-blood-2025-2027",
+"r": "authored"
+},
+{
+"a": "person:ruben-a-mesa",
+"b": "org:the-university-of-texas-at-san-antonio-health-science-center",
+"r": "affiliated"
+},
+{
+"a": "person:ruben-a-mesa",
+"b": "paper:pmid-32129512",
+"r": "authored"
+},
+{
+"a": "person:sran-verstovsek",
+"b": "org:the-university-of-texas-md-anderson-cancer-center",
+"r": "affiliated"
+},
+{
+"a": "person:sran-verstovsek",
+"b": "paper:pmid-36709073",
+"r": "authored"
+},
+{
+"a": "person:srinivas-tantravahi",
+"b": "org:university-of-utah",
+"r": "affiliated"
+},
+{
+"a": "person:srinivas-tantravahi",
+"b": "trial:nct03627403",
+"r": "investigator"
+},
+{
+"a": "person:stephen-t-oh",
+"b": "org:washington-university-in-st-louis",
+"r": "affiliated"
+},
+{
+"a": "person:stephen-t-oh",
+"b": "paper:pmid-32915978",
+"r": "authored"
+},
+{
+"a": "person:stephen-t-oh",
+"b": "paper:pmid-34140953",
+"r": "authored"
+},
+{
+"a": "person:steven-devine",
+"b": "org:nmdp",
+"r": "affiliated"
+},
+{
+"a": "person:steven-devine",
+"b": "trial:nct06001385",
+"r": "investigator"
+},
+{
+"a": "person:supat-thongjuea",
+"b": "org:mrc-weatherall-institute-of-molecular-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:supat-thongjuea",
+"b": "org:university-of-oxford",
+"r": "affiliated"
+},
+{
+"a": "person:supat-thongjuea",
+"b": "paper:pmid-32386542",
+"r": "authored"
+},
+{
+"a": "person:ting-niu-doctor",
+"b": "org:west-china-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:ting-niu-doctor",
+"b": "trial:nct06457425",
+"r": "investigator"
+},
+{
+"a": "person:tiziano-barbui",
+"b": "org:ospedale-papa-giovanni-xxiii",
+"r": "affiliated"
+},
+{
+"a": "person:tiziano-barbui",
+"b": "paper:pmid-32974939",
+"r": "authored"
+},
+{
+"a": "person:tiziano-barbui",
+"b": "paper:pmid-34480106",
+"r": "authored"
+},
+{
+"a": "person:tiziano-barbui",
+"b": "paper:pmid-37357958",
+"r": "authored"
+},
+{
+"a": "person:tiziano-barbui",
+"b": "paper:pmid-38269572",
+"r": "authored"
+},
+{
+"a": "person:toshiaki-sato",
+"b": "org:pharmaessentia-jp",
+"r": "affiliated"
+},
+{
+"a": "person:toshiaki-sato",
+"b": "trial:nct06468033",
+"r": "investigator"
+},
+{
+"a": "person:uday-popat",
+"b": "org:m-d-anderson-cancer-center",
+"r": "affiliated"
+},
+{
+"a": "person:uday-popat",
+"b": "trial:nct06345495",
+"r": "investigator"
+},
+{
+"a": "person:will-savage",
+"b": "org:disc-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:will-savage",
+"b": "trial:nct05320198",
+"r": "investigator"
+},
+{
+"a": "person:william-a-werbel",
+"b": "org:johns-hopkins-university",
+"r": "affiliated"
+},
+{
+"a": "person:william-a-werbel",
+"b": "paper:pmid-34125572",
+"r": "authored"
+},
+{
+"a": "person:wolfgang-jarolimek",
+"b": "org:american-forests",
+"r": "affiliated"
+},
+{
+"a": "person:wolfgang-jarolimek",
+"b": "paper:doi-10-1182-blood-2025-1406",
+"r": "authored"
+},
+{
+"a": "person:wolfgang-jarolimek",
+"b": "paper:doi-10-1182-blood-2025-2027",
+"r": "authored"
+},
+{
+"a": "person:xiao-zhijian",
+"b": "org:institute-of-hematology-blood-diseases-hospital-chinese-acad",
+"r": "affiliated"
+},
+{
+"a": "person:xiao-zhijian",
+"b": "trial:nct07443306",
+"r": "investigator"
+},
+{
+"a": "person:xiao-zhijian-doctor",
+"b": "org:institute-of-hematology-blood-diseases-hospital-chinese-acad",
+"r": "affiliated"
+},
+{
+"a": "person:xiao-zhijian-doctor",
+"b": "trial:nct07317700",
+"r": "investigator"
+},
+{
+"a": "person:zhijian-xiao-doctor",
+"b": "org:hematology-hospital-chinese-academy-of-medical-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:zhijian-xiao-doctor",
+"b": "trial:nct06457425",
 "r": "investigator"
 }
 ]

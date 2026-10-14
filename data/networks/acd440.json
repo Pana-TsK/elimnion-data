@@ -3,7 +3,8 @@
 "updated": "2026-10-14",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
-"trials": 43
+"trials": 43,
+"papers": 74
 },
 "nodes": [
 {
@@ -29,14 +30,6 @@
 "sub": "",
 "url": "",
 "c": ""
-},
-{
-"k": "org:alzecure-pharma-investigational-site",
-"t": "company",
-"n": "AlzeCure Pharma investigational site",
-"sub": "",
-"url": "",
-"c": "Sweden"
 },
 {
 "k": "trial:nct05416931",
@@ -71,97 +64,9 @@
 "c": ""
 },
 {
-"k": "person:clinical-sciences-operations",
-"t": "person",
-"n": "Clinical Sciences & Operations",
-"sub": "study director · Sanofi",
-"url": "",
-"c": ""
-},
-{
-"k": "org:university-of-alabama-the-kirklin-clinic-site-number-8400011",
-"t": "hospital",
-"n": "University of Alabama -The Kirklin Clinic- Site Number : 8400011",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:david-geffen-school-of-medicine-at-ucla-site-number-8400006",
-"t": "academic",
-"n": "David Geffen School of Medicine at UCLA- Site Number : 8400006",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-california-irvine-medical-center-site-number-8",
-"t": "hospital",
-"n": "University of California Irvine Medical Center- Site Number : 8400019",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:adventhealth-orlando-site-number-8400008",
-"t": "hospital",
-"n": "AdventHealth Orlando- Site Number : 8400008",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:emory-university-school-of-medicine-atlanta-site-number-8400",
-"t": "academic",
-"n": "Emory University School of Medicine - Atlanta- Site Number : 8400010",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:wmchealth-advanced-physician-services-site-number-8400001",
-"t": "hospital",
-"n": "WMCHealth Advanced Physician Services- Site Number : 8400001",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:cincinnati-children-s-hospital-medical-center-site-number-84",
-"t": "hospital",
-"n": "Cincinnati Children's Hospital Medical Center- Site Number : 8400013",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:upmc-montefiore-site-number-8400009",
-"t": "company",
-"n": "UPMC Montefiore- Site Number : 8400009",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:renal-disease-research-institute-dallas-live-oak-street-site",
-"t": "academic",
-"n": "Renal Disease Research Institute - Dallas - Live Oak Street- Site Number : 8400012",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-utah-health-hospital-site-number-8400005",
-"t": "hospital",
-"n": "University of Utah Health Hospital- Site Number : 8400005",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:venglustat-gz402671",
+"k": "drug:venglustat",
 "t": "drug",
-"n": "Venglustat (GZ402671)",
+"n": "Venglustat",
 "sub": "Sanofi",
 "url": "",
 "c": ""
@@ -183,57 +88,17 @@
 "c": "France"
 },
 {
-"k": "org:brest-university-hospital",
-"t": "hospital",
-"n": "Brest University Hospital",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:vendee-departmental-hospital",
-"t": "hospital",
-"n": "Vendée Departmental Hospital",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:confluent-private-hospital-centre",
-"t": "hospital",
-"n": "Confluent Private Hospital Centre",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:gh-paris-saint-joseph",
-"t": "company",
-"n": "GH Paris saint Joseph",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:rouen-university-hospital",
-"t": "hospital",
-"n": "Rouen University Hospital",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "drug:capsaicin-179-mg-cutaneous-patch",
+"k": "drug:capsaicin",
 "t": "drug",
-"n": "Capsaicin 179 Mg Cutaneous Patch",
+"n": "Capsaicin",
 "sub": "Nantes University Hospital",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:capsaicin-low-concentration-patch-capsaicin-0-04-3-2-mg-cm2",
+"k": "drug:capsaicin-low-concentration-patch",
 "t": "drug",
-"n": "Capsaicin low concentration patch (capsaicin 0,04%, 3,2 mg/cm2)",
+"n": "Capsaicin low concentration patch",
 "sub": "Nantes University Hospital",
 "url": "",
 "c": ""
@@ -314,22 +179,6 @@
 "k": "org:clinical-trials-research",
 "t": "hospital",
 "n": "Clinical Trials Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:velocity-clinical-research-san-bernardino",
-"t": "hospital",
-"n": "Velocity Clinical Research, San Bernardino",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:scla-management-pain-management-and-injury-relief",
-"t": "company",
-"n": "SCLA Management - Pain Management and Injury Relief",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -455,14 +304,6 @@
 "c": ""
 },
 {
-"k": "person:clinical-development",
-"t": "person",
-"n": "Clinical Development",
-"sub": "study chair · VM Therapeutics LLC",
-"url": "",
-"c": ""
-},
-{
 "k": "org:hammersmith-medicines-research-24-503-tel-0800-783-8792-recr",
 "t": "company",
 "n": "Hammersmith Medicines Research Ltd (24-503; Tel: 0800 783 8792; recruit@hmrlondon.com)",
@@ -511,25 +352,9 @@
 "c": ""
 },
 {
-"k": "drug:yj001-spray-240-mg-day",
+"k": "drug:yj001-spray",
 "t": "drug",
-"n": "YJ001 Spray 240 mg/day",
-"sub": "Zhejiang Yuejia Pharmaceuticals Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:yj001-spray-480-mg-day",
-"t": "drug",
-"n": "YJ001 Spray 480 mg/day",
-"sub": "Zhejiang Yuejia Pharmaceuticals Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:yj001-spray-960-mg-day",
-"t": "drug",
-"n": "YJ001 Spray 960 mg/day",
+"n": "YJ001 Spray",
 "sub": "Zhejiang Yuejia Pharmaceuticals Co., Ltd.",
 "url": "",
 "c": ""
@@ -567,25 +392,17 @@
 "c": ""
 },
 {
-"k": "drug:yj001-spray",
+"k": "drug:crisugabalin-besilate",
 "t": "drug",
-"n": "YJ001 spray",
+"n": "Crisugabalin Besilate",
 "sub": "Zhejiang Hanmai Pharmaceutical Technology Co., Ltd.",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:crisugabalin-besilate-capsules",
+"k": "drug:crisugabalin-besilate-simulant",
 "t": "drug",
-"n": "Crisugabalin Besilate Capsules",
-"sub": "Zhejiang Hanmai Pharmaceutical Technology Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:crisugabalin-besilate-capsules-simulant",
-"t": "drug",
-"n": "Crisugabalin Besilate Capsules simulant",
+"n": "Crisugabalin Besilate simulant",
 "sub": "Zhejiang Hanmai Pharmaceutical Technology Co., Ltd.",
 "url": "",
 "c": ""
@@ -815,14 +632,6 @@
 "c": ""
 },
 {
-"k": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
-"t": "person",
-"n": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 8 AM - 8 PM Eastern time (",
-"sub": "study director · Eli Lilly and Company",
-"url": "",
-"c": ""
-},
-{
 "k": "org:central-research-associates",
 "t": "company",
 "n": "Central Research Associates",
@@ -1031,9 +840,9 @@
 "c": "United States"
 },
 {
-"k": "drug:qutenza-capsaicin-8-topical-system",
+"k": "drug:qutenza-8-topical-system",
 "t": "drug",
-"n": "Qutenza (capsaicin) 8% topical system",
+"n": "Qutenza 8% topical system",
 "sub": "Averitas Pharma, Inc.",
 "url": "",
 "c": ""
@@ -1074,14 +883,6 @@
 "k": "drug:halneuron",
 "t": "drug",
 "n": "Halneuron",
-"sub": "Dogwood Therapeutics Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:halneuron-open-label-extension",
-"t": "drug",
-"n": "Halneuron (Open Label Extension)",
 "sub": "Dogwood Therapeutics Inc.",
 "url": "",
 "c": ""
@@ -1223,9 +1024,9 @@
 "c": ""
 },
 {
-"k": "drug:dexamethasone-sodium-phosphate-10-mg-ml",
+"k": "drug:dexamethasone-phosphate",
 "t": "drug",
-"n": "Dexamethasone Sodium Phosphate 10 MG/ML",
+"n": "Dexamethasone Phosphate",
 "sub": "Semnur Pharmaceuticals, Inc.",
 "url": "",
 "c": ""
@@ -1287,9 +1088,9 @@
 "c": "Egypt"
 },
 {
-"k": "drug:trimetazidine-dihydrochloride-tablets",
+"k": "drug:trimetazidine-dihydrochloride",
 "t": "drug",
-"n": "Trimetazidine Dihydrochloride Tablets",
+"n": "Trimetazidine Dihydrochloride",
 "sub": "Sara Refaat Azab Metry",
 "url": "",
 "c": ""
@@ -1311,9 +1112,9 @@
 "c": ""
 },
 {
-"k": "drug:lidocaine-23-tetracaine-7",
+"k": "drug:lidocaine-tetracaine",
 "t": "drug",
-"n": "Lidocaine (23%) + Tetracaine (7%)",
+"n": "Lidocaine + Tetracaine",
 "sub": "Pontificia Universidad Catolica de Chile",
 "url": "",
 "c": ""
@@ -1399,14 +1200,6 @@
 "c": ""
 },
 {
-"k": "drug:pregabalin-capsule",
-"t": "drug",
-"n": "Pregabalin capsule",
-"sub": "Shanghai Yidian Pharmaceutical Technology Development Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07251491",
 "t": "trial",
 "n": "Psilocybin to Treat Depression in Spinal Cord Injury",
@@ -1471,9 +1264,9 @@
 "c": "United States"
 },
 {
-"k": "drug:psilocybin-usona-institute",
+"k": "drug:psilocybin",
 "t": "drug",
-"n": "Psilocybin (Usona Institute)",
+"n": "Psilocybin",
 "sub": "James J. Peters Veterans Affairs Medical Center",
 "url": "",
 "c": ""
@@ -1503,25 +1296,9 @@
 "c": "France"
 },
 {
-"k": "drug:lidocaine-20-mg",
+"k": "drug:lidocaine",
 "t": "drug",
-"n": "LIDOCAINE 20 mg",
-"sub": "Hospices Civils de Lyon",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:lidocaine-20-mg-ketamine-20-mg",
-"t": "drug",
-"n": "LIDOCAINE 20 mg + KETAMINE 20 mg",
-"sub": "Hospices Civils de Lyon",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:lidocaine-20-mg-ketamine-40-mg",
-"t": "drug",
-"n": "LIDOCAINE 20 mg + KETAMINE 40 mg",
+"n": "LIDOCAINE",
 "sub": "Hospices Civils de Lyon",
 "url": "",
 "c": ""
@@ -1559,9 +1336,9 @@
 "c": ""
 },
 {
-"k": "drug:2r-6r-hydroxynorketamine",
+"k": "drug:hydroxynorketamine",
 "t": "drug",
-"n": "(2R,6R)-hydroxynorketamine",
+"n": "hydroxynorketamine",
 "sub": "Rush University Medical Center",
 "url": "",
 "c": ""
@@ -1651,14 +1428,6 @@
 "t": "person",
 "n": "Ishrat Husain",
 "sub": "principal investigator · Centre for Addiction and Mental Health",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:psilocybin-25-mg",
-"t": "drug",
-"n": "Psilocybin 25 mg",
-"sub": "Centre for Addiction and Mental Health",
 "url": "",
 "c": ""
 },
@@ -1849,7 +1618,7 @@
 {
 "k": "person:jennifer-hah-ms",
 "t": "person",
-"n": "Jennifer Hah, MS.",
+"n": "Jennifer Hah, MS",
 "sub": "principal investigator · Stanford University",
 "url": "",
 "c": ""
@@ -2107,14 +1876,6 @@
 "t": "company",
 "n": "Ono Pharmaceutical Co., Ltd.",
 "sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:project-leader",
-"t": "person",
-"n": "Project Leader",
-"sub": "study director · Ono Pharmaceutical Co., Ltd.",
 "url": "",
 "c": ""
 },
@@ -2572,7 +2333,7 @@
 "n": "Chengdu University of Traditional Chinese Medicine",
 "sub": "",
 "url": "",
-"c": ""
+"c": "CN"
 },
 {
 "k": "org:ihealth-lab-nanyang-technological-university",
@@ -2751,12 +2512,3100 @@
 "c": "Germany"
 },
 {
-"k": "drug:amitriptyline-hydrochloride",
+"k": "drug:amitriptyline",
 "t": "drug",
-"n": "Amitriptyline Hydrochloride",
+"n": "Amitriptyline",
 "sub": "AlgoTherapeutix",
 "url": "",
 "c": ""
+},
+{
+"k": "paper:pmid-40711349",
+"t": "paper",
+"n": "Topically applied novel TRPV1 receptor antagonist, ACD440 Gel, reduces temperature-evoked ",
+"sub": "Scandinavian Journal of Pain 2025 · cited 3",
+"url": "https://pubmed.ncbi.nlm.nih.gov/40711349",
+"c": ""
+},
+{
+"k": "person:adriana-ana-miclescu",
+"t": "person",
+"n": "Adriana Ana Miclescu",
+"sub": "Uppsala University",
+"url": "https://orcid.org/0000-0001-5680-3388",
+"c": "SE"
+},
+{
+"k": "org:uppsala-university",
+"t": "academic",
+"n": "Uppsala University",
+"sub": "",
+"url": "",
+"c": "SE"
+},
+{
+"k": "org:uppsala-university-hospital",
+"t": "hospital",
+"n": "Uppsala University Hospital",
+"sub": "",
+"url": "",
+"c": "SE"
+},
+{
+"k": "person:marta-segerdahl",
+"t": "person",
+"n": "Märta Segerdahl",
+"sub": "Karolinska Institutet",
+"url": "https://orcid.org/0000-0002-2987-3302",
+"c": "SE"
+},
+{
+"k": "org:karolinska-institutet",
+"t": "academic",
+"n": "Karolinska Institutet",
+"sub": "",
+"url": "",
+"c": "SE"
+},
+{
+"k": "org:alzecure-pharma-sweden",
+"t": "company",
+"n": "AlzeCure Pharma (Sweden)",
+"sub": "",
+"url": "",
+"c": "SE"
+},
+{
+"k": "org:uppsala-universitet",
+"t": "funder",
+"n": "Uppsala Universitet",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-38864733",
+"t": "paper",
+"n": "Topically applied novel TRPV1 receptor antagonist, ACD440 Gel, reduces evoked pain in heal",
+"sub": "European Journal of Pain 2024 · cited 13",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38864733",
+"c": ""
+},
+{
+"k": "paper:pmid-34062143",
+"t": "paper",
+"n": "Chronic pain: an update on burden, best practices, and new advances",
+"sub": "The Lancet 2021 · cited 2565",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34062143",
+"c": ""
+},
+{
+"k": "person:steven-paul-cohen",
+"t": "person",
+"n": "Steven Paul Cohen",
+"sub": "Johns Hopkins University",
+"url": "https://orcid.org/0000-0001-5928-2127",
+"c": "US"
+},
+{
+"k": "org:johns-hopkins-university",
+"t": "academic",
+"n": "Johns Hopkins University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:uniformed-services-university-of-the-health-sciences",
+"t": "academic",
+"n": "Uniformed Services University of the Health Sciences",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:william-michael-hooten",
+"t": "person",
+"n": "William Michael Hooten",
+"sub": "Mayo Clinic",
+"url": "https://orcid.org/0000-0001-5645-6355",
+"c": "US"
+},
+{
+"k": "paper:pmid-32584191",
+"t": "paper",
+"n": "Neuropathic Pain: From Mechanisms to Treatment",
+"sub": "Physiological Reviews 2020 · cited 1555",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32584191",
+"c": ""
+},
+{
+"k": "person:nanna-brix-finnerup",
+"t": "person",
+"n": "Nanna Brix Finnerup",
+"sub": "Aarhus University",
+"url": "https://orcid.org/0000-0001-5541-0240",
+"c": "DK"
+},
+{
+"k": "org:aarhus-university",
+"t": "academic",
+"n": "Aarhus University",
+"sub": "",
+"url": "",
+"c": "DK"
+},
+{
+"k": "org:heidelberg-university",
+"t": "academic",
+"n": "Heidelberg University",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "person:troels-staehelin-jensen",
+"t": "person",
+"n": "Troels Staehelin Jensen",
+"sub": "Aarhus University",
+"url": "https://orcid.org/0000-0002-3487-6380",
+"c": "DK"
+},
+{
+"k": "org:deutsche-forschungsgemeinschaft",
+"t": "funder",
+"n": "Deutsche Forschungsgemeinschaft",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:novo-nordisk-fonden",
+"t": "funder",
+"n": "Novo Nordisk Fonden",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34115979",
+"t": "paper",
+"n": "Low back pain",
+"sub": "The Lancet 2021 · cited 1329",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34115979",
+"c": ""
+},
+{
+"k": "person:nebojsa-nick-knezevic",
+"t": "person",
+"n": "Nebojša Nick Knežević",
+"sub": "University of Illinois Chicago",
+"url": "https://orcid.org/0000-0001-8028-1495",
+"c": "US"
+},
+{
+"k": "org:university-of-illinois-chicago",
+"t": "academic",
+"n": "University of Illinois Chicago",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:advocate-illinois-masonic-medical-center",
+"t": "hospital",
+"n": "Advocate Illinois Masonic Medical Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:johns-hopkins-medicine",
+"t": "hospital",
+"n": "Johns Hopkins Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-34062144",
+"t": "paper",
+"n": "Nociplastic pain: towards an understanding of prevalent pain conditions",
+"sub": "The Lancet 2021 · cited 1232",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34062144",
+"c": ""
+},
+{
+"k": "person:maryann-fitzcharles",
+"t": "person",
+"n": "Mary‐Ann Fitzcharles",
+"sub": "McGill University",
+"url": "https://orcid.org/0000-0002-1091-3175",
+"c": "CA"
+},
+{
+"k": "org:mcgill-university",
+"t": "academic",
+"n": "McGill University",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "person:winfried-hauser",
+"t": "person",
+"n": "Winfried Häuser",
+"sub": "Klinikum Saarbrücken",
+"url": "https://orcid.org/0000-0002-3742-729X",
+"c": "DE"
+},
+{
+"k": "org:klinikum-saarbrucken",
+"t": "hospital",
+"n": "Klinikum Saarbrücken",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:technical-university-of-munich",
+"t": "academic",
+"n": "Technical University of Munich",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "paper:pmid-33441402",
+"t": "paper",
+"n": "Sodium-glucose cotransporter protein-2 (SGLT-2) inhibitors and glucagon-like peptide-1 (GL",
+"sub": "BMJ 2021 · cited 674",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33441402",
+"c": ""
+},
+{
+"k": "person:suetonia-c-palmer",
+"t": "person",
+"n": "Suetonia C. Palmer",
+"sub": "University of Otago",
+"url": "https://orcid.org/0000-0001-7765-5871",
+"c": "NZ"
+},
+{
+"k": "org:university-of-otago",
+"t": "academic",
+"n": "University of Otago",
+"sub": "",
+"url": "",
+"c": "NZ"
+},
+{
+"k": "person:giovanni-fm-strippoli",
+"t": "person",
+"n": "Giovanni FM Strippoli",
+"sub": "The University of Sydney",
+"url": "https://orcid.org/0000-0002-6936-0616",
+"c": "AU"
+},
+{
+"k": "org:the-university-of-sydney",
+"t": "academic",
+"n": "The University of Sydney",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "org:university-of-bari-aldo-moro",
+"t": "academic",
+"n": "University of Bari Aldo Moro",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:national-institute-on-aging",
+"t": "funder",
+"n": "National Institute on Aging",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32710772",
+"t": "paper",
+"n": "Evidence-Based Guidelines and Secondary Meta-Analysis for the Use of Transcranial Direct C",
+"sub": "The International Journal of Neuropsychopharmacology 2020 · cited 606",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32710772",
+"c": ""
+},
+{
+"k": "person:felipe-fregni",
+"t": "person",
+"n": "Felipe Fregni",
+"sub": "Spaulding Rehabilitation Hospital",
+"url": "https://orcid.org/0000-0002-1703-7526",
+"c": "US"
+},
+{
+"k": "org:spaulding-rehabilitation-hospital",
+"t": "hospital",
+"n": "Spaulding Rehabilitation Hospital",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:massachusetts-general-hospital",
+"t": "hospital",
+"n": "Massachusetts General Hospital",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:huiyan-zeng",
+"t": "person",
+"n": "Huiyan Zeng",
+"sub": "Media Working Group",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:media-working-group",
+"t": "academic",
+"n": "Media Working Group",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:national-institutes-of-health",
+"t": "funder",
+"n": "National Institutes of Health",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-center-for-complementary-and-integrative-health",
+"t": "funder",
+"n": "National Center for Complementary and Integrative Health",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:eunice-kennedy-shriver-national-institute-of-child-health-an",
+"t": "funder",
+"n": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33974577",
+"t": "paper",
+"n": "Chronic nociplastic pain affecting the musculoskeletal system: clinical criteria and gradi",
+"sub": "Pain 2021 · cited 561",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33974577",
+"c": ""
+},
+{
+"k": "person:eva-kosek",
+"t": "person",
+"n": "Eva Kosek",
+"sub": "Uppsala University Hospital",
+"url": "https://orcid.org/0000-0003-0488-8177",
+"c": "SE"
+},
+{
+"k": "person:michele-m-sterling",
+"t": "person",
+"n": "Michele M. Sterling",
+"sub": "The University of Queensland",
+"url": "https://orcid.org/0000-0003-1772-2248",
+"c": "AU"
+},
+{
+"k": "org:the-university-of-queensland",
+"t": "academic",
+"n": "The University of Queensland",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "org:pfizer",
+"t": "funder",
+"n": "Pfizer",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:international-association-for-the-study-of-pain",
+"t": "funder",
+"n": "International Association for the Study of Pain",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:alnylam-pharmaceuticals",
+"t": "funder",
+"n": "Alnylam Pharmaceuticals",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:bundesministerium-fur-bildung-und-forschung",
+"t": "funder",
+"n": "Bundesministerium für Bildung und Forschung",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34062145",
+"t": "paper",
+"n": "Neuromodulation for chronic pain",
+"sub": "The Lancet 2021 · cited 560",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34062145",
+"c": ""
+},
+{
+"k": "person:helena-knotkova",
+"t": "person",
+"n": "Helena Knotková",
+"sub": "Albert Einstein College of Medicine",
+"url": "https://orcid.org/0000-0002-4459-5451",
+"c": "US"
+},
+{
+"k": "org:albert-einstein-college-of-medicine",
+"t": "academic",
+"n": "Albert Einstein College of Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:metropolitan-jewish-health-system",
+"t": "foundation",
+"n": "Metropolitan Jewish Health System",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:marc-a-huntoon",
+"t": "person",
+"n": "Marc A. Huntoon",
+"sub": "Virginia Commonwealth University",
+"url": "https://orcid.org/0000-0003-2822-8587",
+"c": "US"
+},
+{
+"k": "org:virginia-commonwealth-university",
+"t": "academic",
+"n": "Virginia Commonwealth University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:virginia-commonwealth-university-medical-center",
+"t": "hospital",
+"n": "Virginia Commonwealth University Medical Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:u-s-department-of-defense",
+"t": "funder",
+"n": "U.S. Department of Defense",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:sanjairaj-vijayavenkataraman",
+"t": "person",
+"n": "Sanjairaj Vijayavenkataraman",
+"sub": "New York University Abu Dhabi",
+"url": "https://orcid.org/0000-0001-7644-0721",
+"c": "AE"
+},
+{
+"k": "org:new-york-university-abu-dhabi",
+"t": "academic",
+"n": "New York University Abu Dhabi",
+"sub": "",
+"url": "",
+"c": "AE"
+},
+{
+"k": "org:new-york-university",
+"t": "academic",
+"n": "New York University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-34327760",
+"t": "paper",
+"n": "European Academy of Neurology/Peripheral Nerve Society guideline on diagnosis and treatmen",
+"sub": "European Journal of Neurology 2021 · cited 530",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34327760",
+"c": ""
+},
+{
+"k": "person:peter-y-k-van-den-bergh",
+"t": "person",
+"n": "Peter Y. K. Van den Bergh",
+"sub": "Cliniques Universitaires Saint-Luc",
+"url": "https://orcid.org/0000-0003-1954-4617",
+"c": "BE"
+},
+{
+"k": "org:cliniques-universitaires-saint-luc",
+"t": "hospital",
+"n": "Cliniques Universitaires Saint-Luc",
+"sub": "",
+"url": "",
+"c": "BE"
+},
+{
+"k": "person:haluk-topaloglu",
+"t": "person",
+"n": "Haluk Topaloğlu",
+"sub": "Yeditepe University",
+"url": "https://orcid.org/0000-0002-3545-3830",
+"c": "TR"
+},
+{
+"k": "org:yeditepe-university",
+"t": "academic",
+"n": "Yeditepe University",
+"sub": "",
+"url": "",
+"c": "TR"
+},
+{
+"k": "org:gbs-cidp-foundation-international",
+"t": "funder",
+"n": "GBS/CIDP Foundation International",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:european-academy-of-neurology",
+"t": "funder",
+"n": "European Academy of Neurology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34050323",
+"t": "paper",
+"n": "Pathogenesis, diagnosis and clinical management of diabetic sensorimotor peripheral neurop",
+"sub": "Nature Reviews Endocrinology 2021 · cited 524",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34050323",
+"c": ""
+},
+{
+"k": "person:gordon-p-sloan",
+"t": "person",
+"n": "GORDON P. SLOAN",
+"sub": "Royal Hallamshire Hospital",
+"url": "https://orcid.org/0000-0001-6164-2662",
+"c": "GB"
+},
+{
+"k": "org:royal-hallamshire-hospital",
+"t": "hospital",
+"n": "Royal Hallamshire Hospital",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:sheffield-teaching-hospitals-nhs-foundation-trust",
+"t": "funder",
+"n": "Sheffield Teaching Hospitals NHS Foundation Trust",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:solomon-hailemariam-tesfaye",
+"t": "person",
+"n": "Solomon Hailemariam Tesfaye",
+"sub": "Royal Hallamshire Hospital",
+"url": "https://orcid.org/0000-0003-1190-1472",
+"c": "GB"
+},
+{
+"k": "paper:pmid-34085743",
+"t": "paper",
+"n": "European Academy of Neurology/Peripheral Nerve Society guideline on diagnosis and treatmen",
+"sub": "Journal of the Peripheral Nervous System 2021 · cited 520",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34085743",
+"c": ""
+},
+{
+"k": "paper:pmid-31937758",
+"t": "paper",
+"n": "Dorsal root ganglion macrophages contribute to both the initiation and persistence of neur",
+"sub": "Nature Communications 2020 · cited 505",
+"url": "https://pubmed.ncbi.nlm.nih.gov/31937758",
+"c": ""
+},
+{
+"k": "person:xiaobing-yu",
+"t": "person",
+"n": "Xiaobing Yu",
+"sub": "University of California, San Francisco",
+"url": "https://orcid.org/0000-0001-6702-6203",
+"c": "US"
+},
+{
+"k": "org:university-of-california-san-francisco",
+"t": "academic",
+"n": "University of California, San Francisco",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:allan-i-basbaum",
+"t": "person",
+"n": "Allan I. Basbaum",
+"sub": "University of California, San Francisco",
+"url": "https://orcid.org/0000-0002-1710-6333",
+"c": "US"
+},
+{
+"k": "org:u-s-department-of-health-and-human-services",
+"t": "funder",
+"n": "U.S. Department of Health and Human Services",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:foundation-for-anesthesia-education-and-research",
+"t": "funder",
+"n": "Foundation for Anesthesia Education and Research",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:wellcome-trust",
+"t": "funder",
+"n": "Wellcome Trust",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32276788",
+"t": "paper",
+"n": "Pharmacological and non-pharmacological treatments for neuropathic pain: Systematic review",
+"sub": "Revue Neurologique 2020 · cited 450",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32276788",
+"c": ""
+},
+{
+"k": "person:xavier-moisset",
+"t": "person",
+"n": "Xavier Moisset",
+"sub": "Inserm",
+"url": "https://orcid.org/0000-0002-8799-0750",
+"c": "FR"
+},
+{
+"k": "org:inserm",
+"t": "funder",
+"n": "Inserm",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:universite-clermont-auvergne",
+"t": "academic",
+"n": "Université Clermont Auvergne",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:nadine-attal",
+"t": "person",
+"n": "Nadine Attal",
+"sub": "Inserm",
+"url": "https://orcid.org/0000-0003-3054-8387",
+"c": "FR"
+},
+{
+"k": "org:universite-de-versailles-saint-quentin-en-yvelines",
+"t": "academic",
+"n": "Université de Versailles Saint-Quentin-en-Yvelines",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "paper:pmid-32699292",
+"t": "paper",
+"n": "Emerging importance of satellite glia in nervous system function and dysfunction",
+"sub": "Nature reviews. Neuroscience 2020 · cited 387",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32699292",
+"c": ""
+},
+{
+"k": "person:menachem-hanani",
+"t": "person",
+"n": "Menachem Hanani",
+"sub": "Hebrew University of Jerusalem",
+"url": "https://orcid.org/0000-0002-6716-1453",
+"c": "IL"
+},
+{
+"k": "org:hebrew-university-of-jerusalem",
+"t": "academic",
+"n": "Hebrew University of Jerusalem",
+"sub": "",
+"url": "",
+"c": "IL"
+},
+{
+"k": "org:hadassah-medical-center",
+"t": "hospital",
+"n": "Hadassah Medical Center",
+"sub": "",
+"url": "",
+"c": "IL"
+},
+{
+"k": "person:david-conover-spray",
+"t": "person",
+"n": "David Conover Spray",
+"sub": "Albert Einstein College of Medicine",
+"url": "https://orcid.org/0000-0001-8368-5073",
+"c": "US"
+},
+{
+"k": "org:israel-science-foundation",
+"t": "funder",
+"n": "Israel Science Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institute-of-neurological-disorders-and-stroke",
+"t": "funder",
+"n": "National Institute of Neurological Disorders and Stroke",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-35055104",
+"t": "paper",
+"n": "Peripheral Nerve Injury Treatments and Advances: One Health Perspective",
+"sub": "International Journal of Molecular Sciences 2022 · cited 373",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35055104",
+"c": ""
+},
+{
+"k": "person:bruna-lopes",
+"t": "person",
+"n": "Bruna Lopes",
+"sub": "Universidade do Porto",
+"url": "https://orcid.org/0000-0002-8168-2415",
+"c": "PT"
+},
+{
+"k": "org:universidade-do-porto",
+"t": "academic",
+"n": "Universidade do Porto",
+"sub": "",
+"url": "",
+"c": "PT"
+},
+{
+"k": "org:centro-de-estudos-de-ciencia-animal",
+"t": "academic",
+"n": "Centro de Estudos de Ciencia Animal",
+"sub": "",
+"url": "",
+"c": "PT"
+},
+{
+"k": "person:ana-colette-mauricio",
+"t": "person",
+"n": "Ana Colette Maurício",
+"sub": "Universidade do Porto",
+"url": "https://orcid.org/0000-0002-0018-9363",
+"c": "PT"
+},
+{
+"k": "org:agencia-nacional-de-inovacao",
+"t": "funder",
+"n": "Agência Nacional de Inovação",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:fundacao-para-a-ciencia-e-a-tecnologia",
+"t": "funder",
+"n": "Fundação para a Ciência e a Tecnologia",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34145528",
+"t": "paper",
+"n": "The Pharmacology and Clinical Efficacy of Antiseizure Medications: From Bromide Salts to C",
+"sub": "CNS Drugs 2021 · cited 367",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34145528",
+"c": ""
+},
+{
+"k": "person:wolfgang-loscher",
+"t": "person",
+"n": "Wolfgang Löscher",
+"sub": "University of Veterinary Medicine Hannover, Foundation",
+"url": "https://orcid.org/0000-0002-9648-8973",
+"c": "DE"
+},
+{
+"k": "org:university-of-veterinary-medicine-hannover-foundation",
+"t": "academic",
+"n": "University of Veterinary Medicine Hannover, Foundation",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "person:pavel-klein",
+"t": "person",
+"n": "Pavel Klein",
+"sub": "Mid Atlantic Epilepsy and Sleep Center",
+"url": "https://orcid.org/0000-0001-7244-3722",
+"c": "US"
+},
+{
+"k": "org:mid-atlantic-epilepsy-and-sleep-center",
+"t": "hospital",
+"n": "Mid Atlantic Epilepsy and Sleep Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:stiftung-tierarztliche-hochschule-hannover",
+"t": "funder",
+"n": "Stiftung Tierärztliche Hochschule Hannover",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32036431",
+"t": "paper",
+"n": "Challenges of neuropathic pain: focus on diabetic neuropathy",
+"sub": "Journal of Neural Transmission 2020 · cited 325",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32036431",
+"c": ""
+},
+{
+"k": "person:daniela-constanze-rosenberger",
+"t": "person",
+"n": "Daniela Constanze Rosenberger",
+"sub": "Heidelberg University",
+"url": "https://orcid.org/0000-0002-7079-6476",
+"c": "DE"
+},
+{
+"k": "org:medizinische-fakultat-mannheim",
+"t": "academic",
+"n": "Medizinische Fakultät Mannheim",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:rolfdetlef-treede",
+"t": "person",
+"n": "Rolf‐Detlef Treede",
+"sub": "Heidelberg University",
+"url": "https://orcid.org/0000-0001-8065-1708",
+"c": "DE"
+},
+{
+"k": "paper:pmid-32701829",
+"t": "paper",
+"n": "Considering the potential for an increase in chronic pain after the COVID-19 pandemic",
+"sub": "Pain 2020 · cited 318",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32701829",
+"c": ""
+},
+{
+"k": "person:daniel-joseph-clauw",
+"t": "person",
+"n": "Daniel Joseph Clauw",
+"sub": "University of Michigan",
+"url": "https://orcid.org/0000-0002-8114-7818",
+"c": "US"
+},
+{
+"k": "org:university-of-michigan",
+"t": "academic",
+"n": "University of Michigan",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:michigan-medicine",
+"t": "hospital",
+"n": "Michigan Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-33125712",
+"t": "paper",
+"n": "Update of P2X receptor properties and their pharmacology: IUPHAR Review 30",
+"sub": "British Journal of Pharmacology 2020 · cited 313",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33125712",
+"c": ""
+},
+{
+"k": "person:peter-illes",
+"t": "person",
+"n": "Péter Illés",
+"sub": "Chengdu University of Traditional Chinese Medicine",
+"url": "https://orcid.org/0000-0003-0484-9389",
+"c": "CN"
+},
+{
+"k": "org:leipzig-university",
+"t": "academic",
+"n": "Leipzig University",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "person:francesco-di-virgilio",
+"t": "person",
+"n": "Francesco Di Virgilio",
+"sub": "University of Ferrara",
+"url": "https://orcid.org/0000-0003-3566-1362",
+"c": "IT"
+},
+{
+"k": "org:university-of-ferrara",
+"t": "academic",
+"n": "University of Ferrara",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:european-commission",
+"t": "funder",
+"n": "European Commission",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:state-administration-of-foreign-experts-affairs",
+"t": "funder",
+"n": "State Administration of Foreign Experts Affairs",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:associazione-italiana-per-la-ricerca-sul-cancro",
+"t": "funder",
+"n": "Associazione Italiana per la Ricerca sul Cancro",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33526777",
+"t": "paper",
+"n": "Role of lysophosphatidic acid and its receptors in health and disease: novel therapeutic s",
+"sub": "Signal Transduction and Targeted Therapy 2021 · cited 313",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33526777",
+"c": ""
+},
+{
+"k": "person:luiz-henrique-geraldo",
+"t": "person",
+"n": "Luiz Henrique Geraldo",
+"sub": "Universidade Federal do Rio de Janeiro",
+"url": "https://orcid.org/0000-0003-3318-4697",
+"c": "BR"
+},
+{
+"k": "org:universidade-federal-do-rio-de-janeiro",
+"t": "academic",
+"n": "Universidade Federal do Rio de Janeiro",
+"sub": "",
+"url": "",
+"c": "BR"
+},
+{
+"k": "person:flavia-regina-souza-lima",
+"t": "person",
+"n": "Flávia Regina Souza Lima",
+"sub": "Universidade Federal do Rio de Janeiro",
+"url": "https://orcid.org/0000-0003-0799-9235",
+"c": "BR"
+},
+{
+"k": "org:european-society-of-cardiology",
+"t": "funder",
+"n": "European Society of Cardiology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:coordenacao-de-aperfeicoamento-de-pessoal-de-nivel-superior",
+"t": "funder",
+"n": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:conselho-nacional-de-desenvolvimento-cientifico-e-tecnologic",
+"t": "funder",
+"n": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:fundacao-carlos-chagas-filho-de-amparo-a-pesquisa-do-estado",
+"t": "funder",
+"n": "Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-31914896",
+"t": "paper",
+"n": "Neuropathic Pain: Mechanism-Based Therapeutics",
+"sub": "The Annual Review of Pharmacology and Toxicology 2020 · cited 302",
+"url": "https://pubmed.ncbi.nlm.nih.gov/31914896",
+"c": ""
+},
+{
+"k": "person:kirsty-bannister",
+"t": "person",
+"n": "Kirsty Bannister",
+"sub": "King's College London",
+"url": "https://orcid.org/0000-0002-3043-3574",
+"c": "GB"
+},
+{
+"k": "org:king-s-college-london",
+"t": "academic",
+"n": "King's College London",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:anthony-henry-dickenson",
+"t": "person",
+"n": "Anthony Henry Dickenson",
+"sub": "University College London",
+"url": "https://orcid.org/0000-0003-3842-7598",
+"c": "GB"
+},
+{
+"k": "org:university-college-london",
+"t": "academic",
+"n": "University College London",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:astrazeneca",
+"t": "funder",
+"n": "AstraZeneca",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33090740",
+"t": "paper",
+"n": "The Lancet Series call to action to reduce low value care for low back pain: an update",
+"sub": "Pain 2020 · cited 290",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33090740",
+"c": ""
+},
+{
+"k": "person:rachelle-buchbinder",
+"t": "person",
+"n": "Rachelle Buchbinder",
+"sub": "Cabrini Hospital",
+"url": "https://orcid.org/0000-0002-0597-0933",
+"c": "AU"
+},
+{
+"k": "org:cabrini-hospital",
+"t": "hospital",
+"n": "Cabrini Hospital",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "org:cabrini-foundation",
+"t": "foundation",
+"n": "Cabrini Foundation",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "person:christopher-gerard-maher",
+"t": "person",
+"n": "Christopher Gerard Maher",
+"sub": "The University of Sydney",
+"url": "https://orcid.org/0000-0002-1628-7857",
+"c": "AU"
+},
+{
+"k": "org:institute-for-musculoskeletal-health",
+"t": "academic",
+"n": "Institute for Musculoskeletal Health",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "org:national-institute-for-health-and-care-research",
+"t": "funder",
+"n": "National Institute for Health and Care Research",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-health-and-medical-research-council",
+"t": "funder",
+"n": "National Health and Medical Research Council",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33238607",
+"t": "paper",
+"n": "Cannabidiol for Pain Treatment: Focus on Pharmacology and Mechanism of Action",
+"sub": "International Journal of Molecular Sciences 2020 · cited 285",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33238607",
+"c": ""
+},
+{
+"k": "person:jakub-mlost",
+"t": "person",
+"n": "Jakub Mlost",
+"sub": "Maj Institute of Pharmacology",
+"url": "https://orcid.org/0000-0003-4102-7245",
+"c": "PL"
+},
+{
+"k": "org:maj-institute-of-pharmacology",
+"t": "academic",
+"n": "Maj Institute of Pharmacology",
+"sub": "",
+"url": "",
+"c": "PL"
+},
+{
+"k": "org:polish-academy-of-sciences",
+"t": "funder",
+"n": "Polish Academy of Sciences",
+"sub": "",
+"url": "",
+"c": "PL"
+},
+{
+"k": "person:katarzyna-starowicz",
+"t": "person",
+"n": "Katarzyna Starowicz",
+"sub": "Maj Institute of Pharmacology",
+"url": "https://orcid.org/0000-0003-0091-0066",
+"c": "PL"
+},
+{
+"k": "org:narodowe-centrum-nauki",
+"t": "funder",
+"n": "Narodowe Centrum Nauki",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-35418856",
+"t": "paper",
+"n": "Mechanisms of Chemotherapy-Induced Neurotoxicity",
+"sub": "Frontiers in Pharmacology 2022 · cited 284",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35418856",
+"c": ""
+},
+{
+"k": "person:halina-was",
+"t": "person",
+"n": "Halina Waś",
+"sub": "Wojskowy Instytut Medyczny",
+"url": "https://orcid.org/0000-0003-2743-0337",
+"c": "PL"
+},
+{
+"k": "org:wojskowy-instytut-medyczny",
+"t": "hospital",
+"n": "Wojskowy Instytut Medyczny",
+"sub": "",
+"url": "",
+"c": "PL"
+},
+{
+"k": "person:raquel-abalo",
+"t": "person",
+"n": "Raquel Abalo",
+"sub": "Consejo Superior de Investigaciones Científicas",
+"url": "https://orcid.org/0000-0002-6726-8795",
+"c": "ES"
+},
+{
+"k": "org:consejo-superior-de-investigaciones-cientificas",
+"t": "funder",
+"n": "Consejo Superior de Investigaciones Científicas",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "org:universidad-rey-juan-carlos",
+"t": "academic",
+"n": "Universidad Rey Juan Carlos",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "org:ministerio-de-ciencia-innovacion-y-universidades",
+"t": "funder",
+"n": "Ministerio de Ciencia, Innovación y Universidades",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:narodowym-centrum-nauki",
+"t": "funder",
+"n": "Narodowym Centrum Nauki",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33380301",
+"t": "paper",
+"n": "The Multifaceted Therapeutic Role of N-Acetylcysteine (NAC) in Disorders Characterized by ",
+"sub": "Current Neuropharmacology 2020 · cited 280",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33380301",
+"c": ""
+},
+{
+"k": "person:ganesh-raghu",
+"t": "person",
+"n": "Ganesh Raghu",
+"sub": "University of Washington",
+"url": "https://orcid.org/0000-0001-7506-6643",
+"c": "US"
+},
+{
+"k": "org:university-of-washington",
+"t": "academic",
+"n": "University of Washington",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:peter-m-a-calverley",
+"t": "person",
+"n": "PETER M. A. CALVERLEY",
+"sub": "University of Liverpool",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:university-of-liverpool",
+"t": "academic",
+"n": "University of Liverpool",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "paper:pmid-34058569",
+"t": "paper",
+"n": "Role of IL-6 in the regulation of neuronal development, survival and function",
+"sub": "Cytokine 2021 · cited 277",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34058569",
+"c": ""
+},
+{
+"k": "person:kai-k-kummer",
+"t": "person",
+"n": "Kai K. Kummer",
+"sub": "Innsbruck Medical University",
+"url": "https://orcid.org/0000-0002-5854-6503",
+"c": "AT"
+},
+{
+"k": "org:innsbruck-medical-university",
+"t": "academic",
+"n": "Innsbruck Medical University",
+"sub": "",
+"url": "",
+"c": "AT"
+},
+{
+"k": "org:universitat-innsbruck",
+"t": "academic",
+"n": "Universität Innsbruck",
+"sub": "",
+"url": "",
+"c": "AT"
+},
+{
+"k": "person:michaela-kress",
+"t": "person",
+"n": "Michaela Kress",
+"sub": "Innsbruck Medical University",
+"url": "https://orcid.org/0000-0002-8921-7470",
+"c": "AT"
+},
+{
+"k": "org:austrian-science-fund",
+"t": "funder",
+"n": "Austrian Science Fund",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-31907359",
+"t": "paper",
+"n": "Gastrointestinal pain",
+"sub": "Nature Reviews Disease Primers 2020 · cited 272",
+"url": "https://pubmed.ncbi.nlm.nih.gov/31907359",
+"c": ""
+},
+{
+"k": "person:asbjrn-mohr-drewes",
+"t": "person",
+"n": "Asbjørn Mohr Drewes",
+"sub": "Aalborg University Hospital",
+"url": "https://orcid.org/0000-0001-7465-964X",
+"c": "DK"
+},
+{
+"k": "org:aalborg-university-hospital",
+"t": "hospital",
+"n": "Aalborg University Hospital",
+"sub": "",
+"url": "",
+"c": "DK"
+},
+{
+"k": "org:mech-sense",
+"t": "academic",
+"n": "Mech-Sense",
+"sub": "",
+"url": "",
+"c": "DK"
+},
+{
+"k": "person:sren-schou-olesen",
+"t": "person",
+"n": "Søren Schou Olesen",
+"sub": "Aalborg University Hospital",
+"url": "https://orcid.org/0000-0003-3916-3168",
+"c": "DK"
+},
+{
+"k": "paper:pmid-33711103",
+"t": "paper",
+"n": "Painful and non-painful diabetic neuropathy, diagnostic challenges and implications for fu",
+"sub": "Brain 2021 · cited 264",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33711103",
+"c": ""
+},
+{
+"k": "org:aarhus-university-hospital",
+"t": "hospital",
+"n": "Aarhus University Hospital",
+"sub": "",
+"url": "",
+"c": "DK"
+},
+{
+"k": "person:brian-christopher-callaghan",
+"t": "person",
+"n": "Brian Christopher Callaghan",
+"sub": "University of Michigan",
+"url": "https://orcid.org/0000-0002-8885-6748",
+"c": "US"
+},
+{
+"k": "org:academy-of-medical-sciences",
+"t": "funder",
+"n": "Academy of Medical Sciences",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:lundbeckfonden",
+"t": "funder",
+"n": "Lundbeckfonden",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32691504",
+"t": "paper",
+"n": "Progress in the development of human carbonic anhydrase inhibitors and their pharmacologic",
+"sub": "Medicinal Research Reviews 2020 · cited 259",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32691504",
+"c": ""
+},
+{
+"k": "person:chandra-bhushan-mishra",
+"t": "person",
+"n": "Chandra Bhushan Mishra",
+"sub": "University of Delhi",
+"url": "https://orcid.org/0000-0001-9274-5912",
+"c": "IN"
+},
+{
+"k": "org:university-of-delhi",
+"t": "academic",
+"n": "University of Delhi",
+"sub": "",
+"url": "",
+"c": "IN"
+},
+{
+"k": "org:sookmyung-women-s-university",
+"t": "academic",
+"n": "Sookmyung Women's University",
+"sub": "",
+"url": "",
+"c": "KR"
+},
+{
+"k": "person:claudiu-trandafir-supuran",
+"t": "person",
+"n": "Claudiu Trandafir Supuran",
+"sub": "University of Florence",
+"url": "https://orcid.org/0000-0003-4262-0323",
+"c": "IT"
+},
+{
+"k": "org:university-of-florence",
+"t": "academic",
+"n": "University of Florence",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "paper:pmid-34649363",
+"t": "paper",
+"n": "Antiproliferative and palliative activity of flavonoids in colorectal cancer",
+"sub": "Biomedicine & Pharmacotherapy 2021 · cited 258",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34649363",
+"c": ""
+},
+{
+"k": "person:javier-fernandez",
+"t": "person",
+"n": "Javier Fernández",
+"sub": "Universidad de Oviedo",
+"url": "https://orcid.org/0000-0002-2368-1596",
+"c": "ES"
+},
+{
+"k": "org:universidad-de-oviedo",
+"t": "academic",
+"n": "Universidad de Oviedo",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "org:instituto-de-investigacion-sanitaria-del-principado-de-astur",
+"t": "academic",
+"n": "Instituto de Investigación Sanitaria del Principado de Asturias",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "person:raffaele-capasso",
+"t": "person",
+"n": "Raffaele Capasso",
+"sub": "University of Naples Federico II",
+"url": "https://orcid.org/0000-0002-3335-1822",
+"c": "IT"
+},
+{
+"k": "org:university-of-naples-federico-ii",
+"t": "academic",
+"n": "University of Naples Federico II",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:felipe-lombo",
+"t": "person",
+"n": "Felipe Lombó",
+"sub": "Universidad de Oviedo",
+"url": "https://orcid.org/0000-0002-6680-6723",
+"c": "ES"
+},
+{
+"k": "org:illinois-school-psychologists-association",
+"t": "funder",
+"n": "Illinois School Psychologists Association",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33169541",
+"t": "paper",
+"n": "Diversity of molecular targets and signaling pathways for CBD",
+"sub": "Pharmacology Research & Perspectives 2020 · cited 257",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33169541",
+"c": ""
+},
+{
+"k": "person:douglas-lamounier-de-almeida",
+"t": "person",
+"n": "Douglas Lamounier de Almeida",
+"sub": "Universidade Federal de Minas Gerais",
+"url": "https://orcid.org/0000-0001-6632-7311",
+"c": "BR"
+},
+{
+"k": "org:universidade-federal-de-minas-gerais",
+"t": "academic",
+"n": "Universidade Federal de Minas Gerais",
+"sub": "",
+"url": "",
+"c": "BR"
+},
+{
+"k": "org:icahn-school-of-medicine-at-mount-sinai",
+"t": "academic",
+"n": "Icahn School of Medicine at Mount Sinai",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:lakshmi-a-devi",
+"t": "person",
+"n": "Lakshmi A. Devi",
+"sub": "Icahn School of Medicine at Mount Sinai",
+"url": "https://orcid.org/0000-0002-2179-2874",
+"c": "US"
+},
+{
+"k": "org:national-institute-on-drug-abuse",
+"t": "funder",
+"n": "National Institute on Drug Abuse",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33519431",
+"t": "paper",
+"n": "The Pharmacological Action of Kaempferol in Central Nervous System Diseases: A Review",
+"sub": "Frontiers in Pharmacology 2021 · cited 254",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33519431",
+"c": ""
+},
+{
+"k": "person:jessica-silva-dos-santos",
+"t": "person",
+"n": "Jéssica Silva dos Santos",
+"sub": "Universidade São Francisco",
+"url": "https://orcid.org/0000-0002-3733-6734",
+"c": "BR"
+},
+{
+"k": "org:universidade-sao-francisco",
+"t": "academic",
+"n": "Universidade São Francisco",
+"sub": "",
+"url": "",
+"c": "BR"
+},
+{
+"k": "person:manoela-marques-ortega",
+"t": "person",
+"n": "Manoela Marques Ortega",
+"sub": "Universidade São Francisco",
+"url": "https://orcid.org/0000-0003-4609-7074",
+"c": "BR"
+},
+{
+"k": "paper:pmid-34178980",
+"t": "paper",
+"n": "Biological Function of Long Non-coding RNA (LncRNA) Xist",
+"sub": "Frontiers in Cell and Developmental Biology 2021 · cited 245",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34178980",
+"c": ""
+},
+{
+"k": "person:wenlun-wang",
+"t": "person",
+"n": "Wenlun Wang",
+"sub": "National University of Defense Technology",
+"url": "https://orcid.org/0000-0001-7730-9186",
+"c": "CN"
+},
+{
+"k": "org:national-university-of-defense-technology",
+"t": "academic",
+"n": "National University of Defense Technology",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:dongyi-zhang",
+"t": "person",
+"n": "Dongyi Zhang",
+"sub": "National University of Defense Technology",
+"url": "https://orcid.org/0009-0000-3811-0510",
+"c": "CN"
+},
+{
+"k": "person:lingyun-zhu",
+"t": "person",
+"n": "Lingyun Zhu",
+"sub": "National University of Defense Technology",
+"url": "https://orcid.org/0000-0002-0420-4508",
+"c": "CN"
+},
+{
+"k": "org:national-natural-science-foundation-of-china",
+"t": "funder",
+"n": "National Natural Science Foundation of China",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:hunan-provincial-innovation-foundation-for-postgraduate",
+"t": "funder",
+"n": "Hunan Provincial Innovation Foundation for Postgraduate",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-40252663",
+"t": "paper",
+"n": "Pharmacotherapy and non-invasive neuromodulation for neuropathic pain: a systematic review",
+"sub": "The Lancet Neurology 2025 · cited 244",
+"url": "https://pubmed.ncbi.nlm.nih.gov/40252663",
+"c": ""
+},
+{
+"k": "person:nadia-soliman",
+"t": "person",
+"n": "Nadia Soliman",
+"sub": "Imperial College London",
+"url": "https://orcid.org/0000-0003-4443-5439",
+"c": "GB"
+},
+{
+"k": "org:imperial-college-london",
+"t": "academic",
+"n": "Imperial College London",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:amgen",
+"t": "funder",
+"n": "Amgen",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34661927",
+"t": "paper",
+"n": "Cutaneous findings following COVID‐19 vaccination: review of world literature and own expe",
+"sub": "Journal of the European Academy of Dermatology and Venereology 2021 · cited 199",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34661927",
+"c": ""
+},
+{
+"k": "person:thilo-gambichler",
+"t": "person",
+"n": "Thilo Gambichler",
+"sub": "Ruhr University Bochum",
+"url": "https://orcid.org/0000-0001-7862-3695",
+"c": "DE"
+},
+{
+"k": "org:ruhr-university-bochum",
+"t": "academic",
+"n": "Ruhr University Bochum",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "person:dimitri-kasakovski",
+"t": "person",
+"n": "Dimitri Kasakovski",
+"sub": "German Cancer Research Center",
+"url": "https://orcid.org/0000-0002-1426-132X",
+"c": "DE"
+},
+{
+"k": "org:german-cancer-research-center",
+"t": "academic",
+"n": "German Cancer Research Center",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "paper:pmid-34517079",
+"t": "paper",
+"n": "Clinical and pathologic correlation of cutaneous COVID-19 vaccine reactions including V-RE",
+"sub": "Journal of the American Academy of Dermatology 2021 · cited 157",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34517079",
+"c": ""
+},
+{
+"k": "person:devon-e-mcmahon",
+"t": "person",
+"n": "Devon E. McMahon",
+"sub": "Harvard University",
+"url": "https://orcid.org/0000-0002-3649-9208",
+"c": "US"
+},
+{
+"k": "org:harvard-university",
+"t": "academic",
+"n": "Harvard University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:esther-e-freeman",
+"t": "person",
+"n": "Esther E. Freeman",
+"sub": "Harvard University",
+"url": "https://orcid.org/0000-0001-7751-9466",
+"c": "US"
+},
+{
+"k": "org:american-academy-of-dermatology",
+"t": "funder",
+"n": "American Academy of Dermatology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-center-for-advancing-translational-sciences",
+"t": "funder",
+"n": "National Center for Advancing Translational Sciences",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32969503",
+"t": "paper",
+"n": "Prevalence of mucocutaneous manifestations in 666 patients with COVID‐19 in a field hospit",
+"sub": "British Journal of Dermatology 2020 · cited 98",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32969503",
+"c": ""
+},
+{
+"k": "person:almudena-nunogonzalez",
+"t": "person",
+"n": "Almudena Nuno‐Gonzalez",
+"sub": "Hospital Universitario La Paz",
+"url": "https://orcid.org/0000-0001-7252-1647",
+"c": "ES"
+},
+{
+"k": "org:hospital-universitario-la-paz",
+"t": "hospital",
+"n": "Hospital Universitario La Paz",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "org:universidad-autonoma-de-madrid",
+"t": "academic",
+"n": "Universidad Autónoma de Madrid",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "person:pedro-herranz",
+"t": "person",
+"n": "Pedro Herranz",
+"sub": "Hospital Universitario La Paz",
+"url": "https://orcid.org/0000-0002-9840-6628",
+"c": "ES"
+},
+{
+"k": "org:universidad-complutense-de-madrid",
+"t": "funder",
+"n": "Universidad Complutense de Madrid",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36169154",
+"t": "paper",
+"n": "Multi‐disciplinary collaborative consensus guidance statement on the assessment and treatm",
+"sub": "PM&R 2022 · cited 82",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36169154",
+"c": ""
+},
+{
+"k": "person:svetlana-blitshteyn",
+"t": "person",
+"n": "Svetlana Blitshteyn",
+"sub": "University at Buffalo, State University of New York",
+"url": "https://orcid.org/0000-0002-3982-2031",
+"c": "US"
+},
+{
+"k": "org:university-at-buffalo-state-university-of-new-york",
+"t": "academic",
+"n": "University at Buffalo, State University of New York",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:david-f-putrino",
+"t": "person",
+"n": "David F. Putrino",
+"sub": "Icahn School of Medicine at Mount Sinai",
+"url": "https://orcid.org/0000-0002-2232-3324",
+"c": "US"
+},
+{
+"k": "org:american-academy-of-physical-medicine-and-rehabilitation",
+"t": "funder",
+"n": "American Academy of Physical Medicine and Rehabilitation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34131967",
+"t": "paper",
+"n": "Psoriasis flare‐up associated with second dose of Pfizer‐BioNTech BNT16B2b2 COVID‐19 mRNA ",
+"sub": "Journal of the European Academy of Dermatology and Venereology 2021 · cited 80",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34131967",
+"c": ""
+},
+{
+"k": "person:piotr-krzysztof-krajewski",
+"t": "person",
+"n": "Piotr Krzysztof Krajewski",
+"sub": "University of Wrocław",
+"url": "https://orcid.org/0000-0003-4722-8531",
+"c": "PL"
+},
+{
+"k": "org:university-of-wrocaw",
+"t": "academic",
+"n": "University of Wrocław",
+"sub": "",
+"url": "",
+"c": "PL"
+},
+{
+"k": "org:wroclaw-medical-university",
+"t": "academic",
+"n": "Wroclaw Medical University",
+"sub": "",
+"url": "",
+"c": "PL"
+},
+{
+"k": "person:jacek-cezary-szepietowski",
+"t": "person",
+"n": "Jacek Cezary Szepietowski",
+"sub": "University of Wrocław",
+"url": "https://orcid.org/0000-0003-0766-6342",
+"c": "PL"
+},
+{
+"k": "paper:pmid-31895432",
+"t": "paper",
+"n": "Use of Epidermal Growth Factor Receptor Inhibitor Erlotinib to Treat Palmoplantar Keratode",
+"sub": "JAMA Dermatology 2020 · cited 67",
+"url": "https://pubmed.ncbi.nlm.nih.gov/31895432",
+"c": ""
+},
+{
+"k": "person:celine-greco",
+"t": "person",
+"n": "Céline Greco",
+"sub": "Université Paris-Sud",
+"url": "https://orcid.org/0000-0003-4259-6861",
+"c": "FR"
+},
+{
+"k": "org:universite-paris-sud",
+"t": "academic",
+"n": "Université Paris-Sud",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:hopital-necker-enfants-malades",
+"t": "hospital",
+"n": "Hôpital Necker-Enfants Malades",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:christine-bodemer",
+"t": "person",
+"n": "Christine Bodemer",
+"sub": "Hôpital Necker-Enfants Malades",
+"url": "https://orcid.org/0000-0001-8772-0905",
+"c": "FR"
+},
+{
+"k": "paper:pmid-35329073",
+"t": "paper",
+"n": "Premature Loss of Deciduous Teeth as a Symptom of Systemic Disease: A Narrative Literature",
+"sub": "International Journal of Environmental Research and Public Health 2022 · cited 59",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35329073",
+"c": ""
+},
+{
+"k": "person:karolina-spodzieja",
+"t": "person",
+"n": "Karolina Spodzieja",
+"sub": "Medical University of Warsaw",
+"url": "https://orcid.org/0000-0002-4320-3364",
+"c": "PL"
+},
+{
+"k": "org:medical-university-of-warsaw",
+"t": "academic",
+"n": "Medical University of Warsaw",
+"sub": "",
+"url": "",
+"c": "PL"
+},
+{
+"k": "person:dorota-olczakkowalczyk",
+"t": "person",
+"n": "Dorota Olczak‐Kowalczyk",
+"sub": "Medical University of Warsaw",
+"url": "https://orcid.org/0000-0002-1567-3844",
+"c": "PL"
+},
+{
+"k": "paper:pmid-39378238",
+"t": "paper",
+"n": "Interplay of Nav1.8 and Nav1.7 channels drives neuronal hyperexcitability in neuropathic p",
+"sub": "The Journal of General Physiology 2024 · cited 57",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39378238",
+"c": ""
+},
+{
+"k": "person:dmytro-v-vasylyev",
+"t": "person",
+"n": "Dmytro V. Vasylyev",
+"sub": "Yale University",
+"url": "https://orcid.org/0009-0007-3523-2249",
+"c": "US"
+},
+{
+"k": "org:yale-university",
+"t": "academic",
+"n": "Yale University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:va-connecticut-healthcare-system",
+"t": "hospital",
+"n": "VA Connecticut Healthcare System",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:stephen-g-waxman",
+"t": "person",
+"n": "Stephen G. Waxman",
+"sub": "Yale University",
+"url": "https://orcid.org/0000-0001-5718-7177",
+"c": "US"
+},
+{
+"k": "org:erythromelalgia-association",
+"t": "funder",
+"n": "Erythromelalgia Association",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:u-s-department-of-veterans-affairs",
+"t": "funder",
+"n": "U.S. Department of Veterans Affairs",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:paralyzed-veterans-of-america",
+"t": "funder",
+"n": "Paralyzed Veterans of America",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-39556352",
+"t": "paper",
+"n": "Diagnosis and Treatment of Polycythemia Vera",
+"sub": "JAMA 2024 · cited 45",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39556352",
+"c": ""
+},
+{
+"k": "person:douglas-a-tremblay",
+"t": "person",
+"n": "Douglas A. Tremblay",
+"sub": "Tisch Cancer Institute",
+"url": "https://orcid.org/0000-0002-4719-7192",
+"c": ""
+},
+{
+"k": "org:tisch-cancer-institute",
+"t": "hospital",
+"n": "Tisch Cancer Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:ronald-hoffman",
+"t": "person",
+"n": "Ronald Hoffman",
+"sub": "Tisch Cancer Institute",
+"url": "https://orcid.org/0000-0001-6564-6732",
+"c": ""
+},
+{
+"k": "org:gilead-sciences",
+"t": "funder",
+"n": "Gilead Sciences",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:celgene",
+"t": "funder",
+"n": "Celgene",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:galecto",
+"t": "funder",
+"n": "Galecto",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:astellas-pharma",
+"t": "funder",
+"n": "Astellas Pharma",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34750923",
+"t": "paper",
+"n": "“Covid arm”: Abnormal side effect after Moderna COVID ‐19 vaccine",
+"sub": "Dermatologic Therapy 2021 · cited 35",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34750923",
+"c": ""
+},
+{
+"k": "person:vincenzo-picone",
+"t": "person",
+"n": "Vincenzo Picone",
+"sub": "Federico II University Hospital",
+"url": "https://orcid.org/0000-0002-8137-8392",
+"c": "IT"
+},
+{
+"k": "org:federico-ii-university-hospital",
+"t": "hospital",
+"n": "Federico II University Hospital",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:fabrizio-martora",
+"t": "person",
+"n": "Fabrizio Martora",
+"sub": "Federico II University Hospital",
+"url": "https://orcid.org/0000-0003-2523-050X",
+"c": "IT"
+},
+{
+"k": "person:laura-marano",
+"t": "person",
+"n": "Laura Marano",
+"sub": "Federico II University Hospital",
+"url": "",
+"c": "IT"
+},
+{
+"k": "paper:pmid-37792955",
+"t": "paper",
+"n": "A humanized chemogenetic system inhibits murine pain-related behavior and hyperactivity in",
+"sub": "Science Translational Medicine 2023 · cited 33",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37792955",
+"c": ""
+},
+{
+"k": "person:jimena-perez-sanchez",
+"t": "person",
+"n": "Jimena Pérez-Sánchez",
+"sub": "University of Oxford",
+"url": "https://orcid.org/0000-0002-4967-5418",
+"c": "GB"
+},
+{
+"k": "org:university-of-oxford",
+"t": "academic",
+"n": "University of Oxford",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:steven-j-middleton",
+"t": "person",
+"n": "Steven J. Middleton",
+"sub": "University of Oxford",
+"url": "https://orcid.org/0000-0002-0708-7335",
+"c": "GB"
+},
+{
+"k": "person:david-bennett",
+"t": "person",
+"n": "David Bennett",
+"sub": "University of Oxford",
+"url": "https://orcid.org/0000-0002-7996-2696",
+"c": "GB"
+},
+{
+"k": "org:guarantors-of-brain",
+"t": "funder",
+"n": "Guarantors of Brain",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:rosetrees-trust",
+"t": "funder",
+"n": "Rosetrees Trust",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:china-scholarship-council",
+"t": "funder",
+"n": "China Scholarship Council",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34816549",
+"t": "paper",
+"n": "Pityriasis rosea after Moderna mRNA ‐1273 vaccine: A case series",
+"sub": "Dermatologic Therapy 2021 · cited 32",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34816549",
+"c": ""
+},
+{
+"k": "person:claudio-marasca",
+"t": "person",
+"n": "Claudio Marasca",
+"sub": "Federico II University Hospital",
+"url": "https://orcid.org/0000-0002-8401-5730",
+"c": "IT"
+},
+{
+"k": "paper:pmid-34557669",
+"t": "paper",
+"n": "KCNQ variants and pain modulation: a missense variant in Kv7.3 contributes to pain resilie",
+"sub": "Brain Communications 2021 · cited 31",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34557669",
+"c": ""
+},
+{
+"k": "person:junhui-yuan",
+"t": "person",
+"n": "Jun‐Hui Yuan",
+"sub": "Yale University",
+"url": "https://orcid.org/0000-0002-3808-7813",
+"c": "US"
+},
+{
+"k": "org:connecticut-innovations",
+"t": "funder",
+"n": "Connecticut Innovations",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32663327",
+"t": "paper",
+"n": "Uncoupling sodium channel dimers restores the phenotype of a pain‐linked Na v 1.7 channel ",
+"sub": "British Journal of Pharmacology 2020 · cited 29",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32663327",
+"c": ""
+},
+{
+"k": "person:annika-h-ruhlmann",
+"t": "person",
+"n": "Annika H. Rühlmann",
+"sub": "Universitätsklinikum Aachen",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:universitatsklinikum-aachen",
+"t": "hospital",
+"n": "Universitätsklinikum Aachen",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:rwth-aachen-university",
+"t": "academic",
+"n": "RWTH Aachen University",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "person:angelika-lampert",
+"t": "person",
+"n": "Angelika Lampert",
+"sub": "Universitätsklinikum Aachen",
+"url": "https://orcid.org/0000-0001-6319-6272",
+"c": "DE"
+},
+{
+"k": "paper:pmid-36470753",
+"t": "paper",
+"n": "Erythromelalgia: A Review of Medical Management Options and Our Approach to Management",
+"sub": "Mayo Clinic Proceedings 2022 · cited 27",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36470753",
+"c": ""
+},
+{
+"k": "person:janice-e-ma",
+"t": "person",
+"n": "Janice E. Ma",
+"sub": "University of California, Los Angeles",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:university-of-california-los-angeles",
+"t": "academic",
+"n": "University of California, Los Angeles",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:harborucla-medical-center",
+"t": "hospital",
+"n": "Harbor–UCLA Medical Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:mark-d-p-davis",
+"t": "person",
+"n": "Mark D.P. Davis",
+"sub": "Mayo Clinic",
+"url": "https://orcid.org/0000-0003-0936-580X",
+"c": "US"
+},
+{
+"k": "paper:pmid-37364617",
+"t": "paper",
+"n": "Erythromelalgia. Part I: Pathogenesis, clinical features, evaluation, and complications",
+"sub": "Journal of the American Academy of Dermatology 2023 · cited 26",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37364617",
+"c": ""
+},
+{
+"k": "person:elena-gonzalez-caldito",
+"t": "person",
+"n": "Elena Gonzalez Caldito",
+"sub": "John H. Stroger, Jr. Hospital of Cook County",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:john-h-stroger-jr-hospital-of-cook-county",
+"t": "hospital",
+"n": "John H. Stroger, Jr. Hospital of Cook County",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:shilpa-mehta",
+"t": "person",
+"n": "Shilpa Mehta",
+"sub": "John H. Stroger, Jr. Hospital of Cook County",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-36017741",
+"t": "paper",
+"n": "Cutaneous reactions following booster dose of COVID‐19 mRNA vaccination: What we should kn",
+"sub": "Journal of Cosmetic Dermatology 2022 · cited 26",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36017741",
+"c": ""
+},
+{
+"k": "person:luca-potestio",
+"t": "person",
+"n": "Luca Potestio",
+"sub": "Federico II University Hospital",
+"url": "https://orcid.org/0000-0001-5940-0592",
+"c": "IT"
+},
+{
+"k": "paper:pmid-38919437",
+"t": "paper",
+"n": "Stellate ganglion block beyond chronic pain: A literature review on its application in pai",
+"sub": "Journal of Anaesthesiology Clinical Pharmacology 2023 · cited 22",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38919437",
+"c": ""
+},
+{
+"k": "person:heena-singh",
+"t": "person",
+"n": "Heena Singh",
+"sub": "Western University",
+"url": "",
+"c": "CA"
+},
+{
+"k": "org:western-university",
+"t": "academic",
+"n": "Western University",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "person:manikandan-rajarathinam",
+"t": "person",
+"n": "Manikandan Rajarathinam",
+"sub": "Western University",
+"url": "https://orcid.org/0000-0002-9292-6614",
+"c": "CA"
+},
+{
+"k": "paper:pmid-32497688",
+"t": "paper",
+"n": "Red scrotum syndrome: An update on clinicopathologic features, pathogenesis, diagnosis, an",
+"sub": "Journal of the American Academy of Dermatology 2020 · cited 21",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32497688",
+"c": ""
+},
+{
+"k": "person:samar-khalil",
+"t": "person",
+"n": "Samar Khalil",
+"sub": "American University of Beirut Medical Center",
+"url": "https://orcid.org/0000-0002-3071-5176",
+"c": "LB"
+},
+{
+"k": "org:american-university-of-beirut-medical-center",
+"t": "hospital",
+"n": "American University of Beirut Medical Center",
+"sub": "",
+"url": "",
+"c": "LB"
+},
+{
+"k": "org:american-university-of-beirut",
+"t": "academic",
+"n": "American University of Beirut",
+"sub": "",
+"url": "",
+"c": "LB"
+},
+{
+"k": "person:ossama-m-abbas",
+"t": "person",
+"n": "Ossama M. Abbas",
+"sub": "American University of Beirut Medical Center",
+"url": "https://orcid.org/0000-0001-6970-8056",
+"c": "LB"
+},
+{
+"k": "paper:pmid-36895957",
+"t": "paper",
+"n": "Investigating genotype–phenotype relationship of extreme neuropathic pain disorders in a U",
+"sub": "Brain Communications 2023 · cited 21",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36895957",
+"c": ""
+},
+{
+"k": "person:andreas-c-themistocleous",
+"t": "person",
+"n": "Andreas C. Themistocleous",
+"sub": "University of Oxford",
+"url": "https://orcid.org/0000-0002-1089-1543",
+"c": "GB"
+},
+{
+"k": "org:charcot-marie-tooth-association",
+"t": "funder",
+"n": "Charcot-Marie-Tooth Association",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:muscular-dystrophy-association",
+"t": "funder",
+"n": "Muscular Dystrophy Association",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:nhs-blood-and-transplant",
+"t": "funder",
+"n": "NHS Blood and Transplant",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32723684",
+"t": "paper",
+"n": "Acute monophasic erythromelalgia pain in five children diagnosed as small-fiber neuropathy",
+"sub": "European Journal of Paediatric Neurology 2020 · cited 19",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32723684",
+"c": ""
+},
+{
+"k": "person:nicole-faignart",
+"t": "person",
+"n": "Nicole Faignart",
+"sub": "Centre Hospitalier Universitaire Vaudois",
+"url": "https://orcid.org/0000-0003-0039-3396",
+"c": "CH"
+},
+{
+"k": "org:centre-hospitalier-universitaire-vaudois",
+"t": "hospital",
+"n": "Centre Hospitalier Universitaire Vaudois",
+"sub": "",
+"url": "",
+"c": "CH"
+},
+{
+"k": "org:hopital-du-valais",
+"t": "hospital",
+"n": "Hôpital du Valais",
+"sub": "",
+"url": "",
+"c": "CH"
+},
+{
+"k": "person:eliane-roulet-perez",
+"t": "person",
+"n": "Eliane Roulet Perez",
+"sub": "Centre Hospitalier Universitaire Vaudois",
+"url": "",
+"c": "CH"
+},
+{
+"k": "org:university-of-lausanne",
+"t": "academic",
+"n": "University of Lausanne",
+"sub": "",
+"url": "",
+"c": "CH"
+},
+{
+"k": "paper:pmid-32337731",
+"t": "paper",
+"n": "Drug repurposing in Raynaud's phenomenon through adverse event signature matching in the W",
+"sub": "British Journal of Clinical Pharmacology 2020 · cited 18",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32337731",
+"c": ""
+},
+{
+"k": "person:zaza-putkaradze",
+"t": "person",
+"n": "Zaza Putkaradze",
+"sub": "Inserm",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:centre-hospitalier-universitaire-de-grenoble",
+"t": "hospital",
+"n": "Centre Hospitalier Universitaire de Grenoble",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:charles-khouri",
+"t": "person",
+"n": "Charles Khouri",
+"sub": "Inserm",
+"url": "https://orcid.org/0000-0002-8427-8573",
+"c": "FR"
+},
+{
+"k": "org:world-health-organization",
+"t": "funder",
+"n": "World Health Organization",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32616864",
+"t": "paper",
+"n": "Significant association of cutaneous adverse events with hydroxyurea: results from a prosp",
+"sub": "Leukemia 2020 · cited 18",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32616864",
+"c": ""
+},
+{
+"k": "person:frank-stegelmann",
+"t": "person",
+"n": "Frank Stegelmann",
+"sub": "Universität Ulm",
+"url": "https://orcid.org/0000-0003-2157-476X",
+"c": "DE"
+},
+{
+"k": "org:universitat-ulm",
+"t": "academic",
+"n": "Universität Ulm",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:university-hospital-ulm",
+"t": "hospital",
+"n": "University Hospital Ulm",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "person:martin-griehammer",
+"t": "person",
+"n": "Martin Grießhammer",
+"sub": "Johannes Wesling Klinikum Minden",
+"url": "https://orcid.org/0000-0001-8718-7004",
+"c": "DE"
+},
+{
+"k": "org:johannes-wesling-klinikum-minden",
+"t": "hospital",
+"n": "Johannes Wesling Klinikum Minden",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "paper:pmid-37003485",
+"t": "paper",
+"n": "Nav1.7 gain-of-function mutation I228M triggers age-dependent nociceptive insensitivity an",
+"sub": "Experimental Neurology 2023 · cited 18",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37003485",
+"c": ""
+},
+{
+"k": "person:nivanthika-k-wimalasena",
+"t": "person",
+"n": "Nivanthika K. Wimalasena",
+"sub": "Boston Children's Hospital",
+"url": "https://orcid.org/0000-0001-6188-790X",
+"c": "US"
+},
+{
+"k": "person:clifford-j-woolf",
+"t": "person",
+"n": "Clifford J. Woolf",
+"sub": "Boston Children's Hospital",
+"url": "https://orcid.org/0000-0002-6636-3897",
+"c": "US"
+},
+{
+"k": "org:national-science-foundation",
+"t": "funder",
+"n": "National Science Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:dr-miriam-and-sheldon-g-adelson-medical-research-foundation",
+"t": "funder",
+"n": "Dr. Miriam and Sheldon G. Adelson Medical Research Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:nancy-taylor-foundation-for-chronic-diseases",
+"t": "funder",
+"n": "Nancy Taylor Foundation for Chronic Diseases",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34247246",
+"t": "paper",
+"n": "COVID-19 vaccine-associated acute cerebral venous thrombosis and pulmonary artery embolism",
+"sub": "QJM 2021 · cited 17",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34247246",
+"c": ""
+},
+{
+"k": "person:r-l-wang",
+"t": "person",
+"n": "R -L Wang",
+"sub": "Taoyuan Armed Forces General Hospital",
+"url": "",
+"c": "TW"
+},
+{
+"k": "org:taoyuan-armed-forces-general-hospital",
+"t": "hospital",
+"n": "Taoyuan Armed Forces General Hospital",
+"sub": "",
+"url": "",
+"c": "TW"
+},
+{
+"k": "person:po-jen-hsiao",
+"t": "person",
+"n": "Po-Jen Hsiao",
+"sub": "Tri-Service General Hospital",
+"url": "https://orcid.org/0000-0003-4965-0285",
+"c": "TW"
+},
+{
+"k": "org:tri-service-general-hospital",
+"t": "hospital",
+"n": "Tri-Service General Hospital",
+"sub": "",
+"url": "",
+"c": "TW"
+},
+{
+"k": "org:national-central-university",
+"t": "academic",
+"n": "National Central University",
+"sub": "",
+"url": "",
+"c": "TW"
+},
+{
+"k": "paper:pmid-35088838",
+"t": "paper",
+"n": "Stem cell-derived sensory neurons modelling inherited erythromelalgia: normalization of ex",
+"sub": "Brain 2022 · cited 17",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35088838",
+"c": ""
+},
+{
+"k": "person:matthew-alsaloum",
+"t": "person",
+"n": "Matthew Alsaloum",
+"sub": "Yale University",
+"url": "https://orcid.org/0000-0002-9832-0138",
+"c": "US"
+},
+{
+"k": "paper:pmid-33361158",
+"t": "paper",
+"n": "Phosphorylation of a chronic pain mutation in the voltage-gated sodium channel Nav1.7 incr",
+"sub": "Journal of Biological Chemistry 2020 · cited 16",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33361158",
+"c": ""
+},
+{
+"k": "person:clara-m-kerth",
+"t": "person",
+"n": "Clara M. Kerth",
+"sub": "Universitätsklinikum Aachen",
+"url": "",
+"c": "DE"
+},
+{
+"k": "person:jannis-meents",
+"t": "person",
+"n": "Jannis Meents",
+"sub": "Universitätsklinikum Aachen",
+"url": "https://orcid.org/0000-0001-9423-0453",
+"c": "DE"
+},
+{
+"k": "paper:pmid-37531097",
+"t": "paper",
+"n": "Cold and warmth intensify pain-linked sodium channel gating effects and persistent current",
+"sub": "The Journal of General Physiology 2023 · cited 15",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37531097",
+"c": ""
+},
+{
+"k": "person:sophia-kriegeskorte",
+"t": "person",
+"n": "Sophia Kriegeskorte",
+"sub": "Universitätsklinikum Aachen",
+"url": "https://orcid.org/0000-0002-4326-1417",
+"c": "DE"
+},
+{
+"k": "person:ralf-hausmann",
+"t": "person",
+"n": "Ralf Hausmann",
+"sub": "Universitätsklinikum Aachen",
+"url": "https://orcid.org/0000-0002-0130-110X",
+"c": "DE"
+},
+{
+"k": "paper:pmid-33888389",
+"t": "paper",
+"n": "A reappraisal of the presence of small or large fiber neuropathy in patients with erythrom",
+"sub": "Neurophysiologie Clinique 2021 · cited 14",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33888389",
+"c": ""
+},
+{
+"k": "person:pauline-reach",
+"t": "person",
+"n": "Pauline Reach",
+"sub": "Université Paris Cité",
+"url": "https://orcid.org/0000-0001-7854-1059",
+"c": "FR"
+},
+{
+"k": "org:universite-paris-cite",
+"t": "academic",
+"n": "Université Paris Cité",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:hopital-paris-saint-joseph",
+"t": "hospital",
+"n": "Hôpital Paris Saint-Joseph",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:mathieu-zuber",
+"t": "person",
+"n": "Mathieu Zuber",
+"sub": "Université Paris Cité",
+"url": "https://orcid.org/0000-0002-4049-2746",
+"c": "FR"
+},
+{
+"k": "paper:pmid-34705320",
+"t": "paper",
+"n": "Possible case of mRNA COVID‐19 vaccine‐induced small‐vessel vasculitis",
+"sub": "Journal of Cosmetic Dermatology 2021 · cited 13",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34705320",
+"c": ""
+},
+{
+"k": "person:ecem-bostan",
+"t": "person",
+"n": "Ecem Bostan",
+"sub": "Hacettepe University",
+"url": "https://orcid.org/0000-0002-8296-4836",
+"c": "TR"
+},
+{
+"k": "org:hacettepe-university",
+"t": "academic",
+"n": "Hacettepe University",
+"sub": "",
+"url": "",
+"c": "TR"
+},
+{
+"k": "person:ozay-ozkaya",
+"t": "person",
+"n": "Özay Özkaya",
+"sub": "Hacettepe University",
+"url": "https://orcid.org/0000-0001-9537-1127",
+"c": "TR"
+},
+{
+"k": "paper:pmid-38251780",
+"t": "paper",
+"n": "Beyond visual inspection: The value of infrared thermography in skin diseases, a scoping r",
+"sub": "Journal of the European Academy of Dermatology and Venereology 2024 · cited 13",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38251780",
+"c": ""
+},
+{
+"k": "person:reinhart-speeckaert",
+"t": "person",
+"n": "Reinhart Speeckaert",
+"sub": "Ghent University Hospital",
+"url": "https://orcid.org/0000-0002-9421-3546",
+"c": "BE"
+},
+{
+"k": "org:ghent-university-hospital",
+"t": "hospital",
+"n": "Ghent University Hospital",
+"sub": "",
+"url": "",
+"c": "BE"
+},
+{
+"k": "person:nanja-van-geel",
+"t": "person",
+"n": "Nanja van Geel",
+"sub": "Ghent University Hospital",
+"url": "https://orcid.org/0000-0002-3249-8195",
+"c": "BE"
+},
+{
+"k": "paper:pmid-32652278",
+"t": "paper",
+"n": "Spinal Cord Stimulation in the Treatment of Pediatric Erythromelalgia",
+"sub": "World Neurosurgery 2020 · cited 13",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32652278",
+"c": ""
+},
+{
+"k": "person:xiaochong-fan",
+"t": "person",
+"n": "Xiaochong Fan",
+"sub": "Zhengzhou University",
+"url": "https://orcid.org/0000-0003-4162-6811",
+"c": "CN"
+},
+{
+"k": "org:zhengzhou-university",
+"t": "academic",
+"n": "Zhengzhou University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:first-affiliated-hospital-of-zhengzhou-university",
+"t": "hospital",
+"n": "First Affiliated Hospital of Zhengzhou University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:yinhui-zhou",
+"t": "person",
+"n": "Yinhui Zhou",
+"sub": "Zhengzhou University",
+"url": "https://orcid.org/0000-0001-9106-1535",
+"c": "CN"
+},
+{
+"k": "paper:pmid-33508884",
+"t": "paper",
+"n": "Dorsal Root Ganglion Stimulation for Erythromelalgia Related Foot Pain: A Case Report and ",
+"sub": "Pain Practice 2021 · cited 12",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33508884",
+"c": ""
+},
+{
+"k": "person:jonathan-michael-hagedorn",
+"t": "person",
+"n": "Jonathan Michael Hagedorn",
+"sub": "Mayo Clinic",
+"url": "https://orcid.org/0000-0003-1039-8166",
+"c": "US"
+},
+{
+"k": "person:tim-j-lamer",
+"t": "person",
+"n": "Tim J. Lamer",
+"sub": "Mayo Clinic",
+"url": "https://orcid.org/0000-0001-8880-3702",
+"c": "US"
+},
+{
+"k": "paper:pmid-37846879",
+"t": "paper",
+"n": "Ih current stabilizes excitability in rodent DRG neurons and reverses hyperexcitability in",
+"sub": "The Journal of Physiology 2023 · cited 12",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37846879",
+"c": ""
+},
+{
+"k": "org:paralyzed-veterans-of-america-research-foundation",
+"t": "funder",
+"n": "Paralyzed Veterans of America Research Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32133669",
+"t": "paper",
+"n": "Small‐fiber neuropathy associated with autoinflammatory syndromes in children and adolesce",
+"sub": "Muscle & Nerve 2020 · cited 12",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32133669",
+"c": ""
+},
+{
+"k": "person:iris-shinkarevsky-fleitman",
+"t": "person",
+"n": "Iris Shinkarevsky Fleitman",
+"sub": "Schneider Children's Medical Center",
+"url": "",
+"c": "IL"
+},
+{
+"k": "org:schneider-children-s-medical-center",
+"t": "hospital",
+"n": "Schneider Children's Medical Center",
+"sub": "",
+"url": "",
+"c": "IL"
+},
+{
+"k": "person:sharon-aharoni",
+"t": "person",
+"n": "Sharon Aharoni",
+"sub": "Tel Aviv University",
+"url": "https://orcid.org/0000-0001-7255-6276",
+"c": "IL"
+},
+{
+"k": "org:tel-aviv-university",
+"t": "academic",
+"n": "Tel Aviv University",
+"sub": "",
+"url": "",
+"c": "IL"
 }
 ],
 "edges": [
@@ -2771,16 +5620,6 @@
 "r": "tested_in"
 },
 {
-"a": "drug:2r-6r-hydroxynorketamine",
-"b": "asset:acd440",
-"r": "competes"
-},
-{
-"a": "drug:2r-6r-hydroxynorketamine",
-"b": "trial:nct05864053",
-"r": "tested_in"
-},
-{
 "a": "drug:3-4-methylenedioxymethamphetamine",
 "b": "asset:acd440",
 "r": "competes"
@@ -2791,12 +5630,12 @@
 "r": "tested_in"
 },
 {
-"a": "drug:amitriptyline-hydrochloride",
+"a": "drug:amitriptyline",
 "b": "asset:acd440",
 "r": "competes"
 },
 {
-"a": "drug:amitriptyline-hydrochloride",
+"a": "drug:amitriptyline",
 "b": "trial:nct05917912",
 "r": "tested_in"
 },
@@ -2811,6 +5650,16 @@
 "r": "tested_in"
 },
 {
+"a": "drug:capsaicin",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:capsaicin",
+"b": "trial:nct06023706",
+"r": "tested_in"
+},
+{
 "a": "drug:capsaicin-0-04-topical-system",
 "b": "asset:acd440",
 "r": "competes"
@@ -2818,16 +5667,6 @@
 {
 "a": "drug:capsaicin-0-04-topical-system",
 "b": "trial:nct04967664",
-"r": "tested_in"
-},
-{
-"a": "drug:capsaicin-179-mg-cutaneous-patch",
-"b": "asset:acd440",
-"r": "competes"
-},
-{
-"a": "drug:capsaicin-179-mg-cutaneous-patch",
-"b": "trial:nct06023706",
 "r": "tested_in"
 },
 {
@@ -2846,12 +5685,12 @@
 "r": "tested_in"
 },
 {
-"a": "drug:capsaicin-low-concentration-patch-capsaicin-0-04-3-2-mg-cm2",
+"a": "drug:capsaicin-low-concentration-patch",
 "b": "asset:acd440",
 "r": "competes"
 },
 {
-"a": "drug:capsaicin-low-concentration-patch-capsaicin-0-04-3-2-mg-cm2",
+"a": "drug:capsaicin-low-concentration-patch",
 "b": "trial:nct06023706",
 "r": "tested_in"
 },
@@ -2876,32 +5715,32 @@
 "r": "tested_in"
 },
 {
-"a": "drug:crisugabalin-besilate-capsules",
+"a": "drug:crisugabalin-besilate",
 "b": "asset:acd440",
 "r": "competes"
 },
 {
-"a": "drug:crisugabalin-besilate-capsules",
+"a": "drug:crisugabalin-besilate",
 "b": "trial:nct07859111",
 "r": "tested_in"
 },
 {
-"a": "drug:crisugabalin-besilate-capsules-simulant",
+"a": "drug:crisugabalin-besilate-simulant",
 "b": "asset:acd440",
 "r": "competes"
 },
 {
-"a": "drug:crisugabalin-besilate-capsules-simulant",
+"a": "drug:crisugabalin-besilate-simulant",
 "b": "trial:nct07859111",
 "r": "tested_in"
 },
 {
-"a": "drug:dexamethasone-sodium-phosphate-10-mg-ml",
+"a": "drug:dexamethasone-phosphate",
 "b": "asset:acd440",
 "r": "competes"
 },
 {
-"a": "drug:dexamethasone-sodium-phosphate-10-mg-ml",
+"a": "drug:dexamethasone-phosphate",
 "b": "trial:nct07579351",
 "r": "tested_in"
 },
@@ -2946,16 +5785,6 @@
 "r": "tested_in"
 },
 {
-"a": "drug:halneuron-open-label-extension",
-"b": "asset:acd440",
-"r": "competes"
-},
-{
-"a": "drug:halneuron-open-label-extension",
-"b": "trial:nct06848348",
-"r": "tested_in"
-},
-{
 "a": "drug:hl-1186",
 "b": "asset:acd440",
 "r": "competes"
@@ -2963,6 +5792,16 @@
 {
 "a": "drug:hl-1186",
 "b": "trial:nct07758920",
+"r": "tested_in"
+},
+{
+"a": "drug:hydroxynorketamine",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:hydroxynorketamine",
+"b": "trial:nct05864053",
 "r": "tested_in"
 },
 {
@@ -2976,42 +5815,22 @@
 "r": "tested_in"
 },
 {
-"a": "drug:lidocaine-20-mg",
+"a": "drug:lidocaine",
 "b": "asset:acd440",
 "r": "competes"
 },
 {
-"a": "drug:lidocaine-20-mg",
+"a": "drug:lidocaine",
 "b": "trial:nct04650074",
 "r": "tested_in"
 },
 {
-"a": "drug:lidocaine-20-mg-ketamine-20-mg",
+"a": "drug:lidocaine-tetracaine",
 "b": "asset:acd440",
 "r": "competes"
 },
 {
-"a": "drug:lidocaine-20-mg-ketamine-20-mg",
-"b": "trial:nct04650074",
-"r": "tested_in"
-},
-{
-"a": "drug:lidocaine-20-mg-ketamine-40-mg",
-"b": "asset:acd440",
-"r": "competes"
-},
-{
-"a": "drug:lidocaine-20-mg-ketamine-40-mg",
-"b": "trial:nct04650074",
-"r": "tested_in"
-},
-{
-"a": "drug:lidocaine-23-tetracaine-7",
-"b": "asset:acd440",
-"r": "competes"
-},
-{
-"a": "drug:lidocaine-23-tetracaine-7",
+"a": "drug:lidocaine-tetracaine",
 "b": "trial:nct07396129",
 "r": "tested_in"
 },
@@ -3201,42 +6020,32 @@
 "r": "tested_in"
 },
 {
-"a": "drug:pregabalin-capsule",
-"b": "asset:acd440",
-"r": "competes"
-},
-{
-"a": "drug:pregabalin-capsule",
+"a": "drug:pregabalin",
 "b": "trial:nct07758920",
 "r": "tested_in"
 },
 {
-"a": "drug:psilocybin-25-mg",
+"a": "drug:psilocybin",
 "b": "asset:acd440",
 "r": "competes"
 },
 {
-"a": "drug:psilocybin-25-mg",
+"a": "drug:psilocybin",
 "b": "trial:nct06518720",
 "r": "tested_in"
 },
 {
-"a": "drug:psilocybin-usona-institute",
-"b": "asset:acd440",
-"r": "competes"
-},
-{
-"a": "drug:psilocybin-usona-institute",
+"a": "drug:psilocybin",
 "b": "trial:nct07251491",
 "r": "tested_in"
 },
 {
-"a": "drug:qutenza-capsaicin-8-topical-system",
+"a": "drug:qutenza-8-topical-system",
 "b": "asset:acd440",
 "r": "competes"
 },
 {
-"a": "drug:qutenza-capsaicin-8-topical-system",
+"a": "drug:qutenza-8-topical-system",
 "b": "trial:nct04967664",
 "r": "tested_in"
 },
@@ -3291,12 +6100,12 @@
 "r": "tested_in"
 },
 {
-"a": "drug:trimetazidine-dihydrochloride-tablets",
+"a": "drug:trimetazidine-dihydrochloride",
 "b": "asset:acd440",
 "r": "competes"
 },
 {
-"a": "drug:trimetazidine-dihydrochloride-tablets",
+"a": "drug:trimetazidine-dihydrochloride",
 "b": "trial:nct07794475",
 "r": "tested_in"
 },
@@ -3311,12 +6120,12 @@
 "r": "tested_in"
 },
 {
-"a": "drug:venglustat-gz402671",
+"a": "drug:venglustat",
 "b": "asset:acd440",
 "r": "competes"
 },
 {
-"a": "drug:venglustat-gz402671",
+"a": "drug:venglustat",
 "b": "trial:nct05206773",
 "r": "tested_in"
 },
@@ -3337,37 +6146,12 @@
 },
 {
 "a": "drug:yj001-spray",
+"b": "trial:nct07858344",
+"r": "tested_in"
+},
+{
+"a": "drug:yj001-spray",
 "b": "trial:nct07859111",
-"r": "tested_in"
-},
-{
-"a": "drug:yj001-spray-240-mg-day",
-"b": "asset:acd440",
-"r": "competes"
-},
-{
-"a": "drug:yj001-spray-240-mg-day",
-"b": "trial:nct07858344",
-"r": "tested_in"
-},
-{
-"a": "drug:yj001-spray-480-mg-day",
-"b": "asset:acd440",
-"r": "competes"
-},
-{
-"a": "drug:yj001-spray-480-mg-day",
-"b": "trial:nct07858344",
-"r": "tested_in"
-},
-{
-"a": "drug:yj001-spray-960-mg-day",
-"b": "asset:acd440",
-"r": "competes"
-},
-{
-"a": "drug:yj001-spray-960-mg-day",
-"b": "trial:nct07858344",
 "r": "tested_in"
 },
 {
@@ -3396,6 +6180,11 @@
 "r": "collaborates"
 },
 {
+"a": "org:academy-of-medical-sciences",
+"b": "paper:pmid-33711103",
+"r": "funded"
+},
+{
 "a": "org:accel-research-birmingham",
 "b": "trial:nct07231419",
 "r": "site_of"
@@ -3411,9 +6200,14 @@
 "r": "site_of"
 },
 {
-"a": "org:adventhealth-orlando-site-number-8400008",
-"b": "trial:nct05206773",
-"r": "site_of"
+"a": "org:agencia-nacional-de-inovacao",
+"b": "paper:pmid-35055104",
+"r": "funded"
+},
+{
+"a": "org:akademiska-sjukhuset",
+"b": "paper:pmid-40711349",
+"r": "funded"
 },
 {
 "a": "org:akademiska-sjukhuset",
@@ -3422,7 +6216,7 @@
 },
 {
 "a": "org:algotherapeutix",
-"b": "drug:amitriptyline-hydrochloride",
+"b": "drug:amitriptyline",
 "r": "develops"
 },
 {
@@ -3434,6 +6228,11 @@
 "a": "org:alliance-for-multispecialty-research",
 "b": "trial:nct05986292",
 "r": "site_of"
+},
+{
+"a": "org:alnylam-pharmaceuticals",
+"b": "paper:pmid-33974577",
+"r": "funded"
 },
 {
 "a": "org:alpine-clinical-research-center",
@@ -3451,9 +6250,19 @@
 "r": "sponsors"
 },
 {
-"a": "org:alzecure-pharma-investigational-site",
-"b": "trial:nct04704232",
-"r": "site_of"
+"a": "org:american-academy-of-dermatology",
+"b": "paper:pmid-34517079",
+"r": "funded"
+},
+{
+"a": "org:american-academy-of-physical-medicine-and-rehabilitation",
+"b": "paper:pmid-36169154",
+"r": "funded"
+},
+{
+"a": "org:amgen",
+"b": "paper:pmid-40252663",
+"r": "funded"
 },
 {
 "a": "org:amr-daphne-al",
@@ -3526,13 +6335,33 @@
 "r": "site_of"
 },
 {
+"a": "org:associazione-italiana-per-la-ricerca-sul-cancro",
+"b": "paper:pmid-33125712",
+"r": "funded"
+},
+{
+"a": "org:astellas-pharma",
+"b": "paper:pmid-39556352",
+"r": "funded"
+},
+{
+"a": "org:astrazeneca",
+"b": "paper:pmid-31914896",
+"r": "funded"
+},
+{
+"a": "org:austrian-science-fund",
+"b": "paper:pmid-34058569",
+"r": "funded"
+},
+{
 "a": "org:averitas-pharma",
 "b": "drug:capsaicin-0-04-topical-system",
 "r": "develops"
 },
 {
 "a": "org:averitas-pharma",
-"b": "drug:qutenza-capsaicin-8-topical-system",
+"b": "drug:qutenza-8-topical-system",
 "r": "develops"
 },
 {
@@ -3616,14 +6445,19 @@
 "r": "sponsors"
 },
 {
-"a": "org:brest-university-hospital",
-"b": "trial:nct06023706",
-"r": "site_of"
-},
-{
 "a": "org:bronx-veterans-medical-research-foundation",
 "b": "trial:nct07251491",
 "r": "collaborates"
+},
+{
+"a": "org:bundesministerium-fur-bildung-und-forschung",
+"b": "paper:pmid-33974577",
+"r": "funded"
+},
+{
+"a": "org:celgene",
+"b": "paper:pmid-39556352",
+"r": "funded"
 },
 {
 "a": "org:central-japan-international-medical-center",
@@ -3652,7 +6486,7 @@
 },
 {
 "a": "org:centre-for-addiction-and-mental-health",
-"b": "drug:psilocybin-25-mg",
+"b": "drug:psilocybin",
 "r": "develops"
 },
 {
@@ -3686,6 +6520,11 @@
 "r": "site_of"
 },
 {
+"a": "org:charcot-marie-tooth-association",
+"b": "paper:pmid-36895957",
+"r": "funded"
+},
+{
 "a": "org:charter-research-lady-lake",
 "b": "trial:nct06568042",
 "r": "site_of"
@@ -3699,6 +6538,11 @@
 "a": "org:china-medical-university-taiwan",
 "b": "trial:nct07693387",
 "r": "collaborates"
+},
+{
+"a": "org:china-scholarship-council",
+"b": "paper:pmid-37792955",
+"r": "funded"
 },
 {
 "a": "org:chu-clermont-ferrand",
@@ -3751,11 +6595,6 @@
 "r": "site_of"
 },
 {
-"a": "org:cincinnati-children-s-hospital-medical-center-site-number-84",
-"b": "trial:nct05206773",
-"r": "site_of"
-},
-{
 "a": "org:clinica-neurologica-e-neurocirurgica-de-joinville",
 "b": "trial:nct07712913",
 "r": "site_of"
@@ -3791,14 +6630,14 @@
 "r": "site_of"
 },
 {
-"a": "org:confluent-private-hospital-centre",
-"b": "trial:nct06023706",
-"r": "site_of"
-},
-{
 "a": "org:congressionally-directed-medical-research-programs",
 "b": "trial:nct05864053",
 "r": "collaborates"
+},
+{
+"a": "org:connecticut-innovations",
+"b": "paper:pmid-34557669",
+"r": "funded"
 },
 {
 "a": "org:conquest-research",
@@ -3811,9 +6650,29 @@
 "r": "site_of"
 },
 {
+"a": "org:conselho-nacional-de-desenvolvimento-cientifico-e-tecnologic",
+"b": "paper:pmid-33526777",
+"r": "funded"
+},
+{
 "a": "org:consortium-for-medical-marijuana-clinical-outcomes-research",
 "b": "trial:nct05630235",
 "r": "collaborates"
+},
+{
+"a": "org:coordenacao-de-aperfeicoamento-de-pessoal-de-nivel-superior",
+"b": "paper:pmid-33169541",
+"r": "funded"
+},
+{
+"a": "org:coordenacao-de-aperfeicoamento-de-pessoal-de-nivel-superior",
+"b": "paper:pmid-33519431",
+"r": "funded"
+},
+{
+"a": "org:coordenacao-de-aperfeicoamento-de-pessoal-de-nivel-superior",
+"b": "paper:pmid-33526777",
+"r": "funded"
 },
 {
 "a": "org:council-of-gran-canaria",
@@ -3836,11 +6695,6 @@
 "r": "collaborates"
 },
 {
-"a": "org:david-geffen-school-of-medicine-at-ucla-site-number-8400006",
-"b": "trial:nct05206773",
-"r": "site_of"
-},
-{
 "a": "org:department-of-orthopedic-surgery-and-trauma-emergencies-of-t",
 "b": "trial:nct04650074",
 "r": "site_of"
@@ -3861,19 +6715,49 @@
 "r": "site_of"
 },
 {
+"a": "org:deutsche-forschungsgemeinschaft",
+"b": "paper:pmid-32584191",
+"r": "funded"
+},
+{
+"a": "org:deutsche-forschungsgemeinschaft",
+"b": "paper:pmid-32616864",
+"r": "funded"
+},
+{
+"a": "org:deutsche-forschungsgemeinschaft",
+"b": "paper:pmid-32663327",
+"r": "funded"
+},
+{
+"a": "org:deutsche-forschungsgemeinschaft",
+"b": "paper:pmid-33125712",
+"r": "funded"
+},
+{
+"a": "org:deutsche-forschungsgemeinschaft",
+"b": "paper:pmid-33361158",
+"r": "funded"
+},
+{
+"a": "org:deutsche-forschungsgemeinschaft",
+"b": "paper:pmid-37531097",
+"r": "funded"
+},
+{
 "a": "org:dogwood-therapeutics",
 "b": "drug:halneuron",
 "r": "develops"
 },
 {
 "a": "org:dogwood-therapeutics",
-"b": "drug:halneuron-open-label-extension",
-"r": "develops"
-},
-{
-"a": "org:dogwood-therapeutics",
 "b": "trial:nct06848348",
 "r": "sponsors"
+},
+{
+"a": "org:dr-miriam-and-sheldon-g-adelson-medical-research-foundation",
+"b": "paper:pmid-37003485",
+"r": "funded"
 },
 {
 "a": "org:drug-studies-america",
@@ -3922,6 +6806,16 @@
 },
 {
 "a": "org:eli-lilly-and-company",
+"b": "paper:pmid-31914896",
+"r": "funded"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "paper:pmid-40252663",
+"r": "funded"
+},
+{
+"a": "org:eli-lilly-and-company",
 "b": "trial:nct05986292",
 "r": "sponsors"
 },
@@ -3946,11 +6840,6 @@
 "r": "site_of"
 },
 {
-"a": "org:emory-university-school-of-medicine-atlanta-site-number-8400",
-"b": "trial:nct05206773",
-"r": "site_of"
-},
-{
 "a": "org:empire-clinical-research",
 "b": "trial:nct06628908",
 "r": "site_of"
@@ -3966,6 +6855,61 @@
 "r": "site_of"
 },
 {
+"a": "org:erythromelalgia-association",
+"b": "paper:pmid-34557669",
+"r": "funded"
+},
+{
+"a": "org:erythromelalgia-association",
+"b": "paper:pmid-39378238",
+"r": "funded"
+},
+{
+"a": "org:eunice-kennedy-shriver-national-institute-of-child-health-an",
+"b": "paper:pmid-32710772",
+"r": "funded"
+},
+{
+"a": "org:european-academy-of-neurology",
+"b": "paper:pmid-34085743",
+"r": "funded"
+},
+{
+"a": "org:european-academy-of-neurology",
+"b": "paper:pmid-34327760",
+"r": "funded"
+},
+{
+"a": "org:european-commission",
+"b": "paper:pmid-33125712",
+"r": "funded"
+},
+{
+"a": "org:european-commission",
+"b": "paper:pmid-33711103",
+"r": "funded"
+},
+{
+"a": "org:european-commission",
+"b": "paper:pmid-34649363",
+"r": "funded"
+},
+{
+"a": "org:european-commission",
+"b": "paper:pmid-35088838",
+"r": "funded"
+},
+{
+"a": "org:european-commission",
+"b": "paper:pmid-35418856",
+"r": "funded"
+},
+{
+"a": "org:european-society-of-cardiology",
+"b": "paper:pmid-33526777",
+"r": "funded"
+},
+{
 "a": "org:eximia-research-ca",
 "b": "trial:nct07231419",
 "r": "site_of"
@@ -3976,14 +6920,29 @@
 "r": "site_of"
 },
 {
+"a": "org:foundation-for-anesthesia-education-and-research",
+"b": "paper:pmid-31937758",
+"r": "funded"
+},
+{
 "a": "org:fukuoka-tokushukai-hospital",
 "b": "trial:nct06708416",
 "r": "site_of"
 },
 {
+"a": "org:fundacao-carlos-chagas-filho-de-amparo-a-pesquisa-do-estado",
+"b": "paper:pmid-33526777",
+"r": "funded"
+},
+{
 "a": "org:fundacao-de-beneficencia-hospital-de-cirurgia",
 "b": "trial:nct07712913",
 "r": "site_of"
+},
+{
+"a": "org:fundacao-para-a-ciencia-e-a-tecnologia",
+"b": "paper:pmid-35055104",
+"r": "funded"
 },
 {
 "a": "org:fundacion-disa-spain",
@@ -3996,9 +6955,29 @@
 "r": "collaborates"
 },
 {
-"a": "org:gh-paris-saint-joseph",
-"b": "trial:nct06023706",
-"r": "site_of"
+"a": "org:galecto",
+"b": "paper:pmid-39556352",
+"r": "funded"
+},
+{
+"a": "org:gbs-cidp-foundation-international",
+"b": "paper:pmid-34085743",
+"r": "funded"
+},
+{
+"a": "org:gbs-cidp-foundation-international",
+"b": "paper:pmid-34327760",
+"r": "funded"
+},
+{
+"a": "org:gilead-sciences",
+"b": "paper:pmid-39556352",
+"r": "funded"
+},
+{
+"a": "org:guarantors-of-brain",
+"b": "paper:pmid-37792955",
+"r": "funded"
 },
 {
 "a": "org:hammersmith-medicines-research-24-503-tel-0800-783-8792-recr",
@@ -4032,17 +7011,7 @@
 },
 {
 "a": "org:hospices-civils-de-lyon",
-"b": "drug:lidocaine-20-mg",
-"r": "develops"
-},
-{
-"a": "org:hospices-civils-de-lyon",
-"b": "drug:lidocaine-20-mg-ketamine-20-mg",
-"r": "develops"
-},
-{
-"a": "org:hospices-civils-de-lyon",
-"b": "drug:lidocaine-20-mg-ketamine-40-mg",
+"b": "drug:lidocaine",
 "r": "develops"
 },
 {
@@ -4054,6 +7023,11 @@
 "a": "org:hospital-universitario-de-gran-canaria-dr-negrin",
 "b": "trial:nct04299893",
 "r": "site_of"
+},
+{
+"a": "org:hunan-provincial-innovation-foundation-for-postgraduate",
+"b": "paper:pmid-34178980",
+"r": "funded"
 },
 {
 "a": "org:ichan-school-of-medicine-at-mount-sinai",
@@ -4069,6 +7043,11 @@
 "a": "org:ild-research-center",
 "b": "trial:nct04967664",
 "r": "site_of"
+},
+{
+"a": "org:illinois-school-psychologists-association",
+"b": "paper:pmid-34649363",
+"r": "funded"
 },
 {
 "a": "org:innovate-clinical-research",
@@ -4101,6 +7080,11 @@
 "r": "site_of"
 },
 {
+"a": "org:international-association-for-the-study-of-pain",
+"b": "paper:pmid-33974577",
+"r": "funded"
+},
+{
 "a": "org:international-spine-pain-and-performance-center",
 "b": "trial:nct04967664",
 "r": "site_of"
@@ -4121,13 +7105,18 @@
 "r": "sponsors"
 },
 {
+"a": "org:israel-science-foundation",
+"b": "paper:pmid-32699292",
+"r": "funded"
+},
+{
 "a": "org:james-j-peters-department-of-veterans-affairs-medical-center",
 "b": "trial:nct07251491",
 "r": "site_of"
 },
 {
 "a": "org:james-j-peters-veterans-affairs-medical-center",
-"b": "drug:psilocybin-usona-institute",
+"b": "drug:psilocybin",
 "r": "develops"
 },
 {
@@ -4176,6 +7165,11 @@
 "r": "site_of"
 },
 {
+"a": "org:lundbeckfonden",
+"b": "paper:pmid-33711103",
+"r": "funded"
+},
+{
 "a": "org:lynn-institute-of-the-ozarks",
 "b": "trial:nct07231419",
 "r": "site_of"
@@ -4189,6 +7183,21 @@
 "a": "org:marvel-clinical-research",
 "b": "trial:nct07231419",
 "r": "site_of"
+},
+{
+"a": "org:massachusetts-general-hospital",
+"b": "paper:pmid-34517079",
+"r": "funded"
+},
+{
+"a": "org:mayo-clinic",
+"b": "paper:pmid-34062143",
+"r": "funded"
+},
+{
+"a": "org:mayo-clinic",
+"b": "paper:pmid-36470753",
+"r": "funded"
 },
 {
 "a": "org:mayo-clinic",
@@ -4206,18 +7215,38 @@
 "r": "site_of"
 },
 {
+"a": "org:ministerio-de-ciencia-innovacion-y-universidades",
+"b": "paper:pmid-34649363",
+"r": "funded"
+},
+{
+"a": "org:ministerio-de-ciencia-innovacion-y-universidades",
+"b": "paper:pmid-35418856",
+"r": "funded"
+},
+{
 "a": "org:mito-saiseikai-general-hospital",
 "b": "trial:nct06708416",
 "r": "site_of"
 },
 {
+"a": "org:muscular-dystrophy-association",
+"b": "paper:pmid-36895957",
+"r": "funded"
+},
+{
+"a": "org:nancy-taylor-foundation-for-chronic-diseases",
+"b": "paper:pmid-37003485",
+"r": "funded"
+},
+{
 "a": "org:nantes-university-hospital",
-"b": "drug:capsaicin-179-mg-cutaneous-patch",
+"b": "drug:capsaicin",
 "r": "develops"
 },
 {
 "a": "org:nantes-university-hospital",
-"b": "drug:capsaicin-low-concentration-patch-capsaicin-0-04-3-2-mg-cm2",
+"b": "drug:capsaicin-low-concentration-patch",
 "r": "develops"
 },
 {
@@ -4236,6 +7265,36 @@
 "r": "sponsors"
 },
 {
+"a": "org:narodowe-centrum-nauki",
+"b": "paper:pmid-33238607",
+"r": "funded"
+},
+{
+"a": "org:narodowym-centrum-nauki",
+"b": "paper:pmid-35418856",
+"r": "funded"
+},
+{
+"a": "org:national-center-for-advancing-translational-sciences",
+"b": "paper:pmid-34517079",
+"r": "funded"
+},
+{
+"a": "org:national-center-for-complementary-and-integrative-health",
+"b": "paper:pmid-32710772",
+"r": "funded"
+},
+{
+"a": "org:national-health-and-medical-research-council",
+"b": "paper:pmid-33090740",
+"r": "funded"
+},
+{
+"a": "org:national-health-and-medical-research-council",
+"b": "paper:pmid-33380301",
+"r": "funded"
+},
+{
 "a": "org:national-hospital-organization-hokkaido-medical-center",
 "b": "trial:nct06708416",
 "r": "site_of"
@@ -4246,9 +7305,29 @@
 "r": "site_of"
 },
 {
+"a": "org:national-institute-for-health-and-care-research",
+"b": "paper:pmid-33090740",
+"r": "funded"
+},
+{
 "a": "org:national-institute-of-diabetes",
 "b": "trial:nct07794475",
 "r": "site_of"
+},
+{
+"a": "org:national-institute-of-neurological-disorders-and-stroke",
+"b": "paper:pmid-32699292",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-neurological-disorders-and-stroke",
+"b": "paper:pmid-32723684",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-neurological-disorders-and-stroke",
+"b": "paper:pmid-33169541",
+"r": "funded"
 },
 {
 "a": "org:national-institute-of-neurological-disorders-and-stroke-nind",
@@ -4256,9 +7335,54 @@
 "r": "collaborates"
 },
 {
+"a": "org:national-institute-on-aging",
+"b": "paper:pmid-33441402",
+"r": "funded"
+},
+{
+"a": "org:national-institute-on-drug-abuse",
+"b": "paper:pmid-33169541",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-31937758",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-32699292",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-32710772",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-33169541",
+"r": "funded"
+},
+{
 "a": "org:national-institutes-of-health-nih",
 "b": "trial:nct06741579",
 "r": "collaborates"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-32652278",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-34178980",
+"r": "funded"
+},
+{
+"a": "org:national-science-foundation",
+"b": "paper:pmid-37003485",
+"r": "funded"
 },
 {
 "a": "org:neuro-pain-medical-center",
@@ -4291,6 +7415,11 @@
 "r": "site_of"
 },
 {
+"a": "org:nhs-blood-and-transplant",
+"b": "paper:pmid-36895957",
+"r": "funded"
+},
+{
 "a": "org:nishinomiya-municipal-central-hospital",
 "b": "trial:nct06708416",
 "r": "site_of"
@@ -4299,6 +7428,11 @@
 "a": "org:northern-california-research-sacramento",
 "b": "trial:nct06074562",
 "r": "site_of"
+},
+{
+"a": "org:novo-nordisk-fonden",
+"b": "paper:pmid-32584191",
+"r": "funded"
 },
 {
 "a": "org:okyo-pharma",
@@ -4336,6 +7470,26 @@
 "r": "site_of"
 },
 {
+"a": "org:paralyzed-veterans-of-america",
+"b": "paper:pmid-35088838",
+"r": "funded"
+},
+{
+"a": "org:paralyzed-veterans-of-america",
+"b": "paper:pmid-37846879",
+"r": "funded"
+},
+{
+"a": "org:paralyzed-veterans-of-america",
+"b": "paper:pmid-39378238",
+"r": "funded"
+},
+{
+"a": "org:paralyzed-veterans-of-america-research-foundation",
+"b": "paper:pmid-37846879",
+"r": "funded"
+},
+{
 "a": "org:peking-university-first-hospital",
 "b": "trial:nct07758920",
 "r": "site_of"
@@ -4344,6 +7498,21 @@
 "a": "org:peking-university-third-hospital",
 "b": "trial:nct07858344",
 "r": "site_of"
+},
+{
+"a": "org:pfizer",
+"b": "paper:pmid-31914896",
+"r": "funded"
+},
+{
+"a": "org:pfizer",
+"b": "paper:pmid-33974577",
+"r": "funded"
+},
+{
+"a": "org:pfizer",
+"b": "paper:pmid-40252663",
+"r": "funded"
 },
 {
 "a": "org:pinnacle-research-group",
@@ -4362,7 +7531,7 @@
 },
 {
 "a": "org:pontificia-universidad-catolica-de-chile",
-"b": "drug:lidocaine-23-tetracaine-7",
+"b": "drug:lidocaine-tetracaine",
 "r": "develops"
 },
 {
@@ -4386,18 +7555,13 @@
 "r": "collaborates"
 },
 {
-"a": "org:renal-disease-research-institute-dallas-live-oak-street-site",
-"b": "trial:nct05206773",
-"r": "site_of"
-},
-{
-"a": "org:rouen-university-hospital",
-"b": "trial:nct06023706",
-"r": "site_of"
+"a": "org:rosetrees-trust",
+"b": "paper:pmid-37792955",
+"r": "funded"
 },
 {
 "a": "org:rush-university-medical-center",
-"b": "drug:2r-6r-hydroxynorketamine",
+"b": "drug:hydroxynorketamine",
 "r": "develops"
 },
 {
@@ -4426,14 +7590,24 @@
 "r": "sponsors"
 },
 {
+"a": "org:rwth-aachen-university",
+"b": "paper:pmid-37531097",
+"r": "funded"
+},
+{
 "a": "org:rychnov-nad-kneznou-hradec-kralove",
 "b": "trial:nct06490445",
 "r": "site_of"
 },
 {
 "a": "org:sanofi",
-"b": "drug:venglustat-gz402671",
+"b": "drug:venglustat",
 "r": "develops"
+},
+{
+"a": "org:sanofi",
+"b": "paper:pmid-31914896",
+"r": "funded"
 },
 {
 "a": "org:sanofi",
@@ -4447,18 +7621,13 @@
 },
 {
 "a": "org:sara-refaat-azab-metry",
-"b": "drug:trimetazidine-dihydrochloride-tablets",
+"b": "drug:trimetazidine-dihydrochloride",
 "r": "develops"
 },
 {
 "a": "org:sara-refaat-azab-metry",
 "b": "trial:nct07794475",
 "r": "sponsors"
-},
-{
-"a": "org:scla-management-pain-management-and-injury-relief",
-"b": "trial:nct06696443",
-"r": "site_of"
 },
 {
 "a": "org:scottsdale-clinical-trials",
@@ -4477,7 +7646,7 @@
 },
 {
 "a": "org:semnur-pharmaceuticals",
-"b": "drug:dexamethasone-sodium-phosphate-10-mg-ml",
+"b": "drug:dexamethasone-phosphate",
 "r": "develops"
 },
 {
@@ -4502,7 +7671,7 @@
 },
 {
 "a": "org:shanghai-yidian-pharmaceutical-technology-development",
-"b": "drug:pregabalin-capsule",
+"b": "drug:pregabalin",
 "r": "develops"
 },
 {
@@ -4539,6 +7708,16 @@
 "a": "org:stanford-university",
 "b": "trial:nct06741579",
 "r": "sponsors"
+},
+{
+"a": "org:state-administration-of-foreign-experts-affairs",
+"b": "paper:pmid-33125712",
+"r": "funded"
+},
+{
+"a": "org:stiftung-tierarztliche-hochschule-hannover",
+"b": "paper:pmid-34145528",
+"r": "funded"
 },
 {
 "a": "org:sun-city-clinical-research",
@@ -4636,6 +7815,51 @@
 "r": "site_of"
 },
 {
+"a": "org:u-s-department-of-defense",
+"b": "paper:pmid-32723684",
+"r": "funded"
+},
+{
+"a": "org:u-s-department-of-defense",
+"b": "paper:pmid-34062145",
+"r": "funded"
+},
+{
+"a": "org:u-s-department-of-defense",
+"b": "paper:pmid-40252663",
+"r": "funded"
+},
+{
+"a": "org:u-s-department-of-health-and-human-services",
+"b": "paper:pmid-31937758",
+"r": "funded"
+},
+{
+"a": "org:u-s-department-of-veterans-affairs",
+"b": "paper:pmid-34557669",
+"r": "funded"
+},
+{
+"a": "org:u-s-department-of-veterans-affairs",
+"b": "paper:pmid-35088838",
+"r": "funded"
+},
+{
+"a": "org:u-s-department-of-veterans-affairs",
+"b": "paper:pmid-37003485",
+"r": "funded"
+},
+{
+"a": "org:u-s-department-of-veterans-affairs",
+"b": "paper:pmid-37846879",
+"r": "funded"
+},
+{
+"a": "org:u-s-department-of-veterans-affairs",
+"b": "paper:pmid-39378238",
+"r": "funded"
+},
+{
 "a": "org:united-states-department-of-defense",
 "b": "trial:nct07251491",
 "r": "collaborates"
@@ -4654,6 +7878,16 @@
 "a": "org:unity-health-toronto",
 "b": "trial:nct07301632",
 "r": "sponsors"
+},
+{
+"a": "org:universidad-complutense-de-madrid",
+"b": "paper:pmid-32969503",
+"r": "funded"
+},
+{
+"a": "org:universidad-rey-juan-carlos",
+"b": "paper:pmid-34649363",
+"r": "funded"
 },
 {
 "a": "org:universitatsklinikum-erlangen-hautklinik",
@@ -4686,11 +7920,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:university-of-alabama-the-kirklin-clinic-site-number-8400011",
-"b": "trial:nct05206773",
-"r": "site_of"
-},
-{
 "a": "org:university-of-arizona",
 "b": "drug:nac",
 "r": "develops"
@@ -4699,11 +7928,6 @@
 "a": "org:university-of-arizona",
 "b": "trial:nct07227649",
 "r": "sponsors"
-},
-{
-"a": "org:university-of-california-irvine-medical-center-site-number-8",
-"b": "trial:nct05206773",
-"r": "site_of"
 },
 {
 "a": "org:university-of-kansas-medical-center",
@@ -4751,19 +7975,14 @@
 "r": "site_of"
 },
 {
-"a": "org:university-of-utah-health-hospital-site-number-8400005",
-"b": "trial:nct05206773",
-"r": "site_of"
-},
-{
 "a": "org:university-of-vermont",
 "b": "trial:nct06614322",
 "r": "site_of"
 },
 {
-"a": "org:upmc-montefiore-site-number-8400009",
-"b": "trial:nct05206773",
-"r": "site_of"
+"a": "org:uppsala-universitet",
+"b": "paper:pmid-40711349",
+"r": "funded"
 },
 {
 "a": "org:usona-institute",
@@ -4778,16 +7997,6 @@
 {
 "a": "org:vcu-medical-center",
 "b": "trial:nct06614322",
-"r": "site_of"
-},
-{
-"a": "org:velocity-clinical-research-san-bernardino",
-"b": "trial:nct06696443",
-"r": "site_of"
-},
-{
-"a": "org:vendee-departmental-hospital",
-"b": "trial:nct06023706",
 "r": "site_of"
 },
 {
@@ -4826,6 +8035,26 @@
 "r": "sponsors"
 },
 {
+"a": "org:wellcome-trust",
+"b": "paper:pmid-31937758",
+"r": "funded"
+},
+{
+"a": "org:wellcome-trust",
+"b": "paper:pmid-33711103",
+"r": "funded"
+},
+{
+"a": "org:wellcome-trust",
+"b": "paper:pmid-36895957",
+"r": "funded"
+},
+{
+"a": "org:wellcome-trust",
+"b": "paper:pmid-37792955",
+"r": "funded"
+},
+{
 "a": "org:western-sydney-university-nicm-health-research-institute-nic",
 "b": "trial:nct06490445",
 "r": "site_of"
@@ -4836,18 +8065,43 @@
 "r": "site_of"
 },
 {
-"a": "org:wmchealth-advanced-physician-services-site-number-8400001",
-"b": "trial:nct05206773",
-"r": "site_of"
+"a": "org:wojskowy-instytut-medyczny",
+"b": "paper:pmid-35418856",
+"r": "funded"
+},
+{
+"a": "org:world-health-organization",
+"b": "paper:pmid-32337731",
+"r": "funded"
+},
+{
+"a": "org:yale-university",
+"b": "paper:pmid-34557669",
+"r": "funded"
+},
+{
+"a": "org:yale-university",
+"b": "paper:pmid-35088838",
+"r": "funded"
+},
+{
+"a": "org:yale-university",
+"b": "paper:pmid-37846879",
+"r": "funded"
+},
+{
+"a": "org:yale-university",
+"b": "paper:pmid-39378238",
+"r": "funded"
 },
 {
 "a": "org:zhejiang-hanmai-pharmaceutical-technology",
-"b": "drug:crisugabalin-besilate-capsules",
+"b": "drug:crisugabalin-besilate",
 "r": "develops"
 },
 {
 "a": "org:zhejiang-hanmai-pharmaceutical-technology",
-"b": "drug:crisugabalin-besilate-capsules-simulant",
+"b": "drug:crisugabalin-besilate-simulant",
 "r": "develops"
 },
 {
@@ -4867,17 +8121,7 @@
 },
 {
 "a": "org:zhejiang-yuejia-pharmaceuticals",
-"b": "drug:yj001-spray-240-mg-day",
-"r": "develops"
-},
-{
-"a": "org:zhejiang-yuejia-pharmaceuticals",
-"b": "drug:yj001-spray-480-mg-day",
-"r": "develops"
-},
-{
-"a": "org:zhejiang-yuejia-pharmaceuticals",
-"b": "drug:yj001-spray-960-mg-day",
+"b": "drug:yj001-spray",
 "r": "develops"
 },
 {
@@ -4891,6 +8135,31 @@
 "r": "sponsors"
 },
 {
+"a": "paper:pmid-38864733",
+"b": "asset:acd440",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-40711349",
+"b": "asset:acd440",
+"r": "cites_asset"
+},
+{
+"a": "person:adriana-ana-miclescu",
+"b": "org:uppsala-university",
+"r": "affiliated"
+},
+{
+"a": "person:adriana-ana-miclescu",
+"b": "org:uppsala-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:adriana-ana-miclescu",
+"b": "paper:pmid-40711349",
+"r": "authored"
+},
+{
 "a": "person:akash-goel-mph",
 "b": "org:unity-health-toronto",
 "r": "affiliated"
@@ -4901,6 +8170,46 @@
 "r": "investigator"
 },
 {
+"a": "person:allan-i-basbaum",
+"b": "org:university-of-california-san-francisco",
+"r": "affiliated"
+},
+{
+"a": "person:allan-i-basbaum",
+"b": "paper:pmid-31937758",
+"r": "authored"
+},
+{
+"a": "person:almudena-nunogonzalez",
+"b": "org:hospital-universitario-la-paz",
+"r": "affiliated"
+},
+{
+"a": "person:almudena-nunogonzalez",
+"b": "org:universidad-autonoma-de-madrid",
+"r": "affiliated"
+},
+{
+"a": "person:almudena-nunogonzalez",
+"b": "paper:pmid-32969503",
+"r": "authored"
+},
+{
+"a": "person:ana-colette-mauricio",
+"b": "org:centro-de-estudos-de-ciencia-animal",
+"r": "affiliated"
+},
+{
+"a": "person:ana-colette-mauricio",
+"b": "org:universidade-do-porto",
+"r": "affiliated"
+},
+{
+"a": "person:ana-colette-mauricio",
+"b": "paper:pmid-35055104",
+"r": "authored"
+},
+{
 "a": "person:andrea-chadwick-m-d-fasa",
 "b": "org:university-of-kansas-medical-center",
 "r": "affiliated"
@@ -4909,6 +8218,76 @@
 "a": "person:andrea-chadwick-m-d-fasa",
 "b": "trial:nct06741579",
 "r": "investigator"
+},
+{
+"a": "person:andreas-c-themistocleous",
+"b": "org:university-of-oxford",
+"r": "affiliated"
+},
+{
+"a": "person:andreas-c-themistocleous",
+"b": "paper:pmid-36895957",
+"r": "authored"
+},
+{
+"a": "person:angelika-lampert",
+"b": "org:rwth-aachen-university",
+"r": "affiliated"
+},
+{
+"a": "person:angelika-lampert",
+"b": "org:universitatsklinikum-aachen",
+"r": "affiliated"
+},
+{
+"a": "person:angelika-lampert",
+"b": "paper:pmid-32663327",
+"r": "authored"
+},
+{
+"a": "person:angelika-lampert",
+"b": "paper:pmid-37531097",
+"r": "authored"
+},
+{
+"a": "person:annika-h-ruhlmann",
+"b": "org:rwth-aachen-university",
+"r": "affiliated"
+},
+{
+"a": "person:annika-h-ruhlmann",
+"b": "org:universitatsklinikum-aachen",
+"r": "affiliated"
+},
+{
+"a": "person:annika-h-ruhlmann",
+"b": "paper:pmid-32663327",
+"r": "authored"
+},
+{
+"a": "person:anthony-henry-dickenson",
+"b": "org:university-college-london",
+"r": "affiliated"
+},
+{
+"a": "person:anthony-henry-dickenson",
+"b": "paper:pmid-31914896",
+"r": "authored"
+},
+{
+"a": "person:asbjrn-mohr-drewes",
+"b": "org:aalborg-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:asbjrn-mohr-drewes",
+"b": "org:mech-sense",
+"r": "affiliated"
+},
+{
+"a": "person:asbjrn-mohr-drewes",
+"b": "paper:pmid-31907359",
+"r": "authored"
 },
 {
 "a": "person:asokumar-buvanendran",
@@ -4931,49 +8310,224 @@
 "r": "investigator"
 },
 {
-"a": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
-"b": "org:eli-lilly-and-company",
+"a": "person:brian-christopher-callaghan",
+"b": "org:university-of-michigan",
 "r": "affiliated"
 },
 {
-"a": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
-"b": "trial:nct05986292",
-"r": "investigator"
+"a": "person:brian-christopher-callaghan",
+"b": "paper:pmid-33711103",
+"r": "authored"
 },
 {
-"a": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
-"b": "trial:nct06074562",
-"r": "investigator"
-},
-{
-"a": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
-"b": "trial:nct06568042",
-"r": "investigator"
-},
-{
-"a": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
-"b": "trial:nct07285018",
-"r": "investigator"
-},
-{
-"a": "person:clinical-development",
-"b": "org:vm-therapeutics",
+"a": "person:bruna-lopes",
+"b": "org:centro-de-estudos-de-ciencia-animal",
 "r": "affiliated"
 },
 {
-"a": "person:clinical-development",
-"b": "trial:nct07072468",
-"r": "investigator"
-},
-{
-"a": "person:clinical-sciences-operations",
-"b": "org:sanofi",
+"a": "person:bruna-lopes",
+"b": "org:universidade-do-porto",
 "r": "affiliated"
 },
 {
-"a": "person:clinical-sciences-operations",
-"b": "trial:nct05206773",
-"r": "investigator"
+"a": "person:bruna-lopes",
+"b": "paper:pmid-35055104",
+"r": "authored"
+},
+{
+"a": "person:celine-greco",
+"b": "org:hopital-necker-enfants-malades",
+"r": "affiliated"
+},
+{
+"a": "person:celine-greco",
+"b": "org:universite-paris-sud",
+"r": "affiliated"
+},
+{
+"a": "person:celine-greco",
+"b": "paper:pmid-31895432",
+"r": "authored"
+},
+{
+"a": "person:chandra-bhushan-mishra",
+"b": "org:sookmyung-women-s-university",
+"r": "affiliated"
+},
+{
+"a": "person:chandra-bhushan-mishra",
+"b": "org:university-of-delhi",
+"r": "affiliated"
+},
+{
+"a": "person:chandra-bhushan-mishra",
+"b": "paper:pmid-32691504",
+"r": "authored"
+},
+{
+"a": "person:charles-khouri",
+"b": "org:centre-hospitalier-universitaire-de-grenoble",
+"r": "affiliated"
+},
+{
+"a": "person:charles-khouri",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:charles-khouri",
+"b": "paper:pmid-32337731",
+"r": "authored"
+},
+{
+"a": "person:christine-bodemer",
+"b": "org:hopital-necker-enfants-malades",
+"r": "affiliated"
+},
+{
+"a": "person:christine-bodemer",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:christine-bodemer",
+"b": "paper:pmid-31895432",
+"r": "authored"
+},
+{
+"a": "person:christopher-gerard-maher",
+"b": "org:institute-for-musculoskeletal-health",
+"r": "affiliated"
+},
+{
+"a": "person:christopher-gerard-maher",
+"b": "org:the-university-of-sydney",
+"r": "affiliated"
+},
+{
+"a": "person:christopher-gerard-maher",
+"b": "paper:pmid-33090740",
+"r": "authored"
+},
+{
+"a": "person:clara-m-kerth",
+"b": "org:rwth-aachen-university",
+"r": "affiliated"
+},
+{
+"a": "person:clara-m-kerth",
+"b": "org:universitatsklinikum-aachen",
+"r": "affiliated"
+},
+{
+"a": "person:clara-m-kerth",
+"b": "paper:pmid-33361158",
+"r": "authored"
+},
+{
+"a": "person:claudio-marasca",
+"b": "org:federico-ii-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:claudio-marasca",
+"b": "org:university-of-naples-federico-ii",
+"r": "affiliated"
+},
+{
+"a": "person:claudio-marasca",
+"b": "paper:pmid-34816549",
+"r": "authored"
+},
+{
+"a": "person:claudiu-trandafir-supuran",
+"b": "org:university-of-florence",
+"r": "affiliated"
+},
+{
+"a": "person:claudiu-trandafir-supuran",
+"b": "paper:pmid-32691504",
+"r": "authored"
+},
+{
+"a": "person:clifford-j-woolf",
+"b": "org:boston-children-s-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:clifford-j-woolf",
+"b": "org:harvard-university",
+"r": "affiliated"
+},
+{
+"a": "person:clifford-j-woolf",
+"b": "paper:pmid-37003485",
+"r": "authored"
+},
+{
+"a": "person:daniel-joseph-clauw",
+"b": "org:michigan-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:daniel-joseph-clauw",
+"b": "org:university-of-michigan",
+"r": "affiliated"
+},
+{
+"a": "person:daniel-joseph-clauw",
+"b": "paper:pmid-32701829",
+"r": "authored"
+},
+{
+"a": "person:daniela-constanze-rosenberger",
+"b": "org:heidelberg-university",
+"r": "affiliated"
+},
+{
+"a": "person:daniela-constanze-rosenberger",
+"b": "org:medizinische-fakultat-mannheim",
+"r": "affiliated"
+},
+{
+"a": "person:daniela-constanze-rosenberger",
+"b": "paper:pmid-32036431",
+"r": "authored"
+},
+{
+"a": "person:david-bennett",
+"b": "org:university-of-oxford",
+"r": "affiliated"
+},
+{
+"a": "person:david-bennett",
+"b": "paper:pmid-36895957",
+"r": "authored"
+},
+{
+"a": "person:david-bennett",
+"b": "paper:pmid-37792955",
+"r": "authored"
+},
+{
+"a": "person:david-conover-spray",
+"b": "org:albert-einstein-college-of-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:david-conover-spray",
+"b": "paper:pmid-32699292",
+"r": "authored"
+},
+{
+"a": "person:david-f-putrino",
+"b": "org:icahn-school-of-medicine-at-mount-sinai",
+"r": "affiliated"
+},
+{
+"a": "person:david-f-putrino",
+"b": "paper:pmid-36169154",
+"r": "authored"
 },
 {
 "a": "person:delvys-rodriguez-abreu",
@@ -4986,6 +8540,21 @@
 "r": "investigator"
 },
 {
+"a": "person:devon-e-mcmahon",
+"b": "org:harvard-university",
+"r": "affiliated"
+},
+{
+"a": "person:devon-e-mcmahon",
+"b": "org:massachusetts-general-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:devon-e-mcmahon",
+"b": "paper:pmid-34517079",
+"r": "authored"
+},
+{
 "a": "person:didier-delbrouck-anesthesiologist",
 "b": "org:centre-oscar-lambret",
 "r": "affiliated"
@@ -4994,6 +8563,101 @@
 "a": "person:didier-delbrouck-anesthesiologist",
 "b": "trial:nct06807164",
 "r": "investigator"
+},
+{
+"a": "person:dimitri-kasakovski",
+"b": "org:german-cancer-research-center",
+"r": "affiliated"
+},
+{
+"a": "person:dimitri-kasakovski",
+"b": "org:heidelberg-university",
+"r": "affiliated"
+},
+{
+"a": "person:dimitri-kasakovski",
+"b": "paper:pmid-34661927",
+"r": "authored"
+},
+{
+"a": "person:dmytro-v-vasylyev",
+"b": "org:va-connecticut-healthcare-system",
+"r": "affiliated"
+},
+{
+"a": "person:dmytro-v-vasylyev",
+"b": "org:yale-university",
+"r": "affiliated"
+},
+{
+"a": "person:dmytro-v-vasylyev",
+"b": "paper:pmid-37846879",
+"r": "authored"
+},
+{
+"a": "person:dmytro-v-vasylyev",
+"b": "paper:pmid-39378238",
+"r": "authored"
+},
+{
+"a": "person:dongyi-zhang",
+"b": "org:national-university-of-defense-technology",
+"r": "affiliated"
+},
+{
+"a": "person:dongyi-zhang",
+"b": "paper:pmid-34178980",
+"r": "authored"
+},
+{
+"a": "person:dorota-olczakkowalczyk",
+"b": "org:medical-university-of-warsaw",
+"r": "affiliated"
+},
+{
+"a": "person:dorota-olczakkowalczyk",
+"b": "paper:pmid-35329073",
+"r": "authored"
+},
+{
+"a": "person:douglas-a-tremblay",
+"b": "org:icahn-school-of-medicine-at-mount-sinai",
+"r": "affiliated"
+},
+{
+"a": "person:douglas-a-tremblay",
+"b": "org:tisch-cancer-institute",
+"r": "affiliated"
+},
+{
+"a": "person:douglas-a-tremblay",
+"b": "paper:pmid-39556352",
+"r": "authored"
+},
+{
+"a": "person:douglas-lamounier-de-almeida",
+"b": "org:icahn-school-of-medicine-at-mount-sinai",
+"r": "affiliated"
+},
+{
+"a": "person:douglas-lamounier-de-almeida",
+"b": "org:universidade-federal-de-minas-gerais",
+"r": "affiliated"
+},
+{
+"a": "person:douglas-lamounier-de-almeida",
+"b": "paper:pmid-33169541",
+"r": "authored"
+},
+{
+"a": "person:ecem-bostan",
+"b": "org:hacettepe-university",
+"r": "affiliated"
+},
+{
+"a": "person:ecem-bostan",
+"b": "paper:pmid-34705320",
+"r": "authored"
 },
 {
 "a": "person:edith-dekel",
@@ -5006,6 +8670,61 @@
 "r": "investigator"
 },
 {
+"a": "person:elena-gonzalez-caldito",
+"b": "org:john-h-stroger-jr-hospital-of-cook-county",
+"r": "affiliated"
+},
+{
+"a": "person:elena-gonzalez-caldito",
+"b": "paper:pmid-37364617",
+"r": "authored"
+},
+{
+"a": "person:eliane-roulet-perez",
+"b": "org:centre-hospitalier-universitaire-vaudois",
+"r": "affiliated"
+},
+{
+"a": "person:eliane-roulet-perez",
+"b": "org:university-of-lausanne",
+"r": "affiliated"
+},
+{
+"a": "person:eliane-roulet-perez",
+"b": "paper:pmid-32723684",
+"r": "authored"
+},
+{
+"a": "person:esther-e-freeman",
+"b": "org:harvard-university",
+"r": "affiliated"
+},
+{
+"a": "person:esther-e-freeman",
+"b": "org:massachusetts-general-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:esther-e-freeman",
+"b": "paper:pmid-34517079",
+"r": "authored"
+},
+{
+"a": "person:eva-kosek",
+"b": "org:karolinska-institutet",
+"r": "affiliated"
+},
+{
+"a": "person:eva-kosek",
+"b": "org:uppsala-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:eva-kosek",
+"b": "paper:pmid-33974577",
+"r": "authored"
+},
+{
 "a": "person:eva-widerstrom-noga-dds",
 "b": "org:university-of-miami",
 "r": "affiliated"
@@ -5014,6 +8733,71 @@
 "a": "person:eva-widerstrom-noga-dds",
 "b": "trial:nct05630235",
 "r": "investigator"
+},
+{
+"a": "person:fabrizio-martora",
+"b": "org:federico-ii-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:fabrizio-martora",
+"b": "org:university-of-naples-federico-ii",
+"r": "affiliated"
+},
+{
+"a": "person:fabrizio-martora",
+"b": "paper:pmid-34750923",
+"r": "authored"
+},
+{
+"a": "person:fabrizio-martora",
+"b": "paper:pmid-34816549",
+"r": "authored"
+},
+{
+"a": "person:fabrizio-martora",
+"b": "paper:pmid-36017741",
+"r": "authored"
+},
+{
+"a": "person:felipe-fregni",
+"b": "org:massachusetts-general-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:felipe-fregni",
+"b": "org:spaulding-rehabilitation-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:felipe-fregni",
+"b": "paper:pmid-32710772",
+"r": "authored"
+},
+{
+"a": "person:felipe-lombo",
+"b": "org:instituto-de-investigacion-sanitaria-del-principado-de-astur",
+"r": "affiliated"
+},
+{
+"a": "person:felipe-lombo",
+"b": "org:universidad-de-oviedo",
+"r": "affiliated"
+},
+{
+"a": "person:felipe-lombo",
+"b": "paper:pmid-34649363",
+"r": "authored"
+},
+{
+"a": "person:flavia-regina-souza-lima",
+"b": "org:universidade-federal-do-rio-de-janeiro",
+"r": "affiliated"
+},
+{
+"a": "person:flavia-regina-souza-lima",
+"b": "paper:pmid-33526777",
+"r": "authored"
 },
 {
 "a": "person:flavio-mantelli",
@@ -5026,6 +8810,16 @@
 "r": "investigator"
 },
 {
+"a": "person:francesco-di-virgilio",
+"b": "org:university-of-ferrara",
+"r": "affiliated"
+},
+{
+"a": "person:francesco-di-virgilio",
+"b": "paper:pmid-33125712",
+"r": "authored"
+},
+{
 "a": "person:francisco-rodriguez-esparragon-bsc",
 "b": "org:dr-negrin-university-hospital-las-palmas-spain",
 "r": "affiliated"
@@ -5034,6 +8828,61 @@
 "a": "person:francisco-rodriguez-esparragon-bsc",
 "b": "trial:nct04299893",
 "r": "investigator"
+},
+{
+"a": "person:frank-stegelmann",
+"b": "org:universitat-ulm",
+"r": "affiliated"
+},
+{
+"a": "person:frank-stegelmann",
+"b": "org:university-hospital-ulm",
+"r": "affiliated"
+},
+{
+"a": "person:frank-stegelmann",
+"b": "paper:pmid-32616864",
+"r": "authored"
+},
+{
+"a": "person:ganesh-raghu",
+"b": "org:university-of-washington",
+"r": "affiliated"
+},
+{
+"a": "person:ganesh-raghu",
+"b": "paper:pmid-33380301",
+"r": "authored"
+},
+{
+"a": "person:giovanni-fm-strippoli",
+"b": "org:the-university-of-sydney",
+"r": "affiliated"
+},
+{
+"a": "person:giovanni-fm-strippoli",
+"b": "org:university-of-bari-aldo-moro",
+"r": "affiliated"
+},
+{
+"a": "person:giovanni-fm-strippoli",
+"b": "paper:pmid-33441402",
+"r": "authored"
+},
+{
+"a": "person:gordon-p-sloan",
+"b": "org:royal-hallamshire-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:gordon-p-sloan",
+"b": "org:sheffield-teaching-hospitals-nhs-foundation-trust",
+"r": "affiliated"
+},
+{
+"a": "person:gordon-p-sloan",
+"b": "paper:pmid-34050323",
+"r": "authored"
 },
 {
 "a": "person:gustavo-m-callico",
@@ -5046,6 +8895,76 @@
 "r": "investigator"
 },
 {
+"a": "person:halina-was",
+"b": "org:wojskowy-instytut-medyczny",
+"r": "affiliated"
+},
+{
+"a": "person:halina-was",
+"b": "paper:pmid-35418856",
+"r": "authored"
+},
+{
+"a": "person:haluk-topaloglu",
+"b": "org:yeditepe-university",
+"r": "affiliated"
+},
+{
+"a": "person:haluk-topaloglu",
+"b": "paper:pmid-34085743",
+"r": "authored"
+},
+{
+"a": "person:haluk-topaloglu",
+"b": "paper:pmid-34327760",
+"r": "authored"
+},
+{
+"a": "person:heena-singh",
+"b": "org:western-university",
+"r": "affiliated"
+},
+{
+"a": "person:heena-singh",
+"b": "paper:pmid-38919437",
+"r": "authored"
+},
+{
+"a": "person:helena-knotkova",
+"b": "org:albert-einstein-college-of-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:helena-knotkova",
+"b": "org:metropolitan-jewish-health-system",
+"r": "affiliated"
+},
+{
+"a": "person:helena-knotkova",
+"b": "paper:pmid-34062145",
+"r": "authored"
+},
+{
+"a": "person:huiyan-zeng",
+"b": "org:media-working-group",
+"r": "affiliated"
+},
+{
+"a": "person:huiyan-zeng",
+"b": "paper:pmid-32710772",
+"r": "authored"
+},
+{
+"a": "person:iris-shinkarevsky-fleitman",
+"b": "org:schneider-children-s-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:iris-shinkarevsky-fleitman",
+"b": "paper:pmid-32133669",
+"r": "authored"
+},
+{
 "a": "person:ishrat-husain",
 "b": "org:centre-for-addiction-and-mental-health",
 "r": "affiliated"
@@ -5054,6 +8973,81 @@
 "a": "person:ishrat-husain",
 "b": "trial:nct06518720",
 "r": "investigator"
+},
+{
+"a": "person:jacek-cezary-szepietowski",
+"b": "org:university-of-wrocaw",
+"r": "affiliated"
+},
+{
+"a": "person:jacek-cezary-szepietowski",
+"b": "org:wroclaw-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:jacek-cezary-szepietowski",
+"b": "paper:pmid-34131967",
+"r": "authored"
+},
+{
+"a": "person:jakub-mlost",
+"b": "org:maj-institute-of-pharmacology",
+"r": "affiliated"
+},
+{
+"a": "person:jakub-mlost",
+"b": "org:polish-academy-of-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:jakub-mlost",
+"b": "paper:pmid-33238607",
+"r": "authored"
+},
+{
+"a": "person:janice-e-ma",
+"b": "org:harborucla-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:janice-e-ma",
+"b": "org:university-of-california-los-angeles",
+"r": "affiliated"
+},
+{
+"a": "person:janice-e-ma",
+"b": "paper:pmid-36470753",
+"r": "authored"
+},
+{
+"a": "person:jannis-meents",
+"b": "org:rwth-aachen-university",
+"r": "affiliated"
+},
+{
+"a": "person:jannis-meents",
+"b": "org:universitatsklinikum-aachen",
+"r": "affiliated"
+},
+{
+"a": "person:jannis-meents",
+"b": "paper:pmid-33361158",
+"r": "authored"
+},
+{
+"a": "person:javier-fernandez",
+"b": "org:instituto-de-investigacion-sanitaria-del-principado-de-astur",
+"r": "affiliated"
+},
+{
+"a": "person:javier-fernandez",
+"b": "org:universidad-de-oviedo",
+"r": "affiliated"
+},
+{
+"a": "person:javier-fernandez",
+"b": "paper:pmid-34649363",
+"r": "authored"
 },
 {
 "a": "person:jeffrey-p-okeson-d",
@@ -5086,6 +9080,16 @@
 "r": "investigator"
 },
 {
+"a": "person:jessica-silva-dos-santos",
+"b": "org:universidade-sao-francisco",
+"r": "affiliated"
+},
+{
+"a": "person:jessica-silva-dos-santos",
+"b": "paper:pmid-33519431",
+"r": "authored"
+},
+{
 "a": "person:jill-m-wecht-edd",
 "b": "org:james-j-peters-va-medical-center",
 "r": "affiliated"
@@ -5094,6 +9098,101 @@
 "a": "person:jill-m-wecht-edd",
 "b": "trial:nct07251491",
 "r": "investigator"
+},
+{
+"a": "person:jimena-perez-sanchez",
+"b": "org:university-of-oxford",
+"r": "affiliated"
+},
+{
+"a": "person:jimena-perez-sanchez",
+"b": "paper:pmid-37792955",
+"r": "authored"
+},
+{
+"a": "person:jonathan-michael-hagedorn",
+"b": "org:mayo-clinic",
+"r": "affiliated"
+},
+{
+"a": "person:jonathan-michael-hagedorn",
+"b": "paper:pmid-33508884",
+"r": "authored"
+},
+{
+"a": "person:junhui-yuan",
+"b": "org:va-connecticut-healthcare-system",
+"r": "affiliated"
+},
+{
+"a": "person:junhui-yuan",
+"b": "org:yale-university",
+"r": "affiliated"
+},
+{
+"a": "person:junhui-yuan",
+"b": "paper:pmid-34557669",
+"r": "authored"
+},
+{
+"a": "person:kai-k-kummer",
+"b": "org:innsbruck-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:kai-k-kummer",
+"b": "org:universitat-innsbruck",
+"r": "affiliated"
+},
+{
+"a": "person:kai-k-kummer",
+"b": "paper:pmid-34058569",
+"r": "authored"
+},
+{
+"a": "person:karolina-spodzieja",
+"b": "org:medical-university-of-warsaw",
+"r": "affiliated"
+},
+{
+"a": "person:karolina-spodzieja",
+"b": "paper:pmid-35329073",
+"r": "authored"
+},
+{
+"a": "person:katarzyna-starowicz",
+"b": "org:maj-institute-of-pharmacology",
+"r": "affiliated"
+},
+{
+"a": "person:katarzyna-starowicz",
+"b": "org:polish-academy-of-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:katarzyna-starowicz",
+"b": "paper:pmid-33238607",
+"r": "authored"
+},
+{
+"a": "person:kirsty-bannister",
+"b": "org:king-s-college-london",
+"r": "affiliated"
+},
+{
+"a": "person:kirsty-bannister",
+"b": "paper:pmid-31914896",
+"r": "authored"
+},
+{
+"a": "person:lakshmi-a-devi",
+"b": "org:icahn-school-of-medicine-at-mount-sinai",
+"r": "affiliated"
+},
+{
+"a": "person:lakshmi-a-devi",
+"b": "paper:pmid-33169541",
+"r": "authored"
 },
 {
 "a": "person:lamia-el-wakeel",
@@ -5106,6 +9205,96 @@
 "r": "investigator"
 },
 {
+"a": "person:laura-marano",
+"b": "org:federico-ii-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:laura-marano",
+"b": "org:university-of-naples-federico-ii",
+"r": "affiliated"
+},
+{
+"a": "person:laura-marano",
+"b": "paper:pmid-34750923",
+"r": "authored"
+},
+{
+"a": "person:lingyun-zhu",
+"b": "org:national-university-of-defense-technology",
+"r": "affiliated"
+},
+{
+"a": "person:lingyun-zhu",
+"b": "paper:pmid-34178980",
+"r": "authored"
+},
+{
+"a": "person:luca-potestio",
+"b": "org:federico-ii-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:luca-potestio",
+"b": "org:university-of-naples-federico-ii",
+"r": "affiliated"
+},
+{
+"a": "person:luca-potestio",
+"b": "paper:pmid-36017741",
+"r": "authored"
+},
+{
+"a": "person:luiz-henrique-geraldo",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:luiz-henrique-geraldo",
+"b": "org:universidade-federal-do-rio-de-janeiro",
+"r": "affiliated"
+},
+{
+"a": "person:luiz-henrique-geraldo",
+"b": "paper:pmid-33526777",
+"r": "authored"
+},
+{
+"a": "person:manikandan-rajarathinam",
+"b": "org:western-university",
+"r": "affiliated"
+},
+{
+"a": "person:manikandan-rajarathinam",
+"b": "paper:pmid-38919437",
+"r": "authored"
+},
+{
+"a": "person:manoela-marques-ortega",
+"b": "org:universidade-sao-francisco",
+"r": "affiliated"
+},
+{
+"a": "person:manoela-marques-ortega",
+"b": "paper:pmid-33519431",
+"r": "authored"
+},
+{
+"a": "person:marc-a-huntoon",
+"b": "org:virginia-commonwealth-university",
+"r": "affiliated"
+},
+{
+"a": "person:marc-a-huntoon",
+"b": "org:virginia-commonwealth-university-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:marc-a-huntoon",
+"b": "paper:pmid-34062145",
+"r": "authored"
+},
+{
 "a": "person:mariana-ferreira-sports-nutrition",
 "b": "org:a2z-clinical-centro-de-pesquisa-clinica-valinhos-sao-paulo-1",
 "r": "affiliated"
@@ -5114,6 +9303,131 @@
 "a": "person:mariana-ferreira-sports-nutrition",
 "b": "trial:nct07712913",
 "r": "investigator"
+},
+{
+"a": "person:mark-d-p-davis",
+"b": "org:mayo-clinic",
+"r": "affiliated"
+},
+{
+"a": "person:mark-d-p-davis",
+"b": "paper:pmid-36470753",
+"r": "authored"
+},
+{
+"a": "person:marta-segerdahl",
+"b": "org:alzecure-pharma-sweden",
+"r": "affiliated"
+},
+{
+"a": "person:marta-segerdahl",
+"b": "org:karolinska-institutet",
+"r": "affiliated"
+},
+{
+"a": "person:marta-segerdahl",
+"b": "paper:pmid-38864733",
+"r": "authored"
+},
+{
+"a": "person:marta-segerdahl",
+"b": "paper:pmid-40711349",
+"r": "authored"
+},
+{
+"a": "person:martin-griehammer",
+"b": "org:johannes-wesling-klinikum-minden",
+"r": "affiliated"
+},
+{
+"a": "person:martin-griehammer",
+"b": "paper:pmid-32616864",
+"r": "authored"
+},
+{
+"a": "person:maryann-fitzcharles",
+"b": "org:mcgill-university",
+"r": "affiliated"
+},
+{
+"a": "person:maryann-fitzcharles",
+"b": "paper:pmid-32701829",
+"r": "authored"
+},
+{
+"a": "person:maryann-fitzcharles",
+"b": "paper:pmid-34062144",
+"r": "authored"
+},
+{
+"a": "person:mathieu-zuber",
+"b": "org:hopital-paris-saint-joseph",
+"r": "affiliated"
+},
+{
+"a": "person:mathieu-zuber",
+"b": "org:universite-paris-cite",
+"r": "affiliated"
+},
+{
+"a": "person:mathieu-zuber",
+"b": "paper:pmid-33888389",
+"r": "authored"
+},
+{
+"a": "person:matthew-alsaloum",
+"b": "org:va-connecticut-healthcare-system",
+"r": "affiliated"
+},
+{
+"a": "person:matthew-alsaloum",
+"b": "org:yale-university",
+"r": "affiliated"
+},
+{
+"a": "person:matthew-alsaloum",
+"b": "paper:pmid-35088838",
+"r": "authored"
+},
+{
+"a": "person:menachem-hanani",
+"b": "org:hadassah-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:menachem-hanani",
+"b": "org:hebrew-university-of-jerusalem",
+"r": "affiliated"
+},
+{
+"a": "person:menachem-hanani",
+"b": "paper:pmid-32699292",
+"r": "authored"
+},
+{
+"a": "person:michaela-kress",
+"b": "org:innsbruck-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:michaela-kress",
+"b": "org:universitat-innsbruck",
+"r": "affiliated"
+},
+{
+"a": "person:michaela-kress",
+"b": "paper:pmid-34058569",
+"r": "authored"
+},
+{
+"a": "person:michele-m-sterling",
+"b": "org:the-university-of-queensland",
+"r": "affiliated"
+},
+{
+"a": "person:michele-m-sterling",
+"b": "paper:pmid-33974577",
+"r": "authored"
 },
 {
 "a": "person:monique-ribeiro",
@@ -5126,6 +9440,146 @@
 "r": "investigator"
 },
 {
+"a": "person:nadia-soliman",
+"b": "org:imperial-college-london",
+"r": "affiliated"
+},
+{
+"a": "person:nadia-soliman",
+"b": "paper:pmid-40252663",
+"r": "authored"
+},
+{
+"a": "person:nadine-attal",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:nadine-attal",
+"b": "org:universite-de-versailles-saint-quentin-en-yvelines",
+"r": "affiliated"
+},
+{
+"a": "person:nadine-attal",
+"b": "paper:pmid-32276788",
+"r": "authored"
+},
+{
+"a": "person:nanja-van-geel",
+"b": "org:ghent-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:nanja-van-geel",
+"b": "paper:pmid-38251780",
+"r": "authored"
+},
+{
+"a": "person:nanna-brix-finnerup",
+"b": "org:aarhus-university",
+"r": "affiliated"
+},
+{
+"a": "person:nanna-brix-finnerup",
+"b": "org:heidelberg-university",
+"r": "affiliated"
+},
+{
+"a": "person:nanna-brix-finnerup",
+"b": "paper:pmid-32584191",
+"r": "authored"
+},
+{
+"a": "person:nebojsa-nick-knezevic",
+"b": "org:advocate-illinois-masonic-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:nebojsa-nick-knezevic",
+"b": "org:university-of-illinois-chicago",
+"r": "affiliated"
+},
+{
+"a": "person:nebojsa-nick-knezevic",
+"b": "paper:pmid-34115979",
+"r": "authored"
+},
+{
+"a": "person:nicole-faignart",
+"b": "org:centre-hospitalier-universitaire-vaudois",
+"r": "affiliated"
+},
+{
+"a": "person:nicole-faignart",
+"b": "org:hopital-du-valais",
+"r": "affiliated"
+},
+{
+"a": "person:nicole-faignart",
+"b": "paper:pmid-32723684",
+"r": "authored"
+},
+{
+"a": "person:nivanthika-k-wimalasena",
+"b": "org:boston-children-s-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:nivanthika-k-wimalasena",
+"b": "org:harvard-university",
+"r": "affiliated"
+},
+{
+"a": "person:nivanthika-k-wimalasena",
+"b": "paper:pmid-37003485",
+"r": "authored"
+},
+{
+"a": "person:ossama-m-abbas",
+"b": "org:american-university-of-beirut-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:ossama-m-abbas",
+"b": "paper:pmid-32497688",
+"r": "authored"
+},
+{
+"a": "person:ozay-ozkaya",
+"b": "org:hacettepe-university",
+"r": "affiliated"
+},
+{
+"a": "person:ozay-ozkaya",
+"b": "paper:pmid-34705320",
+"r": "authored"
+},
+{
+"a": "person:pauline-reach",
+"b": "org:hopital-paris-saint-joseph",
+"r": "affiliated"
+},
+{
+"a": "person:pauline-reach",
+"b": "org:universite-paris-cite",
+"r": "affiliated"
+},
+{
+"a": "person:pauline-reach",
+"b": "paper:pmid-33888389",
+"r": "authored"
+},
+{
+"a": "person:pavel-klein",
+"b": "org:mid-atlantic-epilepsy-and-sleep-center",
+"r": "affiliated"
+},
+{
+"a": "person:pavel-klein",
+"b": "paper:pmid-34145528",
+"r": "authored"
+},
+{
 "a": "person:pedro-g-serrano-aguilar",
 "b": "org:servicio-de-evaluacion-servicio-canario-de-salud-spain",
 "r": "affiliated"
@@ -5134,6 +9588,61 @@
 "a": "person:pedro-g-serrano-aguilar",
 "b": "trial:nct04299893",
 "r": "investigator"
+},
+{
+"a": "person:pedro-herranz",
+"b": "org:hospital-universitario-la-paz",
+"r": "affiliated"
+},
+{
+"a": "person:pedro-herranz",
+"b": "org:universidad-autonoma-de-madrid",
+"r": "affiliated"
+},
+{
+"a": "person:pedro-herranz",
+"b": "paper:pmid-32969503",
+"r": "authored"
+},
+{
+"a": "person:peter-illes",
+"b": "org:chengdu-university-of-traditional-chinese-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:peter-illes",
+"b": "org:leipzig-university",
+"r": "affiliated"
+},
+{
+"a": "person:peter-illes",
+"b": "paper:pmid-33125712",
+"r": "authored"
+},
+{
+"a": "person:peter-m-a-calverley",
+"b": "org:university-of-liverpool",
+"r": "affiliated"
+},
+{
+"a": "person:peter-m-a-calverley",
+"b": "paper:pmid-33380301",
+"r": "authored"
+},
+{
+"a": "person:peter-y-k-van-den-bergh",
+"b": "org:cliniques-universitaires-saint-luc",
+"r": "affiliated"
+},
+{
+"a": "person:peter-y-k-van-den-bergh",
+"b": "paper:pmid-34085743",
+"r": "authored"
+},
+{
+"a": "person:peter-y-k-van-den-bergh",
+"b": "paper:pmid-34327760",
+"r": "authored"
 },
 {
 "a": "person:philippe-j-le-moine",
@@ -5146,14 +9655,329 @@
 "r": "investigator"
 },
 {
-"a": "person:project-leader",
-"b": "org:ono-pharmaceutical",
+"a": "person:piotr-krzysztof-krajewski",
+"b": "org:university-of-wrocaw",
 "r": "affiliated"
 },
 {
-"a": "person:project-leader",
-"b": "trial:nct06708416",
-"r": "investigator"
+"a": "person:piotr-krzysztof-krajewski",
+"b": "org:wroclaw-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:piotr-krzysztof-krajewski",
+"b": "paper:pmid-34131967",
+"r": "authored"
+},
+{
+"a": "person:po-jen-hsiao",
+"b": "org:national-central-university",
+"r": "affiliated"
+},
+{
+"a": "person:po-jen-hsiao",
+"b": "org:tri-service-general-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:po-jen-hsiao",
+"b": "paper:pmid-34247246",
+"r": "authored"
+},
+{
+"a": "person:r-l-wang",
+"b": "org:taoyuan-armed-forces-general-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:r-l-wang",
+"b": "paper:pmid-34247246",
+"r": "authored"
+},
+{
+"a": "person:rachelle-buchbinder",
+"b": "org:cabrini-foundation",
+"r": "affiliated"
+},
+{
+"a": "person:rachelle-buchbinder",
+"b": "org:cabrini-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:rachelle-buchbinder",
+"b": "paper:pmid-33090740",
+"r": "authored"
+},
+{
+"a": "person:raffaele-capasso",
+"b": "org:university-of-naples-federico-ii",
+"r": "affiliated"
+},
+{
+"a": "person:raffaele-capasso",
+"b": "paper:pmid-34649363",
+"r": "authored"
+},
+{
+"a": "person:ralf-hausmann",
+"b": "org:rwth-aachen-university",
+"r": "affiliated"
+},
+{
+"a": "person:ralf-hausmann",
+"b": "org:universitatsklinikum-aachen",
+"r": "affiliated"
+},
+{
+"a": "person:ralf-hausmann",
+"b": "paper:pmid-37531097",
+"r": "authored"
+},
+{
+"a": "person:raquel-abalo",
+"b": "org:consejo-superior-de-investigaciones-cientificas",
+"r": "affiliated"
+},
+{
+"a": "person:raquel-abalo",
+"b": "org:universidad-rey-juan-carlos",
+"r": "affiliated"
+},
+{
+"a": "person:raquel-abalo",
+"b": "paper:pmid-34649363",
+"r": "authored"
+},
+{
+"a": "person:raquel-abalo",
+"b": "paper:pmid-35418856",
+"r": "authored"
+},
+{
+"a": "person:reinhart-speeckaert",
+"b": "org:ghent-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:reinhart-speeckaert",
+"b": "paper:pmid-38251780",
+"r": "authored"
+},
+{
+"a": "person:rolfdetlef-treede",
+"b": "org:heidelberg-university",
+"r": "affiliated"
+},
+{
+"a": "person:rolfdetlef-treede",
+"b": "org:medizinische-fakultat-mannheim",
+"r": "affiliated"
+},
+{
+"a": "person:rolfdetlef-treede",
+"b": "paper:pmid-32036431",
+"r": "authored"
+},
+{
+"a": "person:ronald-hoffman",
+"b": "org:icahn-school-of-medicine-at-mount-sinai",
+"r": "affiliated"
+},
+{
+"a": "person:ronald-hoffman",
+"b": "org:tisch-cancer-institute",
+"r": "affiliated"
+},
+{
+"a": "person:ronald-hoffman",
+"b": "paper:pmid-39556352",
+"r": "authored"
+},
+{
+"a": "person:samar-khalil",
+"b": "org:american-university-of-beirut",
+"r": "affiliated"
+},
+{
+"a": "person:samar-khalil",
+"b": "org:american-university-of-beirut-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:samar-khalil",
+"b": "paper:pmid-32497688",
+"r": "authored"
+},
+{
+"a": "person:sanjairaj-vijayavenkataraman",
+"b": "org:new-york-university",
+"r": "affiliated"
+},
+{
+"a": "person:sanjairaj-vijayavenkataraman",
+"b": "org:new-york-university-abu-dhabi",
+"r": "affiliated"
+},
+{
+"a": "person:sharon-aharoni",
+"b": "org:schneider-children-s-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:sharon-aharoni",
+"b": "org:tel-aviv-university",
+"r": "affiliated"
+},
+{
+"a": "person:sharon-aharoni",
+"b": "paper:pmid-32133669",
+"r": "authored"
+},
+{
+"a": "person:shilpa-mehta",
+"b": "org:john-h-stroger-jr-hospital-of-cook-county",
+"r": "affiliated"
+},
+{
+"a": "person:shilpa-mehta",
+"b": "paper:pmid-37364617",
+"r": "authored"
+},
+{
+"a": "person:solomon-hailemariam-tesfaye",
+"b": "org:royal-hallamshire-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:solomon-hailemariam-tesfaye",
+"b": "org:sheffield-teaching-hospitals-nhs-foundation-trust",
+"r": "affiliated"
+},
+{
+"a": "person:solomon-hailemariam-tesfaye",
+"b": "paper:pmid-34050323",
+"r": "authored"
+},
+{
+"a": "person:sophia-kriegeskorte",
+"b": "org:rwth-aachen-university",
+"r": "affiliated"
+},
+{
+"a": "person:sophia-kriegeskorte",
+"b": "org:universitatsklinikum-aachen",
+"r": "affiliated"
+},
+{
+"a": "person:sophia-kriegeskorte",
+"b": "paper:pmid-37531097",
+"r": "authored"
+},
+{
+"a": "person:sren-schou-olesen",
+"b": "org:aalborg-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:sren-schou-olesen",
+"b": "org:mech-sense",
+"r": "affiliated"
+},
+{
+"a": "person:sren-schou-olesen",
+"b": "paper:pmid-31907359",
+"r": "authored"
+},
+{
+"a": "person:stephen-g-waxman",
+"b": "org:va-connecticut-healthcare-system",
+"r": "affiliated"
+},
+{
+"a": "person:stephen-g-waxman",
+"b": "org:yale-university",
+"r": "affiliated"
+},
+{
+"a": "person:stephen-g-waxman",
+"b": "paper:pmid-34557669",
+"r": "authored"
+},
+{
+"a": "person:stephen-g-waxman",
+"b": "paper:pmid-35088838",
+"r": "authored"
+},
+{
+"a": "person:stephen-g-waxman",
+"b": "paper:pmid-37846879",
+"r": "authored"
+},
+{
+"a": "person:stephen-g-waxman",
+"b": "paper:pmid-39378238",
+"r": "authored"
+},
+{
+"a": "person:steven-j-middleton",
+"b": "org:university-of-oxford",
+"r": "affiliated"
+},
+{
+"a": "person:steven-j-middleton",
+"b": "paper:pmid-37792955",
+"r": "authored"
+},
+{
+"a": "person:steven-paul-cohen",
+"b": "org:johns-hopkins-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:steven-paul-cohen",
+"b": "org:johns-hopkins-university",
+"r": "affiliated"
+},
+{
+"a": "person:steven-paul-cohen",
+"b": "org:uniformed-services-university-of-the-health-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:steven-paul-cohen",
+"b": "paper:pmid-34062143",
+"r": "authored"
+},
+{
+"a": "person:steven-paul-cohen",
+"b": "paper:pmid-34062145",
+"r": "authored"
+},
+{
+"a": "person:steven-paul-cohen",
+"b": "paper:pmid-34115979",
+"r": "authored"
+},
+{
+"a": "person:suetonia-c-palmer",
+"b": "org:university-of-otago",
+"r": "affiliated"
+},
+{
+"a": "person:suetonia-c-palmer",
+"b": "paper:pmid-33441402",
+"r": "authored"
+},
+{
+"a": "person:svetlana-blitshteyn",
+"b": "org:university-at-buffalo-state-university-of-new-york",
+"r": "affiliated"
+},
+{
+"a": "person:svetlana-blitshteyn",
+"b": "paper:pmid-36169154",
+"r": "authored"
 },
 {
 "a": "person:sylvain-mathieu",
@@ -5164,6 +9988,181 @@
 "a": "person:sylvain-mathieu",
 "b": "trial:nct07668674",
 "r": "investigator"
+},
+{
+"a": "person:thilo-gambichler",
+"b": "org:ruhr-university-bochum",
+"r": "affiliated"
+},
+{
+"a": "person:thilo-gambichler",
+"b": "paper:pmid-34661927",
+"r": "authored"
+},
+{
+"a": "person:tim-j-lamer",
+"b": "org:mayo-clinic",
+"r": "affiliated"
+},
+{
+"a": "person:tim-j-lamer",
+"b": "paper:pmid-33508884",
+"r": "authored"
+},
+{
+"a": "person:troels-staehelin-jensen",
+"b": "org:aarhus-university",
+"r": "affiliated"
+},
+{
+"a": "person:troels-staehelin-jensen",
+"b": "org:aarhus-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:troels-staehelin-jensen",
+"b": "org:heidelberg-university",
+"r": "affiliated"
+},
+{
+"a": "person:troels-staehelin-jensen",
+"b": "paper:pmid-32584191",
+"r": "authored"
+},
+{
+"a": "person:troels-staehelin-jensen",
+"b": "paper:pmid-33711103",
+"r": "authored"
+},
+{
+"a": "person:vincenzo-picone",
+"b": "org:federico-ii-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:vincenzo-picone",
+"b": "org:university-of-naples-federico-ii",
+"r": "affiliated"
+},
+{
+"a": "person:vincenzo-picone",
+"b": "paper:pmid-34750923",
+"r": "authored"
+},
+{
+"a": "person:wenlun-wang",
+"b": "org:national-university-of-defense-technology",
+"r": "affiliated"
+},
+{
+"a": "person:wenlun-wang",
+"b": "paper:pmid-34178980",
+"r": "authored"
+},
+{
+"a": "person:william-michael-hooten",
+"b": "org:mayo-clinic",
+"r": "affiliated"
+},
+{
+"a": "person:william-michael-hooten",
+"b": "paper:pmid-34062143",
+"r": "authored"
+},
+{
+"a": "person:winfried-hauser",
+"b": "org:klinikum-saarbrucken",
+"r": "affiliated"
+},
+{
+"a": "person:winfried-hauser",
+"b": "org:technical-university-of-munich",
+"r": "affiliated"
+},
+{
+"a": "person:winfried-hauser",
+"b": "paper:pmid-34062144",
+"r": "authored"
+},
+{
+"a": "person:wolfgang-loscher",
+"b": "org:university-of-veterinary-medicine-hannover-foundation",
+"r": "affiliated"
+},
+{
+"a": "person:wolfgang-loscher",
+"b": "paper:pmid-34145528",
+"r": "authored"
+},
+{
+"a": "person:xavier-moisset",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:xavier-moisset",
+"b": "org:universite-clermont-auvergne",
+"r": "affiliated"
+},
+{
+"a": "person:xavier-moisset",
+"b": "paper:pmid-32276788",
+"r": "authored"
+},
+{
+"a": "person:xiaobing-yu",
+"b": "org:university-of-california-san-francisco",
+"r": "affiliated"
+},
+{
+"a": "person:xiaobing-yu",
+"b": "paper:pmid-31937758",
+"r": "authored"
+},
+{
+"a": "person:xiaochong-fan",
+"b": "org:first-affiliated-hospital-of-zhengzhou-university",
+"r": "affiliated"
+},
+{
+"a": "person:xiaochong-fan",
+"b": "org:zhengzhou-university",
+"r": "affiliated"
+},
+{
+"a": "person:xiaochong-fan",
+"b": "paper:pmid-32652278",
+"r": "authored"
+},
+{
+"a": "person:yinhui-zhou",
+"b": "org:first-affiliated-hospital-of-zhengzhou-university",
+"r": "affiliated"
+},
+{
+"a": "person:yinhui-zhou",
+"b": "org:zhengzhou-university",
+"r": "affiliated"
+},
+{
+"a": "person:yinhui-zhou",
+"b": "paper:pmid-32652278",
+"r": "authored"
+},
+{
+"a": "person:zaza-putkaradze",
+"b": "org:centre-hospitalier-universitaire-de-grenoble",
+"r": "affiliated"
+},
+{
+"a": "person:zaza-putkaradze",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:zaza-putkaradze",
+"b": "paper:pmid-32337731",
+"r": "authored"
 }
 ]
 }

@@ -3,7 +3,8 @@
 "updated": "2026-10-14",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
-"trials": 19
+"trials": 19,
+"papers": 35
 },
 "nodes": [
 {
@@ -51,14 +52,6 @@
 "t": "company",
 "n": "Novo Nordisk A/S",
 "sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:clinical-transparency-dept-2834",
-"t": "person",
-"n": "Clinical Transparency (dept. 2834)",
-"sub": "study director · Novo Nordisk A/S",
 "url": "",
 "c": ""
 },
@@ -173,22 +166,6 @@
 "sub": "",
 "url": "",
 "c": ""
-},
-{
-"k": "org:research-site",
-"t": "company",
-"n": "Research Site",
-"sub": "",
-"url": "",
-"c": "Australia"
-},
-{
-"k": "org:research-site-2",
-"t": "company",
-"n": "Research Site 2",
-"sub": "",
-"url": "",
-"c": "Georgia"
 },
 {
 "k": "drug:aro-inhbe",
@@ -391,14 +368,6 @@
 "c": ""
 },
 {
-"k": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
-"t": "person",
-"n": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 8 AM - 8 PM Eastern time (",
-"sub": "study director · Eli Lilly and Company",
-"url": "",
-"c": ""
-},
-{
 "k": "org:clinical-research-institute-of-arizona-cri-sun-city-west",
 "t": "hospital",
 "n": "Clinical Research Institute of Arizona (CRI) - Sun City West",
@@ -493,62 +462,6 @@
 "sub": "P1/P2 · recruiting · 2025-2027",
 "url": "https://clinicaltrials.gov/study/NCT06937203",
 "c": ""
-},
-{
-"k": "org:research-site-8",
-"t": "company",
-"n": "Research Site 8",
-"sub": "",
-"url": "",
-"c": "Australia"
-},
-{
-"k": "org:research-site-7",
-"t": "company",
-"n": "Research Site 7",
-"sub": "",
-"url": "",
-"c": "Australia"
-},
-{
-"k": "org:research-site-5",
-"t": "company",
-"n": "Research Site 5",
-"sub": "",
-"url": "",
-"c": "New Zealand"
-},
-{
-"k": "org:research-site-6",
-"t": "company",
-"n": "Research Site 6",
-"sub": "",
-"url": "",
-"c": "New Zealand"
-},
-{
-"k": "org:research-site-3",
-"t": "company",
-"n": "Research Site 3",
-"sub": "",
-"url": "",
-"c": "New Zealand"
-},
-{
-"k": "org:research-site-1",
-"t": "company",
-"n": "Research Site 1",
-"sub": "",
-"url": "",
-"c": "New Zealand"
-},
-{
-"k": "org:research-site-4",
-"t": "company",
-"n": "Research Site 4",
-"sub": "",
-"url": "",
-"c": "New Zealand"
 },
 {
 "k": "drug:aro-alk7",
@@ -855,86 +768,6 @@
 "c": ""
 },
 {
-"k": "org:viking-clinical-site-1037",
-"t": "hospital",
-"n": "Viking Clinical Site #1037",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:viking-clinical-site-1064",
-"t": "hospital",
-"n": "Viking Clinical Site #1064",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:viking-clinical-site-1128",
-"t": "hospital",
-"n": "Viking Clinical Site #1128",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:viking-clinical-site-1081",
-"t": "hospital",
-"n": "Viking Clinical Site #1081",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:viking-clinical-site-1005",
-"t": "hospital",
-"n": "Viking Clinical Site #1005",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:viking-clinical-site-1017",
-"t": "hospital",
-"n": "Viking Clinical Site #1017",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:viking-clinical-site-1018",
-"t": "hospital",
-"n": "Viking Clinical Site #1018",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:viking-clinical-site-1135",
-"t": "hospital",
-"n": "Viking Clinical Site #1135",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:viking-clinical-site-1019",
-"t": "hospital",
-"n": "Viking Clinical Site #1019",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:viking-clinical-site-1036",
-"t": "hospital",
-"n": "Viking Clinical Site #1036",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "trial:nct05537233",
 "t": "trial",
 "n": "ADJUnct Semaglutide Treatment in Type 1 Diabetes",
@@ -1124,7 +957,7 @@
 "n": "University of Oxford",
 "sub": "",
 "url": "",
-"c": ""
+"c": "GB"
 },
 {
 "k": "person:arash-yavari-bsc-dphil",
@@ -1163,6 +996,1686 @@
 "t": "drug",
 "n": "ALN-KHK",
 "sub": "Alnylam Pharmaceuticals",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-37356446",
+"t": "paper",
+"n": "Global, regional, and national burden of diabetes from 1990 to 2021, with projections of p",
+"sub": "The Lancet 2023 · cited 4673",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37356446",
+"c": ""
+},
+{
+"k": "person:kanyin-liane-ong",
+"t": "person",
+"n": "Kanyin Liane Ong",
+"sub": "University of Washington",
+"url": "https://orcid.org/0000-0003-0662-1601",
+"c": "US"
+},
+{
+"k": "org:university-of-washington",
+"t": "academic",
+"n": "University of Washington",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:institute-for-health-metrics-and-evaluation",
+"t": "academic",
+"n": "Institute for Health Metrics and Evaluation",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:national-science-and-technology-council",
+"t": "funder",
+"n": "National Science and Technology Council",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:american-diabetes-association",
+"t": "funder",
+"n": "American Diabetes Association",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:u-s-department-of-veterans-affairs",
+"t": "funder",
+"n": "U.S. Department of Veterans Affairs",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:bill-and-melinda-gates-foundation",
+"t": "funder",
+"n": "Bill and Melinda Gates Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36727674",
+"t": "paper",
+"n": "AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty li",
+"sub": "Hepatology 2023 · cited 2589",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36727674",
+"c": ""
+},
+{
+"k": "person:mary-eugenia-rinella",
+"t": "person",
+"n": "Mary Eugenia Rinella",
+"sub": "University of Chicago",
+"url": "https://orcid.org/0000-0003-0620-9705",
+"c": "US"
+},
+{
+"k": "org:university-of-chicago",
+"t": "academic",
+"n": "University of Chicago",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:rohit-seth-loomba",
+"t": "person",
+"n": "Rohit Seth Loomba",
+"sub": "University of California San Diego",
+"url": "https://orcid.org/0000-0002-4845-9991",
+"c": "US"
+},
+{
+"k": "org:university-of-california-san-diego",
+"t": "academic",
+"n": "University of California San Diego",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:bristol-myers-squibb",
+"t": "funder",
+"n": "Bristol-Myers Squibb",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:american-association-for-the-study-of-liver-diseases",
+"t": "funder",
+"n": "American Association for the Study of Liver Diseases",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:ngm-biopharmaceuticals",
+"t": "funder",
+"n": "NGM Biopharmaceuticals",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:novo-nordisk",
+"t": "funder",
+"n": "Novo Nordisk",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33667417",
+"t": "paper",
+"n": "Semaglutide 2·4 mg once a week in adults with overweight or obesity, and type 2 diabetes (",
+"sub": "The Lancet 2021 · cited 1393",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33667417",
+"c": ""
+},
+{
+"k": "person:melanie-jane-davies",
+"t": "person",
+"n": "Melanie Jane Davies",
+"sub": "University of Leicester",
+"url": "https://orcid.org/0000-0002-9987-9371",
+"c": "GB"
+},
+{
+"k": "org:university-of-leicester",
+"t": "academic",
+"n": "University of Leicester",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:nihr-leicester-biomedical-research-centre",
+"t": "academic",
+"n": "NIHR Leicester Biomedical Research Centre",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:ildiko-lingvay",
+"t": "person",
+"n": "Ildiko Lingvay",
+"sub": "The University of Texas Southwestern Medical Center",
+"url": "https://orcid.org/0000-0001-7006-7401",
+"c": "US"
+},
+{
+"k": "org:the-university-of-texas-southwestern-medical-center",
+"t": "hospital",
+"n": "The University of Texas Southwestern Medical Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-37505311",
+"t": "paper",
+"n": "Gut microbiota, intestinal permeability, and systemic inflammation: a narrative review",
+"sub": "Internal and Emergency Medicine 2023 · cited 1371",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37505311",
+"c": ""
+},
+{
+"k": "person:federica-di-vincenzo",
+"t": "person",
+"n": "Federica Di Vincenzo",
+"sub": "Università Cattolica del Sacro Cuore",
+"url": "https://orcid.org/0000-0002-5347-7641",
+"c": "IT"
+},
+{
+"k": "org:universita-cattolica-del-sacro-cuore",
+"t": "academic",
+"n": "Università Cattolica del Sacro Cuore",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:agostino-gemelli-university-polyclinic",
+"t": "hospital",
+"n": "Agostino Gemelli University Polyclinic",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:franco-scaldaferri",
+"t": "person",
+"n": "Franco Scaldaferri",
+"sub": "Università Cattolica del Sacro Cuore",
+"url": "https://orcid.org/0000-0001-8334-7541",
+"c": "IT"
+},
+{
+"k": "org:fondazione-roma",
+"t": "funder",
+"n": "Fondazione Roma",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-35569886",
+"t": "paper",
+"n": "American Association of Clinical Endocrinology Clinical Practice Guideline for the Diagnos",
+"sub": "Endocrine Practice 2022 · cited 1003",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35569886",
+"c": ""
+},
+{
+"k": "person:kenneth-j-cusi",
+"t": "person",
+"n": "Kenneth J. Cusi",
+"sub": "University of Florida Health",
+"url": "https://orcid.org/0000-0002-8629-418X",
+"c": "US"
+},
+{
+"k": "org:university-of-florida-health",
+"t": "academic",
+"n": "University of Florida Health",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:university-of-florida",
+"t": "academic",
+"n": "University of Florida",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:zobair-m-younossi",
+"t": "person",
+"n": "Zobair M. Younossi",
+"sub": "Inova Health System",
+"url": "https://orcid.org/0000-0001-9313-577X",
+"c": "US"
+},
+{
+"k": "org:inova-health-system",
+"t": "hospital",
+"n": "Inova Health System",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-35041752",
+"t": "paper",
+"n": "A Clinical Update on Gestational Diabetes Mellitus",
+"sub": "Endocrine Reviews 2022 · cited 914",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35041752",
+"c": ""
+},
+{
+"k": "person:arianne-sweeting",
+"t": "person",
+"n": "Arianne Sweeting",
+"sub": "The University of Sydney",
+"url": "https://orcid.org/0000-0001-6843-6247",
+"c": "AU"
+},
+{
+"k": "org:the-university-of-sydney",
+"t": "academic",
+"n": "The University of Sydney",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "org:royal-prince-alfred-hospital",
+"t": "hospital",
+"n": "Royal Prince Alfred Hospital",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "person:glynis-p-ross",
+"t": "person",
+"n": "Glynis P. Ross",
+"sub": "The University of Sydney",
+"url": "https://orcid.org/0000-0002-9962-052X",
+"c": "AU"
+},
+{
+"k": "org:national-health-and-medical-research-council",
+"t": "funder",
+"n": "National Health and Medical Research Council",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32798471",
+"t": "paper",
+"n": "Risk factors for COVID-19-related mortality in people with type 1 and type 2 diabetes in E",
+"sub": "The Lancet Diabetes & Endocrinology 2020 · cited 905",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32798471",
+"c": ""
+},
+{
+"k": "person:naomi-holman",
+"t": "person",
+"n": "Naomi Holman",
+"sub": "NHS Digital",
+"url": "https://orcid.org/0000-0002-7432-5786",
+"c": "GB"
+},
+{
+"k": "org:nhs-digital",
+"t": "funder",
+"n": "NHS Digital",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:nhs-england",
+"t": "funder",
+"n": "NHS England",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:jonathan-valabhji",
+"t": "person",
+"n": "Jonathan Valabhji",
+"sub": "Imperial College Healthcare NHS Trust",
+"url": "https://orcid.org/0000-0001-9756-4061",
+"c": "GB"
+},
+{
+"k": "org:imperial-college-healthcare-nhs-trust",
+"t": "hospital",
+"n": "Imperial College Healthcare NHS Trust",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:st-mary-s-hospital",
+"t": "hospital",
+"n": "St Mary's Hospital",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:novartis",
+"t": "funder",
+"n": "Novartis",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:sanofi",
+"t": "funder",
+"n": "Sanofi",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32687793",
+"t": "paper",
+"n": "COVID-19 in people with diabetes: understanding the reasons for worse outcomes",
+"sub": "The Lancet Diabetes & Endocrinology 2020 · cited 903",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32687793",
+"c": ""
+},
+{
+"k": "person:matteo-apicella",
+"t": "person",
+"n": "Matteo Apicella",
+"sub": "University of Pisa",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:university-of-pisa",
+"t": "academic",
+"n": "University of Pisa",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:stefano-del-prato",
+"t": "person",
+"n": "Stefano Del Prato",
+"sub": "University of Pisa",
+"url": "https://orcid.org/0000-0002-5388-0270",
+"c": "IT"
+},
+{
+"k": "org:universita-di-pisa",
+"t": "funder",
+"n": "Università di Pisa",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-35296864",
+"t": "paper",
+"n": "A single-cell atlas of human and mouse white adipose tissue",
+"sub": "Nature 2022 · cited 826",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35296864",
+"c": ""
+},
+{
+"k": "person:margo-p-emont",
+"t": "person",
+"n": "Margo P. Emont",
+"sub": "Broad Institute",
+"url": "https://orcid.org/0000-0001-9873-2784",
+"c": "US"
+},
+{
+"k": "org:broad-institute",
+"t": "foundation",
+"n": "Broad Institute",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:beth-israel-deaconess-medical-center",
+"t": "hospital",
+"n": "Beth Israel Deaconess Medical Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:evan-d-rosen",
+"t": "person",
+"n": "Evan D. Rosen",
+"sub": "Broad Institute",
+"url": "https://orcid.org/0000-0003-4603-708X",
+"c": "US"
+},
+{
+"k": "org:foundation-for-the-national-institutes-of-health",
+"t": "funder",
+"n": "Foundation for the National Institutes of Health",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:boston-area-diabetes-endocrinology-research-center",
+"t": "funder",
+"n": "Boston Area Diabetes Endocrinology Research Center",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:lundbeckfonden",
+"t": "funder",
+"n": "Lundbeckfonden",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-37385275",
+"t": "paper",
+"n": "Tirzepatide once weekly for the treatment of obesity in people with type 2 diabetes (SURMO",
+"sub": "The Lancet 2023 · cited 773",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37385275",
+"c": ""
+},
+{
+"k": "person:william-timothy-garvey",
+"t": "person",
+"n": "William Timothy Garvey",
+"sub": "University of Alabama at Birmingham",
+"url": "https://orcid.org/0000-0003-0822-0860",
+"c": "US"
+},
+{
+"k": "org:university-of-alabama-at-birmingham",
+"t": "academic",
+"n": "University of Alabama at Birmingham",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:william-t-garvey",
+"t": "person",
+"n": "William T. Garvey",
+"sub": "University of Alabama at Birmingham",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:thomas-jones",
+"t": "person",
+"n": "Thomas Jones",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-center-for-advancing-translational-sciences",
+"t": "funder",
+"n": "National Center for Advancing Translational Sciences",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-38015216",
+"t": "paper",
+"n": "Obesity Management in Adults",
+"sub": "JAMA 2023 · cited 748",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38015216",
+"c": ""
+},
+{
+"k": "person:arielle-elmaleh-sachs",
+"t": "person",
+"n": "Arielle Elmaleh-Sachs",
+"sub": "NYU Langone Health",
+"url": "https://orcid.org/0009-0004-0666-1501",
+"c": "US"
+},
+{
+"k": "org:nyu-langone-health",
+"t": "hospital",
+"n": "NYU Langone Health",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:new-york-university",
+"t": "academic",
+"n": "New York University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:melanie-r-jay",
+"t": "person",
+"n": "Melanie R Jay",
+"sub": "VA NY Harbor Healthcare System",
+"url": "https://orcid.org/0000-0001-7343-3120",
+"c": "US"
+},
+{
+"k": "org:va-ny-harbor-healthcare-system",
+"t": "hospital",
+"n": "VA NY Harbor Healthcare System",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-38587233",
+"t": "paper",
+"n": "Semaglutide in Patients with Obesity-Related Heart Failure and Type 2 Diabetes",
+"sub": "New England Journal of Medicine 2024 · cited 740",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38587233",
+"c": ""
+},
+{
+"k": "person:mikhail-kosiborod",
+"t": "person",
+"n": "Mikhail Kosiborod",
+"sub": "University of Copenhagen",
+"url": "https://orcid.org/0000-0002-3750-9789",
+"c": "DK"
+},
+{
+"k": "org:university-of-copenhagen",
+"t": "academic",
+"n": "University of Copenhagen",
+"sub": "",
+"url": "",
+"c": "DK"
+},
+{
+"k": "org:mayo-clinic",
+"t": "hospital",
+"n": "Mayo Clinic",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:sanjiv-jayendra-shah",
+"t": "person",
+"n": "Sanjiv Jayendra Shah",
+"sub": "University of Copenhagen",
+"url": "https://orcid.org/0000-0002-5655-8201",
+"c": "DK"
+},
+{
+"k": "paper:pmid-33175566",
+"t": "paper",
+"n": "Sixty-Day Outcomes Among Patients Hospitalized With COVID-19",
+"sub": "Annals of Internal Medicine 2020 · cited 724",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33175566",
+"c": ""
+},
+{
+"k": "person:vineet-chopra",
+"t": "person",
+"n": "Vineet Chopra",
+"sub": "University of Michigan",
+"url": "https://orcid.org/0000-0001-8670-9376",
+"c": "US"
+},
+{
+"k": "org:university-of-michigan",
+"t": "academic",
+"n": "University of Michigan",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:michigan-medicine",
+"t": "hospital",
+"n": "Michigan Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:hallie-c-prescott",
+"t": "person",
+"n": "Hallie C. Prescott",
+"sub": "University of Michigan",
+"url": "https://orcid.org/0000-0002-8442-6724",
+"c": "US"
+},
+{
+"k": "paper:pmid-33917519",
+"t": "paper",
+"n": "Chronic Low Grade Inflammation in Pathogenesis of PCOS",
+"sub": "International Journal of Molecular Sciences 2021 · cited 675",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33917519",
+"c": ""
+},
+{
+"k": "person:ewa-rudnicka",
+"t": "person",
+"n": "Ewa Rudnicka",
+"sub": "Medical University of Warsaw",
+"url": "https://orcid.org/0000-0002-3936-5598",
+"c": "PL"
+},
+{
+"k": "org:medical-university-of-warsaw",
+"t": "academic",
+"n": "Medical University of Warsaw",
+"sub": "",
+"url": "",
+"c": "PL"
+},
+{
+"k": "person:bazej-meczekalski",
+"t": "person",
+"n": "Błażej Męczekalski",
+"sub": "Poznan University of Medical Sciences",
+"url": "https://orcid.org/0000-0002-0761-5775",
+"c": "PL"
+},
+{
+"k": "org:poznan-university-of-medical-sciences",
+"t": "academic",
+"n": "Poznan University of Medical Sciences",
+"sub": "",
+"url": "",
+"c": "PL"
+},
+{
+"k": "paper:pmid-36672434",
+"t": "paper",
+"n": "Obesity and Cancer: A Current Overview of Epidemiology, Pathogenesis, Outcomes, and Manage",
+"sub": "Cancers 2023 · cited 670",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36672434",
+"c": ""
+},
+{
+"k": "person:sukanya-pati",
+"t": "person",
+"n": "Sukanya Pati",
+"sub": "University of Saskatchewan",
+"url": "https://orcid.org/0000-0002-6553-5810",
+"c": "CA"
+},
+{
+"k": "org:university-of-saskatchewan",
+"t": "academic",
+"n": "University of Saskatchewan",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "person:shahid-ahmed",
+"t": "person",
+"n": "Shahid Ahmed",
+"sub": "University of Saskatchewan",
+"url": "https://orcid.org/0000-0002-2099-698X",
+"c": "CA"
+},
+{
+"k": "org:saskatchewan-cancer-agency",
+"t": "foundation",
+"n": "Saskatchewan Cancer Agency",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "person:rabia-k-shahid",
+"t": "person",
+"n": "Rabia K. Shahid",
+"sub": "University of Saskatchewan",
+"url": "https://orcid.org/0000-0001-5864-6670",
+"c": "CA"
+},
+{
+"k": "paper:pmid-40878289",
+"t": "paper",
+"n": "2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias",
+"sub": "European Heart Journal 2025 · cited 646",
+"url": "https://pubmed.ncbi.nlm.nih.gov/40878289",
+"c": ""
+},
+{
+"k": "person:francois-mach",
+"t": "person",
+"n": "François Mach",
+"sub": "",
+"url": "https://orcid.org/0000-0003-3178-9131",
+"c": ""
+},
+{
+"k": "person:konstantinos-c-koskinas",
+"t": "person",
+"n": "Konstantinos C. Koskinas",
+"sub": "",
+"url": "https://orcid.org/0000-0002-5589-7762",
+"c": ""
+},
+{
+"k": "person:jeanine-e-roeters-van-lennep",
+"t": "person",
+"n": "Jeanine E. Roeters van Lennep",
+"sub": "",
+"url": "https://orcid.org/0000-0001-6870-9962",
+"c": ""
+},
+{
+"k": "paper:pmid-32215168",
+"t": "paper",
+"n": "PGC-1 α , Inflammation, and Oxidative Stress: An Integrative View in Metabolism",
+"sub": "Oxidative Medicine and Cellular Longevity 2020 · cited 640",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32215168",
+"c": ""
+},
+{
+"k": "person:sergio-riusperez",
+"t": "person",
+"n": "Sergio Rius‐Pérez",
+"sub": "Universitat de València",
+"url": "https://orcid.org/0000-0002-8997-7621",
+"c": "ES"
+},
+{
+"k": "org:universitat-de-valencia",
+"t": "academic",
+"n": "Universitat de València",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "person:salvador-perez",
+"t": "person",
+"n": "Salvador Pérez",
+"sub": "Universitat de València",
+"url": "https://orcid.org/0000-0003-0766-1744",
+"c": "ES"
+},
+{
+"k": "org:generalitat-valenciana",
+"t": "funder",
+"n": "Generalitat Valenciana",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-37857245",
+"t": "paper",
+"n": "Diabetes mellitus: Classification, mediators, and complications; A gate to identify potent",
+"sub": "Biomedicine & Pharmacotherapy 2023 · cited 621",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37857245",
+"c": ""
+},
+{
+"k": "person:samar-a-antar",
+"t": "person",
+"n": "Samar A. Antar",
+"sub": "Horus University – Egypt",
+"url": "https://orcid.org/0000-0002-1223-3579",
+"c": "EG"
+},
+{
+"k": "org:horus-university-egypt",
+"t": "academic",
+"n": "Horus University – Egypt",
+"sub": "",
+"url": "",
+"c": "EG"
+},
+{
+"k": "org:virginia-tech",
+"t": "academic",
+"n": "Virginia Tech",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:ahmed-elkamhawy",
+"t": "person",
+"n": "Ahmed Elkamhawy",
+"sub": "Mansoura University",
+"url": "https://orcid.org/0000-0001-7398-6155",
+"c": "EG"
+},
+{
+"k": "org:mansoura-university",
+"t": "academic",
+"n": "Mansoura University",
+"sub": "",
+"url": "",
+"c": "EG"
+},
+{
+"k": "org:dongguk-university",
+"t": "academic",
+"n": "Dongguk University",
+"sub": "",
+"url": "",
+"c": "KR"
+},
+{
+"k": "person:ahmed-ali-al-karmalawy",
+"t": "person",
+"n": "Ahmed Ali Al-Karmalawy",
+"sub": "Horus University – Egypt",
+"url": "https://orcid.org/0000-0002-8173-6073",
+"c": "EG"
+},
+{
+"k": "org:ahram-canadian-university",
+"t": "academic",
+"n": "Ahram Canadian University",
+"sub": "",
+"url": "",
+"c": "EG"
+},
+{
+"k": "org:ministry-of-science-ict-and-future-planning",
+"t": "funder",
+"n": "Ministry of Science, ICT and Future Planning",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:korea-institute-of-science-and-technology",
+"t": "funder",
+"n": "Korea Institute of Science and Technology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:korea-drug-development-fund",
+"t": "funder",
+"n": "Korea Drug Development Fund",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-research-council-of-science-and-technology",
+"t": "funder",
+"n": "National Research Council of Science and Technology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-35000404",
+"t": "paper",
+"n": "Comprehensive Management of Cardiovascular Risk Factors for Adults With Type 2 Diabetes: A",
+"sub": "Circulation 2022 · cited 617",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35000404",
+"c": ""
+},
+{
+"k": "person:joshua-j-joseph",
+"t": "person",
+"n": "Joshua J. Joseph",
+"sub": "",
+"url": "https://orcid.org/0000-0001-9169-8261",
+"c": ""
+},
+{
+"k": "person:laurence-s-sperling",
+"t": "person",
+"n": "Laurence S. Sperling",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32764725",
+"t": "paper",
+"n": "The therapeutic potential of FGF21 in metabolic diseases: from bench to clinic",
+"sub": "Nature Reviews Endocrinology 2020 · cited 601",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32764725",
+"c": ""
+},
+{
+"k": "person:leiluo-geng",
+"t": "person",
+"n": "Leiluo Geng",
+"sub": "University of Hong Kong",
+"url": "https://orcid.org/0000-0003-2886-3476",
+"c": "HK"
+},
+{
+"k": "org:university-of-hong-kong",
+"t": "academic",
+"n": "University of Hong Kong",
+"sub": "",
+"url": "",
+"c": "HK"
+},
+{
+"k": "person:aimin-xu",
+"t": "person",
+"n": "Aimin Xu",
+"sub": "University of Hong Kong",
+"url": "https://orcid.org/0000-0002-0668-033X",
+"c": "HK"
+},
+{
+"k": "paper:pmid-40353578",
+"t": "paper",
+"n": "Tirzepatide as Compared with Semaglutide for the Treatment of Obesity",
+"sub": "New England Journal of Medicine 2025 · cited 601",
+"url": "https://pubmed.ncbi.nlm.nih.gov/40353578",
+"c": ""
+},
+{
+"k": "person:louis-j-aronne",
+"t": "person",
+"n": "Louis J. Aronne",
+"sub": "Weill Cornell Medicine",
+"url": "https://orcid.org/0000-0002-9890-9401",
+"c": "US"
+},
+{
+"k": "org:weill-cornell-medicine",
+"t": "academic",
+"n": "Weill Cornell Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:julia-p-dunn",
+"t": "person",
+"n": "Julia P. Dunn",
+"sub": "Eli Lilly (United States)",
+"url": "https://orcid.org/0000-0001-9561-0183",
+"c": "US"
+},
+{
+"k": "org:eli-lilly-united-states",
+"t": "company",
+"n": "Eli Lilly (United States)",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-34216571",
+"t": "paper",
+"n": "SGLT2 inhibitors and GLP-1 receptor agonists: established and emerging indications",
+"sub": "The Lancet 2021 · cited 575",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34216571",
+"c": ""
+},
+{
+"k": "person:emily-e-brown",
+"t": "person",
+"n": "Emily E. Brown",
+"sub": "University of Liverpool",
+"url": "https://orcid.org/0000-0003-1097-0580",
+"c": "GB"
+},
+{
+"k": "org:university-of-liverpool",
+"t": "academic",
+"n": "University of Liverpool",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:liverpool-university-hospitals-nhs-foundation-trust",
+"t": "hospital",
+"n": "Liverpool University Hospitals NHS Foundation Trust",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:daniel-james-cuthbertson",
+"t": "person",
+"n": "Daniel James Cuthbertson",
+"sub": "University of Liverpool",
+"url": "https://orcid.org/0000-0002-6128-0822",
+"c": "GB"
+},
+{
+"k": "person:john-p-h-wilding",
+"t": "person",
+"n": "John P.H. Wilding",
+"sub": "University of Liverpool",
+"url": "https://orcid.org/0000-0003-2839-8404",
+"c": "GB"
+},
+{
+"k": "paper:pmid-33485454",
+"t": "paper",
+"n": "Metabolic surgery versus conventional medical therapy in patients with type 2 diabetes: 10",
+"sub": "The Lancet 2021 · cited 568",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33485454",
+"c": ""
+},
+{
+"k": "person:geltrude-mingrone",
+"t": "person",
+"n": "Geltrude Mingrone",
+"sub": "Università Cattolica del Sacro Cuore",
+"url": "https://orcid.org/0000-0003-2021-528X",
+"c": "IT"
+},
+{
+"k": "org:king-s-college-london",
+"t": "academic",
+"n": "King's College London",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:francesco-rubino",
+"t": "person",
+"n": "Francesco Rubino",
+"sub": "King's College London",
+"url": "https://orcid.org/0000-0001-8581-2515",
+"c": "GB"
+},
+{
+"k": "org:king-s-college-hospital",
+"t": "hospital",
+"n": "King's College Hospital",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "paper:pmid-36977782",
+"t": "paper",
+"n": "Glucagon-like peptide 1 receptor agonists: cardiovascular benefits and mechanisms of actio",
+"sub": "Nature Reviews Cardiology 2023 · cited 566",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36977782",
+"c": ""
+},
+{
+"k": "person:john-r-ussher",
+"t": "person",
+"n": "John R. Ussher",
+"sub": "University of Alberta",
+"url": "https://orcid.org/0000-0001-9574-5707",
+"c": "CA"
+},
+{
+"k": "org:university-of-alberta",
+"t": "academic",
+"n": "University of Alberta",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "person:daniel-j-drucker",
+"t": "person",
+"n": "Daniel J. Drucker",
+"sub": "Mount Sinai Hospital",
+"url": "https://orcid.org/0000-0001-6688-8127",
+"c": "CA"
+},
+{
+"k": "org:mount-sinai-hospital",
+"t": "hospital",
+"n": "Mount Sinai Hospital",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "org:lunenfeld-tanenbaum-research-institute",
+"t": "academic",
+"n": "Lunenfeld-Tanenbaum Research Institute",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "paper:pmid-33785495",
+"t": "paper",
+"n": "Multiorgan impairment in low-risk individuals with post-COVID-19 syndrome: a prospective, ",
+"sub": "BMJ Open 2021 · cited 560",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33785495",
+"c": ""
+},
+{
+"k": "person:andrea-dennis",
+"t": "person",
+"n": "Andrea Dennis",
+"sub": "Perspectum Ltd. (United Kingdom)",
+"url": "https://orcid.org/0000-0002-0152-6528",
+"c": "GB"
+},
+{
+"k": "org:perspectum-united-kingdom",
+"t": "company",
+"n": "Perspectum Ltd. (United Kingdom)",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:amitava-banerjee",
+"t": "person",
+"n": "Amitava Banerjee",
+"sub": "University College London Hospitals NHS Foundation Trust",
+"url": "https://orcid.org/0000-0001-8741-3411",
+"c": "GB"
+},
+{
+"k": "org:university-college-london-hospitals-nhs-foundation-trust",
+"t": "hospital",
+"n": "University College London Hospitals NHS Foundation Trust",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:barts-health-nhs-trust",
+"t": "hospital",
+"n": "Barts Health NHS Trust",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:national-institute-for-health-and-care-research",
+"t": "funder",
+"n": "National Institute for Health and Care Research",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:innovate-uk",
+"t": "funder",
+"n": "Innovate UK",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:h2020-innovation-in-smes",
+"t": "funder",
+"n": "H2020 Innovation In SMEs",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33932335",
+"t": "paper",
+"n": "Associations between body-mass index and COVID-19 severity in 6·9 million people in Englan",
+"sub": "The Lancet Diabetes & Endocrinology 2021 · cited 545",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33932335",
+"c": ""
+},
+{
+"k": "person:min-gao",
+"t": "person",
+"n": "Min Gao",
+"sub": "Peking University",
+"url": "https://orcid.org/0000-0001-6196-7088",
+"c": "CN"
+},
+{
+"k": "org:peking-university",
+"t": "academic",
+"n": "Peking University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:carmen-piernas",
+"t": "person",
+"n": "Carmen Piernas",
+"sub": "University of Oxford",
+"url": "https://orcid.org/0000-0002-7536-922X",
+"c": "GB"
+},
+{
+"k": "person:susan-ann-jebb",
+"t": "person",
+"n": "Susan Ann Jebb",
+"sub": "University of Oxford",
+"url": "https://orcid.org/0000-0001-9190-2920",
+"c": "GB"
+},
+{
+"k": "org:nihr-oxford-biomedical-research-centre",
+"t": "funder",
+"n": "NIHR Oxford Biomedical Research Centre",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:cancer-research-uk",
+"t": "funder",
+"n": "Cancer Research UK",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:department-of-health-and-social-care",
+"t": "funder",
+"n": "Department of Health and Social Care",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32730231",
+"t": "paper",
+"n": "Tirzepatide is an imbalanced and biased dual GIP and GLP-1 receptor agonist",
+"sub": "JCI Insight 2020 · cited 530",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32730231",
+"c": ""
+},
+{
+"k": "person:francis-s-willard",
+"t": "person",
+"n": "Francis S. Willard",
+"sub": "Eli Lilly (United States)",
+"url": "https://orcid.org/0000-0002-4260-2451",
+"c": "US"
+},
+{
+"k": "person:kyle-w-sloop",
+"t": "person",
+"n": "Kyle W. Sloop",
+"sub": "",
+"url": "https://orcid.org/0000-0001-6748-9929",
+"c": ""
+},
+{
+"k": "org:national-institutes-of-health",
+"t": "funder",
+"n": "National Institutes of Health",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32278005",
+"t": "paper",
+"n": "Non-alcoholic fatty liver diseases in patients with COVID-19: A retrospective study",
+"sub": "Journal of Hepatology 2020 · cited 525",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32278005",
+"c": ""
+},
+{
+"k": "person:dong-ji",
+"t": "person",
+"n": "Dong Ji",
+"sub": "Chinese PLA General Hospital",
+"url": "https://orcid.org/0000-0001-8214-462X",
+"c": "CN"
+},
+{
+"k": "org:chinese-pla-general-hospital",
+"t": "hospital",
+"n": "Chinese PLA General Hospital",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:george-k-k-lau",
+"t": "person",
+"n": "George K.K. Lau",
+"sub": "Chinese PLA General Hospital",
+"url": "https://orcid.org/0000-0002-8928-3769",
+"c": "CN"
+},
+{
+"k": "org:humanity-health",
+"t": "hospital",
+"n": "Humanity & Health",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:beijing-municipal-science-and-technology-commission",
+"t": "funder",
+"n": "Beijing Municipal Science and Technology Commission",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34381196",
+"t": "paper",
+"n": "GDF15: emerging biology and therapeutic applications for obesity and cardiometabolic disea",
+"sub": "Nature Reviews Endocrinology 2021 · cited 517",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34381196",
+"c": ""
+},
+{
+"k": "person:dongdong-wang",
+"t": "person",
+"n": "Dongdong Wang",
+"sub": "McMaster University",
+"url": "https://orcid.org/0000-0002-6195-4428",
+"c": "CA"
+},
+{
+"k": "org:mcmaster-university",
+"t": "academic",
+"n": "McMaster University",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "person:gregory-r-steinberg",
+"t": "person",
+"n": "Gregory R. Steinberg",
+"sub": "McMaster University",
+"url": "https://orcid.org/0000-0001-5425-8275",
+"c": "CA"
+},
+{
+"k": "org:canadian-institutes-of-health-research",
+"t": "funder",
+"n": "Canadian Institutes of Health Research",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33511092",
+"t": "paper",
+"n": "Childhood and Adolescent Obesity: A Review",
+"sub": "Frontiers in Pediatrics 2021 · cited 514",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33511092",
+"c": ""
+},
+{
+"k": "person:alvina-r-kansra",
+"t": "person",
+"n": "Alvina R. Kansra",
+"sub": "Medical College of Wisconsin",
+"url": "https://orcid.org/0000-0003-0811-622X",
+"c": "US"
+},
+{
+"k": "org:medical-college-of-wisconsin",
+"t": "academic",
+"n": "Medical College of Wisconsin",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:m-susan-jay",
+"t": "person",
+"n": "M. Susan Jay",
+"sub": "Medical College of Wisconsin",
+"url": "https://orcid.org/0000-0002-8640-465X",
+"c": "US"
+},
+{
+"k": "paper:pmid-35963508",
+"t": "paper",
+"n": "American Association of Clinical Endocrinology Clinical Practice Guideline: Developing a D",
+"sub": "Endocrine Practice 2022 · cited 498",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35963508",
+"c": ""
+},
+{
+"k": "person:lawrence-blonde",
+"t": "person",
+"n": "Lawrence Blonde",
+"sub": "Ochsner Health System",
+"url": "https://orcid.org/0000-0003-0492-6698",
+"c": "US"
+},
+{
+"k": "org:ochsner-health-system",
+"t": "hospital",
+"n": "Ochsner Health System",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:sandra-l-weber",
+"t": "person",
+"n": "Sandra L. Weber",
+"sub": "Prisma Health",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:prisma-health",
+"t": "hospital",
+"n": "Prisma Health",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:university-of-south-carolina",
+"t": "academic",
+"n": "University of South Carolina",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-34626851",
+"t": "paper",
+"n": "GLP-1 physiology informs the pharmacotherapy of obesity",
+"sub": "Molecular Metabolism 2021 · cited 497",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34626851",
+"c": ""
+},
+{
+"k": "org:international-development-research-centre",
+"t": "funder",
+"n": "International Development Research Centre",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:israel-science-foundation",
+"t": "funder",
+"n": "Israel Science Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:azrieli-foundation",
+"t": "funder",
+"n": "Azrieli Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-39536238",
+"t": "paper",
+"n": "Tirzepatide for Obesity Treatment and Diabetes Prevention",
+"sub": "New England Journal of Medicine 2024 · cited 447",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39536238",
+"c": ""
+},
+{
+"k": "person:ania-m-jastreboff",
+"t": "person",
+"n": "Ania M. Jastreboff",
+"sub": "University College Dublin",
+"url": "https://orcid.org/0000-0003-1446-0991",
+"c": "IE"
+},
+{
+"k": "org:university-college-dublin",
+"t": "academic",
+"n": "University College Dublin",
+"sub": "",
+"url": "",
+"c": "IE"
+},
+{
+"k": "org:cornell-university",
+"t": "academic",
+"n": "Cornell University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:irina-jouravskaya",
+"t": "person",
+"n": "Irina Jouravskaya",
+"sub": "University College Dublin",
+"url": "https://orcid.org/0009-0008-3180-3638",
+"c": "IE"
+},
+{
+"k": "paper:pmid-33989535",
+"t": "paper",
+"n": "Ethnicity-specific BMI cutoffs for obesity based on type 2 diabetes risk in England: a pop",
+"sub": "The Lancet Diabetes & Endocrinology 2021 · cited 426",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33989535",
+"c": ""
+},
+{
+"k": "person:rishi-caleyachetty",
+"t": "person",
+"n": "Rishi Caleyachetty",
+"sub": "University Hospital Coventry",
+"url": "https://orcid.org/0000-0002-9282-7958",
+"c": "GB"
+},
+{
+"k": "org:university-hospital-coventry",
+"t": "hospital",
+"n": "University Hospital Coventry",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:university-of-warwick",
+"t": "academic",
+"n": "University of Warwick",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:paramjit-singh-gill",
+"t": "person",
+"n": "Paramjit Singh Gill",
+"sub": "University Hospital Coventry",
+"url": "https://orcid.org/0000-0001-8756-6813",
+"c": "GB"
+},
+{
+"k": "org:wellcome-trust",
+"t": "funder",
+"n": "Wellcome Trust",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-college-london",
+"t": "funder",
+"n": "University College London",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-37385278",
+"t": "paper",
+"n": "Oral semaglutide 50 mg taken once per day in adults with overweight or obesity (OASIS 1): ",
+"sub": "The Lancet 2023 · cited 425",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37385278",
+"c": ""
+},
+{
+"k": "person:filip-krag-knop",
+"t": "person",
+"n": "Filip Krag Knop",
+"sub": "University of Copenhagen",
+"url": "https://orcid.org/0000-0002-2495-5034",
+"c": "DK"
+},
+{
+"k": "org:steno-diabetes-centers",
+"t": "hospital",
+"n": "Steno Diabetes Centers",
+"sub": "",
+"url": "",
+"c": "DK"
+},
+{
+"k": "person:w-timothy-garvey",
+"t": "person",
+"n": "W. Timothy Garvey",
+"sub": "University of Alabama at Birmingham",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:steno-diabetes-center-copenhagen",
+"t": "funder",
+"n": "Steno Diabetes Center Copenhagen",
+"sub": "",
 "url": "",
 "c": ""
 }
@@ -1419,6 +2932,31 @@
 "r": "site_of"
 },
 {
+"a": "org:american-association-for-the-study-of-liver-diseases",
+"b": "paper:pmid-35569886",
+"r": "funded"
+},
+{
+"a": "org:american-association-for-the-study-of-liver-diseases",
+"b": "paper:pmid-36727674",
+"r": "funded"
+},
+{
+"a": "org:american-diabetes-association",
+"b": "paper:pmid-32730231",
+"r": "funded"
+},
+{
+"a": "org:american-diabetes-association",
+"b": "paper:pmid-35963508",
+"r": "funded"
+},
+{
+"a": "org:american-diabetes-association",
+"b": "paper:pmid-37356446",
+"r": "funded"
+},
+{
 "a": "org:arkansas-clinical-research",
 "b": "trial:nct07564414",
 "r": "site_of"
@@ -1460,6 +2998,11 @@
 },
 {
 "a": "org:astrazeneca",
+"b": "paper:pmid-34216571",
+"r": "funded"
+},
+{
+"a": "org:astrazeneca",
 "b": "trial:nct07776509",
 "r": "sponsors"
 },
@@ -1479,9 +3022,29 @@
 "r": "site_of"
 },
 {
+"a": "org:azrieli-foundation",
+"b": "paper:pmid-34626851",
+"r": "funded"
+},
+{
 "a": "org:barbara-davis-center-for-diabetes",
 "b": "trial:nct05537233",
 "r": "site_of"
+},
+{
+"a": "org:beijing-municipal-science-and-technology-commission",
+"b": "paper:pmid-32278005",
+"r": "funded"
+},
+{
+"a": "org:bill-and-melinda-gates-foundation",
+"b": "paper:pmid-37356446",
+"r": "funded"
+},
+{
+"a": "org:boston-area-diabetes-endocrinology-research-center",
+"b": "paper:pmid-35296864",
+"r": "funded"
 },
 {
 "a": "org:breakthrough-t1d",
@@ -1489,9 +3052,24 @@
 "r": "collaborates"
 },
 {
+"a": "org:bristol-myers-squibb",
+"b": "paper:pmid-36727674",
+"r": "funded"
+},
+{
 "a": "org:cahaba-research",
 "b": "trial:nct07564414",
 "r": "site_of"
+},
+{
+"a": "org:canadian-institutes-of-health-research",
+"b": "paper:pmid-34381196",
+"r": "funded"
+},
+{
+"a": "org:cancer-research-uk",
+"b": "paper:pmid-33932335",
+"r": "funded"
 },
 {
 "a": "org:care-access-santa-clarita",
@@ -1549,6 +3127,16 @@
 "r": "site_of"
 },
 {
+"a": "org:department-of-health-and-social-care",
+"b": "paper:pmid-33932335",
+"r": "funded"
+},
+{
+"a": "org:department-of-health-and-social-care",
+"b": "paper:pmid-33989535",
+"r": "funded"
+},
+{
 "a": "org:diabetes-endocrine-specialists-la-mesa",
 "b": "trial:nct07564414",
 "r": "site_of"
@@ -1567,6 +3155,41 @@
 "a": "org:eli-lilly-and-company",
 "b": "drug:tirzepatide",
 "r": "develops"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "paper:pmid-32730231",
+"r": "funded"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "paper:pmid-32798471",
+"r": "funded"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "paper:pmid-34216571",
+"r": "funded"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "paper:pmid-35963508",
+"r": "funded"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "paper:pmid-37385275",
+"r": "funded"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "paper:pmid-39536238",
+"r": "funded"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "paper:pmid-40353578",
+"r": "funded"
 },
 {
 "a": "org:eli-lilly-and-company",
@@ -1592,6 +3215,26 @@
 "a": "org:encore-medical-research",
 "b": "trial:nct06972459",
 "r": "site_of"
+},
+{
+"a": "org:fondazione-roma",
+"b": "paper:pmid-37505311",
+"r": "funded"
+},
+{
+"a": "org:foundation-for-the-national-institutes-of-health",
+"b": "paper:pmid-35296864",
+"r": "funded"
+},
+{
+"a": "org:generalitat-valenciana",
+"b": "paper:pmid-32215168",
+"r": "funded"
+},
+{
+"a": "org:h2020-innovation-in-smes",
+"b": "paper:pmid-33785495",
+"r": "funded"
 },
 {
 "a": "org:harold-schnitzer-diabetes-health-center",
@@ -1659,6 +3302,11 @@
 "r": "site_of"
 },
 {
+"a": "org:innovate-uk",
+"b": "paper:pmid-33785495",
+"r": "funded"
+},
+{
 "a": "org:innovation-medical-research-center-fort-lauderdale",
 "b": "trial:nct06972459",
 "r": "site_of"
@@ -1689,6 +3337,11 @@
 "r": "site_of"
 },
 {
+"a": "org:international-development-research-centre",
+"b": "paper:pmid-34626851",
+"r": "funded"
+},
+{
 "a": "org:iowa-diabetes-and-endocrinology-research-center",
 "b": "trial:nct06062069",
 "r": "site_of"
@@ -1704,6 +3357,11 @@
 "r": "site_of"
 },
 {
+"a": "org:israel-science-foundation",
+"b": "paper:pmid-34626851",
+"r": "funded"
+},
+{
 "a": "org:john-muir-physician-network-clinical-research-center",
 "b": "trial:nct06062069",
 "r": "site_of"
@@ -1717,6 +3375,21 @@
 "a": "org:kaiser-permanente-bonita-medical-offices",
 "b": "trial:nct06962280",
 "r": "site_of"
+},
+{
+"a": "org:korea-drug-development-fund",
+"b": "paper:pmid-37857245",
+"r": "funded"
+},
+{
+"a": "org:korea-institute-of-science-and-technology",
+"b": "paper:pmid-37857245",
+"r": "funded"
+},
+{
+"a": "org:lundbeckfonden",
+"b": "paper:pmid-35296864",
+"r": "funded"
 },
 {
 "a": "org:mary-dick-allen-diabetes-center",
@@ -1749,6 +3422,11 @@
 "r": "site_of"
 },
 {
+"a": "org:ministry-of-science-ict-and-future-planning",
+"b": "paper:pmid-37857245",
+"r": "funded"
+},
+{
 "a": "org:mostafa-bahaa",
 "b": "drug:empagliflozin",
 "r": "develops"
@@ -1769,14 +3447,64 @@
 "r": "sponsors"
 },
 {
+"a": "org:national-center-for-advancing-translational-sciences",
+"b": "paper:pmid-37385275",
+"r": "funded"
+},
+{
+"a": "org:national-health-and-medical-research-council",
+"b": "paper:pmid-35041752",
+"r": "funded"
+},
+{
+"a": "org:national-institute-for-health-and-care-research",
+"b": "paper:pmid-33785495",
+"r": "funded"
+},
+{
+"a": "org:national-institute-for-health-and-care-research",
+"b": "paper:pmid-33932335",
+"r": "funded"
+},
+{
+"a": "org:national-institute-for-health-and-care-research",
+"b": "paper:pmid-33989535",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
+"b": "paper:pmid-38015216",
+"r": "funded"
+},
+{
 "a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
 "b": "trial:nct05414409",
 "r": "collaborates"
 },
 {
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-32730231",
+"r": "funded"
+},
+{
+"a": "org:national-research-council-of-science-and-technology",
+"b": "paper:pmid-37857245",
+"r": "funded"
+},
+{
+"a": "org:national-science-and-technology-council",
+"b": "paper:pmid-37356446",
+"r": "funded"
+},
+{
 "a": "org:neighborhood-healthcare",
 "b": "trial:nct07564414",
 "r": "site_of"
+},
+{
+"a": "org:ngm-biopharmaceuticals",
+"b": "paper:pmid-36727674",
+"r": "funded"
 },
 {
 "a": "org:norcal-endocrinology-internal-medicine",
@@ -1792,6 +3520,46 @@
 "a": "org:novak-clinical-research-tucson-north-la-cholla-boulevard",
 "b": "trial:nct06972459",
 "r": "site_of"
+},
+{
+"a": "org:novartis",
+"b": "paper:pmid-32798471",
+"r": "funded"
+},
+{
+"a": "org:novo-nordisk",
+"b": "paper:pmid-32730231",
+"r": "funded"
+},
+{
+"a": "org:novo-nordisk",
+"b": "paper:pmid-33667417",
+"r": "funded"
+},
+{
+"a": "org:novo-nordisk",
+"b": "paper:pmid-34626851",
+"r": "funded"
+},
+{
+"a": "org:novo-nordisk",
+"b": "paper:pmid-35296864",
+"r": "funded"
+},
+{
+"a": "org:novo-nordisk",
+"b": "paper:pmid-36727674",
+"r": "funded"
+},
+{
+"a": "org:novo-nordisk",
+"b": "paper:pmid-37385278",
+"r": "funded"
+},
+{
+"a": "org:novo-nordisk",
+"b": "paper:pmid-38587233",
+"r": "funded"
 },
 {
 "a": "org:novo-nordisk-a-s",
@@ -1835,68 +3603,23 @@
 },
 {
 "a": "org:pfizer",
+"b": "paper:pmid-32798471",
+"r": "funded"
+},
+{
+"a": "org:pfizer",
+"b": "paper:pmid-34216571",
+"r": "funded"
+},
+{
+"a": "org:pfizer",
+"b": "paper:pmid-35963508",
+"r": "funded"
+},
+{
+"a": "org:pfizer",
 "b": "trial:nct06924320",
 "r": "sponsors"
-},
-{
-"a": "org:research-site",
-"b": "trial:nct06700538",
-"r": "site_of"
-},
-{
-"a": "org:research-site",
-"b": "trial:nct07776509",
-"r": "site_of"
-},
-{
-"a": "org:research-site",
-"b": "trial:nct07784725",
-"r": "site_of"
-},
-{
-"a": "org:research-site-1",
-"b": "trial:nct06937203",
-"r": "site_of"
-},
-{
-"a": "org:research-site-2",
-"b": "trial:nct06700538",
-"r": "site_of"
-},
-{
-"a": "org:research-site-2",
-"b": "trial:nct06937203",
-"r": "site_of"
-},
-{
-"a": "org:research-site-3",
-"b": "trial:nct06937203",
-"r": "site_of"
-},
-{
-"a": "org:research-site-4",
-"b": "trial:nct06937203",
-"r": "site_of"
-},
-{
-"a": "org:research-site-5",
-"b": "trial:nct06937203",
-"r": "site_of"
-},
-{
-"a": "org:research-site-6",
-"b": "trial:nct06937203",
-"r": "site_of"
-},
-{
-"a": "org:research-site-7",
-"b": "trial:nct06937203",
-"r": "site_of"
-},
-{
-"a": "org:research-site-8",
-"b": "trial:nct06937203",
-"r": "site_of"
 },
 {
 "a": "org:rocky-mountain-clinical-research",
@@ -1907,6 +3630,21 @@
 "a": "org:rocky-mountain-clinical-research-idaho-falls-idaho",
 "b": "trial:nct06062069",
 "r": "site_of"
+},
+{
+"a": "org:sanofi",
+"b": "paper:pmid-32798471",
+"r": "funded"
+},
+{
+"a": "org:sanofi",
+"b": "paper:pmid-34216571",
+"r": "funded"
+},
+{
+"a": "org:sanofi",
+"b": "paper:pmid-35963508",
+"r": "funded"
 },
 {
 "a": "org:sansum-diabetes-research-institute",
@@ -1924,6 +3662,11 @@
 "r": "site_of"
 },
 {
+"a": "org:steno-diabetes-center-copenhagen",
+"b": "paper:pmid-37385278",
+"r": "funded"
+},
+{
 "a": "org:tanta-university",
 "b": "trial:nct06762314",
 "r": "collaborates"
@@ -1934,14 +3677,34 @@
 "r": "site_of"
 },
 {
+"a": "org:u-s-department-of-veterans-affairs",
+"b": "paper:pmid-37356446",
+"r": "funded"
+},
+{
 "a": "org:uni-of-alabama-at-birmingham",
 "b": "trial:nct07564414",
 "r": "site_of"
 },
 {
+"a": "org:universita-cattolica-del-sacro-cuore",
+"b": "paper:pmid-37505311",
+"r": "funded"
+},
+{
+"a": "org:universita-di-pisa",
+"b": "paper:pmid-32687793",
+"r": "funded"
+},
+{
 "a": "org:university-clinical-investigators",
 "b": "trial:nct06962280",
 "r": "site_of"
+},
+{
+"a": "org:university-college-london",
+"b": "paper:pmid-33989535",
+"r": "funded"
 },
 {
 "a": "org:university-of-colorado-anschutz-medical-campus",
@@ -1960,62 +3723,17 @@
 },
 {
 "a": "org:university-of-oxford",
+"b": "paper:pmid-33932335",
+"r": "funded"
+},
+{
+"a": "org:university-of-oxford",
 "b": "trial:nct04826159",
 "r": "collaborates"
 },
 {
 "a": "org:velocity-clinical-research-phoenix",
 "b": "trial:nct07564414",
-"r": "site_of"
-},
-{
-"a": "org:viking-clinical-site-1005",
-"b": "trial:nct07104500",
-"r": "site_of"
-},
-{
-"a": "org:viking-clinical-site-1017",
-"b": "trial:nct07104500",
-"r": "site_of"
-},
-{
-"a": "org:viking-clinical-site-1018",
-"b": "trial:nct07104500",
-"r": "site_of"
-},
-{
-"a": "org:viking-clinical-site-1019",
-"b": "trial:nct07104500",
-"r": "site_of"
-},
-{
-"a": "org:viking-clinical-site-1036",
-"b": "trial:nct07104500",
-"r": "site_of"
-},
-{
-"a": "org:viking-clinical-site-1037",
-"b": "trial:nct07104500",
-"r": "site_of"
-},
-{
-"a": "org:viking-clinical-site-1064",
-"b": "trial:nct07104500",
-"r": "site_of"
-},
-{
-"a": "org:viking-clinical-site-1081",
-"b": "trial:nct07104500",
-"r": "site_of"
-},
-{
-"a": "org:viking-clinical-site-1128",
-"b": "trial:nct07104500",
-"r": "site_of"
-},
-{
-"a": "org:viking-clinical-site-1135",
-"b": "trial:nct07104500",
 "r": "site_of"
 },
 {
@@ -2044,6 +3762,11 @@
 "r": "sponsors"
 },
 {
+"a": "org:wellcome-trust",
+"b": "paper:pmid-33989535",
+"r": "funded"
+},
+{
 "a": "org:west-orange-endocrinology-p-a",
 "b": "trial:nct06972459",
 "r": "site_of"
@@ -2064,6 +3787,96 @@
 "r": "investigator"
 },
 {
+"a": "person:ahmed-ali-al-karmalawy",
+"b": "org:ahram-canadian-university",
+"r": "affiliated"
+},
+{
+"a": "person:ahmed-ali-al-karmalawy",
+"b": "org:horus-university-egypt",
+"r": "affiliated"
+},
+{
+"a": "person:ahmed-ali-al-karmalawy",
+"b": "paper:pmid-37857245",
+"r": "authored"
+},
+{
+"a": "person:ahmed-elkamhawy",
+"b": "org:dongguk-university",
+"r": "affiliated"
+},
+{
+"a": "person:ahmed-elkamhawy",
+"b": "org:mansoura-university",
+"r": "affiliated"
+},
+{
+"a": "person:ahmed-elkamhawy",
+"b": "paper:pmid-37857245",
+"r": "authored"
+},
+{
+"a": "person:aimin-xu",
+"b": "org:university-of-hong-kong",
+"r": "affiliated"
+},
+{
+"a": "person:aimin-xu",
+"b": "paper:pmid-32764725",
+"r": "authored"
+},
+{
+"a": "person:alvina-r-kansra",
+"b": "org:medical-college-of-wisconsin",
+"r": "affiliated"
+},
+{
+"a": "person:alvina-r-kansra",
+"b": "paper:pmid-33511092",
+"r": "authored"
+},
+{
+"a": "person:amitava-banerjee",
+"b": "org:barts-health-nhs-trust",
+"r": "affiliated"
+},
+{
+"a": "person:amitava-banerjee",
+"b": "org:university-college-london-hospitals-nhs-foundation-trust",
+"r": "affiliated"
+},
+{
+"a": "person:amitava-banerjee",
+"b": "paper:pmid-33785495",
+"r": "authored"
+},
+{
+"a": "person:andrea-dennis",
+"b": "org:perspectum-united-kingdom",
+"r": "affiliated"
+},
+{
+"a": "person:andrea-dennis",
+"b": "paper:pmid-33785495",
+"r": "authored"
+},
+{
+"a": "person:ania-m-jastreboff",
+"b": "org:cornell-university",
+"r": "affiliated"
+},
+{
+"a": "person:ania-m-jastreboff",
+"b": "org:university-college-dublin",
+"r": "affiliated"
+},
+{
+"a": "person:ania-m-jastreboff",
+"b": "paper:pmid-39536238",
+"r": "authored"
+},
+{
 "a": "person:arash-yavari-bsc-dphil",
 "b": "org:imbria-pharmaceuticals",
 "r": "affiliated"
@@ -2074,34 +3887,529 @@
 "r": "investigator"
 },
 {
-"a": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
-"b": "org:eli-lilly-and-company",
+"a": "person:arianne-sweeting",
+"b": "org:royal-prince-alfred-hospital",
 "r": "affiliated"
 },
 {
-"a": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
-"b": "trial:nct06914895",
-"r": "investigator"
-},
-{
-"a": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
-"b": "trial:nct06962280",
-"r": "investigator"
-},
-{
-"a": "person:call-1-877-ctlilly-1-877-285-4559-or-1-317-615-4559-mon-fri",
-"b": "trial:nct06972459",
-"r": "investigator"
-},
-{
-"a": "person:clinical-transparency-dept-2834",
-"b": "org:novo-nordisk-a-s",
+"a": "person:arianne-sweeting",
+"b": "org:the-university-of-sydney",
 "r": "affiliated"
 },
 {
-"a": "person:clinical-transparency-dept-2834",
-"b": "trial:nct07564414",
-"r": "investigator"
+"a": "person:arianne-sweeting",
+"b": "paper:pmid-35041752",
+"r": "authored"
+},
+{
+"a": "person:arielle-elmaleh-sachs",
+"b": "org:new-york-university",
+"r": "affiliated"
+},
+{
+"a": "person:arielle-elmaleh-sachs",
+"b": "org:nyu-langone-health",
+"r": "affiliated"
+},
+{
+"a": "person:arielle-elmaleh-sachs",
+"b": "paper:pmid-38015216",
+"r": "authored"
+},
+{
+"a": "person:bazej-meczekalski",
+"b": "org:poznan-university-of-medical-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:bazej-meczekalski",
+"b": "paper:pmid-33917519",
+"r": "authored"
+},
+{
+"a": "person:carmen-piernas",
+"b": "org:university-of-oxford",
+"r": "affiliated"
+},
+{
+"a": "person:carmen-piernas",
+"b": "paper:pmid-33932335",
+"r": "authored"
+},
+{
+"a": "person:daniel-j-drucker",
+"b": "org:lunenfeld-tanenbaum-research-institute",
+"r": "affiliated"
+},
+{
+"a": "person:daniel-j-drucker",
+"b": "org:mount-sinai-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:daniel-j-drucker",
+"b": "paper:pmid-34626851",
+"r": "authored"
+},
+{
+"a": "person:daniel-j-drucker",
+"b": "paper:pmid-36977782",
+"r": "authored"
+},
+{
+"a": "person:daniel-james-cuthbertson",
+"b": "org:liverpool-university-hospitals-nhs-foundation-trust",
+"r": "affiliated"
+},
+{
+"a": "person:daniel-james-cuthbertson",
+"b": "org:university-of-liverpool",
+"r": "affiliated"
+},
+{
+"a": "person:daniel-james-cuthbertson",
+"b": "paper:pmid-34216571",
+"r": "authored"
+},
+{
+"a": "person:dong-ji",
+"b": "org:chinese-pla-general-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:dong-ji",
+"b": "paper:pmid-32278005",
+"r": "authored"
+},
+{
+"a": "person:dongdong-wang",
+"b": "org:mcmaster-university",
+"r": "affiliated"
+},
+{
+"a": "person:dongdong-wang",
+"b": "paper:pmid-34381196",
+"r": "authored"
+},
+{
+"a": "person:emily-e-brown",
+"b": "org:liverpool-university-hospitals-nhs-foundation-trust",
+"r": "affiliated"
+},
+{
+"a": "person:emily-e-brown",
+"b": "org:university-of-liverpool",
+"r": "affiliated"
+},
+{
+"a": "person:emily-e-brown",
+"b": "paper:pmid-34216571",
+"r": "authored"
+},
+{
+"a": "person:evan-d-rosen",
+"b": "org:beth-israel-deaconess-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:evan-d-rosen",
+"b": "org:broad-institute",
+"r": "affiliated"
+},
+{
+"a": "person:evan-d-rosen",
+"b": "paper:pmid-35296864",
+"r": "authored"
+},
+{
+"a": "person:ewa-rudnicka",
+"b": "org:medical-university-of-warsaw",
+"r": "affiliated"
+},
+{
+"a": "person:ewa-rudnicka",
+"b": "paper:pmid-33917519",
+"r": "authored"
+},
+{
+"a": "person:federica-di-vincenzo",
+"b": "org:agostino-gemelli-university-polyclinic",
+"r": "affiliated"
+},
+{
+"a": "person:federica-di-vincenzo",
+"b": "org:universita-cattolica-del-sacro-cuore",
+"r": "affiliated"
+},
+{
+"a": "person:federica-di-vincenzo",
+"b": "paper:pmid-37505311",
+"r": "authored"
+},
+{
+"a": "person:filip-krag-knop",
+"b": "org:steno-diabetes-centers",
+"r": "affiliated"
+},
+{
+"a": "person:filip-krag-knop",
+"b": "org:university-of-copenhagen",
+"r": "affiliated"
+},
+{
+"a": "person:filip-krag-knop",
+"b": "paper:pmid-37385278",
+"r": "authored"
+},
+{
+"a": "person:francesco-rubino",
+"b": "org:king-s-college-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:francesco-rubino",
+"b": "org:king-s-college-london",
+"r": "affiliated"
+},
+{
+"a": "person:francesco-rubino",
+"b": "paper:pmid-33485454",
+"r": "authored"
+},
+{
+"a": "person:francis-s-willard",
+"b": "org:eli-lilly-united-states",
+"r": "affiliated"
+},
+{
+"a": "person:francis-s-willard",
+"b": "paper:pmid-32730231",
+"r": "authored"
+},
+{
+"a": "person:franco-scaldaferri",
+"b": "org:agostino-gemelli-university-polyclinic",
+"r": "affiliated"
+},
+{
+"a": "person:franco-scaldaferri",
+"b": "org:universita-cattolica-del-sacro-cuore",
+"r": "affiliated"
+},
+{
+"a": "person:franco-scaldaferri",
+"b": "paper:pmid-37505311",
+"r": "authored"
+},
+{
+"a": "person:francois-mach",
+"b": "paper:pmid-40878289",
+"r": "authored"
+},
+{
+"a": "person:geltrude-mingrone",
+"b": "org:king-s-college-london",
+"r": "affiliated"
+},
+{
+"a": "person:geltrude-mingrone",
+"b": "org:universita-cattolica-del-sacro-cuore",
+"r": "affiliated"
+},
+{
+"a": "person:geltrude-mingrone",
+"b": "paper:pmid-33485454",
+"r": "authored"
+},
+{
+"a": "person:george-k-k-lau",
+"b": "org:chinese-pla-general-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:george-k-k-lau",
+"b": "org:humanity-health",
+"r": "affiliated"
+},
+{
+"a": "person:george-k-k-lau",
+"b": "paper:pmid-32278005",
+"r": "authored"
+},
+{
+"a": "person:glynis-p-ross",
+"b": "org:royal-prince-alfred-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:glynis-p-ross",
+"b": "org:the-university-of-sydney",
+"r": "affiliated"
+},
+{
+"a": "person:glynis-p-ross",
+"b": "paper:pmid-35041752",
+"r": "authored"
+},
+{
+"a": "person:gregory-r-steinberg",
+"b": "org:mcmaster-university",
+"r": "affiliated"
+},
+{
+"a": "person:gregory-r-steinberg",
+"b": "paper:pmid-34381196",
+"r": "authored"
+},
+{
+"a": "person:hallie-c-prescott",
+"b": "org:michigan-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:hallie-c-prescott",
+"b": "org:university-of-michigan",
+"r": "affiliated"
+},
+{
+"a": "person:hallie-c-prescott",
+"b": "paper:pmid-33175566",
+"r": "authored"
+},
+{
+"a": "person:ildiko-lingvay",
+"b": "org:the-university-of-texas-southwestern-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:ildiko-lingvay",
+"b": "paper:pmid-33667417",
+"r": "authored"
+},
+{
+"a": "person:irina-jouravskaya",
+"b": "org:eli-lilly-united-states",
+"r": "affiliated"
+},
+{
+"a": "person:irina-jouravskaya",
+"b": "org:university-college-dublin",
+"r": "affiliated"
+},
+{
+"a": "person:irina-jouravskaya",
+"b": "paper:pmid-39536238",
+"r": "authored"
+},
+{
+"a": "person:jeanine-e-roeters-van-lennep",
+"b": "paper:pmid-40878289",
+"r": "authored"
+},
+{
+"a": "person:john-p-h-wilding",
+"b": "org:liverpool-university-hospitals-nhs-foundation-trust",
+"r": "affiliated"
+},
+{
+"a": "person:john-p-h-wilding",
+"b": "org:university-of-liverpool",
+"r": "affiliated"
+},
+{
+"a": "person:john-p-h-wilding",
+"b": "paper:pmid-34216571",
+"r": "authored"
+},
+{
+"a": "person:john-r-ussher",
+"b": "org:university-of-alberta",
+"r": "affiliated"
+},
+{
+"a": "person:john-r-ussher",
+"b": "paper:pmid-36977782",
+"r": "authored"
+},
+{
+"a": "person:jonathan-valabhji",
+"b": "org:imperial-college-healthcare-nhs-trust",
+"r": "affiliated"
+},
+{
+"a": "person:jonathan-valabhji",
+"b": "org:st-mary-s-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:jonathan-valabhji",
+"b": "paper:pmid-32798471",
+"r": "authored"
+},
+{
+"a": "person:joshua-j-joseph",
+"b": "paper:pmid-35000404",
+"r": "authored"
+},
+{
+"a": "person:julia-p-dunn",
+"b": "org:eli-lilly-united-states",
+"r": "affiliated"
+},
+{
+"a": "person:julia-p-dunn",
+"b": "paper:pmid-40353578",
+"r": "authored"
+},
+{
+"a": "person:kanyin-liane-ong",
+"b": "org:institute-for-health-metrics-and-evaluation",
+"r": "affiliated"
+},
+{
+"a": "person:kanyin-liane-ong",
+"b": "org:university-of-washington",
+"r": "affiliated"
+},
+{
+"a": "person:kanyin-liane-ong",
+"b": "paper:pmid-37356446",
+"r": "authored"
+},
+{
+"a": "person:kenneth-j-cusi",
+"b": "org:university-of-florida",
+"r": "affiliated"
+},
+{
+"a": "person:kenneth-j-cusi",
+"b": "org:university-of-florida-health",
+"r": "affiliated"
+},
+{
+"a": "person:kenneth-j-cusi",
+"b": "paper:pmid-35569886",
+"r": "authored"
+},
+{
+"a": "person:konstantinos-c-koskinas",
+"b": "paper:pmid-40878289",
+"r": "authored"
+},
+{
+"a": "person:kyle-w-sloop",
+"b": "paper:pmid-32730231",
+"r": "authored"
+},
+{
+"a": "person:laurence-s-sperling",
+"b": "paper:pmid-35000404",
+"r": "authored"
+},
+{
+"a": "person:lawrence-blonde",
+"b": "org:ochsner-health-system",
+"r": "affiliated"
+},
+{
+"a": "person:lawrence-blonde",
+"b": "paper:pmid-35963508",
+"r": "authored"
+},
+{
+"a": "person:leiluo-geng",
+"b": "org:university-of-hong-kong",
+"r": "affiliated"
+},
+{
+"a": "person:leiluo-geng",
+"b": "paper:pmid-32764725",
+"r": "authored"
+},
+{
+"a": "person:louis-j-aronne",
+"b": "org:weill-cornell-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:louis-j-aronne",
+"b": "paper:pmid-40353578",
+"r": "authored"
+},
+{
+"a": "person:m-susan-jay",
+"b": "org:medical-college-of-wisconsin",
+"r": "affiliated"
+},
+{
+"a": "person:m-susan-jay",
+"b": "paper:pmid-33511092",
+"r": "authored"
+},
+{
+"a": "person:margo-p-emont",
+"b": "org:beth-israel-deaconess-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:margo-p-emont",
+"b": "org:broad-institute",
+"r": "affiliated"
+},
+{
+"a": "person:margo-p-emont",
+"b": "paper:pmid-35296864",
+"r": "authored"
+},
+{
+"a": "person:mary-eugenia-rinella",
+"b": "org:university-of-chicago",
+"r": "affiliated"
+},
+{
+"a": "person:mary-eugenia-rinella",
+"b": "paper:pmid-36727674",
+"r": "authored"
+},
+{
+"a": "person:matteo-apicella",
+"b": "org:university-of-pisa",
+"r": "affiliated"
+},
+{
+"a": "person:matteo-apicella",
+"b": "paper:pmid-32687793",
+"r": "authored"
+},
+{
+"a": "person:melanie-jane-davies",
+"b": "org:nihr-leicester-biomedical-research-centre",
+"r": "affiliated"
+},
+{
+"a": "person:melanie-jane-davies",
+"b": "org:university-of-leicester",
+"r": "affiliated"
+},
+{
+"a": "person:melanie-jane-davies",
+"b": "paper:pmid-33667417",
+"r": "authored"
+},
+{
+"a": "person:melanie-r-jay",
+"b": "org:new-york-university",
+"r": "affiliated"
+},
+{
+"a": "person:melanie-r-jay",
+"b": "org:va-ny-harbor-healthcare-system",
+"r": "affiliated"
+},
+{
+"a": "person:melanie-r-jay",
+"b": "paper:pmid-38015216",
+"r": "authored"
 },
 {
 "a": "person:melissa-rosina-pasqua",
@@ -2114,6 +4422,236 @@
 "r": "investigator"
 },
 {
+"a": "person:mikhail-kosiborod",
+"b": "org:mayo-clinic",
+"r": "affiliated"
+},
+{
+"a": "person:mikhail-kosiborod",
+"b": "org:university-of-copenhagen",
+"r": "affiliated"
+},
+{
+"a": "person:mikhail-kosiborod",
+"b": "paper:pmid-38587233",
+"r": "authored"
+},
+{
+"a": "person:min-gao",
+"b": "org:peking-university",
+"r": "affiliated"
+},
+{
+"a": "person:min-gao",
+"b": "org:university-of-oxford",
+"r": "affiliated"
+},
+{
+"a": "person:min-gao",
+"b": "paper:pmid-33932335",
+"r": "authored"
+},
+{
+"a": "person:naomi-holman",
+"b": "org:nhs-digital",
+"r": "affiliated"
+},
+{
+"a": "person:naomi-holman",
+"b": "org:nhs-england",
+"r": "affiliated"
+},
+{
+"a": "person:naomi-holman",
+"b": "paper:pmid-32798471",
+"r": "authored"
+},
+{
+"a": "person:paramjit-singh-gill",
+"b": "org:university-hospital-coventry",
+"r": "affiliated"
+},
+{
+"a": "person:paramjit-singh-gill",
+"b": "org:university-of-warwick",
+"r": "affiliated"
+},
+{
+"a": "person:paramjit-singh-gill",
+"b": "paper:pmid-33989535",
+"r": "authored"
+},
+{
+"a": "person:rabia-k-shahid",
+"b": "org:university-of-saskatchewan",
+"r": "affiliated"
+},
+{
+"a": "person:rabia-k-shahid",
+"b": "paper:pmid-36672434",
+"r": "authored"
+},
+{
+"a": "person:rishi-caleyachetty",
+"b": "org:university-hospital-coventry",
+"r": "affiliated"
+},
+{
+"a": "person:rishi-caleyachetty",
+"b": "org:university-of-warwick",
+"r": "affiliated"
+},
+{
+"a": "person:rishi-caleyachetty",
+"b": "paper:pmid-33989535",
+"r": "authored"
+},
+{
+"a": "person:rohit-seth-loomba",
+"b": "org:university-of-california-san-diego",
+"r": "affiliated"
+},
+{
+"a": "person:rohit-seth-loomba",
+"b": "paper:pmid-36727674",
+"r": "authored"
+},
+{
+"a": "person:salvador-perez",
+"b": "org:universitat-de-valencia",
+"r": "affiliated"
+},
+{
+"a": "person:salvador-perez",
+"b": "paper:pmid-32215168",
+"r": "authored"
+},
+{
+"a": "person:samar-a-antar",
+"b": "org:horus-university-egypt",
+"r": "affiliated"
+},
+{
+"a": "person:samar-a-antar",
+"b": "org:virginia-tech",
+"r": "affiliated"
+},
+{
+"a": "person:samar-a-antar",
+"b": "paper:pmid-37857245",
+"r": "authored"
+},
+{
+"a": "person:sandra-l-weber",
+"b": "org:prisma-health",
+"r": "affiliated"
+},
+{
+"a": "person:sandra-l-weber",
+"b": "org:university-of-south-carolina",
+"r": "affiliated"
+},
+{
+"a": "person:sandra-l-weber",
+"b": "paper:pmid-35963508",
+"r": "authored"
+},
+{
+"a": "person:sanjiv-jayendra-shah",
+"b": "org:mayo-clinic",
+"r": "affiliated"
+},
+{
+"a": "person:sanjiv-jayendra-shah",
+"b": "org:university-of-copenhagen",
+"r": "affiliated"
+},
+{
+"a": "person:sanjiv-jayendra-shah",
+"b": "paper:pmid-38587233",
+"r": "authored"
+},
+{
+"a": "person:sergio-riusperez",
+"b": "org:universitat-de-valencia",
+"r": "affiliated"
+},
+{
+"a": "person:sergio-riusperez",
+"b": "paper:pmid-32215168",
+"r": "authored"
+},
+{
+"a": "person:shahid-ahmed",
+"b": "org:saskatchewan-cancer-agency",
+"r": "affiliated"
+},
+{
+"a": "person:shahid-ahmed",
+"b": "org:university-of-saskatchewan",
+"r": "affiliated"
+},
+{
+"a": "person:shahid-ahmed",
+"b": "paper:pmid-36672434",
+"r": "authored"
+},
+{
+"a": "person:stefano-del-prato",
+"b": "org:university-of-pisa",
+"r": "affiliated"
+},
+{
+"a": "person:stefano-del-prato",
+"b": "paper:pmid-32687793",
+"r": "authored"
+},
+{
+"a": "person:sukanya-pati",
+"b": "org:university-of-saskatchewan",
+"r": "affiliated"
+},
+{
+"a": "person:sukanya-pati",
+"b": "paper:pmid-36672434",
+"r": "authored"
+},
+{
+"a": "person:susan-ann-jebb",
+"b": "org:nihr-oxford-biomedical-research-centre",
+"r": "affiliated"
+},
+{
+"a": "person:susan-ann-jebb",
+"b": "org:university-of-oxford",
+"r": "affiliated"
+},
+{
+"a": "person:susan-ann-jebb",
+"b": "paper:pmid-33932335",
+"r": "authored"
+},
+{
+"a": "person:thomas-jones",
+"b": "paper:pmid-37385275",
+"r": "authored"
+},
+{
+"a": "person:vineet-chopra",
+"b": "org:michigan-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:vineet-chopra",
+"b": "org:university-of-michigan",
+"r": "affiliated"
+},
+{
+"a": "person:vineet-chopra",
+"b": "paper:pmid-33175566",
+"r": "authored"
+},
+{
 "a": "person:viral-n-shah",
 "b": "org:indiana-university",
 "r": "affiliated"
@@ -2122,6 +4660,46 @@
 "a": "person:viral-n-shah",
 "b": "trial:nct05537233",
 "r": "investigator"
+},
+{
+"a": "person:w-timothy-garvey",
+"b": "org:university-of-alabama-at-birmingham",
+"r": "affiliated"
+},
+{
+"a": "person:w-timothy-garvey",
+"b": "paper:pmid-37385278",
+"r": "authored"
+},
+{
+"a": "person:william-t-garvey",
+"b": "org:university-of-alabama-at-birmingham",
+"r": "affiliated"
+},
+{
+"a": "person:william-t-garvey",
+"b": "paper:pmid-37385275",
+"r": "authored"
+},
+{
+"a": "person:william-timothy-garvey",
+"b": "org:university-of-alabama-at-birmingham",
+"r": "affiliated"
+},
+{
+"a": "person:william-timothy-garvey",
+"b": "paper:pmid-37385275",
+"r": "authored"
+},
+{
+"a": "person:zobair-m-younossi",
+"b": "org:inova-health-system",
+"r": "affiliated"
+},
+{
+"a": "person:zobair-m-younossi",
+"b": "paper:pmid-35569886",
+"r": "authored"
 }
 ]
 }
