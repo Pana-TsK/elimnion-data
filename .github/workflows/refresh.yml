@@ -1,0 +1,42 @@
+name: refresh
+on:
+  schedule:
+    - cron: "23 2 * * *"        # daily, before the Deal Engine agents wake up
+  push:
+    paths: ["watchlist.json", "pipeline/**", ".github/workflows/refresh.yml"]
+  workflow_dispatch:
+    inputs:
+      assets:
+        description: "Asset ids to rebuild (space separated; empty = all)"
+        required: false
+        default: ""
+permissions:
+  contents: write
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests==2.32.3
+      - name: Networks
+        env: { OPENALEX_API_KEY: "${{ secrets.OPENALEX_API_KEY }}" }
+        run: cd pipeline && python build_networks.py ${{ github.event.inputs.assets }}
+        continue-on-error: true
+      - name: Gap-lead sweep
+        if: github.event_name != 'push' || contains(join(github.event.commits.*.message, ' '), '[sweep]')
+        run: cd pipeline && python sweep_leads.py
+        continue-on-error: true
+      - name: Commit data
+        run: |
+          git config user.name "elimnion-data bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "data: refresh $(date -u +%F) [skip ci]"
+          git pull --rebase -X ours origin ${{ github.ref_name }} || true
+          git push
