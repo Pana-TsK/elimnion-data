@@ -38,7 +38,9 @@ LARGE = re.compile(r"alexion|viiv|genentech|chugai|kite|juno|celgene|loxo|accele
                    r"shionogi|hengrui|hansoh|innovent|zai lab|sinopharm|qilu|cspc|simcere|grifols|"
                    r"menarini|chiesi|pierre fabre|almirall|ferring|leo pharma|novo|organon|sandoz|"
                    r"alnylam|ionis|biomarin|sarepta|exelixis|neurocrine|united therapeutics|bayer|"
-                   r"astellas|eisai|otsuka|takeda|daiichi|mitsubishi tanabe", re.I)
+                   r"astellas|eisai|otsuka|takeda|daiichi|mitsubishi tanabe|akeso|remegen|junshi|"
+                   r"kelun|luye|fosun|hutchmed|ascentage|zymeworks|immunogen|daiichi", re.I)
+NOT_A_PATIENT_TRIAL = re.compile(r"^(healthy|bioequivalence|pharmacokinetics?|healthy volunteers?)$", re.I)
 
 
 def drug_names(study):
@@ -100,6 +102,22 @@ def main():
         for n in drug_names(s):
             follow[n].append(s)
 
+    # Who else runs trials with each drug? A drug that any large company trials is theirs (or approved),
+    # so an academic trial of it is not an asset to broker.
+    owners, users = defaultdict(set), defaultdict(set)
+    for s in {x["nct"]: x for x in later + a + b + c + d}.values():
+        for n in drug_names(s):
+            users[n].add(s["sponsor"])
+            if s["sponsorClass"] == "INDUSTRY":
+                owners[n].add(s["sponsor"])
+
+    def big_owned(names):
+        # widely used by many sponsors = approved/generic standard of care, not an asset
+        if len(users.get(names[0], ())) >= 5:
+            return True
+        return any(is_big_pharma(o) or LARGE.search(o) or trials_per_sponsor[o] >= 15
+                   for n in names for o in owners.get(n, ()))
+
     def follow_on(s, min_rank):
         """NCT of a later trial of the same drug at >= min_rank, same sponsor or overlapping condition."""
         conds = {x.lower() for x in s["conditions"]}
@@ -115,13 +133,15 @@ def main():
 
     def add(s, cat, why, bonus=0):
         names = drug_names(s)
-        if not names or PK_STUDY.search(s["title"]) or is_large(s) or partnered(s):
+        if (not names or PK_STUDY.search(s["title"]) or is_large(s) or partnered(s) or big_owned(names)
+                or all(NOT_A_PATIENT_TRIAL.search(x) for x in s["conditions"] or ["healthy"]) and s["sponsorClass"] != "INDUSTRY"):
             return
+        small_owner = sorted(o for n in names[:2] for o in owners.get(n, ()) if o != s["sponsor"])[:3]
         countries = {x["country"] for x in s["sites"]}
         code_like = bool(CODE.search(names[0]))
         academic = s["sponsorClass"] in ("OTHER", "NETWORK", "OTHER_GOV", "INDIV")
         score = bonus
-        score += 3 if academic else 2                      # nobody else is brokering these
+        score += 3 if academic and not small_owner else 2  # nobody else is brokering these
         score += 2 if s["hasResults"] else 0               # data in hand
         score += 2 if code_like else 0                     # a proprietary asset, not a generic
         score += 2 if (s["completion"] or s["updated"] or "") >= months_ago(12) else 0   # fresh
@@ -133,6 +153,7 @@ def main():
             "phases": s["phases"], "status": s["status"], "whyStopped": s["whyStopped"], "start": s["start"],
             "completion": s["completion"], "enrollment": s["enrollment"], "hasResults": s["hasResults"],
             "sponsor": s["sponsor"], "sponsorClass": s["sponsorClass"], "sponsorTrials": trials_per_sponsor[s["sponsor"]],
+            "otherIndustrySponsors": small_owner,
             "conditions": s["conditions"][:5], "countries": sorted(countries)[:10],
             "officials": [o["name"] + (" (" + o["affiliation"] + ")" if o["affiliation"] else "") for o in s["officials"][:3]],
         })
@@ -146,9 +167,9 @@ def main():
         if stopped < since30 or CLINICAL_STOP.search(w) or follow_on(s, 2):
             continue
         if BUSINESS.search(w):
-            add(s, "B", f"{s['status'].title()} {stopped}: '{w[:160]}'", bonus=3)
+            add(s, "B", f"{s['status'].title()} (last update {s['updated']}): '{w[:160]}'", bonus=3)
         elif VAGUE.search(w):
-            add(s, "B", f"{s['status'].title()} {stopped}: '{w[:160]}' (reason vague; check)", bonus=1)
+            add(s, "B", f"{s['status'].title()} (last update {s['updated']}): '{w[:160]}' (reason vague; check)", bonus=1)
     for s in c:
         add(s, "C", f"Phase 2 planned to start {s['start']} but still not recruiting", bonus=-1)
     for s in d:
