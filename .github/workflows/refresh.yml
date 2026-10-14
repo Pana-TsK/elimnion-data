@@ -24,13 +24,13 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install requests==2.32.3
-      - name: Networks
-        env: { OPENALEX_API_KEY: "${{ secrets.OPENALEX_API_KEY }}" }
-        run: cd pipeline && python build_networks.py ${{ github.event.inputs.assets }}
-        continue-on-error: true
       - name: Gap-lead sweep
         if: github.event_name != 'push' || contains(join(github.event.commits.*.message, ' '), '[sweep]')
         run: cd pipeline && python sweep_leads.py
+        continue-on-error: true
+      - name: Networks
+        env: { OPENALEX_API_KEY: "${{ secrets.OPENALEX_API_KEY }}" }
+        run: cd pipeline && python build_networks.py ${{ github.event.inputs.assets }}
         continue-on-error: true
       - name: Commit data
         run: |

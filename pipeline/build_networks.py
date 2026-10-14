@@ -221,11 +221,24 @@ def build(asset, engine_orgs):
     return g.dump(asset["id"], dict(src))
 
 
+def lead_assets(n=25):
+    """Top gap-sweep candidates as pseudo-assets, so new leads have a map before anyone asks.
+    The agents match them by NCT id (file data/networks/nct-<nct>.json)."""
+    path = os.path.join(DATA, "leads", "candidates.json")
+    if not os.path.exists(path):
+        return []
+    rows = json.load(open(path))["rows"]
+    rows = sorted([r for r in rows if r["cat"] in ("A", "B", "D") and r["codeLike"]], key=lambda r: -r["preScore"])[:n]
+    return [{"id": "nct-" + r["nct"].lower(), "name": r["drug"].upper(), "drugs": [r["drug"]],
+             "conditions": [c for c in r["conditions"][:2]], "target": "", "owner": ""} for r in rows]
+
+
 def main(only=None):
     wl = json.load(open(os.path.join(ROOT, "watchlist.json")))
     engine = wl.get("orgs", {})
     built = {}
-    for a in wl["assets"]:
+    assets = wl["assets"] + ([] if only else lead_assets())
+    for a in assets:
         if only and a["id"] not in only:
             continue
         doc = build(a, engine)
