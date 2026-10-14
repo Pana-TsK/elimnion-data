@@ -34,6 +34,25 @@ OA_TYPE = {"education": "academic", "healthcare": "hospital", "company": "compan
            "government": "funder", "funder": "funder", "facility": "academic", "archive": "academic", "other": "academic"}
 
 
+PLACEHOLDER = re.compile(r"\d|@|\b(inc|llc|ltd|gmbh|pharma\w*|therapeutics|bio\w*|clinical|trials?|development|"
+                         r"medical|director|cares|management|leader|expert|research|call|site|team|study|sponsor|"
+                         r"department|center|centre|hospital|university|information|contact|program|group)\b", re.I)
+FAKE_SITE = re.compile(r"^(research|investigational|clinical|study|local|trial)\s+(site|institution|center)|^site\b|"
+                       r"\bsite\s*(no\.?|number|#)?\s*\d", re.I)
+
+
+def is_real_person(name):
+    words = [w for w in re.split(r"\s+", name) if w]
+    return 2 <= len(words) <= 6 and len(name) <= 60 and not PLACEHOLDER.search(name)
+
+
+def clean_drug(name):
+    n = re.sub(r"\(.*?\)|[®™]", " ", name or "")
+    n = re.sub(r"[-–]?\s*(starting\s+)?dose\b.*|\b\d+(\.\d+)?\s*(mg|µg|ug|mcg|g|ml|mg/kg)\b.*|\b(hydrochloride|hcl|sodium|"
+               r"oral solution|tablets?|capsules?|injection|transdermal delivery system)\b", " ", n, flags=re.I)
+    return re.sub(r"\s+", " ", n).strip(" -,:;")
+
+
 class Graph:
     def __init__(self, engine_orgs):
         self.nodes, self.edges, self.engine = {}, set(), engine_orgs
@@ -63,8 +82,9 @@ class Graph:
         return self.node(k, t or org_type(name, cls), disp, "", "", c)
 
     def person(self, name, sub="", c=""):
-        name = re.sub(r",?\s*(MD|PhD|M\.D\.|Ph\.D\.|Prof\.?|Dr\.?|MSc|MBBS|FRCP\w*)\b", "", name or "").strip(" ,")
-        if len(name) < 4 or re.search(r"study director|medical director|clinical trials|call center|sponsor", name, re.I):
+        name = re.sub(r",?\s*(MD|PhD|M\.D\.|Ph\.D\.|Prof\.?|Dr\.?|MSc|MBBS|PharmD|FRCP\w*)\b\.?", "", name or "")
+        name = re.sub(r"\s+", " ", name).strip(" ,.")
+        if not is_real_person(name):
             return None
         return self.node("person:" + slug(name), "person", name, sub, "", c)
 
@@ -103,7 +123,8 @@ def add_trial(g, s, link_from=None, rel="tested_in", sites=25):
         g.edge(p, tk, "investigator")
         g.edge(p, aff, "affiliated")
     for loc in s["sites"][:sites]:
-        g.edge(g.org(loc["facility"], c=loc["country"]), tk, "site_of")
+        if loc["facility"] and not FAKE_SITE.search(loc["facility"]):
+            g.edge(g.org(loc["facility"], c=loc["country"]), tk, "site_of")
     return tk, sp
 
 
@@ -163,9 +184,10 @@ def build(asset, engine_orgs):
             for i in s["interventions"]:
                 if i["type"] not in ("DRUG", "BIOLOGICAL", "GENETIC") or re.search(r"placebo|standard|vehicle", i["name"], re.I):
                     continue
-                if i["name"].lower() in own:
+                dn = clean_drug(i["name"])
+                if len(dn) < 3 or dn.lower() in own:
                     continue
-                dk = g.node("drug:" + slug(i["name"]), "drug", i["name"], s["sponsor"])
+                dk = g.node("drug:" + slug(dn), "drug", dn, s["sponsor"])
                 g.edge(dk, tk, "tested_in")
                 g.edge(sp, dk, "develops")
                 g.edge(dk, ak, "competes")
@@ -223,8 +245,9 @@ def main(only=None):
             if n["t"] in ("person", "academic", "hospital", "company", "foundation", "investor"):
                 seen[n["k"]].add(doc["assetId"])
                 meta[n["k"]] = n
-    hubs = sorted(([meta[k] | {"assets": sorted(v)} for k, v in seen.items() if len(v) >= 2]),
-                  key=lambda x: -len(x["assets"]))
+    hubs = sorted(([meta[k] | {"assets": sorted(v)} for k, v in seen.items()
+                   if len(v) >= 2 and not FAKE_SITE.search(meta[k]["n"])]),
+                  key=lambda x: (x["t"] != "person", -len(x["assets"])))
     write_json("networks/_hubs.json", {"generated": TODAY.isoformat(), "hubs": hubs[:500]})
     save_status("networks", {"built": built, "hubs": len(hubs)})
 

@@ -29,7 +29,7 @@ def get(url, params=None, method="GET", body=None, tries=4, pause=0.25):
             if r.status_code in (429, 500, 502, 503, 504):
                 time.sleep(2 ** i * 2)
                 continue
-            STATUS["errors"].append(f"{host} {r.status_code} {r.url[:200]}")
+            STATUS["errors"].append(f"{host} {r.status_code} {r.url[:160]} :: {r.text[:200]}")
             return None
         except Exception as e:  # network hiccup
             time.sleep(2 ** i * 2)

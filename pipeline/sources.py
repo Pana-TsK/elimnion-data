@@ -1,4 +1,5 @@
 """Thin clients for the free databases. Each returns compact, flat records."""
+import re
 from common import get, OPENALEX_KEY
 
 # ---------------------------------------------------------------- ClinicalTrials.gov API v2
@@ -44,6 +45,9 @@ def _flat_study(s):
 def ct_search(max_records=1000, **params):
     """params use API names with dots replaced by underscores, e.g. query_cond=..., filter_advanced=..."""
     q = {k.replace("_", ".", 1) if k.startswith(("query_", "filter_")) else k: v for k, v in params.items()}
+    for k in ("query.cond", "query.term", "query.intr"):
+        if k in q:
+            q[k] = re.sub(r"[()\"]", " ", q[k]).strip()
     q.update({"fields": CT_FIELDS, "pageSize": min(1000, max_records), "format": "json"})
     out, token = [], None
     while len(out) < max_records:
@@ -68,12 +72,15 @@ def ct_url(nct):
 
 # ---------------------------------------------------------------- OpenAlex
 OA = "https://api.openalex.org/works"
-OA_SELECT = "id,doi,title,publication_year,authorships,grants,primary_location,cited_by_count,ids"
+OA_SELECT = "id,doi,title,publication_year,authorships,funders,primary_location,cited_by_count,ids"
 
 
 def oa_works(search, n=100, since=2016, sort=None, extra_filter=""):
-    params = {"search": search, "per-page": min(200, n), "select": OA_SELECT,
-              "filter": f"from_publication_date:{since}-01-01" + (("," + extra_filter) if extra_filter else "")}
+    # title+abstract search is far more precise than the default full-text search
+    terms = re.sub(r"[,:|()\"]", " ", search).strip()
+    params = {"per-page": min(200, n), "select": OA_SELECT,
+              "filter": f"title_and_abstract.search:{terms},from_publication_date:{since}-01-01"
+                        + (("," + extra_filter) if extra_filter else "")}
     if sort:
         params["sort"] = sort
     if OPENALEX_KEY:
@@ -102,8 +109,7 @@ def oa_works(search, n=100, since=2016, sort=None, extra_filter=""):
                 "id": w.get("id", "").rsplit("/", 1)[-1], "doi": (w.get("doi") or "").replace("https://doi.org/", ""),
                 "pmid": pmid, "title": w.get("title") or "", "year": w.get("publication_year"),
                 "journal": src, "cited": w.get("cited_by_count", 0), "authors": auths,
-                "grants": [{"funder": g.get("funder_display_name", ""), "award": g.get("award_id") or ""}
-                           for g in (w.get("grants") or [])],
+                "grants": [{"funder": f.get("display_name", ""), "award": ""} for f in (w.get("funders") or [])],
             })
         cursor = (js.get("meta") or {}).get("next_cursor")
     return out[:n]
