@@ -1,0 +1,308 @@
+{
+"assetId": "nct-nct04771416",
+"updated": "2026-10-14",
+"generatedBy": "elimnion-data pipeline",
+"sources": {
+"trials": 3
+},
+"nodes": [
+{
+"k": "asset:nct-nct04771416",
+"t": "asset",
+"n": "PBKR03",
+"sub": "Leukodystrophy, Globoid Cell",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04771416",
+"t": "trial",
+"n": "Study of Safety, Tolerability and Efficacy of PBKR03 in Pediatric Subjects With Early Infa",
+"sub": "P1/P2 · suspended · 2022-2030",
+"url": "https://clinicaltrials.gov/study/NCT04771416",
+"c": ""
+},
+{
+"k": "org:gemma-biotherapeutics",
+"t": "company",
+"n": "Gemma Biotherapeutics",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:may-orfali",
+"t": "person",
+"n": "May Orfali",
+"sub": "study director · Gemma Biotherapeutics",
+"url": "",
+"c": ""
+},
+{
+"k": "org:ann-robert-lurie",
+"t": "company",
+"n": "Ann & Robert Lurie",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:new-york-presbyterian",
+"t": "company",
+"n": "New York-Presbyterian",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:the-children-s-hospital-of-philadelphia",
+"t": "hospital",
+"n": "The Children's Hospital of Philadelphia",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-utah-school-of-medicine",
+"t": "academic",
+"n": "University of Utah School of Medicine",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:hospital-de-clinicas-de-porto-alegre",
+"t": "hospital",
+"n": "Hospital De Clinicas De Porto Alegre",
+"sub": "",
+"url": "",
+"c": "Brazil"
+},
+{
+"k": "org:montreal-children-s-hospital",
+"t": "hospital",
+"n": "Montreal Children's Hospital",
+"sub": "",
+"url": "",
+"c": "Canada"
+},
+{
+"k": "org:shaare-zadek-medical-center",
+"t": "hospital",
+"n": "Shaare Zadek Medical Center",
+"sub": "",
+"url": "",
+"c": "Israel"
+},
+{
+"k": "org:amsterdam-umc",
+"t": "company",
+"n": "Amsterdam UMC",
+"sub": "",
+"url": "",
+"c": "Netherlands"
+},
+{
+"k": "org:manchester-university",
+"t": "academic",
+"n": "Manchester University",
+"sub": "",
+"url": "",
+"c": "United Kingdom"
+},
+{
+"k": "trial:nct07740512",
+"t": "trial",
+"n": "Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of PLX-200 in Pediatric P",
+"sub": "P2 · not_yet_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07740512",
+"c": ""
+},
+{
+"k": "org:polaryx-therapeutics",
+"t": "company",
+"n": "Polaryx Therapeutics, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:plx-200",
+"t": "drug",
+"n": "PLX-200",
+"sub": "Polaryx Therapeutics, Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05739643",
+"t": "trial",
+"n": "Gene Transfer Clinical Trial for Infantile and Late Infantile Krabbe Disease Treated Previ",
+"sub": "P1/P2 · active_not_recruiting · 2023-2026",
+"url": "https://clinicaltrials.gov/study/NCT05739643",
+"c": ""
+},
+{
+"k": "org:forge-biologics",
+"t": "company",
+"n": "Forge Biologics, Inc",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:children-s-hospital-of-orange-county-choc",
+"t": "hospital",
+"n": "Children's Hospital of Orange County (CHOC)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-michigan-hospitals-michigan-medicine",
+"t": "hospital",
+"n": "University of Michigan Hospitals - Michigan Medicine",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:duke-university-medical-center",
+"t": "hospital",
+"n": "Duke University Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:fbx-101",
+"t": "drug",
+"n": "FBX-101",
+"sub": "Forge Biologics, Inc",
+"url": "",
+"c": ""
+}
+],
+"edges": [
+{
+"a": "asset:nct-nct04771416",
+"b": "trial:nct04771416",
+"r": "tested_in"
+},
+{
+"a": "drug:fbx-101",
+"b": "asset:nct-nct04771416",
+"r": "competes"
+},
+{
+"a": "drug:fbx-101",
+"b": "trial:nct05739643",
+"r": "tested_in"
+},
+{
+"a": "drug:plx-200",
+"b": "asset:nct-nct04771416",
+"r": "competes"
+},
+{
+"a": "drug:plx-200",
+"b": "trial:nct07740512",
+"r": "tested_in"
+},
+{
+"a": "org:amsterdam-umc",
+"b": "trial:nct04771416",
+"r": "site_of"
+},
+{
+"a": "org:ann-robert-lurie",
+"b": "trial:nct04771416",
+"r": "site_of"
+},
+{
+"a": "org:children-s-hospital-of-orange-county-choc",
+"b": "trial:nct05739643",
+"r": "site_of"
+},
+{
+"a": "org:duke-university-medical-center",
+"b": "trial:nct05739643",
+"r": "site_of"
+},
+{
+"a": "org:forge-biologics",
+"b": "drug:fbx-101",
+"r": "develops"
+},
+{
+"a": "org:forge-biologics",
+"b": "trial:nct05739643",
+"r": "sponsors"
+},
+{
+"a": "org:gemma-biotherapeutics",
+"b": "trial:nct04771416",
+"r": "sponsors"
+},
+{
+"a": "org:hospital-de-clinicas-de-porto-alegre",
+"b": "trial:nct04771416",
+"r": "site_of"
+},
+{
+"a": "org:manchester-university",
+"b": "trial:nct04771416",
+"r": "site_of"
+},
+{
+"a": "org:montreal-children-s-hospital",
+"b": "trial:nct04771416",
+"r": "site_of"
+},
+{
+"a": "org:new-york-presbyterian",
+"b": "trial:nct04771416",
+"r": "site_of"
+},
+{
+"a": "org:polaryx-therapeutics",
+"b": "drug:plx-200",
+"r": "develops"
+},
+{
+"a": "org:polaryx-therapeutics",
+"b": "trial:nct07740512",
+"r": "sponsors"
+},
+{
+"a": "org:shaare-zadek-medical-center",
+"b": "trial:nct04771416",
+"r": "site_of"
+},
+{
+"a": "org:the-children-s-hospital-of-philadelphia",
+"b": "trial:nct04771416",
+"r": "site_of"
+},
+{
+"a": "org:university-of-michigan-hospitals-michigan-medicine",
+"b": "trial:nct05739643",
+"r": "site_of"
+},
+{
+"a": "org:university-of-utah-school-of-medicine",
+"b": "trial:nct04771416",
+"r": "site_of"
+},
+{
+"a": "person:may-orfali",
+"b": "org:gemma-biotherapeutics",
+"r": "affiliated"
+},
+{
+"a": "person:may-orfali",
+"b": "trial:nct04771416",
+"r": "investigator"
+}
+]
+}
