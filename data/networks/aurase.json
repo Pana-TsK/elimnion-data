@@ -1,6 +1,6 @@
 {
 "assetId": "aurase",
-"updated": "2026-10-14",
+"updated": "2026-10-15",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 24,
@@ -1235,7 +1235,7 @@
 "k": "paper:pmid-34605781",
 "t": "paper",
 "n": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Sh",
-"sub": "Critical Care Medicine 2021 · cited 2886",
+"sub": "Critical Care Medicine 2021 · cited 2889",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34605781",
 "c": ""
 },
@@ -1315,7 +1315,7 @@
 "k": "paper:pmid-37756368",
 "t": "paper",
 "n": "Human Wound and Its Burden: Updated 2022 Compendium of Estimates",
-"sub": "Advances in Wound Care 2023 · cited 356",
+"sub": "Advances in Wound Care 2023 · cited 359",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37756368",
 "c": ""
 },
@@ -1739,7 +1739,7 @@
 "k": "paper:pmid-37293810",
 "t": "paper",
 "n": "Prevalence and incidence of venous leg ulcers—A systematic review and meta‐analysis",
-"sub": "International Wound Journal 2023 · cited 122",
+"sub": "International Wound Journal 2023 · cited 123",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37293810",
 "c": ""
 },
@@ -2648,10 +2648,26 @@
 "c": ""
 },
 {
+"k": "org:university-of-warwick",
+"t": "funder",
+"n": "University of Warwick",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-oxford",
+"t": "funder",
+"n": "University of Oxford",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-31970660",
 "t": "paper",
 "n": "The Most Severe Stage of Chronic Venous Disease: An Update on the Management of Patients w",
-"sub": "Advances in Therapy 2020 · cited 56",
+"sub": "Advances in Therapy 2020 · cited 57",
 "url": "https://pubmed.ncbi.nlm.nih.gov/31970660",
 "c": ""
 },
@@ -2728,52 +2744,76 @@
 "c": ""
 },
 {
-"k": "paper:pmid-35855678",
+"k": "paper:pmid-37858977",
 "t": "paper",
-"n": "A meta‐review of the impact of compression therapy on venous leg ulcer healing",
-"sub": "International Wound Journal 2022 · cited 54",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35855678",
+"n": "Chronic venous insufficiency and venous leg ulcers: Aetiology, on the pathophysiology‐base",
+"sub": "International Wound Journal 2023 · cited 55",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37858977",
 "c": ""
 },
 {
-"k": "person:declan-patton",
+"k": "person:olga-krizanova",
 "t": "person",
-"n": "Declan Patton",
-"sub": "Griffith University",
-"url": "https://orcid.org/0000-0003-1018-2605",
-"c": "AU"
+"n": "Oľga Križanová",
+"sub": "Masaryk University",
+"url": "https://orcid.org/0000-0001-5377-9159",
+"c": "CZ"
 },
 {
-"k": "org:griffith-university",
+"k": "org:masaryk-university",
 "t": "academic",
-"n": "Griffith University",
+"n": "Masaryk University",
 "sub": "",
 "url": "",
-"c": "AU"
+"c": "CZ"
 },
 {
-"k": "org:royal-college-of-surgeons-in-ireland",
+"k": "org:biomedical-research-center-of-the-slovak-academy-of-sciences",
 "t": "academic",
-"n": "Royal College of Surgeons in Ireland",
+"n": "Biomedical Research Center of the Slovak Academy of Sciences",
 "sub": "",
 "url": "",
-"c": "IE"
+"c": "SK"
 },
 {
-"k": "person:pnar-avsar",
+"k": "person:petr-babula",
 "t": "person",
-"n": "Pınar Avşar",
-"sub": "Royal College of Surgeons in Ireland",
-"url": "https://orcid.org/0000-0002-7637-1700",
-"c": "IE"
+"n": "Petr Babula",
+"sub": "Masaryk University",
+"url": "https://orcid.org/0000-0003-2389-2868",
+"c": "CZ"
 },
 {
-"k": "person:zena-e-h-moore",
-"t": "person",
-"n": "Zena E. H. Moore",
-"sub": "Griffith University",
-"url": "https://orcid.org/0000-0002-4692-9718",
-"c": "AU"
+"k": "org:ministerstvo-zdravotnictvi-ceske-republiky",
+"t": "funder",
+"n": "Ministerstvo Zdravotnictví Ceské Republiky",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:agentura-na-podporu-vyskumu-a-vyvoja",
+"t": "funder",
+"n": "Agentúra na Podporu Výskumu a Vývoja",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:vedecka-grantova-agentura-msvvas-sr-a-sav",
+"t": "funder",
+"n": "Vedecká Grantová Agentúra MŠVVaŠ SR a SAV",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:agentura-pro-zdravotnicky-vyzkum-ceske-republiky",
+"t": "funder",
+"n": "Agentura Pro Zdravotnický Výzkum České Republiky",
+"sub": "",
+"url": "",
+"c": ""
 }
 ],
 "edges": [
@@ -2985,6 +3025,16 @@
 {
 "a": "org:agency-for-science-technology-and-research",
 "b": "paper:pmid-32149471",
+"r": "funded"
+},
+{
+"a": "org:agentura-na-podporu-vyskumu-a-vyvoja",
+"b": "paper:pmid-37858977",
+"r": "funded"
+},
+{
+"a": "org:agentura-pro-zdravotnicky-vyzkum-ceske-republiky",
+"b": "paper:pmid-37858977",
 "r": "funded"
 },
 {
@@ -3253,6 +3303,11 @@
 "r": "site_of"
 },
 {
+"a": "org:imperial-college-london",
+"b": "paper:pmid-32965493",
+"r": "funded"
+},
+{
 "a": "org:institute-for-health-innovation-and-technology-national-univ",
 "b": "paper:pmid-34020961",
 "r": "funded"
@@ -3386,6 +3441,11 @@
 "a": "org:merakris-therapeutics",
 "b": "trial:nct04647240",
 "r": "sponsors"
+},
+{
+"a": "org:ministerstvo-zdravotnictvi-ceske-republiky",
+"b": "paper:pmid-37858977",
+"r": "funded"
 },
 {
 "a": "org:ministerul-cercetarii-inovarii-si-digitalizarii",
@@ -3663,6 +3723,11 @@
 "r": "site_of"
 },
 {
+"a": "org:university-of-oxford",
+"b": "paper:pmid-32965493",
+"r": "funded"
+},
+{
 "a": "org:university-of-pittsburgh-mckeesport-clinic",
 "b": "trial:nct02577120",
 "r": "site_of"
@@ -3678,6 +3743,11 @@
 "r": "site_of"
 },
 {
+"a": "org:university-of-warwick",
+"b": "paper:pmid-32965493",
+"r": "funded"
+},
+{
 "a": "org:uno-medical-trials",
 "b": "trial:nct04956900",
 "r": "site_of"
@@ -3690,6 +3760,11 @@
 {
 "a": "org:utdannings-og-forskningsdepartementet",
 "b": "paper:pmid-31898398",
+"r": "funded"
+},
+{
+"a": "org:vedecka-grantova-agentura-msvvas-sr-a-sav",
+"b": "paper:pmid-37858977",
 "r": "funded"
 },
 {
@@ -3970,21 +4045,6 @@
 {
 "a": "person:chwee-teck-lim",
 "b": "paper:pmid-34020961",
-"r": "authored"
-},
-{
-"a": "person:declan-patton",
-"b": "org:griffith-university",
-"r": "affiliated"
-},
-{
-"a": "person:declan-patton",
-"b": "org:royal-college-of-surgeons-in-ireland",
-"r": "affiliated"
-},
-{
-"a": "person:declan-patton",
-"b": "paper:pmid-35855678",
 "r": "authored"
 },
 {
@@ -4478,6 +4538,21 @@
 "r": "authored"
 },
 {
+"a": "person:olga-krizanova",
+"b": "org:biomedical-research-center-of-the-slovak-academy-of-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:olga-krizanova",
+"b": "org:masaryk-university",
+"r": "affiliated"
+},
+{
+"a": "person:olga-krizanova",
+"b": "paper:pmid-37858977",
+"r": "authored"
+},
+{
 "a": "person:peter-f-lawrence",
 "b": "org:university-of-california-los-angeles",
 "r": "affiliated"
@@ -4488,13 +4563,13 @@
 "r": "authored"
 },
 {
-"a": "person:pnar-avsar",
-"b": "org:royal-college-of-surgeons-in-ireland",
+"a": "person:petr-babula",
+"b": "org:masaryk-university",
 "r": "affiliated"
 },
 {
-"a": "person:pnar-avsar",
-"b": "paper:pmid-35855678",
+"a": "person:petr-babula",
+"b": "paper:pmid-37858977",
 "r": "authored"
 },
 {
@@ -4700,21 +4775,6 @@
 {
 "a": "person:yuji-gao",
 "b": "paper:pmid-34020961",
-"r": "authored"
-},
-{
-"a": "person:zena-e-h-moore",
-"b": "org:griffith-university",
-"r": "affiliated"
-},
-{
-"a": "person:zena-e-h-moore",
-"b": "org:royal-college-of-surgeons-in-ireland",
-"r": "affiliated"
-},
-{
-"a": "person:zena-e-h-moore",
-"b": "paper:pmid-35855678",
 "r": "authored"
 },
 {

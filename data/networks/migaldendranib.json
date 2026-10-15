@@ -1,6 +1,6 @@
 {
 "assetId": "migaldendranib",
-"updated": "2026-10-14",
+"updated": "2026-10-15",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 79,
@@ -1752,6 +1752,14 @@
 "c": ""
 },
 {
+"k": "org:hull-royal-infirmary",
+"t": "company",
+"n": "Hull Royal Infirmary",
+"sub": "",
+"url": "",
+"c": "United Kingdom"
+},
+{
 "k": "org:royal-liverpool-university-hospital",
 "t": "hospital",
 "n": "Royal Liverpool University Hospital",
@@ -3267,7 +3275,7 @@
 "k": "paper:pmid-36349821",
 "t": "paper",
 "n": "Injectable Anti‐Inflammatory Supramolecular Nanofiber Hydrogel to Promote Anti‐VEGF Therap",
-"sub": "Advanced Materials 2022 · cited 105",
+"sub": "Advanced Materials 2022 · cited 106",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36349821",
 "c": ""
 },
@@ -3832,11 +3840,11 @@
 "c": ""
 },
 {
-"k": "person:hao-liang-wu",
+"k": "person:haoliang-wu",
 "t": "person",
-"n": "Hao-Liang Wu",
+"n": "Haoliang Wu",
 "sub": "University of Michigan",
-"url": "",
+"url": "https://orcid.org/0000-0002-2580-6719",
 "c": "US"
 },
 {
@@ -3982,14 +3990,6 @@
 "sub": "The Science of The Total Environment 2020 · cited 61",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32059325",
 "c": ""
-},
-{
-"k": "person:haoliang-wu",
-"t": "person",
-"n": "Haoliang Wu",
-"sub": "Hong Kong University of Science and Technology",
-"url": "",
-"c": "HK"
 },
 {
 "k": "org:hong-kong-university-of-science-and-technology",
@@ -4315,7 +4315,7 @@
 "k": "paper:pmid-33940045",
 "t": "paper",
 "n": "Global Prevalence of Diabetic Retinopathy and Projection of Burden through 2045",
-"sub": "Ophthalmology 2021 · cited 2369",
+"sub": "Ophthalmology 2021 · cited 2371",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33940045",
 "c": ""
 },
@@ -4419,7 +4419,7 @@
 "k": "paper:doi-10-1109-access-2020-2993937",
 "t": "paper",
 "n": "Diabetic Retinopathy Detection Using Prognosis of Microaneurysm and Early Diagnosis System",
-"sub": "IEEE Access 2020 · cited 303",
+"sub": "IEEE Access 2020 · cited 304",
 "url": "https://doi.org/10.1109/access.2020.2993937",
 "c": ""
 },
@@ -4635,7 +4635,7 @@
 "k": "paper:pmid-33576772",
 "t": "paper",
 "n": "A Global Assessment of Eye Health and Quality of Life",
-"sub": "JAMA Ophthalmology 2021 · cited 233",
+"sub": "JAMA Ophthalmology 2021 · cited 234",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33576772",
 "c": ""
 },
@@ -4875,7 +4875,7 @@
 "k": "paper:pmid-37499857",
 "t": "paper",
 "n": "Optical coherence tomography angiography in diabetic retinopathy",
-"sub": "Progress in Retinal and Eye Research 2023 · cited 178",
+"sub": "Progress in Retinal and Eye Research 2023 · cited 179",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37499857",
 "c": ""
 },
@@ -4939,7 +4939,7 @@
 "k": "paper:pmid-38158159",
 "t": "paper",
 "n": "Faricimab Treat-and-Extend for Diabetic Macular Edema",
-"sub": "Ophthalmology 2023 · cited 175",
+"sub": "Ophthalmology 2023 · cited 176",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38158159",
 "c": ""
 },
@@ -7525,6 +7525,11 @@
 "r": "site_of"
 },
 {
+"a": "org:hull-royal-infirmary",
+"b": "trial:nct06985706",
+"r": "site_of"
+},
+{
 "a": "org:incepta-pharmaceuticals",
 "b": "drug:lucentis",
 "r": "develops"
@@ -9745,29 +9750,24 @@
 "r": "authored"
 },
 {
-"a": "person:hao-liang-wu",
-"b": "org:southeast-university",
-"r": "affiliated"
-},
-{
-"a": "person:hao-liang-wu",
-"b": "org:university-of-michigan",
-"r": "affiliated"
-},
-{
-"a": "person:hao-liang-wu",
-"b": "paper:doi-10-1016-j-cemconcomp-2020-103550",
-"r": "authored"
-},
-{
 "a": "person:haoliang-wu",
 "b": "org:hong-kong-university-of-science-and-technology",
 "r": "affiliated"
 },
 {
 "a": "person:haoliang-wu",
+"b": "org:southeast-university",
+"r": "affiliated"
+},
+{
+"a": "person:haoliang-wu",
 "b": "org:university-of-michigan",
 "r": "affiliated"
+},
+{
+"a": "person:haoliang-wu",
+"b": "paper:doi-10-1016-j-cemconcomp-2020-103550",
+"r": "authored"
 },
 {
 "a": "person:haoliang-wu",
