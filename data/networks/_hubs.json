@@ -1,5 +1,5 @@
 {
-"generated": "2026-10-15",
+"generated": "2026-10-16",
 "hubs": [
 {
 "k": "person:bristol-myers-squibb",
@@ -11,14 +11,11 @@
 "assets": [
 "amsulostat",
 "cba1205",
-"nct-nct04111172",
-"nct-nct04260802",
 "nct-nct04295759",
 "nct-nct04817774",
 "nct-nct05275478",
 "nct-nct05551741",
 "nct-nct05785819",
-"nct-nct06088654",
 "nct-nct06210945",
 "nct-nct06411912",
 "nct-nct06677203",
@@ -62,22 +59,6 @@
 ]
 },
 {
-"k": "person:benjamin-oshrine",
-"t": "person",
-"n": "Benjamin Oshrine",
-"sub": "study chair · Parabilis Medicines, Inc.",
-"url": "",
-"c": "",
-"assets": [
-"cba1205",
-"nct-nct04111172",
-"nct-nct04346225",
-"nct-nct05262855",
-"nct-nct05275478",
-"nct-nct06692959"
-]
-},
-{
 "k": "person:zobair-m-younossi",
 "t": "person",
 "n": "Zobair M. Younossi",
@@ -91,6 +72,21 @@
 "lpcn1148",
 "m1pram",
 "vtp300"
+]
+},
+{
+"k": "person:benjamin-oshrine",
+"t": "person",
+"n": "Benjamin Oshrine",
+"sub": "study chair · Parabilis Medicines, Inc.",
+"url": "",
+"c": "",
+"assets": [
+"cba1205",
+"nct-nct04111172",
+"nct-nct04346225",
+"nct-nct05262855",
+"nct-nct05275478"
 ]
 },
 {
@@ -166,20 +162,6 @@
 ]
 },
 {
-"k": "person:john-m-floberg",
-"t": "person",
-"n": "John M Floberg",
-"sub": "principal investigator · JHU Sidney Kimmel Comprehensive Cancer Center LAO",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct04176497",
-"nct-nct04260802",
-"nct-nct04298541",
-"nct-nct04346225"
-]
-},
-{
 "k": "person:kenneth-j-cusi",
 "t": "person",
 "n": "Kenneth J. Cusi",
@@ -204,32 +186,6 @@
 "cba1205",
 "nct-nct04111172",
 "nct-nct04295759"
-]
-},
-{
-"k": "person:tom-chen",
-"t": "person",
-"n": "Tom Chen",
-"sub": "study chair · NeOnc Technologies",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct04111172",
-"nct-nct04295759",
-"nct-nct04298541"
-]
-},
-{
-"k": "person:josh-neman",
-"t": "person",
-"n": "Josh Neman",
-"sub": "study director · NeOnc Technologies Holdings, Inc.",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct04111172",
-"nct-nct04295759",
-"nct-nct04298541"
 ]
 },
 {
@@ -269,19 +225,6 @@
 "cba1205",
 "nct-nct04111172",
 "nct-nct05262855"
-]
-},
-{
-"k": "person:john-l-marshall",
-"t": "person",
-"n": "John L. Marshall",
-"sub": "principal investigator · Georgetown University",
-"url": "",
-"c": "",
-"assets": [
-"cba1205",
-"nct-nct04111172",
-"nct-nct06692959"
 ]
 },
 {
@@ -376,6 +319,19 @@
 ]
 },
 {
+"k": "person:john-m-floberg",
+"t": "person",
+"n": "John M Floberg",
+"sub": "principal investigator · JHU Sidney Kimmel Comprehensive Cancer Center LAO",
+"url": "",
+"c": "",
+"assets": [
+"nct-nct04176497",
+"nct-nct04298541",
+"nct-nct04346225"
+]
+},
+{
 "k": "person:jing-zhang",
 "t": "person",
 "n": "Jing Zhang",
@@ -389,10 +345,23 @@
 ]
 },
 {
-"k": "person:emily-weg-m-d",
+"k": "person:pei-rong-ding",
 "t": "person",
-"n": "Emily Weg, M.D",
-"sub": "principal investigator · Weill Medical College of Cornell University",
+"n": "Pei-Rong Ding",
+"sub": "principal investigator · Sun Yat-Sen University Cancer Center",
+"url": "",
+"c": "",
+"assets": [
+"nct-nct04111172",
+"nct-nct04260802",
+"nct-nct06692959"
+]
+},
+{
+"k": "person:peter-a-pinto-m-d",
+"t": "person",
+"n": "Peter A Pinto, M.D",
+"sub": "principal investigator · National Cancer Institute (NCI)",
 "url": "",
 "c": "",
 "assets": [
@@ -1155,6 +1124,42 @@
 ]
 },
 {
+"k": "person:tom-chen",
+"t": "person",
+"n": "Tom Chen",
+"sub": "study chair · NeOnc Technologies",
+"url": "",
+"c": "",
+"assets": [
+"nct-nct04295759",
+"nct-nct04298541"
+]
+},
+{
+"k": "person:josh-neman",
+"t": "person",
+"n": "Josh Neman",
+"sub": "study director · NeOnc Technologies Holdings, Inc.",
+"url": "",
+"c": "",
+"assets": [
+"nct-nct04295759",
+"nct-nct04298541"
+]
+},
+{
+"k": "person:sani-h-kizilbash-mph",
+"t": "person",
+"n": "Sani H. Kizilbash, MPH",
+"sub": "principal investigator · Mayo Clinic in Rochester",
+"url": "",
+"c": "",
+"assets": [
+"nct-nct04260802",
+"nct-nct04295759"
+]
+},
+{
 "k": "person:margot-lazow",
 "t": "person",
 "n": "Margot Lazow",
@@ -1167,10 +1172,34 @@
 ]
 },
 {
+"k": "person:dimitrios-i-kapogiannis-m-d",
+"t": "person",
+"n": "Dimitrios I Kapogiannis, M.D",
+"sub": "principal investigator · National Institute on Aging (NIA)",
+"url": "",
+"c": "",
+"assets": [
+"nct-nct05551741",
+"nct-nct06677203"
+]
+},
+{
 "k": "person:karen-o-moss",
 "t": "person",
 "n": "Karen O Moss",
 "sub": "principal investigator · Ohio State University",
+"url": "",
+"c": "",
+"assets": [
+"nct-nct05551741",
+"nct-nct06677203"
+]
+},
+{
+"k": "person:paul-sherwin",
+"t": "person",
+"n": "Paul Sherwin",
+"sub": "study director · GE Healthcare",
 "url": "",
 "c": "",
 "assets": [
@@ -1195,30 +1224,6 @@
 "t": "person",
 "n": "Sharon Sha, MS",
 "sub": "principal investigator · Stanford University",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct05551741",
-"nct-nct06677203"
-]
-},
-{
-"k": "person:paul-sherwin",
-"t": "person",
-"n": "Paul Sherwin",
-"sub": "study director · GE Healthcare",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct05551741",
-"nct-nct06677203"
-]
-},
-{
-"k": "person:dimitrios-i-kapogiannis-m-d",
-"t": "person",
-"n": "Dimitrios I Kapogiannis, M.D",
-"sub": "principal investigator · National Institute on Aging (NIA)",
 "url": "",
 "c": "",
 "assets": [
@@ -1263,6 +1268,18 @@
 ]
 },
 {
+"k": "person:christopher-morrow-mhs",
+"t": "person",
+"n": "Christopher Morrow, MHS",
+"sub": "principal investigator · Johns Hopkins University",
+"url": "",
+"c": "",
+"assets": [
+"nct-nct05551741",
+"nct-nct06677203"
+]
+},
+{
 "k": "person:stephen-dominy",
 "t": "person",
 "n": "Stephen Dominy",
@@ -1279,18 +1296,6 @@
 "t": "person",
 "n": "Suzanne Craft",
 "sub": "principal investigator · Wake Forest University Health Sciences / Wake Forest School of Me",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct05551741",
-"nct-nct06677203"
-]
-},
-{
-"k": "person:christopher-morrow-mhs",
-"t": "person",
-"n": "Christopher Morrow, MHS",
-"sub": "principal investigator · Johns Hopkins University",
 "url": "",
 "c": "",
 "assets": [
@@ -1380,6 +1385,30 @@
 "assets": [
 "bt101",
 "coch-aso"
+]
+},
+{
+"k": "person:theodore-lawrence",
+"t": "person",
+"n": "Theodore Lawrence",
+"sub": "principal investigator · University of Michigan Rogel Cancer Center",
+"url": "",
+"c": "",
+"assets": [
+"cba1205",
+"nct-nct04260802"
+]
+},
+{
+"k": "person:john-l-marshall",
+"t": "person",
+"n": "John L. Marshall",
+"sub": "principal investigator · Georgetown University",
+"url": "",
+"c": "",
+"assets": [
+"cba1205",
+"nct-nct04111172"
 ]
 },
 {
@@ -1563,10 +1592,10 @@
 ]
 },
 {
-"k": "person:jeffrey-a-yap",
+"k": "person:zhaohui-zhu",
 "t": "person",
-"n": "Jeffrey A Yap",
-"sub": "principal investigator · Huntsman Cancer Institute",
+"n": "Zhaohui Zhu",
+"sub": "principal investigator · Peking Union Medical College Hospital",
 "url": "",
 "c": "",
 "assets": [
@@ -1575,10 +1604,22 @@
 ]
 },
 {
-"k": "person:zhaohui-zhu",
+"k": "person:weibing-miao",
 "t": "person",
-"n": "Zhaohui Zhu",
-"sub": "principal investigator · Peking Union Medical College Hospital",
+"n": "Weibing Miao",
+"sub": "study chair · Department of Nuclear Medicine, First Affiliated Hospital of Fujian Medical ",
+"url": "",
+"c": "",
+"assets": [
+"nct-nct04176497",
+"nct-nct04298541"
+]
+},
+{
+"k": "person:andrei-iagaru",
+"t": "person",
+"n": "Andrei Iagaru",
+"sub": "principal investigator · Stanford Cancer Institute Palo Alto",
 "url": "",
 "c": "",
 "assets": [
@@ -1599,58 +1640,10 @@
 ]
 },
 {
-"k": "person:weibing-miao",
+"k": "person:juan-alderuccio",
 "t": "person",
-"n": "Weibing Miao",
-"sub": "principal investigator · First Affiliated Hospital of Fujian Medical University",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct04176497",
-"nct-nct04298541"
-]
-},
-{
-"k": "person:andrei-iagaru",
-"t": "person",
-"n": "Andrei Iagaru",
-"sub": "principal investigator · Stanford Cancer Institute",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct04176497",
-"nct-nct04298541"
-]
-},
-{
-"k": "person:matthew-j-wieduwilt",
-"t": "person",
-"n": "Matthew J Wieduwilt",
-"sub": "principal investigator · Alliance for Clinical Trials in Oncology",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct04260802",
-"nct-nct06088654"
-]
-},
-{
-"k": "person:diego-villa",
-"t": "person",
-"n": "Diego Villa",
-"sub": "study chair · BCCA-Vancouver Cancer Centre",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct04260802",
-"nct-nct06088654"
-]
-},
-{
-"k": "person:robert-puckrin",
-"t": "person",
-"n": "Robert Puckrin",
-"sub": "study chair · Tom Baker Cancer Centre, Calgary, AB Canada",
+"n": "Juan Alderuccio",
+"sub": "principal investigator · University of Miami",
 "url": "",
 "c": "",
 "assets": [
@@ -2595,6 +2588,18 @@
 ]
 },
 {
+"k": "person:ashesh-jani-msee",
+"t": "person",
+"n": "Ashesh Jani, MSEE",
+"sub": "principal investigator · Emory University",
+"url": "",
+"c": "",
+"assets": [
+"nct-nct04176497",
+"nct-nct04346225"
+]
+},
+{
 "k": "person:rahul-aggarwal",
 "t": "person",
 "n": "Rahul Aggarwal",
@@ -2607,10 +2612,22 @@
 ]
 },
 {
-"k": "person:peter-a-pinto-m-d",
+"k": "person:robert-flavell",
 "t": "person",
-"n": "Peter A Pinto, M.D",
-"sub": "principal investigator · National Cancer Institute (NCI)",
+"n": "Robert Flavell",
+"sub": "principal investigator · University of California, San Francisco",
+"url": "",
+"c": "",
+"assets": [
+"nct-nct04176497",
+"nct-nct04346225"
+]
+},
+{
+"k": "person:emily-weg-m-d",
+"t": "person",
+"n": "Emily Weg, M.D",
+"sub": "principal investigator · Weill Medical College of Cornell University",
 "url": "",
 "c": "",
 "assets": [
@@ -2643,10 +2660,10 @@
 ]
 },
 {
-"k": "person:mehmet-a-bilen-m-d",
+"k": "person:melissa-l-abel-m-d",
 "t": "person",
-"n": "Mehmet A Bilen, M.D",
-"sub": "principal investigator · Emory University Hospital/Winship Cancer Institute",
+"n": "Melissa L Abel, M.D",
+"sub": "principal investigator · National Cancer Institute (NCI)",
 "url": "",
 "c": "",
 "assets": [
@@ -2679,18 +2696,6 @@
 ]
 },
 {
-"k": "person:melissa-l-abel-m-d",
-"t": "person",
-"n": "Melissa L Abel, M.D",
-"sub": "principal investigator · National Cancer Institute (NCI)",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct04176497",
-"nct-nct04346225"
-]
-},
-{
 "k": "person:kerri-winters-stone",
 "t": "person",
 "n": "Kerri Winters-Stone",
@@ -2703,10 +2708,10 @@
 ]
 },
 {
-"k": "person:atish-d-choudhury",
+"k": "person:mehmet-a-bilen-m-d",
 "t": "person",
-"n": "Atish D Choudhury",
-"sub": "principal investigator · Dana-Farber - Harvard Cancer Center LAO",
+"n": "Mehmet A Bilen, M.D",
+"sub": "principal investigator · Emory University Hospital/Winship Cancer Institute",
 "url": "",
 "c": "",
 "assets": [
@@ -2739,58 +2744,22 @@
 ]
 },
 {
+"k": "person:atish-d-choudhury",
+"t": "person",
+"n": "Atish D Choudhury",
+"sub": "principal investigator · Dana-Farber - Harvard Cancer Center LAO",
+"url": "",
+"c": "",
+"assets": [
+"nct-nct04176497",
+"nct-nct04346225"
+]
+},
+{
 "k": "person:david-vanderweele",
 "t": "person",
 "n": "David VanderWeele",
 "sub": "principal investigator · Northwestern University",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct04176497",
-"nct-nct04346225"
-]
-},
-{
-"k": "person:chi-fai-ng",
-"t": "person",
-"n": "Chi Fai NG",
-"sub": "principal investigator · Chinese University of Hong Kong",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct04176497",
-"nct-nct04346225"
-]
-},
-{
-"k": "person:ashutosh-k-tewari",
-"t": "person",
-"n": "Ashutosh K Tewari",
-"sub": "principal investigator · Icahn School of Medicine at Mount Sinai",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct04176497",
-"nct-nct04346225"
-]
-},
-{
-"k": "person:dimple-chakravarty",
-"t": "person",
-"n": "Dimple Chakravarty",
-"sub": "principal investigator · Icahn School of Medicine at Mount Sinai",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct04176497",
-"nct-nct04346225"
-]
-},
-{
-"k": "person:russell-k-pachynski",
-"t": "person",
-"n": "Russell K Pachynski",
-"sub": "principal investigator · Yale University Cancer Center LAO",
 "url": "",
 "c": "",
 "assets": [
@@ -2928,6 +2897,18 @@
 "assets": [
 "nct-nct04913272",
 "nct-nct05407389"
+]
+},
+{
+"k": "person:jinbo-yue-docter",
+"t": "person",
+"n": "Jinbo Yue, Docter",
+"sub": "principal investigator · Shandong Cancer Hospital and Institute",
+"url": "",
+"c": "",
+"assets": [
+"nct-nct04111172",
+"nct-nct06692959"
 ]
 },
 {
@@ -3495,18 +3476,6 @@
 ]
 },
 {
-"k": "person:gretel-terrero",
-"t": "person",
-"n": "Gretel Terrero",
-"sub": "principal investigator · University of Miami",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct04111172",
-"nct-nct05262855"
-]
-},
-{
 "k": "person:christos-fountzilas",
 "t": "person",
 "n": "Christos Fountzilas",
@@ -3519,22 +3488,10 @@
 ]
 },
 {
-"k": "person:sherly-mosessian-ph-d",
+"k": "person:gretel-terrero",
 "t": "person",
-"n": "Sherly Mosessian, Ph.D",
-"sub": "study director · Sofie Co.",
-"url": "",
-"c": "",
-"assets": [
-"nct-nct04111172",
-"nct-nct05262855"
-]
-},
-{
-"k": "person:alice-wei",
-"t": "person",
-"n": "Alice Wei",
-"sub": "principal investigator · Memorial Sloan Kettering Cancer Center",
+"n": "Gretel Terrero",
+"sub": "principal investigator · University of Miami",
 "url": "",
 "c": "",
 "assets": [
@@ -4095,6 +4052,18 @@
 ]
 },
 {
+"k": "person:judith-helen-cross",
+"t": "person",
+"n": "Judith Helen Cross",
+"sub": "National Institute for Health and Care Research",
+"url": "https://orcid.org/0000-0001-7345-4829",
+"c": "GB",
+"assets": [
+"p-19fc72dc",
+"p-39b0eddd"
+]
+},
+{
 "k": "person:francis-s-willard",
 "t": "person",
 "n": "Francis S. Willard",
@@ -4395,6 +4364,18 @@
 ]
 },
 {
+"k": "person:amy-mctague",
+"t": "person",
+"n": "Amy McTague",
+"sub": "Great Ormond Street Hospital",
+"url": "https://orcid.org/0000-0002-0334-2909",
+"c": "GB",
+"assets": [
+"etx155",
+"p-39b0eddd"
+]
+},
+{
 "k": "person:sharika-v-raga",
 "t": "person",
 "n": "Sharika V. Raga",
@@ -4413,18 +4394,6 @@
 "sub": "University of Cape Town",
 "url": "https://orcid.org/0000-0001-7328-1796",
 "c": "ZA",
-"assets": [
-"etx155",
-"p-39b0eddd"
-]
-},
-{
-"k": "person:amy-mctague",
-"t": "person",
-"n": "Amy McTague",
-"sub": "Great Ormond Street Hospital",
-"url": "https://orcid.org/0000-0002-0334-2909",
-"c": "GB",
 "assets": [
 "etx155",
 "p-39b0eddd"
@@ -4605,30 +4574,6 @@
 "sub": "University of Michigan",
 "url": "https://orcid.org/0000-0002-8331-9812",
 "c": "US",
-"assets": [
-"etx155",
-"p-39b0eddd"
-]
-},
-{
-"k": "person:katherine-r-schon",
-"t": "person",
-"n": "Katherine R. Schon",
-"sub": "University of Cambridge",
-"url": "https://orcid.org/0000-0001-8054-8954",
-"c": "GB",
-"assets": [
-"etx155",
-"p-39b0eddd"
-]
-},
-{
-"k": "person:patrick-francis-chinnery",
-"t": "person",
-"n": "Patrick Francis Chinnery",
-"sub": "Queen Mary University of London",
-"url": "https://orcid.org/0000-0002-7065-6617",
-"c": "GB",
 "assets": [
 "etx155",
 "p-39b0eddd"
@@ -5497,6 +5442,7 @@
 "migaldendranib",
 "nct-nct04111172",
 "nct-nct04176497",
+"nct-nct04260802",
 "nct-nct04295759",
 "nct-nct04298541",
 "nct-nct04346225",
@@ -5507,7 +5453,6 @@
 "nct-nct05785819",
 "nct-nct06411912",
 "nct-nct06677307",
-"nct-nct06692959",
 "nct-nct06705998",
 "opm101",
 "p-19fc72dc",
@@ -5538,6 +5483,7 @@
 "nct-nct04111172",
 "nct-nct04145674",
 "nct-nct04176497",
+"nct-nct04260802",
 "nct-nct04295759",
 "nct-nct04298541",
 "nct-nct04346225",
@@ -5549,6 +5495,7 @@
 "nct-nct05785819",
 "nct-nct06411912",
 "nct-nct06677203",
+"nct-nct06692959",
 "nct-nct06705998",
 "opm101",
 "p-19fc72dc",
@@ -5581,6 +5528,7 @@
 "migaldendranib",
 "nct-nct04111172",
 "nct-nct04176497",
+"nct-nct04260802",
 "nct-nct04295759",
 "nct-nct04298541",
 "nct-nct04346225",
@@ -5627,6 +5575,7 @@
 "nct-nct05502367",
 "nct-nct05785819",
 "nct-nct06210945",
+"nct-nct06692959",
 "nct-nct06705998",
 "opm101",
 "p-19fc72dc",
@@ -5655,7 +5604,6 @@
 "coch-aso",
 "her096",
 "lpcn1148",
-"nct-nct04111172",
 "nct-nct04176497",
 "nct-nct04295759",
 "nct-nct04298541",
@@ -5675,37 +5623,37 @@
 ]
 },
 {
-"k": "org:cedars-sinai-medical-center",
-"t": "hospital",
-"n": "Cedars-Sinai Medical Center",
+"k": "org:johns-hopkins-university",
+"t": "academic",
+"n": "Johns Hopkins University",
 "sub": "",
 "url": "",
 "c": "United States",
 "assets": [
-"abs101",
-"alg055009",
-"aurase",
-"belapectin",
-"cba1205",
+"acd440",
+"amsulostat",
+"anxv",
+"aup16",
+"coch-aso",
+"etx155",
 "her096",
 "lpcn1148",
+"migaldendranib",
 "nct-nct04111172",
-"nct-nct04260802",
 "nct-nct04295759",
-"nct-nct04298541",
 "nct-nct04346225",
-"nct-nct04817774",
 "nct-nct05262855",
 "nct-nct05275478",
 "nct-nct05349721",
-"nct-nct06088654",
+"nct-nct05551741",
 "nct-nct06210945",
-"nct-nct06411912",
+"nct-nct06677203",
 "nct-nct06692959",
-"nct-nct06705998",
-"opm101",
-"p-19fc72dc",
+"p-39b0eddd",
+"sbt101",
+"tesomet",
 "ves001",
+"vtp300",
 "xald-fingolimod"
 ]
 },
@@ -5745,36 +5693,70 @@
 ]
 },
 {
-"k": "org:johns-hopkins-university",
-"t": "academic",
-"n": "Johns Hopkins University",
+"k": "org:cedars-sinai-medical-center",
+"t": "hospital",
+"n": "Cedars-Sinai Medical Center",
 "sub": "",
 "url": "",
 "c": "United States",
 "assets": [
-"acd440",
-"amsulostat",
-"anxv",
-"aup16",
-"coch-aso",
-"etx155",
+"abs101",
+"alg055009",
+"aurase",
+"belapectin",
+"cba1205",
 "her096",
 "lpcn1148",
-"migaldendranib",
 "nct-nct04111172",
 "nct-nct04295759",
+"nct-nct04298541",
 "nct-nct04346225",
+"nct-nct04817774",
 "nct-nct05262855",
 "nct-nct05275478",
 "nct-nct05349721",
+"nct-nct06088654",
+"nct-nct06210945",
+"nct-nct06411912",
+"nct-nct06692959",
+"nct-nct06705998",
+"opm101",
+"p-19fc72dc",
+"ves001",
+"xald-fingolimod"
+]
+},
+{
+"k": "org:university-of-alabama-at-birmingham",
+"t": "academic",
+"n": "University of Alabama at Birmingham",
+"sub": "",
+"url": "",
+"c": "United States",
+"assets": [
+"acumapimod",
+"amsulostat",
+"arina1",
+"belapectin",
+"her096",
+"lpcn1148",
+"m1pram",
+"migaldendranib",
+"nct-nct04176497",
+"nct-nct04295759",
+"nct-nct04298541",
+"nct-nct04346225",
+"nct-nct04817774",
 "nct-nct05551741",
 "nct-nct06210945",
+"nct-nct06340958",
 "nct-nct06677203",
+"nct-nct06677307",
+"nct-nct06692959",
+"nct-nct06705998",
+"p-19fc72dc",
 "p-39b0eddd",
-"sbt101",
 "tesomet",
-"ves001",
-"vtp300",
 "xald-fingolimod"
 ]
 },
@@ -5796,14 +5778,14 @@
 "etx155",
 "lpcn1148",
 "nct-nct04111172",
-"nct-nct04176497",
+"nct-nct04260802",
 "nct-nct04295759",
 "nct-nct04298541",
 "nct-nct05262855",
 "nct-nct05275478",
 "nct-nct05349721",
 "nct-nct05785819",
-"nct-nct06692959",
+"nct-nct06088654",
 "nct-nct06705998",
 "p-19fc72dc",
 "p-39b0eddd",
@@ -5834,49 +5816,15 @@
 "nct-nct04346225",
 "nct-nct05262855",
 "nct-nct05275478",
-"nct-nct05551741",
 "nct-nct05785819",
 "nct-nct06088654",
 "nct-nct06210945",
-"nct-nct06677203",
+"nct-nct06692959",
 "ngn101",
 "opm101",
 "synj1",
 "vinpocetine-msa",
 "vtp300"
-]
-},
-{
-"k": "org:university-of-alabama-at-birmingham",
-"t": "academic",
-"n": "University of Alabama at Birmingham",
-"sub": "",
-"url": "",
-"c": "United States",
-"assets": [
-"acumapimod",
-"amsulostat",
-"arina1",
-"belapectin",
-"her096",
-"lpcn1148",
-"m1pram",
-"migaldendranib",
-"nct-nct04176497",
-"nct-nct04295759",
-"nct-nct04298541",
-"nct-nct04346225",
-"nct-nct04817774",
-"nct-nct05551741",
-"nct-nct06210945",
-"nct-nct06340958",
-"nct-nct06677203",
-"nct-nct06677307",
-"nct-nct06705998",
-"p-19fc72dc",
-"p-39b0eddd",
-"tesomet",
-"xald-fingolimod"
 ]
 },
 {
@@ -6037,64 +5985,6 @@
 ]
 },
 {
-"k": "org:astrazeneca",
-"t": "company",
-"n": "AstraZeneca",
-"sub": "",
-"url": "",
-"c": "",
-"assets": [
-"alg055009",
-"belapectin",
-"cba1205",
-"lpcn1148",
-"m1pram",
-"nct-nct04111172",
-"nct-nct04176497",
-"nct-nct04260802",
-"nct-nct04295759",
-"nct-nct04298541",
-"nct-nct04346225",
-"nct-nct04817774",
-"nct-nct05262855",
-"nct-nct06088654",
-"nct-nct06210945",
-"nct-nct06411912",
-"nct-nct06705998",
-"vinpocetine-msa",
-"vtp300"
-]
-},
-{
-"k": "org:northwestern-university",
-"t": "academic",
-"n": "Northwestern University",
-"sub": "",
-"url": "",
-"c": "United States",
-"assets": [
-"alg055009",
-"arina1",
-"belapectin",
-"cba1205",
-"coch-aso",
-"her096",
-"lpcn1148",
-"nct-nct04176497",
-"nct-nct04260802",
-"nct-nct04295759",
-"nct-nct04298541",
-"nct-nct04346225",
-"nct-nct05275478",
-"nct-nct05349721",
-"nct-nct06088654",
-"nct-nct06210945",
-"nct-nct06411912",
-"nct-nct06705998",
-"xald-fingolimod"
-]
-},
-{
 "k": "org:university-of-southern-california",
 "t": "academic",
 "n": "University of Southern California",
@@ -6124,6 +6014,62 @@
 ]
 },
 {
+"k": "org:astrazeneca",
+"t": "company",
+"n": "AstraZeneca",
+"sub": "",
+"url": "",
+"c": "",
+"assets": [
+"alg055009",
+"belapectin",
+"cba1205",
+"lpcn1148",
+"m1pram",
+"nct-nct04111172",
+"nct-nct04176497",
+"nct-nct04295759",
+"nct-nct04298541",
+"nct-nct04346225",
+"nct-nct04817774",
+"nct-nct05262855",
+"nct-nct06088654",
+"nct-nct06210945",
+"nct-nct06411912",
+"nct-nct06705998",
+"vinpocetine-msa",
+"vtp300"
+]
+},
+{
+"k": "org:northwestern-university",
+"t": "academic",
+"n": "Northwestern University",
+"sub": "",
+"url": "",
+"c": "United States",
+"assets": [
+"alg055009",
+"arina1",
+"belapectin",
+"cba1205",
+"coch-aso",
+"her096",
+"lpcn1148",
+"nct-nct04176497",
+"nct-nct04295759",
+"nct-nct04298541",
+"nct-nct04346225",
+"nct-nct05275478",
+"nct-nct05349721",
+"nct-nct06088654",
+"nct-nct06210945",
+"nct-nct06411912",
+"nct-nct06705998",
+"xald-fingolimod"
+]
+},
+{
 "k": "org:eli-lilly-and-company",
 "t": "company",
 "n": "Eli Lilly and Company",
@@ -6145,9 +6091,114 @@
 "nct-nct05785819",
 "nct-nct06340958",
 "nct-nct06677203",
+"nct-nct06692959",
 "nct-nct06705998",
 "opm101",
 "ves001"
+]
+},
+{
+"k": "org:memorial-sloan-kettering-cancer-center",
+"t": "company",
+"n": "Memorial Sloan Kettering Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States",
+"assets": [
+"amsulostat",
+"bt101",
+"cba1205",
+"coch-aso",
+"nct-nct04111172",
+"nct-nct04176497",
+"nct-nct04260802",
+"nct-nct04295759",
+"nct-nct04298541",
+"nct-nct05262855",
+"nct-nct05275478",
+"nct-nct06088654",
+"nct-nct06411912",
+"nct-nct06692959",
+"vtp300",
+"xald-fingolimod"
+]
+},
+{
+"k": "org:university-of-washington",
+"t": "academic",
+"n": "University of Washington",
+"sub": "",
+"url": "",
+"c": "US",
+"assets": [
+"acd440",
+"amsulostat",
+"aurase",
+"belapectin",
+"coch-aso",
+"her096",
+"lpcn1148",
+"m1pram",
+"migaldendranib",
+"nct-nct04176497",
+"nct-nct04817774",
+"nct-nct05785819",
+"nct-nct06088654",
+"sbt101",
+"synj1",
+"tesomet"
+]
+},
+{
+"k": "org:washington-university-school-of-medicine",
+"t": "academic",
+"n": "Washington University School of Medicine",
+"sub": "",
+"url": "",
+"c": "United States",
+"assets": [
+"abs101",
+"amsulostat",
+"arina1",
+"bt101",
+"lpcn1148",
+"nct-nct04111172",
+"nct-nct04298541",
+"nct-nct04346225",
+"nct-nct04817774",
+"nct-nct05262855",
+"nct-nct05275478",
+"nct-nct05349721",
+"nct-nct06692959",
+"opm101",
+"ves001",
+"vinpocetine-msa"
+]
+},
+{
+"k": "org:novartis-pharmaceuticals",
+"t": "company",
+"n": "Novartis Pharmaceuticals",
+"sub": "",
+"url": "",
+"c": "",
+"assets": [
+"amsulostat",
+"anxv",
+"migaldendranib",
+"nct-nct04176497",
+"nct-nct04260802",
+"nct-nct04298541",
+"nct-nct04346225",
+"nct-nct05262855",
+"nct-nct05275478",
+"nct-nct05785819",
+"nct-nct06210945",
+"nct-nct06411912",
+"nct-nct06692959",
+"ves001",
+"vinpocetine-msa",
+"xald-fingolimod"
 ]
 },
 {
@@ -6169,11 +6220,60 @@
 "nct-nct05275478",
 "nct-nct05551741",
 "nct-nct05785819",
-"nct-nct06088654",
 "nct-nct06210945",
 "nct-nct06411912",
 "nct-nct06677203",
 "xald-fingolimod"
+]
+},
+{
+"k": "org:pfizer",
+"t": "company",
+"n": "Pfizer",
+"sub": "",
+"url": "",
+"c": "",
+"assets": [
+"cba1205",
+"m1pram",
+"nct-nct04111172",
+"nct-nct04176497",
+"nct-nct04260802",
+"nct-nct04295759",
+"nct-nct04346225",
+"nct-nct05262855",
+"nct-nct05275478",
+"nct-nct05349721",
+"nct-nct05785819",
+"nct-nct06210945",
+"nct-nct06411912",
+"nct-nct06692959",
+"tesomet"
+]
+},
+{
+"k": "org:university-college-london",
+"t": "academic",
+"n": "University College London",
+"sub": "",
+"url": "",
+"c": "United Kingdom",
+"assets": [
+"acd440",
+"acumapimod",
+"belapectin",
+"bt101",
+"coch-aso",
+"etx155",
+"her096",
+"nct-nct05349721",
+"nct-nct06411912",
+"ngn101",
+"p-19fc72dc",
+"p-39b0eddd",
+"synj1",
+"tesomet",
+"vtp300"
 ]
 },
 {
@@ -6193,7 +6293,6 @@
 "coch-aso",
 "lpcn1148",
 "migaldendranib",
-"nct-nct04176497",
 "nct-nct04346225",
 "nct-nct05262855",
 "nct-nct06088654",
@@ -6228,31 +6327,6 @@
 ]
 },
 {
-"k": "org:washington-university-school-of-medicine",
-"t": "academic",
-"n": "Washington University School of Medicine",
-"sub": "",
-"url": "",
-"c": "United States",
-"assets": [
-"abs101",
-"amsulostat",
-"arina1",
-"bt101",
-"lpcn1148",
-"nct-nct04260802",
-"nct-nct04298541",
-"nct-nct04346225",
-"nct-nct04817774",
-"nct-nct05262855",
-"nct-nct05275478",
-"nct-nct05349721",
-"opm101",
-"ves001",
-"vinpocetine-msa"
-]
-},
-{
 "k": "org:cleveland-clinic",
 "t": "hospital",
 "n": "Cleveland Clinic",
@@ -6275,175 +6349,6 @@
 "p-39b0eddd",
 "tesomet",
 "xald-fingolimod"
-]
-},
-{
-"k": "org:novartis-pharmaceuticals",
-"t": "company",
-"n": "Novartis Pharmaceuticals",
-"sub": "",
-"url": "",
-"c": "",
-"assets": [
-"amsulostat",
-"anxv",
-"migaldendranib",
-"nct-nct04176497",
-"nct-nct04298541",
-"nct-nct04346225",
-"nct-nct05262855",
-"nct-nct05275478",
-"nct-nct05785819",
-"nct-nct06210945",
-"nct-nct06411912",
-"nct-nct06692959",
-"ves001",
-"vinpocetine-msa",
-"xald-fingolimod"
-]
-},
-{
-"k": "org:memorial-sloan-kettering-cancer-center",
-"t": "academic",
-"n": "Memorial Sloan Kettering Cancer Center",
-"sub": "",
-"url": "",
-"c": "",
-"assets": [
-"amsulostat",
-"bt101",
-"cba1205",
-"coch-aso",
-"nct-nct04111172",
-"nct-nct04176497",
-"nct-nct04295759",
-"nct-nct04298541",
-"nct-nct05262855",
-"nct-nct05275478",
-"nct-nct06088654",
-"nct-nct06411912",
-"vtp300",
-"xald-fingolimod"
-]
-},
-{
-"k": "org:weill-cornell-medicine",
-"t": "company",
-"n": "Weill Cornell Medicine",
-"sub": "",
-"url": "",
-"c": "United States",
-"assets": [
-"amsulostat",
-"etx155",
-"her096",
-"m1pram",
-"nct-nct04176497",
-"nct-nct04260802",
-"nct-nct04295759",
-"nct-nct04298541",
-"nct-nct04346225",
-"ngn101",
-"p-39b0eddd",
-"synj1",
-"ves001",
-"xald-fingolimod"
-]
-},
-{
-"k": "org:pfizer",
-"t": "company",
-"n": "Pfizer",
-"sub": "",
-"url": "",
-"c": "",
-"assets": [
-"cba1205",
-"m1pram",
-"nct-nct04111172",
-"nct-nct04176497",
-"nct-nct04295759",
-"nct-nct04346225",
-"nct-nct05262855",
-"nct-nct05275478",
-"nct-nct05349721",
-"nct-nct05785819",
-"nct-nct06210945",
-"nct-nct06411912",
-"nct-nct06692959",
-"tesomet"
-]
-},
-{
-"k": "org:yale-university-school-of-medicine",
-"t": "academic",
-"n": "Yale University School of Medicine",
-"sub": "",
-"url": "",
-"c": "United States",
-"assets": [
-"amsulostat",
-"bt101",
-"nct-nct04111172",
-"nct-nct04176497",
-"nct-nct04260802",
-"nct-nct04346225",
-"nct-nct05262855",
-"nct-nct05275478",
-"nct-nct05551741",
-"nct-nct05785819",
-"nct-nct06340958",
-"nct-nct06411912",
-"nct-nct06677203",
-"nct-nct06692959"
-]
-},
-{
-"k": "org:university-of-washington",
-"t": "academic",
-"n": "University of Washington",
-"sub": "",
-"url": "",
-"c": "US",
-"assets": [
-"acd440",
-"amsulostat",
-"aurase",
-"belapectin",
-"coch-aso",
-"her096",
-"lpcn1148",
-"m1pram",
-"migaldendranib",
-"nct-nct04817774",
-"nct-nct05785819",
-"sbt101",
-"synj1",
-"tesomet"
-]
-},
-{
-"k": "org:university-college-london",
-"t": "academic",
-"n": "University College London",
-"sub": "",
-"url": "",
-"c": "United Kingdom",
-"assets": [
-"acd440",
-"acumapimod",
-"belapectin",
-"bt101",
-"coch-aso",
-"etx155",
-"her096",
-"nct-nct05349721",
-"nct-nct06411912",
-"ngn101",
-"p-39b0eddd",
-"synj1",
-"tesomet",
-"vtp300"
 ]
 },
 {
@@ -6495,6 +6400,29 @@
 ]
 },
 {
+"k": "org:university-of-arizona",
+"t": "academic",
+"n": "University of Arizona",
+"sub": "",
+"url": "",
+"c": "United States",
+"assets": [
+"acd440",
+"coch-aso",
+"lpcn1148",
+"nct-nct04111172",
+"nct-nct04176497",
+"nct-nct04260802",
+"nct-nct04295759",
+"nct-nct04346225",
+"nct-nct05262855",
+"nct-nct05275478",
+"nct-nct05349721",
+"nct-nct06340958",
+"nct-nct06411912"
+]
+},
+{
 "k": "org:university-of-nebraska-medical-center",
 "t": "hospital",
 "n": "University of Nebraska Medical Center",
@@ -6541,72 +6469,72 @@
 ]
 },
 {
-"k": "org:the-university-of-texas-md-anderson-cancer-center",
-"t": "academic",
-"n": "The University of Texas MD Anderson Cancer Center",
+"k": "org:weill-cornell-medicine",
+"t": "company",
+"n": "Weill Cornell Medicine",
 "sub": "",
 "url": "",
 "c": "United States",
 "assets": [
 "amsulostat",
-"belapectin",
-"bt101",
-"cba1205",
-"coch-aso",
-"nct-nct04111172",
-"nct-nct04295759",
-"nct-nct04346225",
-"nct-nct05275478",
-"nct-nct05785819",
-"nct-nct06677307",
-"nct-nct06692959",
-"tesomet"
-]
-},
-{
-"k": "org:m-d-anderson-cancer-center",
-"t": "academic",
-"n": "M.D. Anderson Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States",
-"assets": [
-"amsulostat",
-"nct-nct04111172",
+"etx155",
+"her096",
+"m1pram",
 "nct-nct04176497",
-"nct-nct04260802",
 "nct-nct04295759",
 "nct-nct04298541",
 "nct-nct04346225",
+"ngn101",
+"p-39b0eddd",
+"synj1",
+"ves001",
+"xald-fingolimod"
+]
+},
+{
+"k": "org:yale-university-school-of-medicine",
+"t": "academic",
+"n": "Yale University School of Medicine",
+"sub": "",
+"url": "",
+"c": "United States",
+"assets": [
+"amsulostat",
+"bt101",
+"nct-nct04111172",
+"nct-nct04176497",
+"nct-nct04346225",
 "nct-nct05262855",
 "nct-nct05275478",
-"nct-nct05502367",
-"nct-nct06088654",
-"nct-nct06210945",
+"nct-nct05551741",
+"nct-nct05785819",
+"nct-nct06340958",
+"nct-nct06411912",
+"nct-nct06677203",
 "nct-nct06692959"
 ]
 },
 {
-"k": "org:regeneron-pharmaceuticals",
-"t": "company",
-"n": "Regeneron Pharmaceuticals",
+"k": "org:nyu-langone-health",
+"t": "hospital",
+"n": "NYU Langone Health",
 "sub": "",
 "url": "",
-"c": "",
+"c": "US",
 "assets": [
-"alg055009",
-"belapectin",
+"aurase",
 "coch-aso",
-"lpcn1148",
-"migaldendranib",
-"nct-nct04111172",
-"nct-nct04346225",
+"etx155",
+"m1pram",
+"nct-nct04260802",
+"nct-nct04298541",
 "nct-nct05262855",
-"nct-nct05349721",
-"nct-nct06088654",
-"nct-nct06411912",
+"nct-nct05275478",
 "nct-nct06692959",
-"nct-nct06705998"
+"p-19fc72dc",
+"p-39b0eddd",
+"vinpocetine-msa",
+"vtp300"
 ]
 },
 {
@@ -6679,14 +6607,14 @@
 ]
 },
 {
-"k": "org:usc-norris-comprehensive-cancer-center",
-"t": "company",
-"n": "USC Norris Comprehensive Cancer Center",
+"k": "org:dana-farber-cancer-institute",
+"t": "academic",
+"n": "Dana-Farber Cancer Institute",
 "sub": "",
 "url": "",
 "c": "United States",
 "assets": [
-"amsulostat",
+"cba1205",
 "nct-nct04111172",
 "nct-nct04176497",
 "nct-nct04260802",
@@ -6695,9 +6623,31 @@
 "nct-nct04346225",
 "nct-nct05262855",
 "nct-nct05275478",
-"nct-nct05785819",
 "nct-nct06411912",
+"nct-nct06677307",
 "nct-nct06692959"
+]
+},
+{
+"k": "org:mayo-clinic-in-florida",
+"t": "hospital",
+"n": "Mayo Clinic in Florida",
+"sub": "",
+"url": "",
+"c": "US",
+"assets": [
+"abs101",
+"cba1205",
+"nct-nct04111172",
+"nct-nct04260802",
+"nct-nct04295759",
+"nct-nct05275478",
+"nct-nct05349721",
+"nct-nct06088654",
+"nct-nct06411912",
+"opm101",
+"ves001",
+"vinpocetine-msa"
 ]
 },
 {
@@ -6735,10 +6685,10 @@
 "bt101",
 "etx155",
 "lpcn1148",
-"nct-nct04111172",
 "nct-nct04295759",
 "nct-nct04298541",
 "nct-nct04817774",
+"nct-nct06692959",
 "tesomet",
 "ves001",
 "vinpocetine-msa"
@@ -6767,6 +6717,28 @@
 ]
 },
 {
+"k": "org:the-university-of-texas-md-anderson-cancer-center",
+"t": "academic",
+"n": "The University of Texas MD Anderson Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States",
+"assets": [
+"amsulostat",
+"belapectin",
+"bt101",
+"cba1205",
+"coch-aso",
+"nct-nct04111172",
+"nct-nct04295759",
+"nct-nct04346225",
+"nct-nct05275478",
+"nct-nct05785819",
+"nct-nct06677307",
+"tesomet"
+]
+},
+{
 "k": "org:duke-university",
 "t": "academic",
 "n": "Duke University",
@@ -6784,6 +6756,28 @@
 "nct-nct05785819",
 "nct-nct06210945",
 "nct-nct06411912",
+"nct-nct06705998",
+"vinpocetine-msa"
+]
+},
+{
+"k": "org:hoffmann-la-roche",
+"t": "company",
+"n": "Hoffmann-La Roche",
+"sub": "",
+"url": "",
+"c": "",
+"assets": [
+"anxv",
+"cba1205",
+"her096",
+"migaldendranib",
+"nct-nct04176497",
+"nct-nct04260802",
+"nct-nct04346225",
+"nct-nct05551741",
+"nct-nct06088654",
+"nct-nct06677203",
 "nct-nct06705998",
 "vinpocetine-msa"
 ]
@@ -6811,6 +6805,28 @@
 ]
 },
 {
+"k": "org:regeneron-pharmaceuticals",
+"t": "company",
+"n": "Regeneron Pharmaceuticals",
+"sub": "",
+"url": "",
+"c": "",
+"assets": [
+"alg055009",
+"belapectin",
+"coch-aso",
+"lpcn1148",
+"migaldendranib",
+"nct-nct04111172",
+"nct-nct04346225",
+"nct-nct05262855",
+"nct-nct05349721",
+"nct-nct06411912",
+"nct-nct06692959",
+"nct-nct06705998"
+]
+},
+{
 "k": "org:baylor-college-of-medicine",
 "t": "academic",
 "n": "Baylor College of Medicine",
@@ -6833,52 +6849,75 @@
 ]
 },
 {
-"k": "org:university-of-colorado",
-"t": "academic",
-"n": "University of Colorado",
+"k": "org:novartis-investigative-site",
+"t": "company",
+"n": "Novartis Investigative Site",
 "sub": "",
 "url": "",
-"c": "United States",
+"c": "Australia",
 "assets": [
-"abs101",
-"nct-nct04111172",
+"anxv",
+"nct-nct04176497",
+"nct-nct04260802",
+"nct-nct04298541",
 "nct-nct04346225",
-"nct-nct04817774",
-"nct-nct05262855",
 "nct-nct05275478",
-"nct-nct05349721",
 "nct-nct05785819",
+"nct-nct06411912",
 "nct-nct06692959",
-"opm101",
 "ves001",
+"vinpocetine-msa",
 "xald-fingolimod"
 ]
 },
 {
-"k": "org:dana-farber-cancer-institute",
-"t": "academic",
-"n": "Dana-Farber Cancer Institute",
+"k": "org:abbvie",
+"t": "company",
+"n": "AbbVie",
 "sub": "",
 "url": "",
-"c": "United States",
+"c": "",
 "assets": [
-"cba1205",
+"abs101",
+"acd440",
+"anxv",
+"migaldendranib",
 "nct-nct04111172",
-"nct-nct04176497",
-"nct-nct04295759",
-"nct-nct04298541",
-"nct-nct04346225",
+"nct-nct04260802",
+"nct-nct04817774",
 "nct-nct05262855",
-"nct-nct05275478",
-"nct-nct06411912",
-"nct-nct06677307",
-"nct-nct06692959"
+"nct-nct05366751",
+"nct-nct06088654",
+"nct-nct06692959",
+"opm101"
 ]
 },
 {
-"k": "org:university-of-california-davis-comprehensive-cancer-center",
-"t": "academic",
-"n": "University of California, Davis Comprehensive Cancer Center",
+"k": "org:glaxosmithkline",
+"t": "company",
+"n": "GlaxoSmithKline",
+"sub": "",
+"url": "",
+"c": "",
+"assets": [
+"alg055009",
+"belapectin",
+"lpcn1148",
+"nct-nct04111172",
+"nct-nct04260802",
+"nct-nct04817774",
+"nct-nct05262855",
+"nct-nct05502367",
+"nct-nct06210945",
+"nct-nct06705998",
+"ves001",
+"vtp300"
+]
+},
+{
+"k": "org:usc-norris-comprehensive-cancer-center",
+"t": "company",
+"n": "USC Norris Comprehensive Cancer Center",
 "sub": "",
 "url": "",
 "c": "United States",
@@ -6886,14 +6925,14 @@
 "amsulostat",
 "nct-nct04111172",
 "nct-nct04176497",
-"nct-nct04260802",
 "nct-nct04295759",
 "nct-nct04298541",
 "nct-nct04346225",
 "nct-nct05262855",
 "nct-nct05275478",
-"nct-nct06088654",
-"nct-nct06411912"
+"nct-nct05785819",
+"nct-nct06411912",
+"nct-nct06692959"
 ]
 },
 {

@@ -1,6 +1,6 @@
 {
 "assetId": "etx155",
-"updated": "2026-10-15",
+"updated": "2026-10-16",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 25,
@@ -728,6 +728,14 @@
 "c": "United States"
 },
 {
+"k": "trial:nct07019922",
+"t": "trial",
+"n": "A Clinical Trial of Elsunersen in Pediatric SCN2A-DEE to Assess Efficacy and Safety",
+"sub": "P3 · recruiting · 2025-2028",
+"url": "https://clinicaltrials.gov/study/NCT07019922",
+"c": ""
+},
+{
 "k": "trial:nct05737784",
 "t": "trial",
 "n": "A Clinical Trial of PRAX-222 in Pediatric Participants With Early Onset SCN2A Developmenta",
@@ -781,14 +789,6 @@
 "n": "PRAX-222 - Fixed Doses",
 "sub": "Praxis Precision Medicines",
 "url": "",
-"c": ""
-},
-{
-"k": "trial:nct07019922",
-"t": "trial",
-"n": "A Clinical Trial of Elsunersen in Pediatric SCN2A-DEE to Assess Efficacy and Safety",
-"sub": "P3 · recruiting · 2025-2028",
-"url": "https://clinicaltrials.gov/study/NCT07019922",
 "c": ""
 },
 {
@@ -1411,7 +1411,7 @@
 "k": "paper:pmid-35429480",
 "t": "paper",
 "n": "Safety and efficacy of ganaxolone in patients with CDKL5 deficiency disorder: results from",
-"sub": "The Lancet Neurology 2022 · cited 157",
+"sub": "The Lancet Neurology 2022 · cited 158",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35429480",
 "c": ""
 },
@@ -1627,6 +1627,14 @@
 "k": "org:fondation-jerome-lejeune",
 "t": "funder",
 "n": "Fondation Jérôme Lejeune",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:european-commission",
+"t": "funder",
+"n": "European Commission",
 "sub": "",
 "url": "",
 "c": ""
@@ -2875,7 +2883,7 @@
 "k": "paper:pmid-35503717",
 "t": "paper",
 "n": "International League Against Epilepsy classification and definition of epilepsy syndromes ",
-"sub": "Epilepsia 2022 · cited 981",
+"sub": "Epilepsia 2022 · cited 983",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35503717",
 "c": ""
 },
@@ -2939,7 +2947,7 @@
 "k": "paper:pmid-35503712",
 "t": "paper",
 "n": "ILAE classification and definition of epilepsy syndromes with onset in neonates and infant",
-"sub": "Epilepsia 2022 · cited 917",
+"sub": "Epilepsia 2022 · cited 919",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35503712",
 "c": ""
 },
@@ -3115,7 +3123,7 @@
 "k": "paper:pmid-36194365",
 "t": "paper",
 "n": "Psychobehavioural and Cognitive Adverse Events of Anti-Seizure Medications for the Treatme",
-"sub": "CNS Drugs 2022 · cited 179",
+"sub": "CNS Drugs 2022 · cited 180",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36194365",
 "c": ""
 },
@@ -3155,7 +3163,7 @@
 "k": "paper:pmid-36808730",
 "t": "paper",
 "n": "Genes4Epilepsy : An epilepsy gene resource",
-"sub": "Epilepsia 2023 · cited 167",
+"sub": "Epilepsia 2023 · cited 168",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36808730",
 "c": ""
 },
@@ -3299,7 +3307,7 @@
 "k": "paper:pmid-33279965",
 "t": "paper",
 "n": "Developmental and epileptic encephalopathies: what we do and do not know",
-"sub": "Brain 2020 · cited 164",
+"sub": "Brain 2020 · cited 165",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33279965",
 "c": ""
 },
@@ -3475,7 +3483,7 @@
 "k": "paper:pmid-35499850",
 "t": "paper",
 "n": "Efficacy and Safety of Fenfluramine for the Treatment of Seizures Associated With Lennox-G",
-"sub": "JAMA Neurology 2022 · cited 137",
+"sub": "JAMA Neurology 2022 · cited 138",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35499850",
 "c": ""
 },
@@ -3560,6 +3568,46 @@
 "c": ""
 },
 {
+"k": "paper:pmid-39237642",
+"t": "paper",
+"n": "Developmental and epileptic encephalopathies",
+"sub": "Nature Reviews Disease Primers 2024 · cited 130",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39237642",
+"c": ""
+},
+{
+"k": "person:ingrid-eileen-scheffer",
+"t": "person",
+"n": "Ingrid Eileen Scheffer",
+"sub": "Royal Children's Hospital",
+"url": "https://orcid.org/0000-0002-2311-2174",
+"c": "AU"
+},
+{
+"k": "person:amy-mctague",
+"t": "person",
+"n": "Amy McTague",
+"sub": "Great Ormond Street Hospital",
+"url": "https://orcid.org/0000-0002-0334-2909",
+"c": "GB"
+},
+{
+"k": "org:great-ormond-street-hospital",
+"t": "hospital",
+"n": "Great Ormond Street Hospital",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:university-college-london",
+"t": "academic",
+"n": "University College London",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
 "k": "paper:pmid-33632673",
 "t": "paper",
 "n": "Developmental and epileptic encephalopathies: recognition and approaches to care",
@@ -3600,50 +3648,10 @@
 "c": "ZA"
 },
 {
-"k": "paper:pmid-39237642",
-"t": "paper",
-"n": "Developmental and epileptic encephalopathies",
-"sub": "Nature Reviews Disease Primers 2024 · cited 128",
-"url": "https://pubmed.ncbi.nlm.nih.gov/39237642",
-"c": ""
-},
-{
-"k": "person:ingrid-eileen-scheffer",
-"t": "person",
-"n": "Ingrid Eileen Scheffer",
-"sub": "Royal Children's Hospital",
-"url": "https://orcid.org/0000-0002-2311-2174",
-"c": "AU"
-},
-{
-"k": "person:amy-mctague",
-"t": "person",
-"n": "Amy McTague",
-"sub": "Great Ormond Street Hospital",
-"url": "https://orcid.org/0000-0002-0334-2909",
-"c": "GB"
-},
-{
-"k": "org:great-ormond-street-hospital",
-"t": "hospital",
-"n": "Great Ormond Street Hospital",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "org:university-college-london",
-"t": "academic",
-"n": "University College London",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
 "k": "paper:pmid-34338318",
 "t": "paper",
 "n": "Defining Dravet syndrome: An essential pre‐requisite for precision medicine trials",
-"sub": "Epilepsia 2021 · cited 121",
+"sub": "Epilepsia 2021 · cited 122",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34338318",
 "c": ""
 },
@@ -3995,7 +4003,7 @@
 "k": "paper:pmid-34882995",
 "t": "paper",
 "n": "Guidance on Dravet syndrome from infant to adult care: Road map for treatment planning in ",
-"sub": "Epilepsia Open 2021 · cited 94",
+"sub": "Epilepsia Open 2021 · cited 95",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34882995",
 "c": ""
 },
@@ -4035,7 +4043,7 @@
 "k": "paper:pmid-36581463",
 "t": "paper",
 "n": "Epidemiology of Developmental and Epileptic Encephalopathy and of Intellectual Disability ",
-"sub": "Neurology 2022 · cited 94",
+"sub": "Neurology 2022 · cited 95",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36581463",
 "c": ""
 },
@@ -4067,7 +4075,7 @@
 "k": "paper:pmid-36750385",
 "t": "paper",
 "n": "Rates of Status Epilepticus and Sudden Unexplained Death in Epilepsy in People With Geneti",
-"sub": "Neurology 2023 · cited 94",
+"sub": "Neurology 2023 · cited 95",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36750385",
 "c": ""
 },
@@ -4200,67 +4208,11 @@
 "c": "US"
 },
 {
-"k": "paper:pmid-34732400",
+"k": "paper:pmid-33479851",
 "t": "paper",
-"n": "Use of whole genome sequencing to determine genetic basis of suspected mitochondrial disor",
-"sub": "BMJ 2021 · cited 89",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34732400",
-"c": ""
-},
-{
-"k": "person:katherine-r-schon",
-"t": "person",
-"n": "Katherine R. Schon",
-"sub": "University of Cambridge",
-"url": "https://orcid.org/0000-0001-8054-8954",
-"c": "GB"
-},
-{
-"k": "org:university-of-cambridge",
-"t": "academic",
-"n": "University of Cambridge",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "org:cambridge-university-hospitals-nhs-foundation-trust",
-"t": "hospital",
-"n": "Cambridge University Hospitals NHS Foundation Trust",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "person:patrick-francis-chinnery",
-"t": "person",
-"n": "Patrick Francis Chinnery",
-"sub": "Queen Mary University of London",
-"url": "https://orcid.org/0000-0002-7065-6617",
-"c": "GB"
-},
-{
-"k": "org:queen-mary-university-of-london",
-"t": "academic",
-"n": "Queen Mary University of London",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "org:united-mitochondrial-disease-foundation",
-"t": "funder",
-"n": "United Mitochondrial Disease Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:alzheimer-s-society",
-"t": "funder",
-"n": "Alzheimer's Society",
-"sub": "",
-"url": "",
+"n": "Expanding the Treatment Landscape for Lennox-Gastaut Syndrome: Current and Future Strategi",
+"sub": "CNS Drugs 2021 · cited 89",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33479851",
 "c": ""
 }
 ],
@@ -4509,11 +4461,6 @@
 "a": "org:alfred-health",
 "b": "trial:nct06401538",
 "r": "site_of"
-},
-{
-"a": "org:alzheimer-s-society",
-"b": "paper:pmid-34732400",
-"r": "funded"
 },
 {
 "a": "org:american-epilepsy-society",
@@ -4966,6 +4913,11 @@
 "r": "funded"
 },
 {
+"a": "org:european-commission",
+"b": "paper:pmid-34205123",
+"r": "funded"
+},
+{
 "a": "org:evelyn-trust",
 "b": "paper:pmid-35503717",
 "r": "funded"
@@ -5038,6 +4990,11 @@
 {
 "a": "org:gw-pharmaceuticals",
 "b": "paper:pmid-33200442",
+"r": "funded"
+},
+{
+"a": "org:gw-pharmaceuticals",
+"b": "paper:pmid-33479851",
 "r": "funded"
 },
 {
@@ -5358,11 +5315,6 @@
 {
 "a": "org:national-health-and-medical-research-council",
 "b": "paper:pmid-36750385",
-"r": "funded"
-},
-{
-"a": "org:national-institute-for-health-and-care-research",
-"b": "paper:pmid-34732400",
 "r": "funded"
 },
 {
@@ -5896,11 +5848,6 @@
 "r": "site_of"
 },
 {
-"a": "org:united-mitochondrial-disease-foundation",
-"b": "paper:pmid-34732400",
-"r": "funded"
-},
-{
 "a": "org:universita-degli-studi-di-napoli-federico-ii",
 "b": "paper:pmid-32506321",
 "r": "funded"
@@ -6067,11 +6014,6 @@
 },
 {
 "a": "org:wellcome-trust",
-"b": "paper:pmid-34732400",
-"r": "funded"
-},
-{
-"a": "org:wellcome-trust",
 "b": "paper:pmid-38081835",
 "r": "funded"
 },
@@ -6179,6 +6121,11 @@
 "a": "person:adam-strzelczyk",
 "b": "org:university-hospital-frankfurt",
 "r": "affiliated"
+},
+{
+"a": "person:adam-strzelczyk",
+"b": "paper:pmid-33479851",
+"r": "authored"
 },
 {
 "a": "person:adam-strzelczyk",
@@ -7086,21 +7033,6 @@
 "r": "authored"
 },
 {
-"a": "person:katherine-r-schon",
-"b": "org:cambridge-university-hospitals-nhs-foundation-trust",
-"r": "affiliated"
-},
-{
-"a": "person:katherine-r-schon",
-"b": "org:university-of-cambridge",
-"r": "affiliated"
-},
-{
-"a": "person:katherine-r-schon",
-"b": "paper:pmid-34732400",
-"r": "authored"
-},
-{
 "a": "person:katrine-m-johannesen",
 "b": "org:university-of-southern-denmark",
 "r": "affiliated"
@@ -7446,21 +7378,6 @@
 "r": "authored"
 },
 {
-"a": "person:patrick-francis-chinnery",
-"b": "org:queen-mary-university-of-london",
-"r": "affiliated"
-},
-{
-"a": "person:patrick-francis-chinnery",
-"b": "org:university-of-cambridge",
-"r": "affiliated"
-},
-{
-"a": "person:patrick-francis-chinnery",
-"b": "paper:pmid-34732400",
-"r": "authored"
-},
-{
 "a": "person:patrick-j-mulcahey",
 "b": "org:children-s-hospital-of-philadelphia",
 "r": "affiliated"
@@ -7764,6 +7681,11 @@
 "a": "person:susanne-schubertbast",
 "b": "org:university-hospital-frankfurt",
 "r": "affiliated"
+},
+{
+"a": "person:susanne-schubertbast",
+"b": "paper:pmid-33479851",
+"r": "authored"
 },
 {
 "a": "person:susanne-schubertbast",

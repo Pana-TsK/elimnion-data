@@ -1,6 +1,6 @@
 {
 "assetId": "nct-nct05785819",
-"updated": "2026-10-15",
+"updated": "2026-10-16",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 44,
@@ -224,6 +224,14 @@
 "c": "United States"
 },
 {
+"k": "org:harbor-ucla-medical-center",
+"t": "hospital",
+"n": "Harbor-UCLA Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "org:yale-cancer-center",
 "t": "company",
 "n": "Yale Cancer Center",
@@ -288,14 +296,6 @@
 "c": "United States"
 },
 {
-"k": "org:university-health-kansas-city",
-"t": "hospital",
-"n": "University Health Kansas City",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "drug:ianalumab",
 "t": "drug",
 "n": "ianalumab",
@@ -309,6 +309,14 @@
 "n": "thrombopoietin receptor agonist",
 "sub": "Novartis Pharmaceuticals",
 "url": "",
+"c": ""
+},
+{
+"k": "trial:nct07039422",
+"t": "trial",
+"n": "Study of Ianalumab in Adults With Primary Immune Thrombocytopenia (ITP) and Warm-antibody ",
+"sub": "P2 · withdrawn · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07039422",
 "c": ""
 },
 {
@@ -912,6 +920,30 @@
 "c": ""
 },
 {
+"k": "trial:nct05757570",
+"t": "trial",
+"n": "An Open-label Study of Povetacicept in Participants With Autoimmune Cytopenias (RUBY-4)",
+"sub": "P1/P2 · completed · 2023-2026",
+"url": "https://clinicaltrials.gov/study/NCT05757570",
+"c": ""
+},
+{
+"k": "org:alpine-immune-sciences-a-subsidiary-of-vertex",
+"t": "company",
+"n": "Alpine Immune Sciences Inc, A Subsidiary of Vertex",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:povetacicept",
+"t": "drug",
+"n": "Povetacicept",
+"sub": "Alpine Immune Sciences Inc, A Subsidiary of Vertex",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07095127",
 "t": "trial",
 "n": "Safety, Tolerability, and Efficacy of NVG-2089 in Participants With Immune Thrombocytopeni",
@@ -1044,30 +1076,6 @@
 "t": "drug",
 "n": "INCA000585",
 "sub": "Incyte Corporation",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05757570",
-"t": "trial",
-"n": "An Open-label Study of Povetacicept in Participants With Autoimmune Cytopenias (RUBY-4)",
-"sub": "P1/P2 · completed · 2023-2026",
-"url": "https://clinicaltrials.gov/study/NCT05757570",
-"c": ""
-},
-{
-"k": "org:alpine-immune-sciences-a-subsidiary-of-vertex",
-"t": "company",
-"n": "Alpine Immune Sciences Inc, A Subsidiary of Vertex",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:povetacicept",
-"t": "drug",
-"n": "Povetacicept",
-"sub": "Alpine Immune Sciences Inc, A Subsidiary of Vertex",
 "url": "",
 "c": ""
 },
@@ -1501,14 +1509,6 @@
 "n": "Fecal microbiota transplantation",
 "sub": "Peking University People's Hospital",
 "url": "",
-"c": ""
-},
-{
-"k": "trial:nct07039422",
-"t": "trial",
-"n": "Study of Ianalumab in Adults With Primary Immune Thrombocytopenia (ITP) and Warm-antibody ",
-"sub": "P2 · recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07039422",
 "c": ""
 },
 {
@@ -3540,6 +3540,11 @@
 "r": "sponsors"
 },
 {
+"a": "org:harbor-ucla-medical-center",
+"b": "trial:nct07421167",
+"r": "site_of"
+},
+{
 "a": "org:harbour-biomed-guangzhou",
 "b": "drug:hbm9161",
 "r": "develops"
@@ -3907,11 +3912,6 @@
 {
 "a": "org:novartis-investigative-site",
 "b": "trial:nct05885555",
-"r": "site_of"
-},
-{
-"a": "org:novartis-investigative-site",
-"b": "trial:nct07039422",
 "r": "site_of"
 },
 {
@@ -4442,11 +4442,6 @@
 {
 "a": "org:university-clinical-centre-of-the-republic-of-srpska-lung-cl",
 "b": "trial:nct03809481",
-"r": "site_of"
-},
-{
-"a": "org:university-health-kansas-city",
-"b": "trial:nct07421167",
 "r": "site_of"
 },
 {
