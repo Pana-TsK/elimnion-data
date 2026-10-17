@@ -1,6 +1,6 @@
 {
 "assetId": "amsulostat",
-"updated": "2026-10-16",
+"updated": "2026-10-17",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 40,
@@ -224,6 +224,30 @@
 "c": "Taiwan"
 },
 {
+"k": "trial:nct07750574",
+"t": "trial",
+"n": "Flonoltinib Maleate Oral Regimens in Patients With Myelofibrosis",
+"sub": "P2 · not_yet_recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07750574",
+"c": ""
+},
+{
+"k": "org:chengdu-zenitar-biomedical-technology",
+"t": "company",
+"n": "Chengdu Zenitar Biomedical Technology Co., Ltd",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:flonoltinib-maleate-orally",
+"t": "drug",
+"n": "Flonoltinib Maleate orally",
+"sub": "Chengdu Zenitar Biomedical Technology Co., Ltd",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07357727",
 "t": "trial",
 "n": "A Phase 3 Study of Pelabresib (DAK539) and Ruxolitinib in Myelofibrosis (MF)",
@@ -238,6 +262,14 @@
 "sub": "",
 "url": "",
 "c": ""
+},
+{
+"k": "org:rocky-mountain-cancer-centers",
+"t": "company",
+"n": "Rocky Mountain Cancer Centers",
+"sub": "",
+"url": "",
+"c": "United States"
 },
 {
 "k": "org:yale-university-school-of-medicine",
@@ -307,14 +339,6 @@
 "k": "org:franciscan-health-indianapolis",
 "t": "hospital",
 "n": "Franciscan Health Indianapolis",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:american-oncology-partners-pa-center-for-cancer-and-blood-di",
-"t": "company",
-"n": "American Oncology Partners PA Center for Cancer and Blood Disorders",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -752,110 +776,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07623161",
-"t": "trial",
-"n": "A Study to Compare Elritercept to Placebo in Adults With Myelofibrosis and Anemia Who Are ",
-"sub": "P3 · recruiting · 2026-2034",
-"url": "https://clinicaltrials.gov/study/NCT07623161",
-"c": ""
-},
-{
-"k": "org:takeda",
-"t": "company",
-"n": "Takeda",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:banner-md-anderson-cancer-center",
-"t": "company",
-"n": "Banner MD Anderson Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:los-angeles-cancer-network",
-"t": "company",
-"n": "Los Angeles Cancer Network",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:cancer-and-blood-specialty-clinic",
-"t": "hospital",
-"n": "Cancer and Blood Specialty Clinic",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:medstar-georgetown-university-hospital",
-"t": "hospital",
-"n": "MedStar Georgetown University Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:advanced-research",
-"t": "company",
-"n": "Advanced Research, LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:bioresearch-partners",
-"t": "company",
-"n": "Bioresearch Partners",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:adventhealth-cancer-institute-orlando",
-"t": "hospital",
-"n": "AdventHealth - Cancer Institute - Orlando",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:florida-clinical-trials-group",
-"t": "hospital",
-"n": "Florida Clinical Trials Group",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:moffit-cancer-center",
-"t": "company",
-"n": "Moffit Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:emory-university",
-"t": "academic",
-"n": "Emory University",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:elritercept",
-"t": "drug",
-"n": "Elritercept",
-"sub": "Takeda",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct04562389",
 "t": "trial",
 "n": "Study of Selinexor in Combination With Ruxolitinib in Myelofibrosis",
@@ -1036,6 +956,110 @@
 "t": "drug",
 "n": "INCB000928",
 "sub": "Incyte Corporation",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07623161",
+"t": "trial",
+"n": "A Study to Compare Elritercept to Placebo in Adults With Myelofibrosis and Anemia Who Are ",
+"sub": "P3 · recruiting · 2026-2034",
+"url": "https://clinicaltrials.gov/study/NCT07623161",
+"c": ""
+},
+{
+"k": "org:takeda",
+"t": "company",
+"n": "Takeda",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:banner-md-anderson-cancer-center",
+"t": "company",
+"n": "Banner MD Anderson Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:los-angeles-cancer-network",
+"t": "company",
+"n": "Los Angeles Cancer Network",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cancer-and-blood-specialty-clinic",
+"t": "hospital",
+"n": "Cancer and Blood Specialty Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:medstar-georgetown-university-hospital",
+"t": "hospital",
+"n": "MedStar Georgetown University Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:advanced-research",
+"t": "company",
+"n": "Advanced Research, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:bioresearch-partners",
+"t": "company",
+"n": "Bioresearch Partners",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:adventhealth-cancer-institute-orlando",
+"t": "hospital",
+"n": "AdventHealth - Cancer Institute - Orlando",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:florida-clinical-trials-group",
+"t": "hospital",
+"n": "Florida Clinical Trials Group",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:moffit-cancer-center",
+"t": "company",
+"n": "Moffit Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:emory-university",
+"t": "academic",
+"n": "Emory University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:elritercept",
+"t": "drug",
+"n": "Elritercept",
+"sub": "Takeda",
 "url": "",
 "c": ""
 },
@@ -1312,6 +1336,78 @@
 "c": ""
 },
 {
+"k": "trial:nct06345495",
+"t": "trial",
+"n": "High Dose Ruxolitinib and Allogeneic Stem Cell Transplantation in Myelofibrosis Patients W",
+"sub": "P2 · recruiting · 2024-2029",
+"url": "https://clinicaltrials.gov/study/NCT06345495",
+"c": ""
+},
+{
+"k": "person:uday-popat",
+"t": "person",
+"n": "Uday Popat",
+"sub": "principal investigator · M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "org:md-anderson-cancer-center",
+"t": "company",
+"n": "MD Anderson Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:levetiracetam",
+"t": "drug",
+"n": "Levetiracetam",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:eltrombopag",
+"t": "drug",
+"n": "Eltrombopag",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:busulfan",
+"t": "drug",
+"n": "Busulfan",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:romiplostim",
+"t": "drug",
+"n": "Romiplostim",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:fludarabine-phosphate",
+"t": "drug",
+"n": "Fludarabine phosphate",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:mesna",
+"t": "drug",
+"n": "Mesna",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct06397313",
 "t": "trial",
 "n": "RVU120 in Patients With Intermediate or High-risk, Primary or Secondary Myelofibrosis",
@@ -1412,78 +1508,6 @@
 "t": "drug",
 "n": "RVU120",
 "sub": "Ryvu Therapeutics SA",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06345495",
-"t": "trial",
-"n": "High Dose Ruxolitinib and Allogeneic Stem Cell Transplantation in Myelofibrosis Patients W",
-"sub": "P2 · recruiting · 2024-2029",
-"url": "https://clinicaltrials.gov/study/NCT06345495",
-"c": ""
-},
-{
-"k": "person:uday-popat",
-"t": "person",
-"n": "Uday Popat",
-"sub": "principal investigator · M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "org:md-anderson-cancer-center",
-"t": "company",
-"n": "MD Anderson Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:levetiracetam",
-"t": "drug",
-"n": "Levetiracetam",
-"sub": "M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:eltrombopag",
-"t": "drug",
-"n": "Eltrombopag",
-"sub": "M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:busulfan",
-"t": "drug",
-"n": "Busulfan",
-"sub": "M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:romiplostim",
-"t": "drug",
-"n": "Romiplostim",
-"sub": "M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:fludarabine-phosphate",
-"t": "drug",
-"n": "Fludarabine phosphate",
-"sub": "M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:mesna",
-"t": "drug",
-"n": "Mesna",
-"sub": "M.D. Anderson Cancer Center",
 "url": "",
 "c": ""
 },
@@ -1656,6 +1680,78 @@
 "c": ""
 },
 {
+"k": "trial:nct07317700",
+"t": "trial",
+"n": "A Clinical Trial of Flonoltinib Maleate for Intermediate or High-Risk Myelofibrosis",
+"sub": "P3 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07317700",
+"c": ""
+},
+{
+"k": "org:institute-of-hematology-blood-diseases-hospital-chinese-acad",
+"t": "hospital",
+"n": "Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences (IH",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "person:xiao-zhijian-doctor",
+"t": "person",
+"n": "Xiao Zhijian, Doctor",
+"sub": "principal investigator · Institute of Hematology & Blood Diseases Hospital, Chinese Academ",
+"url": "",
+"c": ""
+},
+{
+"k": "org:west-china-hospital",
+"t": "hospital",
+"n": "West China Hospital",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:niu-ting-doctor",
+"t": "person",
+"n": "Niu Ting, Doctor",
+"sub": "principal investigator · West China Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "person:miao-jia-doctor",
+"t": "person",
+"n": "Miao Jia, Doctor",
+"sub": "principal investigator · West China Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "org:west-china-hospital-sichuan-university",
+"t": "hospital",
+"n": "West China Hospital Sichuan University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "drug:flonoltinib",
+"t": "drug",
+"n": "Flonoltinib",
+"sub": "Chengdu Zenitar Biomedical Technology Co., Ltd",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ruxolitinib-phosphate",
+"t": "drug",
+"n": "Ruxolitinib Phosphate",
+"sub": "Chengdu Zenitar Biomedical Technology Co., Ltd",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct06468033",
 "t": "trial",
 "n": "P1101 in Treating Patients With Early PMF or Overt PMF at Low or Intermediate-1 Risk",
@@ -1752,86 +1848,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07317700",
-"t": "trial",
-"n": "A Clinical Trial of Flonoltinib Maleate for Intermediate or High-Risk Myelofibrosis",
-"sub": "P3 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07317700",
-"c": ""
-},
-{
-"k": "org:chengdu-zenitar-biomedical-technology",
-"t": "company",
-"n": "Chengdu Zenitar Biomedical Technology Co., Ltd",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:institute-of-hematology-blood-diseases-hospital-chinese-acad",
-"t": "hospital",
-"n": "Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences (IH",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "person:xiao-zhijian-doctor",
-"t": "person",
-"n": "Xiao Zhijian, Doctor",
-"sub": "principal investigator · Institute of Hematology & Blood Diseases Hospital, Chinese Academ",
-"url": "",
-"c": ""
-},
-{
-"k": "org:west-china-hospital",
-"t": "hospital",
-"n": "West China Hospital",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:niu-ting-doctor",
-"t": "person",
-"n": "Niu Ting, Doctor",
-"sub": "principal investigator · West China Hospital",
-"url": "",
-"c": ""
-},
-{
-"k": "person:miao-jia-doctor",
-"t": "person",
-"n": "Miao Jia, Doctor",
-"sub": "principal investigator · West China Hospital",
-"url": "",
-"c": ""
-},
-{
-"k": "org:west-china-hospital-sichuan-university",
-"t": "hospital",
-"n": "West China Hospital Sichuan University",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "drug:flonoltinib",
-"t": "drug",
-"n": "Flonoltinib",
-"sub": "Chengdu Zenitar Biomedical Technology Co., Ltd",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:ruxolitinib-phosphate",
-"t": "drug",
-"n": "Ruxolitinib Phosphate",
-"sub": "Chengdu Zenitar Biomedical Technology Co., Ltd",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07443306",
 "t": "trial",
 "n": "A Clinical Trial of Flonoltinib Maleate Tablets in the Treatment of JAK Inhibitor Refracto",
@@ -1892,22 +1908,6 @@
 "t": "person",
 "n": "Ting Niu, Doctor",
 "sub": "principal investigator · West China Hospital",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07750574",
-"t": "trial",
-"n": "Flonoltinib Maleate Oral Regimens in Patients With Myelofibrosis",
-"sub": "P2 · not_yet_recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07750574",
-"c": ""
-},
-{
-"k": "drug:flonoltinib-maleate-orally",
-"t": "drug",
-"n": "Flonoltinib Maleate orally",
-"sub": "Chengdu Zenitar Biomedical Technology Co., Ltd",
 "url": "",
 "c": ""
 },
@@ -2144,6 +2144,46 @@
 "c": "United States"
 },
 {
+"k": "trial:nct03862157",
+"t": "trial",
+"n": "Azacitidine, Venetoclax, and Pevonedistat in Treating Patients With Newly Diagnosed Acute ",
+"sub": "P1/P2 · active_not_recruiting · 2019-2027",
+"url": "https://clinicaltrials.gov/study/NCT03862157",
+"c": ""
+},
+{
+"k": "person:nicholas-short",
+"t": "person",
+"n": "Nicholas Short",
+"sub": "principal investigator · M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:azacitidine",
+"t": "drug",
+"n": "Azacitidine",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:pevonedistat",
+"t": "drug",
+"n": "Pevonedistat",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:venetoclax",
+"t": "drug",
+"n": "Venetoclax",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct04717414",
 "t": "trial",
 "n": "An Efficacy and Safety Study of Luspatercept (ACE-536) Versus Placebo in Subjects With Mye",
@@ -2204,46 +2244,6 @@
 "t": "drug",
 "n": "ACE-536",
 "sub": "Celgene",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct03862157",
-"t": "trial",
-"n": "Azacitidine, Venetoclax, and Pevonedistat in Treating Patients With Newly Diagnosed Acute ",
-"sub": "P1/P2 · active_not_recruiting · 2019-2027",
-"url": "https://clinicaltrials.gov/study/NCT03862157",
-"c": ""
-},
-{
-"k": "person:nicholas-short",
-"t": "person",
-"n": "Nicholas Short",
-"sub": "principal investigator · M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:azacitidine",
-"t": "drug",
-"n": "Azacitidine",
-"sub": "M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:pevonedistat",
-"t": "drug",
-"n": "Pevonedistat",
-"sub": "M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:venetoclax",
-"t": "drug",
-"n": "Venetoclax",
-"sub": "M.D. Anderson Cancer Center",
 "url": "",
 "c": ""
 },
@@ -3035,7 +3035,7 @@
 "k": "paper:pmid-32974939",
 "t": "paper",
 "n": "Polycythemia vera and essential thrombocythemia: 2021 update on diagnosis, risk‐stratifica",
-"sub": "American Journal of Hematology 2020 · cited 352",
+"sub": "American Journal of Hematology 2020 · cited 354",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32974939",
 "c": ""
 },
@@ -3131,7 +3131,7 @@
 "k": "paper:pmid-36680511",
 "t": "paper",
 "n": "Primary myelofibrosis: 2023 update on diagnosis, risk‐stratification, and management",
-"sub": "American Journal of Hematology 2023 · cited 305",
+"sub": "American Journal of Hematology 2023 · cited 306",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36680511",
 "c": ""
 },
@@ -3419,7 +3419,7 @@
 "k": "paper:pmid-33301706",
 "t": "paper",
 "n": "Heterogeneous bone-marrow stromal progenitors drive myelofibrosis via a druggable alarmin ",
-"sub": "Cell stem cell 2020 · cited 176",
+"sub": "Cell stem cell 2020 · cited 177",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33301706",
 "c": ""
 },
@@ -3483,7 +3483,7 @@
 "k": "paper:pmid-36671504",
 "t": "paper",
 "n": "The Role of JAK/STAT Pathway in Fibrotic Diseases: Molecular and Cellular Mechanisms",
-"sub": "Biomolecules 2023 · cited 172",
+"sub": "Biomolecules 2023 · cited 173",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36671504",
 "c": ""
 },
@@ -3659,7 +3659,7 @@
 "k": "paper:pmid-35699322",
 "t": "paper",
 "n": "Iron overload disorders",
-"sub": "Hepatology Communications 2022 · cited 153",
+"sub": "Hepatology Communications 2022 · cited 154",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35699322",
 "c": ""
 },
@@ -3699,7 +3699,7 @@
 "k": "paper:pmid-36416738",
 "t": "paper",
 "n": "Myelofibrosis",
-"sub": "Blood 2022 · cited 153",
+"sub": "Blood 2022 · cited 154",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36416738",
 "c": ""
 },
@@ -3811,7 +3811,7 @@
 "k": "paper:pmid-34480106",
 "t": "paper",
 "n": "Polycythemia vera: historical oversights, diagnostic details, and therapeutic views",
-"sub": "Leukemia 2021 · cited 143",
+"sub": "Leukemia 2021 · cited 144",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34480106",
 "c": ""
 },
@@ -3856,6 +3856,22 @@
 "c": ""
 },
 {
+"k": "paper:pmid-35180010",
+"t": "paper",
+"n": "Addition of Navitoclax to Ongoing Ruxolitinib Therapy for Patients With Myelofibrosis With",
+"sub": "Journal of Clinical Oncology 2022 · cited 134",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35180010",
+"c": ""
+},
+{
+"k": "org:guy-s-and-st-thomas-nhs-foundation-trust",
+"t": "hospital",
+"n": "Guy's and St Thomas' NHS Foundation Trust",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
 "k": "paper:pmid-32915978",
 "t": "paper",
 "n": "ACVR1/JAK1/JAK2 inhibitor momelotinib reverses transfusion dependency and suppresses hepci",
@@ -3896,26 +3912,10 @@
 "c": "US"
 },
 {
-"k": "paper:pmid-35180010",
-"t": "paper",
-"n": "Addition of Navitoclax to Ongoing Ruxolitinib Therapy for Patients With Myelofibrosis With",
-"sub": "Journal of Clinical Oncology 2022 · cited 128",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35180010",
-"c": ""
-},
-{
-"k": "org:guy-s-and-st-thomas-nhs-foundation-trust",
-"t": "hospital",
-"n": "Guy's and St Thomas' NHS Foundation Trust",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
 "k": "paper:pmid-35130339",
 "t": "paper",
 "n": "A prognostic model to predict survival after 6 months of ruxolitinib in patients with myel",
-"sub": "Blood Advances 2022 · cited 127",
+"sub": "Blood Advances 2022 · cited 128",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35130339",
 "c": ""
 },
@@ -4299,7 +4299,7 @@
 "k": "paper:pmid-32726410",
 "t": "paper",
 "n": "Increased CXCL4 expression in hematopoietic cells links inflammation and progression of bo",
-"sub": "Blood 2020 · cited 106",
+"sub": "Blood 2020 · cited 107",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32726410",
 "c": ""
 },
@@ -5163,11 +5163,6 @@
 {
 "a": "org:american-oncology-partners-of-maryland-pa-center-for-cancer",
 "b": "trial:nct06468033",
-"r": "site_of"
-},
-{
-"a": "org:american-oncology-partners-pa-center-for-cancer-and-blood-di",
-"b": "trial:nct07357727",
 "r": "site_of"
 },
 {
@@ -6567,6 +6562,16 @@
 },
 {
 "a": "org:national-institutes-of-health",
+"b": "paper:pmid-33654206",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-35180010",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
 "b": "paper:pmid-36745865",
 "r": "funded"
 },
@@ -6688,6 +6693,11 @@
 {
 "a": "org:prebys-cancer-center",
 "b": "trial:nct04455841",
+"r": "site_of"
+},
+{
+"a": "org:rocky-mountain-cancer-centers",
+"b": "trial:nct07357727",
 "r": "site_of"
 },
 {

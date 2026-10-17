@@ -1,6 +1,6 @@
 {
 "assetId": "acumapimod",
-"updated": "2026-10-16",
+"updated": "2026-10-17",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 20,
@@ -16,11 +16,11 @@
 "c": ""
 },
 {
-"k": "trial:nct02926326",
+"k": "trial:nct03498170",
 "t": "trial",
-"n": "The Effect of Azithromycin on BCT197 Exposure in Healthy Male Volunteers",
-"sub": "P1 · completed · 2016-2016",
-"url": "https://clinicaltrials.gov/study/NCT02926326",
+"n": "The Effect of Itraconazole on BCT197 Exposure in Healthy Male Participants",
+"sub": "P1 · completed · 2018-2018",
+"url": "https://clinicaltrials.gov/study/NCT03498170",
 "c": ""
 },
 {
@@ -40,28 +40,28 @@
 "c": "GB"
 },
 {
-"k": "org:biokinetic-europe",
-"t": "company",
-"n": "BioKinetic Europe Ltd",
-"sub": "",
-"url": "",
-"c": "United Kingdom"
-},
-{
-"k": "trial:nct03498170",
-"t": "trial",
-"n": "The Effect of Itraconazole on BCT197 Exposure in Healthy Male Participants",
-"sub": "P1 · completed · 2018-2018",
-"url": "https://clinicaltrials.gov/study/NCT03498170",
-"c": ""
-},
-{
 "k": "org:inventiv-health-clinical-research-services",
 "t": "hospital",
 "n": "inVentiv Health Clinical Research Services LLC",
 "sub": "",
 "url": "",
 "c": "United States"
+},
+{
+"k": "trial:nct02926326",
+"t": "trial",
+"n": "The Effect of Azithromycin on BCT197 Exposure in Healthy Male Volunteers",
+"sub": "P1 · completed · 2016-2016",
+"url": "https://clinicaltrials.gov/study/NCT02926326",
+"c": ""
+},
+{
+"k": "org:biokinetic-europe",
+"t": "company",
+"n": "BioKinetic Europe Ltd",
+"sub": "",
+"url": "",
+"c": "United Kingdom"
 },
 {
 "k": "trial:nct06940154",
@@ -1291,7 +1291,7 @@
 "k": "paper:pmid-33612430",
 "t": "paper",
 "n": "Indirect acute effects of the COVID-19 pandemic on physical and mental health in the UK: a",
-"sub": "The Lancet Digital Health 2021 · cited 338",
+"sub": "The Lancet Digital Health 2021 · cited 339",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33612430",
 "c": ""
 },
@@ -1555,7 +1555,7 @@
 "k": "paper:pmid-34058148",
 "t": "paper",
 "n": "Airway mucin MUC5AC and MUC5B concentrations and the initiation and progression of chronic",
-"sub": "The Lancet Respiratory Medicine 2021 · cited 204",
+"sub": "The Lancet Respiratory Medicine 2021 · cited 205",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34058148",
 "c": ""
 },
@@ -1592,17 +1592,17 @@
 "c": ""
 },
 {
-"k": "org:takeda-oncology",
+"k": "org:national-institutes-of-health",
 "t": "funder",
-"n": "Takeda Oncology",
+"n": "National Institutes of Health",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
+"k": "org:takeda-oncology",
 "t": "funder",
-"n": "National Institute of Diabetes and Digestive and Kidney Diseases",
+"n": "Takeda Oncology",
 "sub": "",
 "url": "",
 "c": ""
@@ -2048,50 +2048,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-37056681",
-"t": "paper",
-"n": "The Effects and Pathogenesis of PM2.5 and Its Components on Chronic Obstructive Pulmonary ",
-"sub": "International Journal of COPD 2023 · cited 145",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37056681",
-"c": ""
-},
-{
-"k": "person:qi-wang",
-"t": "person",
-"n": "Qi Wang",
-"sub": "University of South China",
-"url": "https://orcid.org/0000-0002-3156-9246",
-"c": "CN"
-},
-{
-"k": "org:university-of-south-china",
-"t": "academic",
-"n": "University of South China",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:sha-liu",
-"t": "person",
-"n": "Sha Liu",
-"sub": "University of South China",
-"url": "https://orcid.org/0000-0003-1498-6168",
-"c": "CN"
-},
-{
-"k": "org:health-commission-of-hunan-province",
-"t": "funder",
-"n": "Health Commission of Hunan Province",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-33653740",
 "t": "paper",
 "n": "Does remote patient monitoring reduce acute care use? A systematic review",
-"sub": "BMJ Open 2021 · cited 144",
+"sub": "BMJ Open 2021 · cited 145",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33653740",
 "c": ""
 },
@@ -2147,6 +2107,46 @@
 "k": "org:university-of-notre-dame-australia",
 "t": "funder",
 "n": "University of Notre Dame Australia",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-37056681",
+"t": "paper",
+"n": "The Effects and Pathogenesis of PM2.5 and Its Components on Chronic Obstructive Pulmonary ",
+"sub": "International Journal of COPD 2023 · cited 145",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37056681",
+"c": ""
+},
+{
+"k": "person:qi-wang",
+"t": "person",
+"n": "Qi Wang",
+"sub": "University of South China",
+"url": "https://orcid.org/0000-0002-3156-9246",
+"c": "CN"
+},
+{
+"k": "org:university-of-south-china",
+"t": "academic",
+"n": "University of South China",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:sha-liu",
+"t": "person",
+"n": "Sha Liu",
+"sub": "University of South China",
+"url": "https://orcid.org/0000-0003-1498-6168",
+"c": "CN"
+},
+{
+"k": "org:health-commission-of-hunan-province",
+"t": "funder",
+"n": "Health Commission of Hunan Province",
 "sub": "",
 "url": "",
 "c": ""
@@ -2619,7 +2619,7 @@
 "k": "paper:pmid-33122306",
 "t": "paper",
 "n": "Lipopolysaccharide-Mediated Chronic Inflammation Promotes Tobacco Carcinogen–Induced Lung ",
-"sub": "Cancer Research 2020 · cited 112",
+"sub": "Cancer Research 2020 · cited 113",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33122306",
 "c": ""
 },
@@ -2654,14 +2654,6 @@
 "sub": "University of Pittsburgh",
 "url": "https://orcid.org/0000-0003-2028-2087",
 "c": "US"
-},
-{
-"k": "org:national-institutes-of-health",
-"t": "funder",
-"n": "National Institutes of Health",
-"sub": "",
-"url": "",
-"c": ""
 },
 {
 "k": "org:national-institute-on-deafness-and-other-communication-disor",
@@ -2744,42 +2736,10 @@
 "c": "IT"
 },
 {
-"k": "paper:pmid-33153991",
-"t": "paper",
-"n": "COVID-19 and COPD: a narrative review of the basic science and clinical outcomes",
-"sub": "European Respiratory Review 2020 · cited 104",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33153991",
-"c": ""
-},
-{
-"k": "person:andrew-higham",
-"t": "person",
-"n": "Andrew Higham",
-"sub": "Manchester Academic Health Science Centre",
-"url": "https://orcid.org/0000-0002-8094-3505",
-"c": "GB"
-},
-{
-"k": "org:manchester-academic-health-science-centre",
-"t": "hospital",
-"n": "Manchester Academic Health Science Centre",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "person:dave-singh",
-"t": "person",
-"n": "Dave Singh",
-"sub": "Manchester Academic Health Science Centre",
-"url": "https://orcid.org/0000-0001-8918-7075",
-"c": "GB"
-},
-{
 "k": "paper:pmid-36322846",
 "t": "paper",
 "n": "Noninvasive Respiratory Support for Adults with Acute Respiratory Failure",
-"sub": "New England Journal of Medicine 2022 · cited 103",
+"sub": "New England Journal of Medicine 2022 · cited 105",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36322846",
 "c": ""
 },
@@ -2822,6 +2782,38 @@
 "sub": "",
 "url": "",
 "c": "CA"
+},
+{
+"k": "paper:pmid-33153991",
+"t": "paper",
+"n": "COVID-19 and COPD: a narrative review of the basic science and clinical outcomes",
+"sub": "European Respiratory Review 2020 · cited 104",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33153991",
+"c": ""
+},
+{
+"k": "person:andrew-higham",
+"t": "person",
+"n": "Andrew Higham",
+"sub": "Manchester Academic Health Science Centre",
+"url": "https://orcid.org/0000-0002-8094-3505",
+"c": "GB"
+},
+{
+"k": "org:manchester-academic-health-science-centre",
+"t": "hospital",
+"n": "Manchester Academic Health Science Centre",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:dave-singh",
+"t": "person",
+"n": "Dave Singh",
+"sub": "Manchester Academic Health Science Centre",
+"url": "https://orcid.org/0000-0001-8918-7075",
+"c": "GB"
 }
 ],
 "edges": [
@@ -3431,11 +3423,6 @@
 "r": "funded"
 },
 {
-"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
-"b": "paper:pmid-34058148",
-"r": "funded"
-},
-{
 "a": "org:national-institute-on-deafness-and-other-communication-disor",
 "b": "paper:pmid-33122306",
 "r": "funded"
@@ -3443,6 +3430,11 @@
 {
 "a": "org:national-institutes-of-health",
 "b": "paper:pmid-33122306",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-34058148",
 "r": "funded"
 },
 {

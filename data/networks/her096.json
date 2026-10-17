@@ -1,6 +1,6 @@
 {
 "assetId": "her096",
-"updated": "2026-10-16",
+"updated": "2026-10-17",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 42,
@@ -16,11 +16,11 @@
 "c": ""
 },
 {
-"k": "trial:nct06659562",
+"k": "trial:nct05915247",
 "t": "trial",
-"n": "Clinical Study of HER-096 in Healthy Volunteer Subjects and Patients With Parkinson's Dise",
-"sub": "P1 · completed · 2024-2025",
-"url": "https://clinicaltrials.gov/study/NCT06659562",
+"n": "Single Ascending Doses of HER-096 in Healthy Subjects",
+"sub": "P1 · completed · 2023-2023",
+"url": "https://clinicaltrials.gov/study/NCT05915247",
 "c": ""
 },
 {
@@ -34,10 +34,26 @@
 {
 "k": "org:clinical-research-services-turku-crst",
 "t": "hospital",
-"n": "Clinical Research Services Turku - CRST Ltd",
+"n": "Clinical Research Services Turku - CRST Oy",
 "sub": "",
 "url": "",
 "c": "Finland"
+},
+{
+"k": "person:aleksi-tornio",
+"t": "person",
+"n": "Aleksi Tornio",
+"sub": "principal investigator · Clinical Research Services Turku - CRST Oy",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06659562",
+"t": "trial",
+"n": "Clinical Study of HER-096 in Healthy Volunteer Subjects and Patients With Parkinson's Dise",
+"sub": "P1 · completed · 2024-2025",
+"url": "https://clinicaltrials.gov/study/NCT06659562",
+"c": ""
 },
 {
 "k": "org:bc-platforms",
@@ -64,18 +80,26 @@
 "c": ""
 },
 {
-"k": "trial:nct05915247",
+"k": "trial:nct06175767",
 "t": "trial",
-"n": "Single Ascending Doses of HER-096 in Healthy Subjects",
-"sub": "P1 · completed · 2023-2023",
-"url": "https://clinicaltrials.gov/study/NCT05915247",
+"n": "A Study to Evaluate the Safety, Tolerability and Efficacy of MT101-5 in Subjects With Earl",
+"sub": "P2 · not_yet_recruiting · 2027-2028",
+"url": "https://clinicaltrials.gov/study/NCT06175767",
 "c": ""
 },
 {
-"k": "person:aleksi-tornio",
-"t": "person",
-"n": "Aleksi Tornio",
-"sub": "principal investigator · Clinical Research Services Turku - CRST Oy",
+"k": "org:mthera-pharma",
+"t": "company",
+"n": "Mthera Pharma Co., Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:mt101-5",
+"t": "drug",
+"n": "MT101-5",
+"sub": "Mthera Pharma Co., Ltd.",
 "url": "",
 "c": ""
 },
@@ -288,6 +312,54 @@
 "c": ""
 },
 {
+"k": "trial:nct05824728",
+"t": "trial",
+"n": "Clinical Trial Evaluating the Efficacy and Safety of AGB101 for Treatment of Parkinson's D",
+"sub": "P2 · active_not_recruiting · 2023-2026",
+"url": "https://clinicaltrials.gov/study/NCT05824728",
+"c": ""
+},
+{
+"k": "org:johns-hopkins-university",
+"t": "academic",
+"n": "Johns Hopkins University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:agenebio",
+"t": "company",
+"n": "AgeneBio",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:arnold-bakker-ph-d",
+"t": "person",
+"n": "Arnold Bakker, Ph.D",
+"sub": "study director · Johns Hopkins University",
+"url": "",
+"c": ""
+},
+{
+"k": "org:johns-hopkins",
+"t": "company",
+"n": "Johns Hopkins",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:agb101",
+"t": "drug",
+"n": "AGB101",
+"sub": "Johns Hopkins University",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07288450",
 "t": "trial",
 "n": "Terazosin And Metabolic Engagement in Parkinson's Disease",
@@ -348,78 +420,6 @@
 "t": "drug",
 "n": "WD-1603 Carbidopa-Levodopa Extended-Release",
 "sub": "Shanghai WD Pharmaceutical Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05824728",
-"t": "trial",
-"n": "Clinical Trial Evaluating the Efficacy and Safety of AGB101 for Treatment of Parkinson's D",
-"sub": "P2 · active_not_recruiting · 2023-2026",
-"url": "https://clinicaltrials.gov/study/NCT05824728",
-"c": ""
-},
-{
-"k": "org:johns-hopkins-university",
-"t": "academic",
-"n": "Johns Hopkins University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:agenebio",
-"t": "company",
-"n": "AgeneBio",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:arnold-bakker-ph-d",
-"t": "person",
-"n": "Arnold Bakker, Ph.D",
-"sub": "study director · Johns Hopkins University",
-"url": "",
-"c": ""
-},
-{
-"k": "org:johns-hopkins",
-"t": "company",
-"n": "Johns Hopkins",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:agb101",
-"t": "drug",
-"n": "AGB101",
-"sub": "Johns Hopkins University",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07432958",
-"t": "trial",
-"n": "A Study to Evaluate the Effectiveness of Two Doses of AP-472 as Adjunctive Therapy to Levo",
-"sub": "P2 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07432958",
-"c": ""
-},
-{
-"k": "org:appello-pharmaceuticals",
-"t": "company",
-"n": "Appello Pharmaceuticals, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:ap-472",
-"t": "drug",
-"n": "AP-472",
-"sub": "Appello Pharmaceuticals, Inc.",
 "url": "",
 "c": ""
 },
@@ -532,6 +532,30 @@
 "t": "drug",
 "n": "Prasinezumab",
 "sub": "Hoffmann-La Roche",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07432958",
+"t": "trial",
+"n": "A Study to Evaluate the Effectiveness of Two Doses of AP-472 as Adjunctive Therapy to Levo",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07432958",
+"c": ""
+},
+{
+"k": "org:appello-pharmaceuticals",
+"t": "company",
+"n": "Appello Pharmaceuticals, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ap-472",
+"t": "drug",
+"n": "AP-472",
+"sub": "Appello Pharmaceuticals, Inc.",
 "url": "",
 "c": ""
 },
@@ -968,30 +992,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06976268",
-"t": "trial",
-"n": "A Study to Determine if BHV-8000 is Effective, Safe and Tolerable as a Treatment for Adult",
-"sub": "P2/P3 · recruiting · 2025-2028",
-"url": "https://clinicaltrials.gov/study/NCT06976268",
-"c": ""
-},
-{
-"k": "org:biohaven-therapeutics",
-"t": "company",
-"n": "Biohaven Therapeutics Ltd.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:bhv-8000",
-"t": "drug",
-"n": "BHV-8000",
-"sub": "Biohaven Therapeutics Ltd.",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07610369",
 "t": "trial",
 "n": "The Efficacy of Psilocybin Therapy for Depression in Parkinson's Disease",
@@ -1028,6 +1028,158 @@
 "t": "drug",
 "n": "Psilocybin",
 "sub": "Yale University",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06976268",
+"t": "trial",
+"n": "A Study to Determine if BHV-8000 is Effective, Safe and Tolerable as a Treatment for Adult",
+"sub": "P2/P3 · recruiting · 2025-2028",
+"url": "https://clinicaltrials.gov/study/NCT06976268",
+"c": ""
+},
+{
+"k": "org:biohaven-therapeutics",
+"t": "company",
+"n": "Biohaven Therapeutics Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:bhv-8000",
+"t": "drug",
+"n": "BHV-8000",
+"sub": "Biohaven Therapeutics Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07284784",
+"t": "trial",
+"n": "A Study of Buntanetap in Participants With PD",
+"sub": "P2/P3 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07284784",
+"c": ""
+},
+{
+"k": "org:annovis-bio",
+"t": "company",
+"n": "Annovis Bio Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:duke-clinical-research-institute",
+"t": "hospital",
+"n": "Duke Clinical Research Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:laurie-sanders-ph-d",
+"t": "person",
+"n": "Laurie Sanders, Ph.D",
+"sub": "principal investigator · Duke Clinical Research Institute",
+"url": "",
+"c": ""
+},
+{
+"k": "org:banner-sun-health-research-institute-cleo-roberts-center-for",
+"t": "hospital",
+"n": "Banner Sun Health Research Institute - Cleo Roberts Center for Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:parkinson-s-movement-disorder-institute-pmdi-orange-county-o",
+"t": "academic",
+"n": "Parkinson's & Movement Disorder Institute (PMDI) - Orange County Office",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cenexel-rocky-mountain-clinical-research",
+"t": "hospital",
+"n": "Cenexel Rocky Mountain Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:new-england-institute-for-clinical-research-ki-health-partne",
+"t": "hospital",
+"n": "New England Institute for Clinical Research (Ki Health Partners)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:first-choice-neurology-aventura-neurologic-associates",
+"t": "company",
+"n": "First Choice Neurology - Aventura Neurologic Associates",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:arrow-clinical-trials",
+"t": "hospital",
+"n": "Arrow Clinical Trials",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:accel-clinical-sites-georgia-dba-accel-research-sites-lake-o",
+"t": "hospital",
+"n": "Accel Clinical Sites-Georgia LLC dba Accel Research Sites-Lake Oconee CRU",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:renstar-medical-research",
+"t": "company",
+"n": "Renstar Medical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-south-florida-usf-university-of-south-florida",
+"t": "academic",
+"n": "University of South Florida (USF) - University of South Florida College of Medicine - Park",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:buntanetap-posiphen",
+"t": "drug",
+"n": "buntanetap/posiphen",
+"sub": "Annovis Bio Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07781644",
+"t": "trial",
+"n": "Study to Test Effects and Safety of RO7568282 in Early Parkinson's Disease",
+"sub": "P1/P2 · not_yet_recruiting · 2026-2032",
+"url": "https://clinicaltrials.gov/study/NCT07781644",
+"c": ""
+},
+{
+"k": "drug:ro7568282",
+"t": "drug",
+"n": "RO7568282",
+"sub": "Hoffmann-La Roche",
 "url": "",
 "c": ""
 },
@@ -1168,22 +1320,6 @@
 "c": "Belgium"
 },
 {
-"k": "trial:nct07781644",
-"t": "trial",
-"n": "Study to Test Effects and Safety of RO7568282 in Early Parkinson's Disease",
-"sub": "P1/P2 · not_yet_recruiting · 2026-2032",
-"url": "https://clinicaltrials.gov/study/NCT07781644",
-"c": ""
-},
-{
-"k": "drug:ro7568282",
-"t": "drug",
-"n": "RO7568282",
-"sub": "Hoffmann-La Roche",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07830654",
 "t": "trial",
 "n": "This Protocol is a Sub-study Under the PPMI Program. It is a Longitudinal, Single-center S",
@@ -1212,118 +1348,6 @@
 "t": "drug",
 "n": "[18F]AV-133",
 "sub": "Michael J. Fox Foundation for Parkinson's Research",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07284784",
-"t": "trial",
-"n": "A Study of Buntanetap in Participants With PD",
-"sub": "P2/P3 · recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07284784",
-"c": ""
-},
-{
-"k": "org:annovis-bio",
-"t": "company",
-"n": "Annovis Bio Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:duke-clinical-research-institute",
-"t": "hospital",
-"n": "Duke Clinical Research Institute",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:laurie-sanders-ph-d",
-"t": "person",
-"n": "Laurie Sanders, Ph.D",
-"sub": "principal investigator · Duke Clinical Research Institute",
-"url": "",
-"c": ""
-},
-{
-"k": "org:banner-sun-health-research-institute-cleo-roberts-center-for",
-"t": "hospital",
-"n": "Banner Sun Health Research Institute - Cleo Roberts Center for Clinical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:parkinson-s-movement-disorder-institute-pmdi-orange-county-o",
-"t": "academic",
-"n": "Parkinson's & Movement Disorder Institute (PMDI) - Orange County Office",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:cenexel-rocky-mountain-clinical-research",
-"t": "hospital",
-"n": "Cenexel Rocky Mountain Clinical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:new-england-institute-for-clinical-research-ki-health-partne",
-"t": "hospital",
-"n": "New England Institute for Clinical Research (Ki Health Partners)",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:first-choice-neurology-aventura-neurologic-associates",
-"t": "company",
-"n": "First Choice Neurology - Aventura Neurologic Associates",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:arrow-clinical-trials",
-"t": "hospital",
-"n": "Arrow Clinical Trials",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:accel-clinical-sites-georgia-dba-accel-research-sites-lake-o",
-"t": "hospital",
-"n": "Accel Clinical Sites-Georgia LLC dba Accel Research Sites-Lake Oconee CRU",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:renstar-medical-research",
-"t": "company",
-"n": "Renstar Medical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-south-florida-usf-university-of-south-florida",
-"t": "academic",
-"n": "University of South Florida (USF) - University of South Florida College of Medicine - Park",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:buntanetap-posiphen",
-"t": "drug",
-"n": "buntanetap/posiphen",
-"sub": "Annovis Bio Inc.",
 "url": "",
 "c": ""
 },
@@ -1736,34 +1760,42 @@
 "c": ""
 },
 {
-"k": "trial:nct07725562",
+"k": "trial:nct04932434",
 "t": "trial",
-"n": "VG081821AC Tablets for Early to Mid-stage Parkinson's Disease",
-"sub": "P2/P3 · recruiting · 2026-2027",
-"url": "https://clinicaltrials.gov/study/NCT07725562",
+"n": "Psilocybin Therapy for Depression and Anxiety in Parkinson's Disease",
+"sub": "P2 · completed · 2021-2024",
+"url": "https://clinicaltrials.gov/study/NCT04932434",
 "c": ""
 },
 {
-"k": "org:zhejiang-vimgreen-pharmaceuticals",
-"t": "company",
-"n": "Zhejiang Vimgreen Pharmaceuticals, Ltd.",
+"k": "org:joshua-woolley-md-phd",
+"t": "academic",
+"n": "Joshua Woolley, MD, PhD",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:xuanwu-hospital-of-capital-medical-university",
-"t": "hospital",
-"n": "Xuanwu Hospital of Capital Medical University",
-"sub": "",
+"k": "person:joshua-woolley",
+"t": "person",
+"n": "Joshua Woolley/",
+"sub": "principal investigator · University of California, San Francisco",
 "url": "",
-"c": "China"
+"c": ""
 },
 {
-"k": "drug:vg081821ac",
+"k": "person:ellen-bradley",
+"t": "person",
+"n": "Ellen Bradley",
+"sub": "study director · University of California, San Francisco",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:psilocybin-therapy",
 "t": "drug",
-"n": "VG081821AC",
-"sub": "Zhejiang Vimgreen Pharmaceuticals, Ltd.",
+"n": "Psilocybin therapy",
+"sub": "Joshua Woolley, MD, PhD",
 "url": "",
 "c": ""
 },
@@ -1864,42 +1896,34 @@
 "c": ""
 },
 {
-"k": "trial:nct04932434",
+"k": "trial:nct07725562",
 "t": "trial",
-"n": "Psilocybin Therapy for Depression and Anxiety in Parkinson's Disease",
-"sub": "P2 · completed · 2021-2024",
-"url": "https://clinicaltrials.gov/study/NCT04932434",
+"n": "VG081821AC Tablets for Early to Mid-stage Parkinson's Disease",
+"sub": "P2/P3 · recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07725562",
 "c": ""
 },
 {
-"k": "org:joshua-woolley-md-phd",
-"t": "academic",
-"n": "Joshua Woolley, MD, PhD",
+"k": "org:zhejiang-vimgreen-pharmaceuticals",
+"t": "company",
+"n": "Zhejiang Vimgreen Pharmaceuticals, Ltd.",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "person:joshua-woolley",
-"t": "person",
-"n": "Joshua Woolley/",
-"sub": "principal investigator · University of California, San Francisco",
+"k": "org:xuanwu-hospital-of-capital-medical-university",
+"t": "hospital",
+"n": "Xuanwu Hospital of Capital Medical University",
+"sub": "",
 "url": "",
-"c": ""
+"c": "China"
 },
 {
-"k": "person:ellen-bradley",
-"t": "person",
-"n": "Ellen Bradley",
-"sub": "study director · University of California, San Francisco",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:psilocybin-therapy",
+"k": "drug:vg081821ac",
 "t": "drug",
-"n": "Psilocybin therapy",
-"sub": "Joshua Woolley, MD, PhD",
+"n": "VG081821AC",
+"sub": "Zhejiang Vimgreen Pharmaceuticals, Ltd.",
 "url": "",
 "c": ""
 },
@@ -2164,46 +2188,6 @@
 "t": "drug",
 "n": "Gemfibrozil",
 "sub": "Forest Hills Lab",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07322887",
-"t": "trial",
-"n": "A Phase 2 Study to Assess the Effects of SUL-238 on High Energy Phosphates With ³¹P-MRS in",
-"sub": "P2 · recruiting · 2026-2027",
-"url": "https://clinicaltrials.gov/study/NCT07322887",
-"c": ""
-},
-{
-"k": "org:gen-ilac-ve-saglk-urunleri-a-s",
-"t": "company",
-"n": "GEN İlaç ve Sağlık Ürünleri A.Ş.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:sulfateq-b-v",
-"t": "company",
-"n": "Sulfateq B.V.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:ctc-netherlands",
-"t": "company",
-"n": "CTC Netherlands BV",
-"sub": "",
-"url": "",
-"c": "Netherlands"
-},
-{
-"k": "drug:sul-238-film-coated",
-"t": "drug",
-"n": "SUL-238 film-coated",
-"sub": "GEN İlaç ve Sağlık Ürünleri A.Ş.",
 "url": "",
 "c": ""
 },
@@ -2556,7 +2540,7 @@
 "t": "person",
 "n": "Erik Neslein Mønness",
 "sub": "",
-"url": "",
+"url": "https://orcid.org/0000-0002-6705-1350",
 "c": ""
 },
 {
@@ -2931,7 +2915,7 @@
 "k": "paper:pmid-33848468",
 "t": "paper",
 "n": "Parkinson's disease",
-"sub": "The Lancet 2021 · cited 3839",
+"sub": "The Lancet 2021 · cited 3858",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33848468",
 "c": ""
 },
@@ -3011,7 +2995,7 @@
 "k": "paper:pmid-37597078",
 "t": "paper",
 "n": "Reactive oxygen species, toxicity, oxidative stress, and antioxidants: chronic diseases an",
-"sub": "Archives of Toxicology 2023 · cited 2592",
+"sub": "Archives of Toxicology 2023 · cited 2599",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37597078",
 "c": ""
 },
@@ -3147,7 +3131,7 @@
 "k": "paper:pmid-33894193",
 "t": "paper",
 "n": "Challenges in the diagnosis of Parkinson's disease",
-"sub": "The Lancet Neurology 2021 · cited 1846",
+"sub": "The Lancet Neurology 2021 · cited 1850",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33894193",
 "c": ""
 },
@@ -3211,7 +3195,7 @@
 "k": "paper:pmid-37433768",
 "t": "paper",
 "n": "Role of neuroinflammation in neurodegeneration development",
-"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1632",
+"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1634",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37433768",
 "c": ""
 },
@@ -3267,7 +3251,7 @@
 "k": "paper:pmid-37735487",
 "t": "paper",
 "n": "Microglia in neurodegenerative diseases: mechanism and potential therapeutic targets",
-"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1578",
+"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1584",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37735487",
 "c": ""
 },
@@ -3323,7 +3307,7 @@
 "k": "paper:pmid-33536413",
 "t": "paper",
 "n": "Ferroptosis: mechanisms and links with diseases",
-"sub": "Signal Transduction and Targeted Therapy 2021 · cited 1457",
+"sub": "Signal Transduction and Targeted Therapy 2021 · cited 1461",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33536413",
 "c": ""
 },
@@ -3411,7 +3395,7 @@
 "k": "paper:pmid-32333900",
 "t": "paper",
 "n": "Blood phosphorylated tau 181 as a biomarker for Alzheimer's disease: a diagnostic performa",
-"sub": "The Lancet Neurology 2020 · cited 1308",
+"sub": "The Lancet Neurology 2020 · cited 1309",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32333900",
 "c": ""
 },
@@ -3491,7 +3475,7 @@
 "k": "paper:pmid-32576618",
 "t": "paper",
 "n": "Parkinson’s disease: etiopathogenesis and treatment",
-"sub": "Journal of Neurology Neurosurgery & Psychiatry 2020 · cited 1169",
+"sub": "Journal of Neurology Neurosurgery & Psychiatry 2020 · cited 1170",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32576618",
 "c": ""
 },
@@ -3563,7 +3547,7 @@
 "k": "paper:pmid-34083813",
 "t": "paper",
 "n": "Biomarkers for neurodegenerative diseases",
-"sub": "Nature Medicine 2021 · cited 1145",
+"sub": "Nature Medicine 2021 · cited 1147",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34083813",
 "c": ""
 },
@@ -3595,7 +3579,7 @@
 "k": "paper:pmid-36152810",
 "t": "paper",
 "n": "Essential metals in health and disease",
-"sub": "Chemico-Biological Interactions 2022 · cited 1105",
+"sub": "Chemico-Biological Interactions 2022 · cited 1109",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36152810",
 "c": ""
 },
@@ -3611,7 +3595,7 @@
 "k": "paper:pmid-35682615",
 "t": "paper",
 "n": "An Overview of Oxidative Stress, Neuroinflammation, and Neurodegenerative Diseases",
-"sub": "International Journal of Molecular Sciences 2022 · cited 1067",
+"sub": "International Journal of Molecular Sciences 2022 · cited 1071",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35682615",
 "c": ""
 },
@@ -3667,7 +3651,7 @@
 "k": "paper:pmid-38245249",
 "t": "paper",
 "n": "The pathogenesis of Parkinson's disease",
-"sub": "The Lancet 2024 · cited 1021",
+"sub": "The Lancet 2024 · cited 1022",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38245249",
 "c": ""
 },
@@ -3827,7 +3811,7 @@
 "k": "paper:pmid-10410715",
 "t": "paper",
 "n": "The epidemiology of Parkinson's disease",
-"sub": "The Lancet 2024 · cited 947",
+"sub": "The Lancet 2024 · cited 950",
 "url": "https://pubmed.ncbi.nlm.nih.gov/10410715",
 "c": ""
 },
@@ -3859,7 +3843,7 @@
 "k": "paper:pmid-34205336",
 "t": "paper",
 "n": "Regulation of Neurotransmitters by the Gut Microbiota and Effects on Cognition in Neurolog",
-"sub": "Nutrients 2021 · cited 909",
+"sub": "Nutrients 2021 · cited 910",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34205336",
 "c": ""
 },
@@ -3947,7 +3931,7 @@
 "k": "paper:pmid-35163773",
 "t": "paper",
 "n": "A Review of the Common Neurodegenerative Disorders: Current Therapeutic Approaches and the",
-"sub": "International Journal of Molecular Sciences 2022 · cited 900",
+"sub": "International Journal of Molecular Sciences 2022 · cited 901",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35163773",
 "c": ""
 },
@@ -3995,7 +3979,7 @@
 "k": "paper:pmid-34450312",
 "t": "paper",
 "n": "The role of microbiota-gut-brain axis in neuropsychiatric and neurological disorders",
-"sub": "Pharmacological Research 2021 · cited 844",
+"sub": "Pharmacological Research 2021 · cited 847",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34450312",
 "c": ""
 },
@@ -4043,7 +4027,7 @@
 "k": "paper:pmid-33362788",
 "t": "paper",
 "n": "The Gut-Brain Axis: How Microbiota and Host Inflammasome Influence Brain Physiology and Pa",
-"sub": "Frontiers in Immunology 2020 · cited 819",
+"sub": "Frontiers in Immunology 2020 · cited 820",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33362788",
 "c": ""
 },
@@ -4187,7 +4171,7 @@
 "k": "paper:pmid-32830221",
 "t": "paper",
 "n": "Brain-first versus body-first Parkinson’s disease: a multimodal imaging case-control study",
-"sub": "Brain 2020 · cited 776",
+"sub": "Brain 2020 · cited 777",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32830221",
 "c": ""
 },
@@ -4227,7 +4211,7 @@
 "k": "paper:pmid-34099897",
 "t": "paper",
 "n": "Molecular mechanisms of cell death in neurological diseases",
-"sub": "Cell Death and Differentiation 2021 · cited 744",
+"sub": "Cell Death and Differentiation 2021 · cited 745",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34099897",
 "c": ""
 },
@@ -4363,7 +4347,7 @@
 "k": "paper:pmid-34950630",
 "t": "paper",
 "n": "Global Trends in the Incidence, Prevalence, and Years Lived With Disability of Parkinson's",
-"sub": "Frontiers in Public Health 2021 · cited 729",
+"sub": "Frontiers in Public Health 2021 · cited 730",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34950630",
 "c": ""
 },
@@ -4459,7 +4443,7 @@
 "k": "paper:pmid-40041912",
 "t": "paper",
 "n": "Oxidative stress and inflammation in the pathogenesis of neurological disorders: Mechanism",
-"sub": "Acta Pharmaceutica Sinica B 2024 · cited 703",
+"sub": "Acta Pharmaceutica Sinica B 2024 · cited 708",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40041912",
 "c": ""
 },
@@ -4547,7 +4531,7 @@
 "k": "paper:pmid-33692356",
 "t": "paper",
 "n": "Meta-analysis of the Parkinson’s disease gut microbiome suggests alterations linked to int",
-"sub": "npj Parkinson s Disease 2021 · cited 698",
+"sub": "npj Parkinson s Disease 2021 · cited 699",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33692356",
 "c": ""
 },
@@ -4611,7 +4595,7 @@
 "k": "paper:pmid-36830075",
 "t": "paper",
 "n": "Oxidative Stress and Antioxidants in Neurodegenerative Disorders",
-"sub": "Antioxidants 2023 · cited 672",
+"sub": "Antioxidants 2023 · cited 673",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36830075",
 "c": ""
 },
@@ -4651,7 +4635,7 @@
 "k": "paper:pmid-38267190",
 "t": "paper",
 "n": "A biological definition of neuronal α-synuclein disease: towards an integrated staging sys",
-"sub": "The Lancet Neurology 2024 · cited 629",
+"sub": "The Lancet Neurology 2024 · cited 631",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38267190",
 "c": ""
 },
@@ -4688,10 +4672,50 @@
 "c": ""
 },
 {
+"k": "paper:doi-10-1016-j-emcon-2024-100410",
+"t": "paper",
+"n": "A comprehensive review on environmental and human health impacts of chemical pesticide usa",
+"sub": "Emerging contaminants 2024 · cited 630",
+"url": "https://doi.org/10.1016/j.emcon.2024.100410",
+"c": ""
+},
+{
+"k": "person:wei-zhou",
+"t": "person",
+"n": "Wei Zhou",
+"sub": "Technion – Israel Institute of Technology",
+"url": "https://orcid.org/0000-0002-0540-1669",
+"c": "IL"
+},
+{
+"k": "org:technion-israel-institute-of-technology",
+"t": "academic",
+"n": "Technion – Israel Institute of Technology",
+"sub": "",
+"url": "",
+"c": "IL"
+},
+{
+"k": "org:guangdong-technion-israel-institute-of-technology",
+"t": "academic",
+"n": "Guangdong Technion-Israel Institute of Technology",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:varenyam-achal",
+"t": "person",
+"n": "Varenyam Achal",
+"sub": "Technion – Israel Institute of Technology",
+"url": "https://orcid.org/0000-0001-5444-7746",
+"c": "IL"
+},
+{
 "k": "paper:pmid-33007212",
 "t": "paper",
 "n": "The burden of neurological diseases in Europe: an analysis for the Global Burden of Diseas",
-"sub": "The Lancet Public Health 2020 · cited 628",
+"sub": "The Lancet Public Health 2020 · cited 629",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33007212",
 "c": ""
 },
@@ -4760,46 +4784,6 @@
 "c": ""
 },
 {
-"k": "paper:doi-10-1016-j-emcon-2024-100410",
-"t": "paper",
-"n": "A comprehensive review on environmental and human health impacts of chemical pesticide usa",
-"sub": "Emerging contaminants 2024 · cited 625",
-"url": "https://doi.org/10.1016/j.emcon.2024.100410",
-"c": ""
-},
-{
-"k": "person:wei-zhou",
-"t": "person",
-"n": "Wei Zhou",
-"sub": "Technion – Israel Institute of Technology",
-"url": "https://orcid.org/0000-0002-0540-1669",
-"c": "IL"
-},
-{
-"k": "org:technion-israel-institute-of-technology",
-"t": "academic",
-"n": "Technion – Israel Institute of Technology",
-"sub": "",
-"url": "",
-"c": "IL"
-},
-{
-"k": "org:guangdong-technion-israel-institute-of-technology",
-"t": "academic",
-"n": "Guangdong Technion-Israel Institute of Technology",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:varenyam-achal",
-"t": "person",
-"n": "Varenyam Achal",
-"sub": "Technion – Israel Institute of Technology",
-"url": "https://orcid.org/0000-0001-5444-7746",
-"c": "IL"
-},
-{
 "k": "paper:pmid-33044541",
 "t": "paper",
 "n": "A systematic review of physical activity and quality of life and well-being",
@@ -4835,7 +4819,7 @@
 "k": "paper:pmid-40044233",
 "t": "paper",
 "n": "Projections for prevalence of Parkinson’s disease and its driving factors in 195 countries",
-"sub": "BMJ 2025 · cited 612",
+"sub": "BMJ 2025 · cited 613",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40044233",
 "c": ""
 },
@@ -5114,6 +5098,16 @@
 "r": "tested_in"
 },
 {
+"a": "drug:mt101-5",
+"b": "asset:her096",
+"r": "competes"
+},
+{
+"a": "drug:mt101-5",
+"b": "trial:nct06175767",
+"r": "tested_in"
+},
+{
 "a": "drug:neu-411",
 "b": "asset:her096",
 "r": "competes"
@@ -5206,16 +5200,6 @@
 {
 "a": "drug:sitagliptin",
 "b": "trial:nct07804381",
-"r": "tested_in"
-},
-{
-"a": "drug:sul-238-film-coated",
-"b": "asset:her096",
-"r": "competes"
-},
-{
-"a": "drug:sul-238-film-coated",
-"b": "trial:nct07322887",
 "r": "tested_in"
 },
 {
@@ -5544,11 +5528,6 @@
 "r": "site_of"
 },
 {
-"a": "org:ctc-netherlands",
-"b": "trial:nct07322887",
-"r": "site_of"
-},
-{
 "a": "org:cure-parkinson-s-trust",
 "b": "paper:pmid-38267190",
 "r": "funded"
@@ -5652,16 +5631,6 @@
 "a": "org:fundamental-research-funds-for-the-central-universities",
 "b": "paper:pmid-37433768",
 "r": "funded"
-},
-{
-"a": "org:gen-ilac-ve-saglk-urunleri-a-s",
-"b": "drug:sul-238-film-coated",
-"r": "develops"
-},
-{
-"a": "org:gen-ilac-ve-saglk-urunleri-a-s",
-"b": "trial:nct07322887",
-"r": "sponsors"
 },
 {
 "a": "org:georgetown-university",
@@ -6144,6 +6113,16 @@
 "r": "site_of"
 },
 {
+"a": "org:mthera-pharma",
+"b": "drug:mt101-5",
+"r": "develops"
+},
+{
+"a": "org:mthera-pharma",
+"b": "trial:nct06175767",
+"r": "sponsors"
+},
+{
 "a": "org:mya-schiess",
 "b": "drug:mesenchymal-stem-cells",
 "r": "develops"
@@ -6557,11 +6536,6 @@
 "a": "org:state-university-of-new-york-at-buffalo",
 "b": "trial:nct06592014",
 "r": "sponsors"
-},
-{
-"a": "org:sulfateq-b-v",
-"b": "trial:nct07322887",
-"r": "collaborates"
 },
 {
 "a": "org:sutter-neuroscience-institute",

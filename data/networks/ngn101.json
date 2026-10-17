@@ -1,6 +1,6 @@
 {
 "assetId": "ngn101",
-"updated": "2026-10-16",
+"updated": "2026-10-17",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 6,
@@ -816,17 +816,17 @@
 "c": ""
 },
 {
-"k": "org:academy-of-finland",
+"k": "org:fondazione-telethon",
 "t": "funder",
-"n": "Academy of Finland",
+"n": "Fondazione Telethon",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:fondazione-telethon",
+"k": "org:medical-research-council",
 "t": "funder",
-"n": "Fondazione Telethon",
+"n": "Medical Research Council",
 "sub": "",
 "url": "",
 "c": ""
@@ -1104,6 +1104,14 @@
 "c": ""
 },
 {
+"k": "org:academy-of-finland",
+"t": "funder",
+"n": "Academy of Finland",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:doi-10-1016-j-ymgme-2021-11-154",
 "t": "paper",
 "n": "Efficacy of gene therapy in a CLN5 sheep model using a dual route of administration suppor",
@@ -1246,6 +1254,22 @@
 "sub": "",
 "url": "",
 "c": "US"
+},
+{
+"k": "org:national-institutes-of-health",
+"t": "funder",
+"n": "National Institutes of Health",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:national-eye-institute",
+"t": "funder",
+"n": "National Eye Institute",
+"sub": "",
+"url": "",
+"c": ""
 },
 {
 "k": "paper:doi-10-5167-uzh-279998",
@@ -1454,14 +1478,6 @@
 "sub": "",
 "url": "",
 "c": ""
-},
-{
-"k": "org:national-institutes-of-health",
-"t": "funder",
-"n": "National Institutes of Health",
-"sub": "",
-"url": "",
-"c": "US"
 },
 {
 "k": "org:chemistry-engineering-and-medicine-for-human-health-stanford",
@@ -2256,6 +2272,22 @@
 "c": "US"
 },
 {
+"k": "paper:pmid-33681191",
+"t": "paper",
+"n": "Cathepsin D Variants Associated With Neurodegenerative Diseases Show Dysregulated Function",
+"sub": "Frontiers in Cell and Developmental Biology 2021 · cited 49",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33681191",
+"c": ""
+},
+{
+"k": "person:josina-bunk",
+"t": "person",
+"n": "Josina Bunk",
+"sub": "Christian-Albrechts-Universität zu Kiel",
+"url": "",
+"c": "DE"
+},
+{
 "k": "paper:pmid-33507216",
 "t": "paper",
 "n": "Retinal Phenotype of Patients With Isolated Retinal Degeneration Due toCLN3Pathogenic Vari",
@@ -2336,20 +2368,36 @@
 "c": "DE"
 },
 {
-"k": "paper:pmid-33681191",
+"k": "paper:pmid-32855186",
 "t": "paper",
-"n": "Cathepsin D Variants Associated With Neurodegenerative Diseases Show Dysregulated Function",
-"sub": "Frontiers in Cell and Developmental Biology 2021 · cited 45",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33681191",
+"n": "Expanding the Neuroimaging Phenotype of Neuronal Ceroid Lipofuscinoses",
+"sub": "American Journal of Neuroradiology 2020 · cited 45",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32855186",
 "c": ""
 },
 {
-"k": "person:josina-bunk",
+"k": "person:asthik-biswas",
 "t": "person",
-"n": "Josina Bunk",
-"sub": "Christian-Albrechts-Universität zu Kiel",
+"n": "Asthik Biswas",
+"sub": "Hospital for Sick Children",
+"url": "https://orcid.org/0000-0003-2010-9524",
+"c": "CA"
+},
+{
+"k": "org:hospital-for-sick-children",
+"t": "hospital",
+"n": "Hospital for Sick Children",
+"sub": "",
 "url": "",
-"c": "DE"
+"c": "CA"
+},
+{
+"k": "person:manohar-m-shroff",
+"t": "person",
+"n": "Manohar M. Shroff",
+"sub": "Hospital for Sick Children",
+"url": "https://orcid.org/0000-0002-3791-5920",
+"c": "CA"
 },
 {
 "k": "paper:pmid-35025759",
@@ -2392,42 +2440,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-32855186",
-"t": "paper",
-"n": "Expanding the Neuroimaging Phenotype of Neuronal Ceroid Lipofuscinoses",
-"sub": "American Journal of Neuroradiology 2020 · cited 44",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32855186",
-"c": ""
-},
-{
-"k": "person:asthik-biswas",
-"t": "person",
-"n": "Asthik Biswas",
-"sub": "Hospital for Sick Children",
-"url": "https://orcid.org/0000-0003-2010-9524",
-"c": "CA"
-},
-{
-"k": "org:hospital-for-sick-children",
-"t": "hospital",
-"n": "Hospital for Sick Children",
-"sub": "",
-"url": "",
-"c": "CA"
-},
-{
-"k": "person:manohar-m-shroff",
-"t": "person",
-"n": "Manohar M. Shroff",
-"sub": "Hospital for Sick Children",
-"url": "https://orcid.org/0000-0002-3791-5920",
-"c": "CA"
-},
-{
 "k": "paper:pmid-37974165",
 "t": "paper",
 "n": "Multi-modal proteomic characterization of lysosomal function and proteostasis in progranul",
-"sub": "Molecular Neurodegeneration 2023 · cited 43",
+"sub": "Molecular Neurodegeneration 2023 · cited 44",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37974165",
 "c": ""
 },
@@ -3078,11 +3094,6 @@
 "r": "funded"
 },
 {
-"a": "org:academy-of-finland",
-"b": "paper:pmid-42744861",
-"r": "funded"
-},
-{
 "a": "org:academy-of-medical-sciences",
 "b": "paper:doi-10-64898-2025-12-18-695077",
 "r": "funded"
@@ -3523,6 +3534,11 @@
 "r": "funded"
 },
 {
+"a": "org:medical-research-council",
+"b": "paper:pmid-42744861",
+"r": "funded"
+},
+{
 "a": "org:ministerio-de-ciencia-innovacion-y-universidades",
 "b": "paper:pmid-33725094",
 "r": "funded"
@@ -3540,6 +3556,11 @@
 {
 "a": "org:myotubular-trust",
 "b": "paper:pmid-34130600",
+"r": "funded"
+},
+{
+"a": "org:national-eye-institute",
+"b": "paper:pmid-40384762",
 "r": "funded"
 },
 {
@@ -3610,6 +3631,16 @@
 {
 "a": "org:national-institutes-of-health",
 "b": "paper:pmid-37974165",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-40384762",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-42146023",
 "r": "funded"
 },
 {

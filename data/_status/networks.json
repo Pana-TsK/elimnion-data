@@ -1,8 +1,8 @@
 {
-"started": "2026-10-16T07:16:27.107354Z",
+"started": "2026-10-17T07:01:12.058007Z",
 "calls": {
 "clinicaltrials.gov": 132,
-"api.openalex.org": 444,
+"api.openalex.org": 447,
 "api.reporter.nih.gov": 55
 },
 "errors": [
@@ -93,39 +93,40 @@
 "api.openalex.org failed after 4: https://api.openalex.org/works",
 "api.openalex.org failed after 4: https://api.openalex.org/works",
 "api.openalex.org failed after 4: https://api.openalex.org/works",
+"api.openalex.org failed after 4: https://api.openalex.org/works",
 "api.openalex.org failed after 4: https://api.openalex.org/works"
 ],
-"finished": "2026-10-16T08:01:59.713647Z",
+"finished": "2026-10-17T07:48:26.885222Z",
 "built": {
 "abs101": {
-"nodes": 628,
-"edges": 850,
-"bytes": 174593
+"nodes": 635,
+"edges": 853,
+"bytes": 176848
 },
 "acd440": {
 "nodes": 700,
-"edges": 911,
-"bytes": 192074
+"edges": 914,
+"bytes": 192148
 },
 "acumapimod": {
-"nodes": 352,
+"nodes": 351,
 "edges": 412,
-"bytes": 94636
+"bytes": 94411
 },
 "alg055009": {
 "nodes": 700,
-"edges": 1033,
-"bytes": 202599
+"edges": 1040,
+"bytes": 203236
 },
 "amsulostat": {
 "nodes": 542,
-"edges": 807,
-"bytes": 158228
+"edges": 809,
+"bytes": 158302
 },
 "anxv": {
 "nodes": 700,
-"edges": 1077,
-"bytes": 207146
+"edges": 1079,
+"bytes": 207445
 },
 "arina1": {
 "nodes": 386,
@@ -133,9 +134,9 @@
 "bytes": 105559
 },
 "aup16": {
-"nodes": 613,
+"nodes": 612,
 "edges": 760,
-"bytes": 166519
+"bytes": 165902
 },
 "aurase": {
 "nodes": 351,
@@ -144,18 +145,18 @@
 },
 "belapectin": {
 "nodes": 700,
-"edges": 996,
-"bytes": 204798
+"edges": 1000,
+"bytes": 205251
 },
 "bt101": {
-"nodes": 473,
-"edges": 592,
-"bytes": 134070
+"nodes": 468,
+"edges": 584,
+"bytes": 132366
 },
 "cba1205": {
 "nodes": 700,
-"edges": 1199,
-"bytes": 218253
+"edges": 1213,
+"bytes": 219842
 },
 "p-19fc72dc": {
 "nodes": 450,
@@ -163,29 +164,29 @@
 "bytes": 120920
 },
 "p-39b0eddd": {
-"nodes": 585,
-"edges": 781,
-"bytes": 163469
+"nodes": 594,
+"edges": 791,
+"bytes": 165782
 },
 "coch-aso": {
-"nodes": 677,
-"edges": 939,
-"bytes": 193327
+"nodes": 682,
+"edges": 944,
+"bytes": 194972
 },
 "etx155": {
-"nodes": 526,
-"edges": 728,
-"bytes": 151510
+"nodes": 533,
+"edges": 738,
+"bytes": 153443
 },
 "her096": {
-"nodes": 608,
-"edges": 750,
-"bytes": 163264
+"nodes": 606,
+"edges": 748,
+"bytes": 162742
 },
 "lpcn1148": {
 "nodes": 700,
-"edges": 1034,
-"bytes": 205972
+"edges": 1035,
+"bytes": 205996
 },
 "m1pram": {
 "nodes": 335,
@@ -194,23 +195,23 @@
 },
 "migaldendranib": {
 "nodes": 700,
-"edges": 1111,
-"bytes": 208313
+"edges": 1112,
+"bytes": 208362
 },
 "ngn101": {
-"nodes": 376,
-"edges": 483,
-"bytes": 105610
+"nodes": 378,
+"edges": 486,
+"bytes": 106102
 },
 "opm101": {
-"nodes": 539,
-"edges": 733,
-"bytes": 148907
+"nodes": 546,
+"edges": 736,
+"bytes": 151162
 },
 "sbt101": {
 "nodes": 255,
-"edges": 316,
-"bytes": 69219
+"edges": 317,
+"bytes": 69306
 },
 "synj1": {
 "nodes": 457,
@@ -220,17 +221,17 @@
 "tesomet": {
 "nodes": 700,
 "edges": 990,
-"bytes": 206201
+"bytes": 206247
 },
 "ves001": {
-"nodes": 575,
-"edges": 806,
-"bytes": 161461
+"nodes": 572,
+"edges": 802,
+"bytes": 160597
 },
 "vinpocetine-msa": {
 "nodes": 700,
-"edges": 926,
-"bytes": 192575
+"edges": 925,
+"bytes": 191806
 },
 "vtp300": {
 "nodes": 490,
@@ -239,8 +240,8 @@
 },
 "xald-fingolimod": {
 "nodes": 700,
-"edges": 1187,
-"bytes": 228584
+"edges": 1190,
+"bytes": 228696
 },
 "xstem": {
 "nodes": 148,
@@ -258,69 +259,64 @@
 "bytes": 5370
 },
 "nct-nct04111172": {
-"nodes": 626,
-"edges": 1100,
-"bytes": 188388
+"nodes": 623,
+"edges": 1112,
+"bytes": 188937
 },
 "nct-nct04346225": {
-"nodes": 700,
-"edges": 1174,
-"bytes": 208140
+"nodes": 680,
+"edges": 1136,
+"bytes": 202901
 },
 "nct-nct06088654": {
-"nodes": 326,
-"edges": 625,
-"bytes": 102797
+"nodes": 325,
+"edges": 626,
+"bytes": 102118
 },
-"nct-nct04817774": {
-"nodes": 590,
-"edges": 837,
-"bytes": 166038
+"nct-nct05275478": {
+"nodes": 449,
+"edges": 693,
+"bytes": 126085
 },
 "nct-nct05349721": {
 "nodes": 370,
 "edges": 480,
 "bytes": 96291
 },
-"nct-nct05275478": {
-"nodes": 450,
-"edges": 703,
-"bytes": 127035
-},
 "nct-nct06411912": {
-"nodes": 381,
-"edges": 613,
-"bytes": 109452
+"nodes": 382,
+"edges": 614,
+"bytes": 109711
 },
 "nct-nct06210945": {
 "nodes": 314,
 "edges": 426,
-"bytes": 85520
+"bytes": 85538
 },
-"nct-nct04298541": {
-"nodes": 459,
-"edges": 677,
-"bytes": 131934
+"nct-nct06692959": {
+"nodes": 388,
+"edges": 622,
+"bytes": 110542
 },
 "nct-nct05407389": {
 "nodes": 77,
 "edges": 105,
 "bytes": 20457
 },
-"nct-nct06692959": {
-"nodes": 390,
-"edges": 594,
-"bytes": 108844
+"nct-nct04298541": {
+"nodes": 459,
+"edges": 677,
+"bytes": 131955
 },
 "nct-nct05551741": {
-"nodes": 302,
-"edges": 430,
-"bytes": 81304
+"nodes": 283,
+"edges": 417,
+"bytes": 77634
 },
-"nct-nct04913272": {
-"nodes": 77,
-"edges": 105,
-"bytes": 20461
+"nct-nct05502367": {
+"nodes": 239,
+"edges": 295,
+"bytes": 64669
 },
 "nct-nct06677307": {
 "nodes": 201,
@@ -330,48 +326,53 @@
 "nct-nct05785819": {
 "nodes": 325,
 "edges": 435,
-"bytes": 90030
+"bytes": 89797
 },
-"nct-nct05502367": {
-"nodes": 239,
-"edges": 295,
-"bytes": 64669
+"nct-nct04913272": {
+"nodes": 77,
+"edges": 105,
+"bytes": 20461
 },
 "nct-nct04260802": {
-"nodes": 376,
-"edges": 640,
-"bytes": 110560
-},
-"nct-nct05262855": {
-"nodes": 639,
-"edges": 1058,
-"bytes": 188363
+"nodes": 362,
+"edges": 587,
+"bytes": 102254
 },
 "nct-nct06340958": {
 "nodes": 200,
 "edges": 298,
 "bytes": 55550
 },
+"nct-nct05262855": {
+"nodes": 631,
+"edges": 1054,
+"bytes": 186367
+},
+"nct-nct06677203": {
+"nodes": 282,
+"edges": 420,
+"bytes": 77001
+},
+"nct-nct04176497": {
+"nodes": 700,
+"edges": 1179,
+"bytes": 223624
+},
 "nct-nct05366751": {
 "nodes": 134,
 "edges": 155,
 "bytes": 34836
 },
-"nct-nct04176497": {
-"nodes": 700,
-"edges": 1222,
-"bytes": 227088
+"nct-nct04295759": {
+"nodes": 491,
+"edges": 769,
+"bytes": 142692
 },
-"nct-nct06677203": {
-"nodes": 301,
-"edges": 433,
-"bytes": 80671
-},
-"nct-nct06705998": {
-"nodes": 269,
-"edges": 389,
-"bytes": 73966
+"nct-nct06589219": {
+"nodes": 359,
+"edges": 465,
+"bytes": 95341
 }
 },
-"hubs": 2747
+"hubs": 2729
 }
