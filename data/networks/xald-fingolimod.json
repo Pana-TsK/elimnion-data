@@ -1,6 +1,6 @@
 {
 "assetId": "xald-fingolimod",
-"updated": "2026-10-18",
+"updated": "2026-10-19",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 172,
@@ -607,22 +607,6 @@
 "sub": "principal investigator · Karolinska Institutet",
 "url": "https://orcid.org/0000-0001-8329-5219",
 "c": "SE"
-},
-{
-"k": "person:anna-fogdell-hahn",
-"t": "person",
-"n": "Anna Fogdell-Hahn",
-"sub": "principal investigator · Karolinska Institutet",
-"url": "",
-"c": ""
-},
-{
-"k": "person:ingrid-kockum",
-"t": "person",
-"n": "Ingrid Kockum",
-"sub": "principal investigator · Karolinska Institutet",
-"url": "",
-"c": ""
 },
 {
 "k": "person:thomas-frisell",
@@ -2724,7 +2708,7 @@
 "k": "paper:pmid-29686116",
 "t": "paper",
 "n": "Practice guideline recommendations summary: Disease-modifying therapies for adults with mu",
-"sub": "Neurology 2018 · cited 595",
+"sub": "Neurology 2018 · cited 596",
 "url": "https://pubmed.ncbi.nlm.nih.gov/29686116",
 "c": ""
 },
@@ -2796,7 +2780,7 @@
 "k": "paper:pmid-30644981",
 "t": "paper",
 "n": "Association of Initial Disease-Modifying Therapy With Later Conversion to Secondary Progre",
-"sub": "JAMA 2019 · cited 546",
+"sub": "JAMA 2019 · cited 547",
 "url": "https://pubmed.ncbi.nlm.nih.gov/30644981",
 "c": ""
 },
@@ -3473,11 +3457,27 @@
 "c": "IT"
 },
 {
-"k": "person:maria-teresa-rilla",
+"k": "org:university-of-genoa",
+"t": "academic",
+"n": "University of Genoa",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:sormani-mp",
 "t": "person",
-"n": "Maria Teresa Rilla",
+"n": "Sormani Mp",
 "sub": "Ospedale Policlinico San Martino",
 "url": "",
+"c": "IT"
+},
+{
+"k": "person:maria-teresa-ferro",
+"t": "person",
+"n": "Maria Teresa Ferrò",
+"sub": "Ospedale Policlinico San Martino",
+"url": "https://orcid.org/0000-0003-1888-3510",
 "c": "IT"
 },
 {
@@ -3756,7 +3756,7 @@
 "k": "paper:pmid-28283111",
 "t": "paper",
 "n": "Is multiple sclerosis a length-dependent central axonopathy? The case for therapeutic lag ",
-"sub": "Multiple Sclerosis and Related Disorders 2017 · cited 114",
+"sub": "Multiple Sclerosis and Related Disorders 2017 · cited 115",
 "url": "https://pubmed.ncbi.nlm.nih.gov/28283111",
 "c": ""
 },
@@ -4452,7 +4452,7 @@
 "k": "paper:pmid-36175155",
 "t": "paper",
 "n": "International Recommendations for the Diagnosis and Management of Patients With Adrenoleuk",
-"sub": "Neurology 2022 · cited 155",
+"sub": "Neurology 2022 · cited 156",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36175155",
 "c": ""
 },
@@ -5505,11 +5505,11 @@
 "c": ""
 },
 {
-"k": "grant:nih-5r01ca261979-03",
+"k": "grant:nih-5r01ca261979-04",
 "t": "grant",
 "n": "Fingolimod and Ozanimod for the treatment and prevention of chemobrain",
-"sub": "NIH NCI · $458,752 · 2022-2027",
-"url": "https://reporter.nih.gov/project-details/10889081",
+"sub": "NIH NCI · $502,411 · 2022-2027",
+"url": "https://reporter.nih.gov/project-details/11136387",
 "c": ""
 },
 {
@@ -5537,11 +5537,11 @@
 "c": ""
 },
 {
-"k": "grant:nih-5r01ca261979-04",
+"k": "grant:nih-5r01ca261979-03",
 "t": "grant",
 "n": "Fingolimod and Ozanimod for the treatment and prevention of chemobrain",
-"sub": "NIH NCI · $502,411 · 2022-2027",
-"url": "https://reporter.nih.gov/project-details/11136387",
+"sub": "NIH NCI · $458,752 · 2022-2027",
+"url": "https://reporter.nih.gov/project-details/10889081",
 "c": ""
 },
 {
@@ -9296,16 +9296,6 @@
 "r": "authored"
 },
 {
-"a": "person:anna-fogdell-hahn",
-"b": "org:karolinska-institutet",
-"r": "affiliated"
-},
-{
-"a": "person:anna-fogdell-hahn",
-"b": "trial:nct03193866",
-"r": "investigator"
-},
-{
 "a": "person:anna-maria-planas",
 "b": "paper:pmid-27180033",
 "r": "authored"
@@ -10126,16 +10116,6 @@
 "r": "investigator"
 },
 {
-"a": "person:ingrid-kockum",
-"b": "org:karolinska-institutet",
-"r": "affiliated"
-},
-{
-"a": "person:ingrid-kockum",
-"b": "trial:nct03193866",
-"r": "investigator"
-},
-{
 "a": "person:irene-c-huffnagel",
 "b": "org:lucile-packard-children-s-hospital",
 "r": "affiliated"
@@ -10662,6 +10642,11 @@
 },
 {
 "a": "person:maria-pia-sormani",
+"b": "org:university-of-genoa",
+"r": "affiliated"
+},
+{
+"a": "person:maria-pia-sormani",
 "b": "paper:pmid-28283111",
 "r": "authored"
 },
@@ -10671,12 +10656,12 @@
 "r": "authored"
 },
 {
-"a": "person:maria-teresa-rilla",
+"a": "person:maria-teresa-ferro",
 "b": "org:ospedale-policlinico-san-martino",
 "r": "affiliated"
 },
 {
-"a": "person:maria-teresa-rilla",
+"a": "person:maria-teresa-ferro",
 "b": "paper:pmid-34563483",
 "r": "authored"
 },
@@ -11198,6 +11183,21 @@
 {
 "a": "person:shunji-tomatsu",
 "b": "paper:pmid-38473704",
+"r": "authored"
+},
+{
+"a": "person:sormani-mp",
+"b": "org:ospedale-policlinico-san-martino",
+"r": "affiliated"
+},
+{
+"a": "person:sormani-mp",
+"b": "org:university-of-genoa",
+"r": "affiliated"
+},
+{
+"a": "person:sormani-mp",
+"b": "paper:pmid-34563483",
 "r": "authored"
 },
 {
