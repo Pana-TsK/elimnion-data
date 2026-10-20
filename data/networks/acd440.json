@@ -1,6 +1,6 @@
 {
 "assetId": "acd440",
-"updated": "2026-10-19",
+"updated": "2026-10-20",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 43,
@@ -16,11 +16,11 @@
 "c": ""
 },
 {
-"k": "trial:nct04704232",
+"k": "trial:nct05416931",
 "t": "trial",
-"n": "Study of Safety, Efficacy, and Pharmacokinetics of Topical ACD440 in Healthy Volunteers",
-"sub": "P1 · completed · 2021-2021",
-"url": "https://clinicaltrials.gov/study/NCT04704232",
+"n": "ACD440 Gel in Peripheral Neuropathic Pain",
+"sub": "P2 · completed · 2022-2023",
+"url": "https://clinicaltrials.gov/study/NCT05416931",
 "c": ""
 },
 {
@@ -32,14 +32,6 @@
 "c": ""
 },
 {
-"k": "trial:nct05416931",
-"t": "trial",
-"n": "ACD440 Gel in Peripheral Neuropathic Pain",
-"sub": "P2 · completed · 2022-2023",
-"url": "https://clinicaltrials.gov/study/NCT05416931",
-"c": ""
-},
-{
 "k": "org:akademiska-sjukhuset",
 "t": "company",
 "n": "Akademiska sjukhuset",
@@ -48,43 +40,59 @@
 "c": "Sweden"
 },
 {
-"k": "trial:nct07858344",
+"k": "trial:nct04704232",
 "t": "trial",
-"n": "Randomized, Double-blind, Placebo-controlled, Multicenter Phase IIb Clinical Trial of Spra",
-"sub": "P2 · completed · 2024-2025",
-"url": "https://clinicaltrials.gov/study/NCT07858344",
+"n": "Study of Safety, Efficacy, and Pharmacokinetics of Topical ACD440 in Healthy Volunteers",
+"sub": "P1 · completed · 2021-2021",
+"url": "https://clinicaltrials.gov/study/NCT04704232",
 "c": ""
 },
 {
-"k": "org:zhejiang-yuejia-pharmaceuticals",
-"t": "company",
-"n": "Zhejiang Yuejia Pharmaceuticals Co., Ltd.",
+"k": "trial:nct06446960",
+"t": "trial",
+"n": "The Role of Peripheral Afferents in Modulating Post-stroke Central Pain",
+"sub": "P3 · completed · 2024-2026",
+"url": "https://clinicaltrials.gov/study/NCT06446960",
+"c": ""
+},
+{
+"k": "org:institut-national-de-la-sante-et-de-la-recherche-medicale-fr",
+"t": "funder",
+"n": "Institut National de la Santé Et de la Recherche Médicale, France",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:yj001-spray-simulator",
+"k": "drug:lidocaine",
 "t": "drug",
-"n": "YJ001 spray simulator",
-"sub": "Zhejiang Yuejia Pharmaceuticals Co., Ltd.",
+"n": "Lidocaine",
+"sub": "Institut National de la Santé Et de la Recherche Médicale, France",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:yj001-spray",
+"k": "drug:levobupivacaine",
 "t": "drug",
-"n": "YJ001 Spray",
-"sub": "Zhejiang Yuejia Pharmaceuticals Co., Ltd.",
+"n": "Levobupivacaine",
+"sub": "Institut National de la Santé Et de la Recherche Médicale, France",
 "url": "",
 "c": ""
 },
 {
-"k": "trial:nct06628908",
+"k": "drug:chloride-0-9-inj",
+"t": "drug",
+"n": "Chloride 0.9% Inj",
+"sub": "Institut National de la Santé Et de la Recherche Médicale, France",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06696443",
 "t": "trial",
-"n": "Evaluation of Efficacy and Safety of Suzetrigine for Pain Associated With Diabetic Periphe",
-"sub": "P3 · recruiting · 2024-2027",
-"url": "https://clinicaltrials.gov/study/NCT06628908",
+"n": "Evaluation of the Long-term Safety and Effectiveness of Suzetrigine (SUZ) in Participants ",
+"sub": "P3 · active_not_recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06696443",
 "c": ""
 },
 {
@@ -168,10 +176,50 @@
 "c": ""
 },
 {
+"k": "trial:nct06628908",
+"t": "trial",
+"n": "Evaluation of Efficacy and Safety of Suzetrigine for Pain Associated With Diabetic Periphe",
+"sub": "P3 · recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06628908",
+"c": ""
+},
+{
 "k": "drug:pregabalin",
 "t": "drug",
 "n": "Pregabalin",
 "sub": "Vertex Pharmaceuticals Incorporated",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07858344",
+"t": "trial",
+"n": "Randomized, Double-blind, Placebo-controlled, Multicenter Phase IIb Clinical Trial of Spra",
+"sub": "P2 · completed · 2024-2025",
+"url": "https://clinicaltrials.gov/study/NCT07858344",
+"c": ""
+},
+{
+"k": "org:zhejiang-yuejia-pharmaceuticals",
+"t": "company",
+"n": "Zhejiang Yuejia Pharmaceuticals Co., Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:yj001-spray-simulator",
+"t": "drug",
+"n": "YJ001 spray simulator",
+"sub": "Zhejiang Yuejia Pharmaceuticals Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:yj001-spray",
+"t": "drug",
+"n": "YJ001 Spray",
+"sub": "Zhejiang Yuejia Pharmaceuticals Co., Ltd.",
 "url": "",
 "c": ""
 },
@@ -192,19 +240,75 @@
 "c": ""
 },
 {
+"k": "org:university-of-california-irvine-medical-center-site-number-8",
+"t": "hospital",
+"n": "University of California Irvine Medical Center- Site Number : 8400019",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:adventhealth-orlando-site-number-8400008",
+"t": "hospital",
+"n": "AdventHealth Orlando- Site Number : 8400008",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:emory-university-school-of-medicine-atlanta-site-number-8400",
+"t": "academic",
+"n": "Emory University School of Medicine - Atlanta- Site Number : 8400010",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:wmchealth-advanced-physician-services-site-number-8400001",
+"t": "hospital",
+"n": "WMCHealth Advanced Physician Services- Site Number : 8400001",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cincinnati-children-s-hospital-medical-center-site-number-84",
+"t": "hospital",
+"n": "Cincinnati Children's Hospital Medical Center- Site Number : 8400013",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:upmc-montefiore-site-number-8400009",
+"t": "company",
+"n": "UPMC Montefiore- Site Number : 8400009",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:renal-disease-research-institute-dallas-live-oak-street-site",
+"t": "academic",
+"n": "Renal Disease Research Institute - Dallas - Live Oak Street- Site Number : 8400012",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-utah-health-hospital-site-number-8400005",
+"t": "hospital",
+"n": "University of Utah Health Hospital- Site Number : 8400005",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "drug:venglustat",
 "t": "drug",
 "n": "Venglustat",
 "sub": "Sanofi",
 "url": "",
-"c": ""
-},
-{
-"k": "trial:nct06696443",
-"t": "trial",
-"n": "Evaluation of the Long-term Safety and Effectiveness of Suzetrigine (SUZ) in Participants ",
-"sub": "P3 · active_not_recruiting · 2024-2027",
-"url": "https://clinicaltrials.gov/study/NCT06696443",
 "c": ""
 },
 {
@@ -219,6 +323,22 @@
 "k": "org:nantes-university-hospital",
 "t": "hospital",
 "n": "Nantes University Hospital",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:brest-university-hospital",
+"t": "hospital",
+"n": "Brest University Hospital",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:vendee-departmental-hospital",
+"t": "hospital",
+"n": "Vendée Departmental Hospital",
 "sub": "",
 "url": "",
 "c": "France"
@@ -1224,38 +1344,6 @@
 "c": ""
 },
 {
-"k": "trial:nct04650074",
-"t": "trial",
-"n": "Effectiveness of Ketamine Administered by Mesotherapy in Complex Regional Pain Syndrome Ty",
-"sub": "P2/P3 · completed · 2021-2024",
-"url": "https://clinicaltrials.gov/study/NCT04650074",
-"c": ""
-},
-{
-"k": "org:hospices-civils-de-lyon",
-"t": "academic",
-"n": "Hospices Civils de Lyon",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:department-of-orthopedic-surgery-and-trauma-emergencies-of-t",
-"t": "hospital",
-"n": "Department of orthopedic surgery and trauma emergencies of the lower limb, Edouard Herriot",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "drug:lidocaine",
-"t": "drug",
-"n": "LIDOCAINE",
-"sub": "Hospices Civils de Lyon",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07251491",
 "t": "trial",
 "n": "Psilocybin to Treat Depression in Spinal Cord Injury",
@@ -1328,6 +1416,30 @@
 "c": ""
 },
 {
+"k": "trial:nct04650074",
+"t": "trial",
+"n": "Effectiveness of Ketamine Administered by Mesotherapy in Complex Regional Pain Syndrome Ty",
+"sub": "P2/P3 · completed · 2021-2024",
+"url": "https://clinicaltrials.gov/study/NCT04650074",
+"c": ""
+},
+{
+"k": "org:hospices-civils-de-lyon",
+"t": "academic",
+"n": "Hospices Civils de Lyon",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:department-of-orthopedic-surgery-and-trauma-emergencies-of-t",
+"t": "hospital",
+"n": "Department of orthopedic surgery and trauma emergencies of the lower limb, Edouard Herriot",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
 "k": "trial:nct05864053",
 "t": "trial",
 "n": "(2R,6R)-Hydroxynorketamine for the Treatment of Neuropathic Pain",
@@ -1372,30 +1484,6 @@
 "t": "drug",
 "n": "Saline",
 "sub": "Rush University Medical Center",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06518720",
-"t": "trial",
-"n": "Treatment With Psilocybin for Chronic Neuropathic Pain and Depression (TRANSCEND)",
-"sub": "P2 · recruiting · 2025-2027",
-"url": "https://clinicaltrials.gov/study/NCT06518720",
-"c": ""
-},
-{
-"k": "org:centre-for-addiction-and-mental-health",
-"t": "hospital",
-"n": "Centre for Addiction and Mental Health",
-"sub": "",
-"url": "",
-"c": "Canada"
-},
-{
-"k": "person:ishrat-husain",
-"t": "person",
-"n": "Ishrat Husain",
-"sub": "principal investigator · Centre for Addiction and Mental Health",
 "url": "",
 "c": ""
 },
@@ -1492,6 +1580,30 @@
 "t": "drug",
 "n": "Mazisotine",
 "sub": "Eli Lilly and Company",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06518720",
+"t": "trial",
+"n": "Treatment With Psilocybin for Chronic Neuropathic Pain and Depression (TRANSCEND)",
+"sub": "P2 · recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT06518720",
+"c": ""
+},
+{
+"k": "org:centre-for-addiction-and-mental-health",
+"t": "hospital",
+"n": "Centre for Addiction and Mental Health",
+"sub": "",
+"url": "",
+"c": "Canada"
+},
+{
+"k": "person:ishrat-husain",
+"t": "person",
+"n": "Ishrat Husain",
+"sub": "principal investigator · Centre for Addiction and Mental Health",
 "url": "",
 "c": ""
 },
@@ -2368,118 +2480,6 @@
 "c": "Singapore"
 },
 {
-"k": "trial:nct05997979",
-"t": "trial",
-"n": "Analgesic Effectiveness of Capsaicin 8% Cutaneous Patch in Children",
-"sub": "P3 · recruiting · 2024-2028",
-"url": "https://clinicaltrials.gov/study/NCT05997979",
-"c": ""
-},
-{
-"k": "org:university-hospital-brest",
-"t": "hospital",
-"n": "University Hospital, Brest",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:chu-of-brest",
-"t": "hospital",
-"n": "CHU of Brest",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:philippe-j-le-moine",
-"t": "person",
-"n": "Philippe J LE MOINE",
-"sub": "principal investigator · CHU of Brest",
-"url": "",
-"c": ""
-},
-{
-"k": "org:chu-d-amiens",
-"t": "hospital",
-"n": "CHU d'Amiens",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-d-angers",
-"t": "hospital",
-"n": "CHU d'Angers",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-de-bordeaux",
-"t": "hospital",
-"n": "CHU de Bordeaux",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-de-brest",
-"t": "hospital",
-"n": "CHU de Brest",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-de-nantes",
-"t": "hospital",
-"n": "CHU de Nantes",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-de-lyon",
-"t": "hospital",
-"n": "CHU de Lyon",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-de-marseille",
-"t": "hospital",
-"n": "CHU de Marseille",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-de-montpellier",
-"t": "hospital",
-"n": "CHU de Montpellier",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-de-tours",
-"t": "hospital",
-"n": "CHU de Tours",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:institut-gustave-roussy",
-"t": "academic",
-"n": "Institut Gustave Roussy",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
 "k": "trial:nct05917912",
 "t": "trial",
 "n": "EASE (Efficacy of ATX01 Study in Erythromelalgia)",
@@ -2635,7 +2635,7 @@
 "k": "paper:pmid-32584191",
 "t": "paper",
 "n": "Neuropathic Pain: From Mechanisms to Treatment",
-"sub": "Physiological Reviews 2020 · cited 1566",
+"sub": "Physiological Reviews 2020 · cited 1567",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32584191",
 "c": ""
 },
@@ -2691,7 +2691,7 @@
 "k": "paper:pmid-34115979",
 "t": "paper",
 "n": "Low back pain",
-"sub": "The Lancet 2021 · cited 1336",
+"sub": "The Lancet 2021 · cited 1337",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34115979",
 "c": ""
 },
@@ -2843,7 +2843,7 @@
 "k": "paper:pmid-32710772",
 "t": "paper",
 "n": "Evidence-Based Guidelines and Secondary Meta-Analysis for the Use of Transcranial Direct C",
-"sub": "The International Journal of Neuropsychopharmacology 2020 · cited 607",
+"sub": "The International Journal of Neuropsychopharmacology 2020 · cited 608",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32710772",
 "c": ""
 },
@@ -4195,7 +4195,7 @@
 "k": "paper:pmid-40252663",
 "t": "paper",
 "n": "Pharmacotherapy and non-invasive neuromodulation for neuropathic pain: a systematic review",
-"sub": "The Lancet Neurology 2025 · cited 250",
+"sub": "The Lancet Neurology 2025 · cited 251",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40252663",
 "c": ""
 },
@@ -5676,11 +5676,6 @@
 },
 {
 "a": "drug:capsaicin-8-patch",
-"b": "trial:nct05997979",
-"r": "tested_in"
-},
-{
-"a": "drug:capsaicin-8-patch",
 "b": "trial:nct06807164",
 "r": "tested_in"
 },
@@ -5702,6 +5697,16 @@
 {
 "a": "drug:cbd-cbd-a",
 "b": "trial:nct05630235",
+"r": "tested_in"
+},
+{
+"a": "drug:chloride-0-9-inj",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:chloride-0-9-inj",
+"b": "trial:nct06446960",
 "r": "tested_in"
 },
 {
@@ -5815,6 +5820,16 @@
 "r": "tested_in"
 },
 {
+"a": "drug:levobupivacaine",
+"b": "asset:acd440",
+"r": "competes"
+},
+{
+"a": "drug:levobupivacaine",
+"b": "trial:nct06446960",
+"r": "tested_in"
+},
+{
 "a": "drug:lidocaine",
 "b": "asset:acd440",
 "r": "competes"
@@ -5822,6 +5837,11 @@
 {
 "a": "drug:lidocaine",
 "b": "trial:nct04650074",
+"r": "tested_in"
+},
+{
+"a": "drug:lidocaine",
+"b": "trial:nct06446960",
 "r": "tested_in"
 },
 {
@@ -6200,6 +6220,11 @@
 "r": "site_of"
 },
 {
+"a": "org:adventhealth-orlando-site-number-8400008",
+"b": "trial:nct05206773",
+"r": "site_of"
+},
+{
 "a": "org:agencia-nacional-de-inovacao",
 "b": "paper:pmid-35055104",
 "r": "funded"
@@ -6445,6 +6470,11 @@
 "r": "sponsors"
 },
 {
+"a": "org:brest-university-hospital",
+"b": "trial:nct06023706",
+"r": "site_of"
+},
+{
 "a": "org:bronx-veterans-medical-research-foundation",
 "b": "trial:nct07251491",
 "r": "collaborates"
@@ -6545,48 +6575,8 @@
 "r": "site_of"
 },
 {
-"a": "org:chu-d-amiens",
-"b": "trial:nct05997979",
-"r": "site_of"
-},
-{
-"a": "org:chu-d-angers",
-"b": "trial:nct05997979",
-"r": "site_of"
-},
-{
-"a": "org:chu-de-bordeaux",
-"b": "trial:nct05997979",
-"r": "site_of"
-},
-{
-"a": "org:chu-de-brest",
-"b": "trial:nct05997979",
-"r": "site_of"
-},
-{
-"a": "org:chu-de-lyon",
-"b": "trial:nct05997979",
-"r": "site_of"
-},
-{
-"a": "org:chu-de-marseille",
-"b": "trial:nct05997979",
-"r": "site_of"
-},
-{
-"a": "org:chu-de-montpellier",
-"b": "trial:nct05997979",
-"r": "site_of"
-},
-{
-"a": "org:chu-de-nantes",
-"b": "trial:nct05997979",
-"r": "site_of"
-},
-{
-"a": "org:chu-de-tours",
-"b": "trial:nct05997979",
+"a": "org:cincinnati-children-s-hospital-medical-center-site-number-84",
+"b": "trial:nct05206773",
 "r": "site_of"
 },
 {
@@ -6840,6 +6830,11 @@
 "r": "site_of"
 },
 {
+"a": "org:emory-university-school-of-medicine-atlanta-site-number-8400",
+"b": "trial:nct05206773",
+"r": "site_of"
+},
+{
 "a": "org:empire-clinical-research",
 "b": "trial:nct06628908",
 "r": "site_of"
@@ -7070,9 +7065,24 @@
 "r": "site_of"
 },
 {
-"a": "org:institut-gustave-roussy",
-"b": "trial:nct05997979",
-"r": "site_of"
+"a": "org:institut-national-de-la-sante-et-de-la-recherche-medicale-fr",
+"b": "drug:chloride-0-9-inj",
+"r": "develops"
+},
+{
+"a": "org:institut-national-de-la-sante-et-de-la-recherche-medicale-fr",
+"b": "drug:levobupivacaine",
+"r": "develops"
+},
+{
+"a": "org:institut-national-de-la-sante-et-de-la-recherche-medicale-fr",
+"b": "drug:lidocaine",
+"r": "develops"
+},
+{
+"a": "org:institut-national-de-la-sante-et-de-la-recherche-medicale-fr",
+"b": "trial:nct06446960",
+"r": "sponsors"
 },
 {
 "a": "org:instituto-anima-de-extensao-universitaria-unibh",
@@ -7575,6 +7585,11 @@
 "r": "collaborates"
 },
 {
+"a": "org:renal-disease-research-institute-dallas-live-oak-street-site",
+"b": "trial:nct05206773",
+"r": "site_of"
+},
+{
 "a": "org:rosetrees-trust",
 "b": "paper:pmid-37792955",
 "r": "funded"
@@ -7915,16 +7930,6 @@
 "r": "site_of"
 },
 {
-"a": "org:university-hospital-brest",
-"b": "drug:capsaicin-8-patch",
-"r": "develops"
-},
-{
-"a": "org:university-hospital-brest",
-"b": "trial:nct05997979",
-"r": "sponsors"
-},
-{
 "a": "org:university-hospital-clermont-ferrand",
 "b": "drug:blood-sampling",
 "r": "develops"
@@ -7943,6 +7948,11 @@
 "a": "org:university-of-arizona",
 "b": "trial:nct07227649",
 "r": "sponsors"
+},
+{
+"a": "org:university-of-california-irvine-medical-center-site-number-8",
+"b": "trial:nct05206773",
+"r": "site_of"
 },
 {
 "a": "org:university-of-kansas-medical-center",
@@ -7990,8 +8000,18 @@
 "r": "site_of"
 },
 {
+"a": "org:university-of-utah-health-hospital-site-number-8400005",
+"b": "trial:nct05206773",
+"r": "site_of"
+},
+{
 "a": "org:university-of-vermont",
 "b": "trial:nct06614322",
+"r": "site_of"
+},
+{
+"a": "org:upmc-montefiore-site-number-8400009",
+"b": "trial:nct05206773",
 "r": "site_of"
 },
 {
@@ -8012,6 +8032,11 @@
 {
 "a": "org:vcu-medical-center",
 "b": "trial:nct06614322",
+"r": "site_of"
+},
+{
+"a": "org:vendee-departmental-hospital",
+"b": "trial:nct06023706",
 "r": "site_of"
 },
 {
@@ -8077,6 +8102,11 @@
 {
 "a": "org:westmead-hospital",
 "b": "trial:nct06490445",
+"r": "site_of"
+},
+{
+"a": "org:wmchealth-advanced-physician-services-site-number-8400001",
+"b": "trial:nct05206773",
 "r": "site_of"
 },
 {
@@ -9658,16 +9688,6 @@
 "a": "person:peter-y-k-van-den-bergh",
 "b": "paper:pmid-34327760",
 "r": "authored"
-},
-{
-"a": "person:philippe-j-le-moine",
-"b": "org:chu-of-brest",
-"r": "affiliated"
-},
-{
-"a": "person:philippe-j-le-moine",
-"b": "trial:nct05997979",
-"r": "investigator"
 },
 {
 "a": "person:piotr-krzysztof-krajewski",

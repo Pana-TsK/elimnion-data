@@ -1,6 +1,6 @@
 {
 "assetId": "amsulostat",
-"updated": "2026-10-19",
+"updated": "2026-10-20",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 40,
@@ -224,30 +224,6 @@
 "c": "Taiwan"
 },
 {
-"k": "trial:nct07750574",
-"t": "trial",
-"n": "Flonoltinib Maleate Oral Regimens in Patients With Myelofibrosis",
-"sub": "P2 · not_yet_recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07750574",
-"c": ""
-},
-{
-"k": "org:chengdu-zenitar-biomedical-technology",
-"t": "company",
-"n": "Chengdu Zenitar Biomedical Technology Co., Ltd",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:flonoltinib-maleate-orally",
-"t": "drug",
-"n": "Flonoltinib Maleate orally",
-"sub": "Chengdu Zenitar Biomedical Technology Co., Ltd",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07357727",
 "t": "trial",
 "n": "A Phase 3 Study of Pelabresib (DAK539) and Ruxolitinib in Myelofibrosis (MF)",
@@ -360,34 +336,50 @@
 "c": ""
 },
 {
-"k": "trial:nct05364762",
+"k": "trial:nct07228624",
 "t": "trial",
-"n": "Adding Itacitinib to Cyclophosphamide and Tacrolimus for the Prevention of Graft Versus Ho",
-"sub": "P2 · active_not_recruiting · 2022-2027",
-"url": "https://clinicaltrials.gov/study/NCT05364762",
+"n": "Ruxolitinib Before, During and After Hematopoietic Cell Transplant in Older Patients With ",
+"sub": "P2 · recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07228624",
 "c": ""
 },
 {
-"k": "org:city-of-hope-medical-center",
-"t": "hospital",
-"n": "City of Hope Medical Center",
+"k": "org:fred-hutchinson-cancer-center",
+"t": "academic",
+"n": "Fred Hutchinson Cancer Center",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:incyte",
+"t": "company",
+"n": "Incyte Corporation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:fred-hutch-university-of-washington-cancer-consortium",
+"t": "academic",
+"n": "Fred Hutch/University of Washington Cancer Consortium",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "org:national-cancer-institute-nci",
-"t": "funder",
-"n": "National Cancer Institute (NCI)",
-"sub": "",
+"k": "person:rachel-salit",
+"t": "person",
+"n": "Rachel Salit",
+"sub": "principal investigator · Fred Hutch/University of Washington Cancer Consortium",
 "url": "",
 "c": ""
 },
 {
-"k": "person:monzr-m-al-malki",
-"t": "person",
-"n": "Monzr M Al Malki",
-"sub": "principal investigator · City of Hope Medical Center",
+"k": "drug:busulfan",
+"t": "drug",
+"n": "Busulfan",
+"sub": "Fred Hutchinson Cancer Center",
 "url": "",
 "c": ""
 },
@@ -395,15 +387,39 @@
 "k": "drug:cyclophosphamide",
 "t": "drug",
 "n": "Cyclophosphamide",
-"sub": "City of Hope Medical Center",
+"sub": "Fred Hutchinson Cancer Center",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:itacitinib",
+"k": "drug:fludarabine",
 "t": "drug",
-"n": "Itacitinib",
-"sub": "City of Hope Medical Center",
+"n": "Fludarabine",
+"sub": "Fred Hutchinson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:jak-inhibitor",
+"t": "drug",
+"n": "JAK Inhibitor",
+"sub": "Fred Hutchinson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:melphalan",
+"t": "drug",
+"n": "Melphalan",
+"sub": "Fred Hutchinson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:methotrexate",
+"t": "drug",
+"n": "Methotrexate",
+"sub": "Fred Hutchinson Cancer Center",
 "url": "",
 "c": ""
 },
@@ -411,7 +427,31 @@
 "k": "drug:tacrolimus",
 "t": "drug",
 "n": "Tacrolimus",
-"sub": "City of Hope Medical Center",
+"sub": "Fred Hutchinson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07750574",
+"t": "trial",
+"n": "Flonoltinib Maleate Oral Regimens in Patients With Myelofibrosis",
+"sub": "P2 · not_yet_recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07750574",
+"c": ""
+},
+{
+"k": "org:chengdu-zenitar-biomedical-technology",
+"t": "company",
+"n": "Chengdu Zenitar Biomedical Technology Co., Ltd",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:flonoltinib-maleate-orally",
+"t": "drug",
+"n": "Flonoltinib Maleate orally",
+"sub": "Chengdu Zenitar Biomedical Technology Co., Ltd",
 "url": "",
 "c": ""
 },
@@ -435,6 +475,14 @@
 "k": "org:treebough-therapies",
 "t": "company",
 "n": "Treebough Therapies",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-cancer-institute-nci",
+"t": "funder",
+"n": "National Cancer Institute (NCI)",
 "sub": "",
 "url": "",
 "c": ""
@@ -488,6 +536,38 @@
 "c": ""
 },
 {
+"k": "trial:nct05364762",
+"t": "trial",
+"n": "Adding Itacitinib to Cyclophosphamide and Tacrolimus for the Prevention of Graft Versus Ho",
+"sub": "P2 · active_not_recruiting · 2022-2027",
+"url": "https://clinicaltrials.gov/study/NCT05364762",
+"c": ""
+},
+{
+"k": "org:city-of-hope-medical-center",
+"t": "hospital",
+"n": "City of Hope Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "person:monzr-m-al-malki",
+"t": "person",
+"n": "Monzr M Al Malki",
+"sub": "principal investigator · City of Hope Medical Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:itacitinib",
+"t": "drug",
+"n": "Itacitinib",
+"sub": "City of Hope Medical Center",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07128381",
 "t": "trial",
 "n": "Phase I/II Clinical Trial of Axatilimab, a CSF1R Monoclonal Antibody, in Combination With ",
@@ -502,14 +582,6 @@
 "sub": "",
 "url": "",
 "c": "United States"
-},
-{
-"k": "org:incyte",
-"t": "company",
-"n": "Incyte, Inc",
-"sub": "",
-"url": "",
-"c": ""
 },
 {
 "k": "person:naveen-pemmaraju",
@@ -864,102 +936,6 @@
 "c": ""
 },
 {
-"k": "trial:nct04455841",
-"t": "trial",
-"n": "INCB000928 Administered as a Monotherapy or in Combination With Ruxolitinib in Participant",
-"sub": "P1/P2 · completed · 2021-2026",
-"url": "https://clinicaltrials.gov/study/NCT04455841",
-"c": ""
-},
-{
-"k": "person:amanda-mcbride",
-"t": "person",
-"n": "Amanda McBride",
-"sub": "study director · Incyte Corporation",
-"url": "",
-"c": ""
-},
-{
-"k": "org:city-of-hope-national-medical-center",
-"t": "hospital",
-"n": "City of Hope National Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:city-of-hope-orange-county",
-"t": "company",
-"n": "City of Hope Orange County",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:usc-norris-comprehensive-cancer-center",
-"t": "company",
-"n": "Usc Norris Comprehensive Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:stanford-cancer-center",
-"t": "company",
-"n": "Stanford Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:prebys-cancer-center",
-"t": "company",
-"n": "Prebys Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:emory-university-winship-cancer-institute",
-"t": "academic",
-"n": "Emory University - Winship Cancer Institute",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:start-midwest",
-"t": "company",
-"n": "Start Midwest",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:washington-university-school-of-medicine",
-"t": "academic",
-"n": "Washington University School of Medicine",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:weill-cornell-medical-centers",
-"t": "hospital",
-"n": "Weill Cornell Medical Centers",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:incb000928",
-"t": "drug",
-"n": "INCB000928",
-"sub": "Incyte Corporation",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07623161",
 "t": "trial",
 "n": "A Study to Compare Elritercept to Placebo in Adults With Myelofibrosis and Anemia Who Are ",
@@ -1060,6 +1036,102 @@
 "t": "drug",
 "n": "Elritercept",
 "sub": "Takeda",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04455841",
+"t": "trial",
+"n": "INCB000928 Administered as a Monotherapy or in Combination With Ruxolitinib in Participant",
+"sub": "P1/P2 · completed · 2021-2026",
+"url": "https://clinicaltrials.gov/study/NCT04455841",
+"c": ""
+},
+{
+"k": "person:amanda-mcbride",
+"t": "person",
+"n": "Amanda McBride",
+"sub": "study director · Incyte Corporation",
+"url": "",
+"c": ""
+},
+{
+"k": "org:city-of-hope-national-medical-center",
+"t": "hospital",
+"n": "City of Hope National Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:city-of-hope-orange-county",
+"t": "company",
+"n": "City of Hope Orange County",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:usc-norris-comprehensive-cancer-center",
+"t": "company",
+"n": "Usc Norris Comprehensive Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:stanford-cancer-center",
+"t": "company",
+"n": "Stanford Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:prebys-cancer-center",
+"t": "company",
+"n": "Prebys Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:emory-university-winship-cancer-institute",
+"t": "academic",
+"n": "Emory University - Winship Cancer Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:start-midwest",
+"t": "company",
+"n": "Start Midwest",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:washington-university-school-of-medicine",
+"t": "academic",
+"n": "Washington University School of Medicine",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:weill-cornell-medical-centers",
+"t": "hospital",
+"n": "Weill Cornell Medical Centers",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:incb000928",
+"t": "drug",
+"n": "INCB000928",
+"sub": "Incyte Corporation",
 "url": "",
 "c": ""
 },
@@ -1304,14 +1376,6 @@
 "c": ""
 },
 {
-"k": "org:fred-hutch-university-of-washington-cancer-consortium",
-"t": "academic",
-"n": "Fred Hutch/University of Washington Cancer Consortium",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "person:anna-halpern",
 "t": "person",
 "n": "Anna Halpern",
@@ -1332,78 +1396,6 @@
 "t": "drug",
 "n": "Fedratinib",
 "sub": "University of Washington",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06345495",
-"t": "trial",
-"n": "High Dose Ruxolitinib and Allogeneic Stem Cell Transplantation in Myelofibrosis Patients W",
-"sub": "P2 · recruiting · 2024-2029",
-"url": "https://clinicaltrials.gov/study/NCT06345495",
-"c": ""
-},
-{
-"k": "person:uday-popat",
-"t": "person",
-"n": "Uday Popat",
-"sub": "principal investigator · M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "org:md-anderson-cancer-center",
-"t": "company",
-"n": "MD Anderson Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:levetiracetam",
-"t": "drug",
-"n": "Levetiracetam",
-"sub": "M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:eltrombopag",
-"t": "drug",
-"n": "Eltrombopag",
-"sub": "M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:busulfan",
-"t": "drug",
-"n": "Busulfan",
-"sub": "M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:romiplostim",
-"t": "drug",
-"n": "Romiplostim",
-"sub": "M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:fludarabine-phosphate",
-"t": "drug",
-"n": "Fludarabine phosphate",
-"sub": "M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:mesna",
-"t": "drug",
-"n": "Mesna",
-"sub": "M.D. Anderson Cancer Center",
 "url": "",
 "c": ""
 },
@@ -1512,58 +1504,66 @@
 "c": ""
 },
 {
-"k": "trial:nct07228624",
+"k": "trial:nct06345495",
 "t": "trial",
-"n": "Ruxolitinib Before, During and After Hematopoietic Cell Transplant in Older Patients With ",
-"sub": "P2 · recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07228624",
+"n": "High Dose Ruxolitinib and Allogeneic Stem Cell Transplantation in Myelofibrosis Patients W",
+"sub": "P2 · recruiting · 2024-2029",
+"url": "https://clinicaltrials.gov/study/NCT06345495",
 "c": ""
 },
 {
-"k": "org:fred-hutchinson-cancer-center",
-"t": "academic",
-"n": "Fred Hutchinson Cancer Center",
+"k": "person:uday-popat",
+"t": "person",
+"n": "Uday Popat",
+"sub": "principal investigator · M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "org:md-anderson-cancer-center",
+"t": "company",
+"n": "MD Anderson Cancer Center",
 "sub": "",
 "url": "",
-"c": ""
+"c": "United States"
 },
 {
-"k": "person:rachel-salit",
-"t": "person",
-"n": "Rachel Salit",
-"sub": "principal investigator · Fred Hutch/University of Washington Cancer Consortium",
+"k": "drug:levetiracetam",
+"t": "drug",
+"n": "Levetiracetam",
+"sub": "M.D. Anderson Cancer Center",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:fludarabine",
+"k": "drug:eltrombopag",
 "t": "drug",
-"n": "Fludarabine",
-"sub": "Fred Hutchinson Cancer Center",
+"n": "Eltrombopag",
+"sub": "M.D. Anderson Cancer Center",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:jak-inhibitor",
+"k": "drug:romiplostim",
 "t": "drug",
-"n": "JAK Inhibitor",
-"sub": "Fred Hutchinson Cancer Center",
+"n": "Romiplostim",
+"sub": "M.D. Anderson Cancer Center",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:melphalan",
+"k": "drug:fludarabine-phosphate",
 "t": "drug",
-"n": "Melphalan",
-"sub": "Fred Hutchinson Cancer Center",
+"n": "Fludarabine phosphate",
+"sub": "M.D. Anderson Cancer Center",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:methotrexate",
+"k": "drug:mesna",
 "t": "drug",
-"n": "Methotrexate",
-"sub": "Fred Hutchinson Cancer Center",
+"n": "Mesna",
+"sub": "M.D. Anderson Cancer Center",
 "url": "",
 "c": ""
 },
@@ -1680,11 +1680,11 @@
 "c": ""
 },
 {
-"k": "trial:nct07317700",
+"k": "trial:nct07443306",
 "t": "trial",
-"n": "A Clinical Trial of Flonoltinib Maleate for Intermediate or High-Risk Myelofibrosis",
-"sub": "P3 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07317700",
+"n": "A Clinical Trial of Flonoltinib Maleate Tablets in the Treatment of JAK Inhibitor Refracto",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07443306",
 "c": ""
 },
 {
@@ -1696,9 +1696,9 @@
 "c": "China"
 },
 {
-"k": "person:xiao-zhijian-doctor",
+"k": "person:xiao-zhijian",
 "t": "person",
-"n": "Xiao Zhijian, Doctor",
+"n": "Xiao Zhijian",
 "sub": "principal investigator · Institute of Hematology & Blood Diseases Hospital, Chinese Academ",
 "url": "",
 "c": ""
@@ -1708,6 +1708,46 @@
 "t": "hospital",
 "n": "West China Hospital",
 "sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:niu-ting",
+"t": "person",
+"n": "Niu Ting",
+"sub": "principal investigator · West China Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "org:west-china-hospital-sichuan-university",
+"t": "hospital",
+"n": "West China Hospital Sichuan University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "drug:flonoltinib-maleate",
+"t": "drug",
+"n": "Flonoltinib Maleate",
+"sub": "Chengdu Zenitar Biomedical Technology Co., Ltd",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07317700",
+"t": "trial",
+"n": "A Clinical Trial of Flonoltinib Maleate for Intermediate or High-Risk Myelofibrosis",
+"sub": "P3 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07317700",
+"c": ""
+},
+{
+"k": "person:xiao-zhijian-doctor",
+"t": "person",
+"n": "Xiao Zhijian, Doctor",
+"sub": "principal investigator · Institute of Hematology & Blood Diseases Hospital, Chinese Academ",
 "url": "",
 "c": ""
 },
@@ -1726,14 +1766,6 @@
 "sub": "principal investigator · West China Hospital",
 "url": "",
 "c": ""
-},
-{
-"k": "org:west-china-hospital-sichuan-university",
-"t": "hospital",
-"n": "West China Hospital Sichuan University",
-"sub": "",
-"url": "",
-"c": "China"
 },
 {
 "k": "drug:flonoltinib",
@@ -1844,38 +1876,6 @@
 "t": "drug",
 "n": "Ropeginterferon alfa-2b",
 "sub": "PharmaEssentia",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07443306",
-"t": "trial",
-"n": "A Clinical Trial of Flonoltinib Maleate Tablets in the Treatment of JAK Inhibitor Refracto",
-"sub": "P2 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07443306",
-"c": ""
-},
-{
-"k": "person:xiao-zhijian",
-"t": "person",
-"n": "Xiao Zhijian",
-"sub": "principal investigator · Institute of Hematology & Blood Diseases Hospital, Chinese Academ",
-"url": "",
-"c": ""
-},
-{
-"k": "person:niu-ting",
-"t": "person",
-"n": "Niu Ting",
-"sub": "principal investigator · West China Hospital",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:flonoltinib-maleate",
-"t": "drug",
-"n": "Flonoltinib Maleate",
-"sub": "Chengdu Zenitar Biomedical Technology Co., Ltd",
 "url": "",
 "c": ""
 },
@@ -2144,46 +2144,6 @@
 "c": "United States"
 },
 {
-"k": "trial:nct03862157",
-"t": "trial",
-"n": "Azacitidine, Venetoclax, and Pevonedistat in Treating Patients With Newly Diagnosed Acute ",
-"sub": "P1/P2 · active_not_recruiting · 2019-2027",
-"url": "https://clinicaltrials.gov/study/NCT03862157",
-"c": ""
-},
-{
-"k": "person:nicholas-short",
-"t": "person",
-"n": "Nicholas Short",
-"sub": "principal investigator · M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:azacitidine",
-"t": "drug",
-"n": "Azacitidine",
-"sub": "M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:pevonedistat",
-"t": "drug",
-"n": "Pevonedistat",
-"sub": "M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:venetoclax",
-"t": "drug",
-"n": "Venetoclax",
-"sub": "M.D. Anderson Cancer Center",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct04717414",
 "t": "trial",
 "n": "An Efficacy and Safety Study of Luspatercept (ACE-536) Versus Placebo in Subjects With Mye",
@@ -2244,6 +2204,46 @@
 "t": "drug",
 "n": "ACE-536",
 "sub": "Celgene",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct03862157",
+"t": "trial",
+"n": "Azacitidine, Venetoclax, and Pevonedistat in Treating Patients With Newly Diagnosed Acute ",
+"sub": "P1/P2 · active_not_recruiting · 2019-2027",
+"url": "https://clinicaltrials.gov/study/NCT03862157",
+"c": ""
+},
+{
+"k": "person:nicholas-short",
+"t": "person",
+"n": "Nicholas Short",
+"sub": "principal investigator · M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:azacitidine",
+"t": "drug",
+"n": "Azacitidine",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:pevonedistat",
+"t": "drug",
+"n": "Pevonedistat",
+"sub": "M.D. Anderson Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:venetoclax",
+"t": "drug",
+"n": "Venetoclax",
+"sub": "M.D. Anderson Cancer Center",
 "url": "",
 "c": ""
 },
