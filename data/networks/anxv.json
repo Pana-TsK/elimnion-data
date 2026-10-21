@@ -1,6 +1,6 @@
 {
 "assetId": "anxv",
-"updated": "2026-10-20",
+"updated": "2026-10-21",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 69,
@@ -16,11 +16,11 @@
 "c": ""
 },
 {
-"k": "trial:nct04850339",
+"k": "trial:nct05532735",
 "t": "trial",
-"n": "First in Human Study of ANXV (Recombinant Human Annexin A5) in Healthy Volunteers",
-"sub": "P1 · completed · 2020-2021",
-"url": "https://clinicaltrials.gov/study/NCT04850339",
+"n": "Safety and Proof of Concept Study of ANXV (Annexin A5) in Patients With Retinal Vein Occlu",
+"sub": "P2 · completed · 2022-2024",
+"url": "https://clinicaltrials.gov/study/NCT05532735",
 "c": ""
 },
 {
@@ -37,14 +37,6 @@
 "n": "Anna Frostegård",
 "sub": "study director · Annexin Pharmaceuticals",
 "url": "",
-"c": ""
-},
-{
-"k": "trial:nct05532735",
-"t": "trial",
-"n": "Safety and Proof of Concept Study of ANXV (Annexin A5) in Patients With Retinal Vein Occlu",
-"sub": "P2 · completed · 2022-2024",
-"url": "https://clinicaltrials.gov/study/NCT05532735",
 "c": ""
 },
 {
@@ -72,25 +64,17 @@
 "c": ""
 },
 {
-"k": "trial:nct07844343",
+"k": "trial:nct04850339",
 "t": "trial",
-"n": "A Trial to Evaluate the Safety and Usability of the SB15 PFS in Trial Participants With AM",
-"sub": "P2 · completed · 2026-2026",
-"url": "https://clinicaltrials.gov/study/NCT07844343",
-"c": ""
-},
-{
-"k": "org:samsung-bioepis",
-"t": "company",
-"n": "Samsung Bioepis Co., Ltd.",
-"sub": "",
-"url": "",
+"n": "First in Human Study of ANXV (Recombinant Human Annexin A5) in Healthy Volunteers",
+"sub": "P1 · completed · 2020-2021",
+"url": "https://clinicaltrials.gov/study/NCT04850339",
 "c": ""
 },
 {
 "k": "trial:nct07205887",
 "t": "trial",
-"n": "A Dose-masked Study of Intravitreal EYE103 in Participants With NVAMD or Macular Edema Fol",
+"n": "A Dose-masked Study of Intravitreal Remigromig (EYE103) in Participants With NVAMD or Macu",
 "sub": "P2 · recruiting · 2025-2028",
 "url": "https://clinicaltrials.gov/study/NCT07205887",
 "c": ""
@@ -144,9 +128,9 @@
 "c": "United States"
 },
 {
-"k": "drug:eye103",
+"k": "drug:remigromig",
 "t": "drug",
-"n": "EYE103",
+"n": "Remigromig",
 "sub": "EyeBiotech Ltd.",
 "url": "",
 "c": ""
@@ -156,6 +140,22 @@
 "t": "drug",
 "n": "Aflibercept",
 "sub": "EyeBiotech Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07844343",
+"t": "trial",
+"n": "A Trial to Evaluate the Safety and Usability of the SB15 PFS in Trial Participants With AM",
+"sub": "P2 · completed · 2026-2026",
+"url": "https://clinicaltrials.gov/study/NCT07844343",
+"c": ""
+},
+{
+"k": "org:samsung-bioepis",
+"t": "company",
+"n": "Samsung Bioepis Co., Ltd.",
+"sub": "",
 "url": "",
 "c": ""
 },
@@ -1104,6 +1104,38 @@
 "c": ""
 },
 {
+"k": "trial:nct07705607",
+"t": "trial",
+"n": "A Clinical Trial of MK-8748 Compared to Aflibercept in Participants With Diabetic Macular ",
+"sub": "P3 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07705607",
+"c": ""
+},
+{
+"k": "org:merck-sharp-dohme",
+"t": "company",
+"n": "Merck Sharp & Dohme LLC",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:mk-8748",
+"t": "drug",
+"n": "MK-8748",
+"sub": "Merck Sharp & Dohme LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07705555",
+"t": "trial",
+"n": "A Clinical Trial of MK-8748 Compared to Aflibercept in Participants With Diabetic Macular ",
+"sub": "P3 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07705555",
+"c": ""
+},
+{
 "k": "trial:nct07592273",
 "t": "trial",
 "n": "Surabgene Lomparvovec Administered in the Suprachoroidal Space in Adult Participants With ",
@@ -1224,38 +1256,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07705607",
-"t": "trial",
-"n": "A Clinical Trial of MK-8748 Compared to Aflibercept in Participants With Diabetic Macular ",
-"sub": "P3 · recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07705607",
-"c": ""
-},
-{
-"k": "org:merck-sharp-dohme",
-"t": "company",
-"n": "Merck Sharp & Dohme LLC",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:mk-8748",
-"t": "drug",
-"n": "MK-8748",
-"sub": "Merck Sharp & Dohme LLC",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07705555",
-"t": "trial",
-"n": "A Clinical Trial of MK-8748 Compared to Aflibercept in Participants With Diabetic Macular ",
-"sub": "P3 · recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07705555",
-"c": ""
-},
-{
 "k": "trial:nct03811561",
 "t": "trial",
 "n": "A Research Study to Look at How Semaglutide Compared to Placebo Affects Diabetic Eye Disea",
@@ -1360,35 +1360,11 @@
 "c": ""
 },
 {
-"k": "trial:nct07842016",
-"t": "trial",
-"n": "Phase 3 Study of Intravitreal OLN324 in Adults With Diabetic Macular Edema (DME) (OLN324-C",
-"sub": "P3 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07842016",
-"c": ""
-},
-{
-"k": "org:ollin-biosciences",
-"t": "company",
-"n": "Ollin Biosciences, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:oln324",
+"k": "drug:eye103",
 "t": "drug",
-"n": "OLN324",
-"sub": "Ollin Biosciences, Inc.",
+"n": "EYE103",
+"sub": "EyeBiotech Ltd.",
 "url": "",
-"c": ""
-},
-{
-"k": "trial:nct07841899",
-"t": "trial",
-"n": "Phase 3 Study of Intravitreal OLN324 in Adults With Diabetic Macular Edema (DME) (OLN324-C",
-"sub": "P3 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07841899",
 "c": ""
 },
 {
@@ -1413,6 +1389,38 @@
 "n": "Niaz Abdur Rahman",
 "sub": "principal investigator · Managing Director, Bangladesh Eye Hospital & Institute",
 "url": "",
+"c": ""
+},
+{
+"k": "trial:nct07841899",
+"t": "trial",
+"n": "Phase 3 Study of Intravitreal OLN324 in Adults With Diabetic Macular Edema (DME) (OLN324-C",
+"sub": "P3 · not_yet_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07841899",
+"c": ""
+},
+{
+"k": "org:ollin-biosciences",
+"t": "company",
+"n": "Ollin Biosciences, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:oln324",
+"t": "drug",
+"n": "OLN324",
+"sub": "Ollin Biosciences, Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07842016",
+"t": "trial",
+"n": "Phase 3 Study of Intravitreal OLN324 in Adults With Diabetic Macular Edema (DME) (OLN324-C",
+"sub": "P3 · not_yet_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07842016",
 "c": ""
 },
 {
@@ -3592,42 +3600,10 @@
 "c": "US"
 },
 {
-"k": "paper:pmid-35301458",
-"t": "paper",
-"n": "Retinal vein occlusion (RVO) guideline: executive summary",
-"sub": "Eye 2022 · cited 111",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35301458",
-"c": ""
-},
-{
-"k": "person:luke-nicholson",
-"t": "person",
-"n": "Luke Nicholson",
-"sub": "Moorfields Eye Hospital",
-"url": "https://orcid.org/0000-0001-6685-4402",
-"c": "GB"
-},
-{
-"k": "org:moorfields-eye-hospital",
-"t": "hospital",
-"n": "Moorfields Eye Hospital",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "person:sobha-sivaprasad",
-"t": "person",
-"n": "Sobha Sivaprasad",
-"sub": "Moorfields Eye Hospital",
-"url": "https://orcid.org/0000-0001-8952-0659",
-"c": "GB"
-},
-{
 "k": "paper:pmid-33121094",
 "t": "paper",
 "n": "Cytokines and Pathogenesis of Central Retinal Vein Occlusion",
-"sub": "Journal of Clinical Medicine 2020 · cited 110",
+"sub": "Journal of Clinical Medicine 2020 · cited 111",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33121094",
 "c": ""
 },
@@ -3662,6 +3638,38 @@
 "sub": "Tokyo Medical University",
 "url": "https://orcid.org/0000-0001-5456-6374",
 "c": "JP"
+},
+{
+"k": "paper:pmid-35301458",
+"t": "paper",
+"n": "Retinal vein occlusion (RVO) guideline: executive summary",
+"sub": "Eye 2022 · cited 111",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35301458",
+"c": ""
+},
+{
+"k": "person:luke-nicholson",
+"t": "person",
+"n": "Luke Nicholson",
+"sub": "Moorfields Eye Hospital",
+"url": "https://orcid.org/0000-0001-6685-4402",
+"c": "GB"
+},
+{
+"k": "org:moorfields-eye-hospital",
+"t": "hospital",
+"n": "Moorfields Eye Hospital",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:sobha-sivaprasad",
+"t": "person",
+"n": "Sobha Sivaprasad",
+"sub": "Moorfields Eye Hospital",
+"url": "https://orcid.org/0000-0001-8952-0659",
+"c": "GB"
 },
 {
 "k": "paper:pmid-34181446",
@@ -4155,7 +4163,7 @@
 "k": "paper:pmid-33275949",
 "t": "paper",
 "n": "Causes of blindness and vision impairment in 2020 and trends over 30 years, and prevalence",
-"sub": "The Lancet Global Health 2020 · cited 3156",
+"sub": "The Lancet Global Health 2020 · cited 3158",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33275949",
 "c": ""
 },
@@ -4171,7 +4179,7 @@
 "k": "paper:pmid-33940045",
 "t": "paper",
 "n": "Global Prevalence of Diabetic Retinopathy and Projection of Burden through 2045",
-"sub": "Ophthalmology 2021 · cited 2381",
+"sub": "Ophthalmology 2021 · cited 2385",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33940045",
 "c": ""
 },
@@ -4203,7 +4211,7 @@
 "k": "paper:pmid-35021057",
 "t": "paper",
 "n": "Inflammation in obesity, diabetes, and related disorders",
-"sub": "Immunity 2022 · cited 2043",
+"sub": "Immunity 2022 · cited 2045",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35021057",
 "c": ""
 },
@@ -4235,7 +4243,7 @@
 "k": "paper:pmid-32398868",
 "t": "paper",
 "n": "Genetics of diabetes mellitus and diabetes complications",
-"sub": "Nature Reviews Nephrology 2020 · cited 1789",
+"sub": "Nature Reviews Nephrology 2020 · cited 1790",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32398868",
 "c": ""
 },
@@ -4331,7 +4339,7 @@
 "k": "paper:pmid-37709773",
 "t": "paper",
 "n": "Endoplasmic reticulum stress: molecular mechanism and therapeutic targets",
-"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1009",
+"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1011",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37709773",
 "c": ""
 },
@@ -4379,7 +4387,7 @@
 "k": "paper:pmid-33828217",
 "t": "paper",
 "n": "Diagnostic accuracy of deep learning in medical imaging: a systematic review and meta-anal",
-"sub": "npj Digital Medicine 2021 · cited 939",
+"sub": "npj Digital Medicine 2021 · cited 940",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33828217",
 "c": ""
 },
@@ -4464,14 +4472,6 @@
 "c": "ES"
 },
 {
-"k": "org:universitat-autonoma-de-barcelona",
-"t": "academic",
-"n": "Universitat Autònoma de Barcelona",
-"sub": "",
-"url": "",
-"c": "ES"
-},
-{
 "k": "org:instituto-de-salud-carlos-iii",
 "t": "foundation",
 "n": "Instituto de Salud Carlos III",
@@ -4483,7 +4483,7 @@
 "k": "paper:pmid-33469209",
 "t": "paper",
 "n": "Current understanding of the molecular and cellular pathology of diabetic retinopathy",
-"sub": "Nature Reviews Endocrinology 2021 · cited 645",
+"sub": "Nature Reviews Endocrinology 2021 · cited 646",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33469209",
 "c": ""
 },
@@ -4547,7 +4547,7 @@
 "k": "paper:pmid-32898686",
 "t": "paper",
 "n": "Digital technology, tele-medicine and artificial intelligence in ophthalmology: A global p",
-"sub": "Progress in Retinal and Eye Research 2020 · cited 622",
+"sub": "Progress in Retinal and Eye Research 2020 · cited 623",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32898686",
 "c": ""
 },
@@ -4747,7 +4747,7 @@
 "k": "paper:doi-10-1145-3313831-3376718",
 "t": "paper",
 "n": "A Human-Centered Evaluation of a Deep Learning System Deployed in Clinics for the Detectio",
-"sub": "CHI Conference on Human Factors in Computing Systems 2020 · cited 610",
+"sub": "CHI Conference on Human Factors in Computing Systems 2020 · cited 611",
 "url": "https://doi.org/10.1145/3313831.3376718",
 "c": ""
 },
@@ -4819,7 +4819,7 @@
 "k": "paper:pmid-37623239",
 "t": "paper",
 "n": "Oxidative Stress in Type 2 Diabetes: Impacts from Pathogenesis to Lifestyle Modifications",
-"sub": "Current Issues in Molecular Biology 2023 · cited 567",
+"sub": "Current Issues in Molecular Biology 2023 · cited 569",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37623239",
 "c": ""
 },
@@ -4851,7 +4851,7 @@
 "k": "paper:doi-10-1016-j-imu-2020-100377",
 "t": "paper",
 "n": "Diabetic retinopathy detection through deep learning techniques: A review",
-"sub": "Informatics in Medicine Unlocked 2020 · cited 531",
+"sub": "Informatics in Medicine Unlocked 2020 · cited 532",
 "url": "https://doi.org/10.1016/j.imu.2020.100377",
 "c": ""
 },
@@ -4923,7 +4923,7 @@
 "k": "paper:pmid-35963508",
 "t": "paper",
 "n": "American Association of Clinical Endocrinology Clinical Practice Guideline: Developing a D",
-"sub": "Endocrine Practice 2022 · cited 501",
+"sub": "Endocrine Practice 2022 · cited 503",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35963508",
 "c": ""
 },
@@ -5187,7 +5187,7 @@
 "k": "paper:pmid-33240272",
 "t": "paper",
 "n": "The Role of Inflammation in Diabetic Retinopathy",
-"sub": "Frontiers in Immunology 2020 · cited 438",
+"sub": "Frontiers in Immunology 2020 · cited 439",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33240272",
 "c": ""
 },
@@ -5945,11 +5945,6 @@
 "r": "tested_in"
 },
 {
-"a": "drug:eye103",
-"b": "trial:nct07205887",
-"r": "tested_in"
-},
-{
 "a": "drug:eye201",
 "b": "asset:anxv",
 "r": "competes"
@@ -6352,6 +6347,16 @@
 {
 "a": "drug:reference-drug",
 "b": "trial:nct07708142",
+"r": "tested_in"
+},
+{
+"a": "drug:remigromig",
+"b": "asset:anxv",
+"r": "competes"
+},
+{
+"a": "drug:remigromig",
+"b": "trial:nct07205887",
 "r": "tested_in"
 },
 {
@@ -6957,6 +6962,11 @@
 {
 "a": "org:eyebiotech",
 "b": "drug:eye201",
+"r": "develops"
+},
+{
+"a": "org:eyebiotech",
+"b": "drug:remigromig",
 "r": "develops"
 },
 {
@@ -10272,11 +10282,6 @@
 {
 "a": "person:rafael-simo",
 "b": "org:instituto-de-salud-carlos-iii",
-"r": "affiliated"
-},
-{
-"a": "person:rafael-simo",
-"b": "org:universitat-autonoma-de-barcelona",
 "r": "affiliated"
 },
 {

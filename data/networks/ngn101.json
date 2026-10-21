@@ -1,9 +1,9 @@
 {
 "assetId": "ngn101",
-"updated": "2026-10-20",
+"updated": "2026-10-21",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
-"trials": 6,
+"trials": 7,
 "papers": 73
 },
 "nodes": [
@@ -54,6 +54,166 @@
 "sub": "",
 "url": "",
 "c": "United Kingdom"
+},
+{
+"k": "trial:nct07882290",
+"t": "trial",
+"n": "Study With Batten-1 (Miglustat Liquid Formulation) to Treat Ceroid Lipofuscinosis Neuronal",
+"sub": "P3 · not_yet_recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07882290",
+"c": ""
+},
+{
+"k": "org:beyond-batten-disease-foundation",
+"t": "foundation",
+"n": "Beyond Batten Disease Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:theranexus",
+"t": "company",
+"n": "Theranexus",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:texas-children-hospital-houston-texas-united-states-77030",
+"t": "hospital",
+"n": "Texas Children Hospital Houston, Texas, United States, 77030",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:gary-d-clark",
+"t": "person",
+"n": "Gary D Clark",
+"sub": "principal investigator · Texas Children Hospital Houston, Texas, United States, 77030",
+"url": "",
+"c": ""
+},
+{
+"k": "org:great-ormond-street-hospital-london-united-kingdom-wc1n-3jh",
+"t": "hospital",
+"n": "Great Ormond Street Hospital, London United Kingdom, WC1N 3JH",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:paul-gissen",
+"t": "person",
+"n": "Paul Gissen",
+"sub": "principal investigator · Great Ormond Street Hospital, London United Kingdom, WC1N 3JH",
+"url": "",
+"c": ""
+},
+{
+"k": "org:uke-universitatsklinikum-hamburg-eppendorf-hamburg-germany-2",
+"t": "hospital",
+"n": "UKE - Universitätsklinikum Hamburg-Eppendorf Hamburg, Germany, 20246",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:angela-schulz",
+"t": "person",
+"n": "Angela Schulz",
+"sub": "principal investigator · UKE - Universitätsklinikum Hamburg-Eppendorf Hamburg, Germany, 20",
+"url": "https://orcid.org/0000-0001-9156-4861",
+"c": "DE"
+},
+{
+"k": "org:children-s-hospital-colorado-anschutz-medical-campus",
+"t": "hospital",
+"n": "Children's Hospital Colorado Anschutz Medical Campus",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:kennedy-krieger-institute-clinical-trials-unit",
+"t": "hospital",
+"n": "Kennedy Krieger Institute, Clinical Trials Unit",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:texas-children-hospital",
+"t": "hospital",
+"n": "Texas Children Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:department-of-paediatric-and-adolescent-medicine-aarhus-univ",
+"t": "hospital",
+"n": "Department of Paediatric and Adolescent Medicine Aarhus University Hospital",
+"sub": "",
+"url": "",
+"c": "Denmark"
+},
+{
+"k": "org:service-de-neurologie-hopital-pediatrique-armand-trousseau",
+"t": "hospital",
+"n": "Service de Neurologie Hôpital Pediatrique Armand Trousseau",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:uke-universitatsklinikum-hamburg-eppendorf",
+"t": "hospital",
+"n": "UKE - Universitätsklinikum Hamburg-Eppendorf",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
+"k": "org:meyer-children-s-hospital",
+"t": "hospital",
+"n": "Meyer Children's Hospital",
+"sub": "",
+"url": "",
+"c": "Italy"
+},
+{
+"k": "org:umcu-wkz-polikliniek-metabole-ziekten",
+"t": "company",
+"n": "UMCU-WKZ, Polikliniek Metabole Ziekten",
+"sub": "",
+"url": "",
+"c": "Netherlands"
+},
+{
+"k": "org:sahlgrenska-university-hospital-queen-silvia-children-s-hosp",
+"t": "hospital",
+"n": "Sahlgrenska University Hospital, Queen Silvia Children's Hospital",
+"sub": "",
+"url": "",
+"c": "Sweden"
+},
+{
+"k": "org:great-ormond-street-london",
+"t": "company",
+"n": "Great Ormond Street, London",
+"sub": "",
+"url": "",
+"c": "United Kingdom"
+},
+{
+"k": "drug:miglustat-oral-liquid-formulation",
+"t": "drug",
+"n": "Miglustat oral liquid formulation",
+"sub": "Beyond Batten Disease Foundation",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct05791864",
@@ -208,38 +368,6 @@
 "c": ""
 },
 {
-"k": "org:beyond-batten-disease-foundation",
-"t": "foundation",
-"n": "Beyond Batten Disease Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:theranexus",
-"t": "company",
-"n": "Theranexus",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:texas-children-hospital",
-"t": "hospital",
-"n": "Texas Children Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "person:gary-d-clark",
-"t": "person",
-"n": "Gary D. Clark",
-"sub": "principal investigator · Texas Children Hospital",
-"url": "",
-"c": ""
-},
-{
 "k": "org:national-institute-of-health-clinical-center",
 "t": "hospital",
 "n": "National Institute of Health Clinical Center",
@@ -347,7 +475,7 @@
 "k": "paper:pmid-37708259",
 "t": "paper",
 "n": "The Batten disease gene product CLN5 is the lysosomal bis(monoacylglycero)phosphate syntha",
-"sub": "Science 2023 · cited 84",
+"sub": "Science 2023 · cited 85",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37708259",
 "c": ""
 },
@@ -1451,7 +1579,7 @@
 "k": "paper:pmid-36131016",
 "t": "paper",
 "n": "CLN3 is required for the clearance of glycerophosphodiesters from lysosomes",
-"sub": "Nature 2022 · cited 140",
+"sub": "Nature 2022 · cited 141",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36131016",
 "c": ""
 },
@@ -1979,7 +2107,7 @@
 "k": "paper:pmid-32184778",
 "t": "paper",
 "n": "TRPML Cation Channels in Inflammation and Immunity",
-"sub": "Frontiers in Immunology 2020 · cited 62",
+"sub": "Frontiers in Immunology 2020 · cited 63",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32184778",
 "c": ""
 },
@@ -2246,14 +2374,6 @@
 "sub": "The Lancet Neurology 2023 · cited 53",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38101904",
 "c": ""
-},
-{
-"k": "person:angela-schulz",
-"t": "person",
-"n": "Angela Schulz",
-"sub": "University Medical Center Hamburg-Eppendorf",
-"url": "https://orcid.org/0000-0001-9156-4861",
-"c": "DE"
 },
 {
 "k": "person:jessica-l-cohen-pfeffer",
@@ -2587,7 +2707,7 @@
 "k": "paper:pmid-34382076",
 "t": "paper",
 "n": "De novo DHDDS variants cause a neurodevelopmental and neurodegenerative disorder with myoc",
-"sub": "Brain 2021 · cited 40",
+"sub": "Brain 2021 · cited 41",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34382076",
 "c": ""
 },
@@ -3059,6 +3179,16 @@
 "r": "tested_in"
 },
 {
+"a": "drug:miglustat-oral-liquid-formulation",
+"b": "asset:ngn101",
+"r": "competes"
+},
+{
+"a": "drug:miglustat-oral-liquid-formulation",
+"b": "trial:nct07882290",
+"r": "tested_in"
+},
+{
 "a": "drug:plx-200",
 "b": "asset:ngn101",
 "r": "competes"
@@ -3210,12 +3340,22 @@
 },
 {
 "a": "org:beyond-batten-disease-foundation",
+"b": "drug:miglustat-oral-liquid-formulation",
+"r": "develops"
+},
+{
+"a": "org:beyond-batten-disease-foundation",
 "b": "paper:pmid-32597833",
 "r": "funded"
 },
 {
 "a": "org:beyond-batten-disease-foundation",
 "b": "trial:nct05174039",
+"r": "sponsors"
+},
+{
+"a": "org:beyond-batten-disease-foundation",
+"b": "trial:nct07882290",
 "r": "sponsors"
 },
 {
@@ -3344,6 +3484,11 @@
 "r": "funded"
 },
 {
+"a": "org:children-s-hospital-colorado-anschutz-medical-campus",
+"b": "trial:nct07882290",
+"r": "site_of"
+},
+{
 "a": "org:compute-canada",
 "b": "paper:pmid-36437924",
 "r": "funded"
@@ -3372,6 +3517,11 @@
 "a": "org:dementias-platform-uk",
 "b": "paper:pmid-37974165",
 "r": "funded"
+},
+{
+"a": "org:department-of-paediatric-and-adolescent-medicine-aarhus-univ",
+"b": "trial:nct07882290",
+"r": "site_of"
 },
 {
 "a": "org:deutsche-forschungsgemeinschaft",
@@ -3499,6 +3649,11 @@
 "r": "site_of"
 },
 {
+"a": "org:great-ormond-street-london",
+"b": "trial:nct07882290",
+"r": "site_of"
+},
+{
 "a": "org:greater-ormond-street-hospital",
 "b": "trial:nct05791864",
 "r": "site_of"
@@ -3529,6 +3684,11 @@
 "r": "funded"
 },
 {
+"a": "org:kennedy-krieger-institute-clinical-trials-unit",
+"b": "trial:nct07882290",
+"r": "site_of"
+},
+{
 "a": "org:maurice-and-phyllis-paykel-trust",
 "b": "paper:pmid-37614821",
 "r": "funded"
@@ -3537,6 +3697,11 @@
 "a": "org:medical-research-council",
 "b": "paper:pmid-42744861",
 "r": "funded"
+},
+{
+"a": "org:meyer-children-s-hospital",
+"b": "trial:nct07882290",
+"r": "site_of"
 },
 {
 "a": "org:ministerio-de-ciencia-innovacion-y-universidades",
@@ -3729,6 +3894,16 @@
 "r": "funded"
 },
 {
+"a": "org:sahlgrenska-university-hospital-queen-silvia-children-s-hosp",
+"b": "trial:nct07882290",
+"r": "site_of"
+},
+{
+"a": "org:service-de-neurologie-hopital-pediatrique-armand-trousseau",
+"b": "trial:nct07882290",
+"r": "site_of"
+},
+{
 "a": "org:shenzhen-university",
 "b": "paper:pmid-39470529",
 "r": "funded"
@@ -3759,6 +3934,11 @@
 "r": "site_of"
 },
 {
+"a": "org:texas-children-hospital",
+"b": "trial:nct07882290",
+"r": "site_of"
+},
+{
 "a": "org:texas-children-s-hospital",
 "b": "paper:pmid-32597833",
 "r": "funded"
@@ -3779,6 +3959,11 @@
 "r": "collaborates"
 },
 {
+"a": "org:theranexus",
+"b": "trial:nct07882290",
+"r": "collaborates"
+},
+{
 "a": "org:trent-university",
 "b": "paper:pmid-36437924",
 "r": "funded"
@@ -3792,6 +3977,16 @@
 "a": "org:u-s-department-of-health-and-human-services",
 "b": "paper:pmid-33028409",
 "r": "funded"
+},
+{
+"a": "org:uke-universitatsklinikum-hamburg-eppendorf",
+"b": "trial:nct07882290",
+"r": "site_of"
+},
+{
+"a": "org:umcu-wkz-polikliniek-metabole-ziekten",
+"b": "trial:nct07882290",
+"r": "site_of"
 },
 {
 "a": "org:universita-di-pisa",
@@ -4020,6 +4215,11 @@
 },
 {
 "a": "person:angela-schulz",
+"b": "org:uke-universitatsklinikum-hamburg-eppendorf-hamburg-germany-2",
+"r": "affiliated"
+},
+{
+"a": "person:angela-schulz",
 "b": "org:university-medical-center-hamburg-eppendorf",
 "r": "affiliated"
 },
@@ -4027,6 +4227,11 @@
 "a": "person:angela-schulz",
 "b": "paper:pmid-38101904",
 "r": "authored"
+},
+{
+"a": "person:angela-schulz",
+"b": "trial:nct07882290",
+"r": "investigator"
 },
 {
 "a": "person:arnon-rosenthal",
@@ -4315,7 +4520,17 @@
 },
 {
 "a": "person:gary-d-clark",
+"b": "org:texas-children-hospital-houston-texas-united-states-77030",
+"r": "affiliated"
+},
+{
+"a": "person:gary-d-clark",
 "b": "trial:nct05174039",
+"r": "investigator"
+},
+{
+"a": "person:gary-d-clark",
+"b": "trial:nct07882290",
 "r": "investigator"
 },
 {
@@ -4947,6 +5162,16 @@
 "a": "person:paschalis-nicolaou",
 "b": "paper:pmid-38988832",
 "r": "authored"
+},
+{
+"a": "person:paul-gissen",
+"b": "org:great-ormond-street-hospital-london-united-kingdom-wc1n-3jh",
+"r": "affiliated"
+},
+{
+"a": "person:paul-gissen",
+"b": "trial:nct07882290",
+"r": "investigator"
 },
 {
 "a": "person:pradeep-kumar-sheokand",
