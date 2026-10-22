@@ -1,6 +1,6 @@
 {
 "assetId": "her096",
-"updated": "2026-10-21",
+"updated": "2026-10-22",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 42,
@@ -16,11 +16,11 @@
 "c": ""
 },
 {
-"k": "trial:nct06659562",
+"k": "trial:nct05915247",
 "t": "trial",
-"n": "Clinical Study of HER-096 in Healthy Volunteer Subjects and Patients With Parkinson's Dise",
-"sub": "P1 · completed · 2024-2025",
-"url": "https://clinicaltrials.gov/study/NCT06659562",
+"n": "Single Ascending Doses of HER-096 in Healthy Subjects",
+"sub": "P1 · completed · 2023-2023",
+"url": "https://clinicaltrials.gov/study/NCT05915247",
 "c": ""
 },
 {
@@ -34,10 +34,26 @@
 {
 "k": "org:clinical-research-services-turku-crst",
 "t": "hospital",
-"n": "Clinical Research Services Turku - CRST Ltd",
+"n": "Clinical Research Services Turku - CRST Oy",
 "sub": "",
 "url": "",
 "c": "Finland"
+},
+{
+"k": "person:aleksi-tornio",
+"t": "person",
+"n": "Aleksi Tornio",
+"sub": "principal investigator · Clinical Research Services Turku - CRST Oy",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06659562",
+"t": "trial",
+"n": "Clinical Study of HER-096 in Healthy Volunteer Subjects and Patients With Parkinson's Dise",
+"sub": "P1 · completed · 2024-2025",
+"url": "https://clinicaltrials.gov/study/NCT06659562",
+"c": ""
 },
 {
 "k": "org:bc-platforms",
@@ -64,20 +80,44 @@
 "c": ""
 },
 {
-"k": "trial:nct05915247",
+"k": "trial:nct06753331",
 "t": "trial",
-"n": "Single Ascending Doses of HER-096 in Healthy Subjects",
-"sub": "P1 · completed · 2023-2023",
-"url": "https://clinicaltrials.gov/study/NCT05915247",
+"n": "A Multicenter Study to Evaluate Safety, Tolerability, and Clinical Responses of DSP-1083 I",
+"sub": "P1/P2 · recruiting · 2024-2030",
+"url": "https://clinicaltrials.gov/study/NCT06753331",
 "c": ""
 },
 {
-"k": "person:aleksi-tornio",
-"t": "person",
-"n": "Aleksi Tornio",
-"sub": "principal investigator · Clinical Research Services Turku - CRST Oy",
+"k": "org:sumitomo-pharma-america",
+"t": "company",
+"n": "Sumitomo Pharma America, Inc.",
+"sub": "",
 "url": "",
 "c": ""
+},
+{
+"k": "org:ucsd-medical-center",
+"t": "hospital",
+"n": "UCSD Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-kentucky-medical-center",
+"t": "hospital",
+"n": "University of Kentucky Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:new-york-presbyterian-hospital-columbia-university-medical-c",
+"t": "hospital",
+"n": "New York Presbyterian Hospital-Columbia University Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
 },
 {
 "k": "trial:nct07781644",
@@ -472,6 +512,46 @@
 "c": ""
 },
 {
+"k": "trial:nct05036473",
+"t": "trial",
+"n": "A Study of the Efficacy and Safety of Carbidopa-Levodopa Extended-Release Tablets in Patie",
+"sub": "P2 · completed · 2021-2022",
+"url": "https://clinicaltrials.gov/study/NCT05036473",
+"c": ""
+},
+{
+"k": "org:shanghai-wd-pharmaceutical",
+"t": "company",
+"n": "Shanghai WD Pharmaceutical Co., Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:xiaoxiong-jim-wei",
+"t": "person",
+"n": "Xiaoxiong(Jim) Wei",
+"sub": "study director · Shanghai WD Pharmaceutical Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "org:shanghai-huashan-hospital",
+"t": "hospital",
+"n": "Shanghai Huashan Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "drug:wd-1603-carbidopa-levodopa-extended-release",
+"t": "drug",
+"n": "WD-1603 Carbidopa-Levodopa Extended-Release",
+"sub": "Shanghai WD Pharmaceutical Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07288450",
 "t": "trial",
 "n": "Terazosin And Metabolic Engagement in Parkinson's Disease",
@@ -540,46 +620,6 @@
 "t": "drug",
 "n": "AGB101",
 "sub": "Johns Hopkins University",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05036473",
-"t": "trial",
-"n": "A Study of the Efficacy and Safety of Carbidopa-Levodopa Extended-Release Tablets in Patie",
-"sub": "P2 · completed · 2021-2022",
-"url": "https://clinicaltrials.gov/study/NCT05036473",
-"c": ""
-},
-{
-"k": "org:shanghai-wd-pharmaceutical",
-"t": "company",
-"n": "Shanghai WD Pharmaceutical Co., Ltd.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:xiaoxiong-jim-wei",
-"t": "person",
-"n": "Xiaoxiong(Jim) Wei",
-"sub": "study director · Shanghai WD Pharmaceutical Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "org:shanghai-huashan-hospital",
-"t": "hospital",
-"n": "Shanghai Huashan Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "drug:wd-1603-carbidopa-levodopa-extended-release",
-"t": "drug",
-"n": "WD-1603 Carbidopa-Levodopa Extended-Release",
-"sub": "Shanghai WD Pharmaceutical Co., Ltd.",
 "url": "",
 "c": ""
 },
@@ -832,110 +872,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06285643",
-"t": "trial",
-"n": "A Study of AAV2-GDNF in Adults With Moderate Parkinson's Disease (REGENERATE-PD)",
-"sub": "P2 · active_not_recruiting · 2024-2028",
-"url": "https://clinicaltrials.gov/study/NCT06285643",
-"c": ""
-},
-{
-"k": "org:askbio",
-"t": "company",
-"n": "AskBio Inc",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:bayer",
-"t": "company",
-"n": "Bayer",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:mayo-clinic",
-"t": "hospital",
-"n": "Mayo Clinic",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:uci-alpha-clinic-neurology",
-"t": "hospital",
-"n": "UCI Alpha Clinic (Neurology)",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:loma-linda-university-neurology",
-"t": "academic",
-"n": "Loma Linda University (Neurology)",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:loma-linda-university-surgical",
-"t": "academic",
-"n": "Loma Linda University (Surgical)",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-california-san-francisco-neurology",
-"t": "academic",
-"n": "University of California San Francisco (Neurology)",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-san-francisco-surgical",
-"t": "academic",
-"n": "University of San Francisco (Surgical)",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:cenexel-rocky-mountain-clinical-research-neurology",
-"t": "hospital",
-"n": "CenExel Rocky Mountain Clinical Research (Neurology)",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:georgetown-university-neurology",
-"t": "academic",
-"n": "Georgetown University (Neurology)",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-florida",
-"t": "academic",
-"n": "University of Florida",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:aav2-gdnf-gene-therapy",
-"t": "drug",
-"n": "AAV2-GDNF gene therapy",
-"sub": "AskBio Inc",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07709741",
 "t": "trial",
 "n": "Sustained Release Oral Formulation For Treatment Of Parkinsons Disease",
@@ -1112,6 +1048,110 @@
 "c": ""
 },
 {
+"k": "trial:nct06285643",
+"t": "trial",
+"n": "A Study of AAV2-GDNF in Adults With Moderate Parkinson's Disease (REGENERATE-PD)",
+"sub": "P2 · active_not_recruiting · 2024-2028",
+"url": "https://clinicaltrials.gov/study/NCT06285643",
+"c": ""
+},
+{
+"k": "org:askbio",
+"t": "company",
+"n": "AskBio Inc",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:bayer",
+"t": "company",
+"n": "Bayer",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:mayo-clinic",
+"t": "hospital",
+"n": "Mayo Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:uci-alpha-clinic-neurology",
+"t": "hospital",
+"n": "UCI Alpha Clinic (Neurology)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:loma-linda-university-neurology",
+"t": "academic",
+"n": "Loma Linda University (Neurology)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:loma-linda-university-surgical",
+"t": "academic",
+"n": "Loma Linda University (Surgical)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-california-san-francisco-neurology",
+"t": "academic",
+"n": "University of California San Francisco (Neurology)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-san-francisco-surgical",
+"t": "academic",
+"n": "University of San Francisco (Surgical)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cenexel-rocky-mountain-clinical-research-neurology",
+"t": "hospital",
+"n": "CenExel Rocky Mountain Clinical Research (Neurology)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:georgetown-university-neurology",
+"t": "academic",
+"n": "Georgetown University (Neurology)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-florida",
+"t": "academic",
+"n": "University of Florida",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:aav2-gdnf-gene-therapy",
+"t": "drug",
+"n": "AAV2-GDNF gene therapy",
+"sub": "AskBio Inc",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07080775",
 "t": "trial",
 "n": "The Safety,Tolerability, Efficacy of XS411 Cell Injection for the Treatment of Primary Par",
@@ -1140,30 +1180,6 @@
 "t": "drug",
 "n": "human allogeneic induced pluripotent stem cell -derived dopaminergic neural progenitor cel",
 "sub": "XellSmart Therapeutics (Shanghai) Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06976268",
-"t": "trial",
-"n": "A Study to Determine if BHV-8000 is Effective, Safe and Tolerable as a Treatment for Adult",
-"sub": "P2/P3 · recruiting · 2025-2028",
-"url": "https://clinicaltrials.gov/study/NCT06976268",
-"c": ""
-},
-{
-"k": "org:biohaven-therapeutics",
-"t": "company",
-"n": "Biohaven Therapeutics Ltd.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:bhv-8000",
-"t": "drug",
-"n": "BHV-8000",
-"sub": "Biohaven Therapeutics Ltd.",
 "url": "",
 "c": ""
 },
@@ -1208,6 +1224,30 @@
 "c": ""
 },
 {
+"k": "trial:nct06976268",
+"t": "trial",
+"n": "A Study to Determine if BHV-8000 is Effective, Safe and Tolerable as a Treatment for Adult",
+"sub": "P2/P3 · recruiting · 2025-2028",
+"url": "https://clinicaltrials.gov/study/NCT06976268",
+"c": ""
+},
+{
+"k": "org:biohaven-therapeutics",
+"t": "company",
+"n": "Biohaven Therapeutics Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:bhv-8000",
+"t": "drug",
+"n": "BHV-8000",
+"sub": "Biohaven Therapeutics Ltd.",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07830654",
 "t": "trial",
 "n": "This Protocol is a Sub-study Under the PPMI Program. It is a Longitudinal, Single-center S",
@@ -1236,102 +1276,6 @@
 "t": "drug",
 "n": "[18F]AV-133",
 "sub": "Michael J. Fox Foundation for Parkinson's Research",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07005180",
-"t": "trial",
-"n": "Low-dose Carbon Monoxide (HBI-002) Trial to Evaluate Safety, Tolerability, PK, and Biomark",
-"sub": "P2 · recruiting · 2026-2027",
-"url": "https://clinicaltrials.gov/study/NCT07005180",
-"c": ""
-},
-{
-"k": "org:hillhurst-biopharmaceuticals",
-"t": "company",
-"n": "Hillhurst Biopharmaceuticals, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:the-parkinson-study-group",
-"t": "academic",
-"n": "The Parkinson Study Group",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:massachusetts-general-hospital-pi-michael-schwarzschild-md-p",
-"t": "hospital",
-"n": "Massachusetts General Hospital (PI: Michael Schwarzschild MD,PhD, Co-PI: Stephen Gomperts ",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:the-parkinson-s-movement-disorder-institute",
-"t": "academic",
-"n": "The Parkinson's & Movement Disorder Institute",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:massachusetts-general-hospital",
-"t": "hospital",
-"n": "Massachusetts General Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-michigan",
-"t": "academic",
-"n": "University of Michigan",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:michigan-state-university",
-"t": "academic",
-"n": "Michigan State University",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:quest-research-institute",
-"t": "academic",
-"n": "Quest Research Institute",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:weill-cornell-medical-college",
-"t": "academic",
-"n": "Weill Cornell Medical College",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:inland-northwest-research",
-"t": "company",
-"n": "Inland Northwest Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:hbi-002",
-"t": "drug",
-"n": "HBI-002",
-"sub": "Hillhurst Biopharmaceuticals, Inc.",
 "url": "",
 "c": ""
 },
@@ -1444,6 +1388,102 @@
 "t": "drug",
 "n": "buntanetap/posiphen",
 "sub": "Annovis Bio Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07005180",
+"t": "trial",
+"n": "Low-dose Carbon Monoxide (HBI-002) Trial to Evaluate Safety, Tolerability, PK, and Biomark",
+"sub": "P2 · recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07005180",
+"c": ""
+},
+{
+"k": "org:hillhurst-biopharmaceuticals",
+"t": "company",
+"n": "Hillhurst Biopharmaceuticals, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:the-parkinson-study-group",
+"t": "academic",
+"n": "The Parkinson Study Group",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:massachusetts-general-hospital-pi-michael-schwarzschild-md-p",
+"t": "hospital",
+"n": "Massachusetts General Hospital (PI: Michael Schwarzschild MD,PhD, Co-PI: Stephen Gomperts ",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:the-parkinson-s-movement-disorder-institute",
+"t": "academic",
+"n": "The Parkinson's & Movement Disorder Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:massachusetts-general-hospital",
+"t": "hospital",
+"n": "Massachusetts General Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-michigan",
+"t": "academic",
+"n": "University of Michigan",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:michigan-state-university",
+"t": "academic",
+"n": "Michigan State University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:quest-research-institute",
+"t": "academic",
+"n": "Quest Research Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:weill-cornell-medical-college",
+"t": "academic",
+"n": "Weill Cornell Medical College",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:inland-northwest-research",
+"t": "company",
+"n": "Inland Northwest Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:hbi-002",
+"t": "drug",
+"n": "HBI-002",
+"sub": "Hillhurst Biopharmaceuticals, Inc.",
 "url": "",
 "c": ""
 },
@@ -1640,6 +1680,30 @@
 "c": ""
 },
 {
+"k": "trial:nct07804381",
+"t": "trial",
+"n": "Disease-modifying Efficacy of Sitagliptin Therapy in Early-stage Parkinson's Disease",
+"sub": "P2 · not_yet_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07804381",
+"c": ""
+},
+{
+"k": "org:yonsei-university",
+"t": "academic",
+"n": "Yonsei University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:sitagliptin",
+"t": "drug",
+"n": "Sitagliptin",
+"sub": "Yonsei University",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct06722729",
 "t": "trial",
 "n": "A Late Phase II Clinical Trial of KDT-3594 in Patients With Parkinson's Disease",
@@ -1668,30 +1732,6 @@
 "t": "drug",
 "n": "KDT-3594",
 "sub": "Kissei Pharmaceutical Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07804381",
-"t": "trial",
-"n": "Disease-modifying Efficacy of Sitagliptin Therapy in Early-stage Parkinson's Disease",
-"sub": "P2 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07804381",
-"c": ""
-},
-{
-"k": "org:yonsei-university",
-"t": "academic",
-"n": "Yonsei University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:sitagliptin",
-"t": "drug",
-"n": "Sitagliptin",
-"sub": "Yonsei University",
 "url": "",
 "c": ""
 },
@@ -1782,6 +1822,150 @@
 "sub": "",
 "url": "",
 "c": "United States"
+},
+{
+"k": "trial:nct07725562",
+"t": "trial",
+"n": "VG081821AC Tablets for Early to Mid-stage Parkinson's Disease",
+"sub": "P2/P3 · recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07725562",
+"c": ""
+},
+{
+"k": "org:zhejiang-vimgreen-pharmaceuticals",
+"t": "company",
+"n": "Zhejiang Vimgreen Pharmaceuticals, Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:xuanwu-hospital-of-capital-medical-university",
+"t": "hospital",
+"n": "Xuanwu Hospital of Capital Medical University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "drug:vg081821ac",
+"t": "drug",
+"n": "VG081821AC",
+"sub": "Zhejiang Vimgreen Pharmaceuticals, Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07461220",
+"t": "trial",
+"n": "Safety and Tolerability of IRL757 in Participants With Parkinson's Disease and Apathy",
+"sub": "P1/P2 · recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07461220",
+"c": ""
+},
+{
+"k": "org:integrative-research-laboratories",
+"t": "company",
+"n": "Integrative Research Laboratories AB",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:otsuka-pharmaceutical-development-commercialization",
+"t": "company",
+"n": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:medical-center-galileo-ood",
+"t": "hospital",
+"n": "Medical Center \"Galileo\" OOD",
+"sub": "",
+"url": "",
+"c": "Bulgaria"
+},
+{
+"k": "org:medical-center-academica",
+"t": "hospital",
+"n": "Medical Center Academica",
+"sub": "",
+"url": "",
+"c": "Bulgaria"
+},
+{
+"k": "org:first-university-multiprofile-hospital-for-active-treatment",
+"t": "hospital",
+"n": "First University Multiprofile Hospital for Active Treatment MHAT - Neurology Clinic",
+"sub": "",
+"url": "",
+"c": "Bulgaria"
+},
+{
+"k": "org:university-multiprofile-hospital-for-active-treatment-alexan",
+"t": "hospital",
+"n": "University Multiprofile Hospital for Active Treatment \"Alexandrovska\" EAD, Clinic of Neuro",
+"sub": "",
+"url": "",
+"c": "Bulgaria"
+},
+{
+"k": "org:neurologie-berlin",
+"t": "company",
+"n": "Neurologie Berlin",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
+"k": "org:universitaetsklinikum-carl-gustav-carus",
+"t": "hospital",
+"n": "Universitaetsklinikum Carl Gustav Carus",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
+"k": "org:centrum-medyczne-neuromed",
+"t": "company",
+"n": "Centrum Medyczne NEUROMED",
+"sub": "",
+"url": "",
+"c": "Poland"
+},
+{
+"k": "org:neuro-care-sp-z-o-o-sp-komandytowa",
+"t": "company",
+"n": "Neuro-Care sp. z o.o. sp. Komandytowa",
+"sub": "",
+"url": "",
+"c": "Poland"
+},
+{
+"k": "org:neuroklinika-prof-andrzej-bogucki",
+"t": "hospital",
+"n": "NeuroKlinika Prof. Andrzej Bogucki",
+"sub": "",
+"url": "",
+"c": "Poland"
+},
+{
+"k": "org:euromedis-sp-z-o-o",
+"t": "company",
+"n": "EuroMedis Sp. z o.o.",
+"sub": "",
+"url": "",
+"c": "Poland"
+},
+{
+"k": "drug:irl757",
+"t": "drug",
+"n": "IRL757",
+"sub": "Integrative Research Laboratories AB",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct04932434",
@@ -1916,150 +2100,6 @@
 "t": "drug",
 "n": "Radotinib",
 "sub": "Il-Yang Pharm. Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07461220",
-"t": "trial",
-"n": "Safety and Tolerability of IRL757 in Participants With Parkinson's Disease and Apathy",
-"sub": "P1/P2 · recruiting · 2026-2027",
-"url": "https://clinicaltrials.gov/study/NCT07461220",
-"c": ""
-},
-{
-"k": "org:integrative-research-laboratories",
-"t": "company",
-"n": "Integrative Research Laboratories AB",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:otsuka-pharmaceutical-development-commercialization",
-"t": "company",
-"n": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:medical-center-galileo-ood",
-"t": "hospital",
-"n": "Medical Center \"Galileo\" OOD",
-"sub": "",
-"url": "",
-"c": "Bulgaria"
-},
-{
-"k": "org:medical-center-academica",
-"t": "hospital",
-"n": "Medical Center Academica",
-"sub": "",
-"url": "",
-"c": "Bulgaria"
-},
-{
-"k": "org:first-university-multiprofile-hospital-for-active-treatment",
-"t": "hospital",
-"n": "First University Multiprofile Hospital for Active Treatment MHAT - Neurology Clinic",
-"sub": "",
-"url": "",
-"c": "Bulgaria"
-},
-{
-"k": "org:university-multiprofile-hospital-for-active-treatment-alexan",
-"t": "hospital",
-"n": "University Multiprofile Hospital for Active Treatment \"Alexandrovska\" EAD, Clinic of Neuro",
-"sub": "",
-"url": "",
-"c": "Bulgaria"
-},
-{
-"k": "org:neurologie-berlin",
-"t": "company",
-"n": "Neurologie Berlin",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:universitaetsklinikum-carl-gustav-carus",
-"t": "hospital",
-"n": "Universitaetsklinikum Carl Gustav Carus",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:centrum-medyczne-neuromed",
-"t": "company",
-"n": "Centrum Medyczne NEUROMED",
-"sub": "",
-"url": "",
-"c": "Poland"
-},
-{
-"k": "org:neuro-care-sp-z-o-o-sp-komandytowa",
-"t": "company",
-"n": "Neuro-Care sp. z o.o. sp. Komandytowa",
-"sub": "",
-"url": "",
-"c": "Poland"
-},
-{
-"k": "org:neuroklinika-prof-andrzej-bogucki",
-"t": "hospital",
-"n": "NeuroKlinika Prof. Andrzej Bogucki",
-"sub": "",
-"url": "",
-"c": "Poland"
-},
-{
-"k": "org:euromedis-sp-z-o-o",
-"t": "company",
-"n": "EuroMedis Sp. z o.o.",
-"sub": "",
-"url": "",
-"c": "Poland"
-},
-{
-"k": "drug:irl757",
-"t": "drug",
-"n": "IRL757",
-"sub": "Integrative Research Laboratories AB",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07725562",
-"t": "trial",
-"n": "VG081821AC Tablets for Early to Mid-stage Parkinson's Disease",
-"sub": "P2/P3 · recruiting · 2026-2027",
-"url": "https://clinicaltrials.gov/study/NCT07725562",
-"c": ""
-},
-{
-"k": "org:zhejiang-vimgreen-pharmaceuticals",
-"t": "company",
-"n": "Zhejiang Vimgreen Pharmaceuticals, Ltd.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:xuanwu-hospital-of-capital-medical-university",
-"t": "hospital",
-"n": "Xuanwu Hospital of Capital Medical University",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "drug:vg081821ac",
-"t": "drug",
-"n": "VG081821AC",
-"sub": "Zhejiang Vimgreen Pharmaceuticals, Ltd.",
 "url": "",
 "c": ""
 },
@@ -2230,78 +2270,6 @@
 "sub": "",
 "url": "",
 "c": "United States"
-},
-{
-"k": "trial:nct06671938",
-"t": "trial",
-"n": "Safety, Tolerability, and Pharmacokinetics of Exidavnemab in Patients With Parkinson's Dis",
-"sub": "P2 · completed · 2024-2026",
-"url": "https://clinicaltrials.gov/study/NCT06671938",
-"c": ""
-},
-{
-"k": "org:bioarctic",
-"t": "company",
-"n": "BioArctic AB",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:worldwide-clinical-trials",
-"t": "hospital",
-"n": "Worldwide Clinical Trials",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:centrum-medyczyne-neuromed-sp-z-o-o",
-"t": "company",
-"n": "Centrum Medyczyne Neuromed Sp. z o.o.",
-"sub": "",
-"url": "",
-"c": "Poland"
-},
-{
-"k": "org:krakowska-akademia-neurologii-sp-z-o-o",
-"t": "company",
-"n": "Krakowska Akademia Neurologii Sp. Z o.o",
-"sub": "",
-"url": "",
-"c": "Poland"
-},
-{
-"k": "org:hospital-universitario-virgen-del-rocio",
-"t": "hospital",
-"n": "Hospital Universitario Virgen del Rocío",
-"sub": "",
-"url": "",
-"c": "Spain"
-},
-{
-"k": "org:hospital-universitari-general-de-catalunya",
-"t": "hospital",
-"n": "Hospital Universitari General de Catalunya",
-"sub": "",
-"url": "",
-"c": "Spain"
-},
-{
-"k": "org:hospital-universitario-ramon-y-cajal",
-"t": "hospital",
-"n": "Hospital Universitario Ramón y Cajal",
-"sub": "",
-"url": "",
-"c": "Spain"
-},
-{
-"k": "drug:exidavnemab",
-"t": "drug",
-"n": "exidavnemab",
-"sub": "BioArctic AB",
-"url": "",
-"c": ""
 },
 {
 "k": "paper:pmid-38039968",
@@ -3027,7 +2995,7 @@
 "k": "paper:pmid-33848468",
 "t": "paper",
 "n": "Parkinson's disease",
-"sub": "The Lancet 2021 · cited 3867",
+"sub": "The Lancet 2021 · cited 3870",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33848468",
 "c": ""
 },
@@ -3107,7 +3075,7 @@
 "k": "paper:pmid-37597078",
 "t": "paper",
 "n": "Reactive oxygen species, toxicity, oxidative stress, and antioxidants: chronic diseases an",
-"sub": "Archives of Toxicology 2023 · cited 2606",
+"sub": "Archives of Toxicology 2023 · cited 2609",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37597078",
 "c": ""
 },
@@ -3179,7 +3147,7 @@
 "k": "paper:pmid-33239064",
 "t": "paper",
 "n": "Neuroinflammation in neurodegenerative disorders: the roles of microglia and astrocytes",
-"sub": "Translational Neurodegeneration 2020 · cited 2575",
+"sub": "Translational Neurodegeneration 2020 · cited 2578",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33239064",
 "c": ""
 },
@@ -3243,7 +3211,7 @@
 "k": "paper:pmid-33894193",
 "t": "paper",
 "n": "Challenges in the diagnosis of Parkinson's disease",
-"sub": "The Lancet Neurology 2021 · cited 1852",
+"sub": "The Lancet Neurology 2021 · cited 1853",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33894193",
 "c": ""
 },
@@ -3307,7 +3275,7 @@
 "k": "paper:pmid-37433768",
 "t": "paper",
 "n": "Role of neuroinflammation in neurodegeneration development",
-"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1638",
+"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1639",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37433768",
 "c": ""
 },
@@ -3363,7 +3331,7 @@
 "k": "paper:pmid-37735487",
 "t": "paper",
 "n": "Microglia in neurodegenerative diseases: mechanism and potential therapeutic targets",
-"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1589",
+"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1590",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37735487",
 "c": ""
 },
@@ -3659,7 +3627,7 @@
 "k": "paper:pmid-34083813",
 "t": "paper",
 "n": "Biomarkers for neurodegenerative diseases",
-"sub": "Nature Medicine 2021 · cited 1148",
+"sub": "Nature Medicine 2021 · cited 1149",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34083813",
 "c": ""
 },
@@ -3763,7 +3731,7 @@
 "k": "paper:pmid-38245249",
 "t": "paper",
 "n": "The pathogenesis of Parkinson's disease",
-"sub": "The Lancet 2024 · cited 1026",
+"sub": "The Lancet 2024 · cited 1030",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38245249",
 "c": ""
 },
@@ -4091,7 +4059,7 @@
 "k": "paper:pmid-34450312",
 "t": "paper",
 "n": "The role of microbiota-gut-brain axis in neuropsychiatric and neurological disorders",
-"sub": "Pharmacological Research 2021 · cited 849",
+"sub": "Pharmacological Research 2021 · cited 850",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34450312",
 "c": ""
 },
@@ -4283,7 +4251,7 @@
 "k": "paper:pmid-32830221",
 "t": "paper",
 "n": "Brain-first versus body-first Parkinson’s disease: a multimodal imaging case-control study",
-"sub": "Brain 2020 · cited 777",
+"sub": "Brain 2020 · cited 778",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32830221",
 "c": ""
 },
@@ -4371,7 +4339,7 @@
 "k": "paper:pmid-33309881",
 "t": "paper",
 "n": "Current Clinical Applications of In Vivo Gene Therapy with AAVs",
-"sub": "Molecular Therapy 2020 · cited 739",
+"sub": "Molecular Therapy 2020 · cited 740",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33309881",
 "c": ""
 },
@@ -4499,7 +4467,7 @@
 "k": "paper:pmid-37059509",
 "t": "paper",
 "n": "Assessment of heterogeneity among participants in the Parkinson's Progression Markers Init",
-"sub": "The Lancet Neurology 2023 · cited 720",
+"sub": "The Lancet Neurology 2023 · cited 721",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37059509",
 "c": ""
 },
@@ -4555,7 +4523,7 @@
 "k": "paper:pmid-40041912",
 "t": "paper",
 "n": "Oxidative stress and inflammation in the pathogenesis of neurological disorders: Mechanism",
-"sub": "Acta Pharmaceutica Sinica B 2024 · cited 710",
+"sub": "Acta Pharmaceutica Sinica B 2024 · cited 711",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40041912",
 "c": ""
 },
@@ -4643,7 +4611,7 @@
 "k": "paper:pmid-33692356",
 "t": "paper",
 "n": "Meta-analysis of the Parkinson’s disease gut microbiome suggests alterations linked to int",
-"sub": "npj Parkinson s Disease 2021 · cited 699",
+"sub": "npj Parkinson s Disease 2021 · cited 700",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33692356",
 "c": ""
 },
@@ -4707,7 +4675,7 @@
 "k": "paper:pmid-36830075",
 "t": "paper",
 "n": "Oxidative Stress and Antioxidants in Neurodegenerative Disorders",
-"sub": "Antioxidants 2023 · cited 676",
+"sub": "Antioxidants 2023 · cited 677",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36830075",
 "c": ""
 },
@@ -4742,6 +4710,46 @@
 "sub": "The University of Sydney",
 "url": "https://orcid.org/0000-0002-4447-0835",
 "c": "AU"
+},
+{
+"k": "paper:doi-10-1016-j-emcon-2024-100410",
+"t": "paper",
+"n": "A comprehensive review on environmental and human health impacts of chemical pesticide usa",
+"sub": "Emerging contaminants 2024 · cited 634",
+"url": "https://doi.org/10.1016/j.emcon.2024.100410",
+"c": ""
+},
+{
+"k": "person:wei-zhou",
+"t": "person",
+"n": "Wei Zhou",
+"sub": "Technion – Israel Institute of Technology",
+"url": "https://orcid.org/0000-0002-0540-1669",
+"c": "IL"
+},
+{
+"k": "org:technion-israel-institute-of-technology",
+"t": "academic",
+"n": "Technion – Israel Institute of Technology",
+"sub": "",
+"url": "",
+"c": "IL"
+},
+{
+"k": "org:guangdong-technion-israel-institute-of-technology",
+"t": "academic",
+"n": "Guangdong Technion-Israel Institute of Technology",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:varenyam-achal",
+"t": "person",
+"n": "Varenyam Achal",
+"sub": "Technion – Israel Institute of Technology",
+"url": "https://orcid.org/0000-0001-5444-7746",
+"c": "IL"
 },
 {
 "k": "paper:pmid-38267190",
@@ -4782,46 +4790,6 @@
 "sub": "",
 "url": "",
 "c": ""
-},
-{
-"k": "paper:doi-10-1016-j-emcon-2024-100410",
-"t": "paper",
-"n": "A comprehensive review on environmental and human health impacts of chemical pesticide usa",
-"sub": "Emerging contaminants 2024 · cited 631",
-"url": "https://doi.org/10.1016/j.emcon.2024.100410",
-"c": ""
-},
-{
-"k": "person:wei-zhou",
-"t": "person",
-"n": "Wei Zhou",
-"sub": "Technion – Israel Institute of Technology",
-"url": "https://orcid.org/0000-0002-0540-1669",
-"c": "IL"
-},
-{
-"k": "org:technion-israel-institute-of-technology",
-"t": "academic",
-"n": "Technion – Israel Institute of Technology",
-"sub": "",
-"url": "",
-"c": "IL"
-},
-{
-"k": "org:guangdong-technion-israel-institute-of-technology",
-"t": "academic",
-"n": "Guangdong Technion-Israel Institute of Technology",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:varenyam-achal",
-"t": "person",
-"n": "Varenyam Achal",
-"sub": "Technion – Israel Institute of Technology",
-"url": "https://orcid.org/0000-0001-5444-7746",
-"c": "IL"
 },
 {
 "k": "paper:pmid-33007212",
@@ -4899,7 +4867,7 @@
 "k": "paper:pmid-40044233",
 "t": "paper",
 "n": "Projections for prevalence of Parkinson’s disease and its driving factors in 195 countries",
-"sub": "BMJ 2025 · cited 617",
+"sub": "BMJ 2025 · cited 620",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40044233",
 "c": ""
 },
@@ -4939,7 +4907,7 @@
 "k": "paper:pmid-33044541",
 "t": "paper",
 "n": "A systematic review of physical activity and quality of life and well-being",
-"sub": "Translational Behavioral Medicine 2020 · cited 613",
+"sub": "Translational Behavioral Medicine 2020 · cited 614",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33044541",
 "c": ""
 },
@@ -5067,16 +5035,6 @@
 {
 "a": "drug:buntanetap-posiphen",
 "b": "trial:nct07284784",
-"r": "tested_in"
-},
-{
-"a": "drug:exidavnemab",
-"b": "asset:her096",
-"r": "competes"
-},
-{
-"a": "drug:exidavnemab",
-"b": "trial:nct06671938",
 "r": "tested_in"
 },
 {
@@ -5525,16 +5483,6 @@
 "r": "site_of"
 },
 {
-"a": "org:bioarctic",
-"b": "drug:exidavnemab",
-"r": "develops"
-},
-{
-"a": "org:bioarctic",
-"b": "trial:nct06671938",
-"r": "sponsors"
-},
-{
 "a": "org:biohaven-therapeutics",
 "b": "drug:bhv-8000",
 "r": "develops"
@@ -5582,11 +5530,6 @@
 {
 "a": "org:centrum-medyczne-neuromed",
 "b": "trial:nct07461220",
-"r": "site_of"
-},
-{
-"a": "org:centrum-medyczyne-neuromed-sp-z-o-o",
-"b": "trial:nct06671938",
 "r": "site_of"
 },
 {
@@ -5850,18 +5793,8 @@
 "r": "site_of"
 },
 {
-"a": "org:hospital-universitari-general-de-catalunya",
-"b": "trial:nct06671938",
-"r": "site_of"
-},
-{
 "a": "org:hospital-universitari-vall-d-hebron",
 "b": "trial:nct06015841",
-"r": "site_of"
-},
-{
-"a": "org:hospital-universitari-vall-d-hebron",
-"b": "trial:nct06671938",
 "r": "site_of"
 },
 {
@@ -5877,16 +5810,6 @@
 {
 "a": "org:hospital-universitario-quironsalud-madrid",
 "b": "trial:nct06015841",
-"r": "site_of"
-},
-{
-"a": "org:hospital-universitario-ramon-y-cajal",
-"b": "trial:nct06671938",
-"r": "site_of"
-},
-{
-"a": "org:hospital-universitario-virgen-del-rocio",
-"b": "trial:nct06671938",
 "r": "site_of"
 },
 {
@@ -6043,11 +5966,6 @@
 "a": "org:korea-health-industry-development-institute",
 "b": "paper:pmid-33239064",
 "r": "funded"
-},
-{
-"a": "org:krakowska-akademia-neurologii-sp-z-o-o",
-"b": "trial:nct06671938",
-"r": "site_of"
 },
 {
 "a": "org:lewy-body-dementia-association",
@@ -6390,6 +6308,11 @@
 "r": "site_of"
 },
 {
+"a": "org:new-york-presbyterian-hospital-columbia-university-medical-c",
+"b": "trial:nct06753331",
+"r": "site_of"
+},
+{
 "a": "org:ninewells-hospital-dundee-scotland",
 "b": "trial:nct07781644",
 "r": "site_of"
@@ -6507,11 +6430,6 @@
 {
 "a": "org:policlinica-gipuzkoa",
 "b": "trial:nct06015841",
-"r": "site_of"
-},
-{
-"a": "org:policlinica-gipuzkoa",
-"b": "trial:nct06671938",
 "r": "site_of"
 },
 {
@@ -6665,6 +6583,11 @@
 "r": "sponsors"
 },
 {
+"a": "org:sumitomo-pharma-america",
+"b": "trial:nct06753331",
+"r": "sponsors"
+},
+{
 "a": "org:sutter-neuroscience-institute",
 "b": "trial:nct06680830",
 "r": "site_of"
@@ -6795,6 +6718,11 @@
 "r": "site_of"
 },
 {
+"a": "org:ucsd-medical-center",
+"b": "trial:nct06753331",
+"r": "site_of"
+},
+{
 "a": "org:ucsf-weill-institute-for-neurosciences",
 "b": "trial:nct07174310",
 "r": "site_of"
@@ -6897,6 +6825,11 @@
 {
 "a": "org:university-of-iowa",
 "b": "trial:nct07464028",
+"r": "site_of"
+},
+{
+"a": "org:university-of-kentucky-medical-center",
+"b": "trial:nct06753331",
 "r": "site_of"
 },
 {
@@ -7003,11 +6936,6 @@
 "a": "org:west-virginia-university",
 "b": "trial:nct05894343",
 "r": "site_of"
-},
-{
-"a": "org:worldwide-clinical-trials",
-"b": "trial:nct06671938",
-"r": "collaborates"
 },
 {
 "a": "org:xellsmart-therapeutics-shanghai",

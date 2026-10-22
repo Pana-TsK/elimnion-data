@@ -1,9 +1,9 @@
 {
 "assetId": "nct-nct06677307",
-"updated": "2026-10-21",
+"updated": "2026-10-22",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
-"trials": 27
+"trials": 28
 },
 "nodes": [
 {
@@ -61,6 +61,30 @@
 "sub": "",
 "url": "",
 "c": "New Zealand"
+},
+{
+"k": "trial:nct07887347",
+"t": "trial",
+"n": "A Study of the Safety and Efficacy of Prime Editing (PM647a) in Participants With Alpha-1 ",
+"sub": "P1/P2 · not_yet_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07887347",
+"c": ""
+},
+{
+"k": "org:prime-medicine",
+"t": "company",
+"n": "Prime Medicine, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:pm647a",
+"t": "drug",
+"n": "PM647a",
+"sub": "Prime Medicine, Inc.",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct06405633",
@@ -1807,6 +1831,16 @@
 "r": "tested_in"
 },
 {
+"a": "drug:pm647a",
+"b": "asset:nct-nct06677307",
+"r": "competes"
+},
+{
+"a": "drug:pm647a",
+"b": "trial:nct07887347",
+"r": "tested_in"
+},
+{
 "a": "drug:sar447537",
 "b": "asset:nct-nct06677307",
 "r": "competes"
@@ -2360,6 +2394,16 @@
 "a": "org:peak-gastroenterology-associates-pc",
 "b": "trial:nct05677971",
 "r": "site_of"
+},
+{
+"a": "org:prime-medicine",
+"b": "drug:pm647a",
+"r": "develops"
+},
+{
+"a": "org:prime-medicine",
+"b": "trial:nct07887347",
+"r": "sponsors"
 },
 {
 "a": "org:queen-elizabeth-hospital-university-hospital-birmingham",

@@ -1,6 +1,6 @@
 {
 "assetId": "nct-nct05785819",
-"updated": "2026-10-21",
+"updated": "2026-10-22",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 44,
@@ -16,11 +16,11 @@
 "c": ""
 },
 {
-"k": "trial:nct05785819",
+"k": "trial:nct04783545",
 "t": "trial",
-"n": "A Phase 2 Study of VLX-1005 Versus Placebo in Suspected Heparin Induced Thrombocytopenia",
-"sub": "P2 · terminated · 2023-2025",
-"url": "https://clinicaltrials.gov/study/NCT05785819",
+"n": "Phase I Study of VLX-1005 in Healthy Subjects",
+"sub": "P1 · completed · 2021-2022",
+"url": "https://clinicaltrials.gov/study/NCT04783545",
 "c": ""
 },
 {
@@ -30,6 +30,30 @@
 "sub": "",
 "url": "",
 "c": "UN"
+},
+{
+"k": "org:celerion",
+"t": "company",
+"n": "Celerion",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "person:allen-hunt",
+"t": "person",
+"n": "Allen Hunt",
+"sub": "principal investigator · Celerion",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05785819",
+"t": "trial",
+"n": "A Phase 2 Study of VLX-1005 Versus Placebo in Suspected Heparin Induced Thrombocytopenia",
+"sub": "P2 · terminated · 2023-2025",
+"url": "https://clinicaltrials.gov/study/NCT05785819",
+"c": ""
 },
 {
 "k": "org:duke-clinical-research-institute",
@@ -168,14 +192,6 @@
 "c": ""
 },
 {
-"k": "org:celerion",
-"t": "company",
-"n": "Celerion",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "person:allen-hunt-mba",
 "t": "person",
 "n": "Allen Hunt, MBA",
@@ -184,18 +200,50 @@
 "c": ""
 },
 {
-"k": "trial:nct04783545",
+"k": "trial:nct05885555",
 "t": "trial",
-"n": "Phase I Study of VLX-1005 in Healthy Subjects",
-"sub": "P1 · completed · 2021-2022",
-"url": "https://clinicaltrials.gov/study/NCT04783545",
+"n": "A Study of Ianalumab (VAY736) in Patients With Primary Immune Thrombocytopenia (ITP) Previ",
+"sub": "P2 · active_not_recruiting · 2023-2029",
+"url": "https://clinicaltrials.gov/study/NCT05885555",
 "c": ""
 },
 {
-"k": "person:allen-hunt",
-"t": "person",
-"n": "Allen Hunt",
-"sub": "principal investigator · Celerion",
+"k": "org:novartis-pharmaceuticals",
+"t": "company",
+"n": "Novartis Pharmaceuticals",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:massachusetts-general-hospital",
+"t": "hospital",
+"n": "Massachusetts General Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:beth-israel-deaconess-med-center",
+"t": "company",
+"n": "Beth Israel Deaconess Med Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:novartis-investigative-site",
+"t": "company",
+"n": "Novartis Investigative Site",
+"sub": "",
+"url": "",
+"c": "Argentina"
+},
+{
+"k": "drug:ianalumab",
+"t": "drug",
+"n": "Ianalumab",
+"sub": "Novartis Pharmaceuticals",
 "url": "",
 "c": ""
 },
@@ -300,54 +348,6 @@
 "t": "drug",
 "n": "CTX112",
 "sub": "CRISPR Therapeutics AG",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05885555",
-"t": "trial",
-"n": "A Study of Ianalumab (VAY736) in Patients With Primary Immune Thrombocytopenia (ITP) Previ",
-"sub": "P2 · active_not_recruiting · 2023-2029",
-"url": "https://clinicaltrials.gov/study/NCT05885555",
-"c": ""
-},
-{
-"k": "org:novartis-pharmaceuticals",
-"t": "company",
-"n": "Novartis Pharmaceuticals",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:massachusetts-general-hospital",
-"t": "hospital",
-"n": "Massachusetts General Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:beth-israel-deaconess-med-center",
-"t": "company",
-"n": "Beth Israel Deaconess Med Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:novartis-investigative-site",
-"t": "company",
-"n": "Novartis Investigative Site",
-"sub": "",
-"url": "",
-"c": "Argentina"
-},
-{
-"k": "drug:ianalumab",
-"t": "drug",
-"n": "Ianalumab",
-"sub": "Novartis Pharmaceuticals",
 "url": "",
 "c": ""
 },
@@ -584,14 +584,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07039422",
-"t": "trial",
-"n": "Study of Ianalumab in Adults With Primary Immune Thrombocytopenia (ITP) and Warm-antibody ",
-"sub": "P2 · withdrawn · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07039422",
-"c": ""
-},
-{
 "k": "trial:nct07421167",
 "t": "trial",
 "n": "A Study to Assess the Tolerability of Ianalumab (VAY736) With Investigator's Choice Thromb",
@@ -685,6 +677,14 @@
 "n": "thrombopoietin receptor agonist",
 "sub": "Novartis Pharmaceuticals",
 "url": "",
+"c": ""
+},
+{
+"k": "trial:nct07039422",
+"t": "trial",
+"n": "Study of Ianalumab in Adults With Primary Immune Thrombocytopenia (ITP) and Warm-antibody ",
+"sub": "P2 · withdrawn · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07039422",
 "c": ""
 },
 {

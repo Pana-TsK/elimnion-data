@@ -1,6 +1,6 @@
 {
 "assetId": "vinpocetine-msa",
-"updated": "2026-10-21",
+"updated": "2026-10-22",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 49,
@@ -15,6 +15,22 @@
 "sub": "multiple system atrophy",
 "url": "",
 "c": ""
+},
+{
+"k": "trial:nct06441591",
+"t": "trial",
+"n": "Clinical Outcome of Vinpocetine in Diabetic Nephropathy",
+"sub": "P2/P3 · unknown · 2024-2025",
+"url": "https://clinicaltrials.gov/study/NCT06441591",
+"c": ""
+},
+{
+"k": "org:ain-shams-university",
+"t": "academic",
+"n": "Ain Shams University",
+"sub": "",
+"url": "",
+"c": "EG"
 },
 {
 "k": "trial:nct02011971",
@@ -41,20 +57,20 @@
 "c": ""
 },
 {
-"k": "trial:nct02878772",
+"k": "trial:nct00719953",
 "t": "trial",
-"n": "Vinpocetine Inhibits NF-κB-dependent Inflammation in Acute Ischemic Stroke Patients",
-"sub": "P2/P3 · completed · 2014-2015",
-"url": "https://clinicaltrials.gov/study/NCT02878772",
+"n": "Study to Assess the Efficacy of Cognitex",
+"sub": "P4 · completed · 2008-2009",
+"url": "https://clinicaltrials.gov/study/NCT00719953",
 "c": ""
 },
 {
-"k": "org:tianjin-medical-university-general-hospital",
-"t": "hospital",
-"n": "Tianjin Medical University General Hospital",
-"sub": "",
+"k": "person:nachum-vaisman-professor",
+"t": "person",
+"n": "Nachum Vaisman, Professor",
+"sub": "principal investigator · Tel-Aviv Sourasky Medical Center, Israel",
 "url": "",
-"c": "CN"
+"c": ""
 },
 {
 "k": "trial:nct01515839",
@@ -89,52 +105,20 @@
 "c": ""
 },
 {
-"k": "trial:nct01400035",
+"k": "trial:nct02878772",
 "t": "trial",
-"n": "Chinese Assessment for Vinpocetine In Neurology",
-"sub": "NA · completed · 2010-2013",
-"url": "https://clinicaltrials.gov/study/NCT01400035",
+"n": "Vinpocetine Inhibits NF-κB-dependent Inflammation in Acute Ischemic Stroke Patients",
+"sub": "P2/P3 · completed · 2014-2015",
+"url": "https://clinicaltrials.gov/study/NCT02878772",
 "c": ""
 },
 {
-"k": "org:gedeon-richter",
-"t": "company",
-"n": "Gedeon Richter Ltd.",
+"k": "org:tianjin-medical-university-general-hospital",
+"t": "hospital",
+"n": "Tianjin Medical University General Hospital",
 "sub": "",
 "url": "",
-"c": ""
-},
-{
-"k": "person:weiwei-zhang",
-"t": "person",
-"n": "Weiwei Zhang",
-"sub": "principal investigator · PLA.The Military General Hospital of Beijing",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06441591",
-"t": "trial",
-"n": "Clinical Outcome of Vinpocetine in Diabetic Nephropathy",
-"sub": "P2/P3 · unknown · 2024-2025",
-"url": "https://clinicaltrials.gov/study/NCT06441591",
-"c": ""
-},
-{
-"k": "org:ain-shams-university",
-"t": "academic",
-"n": "Ain Shams University",
-"sub": "",
-"url": "",
-"c": "EG"
-},
-{
-"k": "trial:nct07229664",
-"t": "trial",
-"n": "Vinpocetine in Patients With Parkinsonian Disease",
-"sub": "P2/P3 · recruiting · 2025-2027",
-"url": "https://clinicaltrials.gov/study/NCT07229664",
-"c": ""
+"c": "CN"
 },
 {
 "k": "trial:nct02857829",
@@ -169,18 +153,90 @@
 "c": ""
 },
 {
-"k": "trial:nct00719953",
+"k": "trial:nct01400035",
 "t": "trial",
-"n": "Study to Assess the Efficacy of Cognitex",
-"sub": "P4 · completed · 2008-2009",
-"url": "https://clinicaltrials.gov/study/NCT00719953",
+"n": "Chinese Assessment for Vinpocetine In Neurology",
+"sub": "NA · completed · 2010-2013",
+"url": "https://clinicaltrials.gov/study/NCT01400035",
 "c": ""
 },
 {
-"k": "person:nachum-vaisman-professor",
+"k": "org:gedeon-richter",
+"t": "company",
+"n": "Gedeon Richter Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:weiwei-zhang",
 "t": "person",
-"n": "Nachum Vaisman, Professor",
-"sub": "principal investigator · Tel-Aviv Sourasky Medical Center, Israel",
+"n": "Weiwei Zhang",
+"sub": "principal investigator · PLA.The Military General Hospital of Beijing",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07229664",
+"t": "trial",
+"n": "Vinpocetine in Patients With Parkinsonian Disease",
+"sub": "P2/P3 · recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT07229664",
+"c": ""
+},
+{
+"k": "trial:nct07429240",
+"t": "trial",
+"n": "PBGENE-DMD Phase 1/2a Safety and Preliminary Efficacy Study in Duchenne Muscular Dystrophy",
+"sub": "P1/P2 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07429240",
+"c": ""
+},
+{
+"k": "org:precision-biosciences",
+"t": "company",
+"n": "Precision BioSciences, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:pbgene-dmd",
+"t": "drug",
+"n": "PBGENE-DMD",
+"sub": "Precision BioSciences, Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07221669",
+"t": "trial",
+"n": "A Study to Learn About Salanersen's (BIIB115) Effects on Movement and Its Safety When Give",
+"sub": "P3 · recruiting · 2026-2032",
+"url": "https://clinicaltrials.gov/study/NCT07221669",
+"c": ""
+},
+{
+"k": "org:biogen",
+"t": "company",
+"n": "Biogen",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:neurology-rare-disease-center",
+"t": "company",
+"n": "Neurology Rare Disease Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:salanersen",
+"t": "drug",
+"n": "Salanersen",
+"sub": "Biogen",
 "url": "",
 "c": ""
 },
@@ -221,38 +277,6 @@
 "t": "drug",
 "n": "3-N-butylphthalide",
 "sub": "Second Affiliated Hospital, Zhejiang University, School of Medicine",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07221669",
-"t": "trial",
-"n": "A Study to Learn About Salanersen's (BIIB115) Effects on Movement and Its Safety When Give",
-"sub": "P3 · recruiting · 2026-2032",
-"url": "https://clinicaltrials.gov/study/NCT07221669",
-"c": ""
-},
-{
-"k": "org:biogen",
-"t": "company",
-"n": "Biogen",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:neurology-rare-disease-center",
-"t": "company",
-"n": "Neurology Rare Disease Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:salanersen",
-"t": "drug",
-"n": "Salanersen",
-"sub": "Biogen",
 "url": "",
 "c": ""
 },
@@ -321,30 +345,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06568237",
-"t": "trial",
-"n": "A Trial to Test if TEV-56286 is Effective for Treatment of Participants With Multiple Syst",
-"sub": "P2 · active_not_recruiting · 2024-2027",
-"url": "https://clinicaltrials.gov/study/NCT06568237",
-"c": ""
-},
-{
-"k": "org:teva-branded-pharmaceutical-products-r-d",
-"t": "company",
-"n": "Teva Branded Pharmaceutical Products R&D LLC",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:tev-56286",
-"t": "drug",
-"n": "TEV-56286",
-"sub": "Teva Branded Pharmaceutical Products R&D LLC",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07729852",
 "t": "trial",
 "n": "Open-Label Access to ATH434 for Patients Who Completed Study ATH434-201 in France",
@@ -374,6 +374,30 @@
 "n": "An Extension Trial to Test if TEV-56286 is Effective in Relieving Multiple System Atrophy",
 "sub": "P2 · recruiting · 2025-2029",
 "url": "https://clinicaltrials.gov/study/NCT07197866",
+"c": ""
+},
+{
+"k": "org:teva-branded-pharmaceutical-products-r-d",
+"t": "company",
+"n": "Teva Branded Pharmaceutical Products R&D LLC",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:tev-56286",
+"t": "drug",
+"n": "TEV-56286",
+"sub": "Teva Branded Pharmaceutical Products R&D LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06568237",
+"t": "trial",
+"n": "A Trial to Test if TEV-56286 is Effective for Treatment of Participants With Multiple Syst",
+"sub": "P2 · active_not_recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06568237",
 "c": ""
 },
 {
@@ -545,94 +569,6 @@
 "c": ""
 },
 {
-"k": "trial:nct05526391",
-"t": "trial",
-"n": "A Study of TAK-341 in Treatment of Multiple System Atrophy",
-"sub": "P2 · completed · 2022-2025",
-"url": "https://clinicaltrials.gov/study/NCT05526391",
-"c": ""
-},
-{
-"k": "org:takeda",
-"t": "company",
-"n": "Takeda",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:mayo-clinic",
-"t": "hospital",
-"n": "Mayo Clinic",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:nyu-langone-health",
-"t": "hospital",
-"n": "NYU Langone Health",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:the-cleveland-clinic-foundation",
-"t": "hospital",
-"n": "The Cleveland Clinic Foundation",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-texas-southwestern-medical-center",
-"t": "hospital",
-"n": "University of Texas Southwestern Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:inland-northwest-research",
-"t": "company",
-"n": "Inland Northwest Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:medizinische-universitat-graz",
-"t": "academic",
-"n": "Medizinische Universitat Graz",
-"sub": "",
-"url": "",
-"c": "Austria"
-},
-{
-"k": "org:bispebjerg-hospital",
-"t": "hospital",
-"n": "Bispebjerg Hospital",
-"sub": "",
-"url": "",
-"c": "Denmark"
-},
-{
-"k": "org:aarhus-universitetshospital",
-"t": "hospital",
-"n": "Aarhus Universitetshospital",
-"sub": "",
-"url": "",
-"c": "Denmark"
-},
-{
-"k": "drug:tak-341",
-"t": "drug",
-"n": "TAK-341",
-"sub": "Takeda",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct06523400",
 "t": "trial",
 "n": "The Efficacy and Safety of Once Daily Mexiletine PR in Patients With Myotonic Dystrophy Ty",
@@ -717,6 +653,110 @@
 "t": "drug",
 "n": "Mexiletine granules for prolonged-release oral suspension",
 "sub": "Lupin Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05526391",
+"t": "trial",
+"n": "A Study of TAK-341 in Treatment of Multiple System Atrophy",
+"sub": "P2 · completed · 2022-2025",
+"url": "https://clinicaltrials.gov/study/NCT05526391",
+"c": ""
+},
+{
+"k": "org:takeda",
+"t": "company",
+"n": "Takeda",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:quest-research-institute-alcanza-hypercore",
+"t": "academic",
+"n": "Quest Research Institute - Alcanza - HyperCore",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:mayo-clinic",
+"t": "hospital",
+"n": "Mayo Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:nyu-langone-health",
+"t": "hospital",
+"n": "NYU Langone Health",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:duke-university-school-of-medicine",
+"t": "academic",
+"n": "Duke University School of Medicine",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:the-cleveland-clinic-foundation",
+"t": "hospital",
+"n": "The Cleveland Clinic Foundation",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-texas-southwestern-medical-center",
+"t": "hospital",
+"n": "University of Texas Southwestern Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:inland-northwest-research",
+"t": "company",
+"n": "Inland Northwest Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:medizinische-universitat-graz",
+"t": "academic",
+"n": "Medizinische Universitat Graz",
+"sub": "",
+"url": "",
+"c": "Austria"
+},
+{
+"k": "org:bispebjerg-hospital",
+"t": "hospital",
+"n": "Bispebjerg Hospital",
+"sub": "",
+"url": "",
+"c": "Denmark"
+},
+{
+"k": "org:aarhus-universitetshospital",
+"t": "hospital",
+"n": "Aarhus Universitetshospital",
+"sub": "",
+"url": "",
+"c": "Denmark"
+},
+{
+"k": "drug:tak-341",
+"t": "drug",
+"n": "TAK-341",
+"sub": "Takeda",
 "url": "",
 "c": ""
 },
@@ -1233,11 +1273,11 @@
 "c": ""
 },
 {
-"k": "trial:nct07038824",
+"k": "trial:nct07037862",
 "t": "trial",
-"n": "A Study in Participants With Duchenne Muscular Dystrophy Amenable to Exon 45 Skipping to E",
+"n": "A Study in Participants With Duchenne Muscular Dystrophy Amenable to Exon 44 Skipping to E",
 "sub": "P1/P2 · recruiting · 2025-2029",
-"url": "https://clinicaltrials.gov/study/NCT07038824",
+"url": "https://clinicaltrials.gov/study/NCT07037862",
 "c": ""
 },
 {
@@ -1281,12 +1321,68 @@
 "c": "Italy"
 },
 {
+"k": "org:fondazione-serena-onlus-centro-clinico-nemo-milano",
+"t": "hospital",
+"n": "Fondazione Serena Onlus - Centro Clinico NeMO Milano",
+"sub": "",
+"url": "",
+"c": "Italy"
+},
+{
 "k": "org:ospedale-pediatrico-bambino-gesu",
 "t": "hospital",
 "n": "Ospedale Pediatrico Bambino Gesu",
 "sub": "",
 "url": "",
 "c": "Italy"
+},
+{
+"k": "org:hospital-universitario-vall-d-hebron",
+"t": "hospital",
+"n": "Hospital Universitario Vall d'Hebron",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:hospital-sant-joan-de-deu",
+"t": "hospital",
+"n": "Hospital Sant Joan de Deu",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:leeds-general-infirmary",
+"t": "company",
+"n": "Leeds General Infirmary",
+"sub": "",
+"url": "",
+"c": "United Kingdom"
+},
+{
+"k": "org:alder-hey-children-s-nhs-foundation-trust",
+"t": "hospital",
+"n": "Alder Hey Children's NHS Foundation Trust",
+"sub": "",
+"url": "",
+"c": "United Kingdom"
+},
+{
+"k": "drug:entr-601-44",
+"t": "drug",
+"n": "ENTR-601-44",
+"sub": "Entrada Therapeutics, Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07038824",
+"t": "trial",
+"n": "A Study in Participants With Duchenne Muscular Dystrophy Amenable to Exon 45 Skipping to E",
+"sub": "P1/P2 · recruiting · 2025-2029",
+"url": "https://clinicaltrials.gov/study/NCT07038824",
+"c": ""
 },
 {
 "k": "org:fondazione-policlinico-universitario-a-gemelli-irccs-univers",
@@ -1313,65 +1409,9 @@
 "c": "Netherlands"
 },
 {
-"k": "org:hospital-universitario-vall-d-hebron",
-"t": "hospital",
-"n": "Hospital Universitario Vall d'Hebron",
-"sub": "",
-"url": "",
-"c": "Spain"
-},
-{
-"k": "org:hospital-sant-joan-de-deu",
-"t": "hospital",
-"n": "Hospital Sant Joan de Deu",
-"sub": "",
-"url": "",
-"c": "Spain"
-},
-{
 "k": "drug:entr-601-45",
 "t": "drug",
 "n": "ENTR-601-45",
-"sub": "Entrada Therapeutics, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07037862",
-"t": "trial",
-"n": "A Study in Participants With Duchenne Muscular Dystrophy Amenable to Exon 44 Skipping to E",
-"sub": "P1/P2 · recruiting · 2025-2029",
-"url": "https://clinicaltrials.gov/study/NCT07037862",
-"c": ""
-},
-{
-"k": "org:fondazione-serena-onlus-centro-clinico-nemo-milano",
-"t": "hospital",
-"n": "Fondazione Serena Onlus - Centro Clinico NeMO Milano",
-"sub": "",
-"url": "",
-"c": "Italy"
-},
-{
-"k": "org:leeds-general-infirmary",
-"t": "company",
-"n": "Leeds General Infirmary",
-"sub": "",
-"url": "",
-"c": "United Kingdom"
-},
-{
-"k": "org:alder-hey-children-s-nhs-foundation-trust",
-"t": "hospital",
-"n": "Alder Hey Children's NHS Foundation Trust",
-"sub": "",
-"url": "",
-"c": "United Kingdom"
-},
-{
-"k": "drug:entr-601-44",
-"t": "drug",
-"n": "ENTR-601-44",
 "sub": "Entrada Therapeutics, Inc.",
 "url": "",
 "c": ""
@@ -1637,46 +1677,6 @@
 "t": "drug",
 "n": "BMN 351",
 "sub": "BioMarin Pharmaceutical",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07429240",
-"t": "trial",
-"n": "PBGENE-DMD Phase 1/2a Safety and Preliminary Efficacy Study in Duchenne Muscular Dystrophy",
-"sub": "P1/P2 · recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07429240",
-"c": ""
-},
-{
-"k": "org:precision-biosciences",
-"t": "company",
-"n": "Precision BioSciences, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:arkansas-children-s-hospital",
-"t": "hospital",
-"n": "Arkansas Children's Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:washington-university-school-of-medicine",
-"t": "academic",
-"n": "Washington University School of Medicine",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:pbgene-dmd",
-"t": "drug",
-"n": "PBGENE-DMD",
-"sub": "Precision BioSciences, Inc.",
 "url": "",
 "c": ""
 },
@@ -3684,7 +3684,7 @@
 "k": "paper:pmid-37735487",
 "t": "paper",
 "n": "Microglia in neurodegenerative diseases: mechanism and potential therapeutic targets",
-"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1589",
+"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1590",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37735487",
 "c": ""
 },
@@ -4012,7 +4012,7 @@
 "k": "paper:pmid-32461689",
 "t": "paper",
 "n": "Structures of α-synuclein filaments from multiple system atrophy",
-"sub": "Nature 2020 · cited 790",
+"sub": "Nature 2020 · cited 791",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32461689",
 "c": ""
 },
@@ -4076,7 +4076,7 @@
 "k": "paper:pmid-34233031",
 "t": "paper",
 "n": "Malnutrition, Frailty, and Sarcopenia in Patients With Cirrhosis: 2021 Practice Guidance b",
-"sub": "Hepatology 2021 · cited 733",
+"sub": "Hepatology 2021 · cited 734",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34233031",
 "c": ""
 },
@@ -4132,7 +4132,7 @@
 "k": "paper:pmid-38168980",
 "t": "paper",
 "n": "Detection of mosaic and population-level structural variants with Sniffles2",
-"sub": "Nature Biotechnology 2024 · cited 523",
+"sub": "Nature Biotechnology 2024 · cited 524",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38168980",
 "c": ""
 },
@@ -4180,7 +4180,7 @@
 "k": "paper:pmid-36108674",
 "t": "paper",
 "n": "Structures of α-synuclein filaments from human brains with Lewy pathology",
-"sub": "Nature 2022 · cited 476",
+"sub": "Nature 2022 · cited 477",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36108674",
 "c": ""
 },
@@ -4468,7 +4468,7 @@
 "k": "paper:pmid-35899384",
 "t": "paper",
 "n": "AASLD practice guidance on drug, herbal, and dietary supplement–induced liver injury",
-"sub": "Hepatology 2022 · cited 304",
+"sub": "Hepatology 2022 · cited 305",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35899384",
 "c": ""
 },
@@ -4732,7 +4732,7 @@
 "k": "paper:pmid-32986090",
 "t": "paper",
 "n": "Skin α-Synuclein Aggregation Seeding Activity as a Novel Biomarker for Parkinson Disease",
-"sub": "JAMA Neurology 2020 · cited 266",
+"sub": "JAMA Neurology 2020 · cited 267",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32986090",
 "c": ""
 },
@@ -4972,7 +4972,7 @@
 "k": "paper:pmid-36653527",
 "t": "paper",
 "n": "Seed amplification assay for the detection of pathologic alpha-synuclein aggregates in cer",
-"sub": "Nature Protocols 2023 · cited 240",
+"sub": "Nature Protocols 2023 · cited 241",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36653527",
 "c": ""
 },
@@ -5292,7 +5292,7 @@
 "k": "paper:pmid-34894214",
 "t": "paper",
 "n": "Diagnostic value of cerebrospinal fluid alpha-synuclein seed quantification in synucleinop",
-"sub": "Brain 2021 · cited 190",
+"sub": "Brain 2021 · cited 191",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34894214",
 "c": ""
 },
@@ -6211,11 +6211,6 @@
 "r": "site_of"
 },
 {
-"a": "org:arkansas-children-s-hospital",
-"b": "trial:nct07429240",
-"r": "site_of"
-},
-{
 "a": "org:arthex-biotech-s-l",
 "b": "drug:atx-01",
 "r": "develops"
@@ -6564,6 +6559,11 @@
 "a": "org:duke-university",
 "b": "paper:pmid-33458725",
 "r": "funded"
+},
+{
+"a": "org:duke-university-school-of-medicine",
+"b": "trial:nct05526391",
+"r": "site_of"
 },
 {
 "a": "org:dyne-therapeutics",
@@ -7636,6 +7636,11 @@
 "r": "site_of"
 },
 {
+"a": "org:quest-research-institute-alcanza-hypercore",
+"b": "trial:nct05526391",
+"r": "site_of"
+},
+{
 "a": "org:radboudumc",
 "b": "trial:nct06300307",
 "r": "site_of"
@@ -8193,11 +8198,6 @@
 {
 "a": "org:washington-university-in-st-louis",
 "b": "trial:nct05481879",
-"r": "site_of"
-},
-{
-"a": "org:washington-university-school-of-medicine",
-"b": "trial:nct07429240",
 "r": "site_of"
 },
 {
