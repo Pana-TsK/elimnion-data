@@ -1,6 +1,6 @@
 {
 "assetId": "nct-nct05366751",
-"updated": "2026-10-22",
+"updated": "2026-10-23",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 24
@@ -63,6 +63,110 @@
 "c": ""
 },
 {
+"k": "trial:nct07673107",
+"t": "trial",
+"n": "Study of AGN-151607-DP to Assess Adverse Events and Change in Disease Activity in Adult Pa",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07673107",
+"c": ""
+},
+{
+"k": "org:abbvie",
+"t": "company",
+"n": "AbbVie",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:the-neurology-center-of-southern-california-carlsbad-id-2781",
+"t": "company",
+"n": "The Neurology Center of Southern California - Carlsbad /ID# 278194",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:neuro-pain-research-center-id-277899",
+"t": "company",
+"n": "Neuro Pain Research Center /ID# 277899",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:neurology-center-of-north-orange-county-id-278490",
+"t": "company",
+"n": "Neurology Center Of North Orange County /ID# 278490",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:new-england-institute-for-clinical-research-id-277315",
+"t": "hospital",
+"n": "New England Institute for Clinical Research /ID# 277315",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:parkinson-s-disease-movement-disorders-center-of-boca-raton",
+"t": "company",
+"n": "Parkinson'S Disease & Movement Disorders Center Of Boca Raton /ID# 277079",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:charter-research-winter-park-id-277875",
+"t": "company",
+"n": "Charter Research - Winter Park /ID# 277875",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:emerald-coast-neurology-id-277898",
+"t": "company",
+"n": "Emerald Coast Neurology /ID# 277898",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:kansas-institute-of-research-id-277068",
+"t": "academic",
+"n": "Kansas Institute of Research /ID# 277068",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:dent-neurologic-institute-amherst-id-277242",
+"t": "academic",
+"n": "Dent Neurologic Institute - Amherst /ID# 277242",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:true-north-neurology-id-278118",
+"t": "company",
+"n": "True North Neurology /ID# 278118",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:agn-151607-dp",
+"t": "drug",
+"n": "AGN-151607-DP",
+"sub": "AbbVie",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct06821906",
 "t": "trial",
 "n": "Stereotactic Radiosurgery in the Treatment of Essential Tremor",
@@ -117,54 +221,6 @@
 "sub": "",
 "url": "",
 "c": "United States"
-},
-{
-"k": "trial:nct07673107",
-"t": "trial",
-"n": "Study of AGN-151607-DP to Assess Adverse Events and Change in Disease Activity in Adult Pa",
-"sub": "P2 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07673107",
-"c": ""
-},
-{
-"k": "org:abbvie",
-"t": "company",
-"n": "AbbVie",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:neuro-pain-research-center-id-277899",
-"t": "company",
-"n": "Neuro Pain Research Center /ID# 277899",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:parkinson-s-disease-movement-disorders-center-of-boca-raton",
-"t": "company",
-"n": "Parkinson'S Disease & Movement Disorders Center Of Boca Raton /ID# 277079",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:charter-research-winter-park-id-277875",
-"t": "company",
-"n": "Charter Research - Winter Park /ID# 277875",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:agn-151607-dp",
-"t": "drug",
-"n": "AGN-151607-DP",
-"sub": "AbbVie",
-"url": "",
-"c": ""
 },
 {
 "k": "trial:nct04766723",
@@ -1436,6 +1492,16 @@
 "r": "site_of"
 },
 {
+"a": "org:dent-neurologic-institute-amherst-id-277242",
+"b": "trial:nct07673107",
+"r": "site_of"
+},
+{
+"a": "org:emerald-coast-neurology-id-277898",
+"b": "trial:nct07673107",
+"r": "site_of"
+},
+{
 "a": "org:es-therapeutics-australia",
 "b": "drug:es-481",
 "r": "develops"
@@ -1526,6 +1592,11 @@
 "r": "sponsors"
 },
 {
+"a": "org:kansas-institute-of-research-id-277068",
+"b": "trial:nct07673107",
+"r": "site_of"
+},
+{
 "a": "org:keck-school-of-medicine-usc-healthcare-consultation-center-2",
 "b": "trial:nct05122650",
 "r": "site_of"
@@ -1591,8 +1662,18 @@
 "r": "site_of"
 },
 {
+"a": "org:neurology-center-of-north-orange-county-id-278490",
+"b": "trial:nct07673107",
+"r": "site_of"
+},
+{
 "a": "org:new-england-institute-for-clinical-research-id-238404",
 "b": "trial:nct05216250",
+"r": "site_of"
+},
+{
+"a": "org:new-england-institute-for-clinical-research-id-277315",
+"b": "trial:nct07673107",
 "r": "site_of"
 },
 {
@@ -1731,6 +1812,11 @@
 "r": "site_of"
 },
 {
+"a": "org:the-neurology-center-of-southern-california-carlsbad-id-2781",
+"b": "trial:nct07673107",
+"r": "site_of"
+},
+{
 "a": "org:the-parkinson-s-and-movement-disorder-institute",
 "b": "trial:nct05122650",
 "r": "site_of"
@@ -1758,6 +1844,11 @@
 {
 "a": "org:toronto-western-hospital-university-health-network",
 "b": "trial:nct04748640",
+"r": "site_of"
+},
+{
+"a": "org:true-north-neurology-id-278118",
+"b": "trial:nct07673107",
 "r": "site_of"
 },
 {
