@@ -1,6 +1,6 @@
 {
 "assetId": "nct-nct06210945",
-"updated": "2026-10-23",
+"updated": "2026-10-24",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 45
@@ -15,11 +15,11 @@
 "c": ""
 },
 {
-"k": "trial:nct06025851",
+"k": "trial:nct06210945",
 "t": "trial",
-"n": "Intravenous Doses of CM-101 as a Treatment for Medical Conditions Involving Inflammatory a",
-"sub": "P1 · completed · 2017-2018",
-"url": "https://clinicaltrials.gov/study/NCT06025851",
+"n": "Study to Evaluate the Safety, Tolerability, and Activity of CM-101 in Patients With System",
+"sub": "P2 · suspended · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT06210945",
 "c": ""
 },
 {
@@ -28,6 +28,30 @@
 "n": "ChemomAb Ltd.",
 "sub": "",
 "url": "",
+"c": ""
+},
+{
+"k": "person:matthew-frankel",
+"t": "person",
+"n": "Matthew Frankel",
+"sub": "study director · ChemomAb Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "org:columbia-university-irving-medical-center",
+"t": "hospital",
+"n": "Columbia University Irving Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct06025851",
+"t": "trial",
+"n": "Intravenous Doses of CM-101 as a Treatment for Medical Conditions Involving Inflammatory a",
+"sub": "P1 · completed · 2017-2018",
+"url": "https://clinicaltrials.gov/study/NCT06025851",
 "c": ""
 },
 {
@@ -71,14 +95,6 @@
 "c": ""
 },
 {
-"k": "person:matthew-frankel",
-"t": "person",
-"n": "Matthew Frankel",
-"sub": "study director · ChemomAb Ltd.",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct06044467",
 "t": "trial",
 "n": "The Study of Multiple Doses of CM-101 in Male and Female NAFLD (Nonalcoholic Fatty Liver D",
@@ -109,22 +125,6 @@
 "sub": "",
 "url": "",
 "c": "Israel"
-},
-{
-"k": "trial:nct06210945",
-"t": "trial",
-"n": "Study to Evaluate the Safety, Tolerability, and Activity of CM-101 in Patients With System",
-"sub": "P2 · suspended · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT06210945",
-"c": ""
-},
-{
-"k": "org:columbia-university-irving-medical-center",
-"t": "hospital",
-"n": "Columbia University Irving Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "trial:nct07778446",
@@ -179,54 +179,6 @@
 "t": "drug",
 "n": "CRT-402",
 "sub": "Myeloid Therapeutics",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07734012",
-"t": "trial",
-"n": "Mycophenolate After Stem Cell Transplant for Systemic Sclerosis",
-"sub": "P2 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07734012",
-"c": ""
-},
-{
-"k": "org:ottawa-hospital-research-institute",
-"t": "hospital",
-"n": "Ottawa Hospital Research Institute",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:the-ottawa-hospital-academic-medical-organization-tohamo-inn",
-"t": "hospital",
-"n": "The Ottawa Hospital Academic Medical Organization (TOHAMO) Innovation Fund Grant.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:the-ottawa-hospital",
-"t": "hospital",
-"n": "The Ottawa Hospital",
-"sub": "",
-"url": "",
-"c": "Canada"
-},
-{
-"k": "person:nancy-maltez",
-"t": "person",
-"n": "Nancy Maltez",
-"sub": "principal investigator · The Ottawa Hospital",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:mycophenolate-mofetil",
-"t": "drug",
-"n": "Mycophenolate Mofetil",
-"sub": "Ottawa Hospital Research Institute",
 "url": "",
 "c": ""
 },
@@ -335,98 +287,50 @@
 "c": ""
 },
 {
-"k": "trial:nct06328777",
+"k": "trial:nct07734012",
 "t": "trial",
-"n": "RESET-SSc: An Open-Label Study to Evaluate the Safety and Efficacy of CABA-201, a CD19-CAR",
-"sub": "P2/P3 · recruiting · 2024-2029",
-"url": "https://clinicaltrials.gov/study/NCT06328777",
+"n": "Mycophenolate After Stem Cell Transplant for Systemic Sclerosis",
+"sub": "P2 · not_yet_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07734012",
 "c": ""
 },
 {
-"k": "org:cabaletta-bio",
-"t": "company",
-"n": "Cabaletta Bio",
+"k": "org:ottawa-hospital-research-institute",
+"t": "hospital",
+"n": "Ottawa Hospital Research Institute",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:yale-university",
-"t": "academic",
-"n": "Yale University",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:mayo-clinic-florida",
+"k": "org:the-ottawa-hospital-academic-medical-organization-tohamo-inn",
 "t": "hospital",
-"n": "Mayo Clinic Florida",
+"n": "The Ottawa Hospital Academic Medical Organization (TOHAMO) Innovation Fund Grant.",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": ""
 },
 {
-"k": "org:northwestern-memorial-hospital",
+"k": "org:the-ottawa-hospital",
 "t": "hospital",
-"n": "Northwestern Memorial Hospital",
+"n": "The Ottawa Hospital",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": "Canada"
 },
 {
-"k": "org:the-university-of-chicago-medical-center",
-"t": "hospital",
-"n": "The University of Chicago Medical Center",
-"sub": "",
+"k": "person:nancy-maltez",
+"t": "person",
+"n": "Nancy Maltez",
+"sub": "principal investigator · The Ottawa Hospital",
 "url": "",
-"c": "United States"
+"c": ""
 },
 {
-"k": "org:university-of-kansas-medical-center",
-"t": "hospital",
-"n": "University of Kansas Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-michigan",
-"t": "academic",
-"n": "University of Michigan",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:mayo-clinic-rochester",
-"t": "hospital",
-"n": "Mayo Clinic Rochester",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-rochester",
-"t": "academic",
-"n": "University of Rochester",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:duke-university",
-"t": "academic",
-"n": "Duke University",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:caba-201",
+"k": "drug:mycophenolate-mofetil",
 "t": "drug",
-"n": "CABA-201",
-"sub": "Cabaletta Bio",
+"n": "Mycophenolate Mofetil",
+"sub": "Ottawa Hospital Research Institute",
 "url": "",
 "c": ""
 },
@@ -543,6 +447,102 @@
 "c": ""
 },
 {
+"k": "trial:nct06328777",
+"t": "trial",
+"n": "RESET-SSc: An Open-Label Study to Evaluate the Safety and Efficacy of CABA-201, a CD19-CAR",
+"sub": "P2/P3 · recruiting · 2024-2029",
+"url": "https://clinicaltrials.gov/study/NCT06328777",
+"c": ""
+},
+{
+"k": "org:cabaletta-bio",
+"t": "company",
+"n": "Cabaletta Bio",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:yale-university",
+"t": "academic",
+"n": "Yale University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:mayo-clinic-florida",
+"t": "hospital",
+"n": "Mayo Clinic Florida",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:northwestern-memorial-hospital",
+"t": "hospital",
+"n": "Northwestern Memorial Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:the-university-of-chicago-medical-center",
+"t": "hospital",
+"n": "The University of Chicago Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-kansas-medical-center",
+"t": "hospital",
+"n": "University of Kansas Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-michigan",
+"t": "academic",
+"n": "University of Michigan",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:mayo-clinic-rochester",
+"t": "hospital",
+"n": "Mayo Clinic Rochester",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-rochester",
+"t": "academic",
+"n": "University of Rochester",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:duke-university",
+"t": "academic",
+"n": "Duke University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:caba-201",
+"t": "drug",
+"n": "CABA-201",
+"sub": "Cabaletta Bio",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct06655155",
 "t": "trial",
 "n": "A Study to Assess the Efficacy and Safety of Efgartigimod PH20 SC in Adults With Systemic ",
@@ -637,6 +637,134 @@
 "sub": "",
 "url": "",
 "c": "Argentina"
+},
+{
+"k": "trial:nct03844061",
+"t": "trial",
+"n": "Belimumab and Rituximab Combination Therapy for the Treatment of Diffuse Cutaneous Systemi",
+"sub": "P2 · active_not_recruiting · 2019-2027",
+"url": "https://clinicaltrials.gov/study/NCT03844061",
+"c": ""
+},
+{
+"k": "org:hospital-for-special-surgery-new-york",
+"t": "hospital",
+"n": "Hospital for Special Surgery, New York",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:glaxosmithkline",
+"t": "company",
+"n": "GlaxoSmithKline",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:robert-spiera",
+"t": "person",
+"n": "Robert Spiera",
+"sub": "principal investigator · Hospital for Special Surgery, New York",
+"url": "",
+"c": ""
+},
+{
+"k": "org:hospital-for-special-surgery",
+"t": "hospital",
+"n": "Hospital for Special Surgery",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:belimumab",
+"t": "drug",
+"n": "Belimumab",
+"sub": "Hospital for Special Surgery, New York",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:rituximab",
+"t": "drug",
+"n": "Rituximab",
+"sub": "Hospital for Special Surgery, New York",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:mmf",
+"t": "drug",
+"n": "MMF",
+"sub": "Hospital for Special Surgery, New York",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07493395",
+"t": "trial",
+"n": "Phase IIa Trial of Anti-CD19 CAR T-Cells in Systemic Sclerosis Resistant to Immunosuppress",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07493395",
+"c": ""
+},
+{
+"k": "org:university-hospital-montpellier",
+"t": "hospital",
+"n": "University Hospital, Montpellier",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:christian-jorgensen-puph",
+"t": "person",
+"n": "Christian Jorgensen, PUPH",
+"sub": "principal investigator · University Hospital, Montpellier",
+"url": "",
+"c": ""
+},
+{
+"k": "org:chru-lille",
+"t": "company",
+"n": "CHRU Lille",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:montpellier-university-hospital",
+"t": "hospital",
+"n": "Montpellier University Hospital",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:aphp-necker",
+"t": "company",
+"n": "APHP Necker",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chu-rouen",
+"t": "hospital",
+"n": "Chu Rouen",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "drug:cd19-car-t-arm",
+"t": "drug",
+"n": "CD19 CAR T Arm",
+"sub": "University Hospital, Montpellier",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct07497087",
@@ -739,134 +867,6 @@
 "t": "drug",
 "n": "Nerandomilast formulation 2",
 "sub": "Boehringer Ingelheim",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07493395",
-"t": "trial",
-"n": "Phase IIa Trial of Anti-CD19 CAR T-Cells in Systemic Sclerosis Resistant to Immunosuppress",
-"sub": "P2 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07493395",
-"c": ""
-},
-{
-"k": "org:university-hospital-montpellier",
-"t": "hospital",
-"n": "University Hospital, Montpellier",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:christian-jorgensen-puph",
-"t": "person",
-"n": "Christian Jorgensen, PUPH",
-"sub": "principal investigator · University Hospital, Montpellier",
-"url": "",
-"c": ""
-},
-{
-"k": "org:chru-lille",
-"t": "company",
-"n": "CHRU Lille",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:montpellier-university-hospital",
-"t": "hospital",
-"n": "Montpellier University Hospital",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:aphp-necker",
-"t": "company",
-"n": "APHP Necker",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-rouen",
-"t": "hospital",
-"n": "Chu Rouen",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "drug:cd19-car-t-arm",
-"t": "drug",
-"n": "CD19 CAR T Arm",
-"sub": "University Hospital, Montpellier",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct03844061",
-"t": "trial",
-"n": "Belimumab and Rituximab Combination Therapy for the Treatment of Diffuse Cutaneous Systemi",
-"sub": "P2 · active_not_recruiting · 2019-2027",
-"url": "https://clinicaltrials.gov/study/NCT03844061",
-"c": ""
-},
-{
-"k": "org:hospital-for-special-surgery-new-york",
-"t": "hospital",
-"n": "Hospital for Special Surgery, New York",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:glaxosmithkline",
-"t": "company",
-"n": "GlaxoSmithKline",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:robert-spiera",
-"t": "person",
-"n": "Robert Spiera",
-"sub": "principal investigator · Hospital for Special Surgery, New York",
-"url": "",
-"c": ""
-},
-{
-"k": "org:hospital-for-special-surgery",
-"t": "hospital",
-"n": "Hospital for Special Surgery",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:belimumab",
-"t": "drug",
-"n": "Belimumab",
-"sub": "Hospital for Special Surgery, New York",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:rituximab",
-"t": "drug",
-"n": "Rituximab",
-"sub": "Hospital for Special Surgery, New York",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:mmf",
-"t": "drug",
-"n": "MMF",
-"sub": "Hospital for Special Surgery, New York",
 "url": "",
 "c": ""
 },
@@ -1263,62 +1263,6 @@
 "c": ""
 },
 {
-"k": "trial:nct04986605",
-"t": "trial",
-"n": "Extracorporeal Photopheresis in Early Diffuse Cutaneous Systemic Sclerosis",
-"sub": "P2 · recruiting · 2025-2029",
-"url": "https://clinicaltrials.gov/study/NCT04986605",
-"c": ""
-},
-{
-"k": "org:london-health-sciences-centre-research-institute-or-lawson-r",
-"t": "hospital",
-"n": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Josep",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:mallinckrodt",
-"t": "company",
-"n": "Mallinckrodt",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:university-of-western-ontario-division-of-rheumatology-st-jo",
-"t": "hospital",
-"n": "University of Western Ontario, Division of Rheumatology, St. Joseph's Health Care, London,",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:janet-e-pope",
-"t": "person",
-"n": "Janet E Pope",
-"sub": "principal investigator · University of Western Ontario, Division of Rheumatology, St. Jose",
-"url": "",
-"c": ""
-},
-{
-"k": "org:rheumatology-clinic-st-joseph-s-health-care",
-"t": "hospital",
-"n": "Rheumatology Clinic, St. Joseph's Health Care",
-"sub": "",
-"url": "",
-"c": "Canada"
-},
-{
-"k": "drug:uvadex",
-"t": "drug",
-"n": "UVADEX",
-"sub": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Josep",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct06954597",
 "t": "trial",
 "n": "Safety and Tolerability of TOP-N53 Applied on Digital Ulcers in Patients With Systemic Scl",
@@ -1439,11 +1383,59 @@
 "c": ""
 },
 {
-"k": "trial:nct05925803",
+"k": "trial:nct04986605",
 "t": "trial",
-"n": "Determine Effectiveness of Anifrolumab In SYstemic Sclerosis (DAISY)",
-"sub": "P3 · active_not_recruiting · 2023-2028",
-"url": "https://clinicaltrials.gov/study/NCT05925803",
+"n": "Extracorporeal Photopheresis in Early Diffuse Cutaneous Systemic Sclerosis",
+"sub": "P2 · recruiting · 2025-2029",
+"url": "https://clinicaltrials.gov/study/NCT04986605",
+"c": ""
+},
+{
+"k": "org:london-health-sciences-centre-research-institute-or-lawson-r",
+"t": "hospital",
+"n": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Josep",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:mallinckrodt",
+"t": "company",
+"n": "Mallinckrodt",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-western-ontario-division-of-rheumatology-st-jo",
+"t": "hospital",
+"n": "University of Western Ontario, Division of Rheumatology, St. Joseph's Health Care, London,",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:janet-e-pope",
+"t": "person",
+"n": "Janet E Pope",
+"sub": "principal investigator · University of Western Ontario, Division of Rheumatology, St. Jose",
+"url": "",
+"c": ""
+},
+{
+"k": "org:rheumatology-clinic-st-joseph-s-health-care",
+"t": "hospital",
+"n": "Rheumatology Clinic, St. Joseph's Health Care",
+"sub": "",
+"url": "",
+"c": "Canada"
+},
+{
+"k": "drug:uvadex",
+"t": "drug",
+"n": "UVADEX",
+"sub": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Josep",
+"url": "",
 "c": ""
 },
 {
@@ -1468,6 +1460,14 @@
 "n": "Brentuximab vedotin",
 "sub": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Josep",
 "url": "",
+"c": ""
+},
+{
+"k": "trial:nct05925803",
+"t": "trial",
+"n": "Determine Effectiveness of Anifrolumab In SYstemic Sclerosis (DAISY)",
+"sub": "P3 · active_not_recruiting · 2023-2028",
+"url": "https://clinicaltrials.gov/study/NCT05925803",
 "c": ""
 },
 {
@@ -1719,6 +1719,30 @@
 "c": ""
 },
 {
+"k": "trial:nct07827742",
+"t": "trial",
+"n": "Rituximab vs Placebo for Maintenance in Systemic Sclerosis - Interstitial Lung Disease",
+"sub": "P2 · not_yet_recruiting · 2026-2031",
+"url": "https://clinicaltrials.gov/study/NCT07827742",
+"c": ""
+},
+{
+"k": "org:ap-hp-hopital-cochin-27-rue-du-faubourg-saint-jacques-75014",
+"t": "hospital",
+"n": "AP-HP - Hôpital Cochin 27 Rue du Faubourg Saint Jacques 75014 France",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:cochin-hospital",
+"t": "hospital",
+"n": "Cochin Hospital",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
 "k": "trial:nct07335562",
 "t": "trial",
 "n": "A Study to Compare the Efficacy and Safety of BMS-986353 (Zolacabtagene- Autoleucel / Zola",
@@ -1805,30 +1829,6 @@
 "sub": "Juno Therapeutics, Inc., a Bristol-Myers Squibb Company",
 "url": "",
 "c": ""
-},
-{
-"k": "trial:nct07827742",
-"t": "trial",
-"n": "Rituximab vs Placebo for Maintenance in Systemic Sclerosis - Interstitial Lung Disease",
-"sub": "P2 · not_yet_recruiting · 2026-2031",
-"url": "https://clinicaltrials.gov/study/NCT07827742",
-"c": ""
-},
-{
-"k": "org:ap-hp-hopital-cochin-27-rue-du-faubourg-saint-jacques-75014",
-"t": "hospital",
-"n": "AP-HP - Hôpital Cochin 27 Rue du Faubourg Saint Jacques 75014 France",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:cochin-hospital",
-"t": "hospital",
-"n": "Cochin Hospital",
-"sub": "",
-"url": "",
-"c": "France"
 },
 {
 "k": "trial:nct07821398",
@@ -2007,38 +2007,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07800871",
-"t": "trial",
-"n": "FT839 in Autoimmune Diseases",
-"sub": "P1/P2 · recruiting · 2026-2040",
-"url": "https://clinicaltrials.gov/study/NCT07800871",
-"c": ""
-},
-{
-"k": "org:fate-therapeutics",
-"t": "company",
-"n": "Fate Therapeutics",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:providence-medical-foundation",
-"t": "foundation",
-"n": "Providence Medical Foundation",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:ft839",
-"t": "drug",
-"n": "FT839",
-"sub": "Fate Therapeutics",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct06655896",
 "t": "trial",
 "n": "Phase 2 Study Evaluating Rapcabtagene Autoleucel in Participants With Diffuse Cutaneous Sy",
@@ -2123,6 +2091,38 @@
 "t": "drug",
 "n": "rapcabtagene autoleucel",
 "sub": "Novartis Pharmaceuticals",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07800871",
+"t": "trial",
+"n": "FT839 in Autoimmune Diseases",
+"sub": "P1/P2 · recruiting · 2026-2040",
+"url": "https://clinicaltrials.gov/study/NCT07800871",
+"c": ""
+},
+{
+"k": "org:fate-therapeutics",
+"t": "company",
+"n": "Fate Therapeutics",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:providence-medical-foundation",
+"t": "foundation",
+"n": "Providence Medical Foundation",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:ft839",
+"t": "drug",
+"n": "FT839",
+"sub": "Fate Therapeutics",
 "url": "",
 "c": ""
 },

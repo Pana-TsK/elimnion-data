@@ -1,6 +1,6 @@
 {
 "assetId": "ngn101",
-"updated": "2026-10-23",
+"updated": "2026-10-24",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 7,
@@ -1304,6 +1304,38 @@
 "c": "US"
 },
 {
+"k": "org:pew-charitable-trusts",
+"t": "funder",
+"n": "Pew Charitable Trusts",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:alexander-and-margaret-stewart-trust",
+"t": "funder",
+"n": "Alexander and Margaret Stewart Trust",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-wisconsin-madison",
+"t": "funder",
+"n": "University of Wisconsin-Madison",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institutes-of-health",
+"t": "funder",
+"n": "National Institutes of Health",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
 "k": "paper:doi-10-3410-f-742779366-793600859",
 "t": "paper",
 "n": "Faculty Opinions recommendation of The Batten disease gene product CLN5 is the lysosomal b",
@@ -1379,14 +1411,6 @@
 "k": "org:baylor-college-of-medicine",
 "t": "academic",
 "n": "Baylor College of Medicine",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:national-institutes-of-health",
-"t": "funder",
-"n": "National Institutes of Health",
 "sub": "",
 "url": "",
 "c": "US"
@@ -1800,6 +1824,38 @@
 "c": "DE"
 },
 {
+"k": "paper:pmid-35287553",
+"t": "paper",
+"n": "Recombinant pro-CTSD (cathepsin D) enhances SNCA/α-Synuclein degradation in α-Synucleinopa",
+"sub": "Autophagy 2022 · cited 88",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35287553",
+"c": ""
+},
+{
+"k": "person:susy-prieto-huarcaya",
+"t": "person",
+"n": "Susy Prieto Huarcaya",
+"sub": "Christian-Albrechts-Universität zu Kiel",
+"url": "https://orcid.org/0000-0001-6130-7573",
+"c": "DE"
+},
+{
+"k": "org:christian-albrechts-universitat-zu-kiel",
+"t": "academic",
+"n": "Christian-Albrechts-Universität zu Kiel",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:national-institute-of-neurological-disorders-and-stroke",
+"t": "funder",
+"n": "National Institute of Neurological Disorders and Stroke",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
 "k": "paper:pmid-35359645",
 "t": "paper",
 "n": "Neuronal Ceroid Lipofuscinosis: The Multifaceted Approach to the Clinical Issues, an Overv",
@@ -1854,38 +1910,6 @@
 "sub": "",
 "url": "",
 "c": ""
-},
-{
-"k": "paper:pmid-35287553",
-"t": "paper",
-"n": "Recombinant pro-CTSD (cathepsin D) enhances SNCA/α-Synuclein degradation in α-Synucleinopa",
-"sub": "Autophagy 2022 · cited 87",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35287553",
-"c": ""
-},
-{
-"k": "person:susy-prieto-huarcaya",
-"t": "person",
-"n": "Susy Prieto Huarcaya",
-"sub": "Christian-Albrechts-Universität zu Kiel",
-"url": "https://orcid.org/0000-0001-6130-7573",
-"c": "DE"
-},
-{
-"k": "org:christian-albrechts-universitat-zu-kiel",
-"t": "academic",
-"n": "Christian-Albrechts-Universität zu Kiel",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "org:national-institute-of-neurological-disorders-and-stroke",
-"t": "funder",
-"n": "National Institute of Neurological Disorders and Stroke",
-"sub": "",
-"url": "",
-"c": "US"
 },
 {
 "k": "paper:pmid-34198733",
@@ -3249,6 +3273,11 @@
 "r": "funded"
 },
 {
+"a": "org:alexander-and-margaret-stewart-trust",
+"b": "paper:doi-10-64898-2026-10-07-757477",
+"r": "funded"
+},
+{
 "a": "org:alzheimer-s-drug-discovery-foundation",
 "b": "paper:pmid-33028409",
 "r": "funded"
@@ -3775,6 +3804,11 @@
 },
 {
 "a": "org:national-institutes-of-health",
+"b": "paper:doi-10-64898-2026-10-07-757477",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
 "b": "paper:pmid-32592935",
 "r": "funded"
 },
@@ -3866,6 +3900,11 @@
 {
 "a": "org:parkinson-s-uk",
 "b": "paper:pmid-37974165",
+"r": "funded"
+},
+{
+"a": "org:pew-charitable-trusts",
+"b": "paper:doi-10-64898-2026-10-07-757477",
 "r": "funded"
 },
 {
@@ -4037,6 +4076,11 @@
 "a": "org:university-of-rochester",
 "b": "trial:nct05228145",
 "r": "site_of"
+},
+{
+"a": "org:university-of-wisconsin-madison",
+"b": "paper:doi-10-64898-2026-10-07-757477",
+"r": "funded"
 },
 {
 "a": "org:wellcome-trust",

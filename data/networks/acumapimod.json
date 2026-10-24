@@ -1,6 +1,6 @@
 {
 "assetId": "acumapimod",
-"updated": "2026-10-23",
+"updated": "2026-10-24",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 20,
@@ -62,6 +62,110 @@
 "sub": "",
 "url": "",
 "c": "United Kingdom"
+},
+{
+"k": "trial:nct04163536",
+"t": "trial",
+"n": "Comparison of Corticosteroids vs Placebo on Duration of Ventilatory Support During Severe ",
+"sub": "P3 · completed · 2021-2025",
+"url": "https://clinicaltrials.gov/study/NCT04163536",
+"c": ""
+},
+{
+"k": "org:versailles-hospital",
+"t": "hospital",
+"n": "Versailles Hospital",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:chu-de-bicetre",
+"t": "hospital",
+"n": "CHU de Bicêtre",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:andre-mignot-hospital-intensive-care-unit",
+"t": "hospital",
+"n": "André Mignot Hospital, Intensive care unit",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chu-angers",
+"t": "hospital",
+"n": "CHU Angers",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:ch-argenteuil",
+"t": "company",
+"n": "CH Argenteuil",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:ch-metropole-savoie",
+"t": "company",
+"n": "CH métropole savoie",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chu-louis-mourier",
+"t": "hospital",
+"n": "CHU Louis Mourier",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chu-dijon",
+"t": "hospital",
+"n": "CHU Dijon",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chu-grenoble",
+"t": "hospital",
+"n": "CHU Grenoble",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chd-vendee",
+"t": "company",
+"n": "CHD Vendée",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:ch-le-mans",
+"t": "company",
+"n": "CH Le Mans",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "drug:methylprednisolone",
+"t": "drug",
+"n": "Methylprednisolone",
+"sub": "Versailles Hospital",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct06940154",
@@ -596,110 +700,6 @@
 "t": "drug",
 "n": "N-acetylcysteine",
 "sub": "Queen Mary Hospital, Hong Kong",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct04163536",
-"t": "trial",
-"n": "Comparison of Corticosteroids vs Placebo on Duration of Ventilatory Support During Severe ",
-"sub": "P3 · unknown · 2021-2026",
-"url": "https://clinicaltrials.gov/study/NCT04163536",
-"c": ""
-},
-{
-"k": "org:versailles-hospital",
-"t": "hospital",
-"n": "Versailles Hospital",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:andre-mignot-hospital-intensive-care-unit",
-"t": "hospital",
-"n": "André Mignot Hospital, Intensive care unit",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-angers",
-"t": "hospital",
-"n": "CHU Angers",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:ch-metropole-savoie",
-"t": "company",
-"n": "CH métropole savoie",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-louis-mourier",
-"t": "hospital",
-"n": "CHU Louis Mourier",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-henri-mondor",
-"t": "hospital",
-"n": "CHU Henri mondor",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-dijon",
-"t": "hospital",
-"n": "CHU Dijon",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-grenoble",
-"t": "hospital",
-"n": "CHU Grenoble",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chd-vendee",
-"t": "company",
-"n": "CHD Vendée",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-de-bicetre",
-"t": "hospital",
-"n": "CHU de Bicêtre",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:ch-le-mans",
-"t": "company",
-"n": "CH Le Mans",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "drug:methylprednisolone",
-"t": "drug",
-"n": "Methylprednisolone",
-"sub": "Versailles Hospital",
 "url": "",
 "c": ""
 },
@@ -3113,6 +3113,11 @@
 "r": "funded"
 },
 {
+"a": "org:ch-argenteuil",
+"b": "trial:nct04163536",
+"r": "site_of"
+},
+{
 "a": "org:ch-le-mans",
 "b": "trial:nct04163536",
 "r": "site_of"
@@ -3144,11 +3149,6 @@
 },
 {
 "a": "org:chu-grenoble",
-"b": "trial:nct04163536",
-"r": "site_of"
-},
-{
-"a": "org:chu-henri-mondor",
 "b": "trial:nct04163536",
 "r": "site_of"
 },

@@ -1,9 +1,9 @@
 {
 "assetId": "nct-nct05502367",
-"updated": "2026-10-23",
+"updated": "2026-10-24",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
-"trials": 32
+"trials": 33
 },
 "nodes": [
 {
@@ -85,6 +85,30 @@
 "sub": "",
 "url": "",
 "c": "South Africa"
+},
+{
+"k": "trial:nct07891338",
+"t": "trial",
+"n": "Exploratory Study of the Efficacy of HAL-PDT in CIN 3",
+"sub": "P2 · not_yet_recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07891338",
+"c": ""
+},
+{
+"k": "org:tongji-hospital",
+"t": "hospital",
+"n": "Tongji Hospital",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:tongji-hospital-huazhong-university-of-science-and-technolog",
+"t": "hospital",
+"n": "Tongji Hospital, Huazhong University of Science and Technology",
+"sub": "",
+"url": "",
+"c": "China"
 },
 {
 "k": "trial:nct04712851",
@@ -399,6 +423,46 @@
 "c": ""
 },
 {
+"k": "trial:nct06519994",
+"t": "trial",
+"n": "Feasibility of Intravaginal Artesunate as Adjuvant HPV & Cervical Precancer Treatment in K",
+"sub": "P2 · completed · 2025-2026",
+"url": "https://clinicaltrials.gov/study/NCT06519994",
+"c": ""
+},
+{
+"k": "org:kenya-medical-research-institute",
+"t": "academic",
+"n": "Kenya Medical Research Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:maseno-university-school-of-medicine-kenya",
+"t": "academic",
+"n": "Maseno University School of Medicine, Kenya",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:lumumba-sub-county-hospital-kemri-research-care-training-pro",
+"t": "hospital",
+"n": "Lumumba Sub-County Hospital KEMRI- Research Care Training Program (RCTP) Building",
+"sub": "",
+"url": "",
+"c": "Kenya"
+},
+{
+"k": "drug:artesunate-vaginal-inserts",
+"t": "drug",
+"n": "Artesunate vaginal inserts",
+"sub": "UNC Lineberger Comprehensive Cancer Center",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07572396",
 "t": "trial",
 "n": "Phase II Study of Dysplasix™ Intravaginal Suppositories in Patients Patients With High-Ris",
@@ -451,46 +515,6 @@
 "t": "drug",
 "n": "EGCG and Quinine Sulfate Vaginal Suppository",
 "sub": "Amplexd Therapeutics, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06519994",
-"t": "trial",
-"n": "Feasibility of Intravaginal Artesunate as Adjuvant HPV & Cervical Precancer Treatment in K",
-"sub": "P2 · completed · 2025-2026",
-"url": "https://clinicaltrials.gov/study/NCT06519994",
-"c": ""
-},
-{
-"k": "org:kenya-medical-research-institute",
-"t": "academic",
-"n": "Kenya Medical Research Institute",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:maseno-university-school-of-medicine-kenya",
-"t": "academic",
-"n": "Maseno University School of Medicine, Kenya",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:lumumba-sub-county-hospital-kemri-research-care-training-pro",
-"t": "hospital",
-"n": "Lumumba Sub-County Hospital KEMRI- Research Care Training Program (RCTP) Building",
-"sub": "",
-"url": "",
-"c": "Kenya"
-},
-{
-"k": "drug:artesunate-vaginal-inserts",
-"t": "drug",
-"n": "Artesunate vaginal inserts",
-"sub": "UNC Lineberger Comprehensive Cancer Center",
 "url": "",
 "c": ""
 },
@@ -3038,6 +3062,16 @@
 {
 "a": "org:the-second-affiliated-hospital-of-chongqing-medical-universi",
 "b": "trial:nct07668960",
+"r": "site_of"
+},
+{
+"a": "org:tongji-hospital",
+"b": "trial:nct07891338",
+"r": "sponsors"
+},
+{
+"a": "org:tongji-hospital-huazhong-university-of-science-and-technolog",
+"b": "trial:nct07891338",
 "r": "site_of"
 },
 {

@@ -1,6 +1,6 @@
 {
 "assetId": "ves001",
-"updated": "2026-10-23",
+"updated": "2026-10-24",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 42,
@@ -16,6 +16,46 @@
 "c": ""
 },
 {
+"k": "trial:nct06226064",
+"t": "trial",
+"n": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of VE",
+"sub": "P1 · completed · 2023-2024",
+"url": "https://clinicaltrials.gov/study/NCT06226064",
+"c": ""
+},
+{
+"k": "org:vesper-biotechnologies-aps",
+"t": "company",
+"n": "Vesper Biotechnologies ApS",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:vesper-bio",
+"t": "company",
+"n": "Vesper Bio",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:mads-kjolby",
+"t": "person",
+"n": "Mads Kjolby",
+"sub": "principal investigator · Vesper Bio",
+"url": "",
+"c": ""
+},
+{
+"k": "org:center-for-human-drug-research",
+"t": "company",
+"n": "Center for Human Drug Research",
+"sub": "",
+"url": "",
+"c": "Netherlands"
+},
+{
 "k": "trial:nct06705192",
 "t": "trial",
 "n": "Study in Asymptomatic GRN-FTD Patients to Investigate the Safety, Tolerability, Pharmacoki",
@@ -27,14 +67,6 @@
 "k": "org:mads-kjolby",
 "t": "company",
 "n": "Mads Kjolby",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:vesper-bio",
-"t": "company",
-"n": "Vesper Bio",
 "sub": "",
 "url": "",
 "c": ""
@@ -64,43 +96,11 @@
 "c": "United Kingdom"
 },
 {
-"k": "trial:nct06226064",
+"k": "trial:nct07399704",
 "t": "trial",
-"n": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of VE",
-"sub": "P1 · completed · 2023-2024",
-"url": "https://clinicaltrials.gov/study/NCT06226064",
-"c": ""
-},
-{
-"k": "org:vesper-biotechnologies-aps",
-"t": "company",
-"n": "Vesper Biotechnologies ApS",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:mads-kjolby",
-"t": "person",
-"n": "Mads Kjolby",
-"sub": "principal investigator · Vesper Bio",
-"url": "",
-"c": ""
-},
-{
-"k": "org:center-for-human-drug-research",
-"t": "company",
-"n": "Center for Human Drug Research",
-"sub": "",
-"url": "",
-"c": "Netherlands"
-},
-{
-"k": "trial:nct07885917",
-"t": "trial",
-"n": "Long-Term Safety and Tolerability of Nizubaglustat in Participants With Rare Lysosomal Dis",
-"sub": "P2/P3 · not_yet_recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07885917",
+"n": "A Study to Evaluate the Safety and Efficacy of Nizubaglustat (AZ-3102) in Patients With GM",
+"sub": "P2 · active_not_recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07399704",
 "c": ""
 },
 {
@@ -109,22 +109,6 @@
 "n": "Azafaros B.V.",
 "sub": "",
 "url": "",
-"c": ""
-},
-{
-"k": "drug:az-3102",
-"t": "drug",
-"n": "AZ-3102",
-"sub": "Azafaros B.V.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07399704",
-"t": "trial",
-"n": "A Study to Evaluate the Safety and Efficacy of Nizubaglustat (AZ-3102) in Patients With GM",
-"sub": "P2 · active_not_recruiting · 2026-2027",
-"url": "https://clinicaltrials.gov/study/NCT07399704",
 "c": ""
 },
 {
@@ -150,6 +134,22 @@
 "sub": "",
 "url": "",
 "c": "Brazil"
+},
+{
+"k": "drug:az-3102",
+"t": "drug",
+"n": "AZ-3102",
+"sub": "Azafaros B.V.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07885917",
+"t": "trial",
+"n": "Long-Term Safety and Tolerability of Nizubaglustat in Participants With Rare Lysosomal Dis",
+"sub": "P2/P3 · not_yet_recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07885917",
+"c": ""
 },
 {
 "k": "trial:nct04046991",
@@ -1416,62 +1416,6 @@
 "c": ""
 },
 {
-"k": "trial:nct04576793",
-"t": "trial",
-"n": "Longitudinal Imaging of Microglial Activation in Different Clinical Variants of Alzheimer'",
-"sub": "P2 · recruiting · 2020-2027",
-"url": "https://clinicaltrials.gov/study/NCT04576793",
-"c": ""
-},
-{
-"k": "org:columbia-university",
-"t": "academic",
-"n": "Columbia University",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "person:patrick-j-lao",
-"t": "person",
-"n": "Patrick J. Lao",
-"sub": "principal investigator · Columbia University",
-"url": "",
-"c": ""
-},
-{
-"k": "org:columbia-university-irving-medical-center",
-"t": "hospital",
-"n": "Columbia University Irving Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:11c-er176",
-"t": "drug",
-"n": "11C-ER176",
-"sub": "Columbia University",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:18f-mk6240",
-"t": "drug",
-"n": "18F-MK6240",
-"sub": "Columbia University",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:18f-florbetaben",
-"t": "drug",
-"n": "18F-Florbetaben",
-"sub": "Columbia University",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07033481",
 "t": "trial",
 "n": "Clinical Study of Neflamapimod in Patients With Primary Progressive Aphasia",
@@ -1499,6 +1443,14 @@
 "k": "org:northwestern-memorial-hospital",
 "t": "hospital",
 "n": "Northwestern Memorial Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:columbia-university",
+"t": "academic",
+"n": "Columbia University",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -1540,6 +1492,54 @@
 "t": "drug",
 "n": "Neflamapimod",
 "sub": "EIP Pharma Inc",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04576793",
+"t": "trial",
+"n": "Longitudinal Imaging of Microglial Activation in Different Clinical Variants of Alzheimer'",
+"sub": "P2 · recruiting · 2020-2027",
+"url": "https://clinicaltrials.gov/study/NCT04576793",
+"c": ""
+},
+{
+"k": "person:patrick-j-lao",
+"t": "person",
+"n": "Patrick J. Lao",
+"sub": "principal investigator · Columbia University",
+"url": "",
+"c": ""
+},
+{
+"k": "org:columbia-university-irving-medical-center",
+"t": "hospital",
+"n": "Columbia University Irving Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:11c-er176",
+"t": "drug",
+"n": "11C-ER176",
+"sub": "Columbia University",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:18f-mk6240",
+"t": "drug",
+"n": "18F-MK6240",
+"sub": "Columbia University",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:18f-florbetaben",
+"t": "drug",
+"n": "18F-Florbetaben",
+"sub": "Columbia University",
 "url": "",
 "c": ""
 },
@@ -2659,7 +2659,7 @@
 "k": "paper:pmid-37735487",
 "t": "paper",
 "n": "Microglia in neurodegenerative diseases: mechanism and potential therapeutic targets",
-"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1594",
+"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1595",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37735487",
 "c": ""
 },
@@ -3347,7 +3347,7 @@
 "k": "paper:pmid-38609644",
 "t": "paper",
 "n": "Neurofilaments as biomarkers in neurological disorders — towards clinical application",
-"sub": "Nature Reviews Neurology 2024 · cited 453",
+"sub": "Nature Reviews Neurology 2024 · cited 454",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38609644",
 "c": ""
 },
@@ -4131,7 +4131,7 @@
 "k": "paper:pmid-33608912",
 "t": "paper",
 "n": "Microglial phagocytosis of neurons in neurodegeneration, and its regulation",
-"sub": "Journal of Neurochemistry 2021 · cited 297",
+"sub": "Journal of Neurochemistry 2021 · cited 298",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33608912",
 "c": ""
 },
@@ -4392,50 +4392,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-35075293",
-"t": "paper",
-"n": "Antisense oligonucleotide silencing of FUS expression as a therapeutic approach in amyotro",
-"sub": "Nature Medicine 2022 · cited 278",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35075293",
-"c": ""
-},
-{
-"k": "person:vlad-a-korben",
-"t": "person",
-"n": "Vlad A. Korben",
-"sub": "Columbia University Irving Medical Center",
-"url": "https://orcid.org/0000-0002-9127-292X",
-"c": "US"
-},
-{
-"k": "person:neil-a-shneider",
-"t": "person",
-"n": "Neil A. Shneider",
-"sub": "Columbia University Irving Medical Center",
-"url": "https://orcid.org/0000-0002-3223-7366",
-"c": "US"
-},
-{
-"k": "org:judith-and-jean-pape-adams-charitable-foundation",
-"t": "funder",
-"n": "Judith and Jean Pape Adams Charitable Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:tow-foundation",
-"t": "funder",
-"n": "Tow Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-32273329",
 "t": "paper",
 "n": "Serum neuronal exosomes predict and differentiate Parkinson’s disease from atypical parkin",
-"sub": "Journal of Neurology Neurosurgery & Psychiatry 2020 · cited 277",
+"sub": "Journal of Neurology Neurosurgery & Psychiatry 2020 · cited 278",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32273329",
 "c": ""
 },
@@ -4483,6 +4443,46 @@
 "k": "org:parkinson-s-uk",
 "t": "funder",
 "n": "Parkinson's UK",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-35075293",
+"t": "paper",
+"n": "Antisense oligonucleotide silencing of FUS expression as a therapeutic approach in amyotro",
+"sub": "Nature Medicine 2022 · cited 278",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35075293",
+"c": ""
+},
+{
+"k": "person:vlad-a-korben",
+"t": "person",
+"n": "Vlad A. Korben",
+"sub": "Columbia University Irving Medical Center",
+"url": "https://orcid.org/0000-0002-9127-292X",
+"c": "US"
+},
+{
+"k": "person:neil-a-shneider",
+"t": "person",
+"n": "Neil A. Shneider",
+"sub": "Columbia University Irving Medical Center",
+"url": "https://orcid.org/0000-0002-3223-7366",
+"c": "US"
+},
+{
+"k": "org:judith-and-jean-pape-adams-charitable-foundation",
+"t": "funder",
+"n": "Judith and Jean Pape Adams Charitable Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:tow-foundation",
+"t": "funder",
+"n": "Tow Foundation",
 "sub": "",
 "url": "",
 "c": ""
