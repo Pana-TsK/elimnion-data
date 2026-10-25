@@ -1,6 +1,6 @@
 {
 "assetId": "acumapimod",
-"updated": "2026-10-24",
+"updated": "2026-10-25",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 20,
@@ -2176,6 +2176,14 @@
 "c": "CA"
 },
 {
+"k": "org:centre-for-clinical-epidemiology-evaluation",
+"t": "academic",
+"n": "Centre for Clinical Epidemiology & Evaluation",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
 "k": "org:canadian-thoracic-society",
 "t": "funder",
 "n": "Canadian Thoracic Society",
@@ -2291,7 +2299,7 @@
 "k": "paper:pmid-31930287",
 "t": "paper",
 "n": "Management of chronic obstructive pulmonary disease: A review focusing on exacerbations",
-"sub": "American Journal of Health-System Pharmacy 2020 · cited 130",
+"sub": "American Journal of Health-System Pharmacy 2020 · cited 131",
 "url": "https://pubmed.ncbi.nlm.nih.gov/31930287",
 "c": ""
 },
@@ -2784,36 +2792,68 @@
 "c": "IT"
 },
 {
-"k": "paper:pmid-33153991",
+"k": "paper:pmid-38339210",
 "t": "paper",
-"n": "COVID-19 and COPD: a narrative review of the basic science and clinical outcomes",
-"sub": "European Respiratory Review 2020 · cited 104",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33153991",
+"n": "Mucus Structure, Viscoelastic Properties, and Composition in Chronic Respiratory Diseases",
+"sub": "International Journal of Molecular Sciences 2024 · cited 105",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38339210",
 "c": ""
 },
 {
-"k": "person:andrew-higham",
+"k": "person:michela-abrami",
 "t": "person",
-"n": "Andrew Higham",
-"sub": "Manchester Academic Health Science Centre",
-"url": "https://orcid.org/0000-0002-8094-3505",
-"c": "GB"
+"n": "Michela Abrami",
+"sub": "University of Trieste",
+"url": "https://orcid.org/0000-0002-9785-3741",
+"c": "IT"
 },
 {
-"k": "org:manchester-academic-health-science-centre",
-"t": "hospital",
-"n": "Manchester Academic Health Science Centre",
+"k": "org:university-of-trieste",
+"t": "academic",
+"n": "University of Trieste",
 "sub": "",
 "url": "",
-"c": "GB"
+"c": "IT"
 },
 {
-"k": "person:dave-singh",
+"k": "person:massimo-conese",
 "t": "person",
-"n": "Dave Singh",
-"sub": "Manchester Academic Health Science Centre",
-"url": "https://orcid.org/0000-0001-8918-7075",
-"c": "GB"
+"n": "Massimo Conese",
+"sub": "University of Foggia",
+"url": "https://orcid.org/0000-0003-3465-6641",
+"c": "IT"
+},
+{
+"k": "org:university-of-foggia",
+"t": "academic",
+"n": "University of Foggia",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:mario-grassi",
+"t": "person",
+"n": "Mario Grassi",
+"sub": "University of Trieste",
+"url": "https://orcid.org/0000-0002-3532-3200",
+"c": "IT"
+},
+{
+"k": "org:european-commission",
+"t": "funder",
+"n": "European Commission",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:nextgenerationeu",
+"t": "funder",
+"n": "NextGenerationEU",
+"sub": "",
+"url": "",
+"c": ""
 }
 ],
 "edges": [
@@ -3188,6 +3228,11 @@
 "r": "site_of"
 },
 {
+"a": "org:european-commission",
+"b": "paper:pmid-38339210",
+"r": "funded"
+},
+{
 "a": "org:fondazione-irccs-policlinico-san-matteo",
 "b": "trial:nct07125664",
 "r": "site_of"
@@ -3384,11 +3429,6 @@
 },
 {
 "a": "org:national-institute-for-health-and-care-research",
-"b": "paper:pmid-33153991",
-"r": "funded"
-},
-{
-"a": "org:national-institute-for-health-and-care-research",
 "b": "paper:pmid-33332995",
 "r": "funded"
 },
@@ -3485,6 +3525,11 @@
 {
 "a": "org:natural-science-foundation-of-jilin-province",
 "b": "paper:pmid-36608590",
+"r": "funded"
+},
+{
+"a": "org:nextgenerationeu",
+"b": "paper:pmid-38339210",
 "r": "funded"
 },
 {
@@ -3913,21 +3958,6 @@
 "r": "authored"
 },
 {
-"a": "person:andrew-higham",
-"b": "org:manchester-academic-health-science-centre",
-"r": "affiliated"
-},
-{
-"a": "person:andrew-higham",
-"b": "org:university-of-manchester",
-"r": "affiliated"
-},
-{
-"a": "person:andrew-higham",
-"b": "paper:pmid-33153991",
-"r": "authored"
-},
-{
 "a": "person:andrew-i-ritchie",
 "b": "org:imperial-college-london",
 "r": "affiliated"
@@ -4081,21 +4111,6 @@
 "a": "person:damien-viglino",
 "b": "trial:nct04427826",
 "r": "investigator"
-},
-{
-"a": "person:dave-singh",
-"b": "org:manchester-academic-health-science-centre",
-"r": "affiliated"
-},
-{
-"a": "person:dave-singh",
-"b": "org:university-of-manchester",
-"r": "affiliated"
-},
-{
-"a": "person:dave-singh",
-"b": "paper:pmid-33153991",
-"r": "authored"
 },
 {
 "a": "person:david-m-g-halpin",
@@ -4523,6 +4538,26 @@
 "r": "authored"
 },
 {
+"a": "person:mario-grassi",
+"b": "org:university-of-trieste",
+"r": "affiliated"
+},
+{
+"a": "person:mario-grassi",
+"b": "paper:pmid-38339210",
+"r": "authored"
+},
+{
+"a": "person:massimo-conese",
+"b": "org:university-of-foggia",
+"r": "affiliated"
+},
+{
+"a": "person:massimo-conese",
+"b": "paper:pmid-38339210",
+"r": "authored"
+},
+{
 "a": "person:matthew-sims",
 "b": "org:corewell-health-east",
 "r": "affiliated"
@@ -4541,6 +4576,21 @@
 "a": "person:mehmet-kesmer",
 "b": "paper:pmid-34058148",
 "r": "authored"
+},
+{
+"a": "person:michela-abrami",
+"b": "org:university-of-trieste",
+"r": "affiliated"
+},
+{
+"a": "person:michela-abrami",
+"b": "paper:pmid-38339210",
+"r": "authored"
+},
+{
+"a": "person:mohsen-sadatsafavi",
+"b": "org:centre-for-clinical-epidemiology-evaluation",
+"r": "affiliated"
 },
 {
 "a": "person:mohsen-sadatsafavi",

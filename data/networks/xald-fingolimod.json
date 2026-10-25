@@ -1,6 +1,6 @@
 {
 "assetId": "xald-fingolimod",
-"updated": "2026-10-24",
+"updated": "2026-10-25",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 172,
@@ -641,14 +641,6 @@
 "c": ""
 },
 {
-"k": "person:james-d-berry-mph",
-"t": "person",
-"n": "James D Berry, MPH",
-"sub": "principal investigator · Massachusetts General Hospital",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct03535298",
 "t": "trial",
 "n": "Determining the Effectiveness of earLy Intensive Versus Escalation Approaches for RRMS",
@@ -669,14 +661,6 @@
 "t": "academic",
 "n": "University of Nottingham",
 "sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:daniel-ontaneda",
-"t": "person",
-"n": "Daniel Ontaneda",
-"sub": "principal investigator · The Cleveland Clinic",
 "url": "",
 "c": ""
 },
@@ -2660,7 +2644,7 @@
 "k": "paper:pmid-27180033",
 "t": "paper",
 "n": "Neuroprotection in acute stroke: targeting excitotoxicity, oxidative and nitrosative stres",
-"sub": "The Lancet Neurology 2016 · cited 1192",
+"sub": "The Lancet Neurology 2016 · cited 1193",
 "url": "https://pubmed.ncbi.nlm.nih.gov/27180033",
 "c": ""
 },
@@ -2796,7 +2780,7 @@
 "k": "paper:pmid-30644981",
 "t": "paper",
 "n": "Association of Initial Disease-Modifying Therapy With Later Conversion to Secondary Progre",
-"sub": "JAMA 2019 · cited 547",
+"sub": "JAMA 2019 · cited 548",
 "url": "https://pubmed.ncbi.nlm.nih.gov/30644981",
 "c": ""
 },
@@ -3308,7 +3292,7 @@
 "k": "paper:pmid-29452218",
 "t": "paper",
 "n": "TNFα disrupts blood brain barrier integrity to maintain prolonged depressive-like behavior",
-"sub": "Brain Behavior and Immunity 2018 · cited 290",
+"sub": "Brain Behavior and Immunity 2018 · cited 291",
 "url": "https://pubmed.ncbi.nlm.nih.gov/29452218",
 "c": ""
 },
@@ -3473,6 +3457,22 @@
 "c": "IT"
 },
 {
+"k": "org:university-of-genoa",
+"t": "academic",
+"n": "University of Genoa",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:sormani-mp",
+"t": "person",
+"n": "Sormani Mp",
+"sub": "Ospedale Policlinico San Martino",
+"url": "",
+"c": "IT"
+},
+{
 "k": "person:maria-teresa-rilla",
 "t": "person",
 "n": "Maria Teresa Rilla",
@@ -3484,7 +3484,7 @@
 "k": "paper:pmid-29576505",
 "t": "paper",
 "n": "Siponimod versus placebo in secondary progressive multiple sclerosis (EXPAND): a double-bl",
-"sub": "The Lancet 2018 · cited 940",
+"sub": "The Lancet 2018 · cited 941",
 "url": "https://pubmed.ncbi.nlm.nih.gov/29576505",
 "c": ""
 },
@@ -4420,7 +4420,7 @@
 "k": "paper:pmid-35642569",
 "t": "paper",
 "n": "The human ATP‐binding cassette (ABC) transporter superfamily",
-"sub": "Human Mutation 2022 · cited 188",
+"sub": "Human Mutation 2022 · cited 189",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35642569",
 "c": ""
 },
@@ -4492,7 +4492,7 @@
 "k": "paper:pmid-39383458",
 "t": "paper",
 "n": "Hematologic Cancer after Gene Therapy for Cerebral Adrenoleukodystrophy",
-"sub": "New England Journal of Medicine 2024 · cited 145",
+"sub": "New England Journal of Medicine 2024 · cited 146",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39383458",
 "c": ""
 },
@@ -9636,16 +9636,6 @@
 "r": "authored"
 },
 {
-"a": "person:daniel-ontaneda",
-"b": "org:the-cleveland-clinic",
-"r": "affiliated"
-},
-{
-"a": "person:daniel-ontaneda",
-"b": "trial:nct03535298",
-"r": "investigator"
-},
-{
 "a": "person:daniela-salvemini",
 "b": "grant:nih-1r01ca261979-01a1",
 "r": "grant_pi"
@@ -10161,16 +10151,6 @@
 "r": "investigator"
 },
 {
-"a": "person:james-d-berry-mph",
-"b": "org:massachusetts-general-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:james-d-berry-mph",
-"b": "trial:nct01786174",
-"r": "investigator"
-},
-{
 "a": "person:james-william-l-brown",
 "b": "org:the-university-of-melbourne",
 "r": "affiliated"
@@ -10633,6 +10613,11 @@
 {
 "a": "person:maria-pia-sormani",
 "b": "org:ospedale-policlinico-san-martino",
+"r": "affiliated"
+},
+{
+"a": "person:maria-pia-sormani",
+"b": "org:university-of-genoa",
 "r": "affiliated"
 },
 {
@@ -11173,6 +11158,21 @@
 {
 "a": "person:shunji-tomatsu",
 "b": "paper:pmid-38473704",
+"r": "authored"
+},
+{
+"a": "person:sormani-mp",
+"b": "org:ospedale-policlinico-san-martino",
+"r": "affiliated"
+},
+{
+"a": "person:sormani-mp",
+"b": "org:university-of-genoa",
+"r": "affiliated"
+},
+{
+"a": "person:sormani-mp",
+"b": "paper:pmid-34563483",
 "r": "authored"
 },
 {
