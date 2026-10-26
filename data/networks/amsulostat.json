@@ -1,6 +1,6 @@
 {
 "assetId": "amsulostat",
-"updated": "2026-10-25",
+"updated": "2026-10-26",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 40,
@@ -4344,49 +4344,89 @@
 "c": ""
 },
 {
-"k": "paper:pmid-32726410",
+"k": "paper:pmid-39255645",
 "t": "paper",
-"n": "Increased CXCL4 expression in hematopoietic cells links inflammation and progression of bo",
-"sub": "Blood 2020 · cited 107",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32726410",
+"n": "Nitrogen-containing heterocyclic drug products approved by the FDA in 2023: Synthesis and ",
+"sub": "European Journal of Medicinal Chemistry 2024 · cited 108",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39255645",
 "c": ""
 },
 {
-"k": "person:helene-f-e-gleitz",
+"k": "person:weijiang-luo",
 "t": "person",
-"n": "Hélène F.E. Gleitz",
-"sub": "Erasmus MC",
-"url": "https://orcid.org/0000-0001-6138-8916",
-"c": "NL"
+"n": "Weijiang Luo",
+"sub": "University of South China",
+"url": "",
+"c": "CN"
 },
 {
-"k": "org:erasmus-mc-cancer-institute",
-"t": "hospital",
-"n": "Erasmus MC Cancer Institute",
+"k": "org:university-of-south-china",
+"t": "academic",
+"n": "University of South China",
 "sub": "",
 "url": "",
-"c": "NL"
+"c": "CN"
 },
 {
-"k": "org:bayer",
+"k": "person:weimin-he",
+"t": "person",
+"n": "Wei‐Min He",
+"sub": "University of South China",
+"url": "https://orcid.org/0000-0002-9481-6697",
+"c": "CN"
+},
+{
+"k": "person:shengsong-tang",
+"t": "person",
+"n": "Shengsong Tang",
+"sub": "Hunan University of Medicine",
+"url": "https://orcid.org/0000-0001-8922-0840",
+"c": "CN"
+},
+{
+"k": "org:hunan-university-of-medicine",
+"t": "academic",
+"n": "Hunan University of Medicine",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:junmei-peng",
+"t": "person",
+"n": "Junmei Peng",
+"sub": "University of South China",
+"url": "https://orcid.org/0000-0002-6887-9184",
+"c": "CN"
+},
+{
+"k": "org:health-commission-of-hunan-province",
 "t": "funder",
-"n": "Bayer",
+"n": "Health Commission of Hunan Province",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:european-commission",
+"k": "org:department-of-transportation-of-hunan-province",
 "t": "funder",
-"n": "European Commission",
+"n": "Department of Transportation of Hunan Province",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:deutsche-forschungsgemeinschaft",
+"k": "org:key-laboratory-of-key-technologies-of-digital-urban-rural-sp",
 "t": "funder",
-"n": "Deutsche Forschungsgemeinschaft",
+"n": "Key Laboratory of Key Technologies of Digital Urban-Rural Spatial Planning of Hunan Provin",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:natural-science-foundation-of-hunan-province",
+"t": "funder",
+"n": "Natural Science Foundation of Hunan Province",
 "sub": "",
 "url": "",
 "c": ""
@@ -5314,11 +5354,6 @@
 "r": "site_of"
 },
 {
-"a": "org:bayer",
-"b": "paper:pmid-32726410",
-"r": "funded"
-},
-{
 "a": "org:biomed-valley-discoveries",
 "b": "trial:nct06773195",
 "r": "collaborates"
@@ -5669,8 +5704,8 @@
 "r": "site_of"
 },
 {
-"a": "org:deutsche-forschungsgemeinschaft",
-"b": "paper:pmid-32726410",
+"a": "org:department-of-transportation-of-hunan-province",
+"b": "paper:pmid-39255645",
 "r": "funded"
 },
 {
@@ -5719,18 +5754,8 @@
 "r": "site_of"
 },
 {
-"a": "org:european-commission",
-"b": "paper:pmid-32726410",
-"r": "funded"
-},
-{
 "a": "org:european-hematology-association",
 "b": "paper:pmid-32386542",
-"r": "funded"
-},
-{
-"a": "org:european-hematology-association",
-"b": "paper:pmid-32726410",
 "r": "funded"
 },
 {
@@ -5922,6 +5947,11 @@
 "a": "org:guangzhou-first-municipal-people-s-hospital",
 "b": "trial:nct07551427",
 "r": "site_of"
+},
+{
+"a": "org:health-commission-of-hunan-province",
+"b": "paper:pmid-39255645",
+"r": "funded"
 },
 {
 "a": "org:health-research-board",
@@ -6211,6 +6241,11 @@
 {
 "a": "org:kennedy-trust-for-rheumatology-research",
 "b": "paper:pmid-36351055",
+"r": "funded"
+},
+{
+"a": "org:key-laboratory-of-key-technologies-of-digital-urban-rural-sp",
+"b": "paper:pmid-39255645",
 "r": "funded"
 },
 {
@@ -6657,6 +6692,11 @@
 "a": "org:national-taiwan-university-hospital-hematology-and-oncology",
 "b": "trial:nct04676529",
 "r": "site_of"
+},
+{
+"a": "org:natural-science-foundation-of-hunan-province",
+"b": "paper:pmid-39255645",
+"r": "funded"
 },
 {
 "a": "org:no-197-ruijin-second-road-shanghai",
@@ -7829,21 +7869,6 @@
 "r": "authored"
 },
 {
-"a": "person:helene-f-e-gleitz",
-"b": "org:erasmus-mc",
-"r": "affiliated"
-},
-{
-"a": "person:helene-f-e-gleitz",
-"b": "org:erasmus-mc-cancer-institute",
-"r": "affiliated"
-},
-{
-"a": "person:helene-f-e-gleitz",
-"b": "paper:pmid-32726410",
-"r": "authored"
-},
-{
 "a": "person:jana-baskar-mmedsc-mba",
 "b": "org:syntara",
 "r": "affiliated"
@@ -7946,6 +7971,16 @@
 {
 "a": "person:john-paul-graff",
 "b": "paper:pmid-32212392",
+"r": "authored"
+},
+{
+"a": "person:junmei-peng",
+"b": "org:university-of-south-china",
+"r": "affiliated"
+},
+{
+"a": "person:junmei-peng",
+"b": "paper:pmid-39255645",
 "r": "authored"
 },
 {
@@ -8215,18 +8250,8 @@
 },
 {
 "a": "person:rebekka-k-schneider",
-"b": "org:erasmus-mc-cancer-institute",
-"r": "affiliated"
-},
-{
-"a": "person:rebekka-k-schneider",
 "b": "org:rwth-aachen-university",
 "r": "affiliated"
-},
-{
-"a": "person:rebekka-k-schneider",
-"b": "paper:pmid-32726410",
-"r": "authored"
 },
 {
 "a": "person:rebekka-k-schneider",
@@ -8266,6 +8291,16 @@
 {
 "a": "person:ruben-a-mesa",
 "b": "paper:pmid-32129512",
+"r": "authored"
+},
+{
+"a": "person:shengsong-tang",
+"b": "org:hunan-university-of-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:shengsong-tang",
+"b": "paper:pmid-39255645",
 "r": "authored"
 },
 {
@@ -8402,6 +8437,26 @@
 "a": "person:vaibhav-agrawal",
 "b": "trial:nct06059391",
 "r": "investigator"
+},
+{
+"a": "person:weijiang-luo",
+"b": "org:university-of-south-china",
+"r": "affiliated"
+},
+{
+"a": "person:weijiang-luo",
+"b": "paper:pmid-39255645",
+"r": "authored"
+},
+{
+"a": "person:weimin-he",
+"b": "org:university-of-south-china",
+"r": "affiliated"
+},
+{
+"a": "person:weimin-he",
+"b": "paper:pmid-39255645",
+"r": "authored"
 },
 {
 "a": "person:will-savage",

@@ -1,11 +1,13 @@
 {
-"started": "2026-10-25T07:38:53.645630Z",
+"started": "2026-10-26T07:52:29.147347Z",
 "calls": {
 "clinicaltrials.gov": 131,
-"api.openalex.org": 443,
+"api.openalex.org": 440,
 "api.reporter.nih.gov": 55
 },
 "errors": [
+"api.openalex.org failed after 4: https://api.openalex.org/works",
+"api.openalex.org failed after 4: https://api.openalex.org/works",
 "api.openalex.org failed after 4: https://api.openalex.org/works",
 "api.openalex.org failed after 4: https://api.openalex.org/works",
 "api.openalex.org failed after 4: https://api.openalex.org/works",
@@ -90,12 +92,9 @@
 "api.openalex.org failed after 4: https://api.openalex.org/works",
 "api.openalex.org failed after 4: https://api.openalex.org/works",
 "api.openalex.org failed after 4: https://api.openalex.org/works",
-"api.openalex.org failed after 4: https://api.openalex.org/works",
-"api.openalex.org failed after 4: https://api.openalex.org/works",
-"api.openalex.org failed after 4: https://api.openalex.org/works",
 "api.openalex.org failed after 4: https://api.openalex.org/works"
 ],
-"finished": "2026-10-25T08:24:52.887438Z",
+"finished": "2026-10-26T08:37:50.003722Z",
 "built": {
 "abs101": {
 "nodes": 683,
@@ -118,9 +117,9 @@
 "bytes": 203429
 },
 "amsulostat": {
-"nodes": 548,
-"edges": 815,
-"bytes": 160226
+"nodes": 553,
+"edges": 818,
+"bytes": 161513
 },
 "anxv": {
 "nodes": 700,
@@ -128,14 +127,14 @@
 "bytes": 207445
 },
 "arina1": {
-"nodes": 386,
+"nodes": 385,
 "edges": 467,
-"bytes": 105444
+"bytes": 105292
 },
 "aup16": {
 "nodes": 612,
 "edges": 760,
-"bytes": 165994
+"bytes": 166031
 },
 "aurase": {
 "nodes": 351,
@@ -145,7 +144,7 @@
 "belapectin": {
 "nodes": 700,
 "edges": 1000,
-"bytes": 205199
+"bytes": 205265
 },
 "bt101": {
 "nodes": 469,
@@ -188,9 +187,9 @@
 "bytes": 206889
 },
 "m1pram": {
-"nodes": 335,
-"edges": 406,
-"bytes": 87570
+"nodes": 333,
+"edges": 403,
+"bytes": 86987
 },
 "migaldendranib": {
 "nodes": 700,
@@ -282,6 +281,11 @@
 "edges": 731,
 "bytes": 132093
 },
+"nct-nct06077773": {
+"nodes": 317,
+"edges": 451,
+"bytes": 89212
+},
 "nct-nct06210945": {
 "nodes": 314,
 "edges": 426,
@@ -366,12 +370,7 @@
 "nodes": 519,
 "edges": 805,
 "bytes": 150039
-},
-"nct-nct06705998": {
-"nodes": 268,
-"edges": 389,
-"bytes": 73934
 }
 },
-"hubs": 2829
+"hubs": 2836
 }

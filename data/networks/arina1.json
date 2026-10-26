@@ -1,6 +1,6 @@
 {
 "assetId": "arina1",
-"updated": "2026-10-25",
+"updated": "2026-10-26",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 6,
@@ -1369,44 +1369,36 @@
 "c": ""
 },
 {
-"k": "paper:doi-10-63544-ijss-v5i1-217",
+"k": "paper:doi-10-18653-v1-2026-acl-long-1592",
 "t": "paper",
-"n": "The Impact of Educational Leadership Styles on Teacher Productivity: A Comprehensive Revie",
-"sub": "Inverge Journal of Social Sciences 2026 · cited 1",
-"url": "https://doi.org/10.63544/ijss.v5i1.217",
+"n": "CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark",
+"sub": "Annual Meeting of the Association for Computational Linguistics (ACL) 2026 · cited 1",
+"url": "https://doi.org/10.18653/v1/2026.acl-long.1592",
 "c": ""
 },
 {
-"k": "person:atif-nadeem",
+"k": "person:ahmed-heakl",
 "t": "person",
-"n": "Atif Nadeem",
-"sub": "Kohat University of Science and Technology",
+"n": "Ahmed Heakl",
+"sub": "Australian National University",
 "url": "",
-"c": "PK"
+"c": "AU"
 },
 {
-"k": "org:kohat-university-of-science-and-technology",
+"k": "org:australian-national-university",
 "t": "academic",
-"n": "Kohat University of Science and Technology",
+"n": "Australian National University",
 "sub": "",
 "url": "",
-"c": "PK"
+"c": "AU"
 },
 {
-"k": "person:haseen-akhtar",
+"k": "person:abdulrahman-mahmoud",
 "t": "person",
-"n": "Haseen Akhtar",
-"sub": "Islamia University of Bahawalpur",
-"url": "https://orcid.org/0009-0005-6587-3798",
-"c": "PK"
-},
-{
-"k": "org:islamia-university-of-bahawalpur",
-"t": "academic",
-"n": "Islamia University of Bahawalpur",
-"sub": "",
+"n": "Abdulrahman Mahmoud",
+"sub": "Australian National University",
 "url": "",
-"c": "PK"
+"c": "AU"
 },
 {
 "k": "paper:pmid-35001665",
@@ -3824,6 +3816,11 @@
 "r": "cites_asset"
 },
 {
+"a": "paper:doi-10-18653-v1-2026-acl-long-1592",
+"b": "asset:arina1",
+"r": "cites_asset"
+},
+{
 "a": "paper:doi-10-20546-ijcmas-2019-808-259",
 "b": "asset:arina1",
 "r": "cites_asset"
@@ -3840,11 +3837,6 @@
 },
 {
 "a": "paper:doi-10-3847-1538-4357-abbdac",
-"b": "asset:arina1",
-"r": "cites_asset"
-},
-{
-"a": "paper:doi-10-63544-ijss-v5i1-217",
 "b": "asset:arina1",
 "r": "cites_asset"
 },
@@ -3929,8 +3921,28 @@
 "r": "authored"
 },
 {
+"a": "person:abdulrahman-mahmoud",
+"b": "org:australian-national-university",
+"r": "affiliated"
+},
+{
+"a": "person:abdulrahman-mahmoud",
+"b": "paper:doi-10-18653-v1-2026-acl-long-1592",
+"r": "authored"
+},
+{
 "a": "person:adegboyega-timothy-adewale",
 "b": "paper:pmid-32374624",
+"r": "authored"
+},
+{
+"a": "person:ahmed-heakl",
+"b": "org:australian-national-university",
+"r": "affiliated"
+},
+{
+"a": "person:ahmed-heakl",
+"b": "paper:doi-10-18653-v1-2026-acl-long-1592",
 "r": "authored"
 },
 {
@@ -4011,16 +4023,6 @@
 {
 "a": "person:annalisa-bianchera",
 "b": "paper:pmid-33078643",
-"r": "authored"
-},
-{
-"a": "person:atif-nadeem",
-"b": "org:kohat-university-of-science-and-technology",
-"r": "affiliated"
-},
-{
-"a": "person:atif-nadeem",
-"b": "paper:doi-10-63544-ijss-v5i1-217",
 "r": "authored"
 },
 {
@@ -4351,16 +4353,6 @@
 {
 "a": "person:george-marty-solomon",
 "b": "paper:pmid-35399263",
-"r": "authored"
-},
-{
-"a": "person:haseen-akhtar",
-"b": "org:islamia-university-of-bahawalpur",
-"r": "affiliated"
-},
-{
-"a": "person:haseen-akhtar",
-"b": "paper:doi-10-63544-ijss-v5i1-217",
 "r": "authored"
 },
 {
