@@ -1,6 +1,6 @@
 {
 "assetId": "nct-nct05349721",
-"updated": "2026-10-26",
+"updated": "2026-10-27",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 41
@@ -231,6 +231,46 @@
 "c": "Czechia"
 },
 {
+"k": "trial:nct07855211",
+"t": "trial",
+"n": "A Study to Learn About the Safety of BIIB147 and Its Effects in Adults With Amyotrophic La",
+"sub": "P1/P2 · recruiting · 2026-2034",
+"url": "https://clinicaltrials.gov/study/NCT07855211",
+"c": ""
+},
+{
+"k": "org:biogen",
+"t": "company",
+"n": "Biogen",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:washington-university-school-of-medicine-st-louis",
+"t": "academic",
+"n": "Washington University School of Medicine_St. Louis",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:austin-neuromuscular-center-austin",
+"t": "company",
+"n": "Austin Neuromuscular Center_Austin",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:biib147",
+"t": "drug",
+"n": "BIIB147",
+"sub": "Biogen",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct05151471",
 "t": "trial",
 "n": "Efficacy and Safety Extension Study of Oral Edaravone Administered in Subjects With ALS",
@@ -391,14 +431,6 @@
 "c": ""
 },
 {
-"k": "org:biogen",
-"t": "company",
-"n": "Biogen",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "org:honorhealth-neurology",
 "t": "hospital",
 "n": "HonorHealth Neurology",
@@ -482,38 +514,6 @@
 "k": "drug:tofersen",
 "t": "drug",
 "n": "Tofersen",
-"sub": "Biogen",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07855211",
-"t": "trial",
-"n": "A Study to Learn About the Safety of BIIB147 and Its Effects in Adults With Amyotrophic La",
-"sub": "P1/P2 · recruiting · 2026-2034",
-"url": "https://clinicaltrials.gov/study/NCT07855211",
-"c": ""
-},
-{
-"k": "org:washington-university-school-of-medicine-st-louis",
-"t": "academic",
-"n": "Washington University School of Medicine_St. Louis",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:austin-neuromuscular-center-austin",
-"t": "company",
-"n": "Austin Neuromuscular Center_Austin",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:biib147",
-"t": "drug",
-"n": "BIIB147",
 "sub": "Biogen",
 "url": "",
 "c": ""
@@ -887,70 +887,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07322003",
-"t": "trial",
-"n": "Pridopidine Phase 3 Study to Evaluate Efficacy and Safety in ALS",
-"sub": "P3 · recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07322003",
-"c": ""
-},
-{
-"k": "org:prilenia",
-"t": "company",
-"n": "Prilenia",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:ferrer-internacional-s-a",
-"t": "company",
-"n": "Ferrer Internacional S.A.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:university-of-colorado-cu-anschutz-neurology",
-"t": "academic",
-"n": "University of Colorado CU Anschutz Neurology",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:mayo-clinic",
-"t": "hospital",
-"n": "Mayo Clinic",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-kansas",
-"t": "academic",
-"n": "University of Kansas",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:sean-m-healey-amg-center-for-als",
-"t": "company",
-"n": "Sean M. Healey & AMG Center for ALS",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:pridopidine",
-"t": "drug",
-"n": "Pridopidine",
-"sub": "Prilenia",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct06126315",
 "t": "trial",
 "n": "Trial on the Biological and Clinical Effects of Acetyl-L-carnitine in ALS",
@@ -1083,6 +1019,70 @@
 "t": "drug",
 "n": "Acetyl-l-carnitine",
 "sub": "Mario Negri Institute for Pharmacological Research",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07322003",
+"t": "trial",
+"n": "Pridopidine Phase 3 Study to Evaluate Efficacy and Safety in ALS",
+"sub": "P3 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07322003",
+"c": ""
+},
+{
+"k": "org:prilenia",
+"t": "company",
+"n": "Prilenia",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:ferrer-internacional-s-a",
+"t": "company",
+"n": "Ferrer Internacional S.A.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-colorado-cu-anschutz-neurology",
+"t": "academic",
+"n": "University of Colorado CU Anschutz Neurology",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:mayo-clinic",
+"t": "hospital",
+"n": "Mayo Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-kansas",
+"t": "academic",
+"n": "University of Kansas",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:sean-m-healey-amg-center-for-als",
+"t": "company",
+"n": "Sean M. Healey & AMG Center for ALS",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:pridopidine",
+"t": "drug",
+"n": "Pridopidine",
+"sub": "Prilenia",
 "url": "",
 "c": ""
 },
@@ -1231,38 +1231,6 @@
 "c": ""
 },
 {
-"k": "trial:nct04220190",
-"t": "trial",
-"n": "RAPA-501 Therapy for ALS",
-"sub": "P2/P3 · recruiting · 2025-2028",
-"url": "https://clinicaltrials.gov/study/NCT04220190",
-"c": ""
-},
-{
-"k": "org:rapa-therapeutics",
-"t": "company",
-"n": "Rapa Therapeutics LLC",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:daniel-fowler-m-d",
-"t": "person",
-"n": "Daniel Fowler, M.D",
-"sub": "study director · Rapa Therapeutics LLC",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:rapa-501-autologous-t-stem-cells",
-"t": "drug",
-"n": "RAPA-501 Autologous T stem cells",
-"sub": "Rapa Therapeutics LLC",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct05163886",
 "t": "trial",
 "n": "Study of Safety, Tolerability, and Biological Activity of LAM-002A in C9ORF72-Associated A",
@@ -1307,6 +1275,38 @@
 "t": "drug",
 "n": "LAM-002A",
 "sub": "IRulya Therapeutics Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04220190",
+"t": "trial",
+"n": "RAPA-501 Therapy for ALS",
+"sub": "P2/P3 · recruiting · 2025-2028",
+"url": "https://clinicaltrials.gov/study/NCT04220190",
+"c": ""
+},
+{
+"k": "org:rapa-therapeutics",
+"t": "company",
+"n": "Rapa Therapeutics LLC",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:daniel-fowler-m-d",
+"t": "person",
+"n": "Daniel Fowler, M.D",
+"sub": "study director · Rapa Therapeutics LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:rapa-501-autologous-t-stem-cells",
+"t": "drug",
+"n": "RAPA-501 Autologous T stem cells",
+"sub": "Rapa Therapeutics LLC",
 "url": "",
 "c": ""
 },
@@ -2303,6 +2303,46 @@
 "c": ""
 },
 {
+"k": "trial:nct07571486",
+"t": "trial",
+"n": "Therapeutic Approach of Repeated Transient Blood-brain Barrier Opening in Amyotrophic Late",
+"sub": "P1/P2 · recruiting · 2026-2031",
+"url": "https://clinicaltrials.gov/study/NCT07571486",
+"c": ""
+},
+{
+"k": "org:assistance-publique-hopitaux-de-paris",
+"t": "academic",
+"n": "Assistance Publique - Hôpitaux de Paris",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:carthera",
+"t": "company",
+"n": "CarThera",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:msdavenir-foundation",
+"t": "foundation",
+"n": "MSDAVENIR Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:hopital-pitie-salpetriere",
+"t": "hospital",
+"n": "Hôpital Pitié-Salpêtrière",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
 "k": "trial:nct04744532",
 "t": "trial",
 "n": "iPSC-based Drug Repurposing for ALS Medicine (iDReAM) Study",
@@ -2389,46 +2429,6 @@
 "sub": "Kyoto University",
 "url": "",
 "c": ""
-},
-{
-"k": "trial:nct07571486",
-"t": "trial",
-"n": "Therapeutic Approach of Repeated Transient Blood-brain Barrier Opening in Amyotrophic Late",
-"sub": "P1/P2 · recruiting · 2026-2031",
-"url": "https://clinicaltrials.gov/study/NCT07571486",
-"c": ""
-},
-{
-"k": "org:assistance-publique-hopitaux-de-paris",
-"t": "academic",
-"n": "Assistance Publique - Hôpitaux de Paris",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:carthera",
-"t": "company",
-"n": "CarThera",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:msdavenir-foundation",
-"t": "foundation",
-"n": "MSDAVENIR Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:hopital-pitie-salpetriere",
-"t": "hospital",
-"n": "Hôpital Pitié-Salpêtrière",
-"sub": "",
-"url": "",
-"c": "France"
 },
 {
 "k": "trial:nct07743268",
@@ -2615,6 +2615,70 @@
 "c": ""
 },
 {
+"k": "trial:nct04768972",
+"t": "trial",
+"n": "FUSION: A Study to Evaluate the Efficacy, Safety, Pharmacokinetics and Pharmacodynamics of",
+"sub": "P3 · active_not_recruiting · 2021-2028",
+"url": "https://clinicaltrials.gov/study/NCT04768972",
+"c": ""
+},
+{
+"k": "org:ionis-pharmaceuticals",
+"t": "company",
+"n": "Ionis Pharmaceuticals, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:stanford-university-medical-center",
+"t": "hospital",
+"n": "Stanford University Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:columbia-university-medical-center",
+"t": "hospital",
+"n": "Columbia University Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:the-ohio-state-university-wexner-medical-center",
+"t": "hospital",
+"n": "The Ohio State University Wexner Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-utah",
+"t": "academic",
+"n": "University of Utah",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:pseg-centro-de-pesquisa-clinica-s-a",
+"t": "hospital",
+"n": "PSEG Centro de Pesquisa Clinica S.A.",
+"sub": "",
+"url": "",
+"c": "Brazil"
+},
+{
+"k": "drug:ion363",
+"t": "drug",
+"n": "ION363",
+"sub": "Ionis Pharmaceuticals, Inc.",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct05568615",
 "t": "trial",
 "n": "Extension Study Following the Studies MT-1186-A03 or A04 to Evaluate the Safety of Oral Ed",
@@ -2701,70 +2765,6 @@
 "sub": "",
 "url": "",
 "c": "Japan"
-},
-{
-"k": "trial:nct04768972",
-"t": "trial",
-"n": "FUSION: A Study to Evaluate the Efficacy, Safety, Pharmacokinetics and Pharmacodynamics of",
-"sub": "P3 · active_not_recruiting · 2021-2028",
-"url": "https://clinicaltrials.gov/study/NCT04768972",
-"c": ""
-},
-{
-"k": "org:ionis-pharmaceuticals",
-"t": "company",
-"n": "Ionis Pharmaceuticals, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:stanford-university-medical-center",
-"t": "hospital",
-"n": "Stanford University Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:columbia-university-medical-center",
-"t": "hospital",
-"n": "Columbia University Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:the-ohio-state-university-wexner-medical-center",
-"t": "hospital",
-"n": "The Ohio State University Wexner Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-utah",
-"t": "academic",
-"n": "University of Utah",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:pseg-centro-de-pesquisa-clinica-s-a",
-"t": "hospital",
-"n": "PSEG Centro de Pesquisa Clinica S.A.",
-"sub": "",
-"url": "",
-"c": "Brazil"
-},
-{
-"k": "drug:ion363",
-"t": "drug",
-"n": "ION363",
-"sub": "Ionis Pharmaceuticals, Inc.",
-"url": "",
-"c": ""
 },
 {
 "k": "trial:nct04297683",

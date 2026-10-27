@@ -1,10 +1,10 @@
 {
 "assetId": "sbt101",
-"updated": "2026-10-26",
+"updated": "2026-10-27",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 8,
-"papers": 38
+"papers": 43
 },
 "nodes": [
 {
@@ -472,11 +472,27 @@
 "c": ""
 },
 {
-"k": "paper:doi-10-1212-wnl-98-18-supplement-1835",
+"k": "paper:doi-10-1212-wnl-98-18-supplement-1984",
 "t": "paper",
-"n": "Preclinical Pharmacology and Toxicology of intrathecally infused AAV9-hABCD1, a gene thera",
+"n": "An AAV Encoding Human ABCD1 Shows Dose-Responsive Expression and Function Following Spinal",
 "sub": "Neurology 2022 · cited 0",
-"url": "https://doi.org/10.1212/wnl.98.18_supplement.1835",
+"url": "https://doi.org/10.1212/wnl.98.18_supplement.1984",
+"c": ""
+},
+{
+"k": "person:honggeun-park",
+"t": "person",
+"n": "Honggeun Park",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-1212-wnl-98-18-supplement-1714",
+"t": "paper",
+"n": "Optimization of intrathecal delivery of an infused AAV9 vector for delivery of a gene ther",
+"sub": "Neurology 2022 · cited 0",
+"url": "https://doi.org/10.1212/wnl.98.18_supplement.1714",
 "c": ""
 },
 {
@@ -485,6 +501,14 @@
 "n": "David Anderson",
 "sub": "",
 "url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-1212-wnl-98-18-supplement-1835",
+"t": "paper",
+"n": "Preclinical Pharmacology and Toxicology of intrathecally infused AAV9-hABCD1, a gene thera",
+"sub": "Neurology 2022 · cited 0",
+"url": "https://doi.org/10.1212/wnl.98.18_supplement.1835",
 "c": ""
 },
 {
@@ -2720,7 +2744,17 @@
 "r": "funded"
 },
 {
+"a": "paper:doi-10-1212-wnl-98-18-supplement-1714",
+"b": "asset:sbt101",
+"r": "cites_asset"
+},
+{
 "a": "paper:doi-10-1212-wnl-98-18-supplement-1835",
+"b": "asset:sbt101",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1212-wnl-98-18-supplement-1984",
 "b": "asset:sbt101",
 "r": "cites_asset"
 },
@@ -2946,6 +2980,11 @@
 },
 {
 "a": "person:david-anderson",
+"b": "paper:doi-10-1212-wnl-98-18-supplement-1714",
+"r": "authored"
+},
+{
+"a": "person:david-anderson",
 "b": "paper:doi-10-1212-wnl-98-18-supplement-1835",
 "r": "authored"
 },
@@ -3038,6 +3077,11 @@
 "a": "person:himal-lal-thakar",
 "b": "trial:nct03852498",
 "r": "investigator"
+},
+{
+"a": "person:honggeun-park",
+"b": "paper:doi-10-1212-wnl-98-18-supplement-1984",
+"r": "authored"
 },
 {
 "a": "person:huian-chen",
@@ -3142,6 +3186,11 @@
 {
 "a": "person:johannes-berger",
 "b": "paper:pmid-37683329",
+"r": "authored"
+},
+{
+"a": "person:karen-kozarsky",
+"b": "paper:doi-10-1212-wnl-98-18-supplement-1984",
 "r": "authored"
 },
 {
@@ -3462,6 +3511,11 @@
 {
 "a": "person:valeria-bachiocco",
 "b": "paper:pmid-33609269",
+"r": "authored"
+},
+{
+"a": "person:vidyullatha-vasireddy",
+"b": "paper:doi-10-1212-wnl-98-18-supplement-1714",
 "r": "authored"
 },
 {

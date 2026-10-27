@@ -1,10 +1,10 @@
 {
 "assetId": "alg055009",
-"updated": "2026-10-26",
+"updated": "2026-10-27",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
-"trials": 69,
-"papers": 83
+"trials": 68,
+"papers": 85
 },
 "nodes": [
 {
@@ -12,6 +12,22 @@
 "t": "asset",
 "n": "ALG-055009",
 "sub": "MASH; nonalcoholic steatohepatitis",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06191991",
+"t": "trial",
+"n": "A Phase 1 Study to Evaluate the Drug-Drug Interaction Potential Between ALG-055009 and Sta",
+"sub": "P1 · completed · 2023-2023",
+"url": "https://clinicaltrials.gov/study/NCT06191991",
+"c": ""
+},
+{
+"k": "org:aligos-therapeutics",
+"t": "company",
+"n": "Aligos Therapeutics",
+"sub": "",
 "url": "",
 "c": ""
 },
@@ -24,11 +40,11 @@
 "c": ""
 },
 {
-"k": "org:aligos-therapeutics",
-"t": "company",
-"n": "Aligos Therapeutics",
-"sub": "",
-"url": "",
+"k": "trial:nct05090111",
+"t": "trial",
+"n": "A Study of ALG-055009 in Healthy Volunteers and Subjects With Hyperlipidemia",
+"sub": "P1 · completed · 2021-2023",
+"url": "https://clinicaltrials.gov/study/NCT05090111",
 "c": ""
 },
 {
@@ -40,27 +56,99 @@
 "c": ""
 },
 {
-"k": "trial:nct05090111",
+"k": "trial:nct07631637",
 "t": "trial",
-"n": "A Study of ALG-055009 in Healthy Volunteers and Subjects With Hyperlipidemia",
-"sub": "P1 · completed · 2021-2023",
-"url": "https://clinicaltrials.gov/study/NCT05090111",
+"n": "Study to Evaluate ALN-CIDEB in Adults With Fibrotic Metabolic Dysfunction-Associated Steat",
+"sub": "P2 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07631637",
 "c": ""
 },
 {
-"k": "trial:nct06191991",
-"t": "trial",
-"n": "A Phase 1 Study to Evaluate the Drug-Drug Interaction Potential Between ALG-055009 and Sta",
-"sub": "P1 · completed · 2023-2023",
-"url": "https://clinicaltrials.gov/study/NCT06191991",
+"k": "org:regeneron-pharmaceuticals",
+"t": "company",
+"n": "Regeneron Pharmaceuticals",
+"sub": "",
+"url": "",
 "c": ""
 },
 {
-"k": "trial:nct06318169",
+"k": "org:adobe-clinical-research",
+"t": "hospital",
+"n": "Adobe Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:the-institute-for-liver-health-ii-dba-arizona-liver-health",
+"t": "hospital",
+"n": "The Institute for Liver Health II LLC dba Arizona Liver Health",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:del-sol-research-management",
+"t": "company",
+"n": "Del Sol Research Management, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:california-liver-research-institute",
+"t": "academic",
+"n": "California Liver Research Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:inland-empire-clinical-trials",
+"t": "hospital",
+"n": "Inland Empire Clinical Trials",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:genoma-research-group",
+"t": "company",
+"n": "Genoma Research Group, Inc.",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:med-research-of-florida",
+"t": "company",
+"n": "Med Research of Florida, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:tandem-clinical-research",
+"t": "hospital",
+"n": "Tandem Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:aln-cideb",
+"t": "drug",
+"n": "ALN-CIDEB",
+"sub": "Regeneron Pharmaceuticals",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06419374",
 "t": "trial",
-"n": "A Study Evaluating the Efficacy and Safety of Pegozafermin in Participants With MASH and F",
-"sub": "P3 · recruiting · 2024-2029",
-"url": "https://clinicaltrials.gov/study/NCT06318169",
+"n": "A Study to Evaluate the Efficacy and Safety of Pegozafermin in Participants With Compensat",
+"sub": "P3 · recruiting · 2024-2031",
+"url": "https://clinicaltrials.gov/study/NCT06419374",
 "c": ""
 },
 {
@@ -88,11 +176,11 @@
 "c": ""
 },
 {
-"k": "trial:nct06419374",
+"k": "trial:nct06318169",
 "t": "trial",
-"n": "A Study to Evaluate the Efficacy and Safety of Pegozafermin in Participants With Compensat",
-"sub": "P3 · recruiting · 2024-2031",
-"url": "https://clinicaltrials.gov/study/NCT06419374",
+"n": "A Study Evaluating the Efficacy and Safety of Pegozafermin in Participants With MASH and F",
+"sub": "P3 · recruiting · 2024-2029",
+"url": "https://clinicaltrials.gov/study/NCT06318169",
 "c": ""
 },
 {
@@ -232,11 +320,11 @@
 "c": ""
 },
 {
-"k": "trial:nct06632457",
+"k": "trial:nct06632444",
 "t": "trial",
-"n": "LIVERAGE™ - Cirrhosis: A Study to Test Whether Survodutide Helps People With a Liver Disea",
-"sub": "P3 · recruiting · 2024-2029",
-"url": "https://clinicaltrials.gov/study/NCT06632457",
+"n": "LIVERAGE™: A Study to Test Whether Survodutide Helps People With a Liver Disease Called NA",
+"sub": "P3 · recruiting · 2024-2031",
+"url": "https://clinicaltrials.gov/study/NCT06632444",
 "c": ""
 },
 {
@@ -256,25 +344,9 @@
 "c": "United States"
 },
 {
-"k": "org:adobe-clinical-research",
-"t": "hospital",
-"n": "Adobe Clinical Research, LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:arizona-liver-health-tucson",
 "t": "hospital",
 "n": "Arizona Liver Health - Tucson",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:del-sol-research-management",
-"t": "company",
-"n": "Del Sol Research Management, LLC",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -304,11 +376,11 @@
 "c": "United States"
 },
 {
-"k": "trial:nct06632444",
+"k": "trial:nct06632457",
 "t": "trial",
-"n": "LIVERAGE™: A Study to Test Whether Survodutide Helps People With a Liver Disease Called NA",
-"sub": "P3 · recruiting · 2024-2031",
-"url": "https://clinicaltrials.gov/study/NCT06632444",
+"n": "LIVERAGE™ - Cirrhosis: A Study to Test Whether Survodutide Helps People With a Liver Disea",
+"sub": "P3 · recruiting · 2024-2029",
+"url": "https://clinicaltrials.gov/study/NCT06632457",
 "c": ""
 },
 {
@@ -392,14 +464,6 @@
 "c": ""
 },
 {
-"k": "org:regeneron-pharmaceuticals",
-"t": "company",
-"n": "Regeneron Pharmaceuticals",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "org:the-institute-for-liver-health-ii-dba-arizona-liver-health-p",
 "t": "hospital",
 "n": "The Institute for Liver Health II LLC DBA Arizona Liver Health - Peoria",
@@ -464,14 +528,6 @@
 "c": ""
 },
 {
-"k": "drug:aln-cideb",
-"t": "drug",
-"n": "ALN-CIDEB",
-"sub": "Regeneron Pharmaceuticals",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07704892",
 "t": "trial",
 "n": "A Study to Investigate Safety and Efficacy of Efimosfermin Compared With Placebo in Adult ",
@@ -518,14 +574,6 @@
 "sub": "P2 · recruiting · 2026-2030",
 "url": "https://clinicaltrials.gov/study/NCT07527910",
 "c": ""
-},
-{
-"k": "org:california-liver-research-institute",
-"t": "academic",
-"n": "California Liver Research Institute",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "org:evolution-clinical-trials",
@@ -928,14 +976,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07631637",
-"t": "trial",
-"n": "Study to Evaluate ALN-CIDEB in Adults With Fibrotic Metabolic Dysfunction-Associated Steat",
-"sub": "P2 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07631637",
-"c": ""
-},
-{
 "k": "trial:nct07303803",
 "t": "trial",
 "n": "A Study of Chiglitazar in Patients With Metabolic Dysfunction-associated Steatohepatitis a",
@@ -1072,14 +1112,6 @@
 "c": ""
 },
 {
-"k": "org:arizona-liver-health-chandler",
-"t": "hospital",
-"n": "Arizona Liver Health - Chandler",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:knowledge-research-center",
 "t": "company",
 "n": "Knowledge Research Center",
@@ -1152,6 +1184,14 @@
 "c": ""
 },
 {
+"k": "org:profil-institut-fur-stoffwechselforschung",
+"t": "academic",
+"n": "Profil Institut für Stoffwechselforschung GmbH",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
 "k": "drug:vonafexor-low",
 "t": "drug",
 "n": "Vonafexor low",
@@ -1176,6 +1216,22 @@
 "c": ""
 },
 {
+"k": "org:california-clinical-trials-medical-group",
+"t": "hospital",
+"n": "California Clinical Trials Medical Group",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:pioneer-research-solutions",
+"t": "company",
+"n": "Pioneer Research Solutions",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "trial:nct06675929",
 "t": "trial",
 "n": "A Study to Test How Well BI 770371 is Tolerated by People With Cirrhosis Caused by a Liver",
@@ -1187,14 +1243,6 @@
 "k": "org:catalina-research-institute-montclair-49051",
 "t": "academic",
 "n": "Catalina Research Institute, LLC-Montclair-49051",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:inland-empire-clinical-trials",
-"t": "hospital",
-"n": "Inland Empire Clinical Trials, LLC",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -2600,70 +2648,6 @@
 "c": "United States"
 },
 {
-"k": "trial:nct05500222",
-"t": "trial",
-"n": "A Phase 3 Study to Evaluate the Effect of Resmetirom on Clinical Outcomes in Patients With",
-"sub": "P3 · active_not_recruiting · 2022-2027",
-"url": "https://clinicaltrials.gov/study/NCT05500222",
-"c": ""
-},
-{
-"k": "org:svp-clinical-research",
-"t": "hospital",
-"n": "SVP, Clinical Research",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:thomas-hare",
-"t": "person",
-"n": "Thomas Hare",
-"sub": "study director · SVP, Clinical Research",
-"url": "",
-"c": ""
-},
-{
-"k": "org:university-of-alabama-at-birmingham-uab",
-"t": "academic",
-"n": "University of Alabama at Birmingham (UAB)",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:arkansas-diagnostic-center-liver-wellness-center",
-"t": "company",
-"n": "Arkansas Diagnostic Center/Liver Wellness Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:arkansas-gastroenterology",
-"t": "company",
-"n": "Arkansas Gastroenterology",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-california-san-francisco-fresno",
-"t": "academic",
-"n": "University of California, San Francisco-Fresno",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:univ-of-california-san-diego-school-of-medicine",
-"t": "academic",
-"n": "Univ. of California San Diego School of Medicine",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "paper:pmid-39221768",
 "t": "paper",
 "n": "Discovery and Preclinical Profile of ALG-055009, a Potent and Selective Thyroid Hormone Re",
@@ -2734,6 +2718,46 @@
 "sub": "",
 "url": "",
 "c": "US"
+},
+{
+"k": "paper:pmid-42887515",
+"t": "paper",
+"n": "THR-β agonism in MASH: expanding the evidence to Asia",
+"sub": "The Lancet. Gastroenterology & hepatology 2026 · cited 0",
+"url": "https://pubmed.ncbi.nlm.nih.gov/42887515",
+"c": ""
+},
+{
+"k": "person:wenhao-li",
+"t": "person",
+"n": "Wenhao Li",
+"sub": "Queen Mary University of London",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:queen-mary-university-of-london",
+"t": "academic",
+"n": "Queen Mary University of London",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:blizard-institute",
+"t": "academic",
+"n": "Blizard Institute",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:william-alazawi",
+"t": "person",
+"n": "William Alazawi",
+"sub": "Queen Mary University of London",
+"url": "https://orcid.org/0000-0002-3891-5914",
+"c": "GB"
 },
 {
 "k": "paper:doi-10-1016-s0168-8278-25-01664-2",
@@ -2963,7 +2987,7 @@
 "k": "paper:pmid-38228377",
 "t": "paper",
 "n": "MASLD: a systemic metabolic disorder with cardiovascular and malignant complications",
-"sub": "Gut 2024 · cited 918",
+"sub": "Gut 2024 · cited 920",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38228377",
 "c": ""
 },
@@ -3803,7 +3827,7 @@
 "k": "paper:pmid-41212550",
 "t": "paper",
 "n": "Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults",
-"sub": "JAMA 2025 · cited 231",
+"sub": "JAMA 2025 · cited 232",
 "url": "https://pubmed.ncbi.nlm.nih.gov/41212550",
 "c": ""
 },
@@ -3811,7 +3835,7 @@
 "k": "paper:pmid-40032040",
 "t": "paper",
 "n": "Integrative metabolism in MASLD and MASH: Pathophysiology and emerging mechanisms",
-"sub": "Journal of Hepatology 2025 · cited 230",
+"sub": "Journal of Hepatology 2025 · cited 231",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40032040",
 "c": ""
 },
@@ -4579,7 +4603,7 @@
 "k": "paper:pmid-32207804",
 "t": "paper",
 "n": "Nonalcoholic Steatohepatitis",
-"sub": "JAMA 2020 · cited 1384",
+"sub": "JAMA 2020 · cited 1385",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32207804",
 "c": ""
 },
@@ -5104,6 +5128,30 @@
 "c": ""
 },
 {
+"k": "paper:pmid-34136143",
+"t": "paper",
+"n": "Global Epidemiology of Chronic Liver Disease",
+"sub": "Clinical Liver Disease 2021 · cited 571",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34136143",
+"c": ""
+},
+{
+"k": "person:shantan-cheemerla",
+"t": "person",
+"n": "Shantan Cheemerla",
+"sub": "Baylor College of Medicine",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:maya-balakrishnan",
+"t": "person",
+"n": "Maya Balakrishnan",
+"sub": "Baylor College of Medicine",
+"url": "https://orcid.org/0000-0002-5196-7284",
+"c": "US"
+},
+{
 "k": "paper:pmid-32006558",
 "t": "paper",
 "n": "Complications, morbidity and mortality of nonalcoholic fatty liver disease",
@@ -5558,54 +5606,6 @@
 "sub": "",
 "url": "",
 "c": ""
-},
-{
-"k": "paper:pmid-34508238",
-"t": "paper",
-"n": "Metabolomics and lipidomics in NAFLD: biomarkers and non-invasive diagnostic tests",
-"sub": "Nature Reviews Gastroenterology & Hepatology 2021 · cited 451",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34508238",
-"c": ""
-},
-{
-"k": "person:mojgan-masoodi",
-"t": "person",
-"n": "Mojgan Masoodi",
-"sub": "University Hospital of Bern",
-"url": "https://orcid.org/0000-0001-9840-1731",
-"c": "CH"
-},
-{
-"k": "org:university-hospital-of-bern",
-"t": "hospital",
-"n": "University Hospital of Bern",
-"sub": "",
-"url": "",
-"c": "CH"
-},
-{
-"k": "person:matej-oresic",
-"t": "person",
-"n": "Matej Orešič",
-"sub": "Åbo Akademi University",
-"url": "https://orcid.org/0000-0002-2856-9165",
-"c": "FI"
-},
-{
-"k": "org:abo-akademi-university",
-"t": "academic",
-"n": "Åbo Akademi University",
-"sub": "",
-"url": "",
-"c": "FI"
-},
-{
-"k": "org:university-of-turku",
-"t": "academic",
-"n": "University of Turku",
-"sub": "",
-"url": "",
-"c": "FI"
 }
 ],
 "edges": [
@@ -6111,11 +6111,6 @@
 },
 {
 "a": "drug:resmetirom",
-"b": "trial:nct05500222",
-"r": "tested_in"
-},
-{
-"a": "drug:resmetirom",
 "b": "trial:nct07335601",
 "r": "tested_in"
 },
@@ -6286,11 +6281,6 @@
 },
 {
 "a": "org:adobe-clinical-research",
-"b": "trial:nct05500222",
-"r": "site_of"
-},
-{
-"a": "org:adobe-clinical-research",
 "b": "trial:nct05519475",
 "r": "site_of"
 },
@@ -6317,6 +6307,11 @@
 {
 "a": "org:adobe-clinical-research",
 "b": "trial:nct07288138",
+"r": "site_of"
+},
+{
+"a": "org:adobe-clinical-research",
+"b": "trial:nct07631637",
 "r": "site_of"
 },
 {
@@ -6500,23 +6495,8 @@
 "r": "site_of"
 },
 {
-"a": "org:arizona-liver-health-chandler",
-"b": "trial:nct05500222",
-"r": "site_of"
-},
-{
-"a": "org:arizona-liver-health-chandler",
-"b": "trial:nct07491458",
-"r": "site_of"
-},
-{
 "a": "org:arizona-liver-health-glendae",
 "b": "trial:nct05623189",
-"r": "site_of"
-},
-{
-"a": "org:arizona-liver-health-peoria",
-"b": "trial:nct05500222",
 "r": "site_of"
 },
 {
@@ -6527,11 +6507,6 @@
 {
 "a": "org:arizona-liver-health-peoria",
 "b": "trial:nct07491458",
-"r": "site_of"
-},
-{
-"a": "org:arizona-liver-health-tucson",
-"b": "trial:nct05500222",
 "r": "site_of"
 },
 {
@@ -6590,18 +6565,8 @@
 "r": "site_of"
 },
 {
-"a": "org:arkansas-diagnostic-center-liver-wellness-center",
-"b": "trial:nct05500222",
-"r": "site_of"
-},
-{
 "a": "org:arkansas-diagnostic-center-pa",
 "b": "trial:nct04822181",
-"r": "site_of"
-},
-{
-"a": "org:arkansas-gastroenterology",
-"b": "trial:nct05500222",
 "r": "site_of"
 },
 {
@@ -6790,6 +6755,11 @@
 "r": "site_of"
 },
 {
+"a": "org:california-clinical-trials-medical-group",
+"b": "trial:nct05648214",
+"r": "site_of"
+},
+{
 "a": "org:california-liver-institute",
 "b": "trial:nct05623189",
 "r": "site_of"
@@ -6797,6 +6767,11 @@
 {
 "a": "org:california-liver-research-institute",
 "b": "trial:nct07527910",
+"r": "site_of"
+},
+{
+"a": "org:california-liver-research-institute",
+"b": "trial:nct07631637",
 "r": "site_of"
 },
 {
@@ -6992,6 +6967,11 @@
 {
 "a": "org:del-sol-research-management",
 "b": "trial:nct07165028",
+"r": "site_of"
+},
+{
+"a": "org:del-sol-research-management",
+"b": "trial:nct07631637",
 "r": "site_of"
 },
 {
@@ -7218,6 +7198,16 @@
 "a": "org:generalitat-valenciana",
 "b": "paper:pmid-38971533",
 "r": "funded"
+},
+{
+"a": "org:genoma-research-group",
+"b": "trial:nct05648214",
+"r": "site_of"
+},
+{
+"a": "org:genoma-research-group",
+"b": "trial:nct07631637",
+"r": "site_of"
 },
 {
 "a": "org:gilead-sciences",
@@ -7465,6 +7455,11 @@
 "r": "site_of"
 },
 {
+"a": "org:inland-empire-clinical-trials",
+"b": "trial:nct07631637",
+"r": "site_of"
+},
+{
 "a": "org:inland-empire-liver-foundation",
 "b": "trial:nct05623189",
 "r": "site_of"
@@ -7626,11 +7621,6 @@
 },
 {
 "a": "org:madrigal-pharmaceuticals",
-"b": "trial:nct05500222",
-"r": "sponsors"
-},
-{
-"a": "org:madrigal-pharmaceuticals",
 "b": "trial:nct07335601",
 "r": "sponsors"
 },
@@ -7692,6 +7682,16 @@
 {
 "a": "org:mayo-clinic-in-rochester",
 "b": "trial:nct05500586",
+"r": "site_of"
+},
+{
+"a": "org:med-research-of-florida",
+"b": "trial:nct05648214",
+"r": "site_of"
+},
+{
+"a": "org:med-research-of-florida",
+"b": "trial:nct07631637",
 "r": "site_of"
 },
 {
@@ -8160,6 +8160,11 @@
 "r": "funded"
 },
 {
+"a": "org:pioneer-research-solutions",
+"b": "trial:nct05648214",
+"r": "site_of"
+},
+{
 "a": "org:precision-research-institute-pri",
 "b": "trial:nct04505436",
 "r": "site_of"
@@ -8172,6 +8177,11 @@
 {
 "a": "org:prince-of-wales-hospital-the-chinese-university-of-hong-kong",
 "b": "trial:nct07024212",
+"r": "site_of"
+},
+{
+"a": "org:profil-institut-fur-stoffwechselforschung",
+"b": "trial:nct06939816",
 "r": "site_of"
 },
 {
@@ -8351,11 +8361,6 @@
 },
 {
 "a": "org:southern-california-research-center",
-"b": "trial:nct05500222",
-"r": "site_of"
-},
-{
-"a": "org:southern-california-research-center",
 "b": "trial:nct05519475",
 "r": "site_of"
 },
@@ -8397,6 +8402,16 @@
 {
 "a": "org:synexus-us-chandler",
 "b": "trial:nct04505436",
+"r": "site_of"
+},
+{
+"a": "org:tandem-clinical-research",
+"b": "trial:nct05648214",
+"r": "site_of"
+},
+{
+"a": "org:tandem-clinical-research",
+"b": "trial:nct07631637",
 "r": "site_of"
 },
 {
@@ -8465,6 +8480,16 @@
 "r": "site_of"
 },
 {
+"a": "org:the-institute-for-liver-health-ii-dba-arizona-liver-health",
+"b": "trial:nct05519475",
+"r": "site_of"
+},
+{
+"a": "org:the-institute-for-liver-health-ii-dba-arizona-liver-health",
+"b": "trial:nct07631637",
+"r": "site_of"
+},
+{
 "a": "org:the-institute-for-liver-health-ii-dba-arizona-liver-health-p",
 "b": "trial:nct05519475",
 "r": "site_of"
@@ -8510,11 +8535,6 @@
 "r": "site_of"
 },
 {
-"a": "org:univ-of-california-san-diego-school-of-medicine",
-"b": "trial:nct05500222",
-"r": "site_of"
-},
-{
 "a": "org:univeristy-of-colorado-anschutz-medical-campus",
 "b": "trial:nct05935826",
 "r": "site_of"
@@ -8543,11 +8563,6 @@
 "a": "org:university-hospitals-birmingham-nhs-foundation-trust",
 "b": "paper:pmid-38324483",
 "r": "funded"
-},
-{
-"a": "org:university-of-alabama-at-birmingham-uab",
-"b": "trial:nct05500222",
-"r": "site_of"
 },
 {
 "a": "org:university-of-california-san-diego",
@@ -8592,11 +8607,6 @@
 {
 "a": "org:university-of-california-san-francisco",
 "b": "trial:nct07335601",
-"r": "site_of"
-},
-{
-"a": "org:university-of-california-san-francisco-fresno",
-"b": "trial:nct05500222",
 "r": "site_of"
 },
 {
@@ -8836,6 +8846,11 @@
 },
 {
 "a": "paper:pmid-42648297",
+"b": "asset:alg055009",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-42887515",
 "b": "asset:alg055009",
 "r": "cites_asset"
 },
@@ -9760,21 +9775,6 @@
 "r": "authored"
 },
 {
-"a": "person:matej-oresic",
-"b": "org:abo-akademi-university",
-"r": "affiliated"
-},
-{
-"a": "person:matej-oresic",
-"b": "org:university-of-turku",
-"r": "affiliated"
-},
-{
-"a": "person:matej-oresic",
-"b": "paper:pmid-34508238",
-"r": "authored"
-},
-{
 "a": "person:matthew-j-watt",
 "b": "org:the-university-of-melbourne",
 "r": "affiliated"
@@ -9782,6 +9782,16 @@
 {
 "a": "person:matthew-j-watt",
 "b": "paper:pmid-40032040",
+"r": "authored"
+},
+{
+"a": "person:maya-balakrishnan",
+"b": "org:baylor-college-of-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:maya-balakrishnan",
+"b": "paper:pmid-34136143",
 "r": "authored"
 },
 {
@@ -9902,16 +9912,6 @@
 {
 "a": "person:mohammad-shafi-kuchay",
 "b": "paper:pmid-32998095",
-"r": "authored"
-},
-{
-"a": "person:mojgan-masoodi",
-"b": "org:university-hospital-of-bern",
-"r": "affiliated"
-},
-{
-"a": "person:mojgan-masoodi",
-"b": "paper:pmid-34508238",
 "r": "authored"
 },
 {
@@ -10290,6 +10290,16 @@
 "r": "authored"
 },
 {
+"a": "person:shantan-cheemerla",
+"b": "org:baylor-college-of-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:shantan-cheemerla",
+"b": "paper:pmid-34136143",
+"r": "authored"
+},
+{
 "a": "person:shicheng-su",
 "b": "org:sun-yat-sen-memorial-hospital",
 "r": "affiliated"
@@ -10418,16 +10428,6 @@
 "a": "person:thomas-gerard-cotter",
 "b": "paper:pmid-32061595",
 "r": "authored"
-},
-{
-"a": "person:thomas-hare",
-"b": "org:svp-clinical-research",
-"r": "affiliated"
-},
-{
-"a": "person:thomas-hare",
-"b": "trial:nct05500222",
-"r": "investigator"
 },
 {
 "a": "person:thomas-reiberger",
@@ -10598,6 +10598,36 @@
 "a": "person:weiqing-wang-ph-d",
 "b": "trial:nct07466017",
 "r": "investigator"
+},
+{
+"a": "person:wenhao-li",
+"b": "org:blizard-institute",
+"r": "affiliated"
+},
+{
+"a": "person:wenhao-li",
+"b": "org:queen-mary-university-of-london",
+"r": "affiliated"
+},
+{
+"a": "person:wenhao-li",
+"b": "paper:pmid-42887515",
+"r": "authored"
+},
+{
+"a": "person:william-alazawi",
+"b": "org:blizard-institute",
+"r": "affiliated"
+},
+{
+"a": "person:william-alazawi",
+"b": "org:queen-mary-university-of-london",
+"r": "affiliated"
+},
+{
+"a": "person:william-alazawi",
+"b": "paper:pmid-42887515",
+"r": "authored"
 },
 {
 "a": "person:xiaobo-wang",
