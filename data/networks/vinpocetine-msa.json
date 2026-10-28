@@ -1,10 +1,9 @@
 {
 "assetId": "vinpocetine-msa",
-"updated": "2026-10-27",
+"updated": "2026-10-28",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 49,
-"papers": 60,
 "grants": 8
 },
 "nodes": [
@@ -25,9 +24,25 @@
 "c": ""
 },
 {
+"k": "org:shanghai-rxmidas-pharmaceuticals",
+"t": "company",
+"n": "Shanghai Rxmidas Pharmaceuticals Co. Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "org:gedeon-richter",
 "t": "company",
 "n": "Gedeon Richter Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:pla-the-military-general-hospital-of-beijing",
+"t": "hospital",
+"n": "PLA.The Military General Hospital of Beijing",
 "sub": "",
 "url": "",
 "c": ""
@@ -39,6 +54,62 @@
 "sub": "principal investigator · PLA.The Military General Hospital of Beijing",
 "url": "",
 "c": ""
+},
+{
+"k": "org:weiwei-zhang",
+"t": "company",
+"n": "Weiwei Zhang",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "trial:nct00719953",
+"t": "trial",
+"n": "Study to Assess the Efficacy of Cognitex",
+"sub": "P4 · completed · 2008-2009",
+"url": "https://clinicaltrials.gov/study/NCT00719953",
+"c": ""
+},
+{
+"k": "org:tel-aviv-sourasky-medical-center",
+"t": "funder",
+"n": "Tel-Aviv Sourasky Medical Center",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:enzymotec",
+"t": "company",
+"n": "Enzymotec",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:tel-aviv-sourasky-medical-center-israel",
+"t": "hospital",
+"n": "Tel-Aviv Sourasky Medical Center, Israel",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:nachum-vaisman-professor",
+"t": "person",
+"n": "Nachum Vaisman, Professor",
+"sub": "principal investigator · Tel-Aviv Sourasky Medical Center, Israel",
+"url": "",
+"c": ""
+},
+{
+"k": "org:suorasky-medical-center",
+"t": "hospital",
+"n": "Suorasky Medical Center",
+"sub": "",
+"url": "",
+"c": "Israel"
 },
 {
 "k": "trial:nct02878772",
@@ -54,7 +125,7 @@
 "n": "Tianjin Medical University General Hospital",
 "sub": "",
 "url": "",
-"c": "CN"
+"c": ""
 },
 {
 "k": "trial:nct02011971",
@@ -81,12 +152,100 @@
 "c": ""
 },
 {
+"k": "trial:nct02857829",
+"t": "trial",
+"n": "The Effects of a Combination of Nootropic Ingredients on Cognition in Healthy Young Volunt",
+"sub": "NA · completed · 2017-2017",
+"url": "https://clinicaltrials.gov/study/NCT02857829",
+"c": ""
+},
+{
+"k": "org:nootrobox",
+"t": "company",
+"n": "Nootrobox, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:maastricht-university",
+"t": "academic",
+"n": "Maastricht University",
+"sub": "",
+"url": "",
+"c": "Netherlands"
+},
+{
+"k": "person:arjan-blokland",
+"t": "person",
+"n": "Arjan Blokland",
+"sub": "principal investigator · Maastricht University",
+"url": "",
+"c": ""
+},
+{
+"k": "person:anke-sambeth",
+"t": "person",
+"n": "Anke Sambeth",
+"sub": "principal investigator · Maastricht University",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07229664",
 "t": "trial",
 "n": "Vinpocetine in Patients With Parkinsonian Disease",
 "sub": "P2/P3 · recruiting · 2025-2027",
 "url": "https://clinicaltrials.gov/study/NCT07229664",
 "c": ""
+},
+{
+"k": "org:tanta-university",
+"t": "academic",
+"n": "Tanta University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:tanta-unuversity",
+"t": "company",
+"n": "Tanta Unuversity",
+"sub": "",
+"url": "",
+"c": "Egypt"
+},
+{
+"k": "trial:nct06441591",
+"t": "trial",
+"n": "Clinical Outcome of Vinpocetine in Diabetic Nephropathy",
+"sub": "P2/P3 · unknown · 2024-2025",
+"url": "https://clinicaltrials.gov/study/NCT06441591",
+"c": ""
+},
+{
+"k": "org:ain-shams-university",
+"t": "academic",
+"n": "Ain Shams University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:ain-shams-university-hospital",
+"t": "hospital",
+"n": "Ain Shams University Hospital",
+"sub": "",
+"url": "",
+"c": "Egypt"
+},
+{
+"k": "org:ain-shams-hospitals",
+"t": "hospital",
+"n": "Ain Shams Hospitals",
+"sub": "",
+"url": "",
+"c": "Egypt"
 },
 {
 "k": "trial:nct01515839",
@@ -121,68 +280,68 @@
 "c": ""
 },
 {
-"k": "trial:nct02857829",
-"t": "trial",
-"n": "The Effects of a Combination of Nootropic Ingredients on Cognition in Healthy Young Volunt",
-"sub": "NA · completed · 2017-2017",
-"url": "https://clinicaltrials.gov/study/NCT02857829",
-"c": ""
-},
-{
-"k": "org:maastricht-university",
-"t": "academic",
-"n": "Maastricht University",
+"k": "org:national-institute-on-alcohol-abuse-and-alcoholism-niaaa",
+"t": "funder",
+"n": "National Institute on Alcohol Abuse and Alcoholism (NIAAA)",
 "sub": "",
 "url": "",
-"c": "Netherlands"
-},
-{
-"k": "person:arjan-blokland",
-"t": "person",
-"n": "Arjan Blokland",
-"sub": "principal investigator · Maastricht University",
-"url": "",
 "c": ""
 },
 {
-"k": "person:anke-sambeth",
-"t": "person",
-"n": "Anke Sambeth",
-"sub": "principal investigator · Maastricht University",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct00719953",
+"k": "trial:nct05733572",
 "t": "trial",
-"n": "Study to Assess the Efficacy of Cognitex",
-"sub": "P4 · completed · 2008-2009",
-"url": "https://clinicaltrials.gov/study/NCT00719953",
+"n": "Safety and Efficacy of the PAINLESS Nerve Growth Factor CHF6467 in Optic Pathway Glioma (O",
+"sub": "P2 · active_not_recruiting · 2023-2027",
+"url": "https://clinicaltrials.gov/study/NCT05733572",
 "c": ""
 },
 {
-"k": "person:nachum-vaisman-professor",
-"t": "person",
-"n": "Nachum Vaisman, Professor",
-"sub": "principal investigator · Tel-Aviv Sourasky Medical Center, Israel",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06441591",
-"t": "trial",
-"n": "Clinical Outcome of Vinpocetine in Diabetic Nephropathy",
-"sub": "P2/P3 · unknown · 2024-2025",
-"url": "https://clinicaltrials.gov/study/NCT06441591",
-"c": ""
-},
-{
-"k": "org:ain-shams-university",
+"k": "org:benedetto-falsini",
 "t": "academic",
-"n": "Ain Shams University",
+"n": "Benedetto Falsini",
 "sub": "",
 "url": "",
-"c": "EG"
+"c": ""
+},
+{
+"k": "org:ministry-of-health-italy",
+"t": "funder",
+"n": "Ministry of Health, Italy",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:universita-cattolica-del-s-cuore-fondazione-policlinico-a-ge",
+"t": "hospital",
+"n": "universita Cattolica del S. Cuore/Fondazione policlinico A. Gemelli, IRCCS",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:benedetto-falsini",
+"t": "person",
+"n": "Benedetto Falsini",
+"sub": "principal investigator · universita Cattolica del S. Cuore/Fondazione policlinico A. Gemel",
+"url": "",
+"c": ""
+},
+{
+"k": "org:catholic-university-policlinico-a-gemelli-hospital",
+"t": "hospital",
+"n": "Catholic University, Policlinico A. Gemelli (Hospital)",
+"sub": "",
+"url": "",
+"c": "Italy"
+},
+{
+"k": "drug:chf6467",
+"t": "drug",
+"n": "CHF6467",
+"sub": "Benedetto Falsini",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct07798609",
@@ -201,12 +360,52 @@
 "c": ""
 },
 {
+"k": "org:concord-repatriation-general-hospital",
+"t": "hospital",
+"n": "Concord Repatriation General Hospital",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "org:liverpool-hospital",
+"t": "hospital",
+"n": "Liverpool Hospital",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
 "k": "org:wesley-research-institute",
 "t": "academic",
 "n": "Wesley Research Institute",
 "sub": "",
 "url": "",
 "c": "Australia"
+},
+{
+"k": "org:mater-hospital-brisbane",
+"t": "hospital",
+"n": "Mater Hospital Brisbane",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "org:the-alfred-hospital",
+"t": "hospital",
+"n": "The Alfred Hospital",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "org:pacific-clinic-research-network",
+"t": "hospital",
+"n": "Pacific Clinic Research Network",
+"sub": "",
+"url": "",
+"c": "New Zealand"
 },
 {
 "k": "drug:sfl-0821-for",
@@ -233,12 +432,84 @@
 "c": ""
 },
 {
+"k": "org:ann-and-robert-h-lurie-childrens-hospital-of-chicago",
+"t": "hospital",
+"n": "Ann and Robert H Lurie Childrens Hospital of Chicago",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "org:neurology-rare-disease-center",
 "t": "company",
 "n": "Neurology Rare Disease Center",
 "sub": "",
 "url": "",
 "c": "United States"
+},
+{
+"k": "org:childrens-hospital-of-the-kings-daughter-norfolk",
+"t": "hospital",
+"n": "Childrens Hospital of the Kings Daughter Norfolk",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:sydney-children-s-hospital-randwick",
+"t": "hospital",
+"n": "Sydney Children's Hospital_Randwick",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "org:hospital-de-clinicas-de-porto-alegre-hcpa-ppds",
+"t": "hospital",
+"n": "Hospital de Clinicas de Porto Alegre (HCPA) - PPDS",
+"sub": "",
+"url": "",
+"c": "Brazil"
+},
+{
+"k": "org:hospital-da-crianca-de-brasilia",
+"t": "hospital",
+"n": "Hospital da Crianca de Brasilia",
+"sub": "",
+"url": "",
+"c": "Brazil"
+},
+{
+"k": "org:pseg-centro-de-pesquisa-clinica",
+"t": "hospital",
+"n": "PSEG Centro de Pesquisa Clinica",
+"sub": "",
+"url": "",
+"c": "Brazil"
+},
+{
+"k": "org:instituto-da-crianca-hc-fmusp",
+"t": "academic",
+"n": "Instituto Da Criança HC FMUSP",
+"sub": "",
+"url": "",
+"c": "Brazil"
+},
+{
+"k": "org:clinica-meds-la-dehesa-lo-barnechea",
+"t": "hospital",
+"n": "Clinica MEDS La Dehesa_Lo Barnechea",
+"sub": "",
+"url": "",
+"c": "Chile"
+},
+{
+"k": "org:the-third-affiliated-hospital-of-zhengzhou-university-north",
+"t": "hospital",
+"n": "The Third Affiliated Hospital of Zhengzhou University - North Campus",
+"sub": "",
+"url": "",
+"c": "China"
 },
 {
 "k": "drug:salanersen",
@@ -265,6 +536,22 @@
 "c": ""
 },
 {
+"k": "org:arkansas-children-s-hospital",
+"t": "hospital",
+"n": "Arkansas Children's Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:washington-university-school-of-medicine",
+"t": "academic",
+"n": "Washington University School of Medicine",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "drug:pbgene-dmd",
 "t": "drug",
 "n": "PBGENE-DMD",
@@ -289,6 +576,22 @@
 "c": ""
 },
 {
+"k": "org:the-second-affiliated-hospital-of-jiaxing-university",
+"t": "hospital",
+"n": "The Second Affiliated Hospital of Jiaxing University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:beijing-chao-yang-hospital",
+"t": "hospital",
+"n": "Beijing Chao Yang Hospital",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "org:huzhou-central-hospital",
 "t": "hospital",
 "n": "Huzhou Central Hospital",
@@ -297,12 +600,92 @@
 "c": "China"
 },
 {
+"k": "org:taizhou-hospital-of-zhejiang-province-affiliated-to-wenzhou",
+"t": "hospital",
+"n": "Taizhou Hospital of Zhejiang Province affiliated to Wenzhou Medical University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:first-affiliated-hospital-of-guangxi-medical-university",
+"t": "hospital",
+"n": "First Affiliated Hospital of Guangxi Medical University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:ningbo-no-2-hospital",
+"t": "hospital",
+"n": "Ningbo No.2 Hospital",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:2nd-affiliated-hospital-school-of-medicine-zhejiang-universi",
+"t": "hospital",
+"n": "2nd Affiliated Hospital, School of Medicine, Zhejiang University, China",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "person:jiali-pu",
 "t": "person",
 "n": "Jiali Pu",
 "sub": "principal investigator · 2nd Affiliated Hospital, School of Medicine, Zhejiang University,",
 "url": "",
 "c": ""
+},
+{
+"k": "org:the-first-affiliated-hospital-of-guangxi-medical-university",
+"t": "hospital",
+"n": "The First Affiliated Hospital of Guangxi Medical University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:the-second-affiliated-hospital-of-zhejiang-university-school",
+"t": "hospital",
+"n": "The Second Affiliated Hospital of Zhejiang University School of Medicine",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:the-second-hospital-of-jiaxing",
+"t": "hospital",
+"n": "The Second Hospital of Jiaxing",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:ningbo-second-hospital",
+"t": "hospital",
+"n": "Ningbo Second Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:taizhou-hospital-of-zhejiang-province",
+"t": "hospital",
+"n": "Taizhou Hospital of Zhejiang Province",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:affiliated-beijing-chaoyang-hospital-of-capital-medical-univ",
+"t": "hospital",
+"n": "Affiliated Beijing Chaoyang Hospital of Capital Medical University",
+"sub": "",
+"url": "",
+"c": "China"
 },
 {
 "k": "drug:3-n-butylphthalide",
@@ -329,9 +712,81 @@
 "c": ""
 },
 {
+"k": "org:mayo-clinic-vascular-center-arizona",
+"t": "hospital",
+"n": "Mayo Clinic - Vascular Center - Arizona",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-arkansas-for-medical-sciences-uams-medical-cen",
+"t": "hospital",
+"n": "University of Arkansas for Medical Sciences (UAMS) - Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-california-san-francisco-sandler-neurosciences",
+"t": "academic",
+"n": "University of California San Francisco - Sandler Neurosciences Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cenexel-cbh-cenexel-rocky-mountain-clinical-research-cenexel",
+"t": "hospital",
+"n": "CenExel CBH - CenExel Rocky Mountain Clinical Research (CenExel RMCR) (Rocky Mountain Move",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:yale-new-haven-health-system",
+"t": "hospital",
+"n": "Yale New Haven Health System",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "org:parkinson-s-disease-and-movement-disorders-center-of-boca-ra",
 "t": "company",
 "n": "Parkinson's Disease and Movement Disorders Center of Boca Raton",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-florida-college-of-medicine-gainesville",
+"t": "academic",
+"n": "University of Florida-College of Medicine - Gainesville",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:indiana-university-iu-health-senior-health-center",
+"t": "hospital",
+"n": "Indiana University (IU) Health-Senior Health Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:johns-hopkins-university-school-of-medicine-the-johns-hopkin",
+"t": "academic",
+"n": "Johns Hopkins University School of Medicine - The Johns Hopkins Multiple Sclerosis (MS) Ce",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:brigham-and-women-s-hospital-bwh",
+"t": "hospital",
+"n": "Brigham and Women's Hospital (BWH)",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -341,6 +796,62 @@
 "t": "drug",
 "n": "Amlenetug",
 "sub": "H. Lundbeck A/S",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07729852",
+"t": "trial",
+"n": "Open-Label Access to ATH434 for Patients Who Completed Study ATH434-201 in France",
+"sub": "P2 · enrolling_by_invitation · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07729852",
+"c": ""
+},
+{
+"k": "org:alterity-therapeutics",
+"t": "company",
+"n": "Alterity Therapeutics",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:hopital-pierre-paul-riquet",
+"t": "hospital",
+"n": "Hôpital Pierre-Paul Riquet",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:centre-hospitalier-universitaire-de-bordeaux",
+"t": "hospital",
+"n": "Centre Hospitalier Universitaire de Bordeaux",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:hopital-de-la-timone",
+"t": "hospital",
+"n": "Hôpital de la Timone",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:hopital-universitaire-pitie-salpetriere",
+"t": "hospital",
+"n": "Hôpital Universitaire Pitié Salpêtrière",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "drug:ath434",
+"t": "drug",
+"n": "ATH434",
+"sub": "Alterity Therapeutics",
 "url": "",
 "c": ""
 },
@@ -369,30 +880,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07729852",
-"t": "trial",
-"n": "Open-Label Access to ATH434 for Patients Who Completed Study ATH434-201 in France",
-"sub": "P2 · enrolling_by_invitation · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07729852",
-"c": ""
-},
-{
-"k": "org:alterity-therapeutics",
-"t": "company",
-"n": "Alterity Therapeutics",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:ath434",
-"t": "drug",
-"n": "ATH434",
-"sub": "Alterity Therapeutics",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07197866",
 "t": "trial",
 "n": "An Extension Trial to Test if TEV-56286 is Effective in Relieving Multiple System Atrophy",
@@ -417,12 +904,20 @@
 "c": ""
 },
 {
+"k": "org:farmer-family-foundation",
+"t": "foundation",
+"n": "Farmer Family Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "org:university-of-michigan",
 "t": "academic",
 "n": "University of Michigan",
 "sub": "",
 "url": "",
-"c": "US"
+"c": ""
 },
 {
 "k": "person:prabesh-kanel",
@@ -431,6 +926,14 @@
 "sub": "principal investigator · University of Michigan",
 "url": "",
 "c": ""
+},
+{
+"k": "org:domino-s-farms",
+"t": "company",
+"n": "Domino's Farms",
+"sub": "",
+"url": "",
+"c": "United States"
 },
 {
 "k": "drug:tributyrin",
@@ -457,6 +960,38 @@
 "c": ""
 },
 {
+"k": "org:the-parkinson-s-movement-and-disorder-institute",
+"t": "academic",
+"n": "The Parkinson's Movement and Disorder Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-southern-california",
+"t": "academic",
+"n": "University of Southern California",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:david-geffen-school-of-medicine-at-ucla",
+"t": "academic",
+"n": "David Geffen School of Medicine at UCLA",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:stanford-university-school-of-medicine",
+"t": "academic",
+"n": "Stanford University School of Medicine",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "org:cenexel-rocky-mountain-clinical-research",
 "t": "hospital",
 "n": "CenExel Rocky Mountain Clinical Research",
@@ -465,9 +1000,33 @@
 "c": "United States"
 },
 {
+"k": "org:yale-school-of-medicine-yale-church-street-research-unit-crs",
+"t": "academic",
+"n": "Yale School of Medicine - Yale Church Street Research Unit (CRSU)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:norman-fixel-institute-for-neurological-diseases-university",
+"t": "academic",
+"n": "Norman Fixel Institute for Neurological Diseases - University of Florida",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "org:mayo-clinic-in-florida",
 "t": "hospital",
 "n": "Mayo Clinic in Florida",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-miami-miller-school-of-medicine",
+"t": "academic",
+"n": "University of Miami Miller School of Medicine",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -537,6 +1096,22 @@
 "c": ""
 },
 {
+"k": "org:university-of-california-los-angeles",
+"t": "academic",
+"n": "University of California Los Angeles",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-colorado",
+"t": "academic",
+"n": "University of Colorado",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "org:university-of-florida",
 "t": "academic",
 "n": "University of Florida",
@@ -545,9 +1120,25 @@
 "c": "United States"
 },
 {
+"k": "org:kansas-university-medical-center",
+"t": "hospital",
+"n": "Kansas University Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "org:university-of-rochester-medical-center",
 "t": "hospital",
 "n": "University of Rochester Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ohio-state-university",
+"t": "academic",
+"n": "Ohio State University",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -569,94 +1160,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06523400",
-"t": "trial",
-"n": "The Efficacy and Safety of Once Daily Mexiletine PR in Patients With Myotonic Dystrophy Ty",
-"sub": "P3 · recruiting · 2025-2027",
-"url": "https://clinicaltrials.gov/study/NCT06523400",
-"c": ""
-},
-{
-"k": "org:lupin",
-"t": "company",
-"n": "Lupin Ltd.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:lupin-atlantis-holdings-s-a",
-"t": "company",
-"n": "Lupin Atlantis Holdings S.A.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:laboratory-for-muscle-diseases-and-neuropathies",
-"t": "company",
-"n": "Laboratory for Muscle Diseases and Neuropathies",
-"sub": "",
-"url": "",
-"c": "Belgium"
-},
-{
-"k": "org:aarhus-university-hospital",
-"t": "hospital",
-"n": "Aarhus University Hospital",
-"sub": "",
-"url": "",
-"c": "Denmark"
-},
-{
-"k": "org:ludug-maximilians-university",
-"t": "academic",
-"n": "Ludug-Maximilians University",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:azienda-ospedaliera-universitaria-policlinico-tor-vergata",
-"t": "hospital",
-"n": "Azienda Ospedaliera Universitaria Policlinico Tor Vergata",
-"sub": "",
-"url": "",
-"c": "Italy"
-},
-{
-"k": "org:university-hospital-of-madrid",
-"t": "hospital",
-"n": "University Hospital of Madrid",
-"sub": "",
-"url": "",
-"c": "Spain"
-},
-{
-"k": "org:saint-george-s-university-hospitals-nhs-foundation-trust",
-"t": "hospital",
-"n": "Saint George's University Hospitals NHS Foundation Trust",
-"sub": "",
-"url": "",
-"c": "United Kingdom"
-},
-{
-"k": "org:university-college-hospital",
-"t": "hospital",
-"n": "University College Hospital",
-"sub": "",
-"url": "",
-"c": "United Kingdom"
-},
-{
-"k": "drug:mexiletine-granules-for-prolonged-release-oral-suspension",
-"t": "drug",
-"n": "Mexiletine granules for prolonged-release oral suspension",
-"sub": "Lupin Ltd.",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct05526391",
 "t": "trial",
 "n": "A Study of TAK-341 in Treatment of Multiple System Atrophy",
@@ -668,6 +1171,14 @@
 "k": "org:takeda",
 "t": "company",
 "n": "Takeda",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:takeda-note-this-product-was-divested-to-alexion-astrazeneca",
+"t": "company",
+"n": "Takeda (Note: This product was divested to Alexion/AstraZeneca in 2026)",
 "sub": "",
 "url": "",
 "c": ""
@@ -757,6 +1268,94 @@
 "t": "drug",
 "n": "TAK-341",
 "sub": "Takeda",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06523400",
+"t": "trial",
+"n": "The Efficacy and Safety of Once Daily Mexiletine PR in Patients With Myotonic Dystrophy Ty",
+"sub": "P3 · recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT06523400",
+"c": ""
+},
+{
+"k": "org:lupin",
+"t": "company",
+"n": "Lupin Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:lupin-atlantis-holdings-s-a",
+"t": "company",
+"n": "Lupin Atlantis Holdings S.A.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:laboratory-for-muscle-diseases-and-neuropathies",
+"t": "company",
+"n": "Laboratory for Muscle Diseases and Neuropathies",
+"sub": "",
+"url": "",
+"c": "Belgium"
+},
+{
+"k": "org:aarhus-university-hospital",
+"t": "hospital",
+"n": "Aarhus University Hospital",
+"sub": "",
+"url": "",
+"c": "Denmark"
+},
+{
+"k": "org:ludug-maximilians-university",
+"t": "academic",
+"n": "Ludug-Maximilians University",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
+"k": "org:azienda-ospedaliera-universitaria-policlinico-tor-vergata",
+"t": "hospital",
+"n": "Azienda Ospedaliera Universitaria Policlinico Tor Vergata",
+"sub": "",
+"url": "",
+"c": "Italy"
+},
+{
+"k": "org:university-hospital-of-madrid",
+"t": "hospital",
+"n": "University Hospital of Madrid",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:saint-george-s-university-hospitals-nhs-foundation-trust",
+"t": "hospital",
+"n": "Saint George's University Hospitals NHS Foundation Trust",
+"sub": "",
+"url": "",
+"c": "United Kingdom"
+},
+{
+"k": "org:university-college-hospital",
+"t": "hospital",
+"n": "University College Hospital",
+"sub": "",
+"url": "",
+"c": "United Kingdom"
+},
+{
+"k": "drug:mexiletine-granules-for-prolonged-release-oral-suspension",
+"t": "drug",
+"n": "Mexiletine granules for prolonged-release oral suspension",
+"sub": "Lupin Ltd.",
 "url": "",
 "c": ""
 },
@@ -2065,54 +2664,6 @@
 "c": ""
 },
 {
-"k": "trial:nct05733572",
-"t": "trial",
-"n": "Safety and Efficacy of the PAINLESS Nerve Growth Factor CHF6467 in Optic Pathway Glioma (O",
-"sub": "P2 · active_not_recruiting · 2023-2026",
-"url": "https://clinicaltrials.gov/study/NCT05733572",
-"c": ""
-},
-{
-"k": "org:benedetto-falsini",
-"t": "academic",
-"n": "Benedetto Falsini",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:universita-cattolica-del-s-cuore-fondazione-policlinico-a-ge",
-"t": "hospital",
-"n": "universita Cattolica del S. Cuore/Fondazione policlinico A. Gemelli, IRCCS",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:benedetto-falsini",
-"t": "person",
-"n": "Benedetto Falsini",
-"sub": "principal investigator · universita Cattolica del S. Cuore/Fondazione policlinico A. Gemel",
-"url": "",
-"c": ""
-},
-{
-"k": "org:catholic-university-policlinico-a-gemelli-hospital",
-"t": "hospital",
-"n": "Catholic University, Policlinico A. Gemelli (Hospital)",
-"sub": "",
-"url": "",
-"c": "Italy"
-},
-{
-"k": "drug:chf6467",
-"t": "drug",
-"n": "CHF6467",
-"sub": "Benedetto Falsini",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07465198",
 "t": "trial",
 "n": "Autologous Stem Cell Therapy in Patients With Multiple System Atrophy",
@@ -2521,2950 +3072,6 @@
 "c": ""
 },
 {
-"k": "paper:pmid-33802176",
-"t": "paper",
-"n": "The Use and Impact of Cognitive Enhancers among University Students: A Systematic Review",
-"sub": "Brain Sciences 2021 · cited 168",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33802176",
-"c": ""
-},
-{
-"k": "person:safia-sharif",
-"t": "person",
-"n": "Safia Sharif",
-"sub": "University of Hertfordshire",
-"url": "https://orcid.org/0000-0001-7658-9251",
-"c": "GB"
-},
-{
-"k": "org:university-of-hertfordshire",
-"t": "academic",
-"n": "University of Hertfordshire",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "person:amira-guirguis",
-"t": "person",
-"n": "Amira Guirguis",
-"sub": "University of Hertfordshire",
-"url": "https://orcid.org/0000-0001-8255-0660",
-"c": "GB"
-},
-{
-"k": "org:swansea-university",
-"t": "academic",
-"n": "Swansea University",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "person:suzanne-fergus",
-"t": "person",
-"n": "Suzanne Fergus",
-"sub": "University of Hertfordshire",
-"url": "https://orcid.org/0000-0002-7134-0665",
-"c": "GB"
-},
-{
-"k": "person:fabrizio-schifano",
-"t": "person",
-"n": "Fabrizio Schifano",
-"sub": "University of Hertfordshire",
-"url": "https://orcid.org/0000-0002-4178-5401",
-"c": "GB"
-},
-{
-"k": "paper:pmid-29183836",
-"t": "paper",
-"n": "An update on vinpocetine: New discoveries and clinical implications",
-"sub": "European Journal of Pharmacology 2017 · cited 163",
-"url": "https://pubmed.ncbi.nlm.nih.gov/29183836",
-"c": ""
-},
-{
-"k": "person:yishuai-zhang",
-"t": "person",
-"n": "Yishuai Zhang",
-"sub": "University of Rochester Medicine",
-"url": "https://orcid.org/0000-0001-6682-7236",
-"c": "US"
-},
-{
-"k": "org:university-of-rochester-medicine",
-"t": "hospital",
-"n": "University of Rochester Medicine",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:university-of-rochester",
-"t": "academic",
-"n": "University of Rochester",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:yan-chen",
-"t": "person",
-"n": "Yan Chen",
-"sub": "University of Rochester Medicine",
-"url": "https://orcid.org/0000-0002-1397-6358",
-"c": "US"
-},
-{
-"k": "org:national-institutes-of-health",
-"t": "funder",
-"n": "National Institutes of Health",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:national-heart-lung-and-blood-institute",
-"t": "funder",
-"n": "National Heart, Lung, and Blood Institute",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-institute-on-deafness-and-other-communication-disor",
-"t": "funder",
-"n": "National Institute on Deafness and Other Communication Disorders",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-28786085",
-"t": "paper",
-"n": "Pharmacotherapy for Vascular Cognitive Impairment",
-"sub": "CNS Drugs 2017 · cited 150",
-"url": "https://pubmed.ncbi.nlm.nih.gov/28786085",
-"c": ""
-},
-{
-"k": "person:muhammad-umar-farooq",
-"t": "person",
-"n": "Muhammad Umar Farooq",
-"sub": "Mercy Health",
-"url": "https://orcid.org/0009-0008-7868-2984",
-"c": "US"
-},
-{
-"k": "org:mercy-health",
-"t": "hospital",
-"n": "Mercy Health",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:philip-b-gorelick",
-"t": "person",
-"n": "Philip B. Gorelick",
-"sub": "Mercy Health",
-"url": "https://orcid.org/0000-0002-1181-614X",
-"c": "US"
-},
-{
-"k": "org:michigan-state-university",
-"t": "academic",
-"n": "Michigan State University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "paper:pmid-34007405",
-"t": "paper",
-"n": "Neuroprotective Phytochemicals in Experimental Ischemic Stroke: Mechanisms and Potential C",
-"sub": "Oxidative Medicine and Cellular Longevity 2021 · cited 131",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34007405",
-"c": ""
-},
-{
-"k": "person:hui-xu",
-"t": "person",
-"n": "Hui Xu",
-"sub": "Shenzhen University",
-"url": "https://orcid.org/0000-0002-5954-8404",
-"c": "CN"
-},
-{
-"k": "org:shenzhen-university",
-"t": "academic",
-"n": "Shenzhen University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "org:university-of-hong-kong",
-"t": "academic",
-"n": "University of Hong Kong",
-"sub": "",
-"url": "",
-"c": "HK"
-},
-{
-"k": "person:jianbo-xiao",
-"t": "person",
-"n": "Jianbo Xiao",
-"sub": "Jiangsu University",
-"url": "https://orcid.org/0000-0003-3311-770X",
-"c": "CN"
-},
-{
-"k": "org:jiangsu-university",
-"t": "academic",
-"n": "Jiangsu University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:mingfu-wang",
-"t": "person",
-"n": "Mingfu Wang",
-"sub": "Shenzhen University",
-"url": "https://orcid.org/0000-0003-1469-3963",
-"c": "CN"
-},
-{
-"k": "paper:pmid-32715279",
-"t": "paper",
-"n": "Phosphodiesterase Inhibitors for Alzheimer’s Disease: A Systematic Review of Clinical Tria",
-"sub": "Journal of Alzheimer s Disease Reports 2020 · cited 113",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32715279",
-"c": ""
-},
-{
-"k": "person:owen-davis-sanders",
-"t": "person",
-"n": "Owen Davis Sanders",
-"sub": "Portland State University",
-"url": "https://orcid.org/0000-0003-4093-3166",
-"c": "US"
-},
-{
-"k": "org:portland-state-university",
-"t": "academic",
-"n": "Portland State University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "paper:pmid-28315429",
-"t": "paper",
-"n": "Vinpocetine reduces diclofenac-induced acute kidney injury through inhibition of oxidative",
-"sub": "Pharmacological Research 2017 · cited 94",
-"url": "https://pubmed.ncbi.nlm.nih.gov/28315429",
-"c": ""
-},
-{
-"k": "person:victor-fattori",
-"t": "person",
-"n": "Victor Fattori",
-"sub": "Universidade Estadual de Londrina",
-"url": "https://orcid.org/0000-0002-4565-7706",
-"c": "BR"
-},
-{
-"k": "org:universidade-estadual-de-londrina",
-"t": "academic",
-"n": "Universidade Estadual de Londrina",
-"sub": "",
-"url": "",
-"c": "BR"
-},
-{
-"k": "person:waldiceu-aparecido-verri-jr",
-"t": "person",
-"n": "Waldiceu Aparecido Verri Jr",
-"sub": "Universidade Estadual de Londrina",
-"url": "https://orcid.org/0000-0003-2756-9283",
-"c": "BR"
-},
-{
-"k": "paper:pmid-37270609",
-"t": "paper",
-"n": "Structural mapping of Nav1.7 antagonists",
-"sub": "Nature Communications 2023 · cited 84",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37270609",
-"c": ""
-},
-{
-"k": "person:qiurong-wu",
-"t": "person",
-"n": "Qiurong Wu",
-"sub": "Center for Life Sciences",
-"url": "https://orcid.org/0009-0003-2325-2390",
-"c": "CN"
-},
-{
-"k": "org:center-for-life-sciences",
-"t": "academic",
-"n": "Center for Life Sciences",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "org:tsinghua-university",
-"t": "academic",
-"n": "Tsinghua University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:jian-huang",
-"t": "person",
-"n": "Jian Huang",
-"sub": "Princeton University",
-"url": "https://orcid.org/0000-0002-6861-0425",
-"c": "US"
-},
-{
-"k": "org:princeton-university",
-"t": "academic",
-"n": "Princeton University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:xiao-fan",
-"t": "person",
-"n": "Xiao Fan",
-"sub": "Princeton University",
-"url": "https://orcid.org/0000-0001-9855-1641",
-"c": "US"
-},
-{
-"k": "person:xiaojing-pan",
-"t": "person",
-"n": "Xiaojing Pan",
-"sub": "Center for Life Sciences",
-"url": "https://orcid.org/0000-0003-1882-5361",
-"c": "CN"
-},
-{
-"k": "person:nieng-yan",
-"t": "person",
-"n": "Nieng Yan",
-"sub": "Princeton University",
-"url": "https://orcid.org/0000-0003-4829-7416",
-"c": "US"
-},
-{
-"k": "org:national-natural-science-foundation-of-china",
-"t": "funder",
-"n": "National Natural Science Foundation of China",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-28691141",
-"t": "paper",
-"n": "Vinpocetine Inhibits NF-κB-Dependent Inflammation in Acute Ischemic Stroke Patients",
-"sub": "Translational Stroke Research 2017 · cited 81",
-"url": "https://pubmed.ncbi.nlm.nih.gov/28691141",
-"c": ""
-},
-{
-"k": "person:fang-zhang",
-"t": "person",
-"n": "Fang Zhang",
-"sub": "Tianjin Medical University General Hospital",
-"url": "https://orcid.org/0000-0002-3707-9272",
-"c": "CN"
-},
-{
-"k": "org:tianjin-medical-university",
-"t": "academic",
-"n": "Tianjin Medical University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:junwei-hao",
-"t": "person",
-"n": "Junwei Hao",
-"sub": "Tianjin Medical University General Hospital",
-"url": "https://orcid.org/0000-0002-3075-5434",
-"c": "CN"
-},
-{
-"k": "org:tianjin-university",
-"t": "funder",
-"n": "Tianjin University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-31536753",
-"t": "paper",
-"n": "Phosphodiesterase inhibitors say NO to Alzheimer's disease",
-"sub": "Food and Chemical Toxicology 2019 · cited 81",
-"url": "https://pubmed.ncbi.nlm.nih.gov/31536753",
-"c": ""
-},
-{
-"k": "person:seyed-mohammad-nabavi",
-"t": "person",
-"n": "Seyed Mohammad Nabavi",
-"sub": "Baqiyatallah University of Medical Sciences",
-"url": "https://orcid.org/0000-0001-8859-5675",
-"c": "IR"
-},
-{
-"k": "org:baqiyatallah-university-of-medical-sciences",
-"t": "academic",
-"n": "Baqiyatallah University of Medical Sciences",
-"sub": "",
-"url": "",
-"c": "IR"
-},
-{
-"k": "person:mohammad-hosein-farzaei",
-"t": "person",
-"n": "Mohammad Hosein Farzaei",
-"sub": "Kermanshah University of Medical Sciences",
-"url": "https://orcid.org/0000-0001-7081-6521",
-"c": "IR"
-},
-{
-"k": "org:kermanshah-university-of-medical-sciences",
-"t": "academic",
-"n": "Kermanshah University of Medical Sciences",
-"sub": "",
-"url": "",
-"c": "IR"
-},
-{
-"k": "paper:pmid-30981765",
-"t": "paper",
-"n": "Neuroprotective effects of novel nanosystems simultaneously loaded with vinpocetine and pi",
-"sub": "Life Sciences 2019 · cited 71",
-"url": "https://pubmed.ncbi.nlm.nih.gov/30981765",
-"c": ""
-},
-{
-"k": "person:maha-nasr",
-"t": "person",
-"n": "Maha Nasr",
-"sub": "Ain Shams University",
-"url": "https://orcid.org/0000-0002-0912-7011",
-"c": "EG"
-},
-{
-"k": "person:sara-a-wahdan",
-"t": "person",
-"n": "Sara A. Wahdan",
-"sub": "Ain Shams University",
-"url": "https://orcid.org/0000-0003-1002-421X",
-"c": "EG"
-},
-{
-"k": "paper:pmid-29502274",
-"t": "paper",
-"n": "The treatment of cognitive dysfunction in dementia: a multiple treatments meta-analysis",
-"sub": "Psychopharmacology 2018 · cited 69",
-"url": "https://pubmed.ncbi.nlm.nih.gov/29502274",
-"c": ""
-},
-{
-"k": "person:chenghwang-perng",
-"t": "person",
-"n": "Cheng‐Hwang Perng",
-"sub": "Aletheia University",
-"url": "",
-"c": "TW"
-},
-{
-"k": "org:aletheia-university",
-"t": "academic",
-"n": "Aletheia University",
-"sub": "",
-"url": "",
-"c": "TW"
-},
-{
-"k": "person:ruufen-tzang",
-"t": "person",
-"n": "Ruu‐Fen Tzang",
-"sub": "Mackay Memorial Hospital",
-"url": "https://orcid.org/0000-0001-9527-6306",
-"c": "TW"
-},
-{
-"k": "org:mackay-memorial-hospital",
-"t": "hospital",
-"n": "Mackay Memorial Hospital",
-"sub": "",
-"url": "",
-"c": "TW"
-},
-{
-"k": "org:mackay-medical-university",
-"t": "academic",
-"n": "Mackay Medical University",
-"sub": "",
-"url": "",
-"c": "TW"
-},
-{
-"k": "org:ministry-of-science-and-technology-taiwan",
-"t": "funder",
-"n": "Ministry of Science and Technology, Taiwan",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32840391",
-"t": "paper",
-"n": "Vinpocetine attenuates thioacetamide-induced liver fibrosis in rats",
-"sub": "Human & Experimental Toxicology 2020 · cited 68",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32840391",
-"c": ""
-},
-{
-"k": "person:ahmed-a-elnfarawy",
-"t": "person",
-"n": "Ahmed A Elnfarawy",
-"sub": "Mansoura University",
-"url": "https://orcid.org/0000-0002-3926-5407",
-"c": "EG"
-},
-{
-"k": "org:mansoura-university",
-"t": "academic",
-"n": "Mansoura University",
-"sub": "",
-"url": "",
-"c": "EG"
-},
-{
-"k": "person:rehab-s-abdelrahman",
-"t": "person",
-"n": "Rehab S. Abdelrahman",
-"sub": "Mansoura University",
-"url": "https://orcid.org/0000-0002-5140-1774",
-"c": "EG"
-},
-{
-"k": "org:taibah-university",
-"t": "academic",
-"n": "Taibah University",
-"sub": "",
-"url": "",
-"c": "SA"
-},
-{
-"k": "paper:pmid-31991177",
-"t": "paper",
-"n": "The protective and therapeutic effects of vinpocetine, a PDE1 inhibitor, on oxidative stre",
-"sub": "Behavioural Brain Research 2020 · cited 65",
-"url": "https://pubmed.ncbi.nlm.nih.gov/31991177",
-"c": ""
-},
-{
-"k": "person:meysam-shekarian",
-"t": "person",
-"n": "Meysam Shekarian",
-"sub": "Hamedan University of Medical Sciences",
-"url": "",
-"c": "IR"
-},
-{
-"k": "org:hamedan-university-of-medical-sciences",
-"t": "academic",
-"n": "Hamedan University of Medical Sciences",
-"sub": "",
-"url": "",
-"c": "IR"
-},
-{
-"k": "person:alireza-komaki",
-"t": "person",
-"n": "Alireza Komaki‬",
-"sub": "Hamedan University of Medical Sciences",
-"url": "https://orcid.org/0000-0003-3865-9583",
-"c": "IR"
-},
-{
-"k": "person:safoura-raoufi",
-"t": "person",
-"n": "Safoura Raoufi",
-"sub": "Hamedan University of Medical Sciences",
-"url": "https://orcid.org/0000-0002-4278-550X",
-"c": "IR"
-},
-{
-"k": "org:hamadan-university-of-medical-sciences",
-"t": "funder",
-"n": "Hamadan University of Medical Sciences",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-37793522",
-"t": "paper",
-"n": "Development and optimization of in-situ gel containing chitosan nanoparticles for possible",
-"sub": "International Journal of Biological Macromolecules 2023 · cited 65",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37793522",
-"c": ""
-},
-{
-"k": "person:sumaia-abdulbari-ahmed-ali-hard",
-"t": "person",
-"n": "Sumaia Abdulbari Ahmed Ali Hard",
-"sub": "KLE Academy of Higher Education and Research",
-"url": "https://orcid.org/0009-0008-8435-0820",
-"c": "IN"
-},
-{
-"k": "org:kle-academy-of-higher-education-and-research",
-"t": "academic",
-"n": "KLE Academy of Higher Education and Research",
-"sub": "",
-"url": "",
-"c": "IN"
-},
-{
-"k": "person:hagalavadi-nanjappa-shivakumar",
-"t": "person",
-"n": "Hagalavadi Nanjappa Shivakumar",
-"sub": "KLE Academy of Higher Education and Research",
-"url": "https://orcid.org/0000-0003-1596-9941",
-"c": "IN"
-},
-{
-"k": "person:moqbel-ali-moqbel-redhwan",
-"t": "person",
-"n": "Moqbel Ali Moqbel Redhwan",
-"sub": "KLE Academy of Higher Education and Research",
-"url": "https://orcid.org/0000-0002-7546-8295",
-"c": "IN"
-},
-{
-"k": "org:amrita-vishwa-vidyapeetham-university",
-"t": "funder",
-"n": "Amrita Vishwa Vidyapeetham University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:jss-academy-of-higher-education-and-research",
-"t": "funder",
-"n": "JSS Academy of Higher Education and Research",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:vision-group-on-science-and-technology",
-"t": "funder",
-"n": "Vision Group on Science and Technology",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32166194",
-"t": "paper",
-"n": "Role of vinpocetine in ischemic stroke and poststroke outcomes: A critical review",
-"sub": "Brain Circulation 2020 · cited 65",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32166194",
-"c": ""
-},
-{
-"k": "person:hayder-mutter-al-kuraishy",
-"t": "person",
-"n": "Hayder Mutter Al-Kuraishy",
-"sub": "Mustansiriyah University",
-"url": "https://orcid.org/0000-0003-3097-2962",
-"c": "IQ"
-},
-{
-"k": "org:mustansiriyah-university",
-"t": "academic",
-"n": "Mustansiriyah University",
-"sub": "",
-"url": "",
-"c": "IQ"
-},
-{
-"k": "person:farah-al-mamorri",
-"t": "person",
-"n": "Farah Al-Mamorri",
-"sub": "Mustansiriyah University",
-"url": "",
-"c": "IQ"
-},
-{
-"k": "paper:pmid-30551388",
-"t": "paper",
-"n": "Effects of nimodipine, vinpocetine and their combination on isoproterenol-induced myocardi",
-"sub": "Biomedicine & Pharmacotherapy 2018 · cited 64",
-"url": "https://pubmed.ncbi.nlm.nih.gov/30551388",
-"c": ""
-},
-{
-"k": "person:mohd-asif-ansari",
-"t": "person",
-"n": "Mohd Asif Ansari",
-"sub": "Jamia Hamdard",
-"url": "",
-"c": "IN"
-},
-{
-"k": "org:jamia-hamdard",
-"t": "academic",
-"n": "Jamia Hamdard",
-"sub": "",
-"url": "",
-"c": "IN"
-},
-{
-"k": "person:syed-ehtaishamul-haque",
-"t": "person",
-"n": "Syed Ehtaishamul Haque",
-"sub": "Jamia Hamdard",
-"url": "https://orcid.org/0000-0003-2333-1577",
-"c": "IN"
-},
-{
-"k": "org:university-grants-commission",
-"t": "funder",
-"n": "University Grants Commission",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32300287",
-"t": "paper",
-"n": "Vinpocetine Protects Against Cerebral Ischemia-Reperfusion Injury by Targeting Astrocytic ",
-"sub": "Frontiers in Neuroscience 2020 · cited 64",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32300287",
-"c": ""
-},
-{
-"k": "person:mingming-zhao",
-"t": "person",
-"n": "Mingming Zhao",
-"sub": "Jilin University",
-"url": "",
-"c": "CN"
-},
-{
-"k": "org:jilin-university",
-"t": "academic",
-"n": "Jilin University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "org:first-hospital-of-jilin-university",
-"t": "hospital",
-"n": "First Hospital of Jilin University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:di-ma",
-"t": "person",
-"n": "Di Ma",
-"sub": "Jilin University",
-"url": "https://orcid.org/0000-0002-3555-1481",
-"c": "CN"
-},
-{
-"k": "person:jiachun-feng",
-"t": "person",
-"n": "Jiachun Feng",
-"sub": "Jilin University",
-"url": "https://orcid.org/0000-0003-4845-424X",
-"c": "CN"
-},
-{
-"k": "org:people-s-government-of-jilin-province",
-"t": "funder",
-"n": "People's Government of Jilin Province",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-29582403",
-"t": "paper",
-"n": "Medications and Prescribing Patterns as Factors Associated with Hospitalizations from Long",
-"sub": "Drugs & Aging 2018 · cited 62",
-"url": "https://pubmed.ncbi.nlm.nih.gov/29582403",
-"c": ""
-},
-{
-"k": "person:kate-wang",
-"t": "person",
-"n": "Kate Wang",
-"sub": "Monash University",
-"url": "https://orcid.org/0000-0001-5208-1090",
-"c": "AU"
-},
-{
-"k": "org:monash-university",
-"t": "academic",
-"n": "Monash University",
-"sub": "",
-"url": "",
-"c": "AU"
-},
-{
-"k": "person:jenni-ilomaki",
-"t": "person",
-"n": "Jenni Ilomäki",
-"sub": "Monash University",
-"url": "https://orcid.org/0000-0002-0348-9441",
-"c": "AU"
-},
-{
-"k": "org:australian-government",
-"t": "funder",
-"n": "Australian Government",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:medical-research-council",
-"t": "funder",
-"n": "Medical Research Council",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "org:national-health-and-medical-research-council",
-"t": "funder",
-"n": "National Health and Medical Research Council",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-33614626",
-"t": "paper",
-"n": "Inhibition of PDE1-B by Vinpocetine Regulates Microglial Exosomes and Polarization Through",
-"sub": "Frontiers in Cell and Developmental Biology 2021 · cited 61",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33614626",
-"c": ""
-},
-{
-"k": "person:jiankun-zang",
-"t": "person",
-"n": "Jiankun Zang",
-"sub": "Jinan University",
-"url": "https://orcid.org/0000-0003-1160-8778",
-"c": "CN"
-},
-{
-"k": "org:jinan-university",
-"t": "academic",
-"n": "Jinan University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "org:first-affiliated-hospital-of-jinan-university",
-"t": "hospital",
-"n": "First Affiliated Hospital of Jinan University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:anding-xu",
-"t": "person",
-"n": "Anding Xu",
-"sub": "Jinan University",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:dan-lu",
-"t": "person",
-"n": "Dan Lu",
-"sub": "Jinan University",
-"url": "https://orcid.org/0000-0001-9362-9796",
-"c": "CN"
-},
-{
-"k": "org:natural-science-foundation-of-guangdong-province",
-"t": "funder",
-"n": "Natural Science Foundation of Guangdong Province",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:science-and-technology-planning-project-of-guangdong-provinc",
-"t": "funder",
-"n": "Science and Technology Planning Project of Guangdong Province",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-natural-science-foundation-of-china-guangdong-joint",
-"t": "funder",
-"n": "National Natural Science Foundation of China-Guangdong Joint Fund",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-28233134",
-"t": "paper",
-"n": "Ocular Complications Following Autologous Fat Injections into Facial Area: Case Report of ",
-"sub": "Aesthetic Plastic Surgery 2017 · cited 60",
-"url": "https://pubmed.ncbi.nlm.nih.gov/28233134",
-"c": ""
-},
-{
-"k": "person:aleksandra-szantyr",
-"t": "person",
-"n": "Aleksandra Szantyr",
-"sub": "Jagiellonian University",
-"url": "",
-"c": "PL"
-},
-{
-"k": "org:jagiellonian-university",
-"t": "academic",
-"n": "Jagiellonian University",
-"sub": "",
-"url": "",
-"c": "PL"
-},
-{
-"k": "person:jan-zapaa",
-"t": "person",
-"n": "Jan Zapała",
-"sub": "Jagiellonian University",
-"url": "https://orcid.org/0000-0002-5439-9614",
-"c": "PL"
-},
-{
-"k": "paper:pmid-29113305",
-"t": "paper",
-"n": "Vinpocetine alleviate cerebral ischemia/reperfusion injury by down-regulating TLR4/MyD88/N",
-"sub": "Oncotarget 2017 · cited 56",
-"url": "https://pubmed.ncbi.nlm.nih.gov/29113305",
-"c": ""
-},
-{
-"k": "person:lirong-wu",
-"t": "person",
-"n": "Lirong Wu",
-"sub": "Army Medical University",
-"url": "",
-"c": "CN"
-},
-{
-"k": "org:army-medical-university",
-"t": "academic",
-"n": "Army Medical University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "org:xinqiao-hospital",
-"t": "hospital",
-"n": "Xinqiao Hospital",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:qingwu-yang",
-"t": "person",
-"n": "Qingwu Yang",
-"sub": "Army Medical University",
-"url": "https://orcid.org/0000-0002-2596-2631",
-"c": "CN"
-},
-{
-"k": "paper:pmid-28321644",
-"t": "paper",
-"n": "Vinpocetine Attenuates Pathological Cardiac Remodeling by Inhibiting Cardiac Hypertrophy a",
-"sub": "Cardiovascular Drugs and Therapy 2017 · cited 54",
-"url": "https://pubmed.ncbi.nlm.nih.gov/28321644",
-"c": ""
-},
-{
-"k": "person:meiping-wu",
-"t": "person",
-"n": "Meiping Wu",
-"sub": "University of Rochester Medicine",
-"url": "https://orcid.org/0009-0003-7974-7130",
-"c": "US"
-},
-{
-"k": "org:shanghai-university-of-traditional-chinese-medicine",
-"t": "academic",
-"n": "Shanghai University of Traditional Chinese Medicine",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:jiandong-li",
-"t": "person",
-"n": "Jiandong Li",
-"sub": "Georgia State University",
-"url": "https://orcid.org/0000-0002-5593-050X",
-"c": "US"
-},
-{
-"k": "org:georgia-state-university",
-"t": "academic",
-"n": "Georgia State University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "paper:pmid-30858122",
-"t": "paper",
-"n": "Phosphodiestrase-1 and 4 inhibitors ameliorate liver fibrosis in rats: Modulation of cAMP/",
-"sub": "Life Sciences 2019 · cited 53",
-"url": "https://pubmed.ncbi.nlm.nih.gov/30858122",
-"c": ""
-},
-{
-"k": "person:reham-m-essam",
-"t": "person",
-"n": "Reham M. Essam",
-"sub": "Cairo University",
-"url": "https://orcid.org/0000-0002-7300-6222",
-"c": "EG"
-},
-{
-"k": "org:cairo-university",
-"t": "academic",
-"n": "Cairo University",
-"sub": "",
-"url": "",
-"c": "EG"
-},
-{
-"k": "person:aiman-saad-el-khatib",
-"t": "person",
-"n": "Aiman Saad El-Khatib",
-"sub": "Cairo University",
-"url": "https://orcid.org/0000-0002-2074-8337",
-"c": "EG"
-},
-{
-"k": "paper:pmid-28188510",
-"t": "paper",
-"n": "Medication use and risk of falls among nursing home residents: a retrospective cohort stud",
-"sub": "International Journal of Clinical Pharmacy 2017 · cited 52",
-"url": "https://pubmed.ncbi.nlm.nih.gov/28188510",
-"c": ""
-},
-{
-"k": "person:andrea-bor",
-"t": "person",
-"n": "Andrea Bor",
-"sub": "University of Szeged",
-"url": "",
-"c": "HU"
-},
-{
-"k": "org:university-of-szeged",
-"t": "academic",
-"n": "University of Szeged",
-"sub": "",
-"url": "",
-"c": "HU"
-},
-{
-"k": "person:peter-doro",
-"t": "person",
-"n": "Péter Doró",
-"sub": "University of Szeged",
-"url": "https://orcid.org/0000-0001-7784-6010",
-"c": "HU"
-},
-{
-"k": "paper:pmid-35517286",
-"t": "paper",
-"n": "Cubosomes with surface cross-linked chitosan exhibit sustained release and bioavailability",
-"sub": "RSC Advances 2019 · cited 51",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35517286",
-"c": ""
-},
-{
-"k": "person:yuanfeng-wei",
-"t": "person",
-"n": "Yuanfeng Wei",
-"sub": "China Pharmaceutical University",
-"url": "https://orcid.org/0000-0002-9710-4425",
-"c": "CN"
-},
-{
-"k": "org:china-pharmaceutical-university",
-"t": "academic",
-"n": "China Pharmaceutical University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:yuan-gao",
-"t": "person",
-"n": "Yuan Gao",
-"sub": "China Pharmaceutical University",
-"url": "https://orcid.org/0000-0002-9314-6134",
-"c": "CN"
-},
-{
-"k": "person:shuai-qian",
-"t": "person",
-"n": "Shuai Qian",
-"sub": "China Pharmaceutical University",
-"url": "https://orcid.org/0000-0003-1961-4128",
-"c": "CN"
-},
-{
-"k": "org:government-of-jiangsu-province",
-"t": "funder",
-"n": "Government of Jiangsu Province",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:natural-science-foundation-of-jiangsu-province",
-"t": "funder",
-"n": "Natural Science Foundation of Jiangsu Province",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:priority-academic-program-development-of-jiangsu-higher-educ",
-"t": "funder",
-"n": "Priority Academic Program Development of Jiangsu Higher Education Institutions",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-37735487",
-"t": "paper",
-"n": "Microglia in neurodegenerative diseases: mechanism and potential therapeutic targets",
-"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1600",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37735487",
-"c": ""
-},
-{
-"k": "person:chao-gao",
-"t": "person",
-"n": "Chao Gao",
-"sub": "Shanghai Jiao Tong University",
-"url": "https://orcid.org/0000-0001-9718-0148",
-"c": "CN"
-},
-{
-"k": "org:shanghai-jiao-tong-university",
-"t": "academic",
-"n": "Shanghai Jiao Tong University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "org:ruijin-hospital",
-"t": "hospital",
-"n": "Ruijin Hospital",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:yuyan-tan",
-"t": "person",
-"n": "Yuyan Tan",
-"sub": "Shanghai Jiao Tong University",
-"url": "https://orcid.org/0000-0003-1779-6554",
-"c": "CN"
-},
-{
-"k": "person:shengdi-chen",
-"t": "person",
-"n": "Shengdi Chen",
-"sub": "Shanghai Jiao Tong University",
-"url": "https://orcid.org/0000-0002-6242-1025",
-"c": "CN"
-},
-{
-"k": "org:shanghai-municipal-education-commission",
-"t": "funder",
-"n": "Shanghai Municipal Education Commission",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32333900",
-"t": "paper",
-"n": "Blood phosphorylated tau 181 as a biomarker for Alzheimer's disease: a diagnostic performa",
-"sub": "The Lancet Neurology 2020 · cited 1315",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32333900",
-"c": ""
-},
-{
-"k": "person:thomas-k-karikari",
-"t": "person",
-"n": "Thomas K. Karikari",
-"sub": "University of Gothenburg",
-"url": "https://orcid.org/0000-0003-1422-4358",
-"c": "SE"
-},
-{
-"k": "org:university-of-gothenburg",
-"t": "academic",
-"n": "University of Gothenburg",
-"sub": "",
-"url": "",
-"c": "SE"
-},
-{
-"k": "person:kaj-blennow",
-"t": "person",
-"n": "Kaj Blennow",
-"sub": "Sahlgrenska University Hospital",
-"url": "https://orcid.org/0000-0002-1890-4193",
-"c": "SE"
-},
-{
-"k": "org:sahlgrenska-university-hospital",
-"t": "hospital",
-"n": "Sahlgrenska University Hospital",
-"sub": "",
-"url": "",
-"c": "SE"
-},
-{
-"k": "org:alzheimer-s-drug-discovery-foundation",
-"t": "funder",
-"n": "Alzheimer's Drug Discovery Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:association-for-frontotemporal-degeneration",
-"t": "funder",
-"n": "Association for Frontotemporal Degeneration",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:parkinson-research-foundation",
-"t": "funder",
-"n": "Parkinson Research Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:roche",
-"t": "funder",
-"n": "Roche",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-35445419",
-"t": "paper",
-"n": "The Movement Disorder Society Criteria for the Diagnosis of Multiple System Atrophy",
-"sub": "Movement Disorders 2022 · cited 840",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35445419",
-"c": ""
-},
-{
-"k": "person:gregor-karl-wenning",
-"t": "person",
-"n": "Gregor Karl Wenning",
-"sub": "Innsbruck Medical University",
-"url": "https://orcid.org/0000-0001-9077-1666",
-"c": "AT"
-},
-{
-"k": "org:innsbruck-medical-university",
-"t": "academic",
-"n": "Innsbruck Medical University",
-"sub": "",
-"url": "",
-"c": "AT"
-},
-{
-"k": "org:universitat-innsbruck",
-"t": "academic",
-"n": "Universität Innsbruck",
-"sub": "",
-"url": "",
-"c": "AT"
-},
-{
-"k": "person:iva-stankovic",
-"t": "person",
-"n": "Iva Stanković",
-"sub": "University of Belgrade",
-"url": "https://orcid.org/0000-0003-1484-4717",
-"c": "RS"
-},
-{
-"k": "org:university-of-belgrade",
-"t": "academic",
-"n": "University of Belgrade",
-"sub": "",
-"url": "",
-"c": "RS"
-},
-{
-"k": "org:univerzitetski-klinicki-centar-srbije",
-"t": "hospital",
-"n": "Univerzitetski Klinički Centar Srbije",
-"sub": "",
-"url": "",
-"c": "RS"
-},
-{
-"k": "person:horacio-kaufmann",
-"t": "person",
-"n": "Horacio Kaufmann",
-"sub": "NYU Langone Health",
-"url": "https://orcid.org/0000-0002-1851-9981",
-"c": "US"
-},
-{
-"k": "org:new-york-university",
-"t": "academic",
-"n": "New York University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:multiple-system-atrophy-coalition",
-"t": "funder",
-"n": "Multiple System Atrophy Coalition",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-36859484",
-"t": "paper",
-"n": "Alpha-synuclein in Parkinson’s disease and other synucleinopathies: from overt neurodegene",
-"sub": "Cell Death and Disease 2023 · cited 822",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36859484",
-"c": ""
-},
-{
-"k": "person:paolo-calabresi",
-"t": "person",
-"n": "Paolo Calabresi",
-"sub": "Università Cattolica del Sacro Cuore",
-"url": "https://orcid.org/0000-0003-0326-5509",
-"c": "IT"
-},
-{
-"k": "org:universita-cattolica-del-sacro-cuore",
-"t": "academic",
-"n": "Università Cattolica del Sacro Cuore",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "org:agostino-gemelli-university-polyclinic",
-"t": "hospital",
-"n": "Agostino Gemelli University Polyclinic",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "person:veronica-ghiglieri",
-"t": "person",
-"n": "Veronica Ghiglieri",
-"sub": "Agostino Gemelli University Polyclinic",
-"url": "https://orcid.org/0000-0003-2885-8298",
-"c": "IT"
-},
-{
-"k": "org:san-raffaele-university-of-rome",
-"t": "academic",
-"n": "San Raffaele University of Rome",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "org:york-university",
-"t": "funder",
-"n": "York University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:ministero-della-salute",
-"t": "funder",
-"n": "Ministero della Salute",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:ministero-dellistruzione-delluniversita-e-della-ricerca",
-"t": "funder",
-"n": "Ministero dell’Istruzione, dell’Università e della Ricerca",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:school-of-medicine-new-york-university",
-"t": "funder",
-"n": "School of Medicine, New York University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32025029",
-"t": "paper",
-"n": "Discriminating α-synuclein strains in Parkinson’s disease and multiple system atrophy",
-"sub": "Nature 2020 · cited 818",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32025029",
-"c": ""
-},
-{
-"k": "person:claudio-a-soto",
-"t": "person",
-"n": "Claudio A. Soto",
-"sub": "Amprion (United States)",
-"url": "https://orcid.org/0000-0002-3412-0524",
-"c": "US"
-},
-{
-"k": "org:u-s-food-and-drug-administration",
-"t": "funder",
-"n": "U.S. Food and Drug Administration",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-institute-on-aging",
-"t": "funder",
-"n": "National Institute on Aging",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:national-institute-of-neurological-disorders-and-stroke",
-"t": "funder",
-"n": "National Institute of Neurological Disorders and Stroke",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32461689",
-"t": "paper",
-"n": "Structures of α-synuclein filaments from multiple system atrophy",
-"sub": "Nature 2020 · cited 792",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32461689",
-"c": ""
-},
-{
-"k": "person:manuel-schweighauser",
-"t": "person",
-"n": "Manuel Schweighauser",
-"sub": "MRC Laboratory of Molecular Biology",
-"url": "https://orcid.org/0000-0002-1848-1610",
-"c": "GB"
-},
-{
-"k": "org:mrc-laboratory-of-molecular-biology",
-"t": "academic",
-"n": "MRC Laboratory of Molecular Biology",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "person:sjors-h-w-scheres",
-"t": "person",
-"n": "Sjors H. W. Scheres",
-"sub": "MRC Laboratory of Molecular Biology",
-"url": "https://orcid.org/0000-0002-0462-6540",
-"c": "GB"
-},
-{
-"k": "person:michel-goedert",
-"t": "person",
-"n": "Michel Goedert",
-"sub": "MRC Laboratory of Molecular Biology",
-"url": "https://orcid.org/0000-0002-5214-7886",
-"c": "GB"
-},
-{
-"k": "org:wellcome-trust",
-"t": "funder",
-"n": "Wellcome Trust",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:university-of-cambridge",
-"t": "funder",
-"n": "University of Cambridge",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:japan-society-for-the-promotion-of-science",
-"t": "funder",
-"n": "Japan Society for the Promotion of Science",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-34233031",
-"t": "paper",
-"n": "Malnutrition, Frailty, and Sarcopenia in Patients With Cirrhosis: 2021 Practice Guidance b",
-"sub": "Hepatology 2021 · cited 737",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34233031",
-"c": ""
-},
-{
-"k": "person:jennifer-c-lai",
-"t": "person",
-"n": "Jennifer C. Lai",
-"sub": "University of California, San Francisco",
-"url": "https://orcid.org/0000-0003-2092-6380",
-"c": "US"
-},
-{
-"k": "org:university-of-california-san-francisco",
-"t": "academic",
-"n": "University of California, San Francisco",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:elizabeth-j-carey",
-"t": "person",
-"n": "Elizabeth J. Carey",
-"sub": "Mayo Clinic in Arizona",
-"url": "https://orcid.org/0000-0001-8580-2122",
-"c": "US"
-},
-{
-"k": "org:mayo-clinic-in-arizona",
-"t": "hospital",
-"n": "Mayo Clinic in Arizona",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:american-association-for-the-study-of-liver-diseases",
-"t": "funder",
-"n": "American Association for the Study of Liver Diseases",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-institute-on-alcohol-abuse-and-alcoholism",
-"t": "funder",
-"n": "National Institute on Alcohol Abuse and Alcoholism",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-38168980",
-"t": "paper",
-"n": "Detection of mosaic and population-level structural variants with Sniffles2",
-"sub": "Nature Biotechnology 2024 · cited 526",
-"url": "https://pubmed.ncbi.nlm.nih.gov/38168980",
-"c": ""
-},
-{
-"k": "person:moritz-smolka",
-"t": "person",
-"n": "Moritz Smolka",
-"sub": "Baylor College of Medicine",
-"url": "https://orcid.org/0000-0002-8621-600X",
-"c": "US"
-},
-{
-"k": "person:fritz-joachim-sedlazeck",
-"t": "person",
-"n": "Fritz Joachim Sedlazeck",
-"sub": "Baylor College of Medicine",
-"url": "https://orcid.org/0000-0001-6040-2691",
-"c": "US"
-},
-{
-"k": "org:aligning-science-across-parkinson-s",
-"t": "academic",
-"n": "Aligning Science Across Parkinson's",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:u-s-department-of-health-and-human-services",
-"t": "funder",
-"n": "U.S. Department of Health and Human Services",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:multiple-system-atrophy-trust",
-"t": "funder",
-"n": "Multiple System Atrophy Trust",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-36108674",
-"t": "paper",
-"n": "Structures of α-synuclein filaments from human brains with Lewy pathology",
-"sub": "Nature 2022 · cited 478",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36108674",
-"c": ""
-},
-{
-"k": "person:yang-yang",
-"t": "person",
-"n": "Yang Yang",
-"sub": "MRC Laboratory of Molecular Biology",
-"url": "https://orcid.org/0000-0003-2238-6437",
-"c": "GB"
-},
-{
-"k": "org:japan-agency-for-medical-research-and-development",
-"t": "funder",
-"n": "Japan Agency for Medical Research and Development",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:diamond-light-source",
-"t": "funder",
-"n": "Diamond Light Source",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-institute-for-health-and-care-research",
-"t": "funder",
-"n": "National Institute for Health and Care Research",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32342188",
-"t": "paper",
-"n": "Ultrasensitive RT-QuIC assay with high sensitivity and specificity for Lewy body-associate",
-"sub": "Acta Neuropathologica 2020 · cited 453",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32342188",
-"c": ""
-},
-{
-"k": "person:marcello-rossi",
-"t": "person",
-"n": "Marcello Rossi",
-"sub": "Istituto delle Scienze Neurologiche di Bologna",
-"url": "https://orcid.org/0000-0002-8125-6571",
-"c": "IT"
-},
-{
-"k": "org:istituto-delle-scienze-neurologiche-di-bologna",
-"t": "academic",
-"n": "Istituto delle Scienze Neurologiche di Bologna",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "person:piero-parchi",
-"t": "person",
-"n": "Piero Parchi",
-"sub": "Istituto delle Scienze Neurologiche di Bologna",
-"url": "https://orcid.org/0000-0002-9444-9524",
-"c": "IT"
-},
-{
-"k": "org:university-of-bologna",
-"t": "academic",
-"n": "University of Bologna",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "org:national-institute-of-allergy-and-infectious-diseases",
-"t": "funder",
-"n": "National Institute of Allergy and Infectious Diseases",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-36083140",
-"t": "paper",
-"n": "AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma",
-"sub": "Hepatology 2022 · cited 435",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36083140",
-"c": ""
-},
-{
-"k": "person:christopher-l-bowlus",
-"t": "person",
-"n": "Christopher L. Bowlus",
-"sub": "University of California Davis Medical Center",
-"url": "https://orcid.org/0000-0002-3906-6811",
-"c": "US"
-},
-{
-"k": "org:university-of-california-davis-medical-center",
-"t": "hospital",
-"n": "University of California Davis Medical Center",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:uc-davis-health",
-"t": "hospital",
-"n": "UC Davis Health",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:david-n-assis",
-"t": "person",
-"n": "David N. Assis",
-"sub": "Yale University",
-"url": "https://orcid.org/0000-0002-8941-6170",
-"c": "US"
-},
-{
-"k": "org:yale-university",
-"t": "academic",
-"n": "Yale University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
-"t": "funder",
-"n": "National Institute of Diabetes and Digestive and Kidney Diseases",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32445085",
-"t": "paper",
-"n": "The Role of Mitochondria in Neurodegenerative Diseases: the Lesson from Alzheimer’s Diseas",
-"sub": "Molecular Neurobiology 2020 · cited 376",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32445085",
-"c": ""
-},
-{
-"k": "person:giacomo-monzio-compagnoni",
-"t": "person",
-"n": "Giacomo Monzio Compagnoni",
-"sub": "Brigham and Women's Hospital",
-"url": "https://orcid.org/0000-0001-5323-8766",
-"c": "US"
-},
-{
-"k": "org:fondazione-irccs-ca-granda-ospedale-maggiore-policlinico",
-"t": "hospital",
-"n": "Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "person:eliezer-masliah",
-"t": "person",
-"n": "Eliezer Masliah",
-"sub": "National Institutes of Health",
-"url": "https://orcid.org/0000-0002-2117-5569",
-"c": "US"
-},
-{
-"k": "paper:pmid-34922583",
-"t": "paper",
-"n": "Neuropathology and molecular diagnosis of Synucleinopathies",
-"sub": "Molecular Neurodegeneration 2021 · cited 342",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34922583",
-"c": ""
-},
-{
-"k": "person:shunsuke-koga",
-"t": "person",
-"n": "Shunsuke Koga",
-"sub": "Mayo Clinic in Florida",
-"url": "https://orcid.org/0000-0001-8868-9700",
-"c": "US"
-},
-{
-"k": "person:dennis-w-dickson",
-"t": "person",
-"n": "Dennis W. Dickson",
-"sub": "Mayo Clinic in Florida",
-"url": "https://orcid.org/0000-0001-7189-7917",
-"c": "US"
-},
-{
-"k": "org:american-parkinson-disease-association",
-"t": "funder",
-"n": "American Parkinson Disease Association",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:curepsp",
-"t": "funder",
-"n": "CurePSP",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:little-family-foundation",
-"t": "funder",
-"n": "Little Family Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-37248302",
-"t": "paper",
-"n": "Propagative α-synuclein seeds as serum biomarkers for synucleinopathies",
-"sub": "Nature Medicine 2023 · cited 314",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37248302",
-"c": ""
-},
-{
-"k": "person:ayami-okuzumi",
-"t": "person",
-"n": "Ayami Okuzumi",
-"sub": "Juntendo University",
-"url": "https://orcid.org/0000-0001-8044-5402",
-"c": "JP"
-},
-{
-"k": "org:juntendo-university",
-"t": "academic",
-"n": "Juntendo University",
-"sub": "",
-"url": "",
-"c": "JP"
-},
-{
-"k": "person:nobutaka-hattori",
-"t": "person",
-"n": "Nobutaka Hattori",
-"sub": "RIKEN Center for Brain Science",
-"url": "https://orcid.org/0000-0002-2034-2556",
-"c": "JP"
-},
-{
-"k": "org:riken-center-for-brain-science",
-"t": "academic",
-"n": "RIKEN Center for Brain Science",
-"sub": "",
-"url": "",
-"c": "JP"
-},
-{
-"k": "org:osaka-foundation-for-promotion-of-fundamental-medical-resear",
-"t": "funder",
-"n": "Osaka Foundation for Promotion of Fundamental Medical Research",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:ministry-of-education-culture-sports-science-and-technology",
-"t": "funder",
-"n": "Ministry of Education, Culture, Sports, Science and Technology",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:fonds-national-de-la-recherche-luxembourg",
-"t": "funder",
-"n": "Fonds National de la Recherche Luxembourg",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-35899384",
-"t": "paper",
-"n": "AASLD practice guidance on drug, herbal, and dietary supplement–induced liver injury",
-"sub": "Hepatology 2022 · cited 308",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35899384",
-"c": ""
-},
-{
-"k": "person:robert-j-fontana",
-"t": "person",
-"n": "Robert J. Fontana",
-"sub": "University of Michigan",
-"url": "https://orcid.org/0000-0001-9161-5892",
-"c": "US"
-},
-{
-"k": "org:michigan-medicine",
-"t": "hospital",
-"n": "Michigan Medicine",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:victor-j-navarro",
-"t": "person",
-"n": "Victor J. Navarro",
-"sub": "Einstein Healthcare Network",
-"url": "https://orcid.org/0000-0002-8428-8528",
-"c": "US"
-},
-{
-"k": "org:einstein-healthcare-network",
-"t": "hospital",
-"n": "Einstein Healthcare Network",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:gilead-sciences",
-"t": "funder",
-"n": "Gilead Sciences",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:alexion-pharmaceuticals",
-"t": "funder",
-"n": "Alexion Pharmaceuticals",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-36008429",
-"t": "paper",
-"n": "Multiple system atrophy",
-"sub": "Nature Reviews Disease Primers 2022 · cited 284",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36008429",
-"c": ""
-},
-{
-"k": "person:werner-h-poewe",
-"t": "person",
-"n": "Werner H Poewe",
-"sub": "Innsbruck Medical University",
-"url": "https://orcid.org/0000-0003-4367-0971",
-"c": "AT"
-},
-{
-"k": "paper:pmid-32273329",
-"t": "paper",
-"n": "Serum neuronal exosomes predict and differentiate Parkinson’s disease from atypical parkin",
-"sub": "Journal of Neurology Neurosurgery & Psychiatry 2020 · cited 278",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32273329",
-"c": ""
-},
-{
-"k": "person:cheng-jiang",
-"t": "person",
-"n": "Cheng Jiang",
-"sub": "John Radcliffe Hospital",
-"url": "https://orcid.org/0000-0003-4386-0740",
-"c": "GB"
-},
-{
-"k": "org:john-radcliffe-hospital",
-"t": "hospital",
-"n": "John Radcliffe Hospital",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "org:university-of-oxford",
-"t": "academic",
-"n": "University of Oxford",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "person:george-k-tofaris",
-"t": "person",
-"n": "George K. Tofaris",
-"sub": "John Radcliffe Hospital",
-"url": "https://orcid.org/0000-0002-9252-5933",
-"c": "GB"
-},
-{
-"k": "org:garfield-weston-foundation",
-"t": "funder",
-"n": "Garfield Weston Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:parkinson-s-uk",
-"t": "funder",
-"n": "Parkinson's UK",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32356200",
-"t": "paper",
-"n": "The structural differences between patient-derived α-synuclein strains dictate characteris",
-"sub": "Acta Neuropathologica 2020 · cited 277",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32356200",
-"c": ""
-},
-{
-"k": "person:anke-van-der-perren",
-"t": "person",
-"n": "Anke Van der Perren",
-"sub": "KU Leuven",
-"url": "https://orcid.org/0000-0003-2924-7392",
-"c": "BE"
-},
-{
-"k": "org:ku-leuven",
-"t": "academic",
-"n": "KU Leuven",
-"sub": "",
-"url": "",
-"c": "BE"
-},
-{
-"k": "person:ronald-melki",
-"t": "person",
-"n": "Ronald Melki",
-"sub": "Centre National de la Recherche Scientifique",
-"url": "https://orcid.org/0000-0003-0000-7096",
-"c": "FR"
-},
-{
-"k": "org:centre-national-de-la-recherche-scientifique",
-"t": "funder",
-"n": "Centre National de la Recherche Scientifique",
-"sub": "",
-"url": "",
-"c": "FR"
-},
-{
-"k": "org:commissariat-a-l-energie-atomique-et-aux-energies-alternativ",
-"t": "funder",
-"n": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
-"sub": "",
-"url": "",
-"c": "FR"
-},
-{
-"k": "person:veerle-baekelandt",
-"t": "person",
-"n": "Veerle Baekelandt",
-"sub": "KU Leuven",
-"url": "https://orcid.org/0000-0001-8966-2921",
-"c": "BE"
-},
-{
-"k": "org:aarhus-universitet",
-"t": "funder",
-"n": "Aarhus Universitet",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:fondation-simone-et-cino-del-duca",
-"t": "funder",
-"n": "Fondation Simone et Cino Del Duca",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:eu-joint-programme-neurodegenerative-disease-research",
-"t": "funder",
-"n": "EU Joint Programme – Neurodegenerative Disease Research",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:european-federation-of-pharmaceutical-industries-and-associa",
-"t": "funder",
-"n": "European Federation of Pharmaceutical Industries and Associations",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-34919648",
-"t": "paper",
-"n": "Glymphatic system impairment in multiple sclerosis: relation with brain damage and disabil",
-"sub": "Brain 2021 · cited 276",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34919648",
-"c": ""
-},
-{
-"k": "person:antonio-carotenuto",
-"t": "person",
-"n": "Antonio Carotenuto",
-"sub": "IRCCS Ospedale San Raffaele",
-"url": "https://orcid.org/0000-0002-1574-9693",
-"c": "IT"
-},
-{
-"k": "org:irccs-san-raffaele-roma",
-"t": "hospital",
-"n": "IRCCS San Raffaele Roma",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "person:maria-assunta-rocca",
-"t": "person",
-"n": "Maria Assunta Rocca",
-"sub": "Vita-Salute San Raffaele University",
-"url": "https://orcid.org/0000-0003-2358-4320",
-"c": "IT"
-},
-{
-"k": "org:vita-salute-san-raffaele-university",
-"t": "academic",
-"n": "Vita-Salute San Raffaele University",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "org:european-committee-for-treatment-and-research-in-multiple-sc",
-"t": "funder",
-"n": "European Committee for Treatment and Research in Multiple Sclerosis",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32986090",
-"t": "paper",
-"n": "Skin α-Synuclein Aggregation Seeding Activity as a Novel Biomarker for Parkinson Disease",
-"sub": "JAMA Neurology 2020 · cited 267",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32986090",
-"c": ""
-},
-{
-"k": "person:zerui-wang",
-"t": "person",
-"n": "Zerui Wang",
-"sub": "Case Western Reserve University",
-"url": "https://orcid.org/0009-0003-8081-8469",
-"c": "US"
-},
-{
-"k": "org:case-western-reserve-university",
-"t": "academic",
-"n": "Case Western Reserve University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:shu-g-chen",
-"t": "person",
-"n": "Shu G. Chen",
-"sub": "University Hospitals of Cleveland",
-"url": "https://orcid.org/0000-0001-7180-3001",
-"c": "US"
-},
-{
-"k": "org:university-hospitals-of-cleveland",
-"t": "hospital",
-"n": "University Hospitals of Cleveland",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:university-hospitals-cleveland-medical-center",
-"t": "hospital",
-"n": "University Hospitals Cleveland Medical Center",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:wenquan-zou",
-"t": "person",
-"n": "Wen‐Quan Zou",
-"sub": "University Hospitals of Cleveland",
-"url": "https://orcid.org/0000-0001-8062-0370",
-"c": "US"
-},
-{
-"k": "org:weston-brain-institute",
-"t": "funder",
-"n": "Weston Brain Institute",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-33165511",
-"t": "paper",
-"n": "Assessment of 18F-PI-2620 as a Biomarker in Progressive Supranuclear Palsy",
-"sub": "JAMA Neurology 2020 · cited 265",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33165511",
-"c": ""
-},
-{
-"k": "person:matthias-brendel",
-"t": "person",
-"n": "Matthias Brendel",
-"sub": "LMU Klinikum",
-"url": "https://orcid.org/0000-0002-9247-2843",
-"c": "DE"
-},
-{
-"k": "org:lmu-klinikum",
-"t": "hospital",
-"n": "LMU Klinikum",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "org:ludwig-maximilians-universitat-munchen",
-"t": "academic",
-"n": "Ludwig-Maximilians-Universität München",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "person:osama-sabri",
-"t": "person",
-"n": "Osama Sabri",
-"sub": "Leipzig University",
-"url": "https://orcid.org/0000-0002-6425-3504",
-"c": "DE"
-},
-{
-"k": "org:leipzig-university",
-"t": "academic",
-"n": "Leipzig University",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "org:deutsches-zentrum-fur-neurodegenerative-erkrankungen",
-"t": "funder",
-"n": "Deutsches Zentrum für Neurodegenerative Erkrankungen",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:nomis-stiftung",
-"t": "funder",
-"n": "NOMIS Stiftung",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-34302789",
-"t": "paper",
-"n": "Biomarkers of conversion to α-synucleinopathy in isolated rapid-eye-movement sleep behavio",
-"sub": "The Lancet Neurology 2021 · cited 253",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34302789",
-"c": ""
-},
-{
-"k": "person:mitchell-g-miglis",
-"t": "person",
-"n": "Mitchell G. Miglis",
-"sub": "Stanford University",
-"url": "https://orcid.org/0000-0001-8488-0313",
-"c": "US"
-},
-{
-"k": "person:wolfgang-hermann-oertel",
-"t": "person",
-"n": "Wolfgang Hermann Oertel",
-"sub": "Philipps University of Marburg",
-"url": "https://orcid.org/0000-0002-7582-8166",
-"c": "DE"
-},
-{
-"k": "org:philipps-university-of-marburg",
-"t": "academic",
-"n": "Philipps University of Marburg",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "org:helmholtz-munich",
-"t": "academic",
-"n": "Helmholtz Munich",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "org:parkinsonfonds-deutschland",
-"t": "funder",
-"n": "ParkinsonFonds Deutschland",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:agentura-pro-zdravotnicky-vyzkum-ceske-republiky",
-"t": "funder",
-"n": "Agentura Pro Zdravotnický Výzkum České Republiky",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-36653527",
-"t": "paper",
-"n": "Seed amplification assay for the detection of pathologic alpha-synuclein aggregates in cer",
-"sub": "Nature Protocols 2023 · cited 243",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36653527",
-"c": ""
-},
-{
-"k": "person:luis-conchamarambio",
-"t": "person",
-"n": "Luis Concha‐Marambio",
-"sub": "Amprion (United States)",
-"url": "https://orcid.org/0000-0002-9454-8389",
-"c": "US"
-},
-{
-"k": "org:amprion-united-states",
-"t": "company",
-"n": "Amprion (United States)",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:michael-j-fox-foundation-for-parkinson-s-research",
-"t": "funder",
-"n": "Michael J. Fox Foundation for Parkinson's Research",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-33458725",
-"t": "paper",
-"n": "Targeting RNA with small molecules: from fundamental principles towards the clinic",
-"sub": "Chemical Society Reviews 2021 · cited 242",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33458725",
-"c": ""
-},
-{
-"k": "person:james-p-falese",
-"t": "person",
-"n": "James P. Falese",
-"sub": "Duke University",
-"url": "https://orcid.org/0000-0002-5481-3096",
-"c": "US"
-},
-{
-"k": "org:duke-university",
-"t": "academic",
-"n": "Duke University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:duke-medical-center",
-"t": "hospital",
-"n": "Duke Medical Center",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:amanda-e-hargrove",
-"t": "person",
-"n": "Amanda E. Hargrove",
-"sub": "Duke University",
-"url": "https://orcid.org/0000-0003-1536-6753",
-"c": "US"
-},
-{
-"k": "org:prostate-cancer-foundation",
-"t": "funder",
-"n": "Prostate Cancer Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:school-of-medicine-duke-university",
-"t": "funder",
-"n": "School of Medicine, Duke University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-31909184",
-"t": "paper",
-"n": "Parkinson’s disease: proteinopathy or lipidopathy?",
-"sub": "npj Parkinson s Disease 2020 · cited 237",
-"url": "https://pubmed.ncbi.nlm.nih.gov/31909184",
-"c": ""
-},
-{
-"k": "person:saranna-fanning",
-"t": "person",
-"n": "Saranna Fanning",
-"sub": "Brigham and Women's Hospital",
-"url": "https://orcid.org/0000-0003-4638-1331",
-"c": "US"
-},
-{
-"k": "org:harvard-university",
-"t": "academic",
-"n": "Harvard University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:ulf-dettmer",
-"t": "person",
-"n": "Ulf Dettmer",
-"sub": "Brigham and Women's Hospital",
-"url": "https://orcid.org/0000-0001-6676-0107",
-"c": "US"
-},
-{
-"k": "paper:pmid-32251002",
-"t": "paper",
-"n": "Recommendations for respiratory rehabilitation in adults with coronavirus disease 2019",
-"sub": "Chinese Medical Journal 2020 · cited 232",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32251002",
-"c": ""
-},
-{
-"k": "person:hongmei-zhao",
-"t": "person",
-"n": "Hongmei Zhao",
-"sub": "Chinese Academy of Medical Sciences & Peking Union Medical College",
-"url": "https://orcid.org/0000-0002-5586-7459",
-"c": "CN"
-},
-{
-"k": "org:chinese-academy-of-medical-sciences-peking-union-medical-col",
-"t": "academic",
-"n": "Chinese Academy of Medical Sciences & Peking Union Medical College",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "org:china-japan-friendship-hospital",
-"t": "hospital",
-"n": "China-Japan Friendship Hospital",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:yu-xiao-xie",
-"t": "person",
-"n": "Yu-Xiao Xie",
-"sub": "China-Japan Friendship Hospital",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:chen-wang",
-"t": "person",
-"n": "Chen Wang",
-"sub": "Chinese Academy of Medical Sciences & Peking Union Medical College",
-"url": "https://orcid.org/0000-0001-7857-5435",
-"c": "CN"
-},
-{
-"k": "paper:pmid-32635462",
-"t": "paper",
-"n": "Signaling Pathways That Control Muscle Mass",
-"sub": "International Journal of Molecular Sciences 2020 · cited 214",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32635462",
-"c": ""
-},
-{
-"k": "person:anna-vainshtein",
-"t": "person",
-"n": "Anna Vainshtein",
-"sub": "Réseau Technoscience",
-"url": "https://orcid.org/0000-0003-0368-5044",
-"c": "CA"
-},
-{
-"k": "org:reseau-technoscience",
-"t": "foundation",
-"n": "Réseau Technoscience",
-"sub": "",
-"url": "",
-"c": "CA"
-},
-{
-"k": "org:quebec-science-canada",
-"t": "academic",
-"n": "Québec Science (Canada)",
-"sub": "",
-"url": "",
-"c": "CA"
-},
-{
-"k": "person:marco-sandri",
-"t": "person",
-"n": "Marco Sandri",
-"sub": "University of Padua",
-"url": "https://orcid.org/0000-0001-8509-7558",
-"c": "IT"
-},
-{
-"k": "org:university-of-padua",
-"t": "academic",
-"n": "University of Padua",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "org:veneto-institute-of-molecular-medicine",
-"t": "academic",
-"n": "Veneto Institute of Molecular Medicine",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "org:agenzia-spaziale-italiana",
-"t": "funder",
-"n": "Agenzia Spaziale Italiana",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:afm-telethon",
-"t": "funder",
-"n": "AFM-Téléthon",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:associazione-italiana-per-la-ricerca-sul-cancro",
-"t": "funder",
-"n": "Associazione Italiana per la Ricerca sul Cancro",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:h2020-marie-skodowska-curie-actions",
-"t": "funder",
-"n": "H2020 Marie Skłodowska-Curie Actions",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-38506839",
-"t": "paper",
-"n": "Skin Biopsy Detection of Phosphorylated α-Synuclein in Patients With Synucleinopathies",
-"sub": "JAMA 2024 · cited 200",
-"url": "https://pubmed.ncbi.nlm.nih.gov/38506839",
-"c": ""
-},
-{
-"k": "person:christopher-h-gibbons",
-"t": "person",
-"n": "Christopher H. Gibbons",
-"sub": "Beth Israel Deaconess Medical Center",
-"url": "https://orcid.org/0000-0003-0087-5336",
-"c": "US"
-},
-{
-"k": "person:roy-l-freeman",
-"t": "person",
-"n": "Roy L. Freeman",
-"sub": "Beth Israel Deaconess Medical Center",
-"url": "https://orcid.org/0000-0003-3976-6022",
-"c": "US"
-},
-{
-"k": "paper:pmid-34508096",
-"t": "paper",
-"n": "Selective targeting of the TLR2/MyD88/NF-κB pathway reduces α-synuclein spreading in vitro",
-"sub": "Nature Communications 2021 · cited 193",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34508096",
-"c": ""
-},
-{
-"k": "person:debashis-dutta",
-"t": "person",
-"n": "Debashis Dutta",
-"sub": "Rush University Medical Center",
-"url": "https://orcid.org/0000-0002-0086-3581",
-"c": "US"
-},
-{
-"k": "org:rush-university-medical-center",
-"t": "hospital",
-"n": "Rush University Medical Center",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:kalipada-pahan",
-"t": "person",
-"n": "Kalipada Pahan",
-"sub": "Rush University Medical Center",
-"url": "https://orcid.org/0000-0001-6048-9598",
-"c": "US"
-},
-{
-"k": "org:jesse-brown-va-medical-center",
-"t": "hospital",
-"n": "Jesse Brown VA Medical Center",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:u-s-department-of-veterans-affairs",
-"t": "funder",
-"n": "U.S. Department of Veterans Affairs",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32560913",
-"t": "paper",
-"n": "Chronic pain after COVID-19: implications for rehabilitation",
-"sub": "British Journal of Anaesthesia 2020 · cited 192",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32560913",
-"c": ""
-},
-{
-"k": "person:harriet-i-kemp",
-"t": "person",
-"n": "Harriet I. Kemp",
-"sub": "Imperial College London",
-"url": "https://orcid.org/0000-0001-5657-3009",
-"c": "GB"
-},
-{
-"k": "org:imperial-college-london",
-"t": "academic",
-"n": "Imperial College London",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "person:lesley-colvin",
-"t": "person",
-"n": "Lesley Colvin",
-"sub": "University of Dundee",
-"url": "https://orcid.org/0000-0002-1563-8600",
-"c": "GB"
-},
-{
-"k": "org:university-of-dundee",
-"t": "academic",
-"n": "University of Dundee",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "org:ninewells-hospital",
-"t": "hospital",
-"n": "Ninewells Hospital",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "paper:pmid-34894214",
-"t": "paper",
-"n": "Diagnostic value of cerebrospinal fluid alpha-synuclein seed quantification in synucleinop",
-"sub": "Brain 2021 · cited 191",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34894214",
-"c": ""
-},
-{
-"k": "person:ilaria-poggiolini",
-"t": "person",
-"n": "Ilaria Poggiolini",
-"sub": "University of Oxford",
-"url": "https://orcid.org/0000-0001-5598-1262",
-"c": "GB"
-},
-{
-"k": "person:laura-parkkinen",
-"t": "person",
-"n": "Laura Parkkinen",
-"sub": "University of Oxford",
-"url": "https://orcid.org/0000-0002-3392-8564",
-"c": "GB"
-},
-{
-"k": "org:teva-pharmaceutical-industries",
-"t": "funder",
-"n": "Teva Pharmaceutical Industries",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:jazz-pharmaceuticals",
-"t": "funder",
-"n": "Jazz Pharmaceuticals",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:parkinson-s-foundation",
-"t": "funder",
-"n": "Parkinson's Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32038126",
-"t": "paper",
-"n": "Alpha-Synuclein Physiology and Pathology: A Perspective on Cellular Structures and Organel",
-"sub": "Frontiers in Neuroscience 2020 · cited 189",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32038126",
-"c": ""
-},
-{
-"k": "person:luis-daniel-bernal-conde",
-"t": "person",
-"n": "Luis Daniel Bernal-Conde",
-"sub": "Universidad Nacional Autónoma de México",
-"url": "",
-"c": "MX"
-},
-{
-"k": "org:universidad-nacional-autonoma-de-mexico",
-"t": "academic",
-"n": "Universidad Nacional Autónoma de México",
-"sub": "",
-"url": "",
-"c": "MX"
-},
-{
-"k": "person:magdalena-guerracrespo",
-"t": "person",
-"n": "Magdalena Guerra‐Crespo",
-"sub": "Universidad Nacional Autónoma de México",
-"url": "",
-"c": "MX"
-},
-{
-"k": "org:consejo-nacional-de-ciencia-y-tecnologia",
-"t": "funder",
-"n": "Consejo Nacional de Ciencia y Tecnología",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:direccion-general-de-asuntos-del-personal-academico-universi",
-"t": "funder",
-"n": "Dirección General de Asuntos del Personal Académico, Universidad Nacional Autónoma de Méxi",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-33548114",
-"t": "paper",
-"n": "Seeded assembly in vitro does not replicate the structures of α‐synuclein filaments from m",
-"sub": "FEBS Open Bio 2021 · cited 183",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33548114",
-"c": ""
-},
-{
-"k": "person:sofia-lovestam",
-"t": "person",
-"n": "Sofia Lövestam",
-"sub": "MRC Laboratory of Molecular Biology",
-"url": "https://orcid.org/0000-0002-2152-1476",
-"c": "GB"
-},
-{
-"k": "org:eli-lilly-and-company",
-"t": "funder",
-"n": "Eli Lilly and Company",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:uk-dementia-research-institute",
-"t": "funder",
-"n": "UK Dementia Research Institute",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-33855335",
-"t": "paper",
-"n": "Alpha-synuclein seeds in olfactory mucosa of patients with isolated REM sleep behaviour di",
-"sub": "Brain 2021 · cited 182",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33855335",
-"c": ""
-},
-{
-"k": "person:ambra-stefani",
-"t": "person",
-"n": "Ambra Stefani",
-"sub": "Innsbruck Medical University",
-"url": "https://orcid.org/0000-0003-4259-8824",
-"c": "AT"
-},
-{
-"k": "person:gianluigi-zanusso",
-"t": "person",
-"n": "Gianluigi Zanusso",
-"sub": "University of Verona",
-"url": "https://orcid.org/0000-0001-5199-6264",
-"c": "IT"
-},
-{
-"k": "org:university-of-verona",
-"t": "academic",
-"n": "University of Verona",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "org:brain-research-foundation",
-"t": "funder",
-"n": "Brain Research Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:fondazione-cassa-di-risparmio-di-verona-vicenza-belluno-e-an",
-"t": "funder",
-"n": "Fondazione Cassa di Risparmio di Verona Vicenza Belluno e Ancona",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "grant:nih-1r03hd120740-01",
 "t": "grant",
 "n": "New approach methodologies to assess reproductive risks of memory-enhancing dietary supple",
@@ -5543,6 +3150,14 @@
 "sub": "",
 "url": "",
 "c": "US"
+},
+{
+"k": "org:georgia-state-university",
+"t": "academic",
+"n": "GEORGIA STATE UNIVERSITY",
+"sub": "",
+"url": "",
+"c": "UN"
 },
 {
 "k": "person:daniel-s-kohane",
@@ -6076,11 +3691,6 @@
 "r": "tested_in"
 },
 {
-"a": "org:aarhus-universitet",
-"b": "paper:pmid-32356200",
-"r": "funded"
-},
-{
 "a": "org:aarhus-universitetshospital",
 "b": "trial:nct05526391",
 "r": "site_of"
@@ -6106,29 +3716,29 @@
 "r": "sponsors"
 },
 {
+"a": "org:affiliated-beijing-chaoyang-hospital-of-capital-medical-univ",
+"b": "trial:nct07518810",
+"r": "site_of"
+},
+{
 "a": "org:affiliated-hangzhou-first-people-s-hospital-school-of-medici",
 "b": "trial:nct07554807",
 "r": "site_of"
 },
 {
-"a": "org:afm-telethon",
-"b": "paper:pmid-32635462",
-"r": "funded"
-},
-{
-"a": "org:agentura-pro-zdravotnicky-vyzkum-ceske-republiky",
-"b": "paper:pmid-34302789",
-"r": "funded"
-},
-{
-"a": "org:agenzia-spaziale-italiana",
-"b": "paper:pmid-32635462",
-"r": "funded"
+"a": "org:ain-shams-hospitals",
+"b": "trial:nct06441591",
+"r": "site_of"
 },
 {
 "a": "org:ain-shams-university",
 "b": "trial:nct06441591",
 "r": "sponsors"
+},
+{
+"a": "org:ain-shams-university-hospital",
+"b": "trial:nct06441591",
+"r": "site_of"
 },
 {
 "a": "org:alberta-children-s-hospital",
@@ -6141,11 +3751,6 @@
 "r": "site_of"
 },
 {
-"a": "org:alexion-pharmaceuticals",
-"b": "paper:pmid-35899384",
-"r": "funded"
-},
-{
 "a": "org:alterity-therapeutics",
 "b": "drug:ath434",
 "r": "develops"
@@ -6154,11 +3759,6 @@
 "a": "org:alterity-therapeutics",
 "b": "trial:nct07729852",
 "r": "sponsors"
-},
-{
-"a": "org:alzheimer-s-drug-discovery-foundation",
-"b": "paper:pmid-32333900",
-"r": "funded"
 },
 {
 "a": "org:amen-clinics",
@@ -6171,31 +3771,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:american-association-for-the-study-of-liver-diseases",
-"b": "paper:pmid-34233031",
-"r": "funded"
-},
-{
-"a": "org:american-association-for-the-study-of-liver-diseases",
-"b": "paper:pmid-35899384",
-"r": "funded"
-},
-{
-"a": "org:american-parkinson-disease-association",
-"b": "paper:pmid-34922583",
-"r": "funded"
-},
-{
-"a": "org:american-parkinson-disease-association",
-"b": "paper:pmid-36653527",
-"r": "funded"
-},
-{
-"a": "org:amrita-vishwa-vidyapeetham-university",
-"b": "paper:pmid-37793522",
-"r": "funded"
-},
-{
 "a": "org:amylyx-pharmaceuticals",
 "b": "drug:amx0035",
 "r": "develops"
@@ -6206,8 +3781,18 @@
 "r": "sponsors"
 },
 {
+"a": "org:ann-and-robert-h-lurie-childrens-hospital-of-chicago",
+"b": "trial:nct07221669",
+"r": "site_of"
+},
+{
 "a": "org:ann-robert-h-lurie-children-s-hospital-of-chicago",
 "b": "trial:nct06053814",
+"r": "site_of"
+},
+{
+"a": "org:arkansas-children-s-hospital",
+"b": "trial:nct07429240",
 "r": "site_of"
 },
 {
@@ -6221,16 +3806,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:association-for-frontotemporal-degeneration",
-"b": "paper:pmid-32333900",
-"r": "funded"
-},
-{
-"a": "org:associazione-italiana-per-la-ricerca-sul-cancro",
-"b": "paper:pmid-32635462",
-"r": "funded"
-},
-{
 "a": "org:astrazeneca",
 "b": "drug:azd5305",
 "r": "develops"
@@ -6242,11 +3817,6 @@
 },
 {
 "a": "org:astrazeneca",
-"b": "paper:pmid-35445419",
-"r": "funded"
-},
-{
-"a": "org:astrazeneca",
 "b": "trial:nct05526391",
 "r": "collaborates"
 },
@@ -6254,11 +3824,6 @@
 "a": "org:astrazeneca",
 "b": "trial:nct07336446",
 "r": "sponsors"
-},
-{
-"a": "org:australian-government",
-"b": "paper:pmid-29582403",
-"r": "funded"
 },
 {
 "a": "org:avidity-biosciences",
@@ -6279,6 +3844,11 @@
 "a": "org:baylor-college-of-medicine",
 "b": "trial:nct06848231",
 "r": "site_of"
+},
+{
+"a": "org:beijing-chao-yang-hospital",
+"b": "trial:nct07518810",
+"r": "collaborates"
 },
 {
 "a": "org:benedetto-falsini",
@@ -6327,16 +3897,6 @@
 },
 {
 "a": "org:biogen",
-"b": "paper:pmid-34894214",
-"r": "funded"
-},
-{
-"a": "org:biogen",
-"b": "paper:pmid-35445419",
-"r": "funded"
-},
-{
-"a": "org:biogen",
 "b": "trial:nct07221669",
 "r": "sponsors"
 },
@@ -6371,11 +3931,6 @@
 "r": "site_of"
 },
 {
-"a": "org:brain-research-foundation",
-"b": "paper:pmid-33855335",
-"r": "funded"
-},
-{
 "a": "org:brigham-and-women-s-hospital",
 "b": "trial:nct06848231",
 "r": "site_of"
@@ -6383,6 +3938,11 @@
 {
 "a": "org:brigham-and-women-s-hospital",
 "b": "trial:nct06868628",
+"r": "site_of"
+},
+{
+"a": "org:brigham-and-women-s-hospital-bwh",
+"b": "trial:nct06706622",
 "r": "site_of"
 },
 {
@@ -6398,6 +3958,11 @@
 {
 "a": "org:catholic-university-policlinico-a-gemelli-hospital",
 "b": "trial:nct05733572",
+"r": "site_of"
+},
+{
+"a": "org:cenexel-cbh-cenexel-rocky-mountain-clinical-research-cenexel",
+"b": "trial:nct06706622",
 "r": "site_of"
 },
 {
@@ -6418,6 +3983,11 @@
 {
 "a": "org:centre-hospitalier-regional-de-la-citadelle",
 "b": "trial:nct07038824",
+"r": "site_of"
+},
+{
+"a": "org:centre-hospitalier-universitaire-de-bordeaux",
+"b": "trial:nct07729852",
 "r": "site_of"
 },
 {
@@ -6476,6 +4046,11 @@
 "r": "site_of"
 },
 {
+"a": "org:childrens-hospital-of-the-kings-daughter-norfolk",
+"b": "trial:nct07221669",
+"r": "site_of"
+},
+{
 "a": "org:chr-de-la-citadelle",
 "b": "trial:nct05115110",
 "r": "site_of"
@@ -6488,6 +4063,11 @@
 {
 "a": "org:ciusss-du-saguenay-lac-saint-jean",
 "b": "trial:nct06667453",
+"r": "site_of"
+},
+{
+"a": "org:clinica-meds-la-dehesa-lo-barnechea",
+"b": "trial:nct07221669",
 "r": "site_of"
 },
 {
@@ -6516,14 +4096,9 @@
 "r": "site_of"
 },
 {
-"a": "org:consejo-nacional-de-ciencia-y-tecnologia",
-"b": "paper:pmid-32038126",
-"r": "funded"
-},
-{
-"a": "org:curepsp",
-"b": "paper:pmid-34922583",
-"r": "funded"
+"a": "org:concord-repatriation-general-hospital",
+"b": "trial:nct07798609",
+"r": "site_of"
 },
 {
 "a": "org:dasher-neuroscience",
@@ -6536,29 +4111,19 @@
 "r": "sponsors"
 },
 {
+"a": "org:david-geffen-school-of-medicine-at-ucla",
+"b": "trial:nct05923866",
+"r": "site_of"
+},
+{
 "a": "org:deciphera-pharmaceuticals",
 "b": "trial:nct07825402",
 "r": "collaborates"
 },
 {
-"a": "org:deutsches-zentrum-fur-neurodegenerative-erkrankungen",
-"b": "paper:pmid-33165511",
-"r": "funded"
-},
-{
-"a": "org:diamond-light-source",
-"b": "paper:pmid-36108674",
-"r": "funded"
-},
-{
-"a": "org:direccion-general-de-asuntos-del-personal-academico-universi",
-"b": "paper:pmid-32038126",
-"r": "funded"
-},
-{
-"a": "org:duke-university",
-"b": "paper:pmid-33458725",
-"r": "funded"
+"a": "org:domino-s-farms",
+"b": "trial:nct07863180",
+"r": "site_of"
 },
 {
 "a": "org:duke-university-school-of-medicine",
@@ -6584,11 +4149,6 @@
 "a": "org:dyne-therapeutics",
 "b": "trial:nct05524883",
 "r": "sponsors"
-},
-{
-"a": "org:eli-lilly-and-company",
-"b": "paper:pmid-33548114",
-"r": "funded"
 },
 {
 "a": "org:encell",
@@ -6626,19 +4186,19 @@
 "r": "sponsors"
 },
 {
-"a": "org:eu-joint-programme-neurodegenerative-disease-research",
-"b": "paper:pmid-32356200",
-"r": "funded"
+"a": "org:enzymotec",
+"b": "trial:nct00719953",
+"r": "collaborates"
 },
 {
-"a": "org:european-committee-for-treatment-and-research-in-multiple-sc",
-"b": "paper:pmid-34919648",
-"r": "funded"
+"a": "org:farmer-family-foundation",
+"b": "trial:nct07863180",
+"r": "collaborates"
 },
 {
-"a": "org:european-federation-of-pharmaceutical-industries-and-associa",
-"b": "paper:pmid-32356200",
-"r": "funded"
+"a": "org:first-affiliated-hospital-of-guangxi-medical-university",
+"b": "trial:nct07518810",
+"r": "collaborates"
 },
 {
 "a": "org:first-affiliated-hospital-of-zhejiang-university",
@@ -6649,16 +4209,6 @@
 "a": "org:first-affiliated-hospital-of-zhejiang-university",
 "b": "trial:nct07554807",
 "r": "sponsors"
-},
-{
-"a": "org:fondation-simone-et-cino-del-duca",
-"b": "paper:pmid-32356200",
-"r": "funded"
-},
-{
-"a": "org:fondazione-cassa-di-risparmio-di-verona-vicenza-belluno-e-an",
-"b": "paper:pmid-33855335",
-"r": "funded"
 },
 {
 "a": "org:fondazione-policlinico-a-gemelli-irccs",
@@ -6681,34 +4231,9 @@
 "r": "site_of"
 },
 {
-"a": "org:fonds-national-de-la-recherche-luxembourg",
-"b": "paper:pmid-37248302",
-"r": "funded"
-},
-{
-"a": "org:garfield-weston-foundation",
-"b": "paper:pmid-32273329",
-"r": "funded"
-},
-{
-"a": "org:gedeon-richter",
-"b": "paper:pmid-32300287",
-"r": "funded"
-},
-{
 "a": "org:gedeon-richter",
 "b": "trial:nct01400035",
 "r": "collaborates"
-},
-{
-"a": "org:gilead-sciences",
-"b": "paper:pmid-35899384",
-"r": "funded"
-},
-{
-"a": "org:government-of-jiangsu-province",
-"b": "paper:pmid-35517286",
-"r": "funded"
 },
 {
 "a": "org:great-ormond-street-hospital-nhs-foundation-trust",
@@ -6727,11 +4252,6 @@
 },
 {
 "a": "org:h-lundbeck-a-s",
-"b": "paper:pmid-35445419",
-"r": "funded"
-},
-{
-"a": "org:h-lundbeck-a-s",
 "b": "trial:nct05104476",
 "r": "sponsors"
 },
@@ -6739,16 +4259,6 @@
 "a": "org:h-lundbeck-a-s",
 "b": "trial:nct06706622",
 "r": "sponsors"
-},
-{
-"a": "org:h2020-marie-skodowska-curie-actions",
-"b": "paper:pmid-32635462",
-"r": "funded"
-},
-{
-"a": "org:hamadan-university-of-medical-sciences",
-"b": "paper:pmid-31991177",
-"r": "funded"
 },
 {
 "a": "org:hangzhou-institute-of-medicine-chinese-academy-of-sciences",
@@ -6773,6 +4283,31 @@
 {
 "a": "org:hokkaido-university-hospital",
 "b": "trial:nct07446894",
+"r": "site_of"
+},
+{
+"a": "org:hopital-de-la-timone",
+"b": "trial:nct07729852",
+"r": "site_of"
+},
+{
+"a": "org:hopital-pierre-paul-riquet",
+"b": "trial:nct07729852",
+"r": "site_of"
+},
+{
+"a": "org:hopital-universitaire-pitie-salpetriere",
+"b": "trial:nct07729852",
+"r": "site_of"
+},
+{
+"a": "org:hospital-da-crianca-de-brasilia",
+"b": "trial:nct07221669",
+"r": "site_of"
+},
+{
+"a": "org:hospital-de-clinicas-de-porto-alegre-hcpa-ppds",
+"b": "trial:nct07221669",
 "r": "site_of"
 },
 {
@@ -6836,6 +4371,11 @@
 "r": "site_of"
 },
 {
+"a": "org:indiana-university-iu-health-senior-health-center",
+"b": "trial:nct06706622",
+"r": "site_of"
+},
+{
 "a": "org:indiana-university-school-of-medicine",
 "b": "trial:nct05481879",
 "r": "site_of"
@@ -6856,6 +4396,11 @@
 "r": "site_of"
 },
 {
+"a": "org:instituto-da-crianca-hc-fmusp",
+"b": "trial:nct07221669",
+"r": "site_of"
+},
+{
 "a": "org:irccs-ospedale-san-raffaele",
 "b": "trial:nct07037862",
 "r": "site_of"
@@ -6866,39 +4411,9 @@
 "r": "site_of"
 },
 {
-"a": "org:japan-agency-for-medical-research-and-development",
-"b": "paper:pmid-33548114",
-"r": "funded"
-},
-{
-"a": "org:japan-agency-for-medical-research-and-development",
-"b": "paper:pmid-36108674",
-"r": "funded"
-},
-{
-"a": "org:japan-agency-for-medical-research-and-development",
-"b": "paper:pmid-37248302",
-"r": "funded"
-},
-{
-"a": "org:japan-society-for-the-promotion-of-science",
-"b": "paper:pmid-32461689",
-"r": "funded"
-},
-{
-"a": "org:jazz-pharmaceuticals",
-"b": "paper:pmid-34894214",
-"r": "funded"
-},
-{
-"a": "org:jilin-university",
-"b": "paper:pmid-32300287",
-"r": "funded"
-},
-{
-"a": "org:jss-academy-of-higher-education-and-research",
-"b": "paper:pmid-37793522",
-"r": "funded"
+"a": "org:johns-hopkins-university-school-of-medicine-the-johns-hopkin",
+"b": "trial:nct06706622",
+"r": "site_of"
 },
 {
 "a": "org:julien-bally",
@@ -6918,6 +4433,11 @@
 {
 "a": "org:kagoshima-university-hospital",
 "b": "trial:nct07446894",
+"r": "site_of"
+},
+{
+"a": "org:kansas-university-medical-center",
+"b": "trial:nct05027269",
 "r": "site_of"
 },
 {
@@ -6976,9 +4496,9 @@
 "r": "site_of"
 },
 {
-"a": "org:little-family-foundation",
-"b": "paper:pmid-34922583",
-"r": "funded"
+"a": "org:liverpool-hospital",
+"b": "trial:nct07798609",
+"r": "site_of"
 },
 {
 "a": "org:london-health-sciences-centre",
@@ -7011,19 +4531,14 @@
 "r": "site_of"
 },
 {
-"a": "org:mansoura-university",
-"b": "paper:pmid-32840391",
-"r": "funded"
+"a": "org:mater-hospital-brisbane",
+"b": "trial:nct07798609",
+"r": "site_of"
 },
 {
 "a": "org:mayo-clinic",
 "b": "drug:autologous-mesenchymal-stem-cells",
 "r": "develops"
-},
-{
-"a": "org:mayo-clinic",
-"b": "paper:pmid-34922583",
-"r": "funded"
 },
 {
 "a": "org:mayo-clinic",
@@ -7056,24 +4571,14 @@
 "r": "site_of"
 },
 {
-"a": "org:mcgill-university-health-centre-glen-site",
-"b": "trial:nct05115110",
+"a": "org:mayo-clinic-vascular-center-arizona",
+"b": "trial:nct06706622",
 "r": "site_of"
 },
 {
-"a": "org:medical-research-council",
-"b": "paper:pmid-29582403",
-"r": "funded"
-},
-{
-"a": "org:medical-research-council",
-"b": "paper:pmid-32273329",
-"r": "funded"
-},
-{
-"a": "org:medical-research-council",
-"b": "paper:pmid-32461689",
-"r": "funded"
+"a": "org:mcgill-university-health-centre-glen-site",
+"b": "trial:nct05115110",
+"r": "site_of"
 },
 {
 "a": "org:medizinische-universitat-graz",
@@ -7081,49 +4586,9 @@
 "r": "site_of"
 },
 {
-"a": "org:michael-j-fox-foundation-for-parkinson-s-research",
-"b": "paper:pmid-31909184",
-"r": "funded"
-},
-{
-"a": "org:michael-j-fox-foundation-for-parkinson-s-research",
-"b": "paper:pmid-36653527",
-"r": "funded"
-},
-{
-"a": "org:ministero-della-salute",
-"b": "paper:pmid-32342188",
-"r": "funded"
-},
-{
-"a": "org:ministero-della-salute",
-"b": "paper:pmid-33855335",
-"r": "funded"
-},
-{
-"a": "org:ministero-della-salute",
-"b": "paper:pmid-36859484",
-"r": "funded"
-},
-{
-"a": "org:ministero-dellistruzione-delluniversita-e-della-ricerca",
-"b": "paper:pmid-36859484",
-"r": "funded"
-},
-{
-"a": "org:ministry-of-education-culture-sports-science-and-technology",
-"b": "paper:pmid-37248302",
-"r": "funded"
-},
-{
-"a": "org:ministry-of-science-and-technology-taiwan",
-"b": "paper:pmid-29502274",
-"r": "funded"
-},
-{
-"a": "org:monash-university",
-"b": "paper:pmid-29582403",
-"r": "funded"
+"a": "org:ministry-of-health-italy",
+"b": "trial:nct05733572",
+"r": "collaborates"
 },
 {
 "a": "org:montreal-neurological-institute",
@@ -7131,34 +4596,9 @@
 "r": "site_of"
 },
 {
-"a": "org:multiple-system-atrophy-coalition",
-"b": "paper:pmid-35445419",
-"r": "funded"
-},
-{
-"a": "org:multiple-system-atrophy-trust",
-"b": "paper:pmid-38168980",
-"r": "funded"
-},
-{
 "a": "org:nagoya-university-hospital",
 "b": "trial:nct07446894",
 "r": "site_of"
-},
-{
-"a": "org:national-health-and-medical-research-council",
-"b": "paper:pmid-29582403",
-"r": "funded"
-},
-{
-"a": "org:national-heart-lung-and-blood-institute",
-"b": "paper:pmid-28321644",
-"r": "funded"
-},
-{
-"a": "org:national-heart-lung-and-blood-institute",
-"b": "paper:pmid-29183836",
-"r": "funded"
 },
 {
 "a": "org:national-hospital-organization-nagara-medical-center",
@@ -7166,179 +4606,9 @@
 "r": "site_of"
 },
 {
-"a": "org:national-institute-for-health-and-care-research",
-"b": "paper:pmid-32560913",
-"r": "funded"
-},
-{
-"a": "org:national-institute-for-health-and-care-research",
-"b": "paper:pmid-36108674",
-"r": "funded"
-},
-{
-"a": "org:national-institute-of-allergy-and-infectious-diseases",
-"b": "paper:pmid-32342188",
-"r": "funded"
-},
-{
-"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
-"b": "paper:pmid-36083140",
-"r": "funded"
-},
-{
-"a": "org:national-institute-of-neurological-disorders-and-stroke",
-"b": "paper:pmid-31909184",
-"r": "funded"
-},
-{
-"a": "org:national-institute-of-neurological-disorders-and-stroke",
-"b": "paper:pmid-32025029",
-"r": "funded"
-},
-{
-"a": "org:national-institute-of-neurological-disorders-and-stroke",
-"b": "paper:pmid-38506839",
-"r": "funded"
-},
-{
-"a": "org:national-institute-on-aging",
-"b": "paper:pmid-32025029",
-"r": "funded"
-},
-{
-"a": "org:national-institute-on-aging",
-"b": "paper:pmid-34233031",
-"r": "funded"
-},
-{
-"a": "org:national-institute-on-aging",
-"b": "paper:pmid-34508096",
-"r": "funded"
-},
-{
-"a": "org:national-institute-on-aging",
-"b": "paper:pmid-38168980",
-"r": "funded"
-},
-{
-"a": "org:national-institute-on-aging",
-"b": "paper:pmid-38506839",
-"r": "funded"
-},
-{
-"a": "org:national-institute-on-alcohol-abuse-and-alcoholism",
-"b": "paper:pmid-34233031",
-"r": "funded"
-},
-{
-"a": "org:national-institute-on-deafness-and-other-communication-disor",
-"b": "paper:pmid-28321644",
-"r": "funded"
-},
-{
-"a": "org:national-institute-on-deafness-and-other-communication-disor",
-"b": "paper:pmid-29183836",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-28321644",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-28786085",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-29183836",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-31909184",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-32342188",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-32445085",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-32986090",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-33458725",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-34233031",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-34302789",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-34508096",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-36653527",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-38168980",
-"r": "funded"
-},
-{
-"a": "org:national-natural-science-foundation-of-china",
-"b": "paper:pmid-28321644",
-"r": "funded"
-},
-{
-"a": "org:national-natural-science-foundation-of-china",
-"b": "paper:pmid-32300287",
-"r": "funded"
-},
-{
-"a": "org:national-natural-science-foundation-of-china",
-"b": "paper:pmid-33614626",
-"r": "funded"
-},
-{
-"a": "org:national-natural-science-foundation-of-china",
-"b": "paper:pmid-35517286",
-"r": "funded"
-},
-{
-"a": "org:national-natural-science-foundation-of-china",
-"b": "paper:pmid-37270609",
-"r": "funded"
-},
-{
-"a": "org:national-natural-science-foundation-of-china",
-"b": "paper:pmid-37735487",
-"r": "funded"
-},
-{
-"a": "org:national-natural-science-foundation-of-china-guangdong-joint",
-"b": "paper:pmid-33614626",
-"r": "funded"
+"a": "org:national-institute-on-alcohol-abuse-and-alcoholism-niaaa",
+"b": "trial:nct06635746",
+"r": "collaborates"
 },
 {
 "a": "org:national-taiwan-university-hospital",
@@ -7354,16 +4624,6 @@
 "a": "org:nationwide-children-s-hospital",
 "b": "trial:nct05524883",
 "r": "site_of"
-},
-{
-"a": "org:natural-science-foundation-of-guangdong-province",
-"b": "paper:pmid-33614626",
-"r": "funded"
-},
-{
-"a": "org:natural-science-foundation-of-jiangsu-province",
-"b": "paper:pmid-35517286",
-"r": "funded"
 },
 {
 "a": "org:neurology-rare-disease-center",
@@ -7426,6 +4686,16 @@
 "r": "funded"
 },
 {
+"a": "org:ningbo-no-2-hospital",
+"b": "trial:nct07518810",
+"r": "collaborates"
+},
+{
+"a": "org:ningbo-second-hospital",
+"b": "trial:nct07518810",
+"r": "site_of"
+},
+{
 "a": "org:nippon-shinyaku",
 "b": "trial:nct06053814",
 "r": "collaborates"
@@ -7436,9 +4706,14 @@
 "r": "collaborates"
 },
 {
-"a": "org:nomis-stiftung",
-"b": "paper:pmid-33165511",
-"r": "funded"
+"a": "org:nootrobox",
+"b": "trial:nct02857829",
+"r": "sponsors"
+},
+{
+"a": "org:norman-fixel-institute-for-neurological-diseases-university",
+"b": "trial:nct05923866",
+"r": "site_of"
 },
 {
 "a": "org:novartis-investigative-site",
@@ -7471,6 +4746,11 @@
 "r": "site_of"
 },
 {
+"a": "org:ohio-state-university",
+"b": "trial:nct05027269",
+"r": "site_of"
+},
+{
 "a": "org:okayama-university-hospital",
 "b": "trial:nct07446894",
 "r": "site_of"
@@ -7496,11 +4776,6 @@
 "r": "site_of"
 },
 {
-"a": "org:osaka-foundation-for-promotion-of-fundamental-medical-resear",
-"b": "paper:pmid-37248302",
-"r": "funded"
-},
-{
 "a": "org:ospedale-pediatrico-bambino-gesu",
 "b": "trial:nct07037862",
 "r": "site_of"
@@ -7516,14 +4791,14 @@
 "r": "site_of"
 },
 {
-"a": "org:pacific-clinical-research-network-auckland",
-"b": "trial:nct06667453",
+"a": "org:pacific-clinic-research-network",
+"b": "trial:nct07798609",
 "r": "site_of"
 },
 {
-"a": "org:parkinson-research-foundation",
-"b": "paper:pmid-32333900",
-"r": "funded"
+"a": "org:pacific-clinical-research-network-auckland",
+"b": "trial:nct06667453",
+"r": "site_of"
 },
 {
 "a": "org:parkinson-s-disease-and-movement-disorder-center-of-boca-rat",
@@ -7539,31 +4814,6 @@
 "a": "org:parkinson-s-disease-and-movement-disorders-center-of-boca-ra",
 "b": "trial:nct06706622",
 "r": "site_of"
-},
-{
-"a": "org:parkinson-s-foundation",
-"b": "paper:pmid-34894214",
-"r": "funded"
-},
-{
-"a": "org:parkinson-s-uk",
-"b": "paper:pmid-32273329",
-"r": "funded"
-},
-{
-"a": "org:parkinson-s-uk",
-"b": "paper:pmid-34302789",
-"r": "funded"
-},
-{
-"a": "org:parkinsonfonds-deutschland",
-"b": "paper:pmid-34302789",
-"r": "funded"
-},
-{
-"a": "org:people-s-government-of-jilin-province",
-"b": "paper:pmid-32300287",
-"r": "funded"
 },
 {
 "a": "org:pepgen",
@@ -7616,19 +4866,9 @@
 "r": "sponsors"
 },
 {
-"a": "org:princeton-university",
-"b": "paper:pmid-37270609",
-"r": "funded"
-},
-{
-"a": "org:priority-academic-program-development-of-jiangsu-higher-educ",
-"b": "paper:pmid-35517286",
-"r": "funded"
-},
-{
-"a": "org:prostate-cancer-foundation",
-"b": "paper:pmid-33458725",
-"r": "funded"
+"a": "org:pseg-centro-de-pesquisa-clinica",
+"b": "trial:nct07221669",
+"r": "site_of"
 },
 {
 "a": "org:pusan-national-university-yangsan-hospital",
@@ -7651,11 +4891,6 @@
 "r": "site_of"
 },
 {
-"a": "org:roche",
-"b": "paper:pmid-32333900",
-"r": "funded"
-},
-{
 "a": "org:rush-university-medical-center-rush-university-cancer-center",
 "b": "trial:nct05104476",
 "r": "site_of"
@@ -7674,21 +4909,6 @@
 "a": "org:samsung-medical-center",
 "b": "trial:nct07808905",
 "r": "site_of"
-},
-{
-"a": "org:school-of-medicine-duke-university",
-"b": "paper:pmid-33458725",
-"r": "funded"
-},
-{
-"a": "org:school-of-medicine-new-york-university",
-"b": "paper:pmid-36859484",
-"r": "funded"
-},
-{
-"a": "org:science-and-technology-planning-project-of-guangdong-provinc",
-"b": "paper:pmid-33614626",
-"r": "funded"
 },
 {
 "a": "org:scirent-clinical-research-and-science-d-o-o",
@@ -7726,9 +4946,9 @@
 "r": "site_of"
 },
 {
-"a": "org:shanghai-municipal-education-commission",
-"b": "paper:pmid-37735487",
-"r": "funded"
+"a": "org:shanghai-rxmidas-pharmaceuticals",
+"b": "trial:nct01400035",
+"r": "sponsors"
 },
 {
 "a": "org:shriners-hospitals-for-children-portland",
@@ -7781,8 +5001,18 @@
 "r": "sponsors"
 },
 {
+"a": "org:stanford-university-school-of-medicine",
+"b": "trial:nct05923866",
+"r": "site_of"
+},
+{
 "a": "org:stichting-radboud-universitair-medisch-centrum",
 "b": "trial:nct07038824",
+"r": "site_of"
+},
+{
+"a": "org:suorasky-medical-center",
+"b": "trial:nct00719953",
 "r": "site_of"
 },
 {
@@ -7791,8 +5021,23 @@
 "r": "site_of"
 },
 {
+"a": "org:sydney-children-s-hospital-randwick",
+"b": "trial:nct07221669",
+"r": "site_of"
+},
+{
 "a": "org:symyoo",
 "b": "trial:nct07390552",
+"r": "collaborates"
+},
+{
+"a": "org:taizhou-hospital-of-zhejiang-province",
+"b": "trial:nct07518810",
+"r": "site_of"
+},
+{
+"a": "org:taizhou-hospital-of-zhejiang-province-affiliated-to-wenzhou",
+"b": "trial:nct07518810",
 "r": "collaborates"
 },
 {
@@ -7803,6 +5048,21 @@
 {
 "a": "org:takeda",
 "b": "trial:nct05526391",
+"r": "sponsors"
+},
+{
+"a": "org:tanta-university",
+"b": "trial:nct07229664",
+"r": "sponsors"
+},
+{
+"a": "org:tanta-unuversity",
+"b": "trial:nct07229664",
+"r": "site_of"
+},
+{
+"a": "org:tel-aviv-sourasky-medical-center",
+"b": "trial:nct00719953",
 "r": "sponsors"
 },
 {
@@ -7821,9 +5081,9 @@
 "r": "sponsors"
 },
 {
-"a": "org:teva-pharmaceutical-industries",
-"b": "paper:pmid-34894214",
-"r": "funded"
+"a": "org:the-alfred-hospital",
+"b": "trial:nct07798609",
+"r": "site_of"
 },
 {
 "a": "org:the-catholic-university-of-korea-st-vincent-s-hospital",
@@ -7841,6 +5101,11 @@
 "r": "site_of"
 },
 {
+"a": "org:the-first-affiliated-hospital-of-guangxi-medical-university",
+"b": "trial:nct07518810",
+"r": "site_of"
+},
+{
 "a": "org:the-hospital-for-sick-children",
 "b": "trial:nct05115110",
 "r": "site_of"
@@ -7848,6 +5113,11 @@
 {
 "a": "org:the-nemo-clinical-center-in-milan-neurorehabilitation-unit-u",
 "b": "trial:nct06300307",
+"r": "site_of"
+},
+{
+"a": "org:the-parkinson-s-movement-and-disorder-institute",
+"b": "trial:nct05923866",
 "r": "site_of"
 },
 {
@@ -7861,24 +5131,34 @@
 "r": "site_of"
 },
 {
+"a": "org:the-second-affiliated-hospital-of-jiaxing-university",
+"b": "trial:nct07518810",
+"r": "collaborates"
+},
+{
+"a": "org:the-second-affiliated-hospital-of-zhejiang-university-school",
+"b": "trial:nct07518810",
+"r": "site_of"
+},
+{
+"a": "org:the-second-hospital-of-jiaxing",
+"b": "trial:nct07518810",
+"r": "site_of"
+},
+{
+"a": "org:the-third-affiliated-hospital-of-zhengzhou-university-north",
+"b": "trial:nct07221669",
+"r": "site_of"
+},
+{
 "a": "org:the-university-of-tokyo-hospital",
 "b": "trial:nct07446894",
 "r": "site_of"
 },
 {
-"a": "org:tianjin-medical-university",
-"b": "paper:pmid-28691141",
-"r": "funded"
-},
-{
 "a": "org:tianjin-medical-university-general-hospital",
 "b": "trial:nct02878772",
 "r": "sponsors"
-},
-{
-"a": "org:tianjin-university",
-"b": "paper:pmid-28691141",
-"r": "funded"
 },
 {
 "a": "org:tiziana-life-sciences",
@@ -7901,36 +5181,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:tsinghua-university",
-"b": "paper:pmid-37270609",
-"r": "funded"
-},
-{
-"a": "org:u-s-department-of-health-and-human-services",
-"b": "paper:pmid-34508096",
-"r": "funded"
-},
-{
-"a": "org:u-s-department-of-health-and-human-services",
-"b": "paper:pmid-36653527",
-"r": "funded"
-},
-{
-"a": "org:u-s-department-of-health-and-human-services",
-"b": "paper:pmid-38168980",
-"r": "funded"
-},
-{
-"a": "org:u-s-department-of-veterans-affairs",
-"b": "paper:pmid-34508096",
-"r": "funded"
-},
-{
-"a": "org:u-s-food-and-drug-administration",
-"b": "paper:pmid-32025029",
-"r": "funded"
-},
-{
 "a": "org:ucla",
 "b": "trial:nct06300307",
 "r": "site_of"
@@ -7944,11 +5194,6 @@
 "a": "org:ucla-university-california-of-los-angeles",
 "b": "trial:nct05524883",
 "r": "site_of"
-},
-{
-"a": "org:uk-dementia-research-institute",
-"b": "paper:pmid-33548114",
-"r": "funded"
 },
 {
 "a": "org:umass-memorial-medical-center",
@@ -7981,11 +5226,6 @@
 "r": "site_of"
 },
 {
-"a": "org:university-grants-commission",
-"b": "paper:pmid-30551388",
-"r": "funded"
-},
-{
 "a": "org:university-hospital-gent",
 "b": "trial:nct07037862",
 "r": "site_of"
@@ -8001,8 +5241,18 @@
 "r": "site_of"
 },
 {
+"a": "org:university-of-arkansas-for-medical-sciences-uams-medical-cen",
+"b": "trial:nct06706622",
+"r": "site_of"
+},
+{
 "a": "org:university-of-calgary",
 "b": "trial:nct06667453",
+"r": "site_of"
+},
+{
+"a": "org:university-of-california-los-angeles",
+"b": "trial:nct05027269",
 "r": "site_of"
 },
 {
@@ -8021,14 +5271,14 @@
 "r": "site_of"
 },
 {
-"a": "org:university-of-cambridge",
-"b": "paper:pmid-32461689",
-"r": "funded"
+"a": "org:university-of-california-san-francisco-sandler-neurosciences",
+"b": "trial:nct06706622",
+"r": "site_of"
 },
 {
-"a": "org:university-of-cambridge",
-"b": "paper:pmid-33548114",
-"r": "funded"
+"a": "org:university-of-colorado",
+"b": "trial:nct05027269",
+"r": "site_of"
 },
 {
 "a": "org:university-of-florida",
@@ -8051,14 +5301,14 @@
 "r": "site_of"
 },
 {
-"a": "org:university-of-florida-norman-fixel-institute-for-neurologica",
-"b": "trial:nct05104476",
+"a": "org:university-of-florida-college-of-medicine-gainesville",
+"b": "trial:nct06706622",
 "r": "site_of"
 },
 {
-"a": "org:university-of-hong-kong",
-"b": "paper:pmid-34007405",
-"r": "funded"
+"a": "org:university-of-florida-norman-fixel-institute-for-neurologica",
+"b": "trial:nct05104476",
+"r": "site_of"
 },
 {
 "a": "org:university-of-iowa",
@@ -8086,6 +5336,11 @@
 "r": "site_of"
 },
 {
+"a": "org:university-of-miami-miller-school-of-medicine",
+"b": "trial:nct05923866",
+"r": "site_of"
+},
+{
 "a": "org:university-of-pennsylvania",
 "b": "trial:nct06185764",
 "r": "site_of"
@@ -8103,6 +5358,11 @@
 {
 "a": "org:university-of-rochester-medical-center",
 "b": "trial:nct05481879",
+"r": "site_of"
+},
+{
+"a": "org:university-of-southern-california",
+"b": "trial:nct05923866",
 "r": "site_of"
 },
 {
@@ -8181,11 +5441,6 @@
 "r": "site_of"
 },
 {
-"a": "org:vision-group-on-science-and-technology",
-"b": "paper:pmid-37793522",
-"r": "funded"
-},
-{
 "a": "org:wake-forest-baptist-health",
 "b": "trial:nct06185764",
 "r": "site_of"
@@ -8201,24 +5456,19 @@
 "r": "site_of"
 },
 {
+"a": "org:washington-university-school-of-medicine",
+"b": "trial:nct07429240",
+"r": "site_of"
+},
+{
 "a": "org:washington-university-school-of-medicine-st-louis-children-s",
 "b": "trial:nct06185764",
 "r": "site_of"
 },
 {
-"a": "org:wellcome-trust",
-"b": "paper:pmid-32273329",
-"r": "funded"
-},
-{
-"a": "org:wellcome-trust",
-"b": "paper:pmid-32461689",
-"r": "funded"
-},
-{
-"a": "org:wellcome-trust",
-"b": "paper:pmid-36108674",
-"r": "funded"
+"a": "org:weiwei-zhang",
+"b": "trial:nct01400035",
+"r": "site_of"
 },
 {
 "a": "org:wesley-research-institute",
@@ -8231,179 +5481,24 @@
 "r": "site_of"
 },
 {
-"a": "org:weston-brain-institute",
-"b": "paper:pmid-32986090",
-"r": "funded"
-},
-{
 "a": "org:worldwide-clinical-trials",
 "b": "trial:nct06671938",
 "r": "collaborates"
 },
 {
-"a": "org:yeditepe-university-kosuyolu-hospital",
-"b": "trial:nct06280209",
+"a": "org:yale-new-haven-health-system",
+"b": "trial:nct06706622",
 "r": "site_of"
 },
 {
-"a": "org:york-university",
-"b": "paper:pmid-36859484",
-"r": "funded"
+"a": "org:yale-school-of-medicine-yale-church-street-research-unit-crs",
+"b": "trial:nct05923866",
+"r": "site_of"
 },
 {
-"a": "paper:pmid-28188510",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-28233134",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-28315429",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-28321644",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-28691141",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-28786085",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-29113305",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-29183836",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-29502274",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-29582403",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-30551388",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-30858122",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-30981765",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-31536753",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-31991177",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-32166194",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-32300287",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-32715279",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-32840391",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-33614626",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-33802176",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-34007405",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-35517286",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-37270609",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-37793522",
-"b": "asset:vinpocetine-msa",
-"r": "cites_asset"
-},
-{
-"a": "person:ahmed-a-elnfarawy",
-"b": "org:mansoura-university",
-"r": "affiliated"
-},
-{
-"a": "person:ahmed-a-elnfarawy",
-"b": "paper:pmid-32840391",
-"r": "authored"
-},
-{
-"a": "person:aiman-saad-el-khatib",
-"b": "org:cairo-university",
-"r": "affiliated"
-},
-{
-"a": "person:aiman-saad-el-khatib",
-"b": "paper:pmid-30858122",
-"r": "authored"
-},
-{
-"a": "person:aleksandra-szantyr",
-"b": "org:jagiellonian-university",
-"r": "affiliated"
-},
-{
-"a": "person:aleksandra-szantyr",
-"b": "paper:pmid-28233134",
-"r": "authored"
+"a": "org:yeditepe-university-kosuyolu-hospital",
+"b": "trial:nct06280209",
+"r": "site_of"
 },
 {
 "a": "person:alexandre-esteves-medina",
@@ -8421,86 +5516,6 @@
 "r": "affiliated"
 },
 {
-"a": "person:alireza-komaki",
-"b": "org:hamedan-university-of-medical-sciences",
-"r": "affiliated"
-},
-{
-"a": "person:alireza-komaki",
-"b": "paper:pmid-31991177",
-"r": "authored"
-},
-{
-"a": "person:amanda-e-hargrove",
-"b": "org:duke-medical-center",
-"r": "affiliated"
-},
-{
-"a": "person:amanda-e-hargrove",
-"b": "org:duke-university",
-"r": "affiliated"
-},
-{
-"a": "person:amanda-e-hargrove",
-"b": "paper:pmid-33458725",
-"r": "authored"
-},
-{
-"a": "person:ambra-stefani",
-"b": "org:innsbruck-medical-university",
-"r": "affiliated"
-},
-{
-"a": "person:ambra-stefani",
-"b": "org:universitat-innsbruck",
-"r": "affiliated"
-},
-{
-"a": "person:ambra-stefani",
-"b": "paper:pmid-33855335",
-"r": "authored"
-},
-{
-"a": "person:amira-guirguis",
-"b": "org:swansea-university",
-"r": "affiliated"
-},
-{
-"a": "person:amira-guirguis",
-"b": "org:university-of-hertfordshire",
-"r": "affiliated"
-},
-{
-"a": "person:amira-guirguis",
-"b": "paper:pmid-33802176",
-"r": "authored"
-},
-{
-"a": "person:anding-xu",
-"b": "org:first-affiliated-hospital-of-jinan-university",
-"r": "affiliated"
-},
-{
-"a": "person:anding-xu",
-"b": "org:jinan-university",
-"r": "affiliated"
-},
-{
-"a": "person:anding-xu",
-"b": "paper:pmid-33614626",
-"r": "authored"
-},
-{
-"a": "person:andrea-bor",
-"b": "org:university-of-szeged",
-"r": "affiliated"
-},
-{
-"a": "person:andrea-bor",
-"b": "paper:pmid-28188510",
-"r": "authored"
-},
-{
 "a": "person:anke-sambeth",
 "b": "org:maastricht-university",
 "r": "affiliated"
@@ -8511,46 +5526,6 @@
 "r": "investigator"
 },
 {
-"a": "person:anke-van-der-perren",
-"b": "org:ku-leuven",
-"r": "affiliated"
-},
-{
-"a": "person:anke-van-der-perren",
-"b": "paper:pmid-32356200",
-"r": "authored"
-},
-{
-"a": "person:anna-vainshtein",
-"b": "org:quebec-science-canada",
-"r": "affiliated"
-},
-{
-"a": "person:anna-vainshtein",
-"b": "org:reseau-technoscience",
-"r": "affiliated"
-},
-{
-"a": "person:anna-vainshtein",
-"b": "paper:pmid-32635462",
-"r": "authored"
-},
-{
-"a": "person:antonio-carotenuto",
-"b": "org:irccs-ospedale-san-raffaele",
-"r": "affiliated"
-},
-{
-"a": "person:antonio-carotenuto",
-"b": "org:irccs-san-raffaele-roma",
-"r": "affiliated"
-},
-{
-"a": "person:antonio-carotenuto",
-"b": "paper:pmid-34919648",
-"r": "authored"
-},
-{
 "a": "person:arjan-blokland",
 "b": "org:maastricht-university",
 "r": "affiliated"
@@ -8559,16 +5534,6 @@
 "a": "person:arjan-blokland",
 "b": "trial:nct02857829",
 "r": "investigator"
-},
-{
-"a": "person:ayami-okuzumi",
-"b": "org:juntendo-university",
-"r": "affiliated"
-},
-{
-"a": "person:ayami-okuzumi",
-"b": "paper:pmid-37248302",
-"r": "authored"
 },
 {
 "a": "person:benedetto-falsini",
@@ -8589,121 +5554,6 @@
 "a": "person:camille-bedrosian",
 "b": "trial:nct05676034",
 "r": "investigator"
-},
-{
-"a": "person:chao-gao",
-"b": "org:ruijin-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:chao-gao",
-"b": "org:shanghai-jiao-tong-university",
-"r": "affiliated"
-},
-{
-"a": "person:chao-gao",
-"b": "paper:pmid-37735487",
-"r": "authored"
-},
-{
-"a": "person:chen-wang",
-"b": "org:china-japan-friendship-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:chen-wang",
-"b": "org:chinese-academy-of-medical-sciences-peking-union-medical-col",
-"r": "affiliated"
-},
-{
-"a": "person:chen-wang",
-"b": "paper:pmid-32251002",
-"r": "authored"
-},
-{
-"a": "person:cheng-jiang",
-"b": "org:john-radcliffe-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:cheng-jiang",
-"b": "org:university-of-oxford",
-"r": "affiliated"
-},
-{
-"a": "person:cheng-jiang",
-"b": "paper:pmid-32273329",
-"r": "authored"
-},
-{
-"a": "person:chenghwang-perng",
-"b": "org:aletheia-university",
-"r": "affiliated"
-},
-{
-"a": "person:chenghwang-perng",
-"b": "paper:pmid-29502274",
-"r": "authored"
-},
-{
-"a": "person:christopher-h-gibbons",
-"b": "org:beth-israel-deaconess-medical-center",
-"r": "affiliated"
-},
-{
-"a": "person:christopher-h-gibbons",
-"b": "org:harvard-university",
-"r": "affiliated"
-},
-{
-"a": "person:christopher-h-gibbons",
-"b": "paper:pmid-38506839",
-"r": "authored"
-},
-{
-"a": "person:christopher-l-bowlus",
-"b": "org:uc-davis-health",
-"r": "affiliated"
-},
-{
-"a": "person:christopher-l-bowlus",
-"b": "org:university-of-california-davis-medical-center",
-"r": "affiliated"
-},
-{
-"a": "person:christopher-l-bowlus",
-"b": "paper:pmid-36083140",
-"r": "authored"
-},
-{
-"a": "person:claudio-a-soto",
-"b": "org:amprion-united-states",
-"r": "affiliated"
-},
-{
-"a": "person:claudio-a-soto",
-"b": "paper:pmid-32025029",
-"r": "authored"
-},
-{
-"a": "person:claudio-a-soto",
-"b": "paper:pmid-36653527",
-"r": "authored"
-},
-{
-"a": "person:dan-lu",
-"b": "org:first-affiliated-hospital-of-jinan-university",
-"r": "affiliated"
-},
-{
-"a": "person:dan-lu",
-"b": "org:jinan-university",
-"r": "affiliated"
-},
-{
-"a": "person:dan-lu",
-"b": "paper:pmid-33614626",
-"r": "authored"
 },
 {
 "a": "person:daniel-g-amen",
@@ -8736,344 +5586,9 @@
 "r": "affiliated"
 },
 {
-"a": "person:david-n-assis",
-"b": "org:yale-university",
+"a": "person:jiali-pu",
+"b": "org:2nd-affiliated-hospital-school-of-medicine-zhejiang-universi",
 "r": "affiliated"
-},
-{
-"a": "person:david-n-assis",
-"b": "paper:pmid-36083140",
-"r": "authored"
-},
-{
-"a": "person:debashis-dutta",
-"b": "org:rush-university-medical-center",
-"r": "affiliated"
-},
-{
-"a": "person:debashis-dutta",
-"b": "paper:pmid-34508096",
-"r": "authored"
-},
-{
-"a": "person:dennis-w-dickson",
-"b": "org:mayo-clinic-in-florida",
-"r": "affiliated"
-},
-{
-"a": "person:dennis-w-dickson",
-"b": "paper:pmid-34922583",
-"r": "authored"
-},
-{
-"a": "person:di-ma",
-"b": "org:first-hospital-of-jilin-university",
-"r": "affiliated"
-},
-{
-"a": "person:di-ma",
-"b": "org:jilin-university",
-"r": "affiliated"
-},
-{
-"a": "person:di-ma",
-"b": "paper:pmid-32300287",
-"r": "authored"
-},
-{
-"a": "person:eliezer-masliah",
-"b": "org:national-institute-on-aging",
-"r": "affiliated"
-},
-{
-"a": "person:eliezer-masliah",
-"b": "org:national-institutes-of-health",
-"r": "affiliated"
-},
-{
-"a": "person:eliezer-masliah",
-"b": "paper:pmid-32445085",
-"r": "authored"
-},
-{
-"a": "person:elizabeth-j-carey",
-"b": "org:mayo-clinic-in-arizona",
-"r": "affiliated"
-},
-{
-"a": "person:elizabeth-j-carey",
-"b": "paper:pmid-34233031",
-"r": "authored"
-},
-{
-"a": "person:fabrizio-schifano",
-"b": "org:university-of-hertfordshire",
-"r": "affiliated"
-},
-{
-"a": "person:fabrizio-schifano",
-"b": "paper:pmid-33802176",
-"r": "authored"
-},
-{
-"a": "person:fang-zhang",
-"b": "org:tianjin-medical-university",
-"r": "affiliated"
-},
-{
-"a": "person:fang-zhang",
-"b": "org:tianjin-medical-university-general-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:fang-zhang",
-"b": "paper:pmid-28691141",
-"r": "authored"
-},
-{
-"a": "person:farah-al-mamorri",
-"b": "org:mustansiriyah-university",
-"r": "affiliated"
-},
-{
-"a": "person:farah-al-mamorri",
-"b": "paper:pmid-32166194",
-"r": "authored"
-},
-{
-"a": "person:fritz-joachim-sedlazeck",
-"b": "org:aligning-science-across-parkinson-s",
-"r": "affiliated"
-},
-{
-"a": "person:fritz-joachim-sedlazeck",
-"b": "org:baylor-college-of-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:fritz-joachim-sedlazeck",
-"b": "paper:pmid-38168980",
-"r": "authored"
-},
-{
-"a": "person:george-k-tofaris",
-"b": "org:john-radcliffe-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:george-k-tofaris",
-"b": "org:university-of-oxford",
-"r": "affiliated"
-},
-{
-"a": "person:george-k-tofaris",
-"b": "paper:pmid-32273329",
-"r": "authored"
-},
-{
-"a": "person:giacomo-monzio-compagnoni",
-"b": "org:brigham-and-women-s-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:giacomo-monzio-compagnoni",
-"b": "org:fondazione-irccs-ca-granda-ospedale-maggiore-policlinico",
-"r": "affiliated"
-},
-{
-"a": "person:giacomo-monzio-compagnoni",
-"b": "paper:pmid-32445085",
-"r": "authored"
-},
-{
-"a": "person:gianluigi-zanusso",
-"b": "org:university-of-verona",
-"r": "affiliated"
-},
-{
-"a": "person:gianluigi-zanusso",
-"b": "paper:pmid-33855335",
-"r": "authored"
-},
-{
-"a": "person:gregor-karl-wenning",
-"b": "org:innsbruck-medical-university",
-"r": "affiliated"
-},
-{
-"a": "person:gregor-karl-wenning",
-"b": "org:universitat-innsbruck",
-"r": "affiliated"
-},
-{
-"a": "person:gregor-karl-wenning",
-"b": "paper:pmid-35445419",
-"r": "authored"
-},
-{
-"a": "person:hagalavadi-nanjappa-shivakumar",
-"b": "org:kle-academy-of-higher-education-and-research",
-"r": "affiliated"
-},
-{
-"a": "person:hagalavadi-nanjappa-shivakumar",
-"b": "paper:pmid-37793522",
-"r": "authored"
-},
-{
-"a": "person:harriet-i-kemp",
-"b": "org:imperial-college-london",
-"r": "affiliated"
-},
-{
-"a": "person:harriet-i-kemp",
-"b": "paper:pmid-32560913",
-"r": "authored"
-},
-{
-"a": "person:hayder-mutter-al-kuraishy",
-"b": "org:mustansiriyah-university",
-"r": "affiliated"
-},
-{
-"a": "person:hayder-mutter-al-kuraishy",
-"b": "paper:pmid-32166194",
-"r": "authored"
-},
-{
-"a": "person:hongmei-zhao",
-"b": "org:china-japan-friendship-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:hongmei-zhao",
-"b": "org:chinese-academy-of-medical-sciences-peking-union-medical-col",
-"r": "affiliated"
-},
-{
-"a": "person:hongmei-zhao",
-"b": "paper:pmid-32251002",
-"r": "authored"
-},
-{
-"a": "person:horacio-kaufmann",
-"b": "org:new-york-university",
-"r": "affiliated"
-},
-{
-"a": "person:horacio-kaufmann",
-"b": "org:nyu-langone-health",
-"r": "affiliated"
-},
-{
-"a": "person:horacio-kaufmann",
-"b": "paper:pmid-35445419",
-"r": "authored"
-},
-{
-"a": "person:horacio-kaufmann",
-"b": "paper:pmid-36008429",
-"r": "authored"
-},
-{
-"a": "person:hui-xu",
-"b": "org:shenzhen-university",
-"r": "affiliated"
-},
-{
-"a": "person:hui-xu",
-"b": "org:university-of-hong-kong",
-"r": "affiliated"
-},
-{
-"a": "person:hui-xu",
-"b": "paper:pmid-34007405",
-"r": "authored"
-},
-{
-"a": "person:ilaria-poggiolini",
-"b": "org:university-of-oxford",
-"r": "affiliated"
-},
-{
-"a": "person:ilaria-poggiolini",
-"b": "paper:pmid-34894214",
-"r": "authored"
-},
-{
-"a": "person:iva-stankovic",
-"b": "org:university-of-belgrade",
-"r": "affiliated"
-},
-{
-"a": "person:iva-stankovic",
-"b": "org:univerzitetski-klinicki-centar-srbije",
-"r": "affiliated"
-},
-{
-"a": "person:iva-stankovic",
-"b": "paper:pmid-35445419",
-"r": "authored"
-},
-{
-"a": "person:james-p-falese",
-"b": "org:duke-medical-center",
-"r": "affiliated"
-},
-{
-"a": "person:james-p-falese",
-"b": "org:duke-university",
-"r": "affiliated"
-},
-{
-"a": "person:james-p-falese",
-"b": "paper:pmid-33458725",
-"r": "authored"
-},
-{
-"a": "person:jan-zapaa",
-"b": "org:jagiellonian-university",
-"r": "affiliated"
-},
-{
-"a": "person:jan-zapaa",
-"b": "paper:pmid-28233134",
-"r": "authored"
-},
-{
-"a": "person:jenni-ilomaki",
-"b": "org:monash-university",
-"r": "affiliated"
-},
-{
-"a": "person:jenni-ilomaki",
-"b": "paper:pmid-29582403",
-"r": "authored"
-},
-{
-"a": "person:jennifer-c-lai",
-"b": "org:university-of-california-san-francisco",
-"r": "affiliated"
-},
-{
-"a": "person:jennifer-c-lai",
-"b": "paper:pmid-34233031",
-"r": "authored"
-},
-{
-"a": "person:jiachun-feng",
-"b": "org:first-hospital-of-jilin-university",
-"r": "affiliated"
-},
-{
-"a": "person:jiachun-feng",
-"b": "org:jilin-university",
-"r": "affiliated"
-},
-{
-"a": "person:jiachun-feng",
-"b": "paper:pmid-32300287",
-"r": "authored"
 },
 {
 "a": "person:jiali-pu",
@@ -9101,51 +5616,6 @@
 "r": "affiliated"
 },
 {
-"a": "person:jian-huang",
-"b": "org:princeton-university",
-"r": "affiliated"
-},
-{
-"a": "person:jian-huang",
-"b": "paper:pmid-37270609",
-"r": "authored"
-},
-{
-"a": "person:jianbo-xiao",
-"b": "org:jiangsu-university",
-"r": "affiliated"
-},
-{
-"a": "person:jianbo-xiao",
-"b": "paper:pmid-34007405",
-"r": "authored"
-},
-{
-"a": "person:jiandong-li",
-"b": "org:georgia-state-university",
-"r": "affiliated"
-},
-{
-"a": "person:jiandong-li",
-"b": "paper:pmid-28321644",
-"r": "authored"
-},
-{
-"a": "person:jiankun-zang",
-"b": "org:first-affiliated-hospital-of-jinan-university",
-"r": "affiliated"
-},
-{
-"a": "person:jiankun-zang",
-"b": "org:jinan-university",
-"r": "affiliated"
-},
-{
-"a": "person:jiankun-zang",
-"b": "paper:pmid-33614626",
-"r": "authored"
-},
-{
 "a": "person:julie-a-kable",
 "b": "grant:nih-1r61aa031291-01a1",
 "r": "grant_pi"
@@ -9159,61 +5629,6 @@
 "a": "person:julie-a-kable",
 "b": "org:stanford-university",
 "r": "affiliated"
-},
-{
-"a": "person:junwei-hao",
-"b": "org:tianjin-medical-university",
-"r": "affiliated"
-},
-{
-"a": "person:junwei-hao",
-"b": "org:tianjin-medical-university-general-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:junwei-hao",
-"b": "paper:pmid-28691141",
-"r": "authored"
-},
-{
-"a": "person:kaj-blennow",
-"b": "org:sahlgrenska-university-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:kaj-blennow",
-"b": "org:university-of-gothenburg",
-"r": "affiliated"
-},
-{
-"a": "person:kaj-blennow",
-"b": "paper:pmid-32333900",
-"r": "authored"
-},
-{
-"a": "person:kalipada-pahan",
-"b": "org:jesse-brown-va-medical-center",
-"r": "affiliated"
-},
-{
-"a": "person:kalipada-pahan",
-"b": "org:rush-university-medical-center",
-"r": "affiliated"
-},
-{
-"a": "person:kalipada-pahan",
-"b": "paper:pmid-34508096",
-"r": "authored"
-},
-{
-"a": "person:kate-wang",
-"b": "org:monash-university",
-"r": "affiliated"
-},
-{
-"a": "person:kate-wang",
-"b": "paper:pmid-29582403",
-"r": "authored"
 },
 {
 "a": "person:kimford-j-meador",
@@ -9236,31 +5651,6 @@
 "r": "investigator"
 },
 {
-"a": "person:laura-parkkinen",
-"b": "org:university-of-oxford",
-"r": "affiliated"
-},
-{
-"a": "person:laura-parkkinen",
-"b": "paper:pmid-34894214",
-"r": "authored"
-},
-{
-"a": "person:lesley-colvin",
-"b": "org:ninewells-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:lesley-colvin",
-"b": "org:university-of-dundee",
-"r": "affiliated"
-},
-{
-"a": "person:lesley-colvin",
-"b": "paper:pmid-32560913",
-"r": "authored"
-},
-{
 "a": "person:li-tai",
 "b": "org:avidity-biosciences",
 "r": "affiliated"
@@ -9271,374 +5661,14 @@
 "r": "investigator"
 },
 {
-"a": "person:lirong-wu",
-"b": "org:army-medical-university",
+"a": "person:nachum-vaisman-professor",
+"b": "org:tel-aviv-sourasky-medical-center-israel",
 "r": "affiliated"
-},
-{
-"a": "person:lirong-wu",
-"b": "org:xinqiao-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:lirong-wu",
-"b": "paper:pmid-29113305",
-"r": "authored"
-},
-{
-"a": "person:luis-conchamarambio",
-"b": "org:amprion-united-states",
-"r": "affiliated"
-},
-{
-"a": "person:luis-conchamarambio",
-"b": "paper:pmid-36653527",
-"r": "authored"
-},
-{
-"a": "person:luis-daniel-bernal-conde",
-"b": "org:universidad-nacional-autonoma-de-mexico",
-"r": "affiliated"
-},
-{
-"a": "person:luis-daniel-bernal-conde",
-"b": "paper:pmid-32038126",
-"r": "authored"
-},
-{
-"a": "person:magdalena-guerracrespo",
-"b": "org:universidad-nacional-autonoma-de-mexico",
-"r": "affiliated"
-},
-{
-"a": "person:magdalena-guerracrespo",
-"b": "paper:pmid-32038126",
-"r": "authored"
-},
-{
-"a": "person:maha-nasr",
-"b": "org:ain-shams-university",
-"r": "affiliated"
-},
-{
-"a": "person:maha-nasr",
-"b": "paper:pmid-30981765",
-"r": "authored"
-},
-{
-"a": "person:manuel-schweighauser",
-"b": "org:mrc-laboratory-of-molecular-biology",
-"r": "affiliated"
-},
-{
-"a": "person:manuel-schweighauser",
-"b": "paper:pmid-32461689",
-"r": "authored"
-},
-{
-"a": "person:marcello-rossi",
-"b": "org:istituto-delle-scienze-neurologiche-di-bologna",
-"r": "affiliated"
-},
-{
-"a": "person:marcello-rossi",
-"b": "paper:pmid-32342188",
-"r": "authored"
-},
-{
-"a": "person:marco-sandri",
-"b": "org:university-of-padua",
-"r": "affiliated"
-},
-{
-"a": "person:marco-sandri",
-"b": "org:veneto-institute-of-molecular-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:marco-sandri",
-"b": "paper:pmid-32635462",
-"r": "authored"
-},
-{
-"a": "person:maria-assunta-rocca",
-"b": "org:irccs-ospedale-san-raffaele",
-"r": "affiliated"
-},
-{
-"a": "person:maria-assunta-rocca",
-"b": "org:vita-salute-san-raffaele-university",
-"r": "affiliated"
-},
-{
-"a": "person:maria-assunta-rocca",
-"b": "paper:pmid-34919648",
-"r": "authored"
-},
-{
-"a": "person:matthias-brendel",
-"b": "org:lmu-klinikum",
-"r": "affiliated"
-},
-{
-"a": "person:matthias-brendel",
-"b": "org:ludwig-maximilians-universitat-munchen",
-"r": "affiliated"
-},
-{
-"a": "person:matthias-brendel",
-"b": "paper:pmid-33165511",
-"r": "authored"
-},
-{
-"a": "person:meiping-wu",
-"b": "org:shanghai-university-of-traditional-chinese-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:meiping-wu",
-"b": "org:university-of-rochester-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:meiping-wu",
-"b": "paper:pmid-28321644",
-"r": "authored"
-},
-{
-"a": "person:meysam-shekarian",
-"b": "org:hamedan-university-of-medical-sciences",
-"r": "affiliated"
-},
-{
-"a": "person:meysam-shekarian",
-"b": "paper:pmid-31991177",
-"r": "authored"
-},
-{
-"a": "person:michel-goedert",
-"b": "org:medical-research-council",
-"r": "affiliated"
-},
-{
-"a": "person:michel-goedert",
-"b": "org:mrc-laboratory-of-molecular-biology",
-"r": "affiliated"
-},
-{
-"a": "person:michel-goedert",
-"b": "paper:pmid-32461689",
-"r": "authored"
-},
-{
-"a": "person:michel-goedert",
-"b": "paper:pmid-33548114",
-"r": "authored"
-},
-{
-"a": "person:michel-goedert",
-"b": "paper:pmid-36108674",
-"r": "authored"
-},
-{
-"a": "person:mingfu-wang",
-"b": "org:shenzhen-university",
-"r": "affiliated"
-},
-{
-"a": "person:mingfu-wang",
-"b": "org:university-of-hong-kong",
-"r": "affiliated"
-},
-{
-"a": "person:mingfu-wang",
-"b": "paper:pmid-34007405",
-"r": "authored"
-},
-{
-"a": "person:mingming-zhao",
-"b": "org:first-hospital-of-jilin-university",
-"r": "affiliated"
-},
-{
-"a": "person:mingming-zhao",
-"b": "org:jilin-university",
-"r": "affiliated"
-},
-{
-"a": "person:mingming-zhao",
-"b": "paper:pmid-32300287",
-"r": "authored"
-},
-{
-"a": "person:mitchell-g-miglis",
-"b": "org:stanford-university",
-"r": "affiliated"
-},
-{
-"a": "person:mitchell-g-miglis",
-"b": "paper:pmid-34302789",
-"r": "authored"
-},
-{
-"a": "person:mohammad-hosein-farzaei",
-"b": "org:kermanshah-university-of-medical-sciences",
-"r": "affiliated"
-},
-{
-"a": "person:mohammad-hosein-farzaei",
-"b": "paper:pmid-31536753",
-"r": "authored"
-},
-{
-"a": "person:mohd-asif-ansari",
-"b": "org:jamia-hamdard",
-"r": "affiliated"
-},
-{
-"a": "person:mohd-asif-ansari",
-"b": "paper:pmid-30551388",
-"r": "authored"
-},
-{
-"a": "person:moqbel-ali-moqbel-redhwan",
-"b": "org:kle-academy-of-higher-education-and-research",
-"r": "affiliated"
-},
-{
-"a": "person:moqbel-ali-moqbel-redhwan",
-"b": "paper:pmid-37793522",
-"r": "authored"
-},
-{
-"a": "person:moritz-smolka",
-"b": "org:baylor-college-of-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:moritz-smolka",
-"b": "paper:pmid-38168980",
-"r": "authored"
-},
-{
-"a": "person:muhammad-umar-farooq",
-"b": "org:mercy-health",
-"r": "affiliated"
-},
-{
-"a": "person:muhammad-umar-farooq",
-"b": "paper:pmid-28786085",
-"r": "authored"
 },
 {
 "a": "person:nachum-vaisman-professor",
 "b": "trial:nct00719953",
 "r": "investigator"
-},
-{
-"a": "person:nieng-yan",
-"b": "org:center-for-life-sciences",
-"r": "affiliated"
-},
-{
-"a": "person:nieng-yan",
-"b": "org:princeton-university",
-"r": "affiliated"
-},
-{
-"a": "person:nieng-yan",
-"b": "paper:pmid-37270609",
-"r": "authored"
-},
-{
-"a": "person:nobutaka-hattori",
-"b": "org:juntendo-university",
-"r": "affiliated"
-},
-{
-"a": "person:nobutaka-hattori",
-"b": "org:riken-center-for-brain-science",
-"r": "affiliated"
-},
-{
-"a": "person:nobutaka-hattori",
-"b": "paper:pmid-37248302",
-"r": "authored"
-},
-{
-"a": "person:osama-sabri",
-"b": "org:leipzig-university",
-"r": "affiliated"
-},
-{
-"a": "person:osama-sabri",
-"b": "paper:pmid-33165511",
-"r": "authored"
-},
-{
-"a": "person:owen-davis-sanders",
-"b": "org:portland-state-university",
-"r": "affiliated"
-},
-{
-"a": "person:owen-davis-sanders",
-"b": "paper:pmid-32715279",
-"r": "authored"
-},
-{
-"a": "person:paolo-calabresi",
-"b": "org:agostino-gemelli-university-polyclinic",
-"r": "affiliated"
-},
-{
-"a": "person:paolo-calabresi",
-"b": "org:universita-cattolica-del-sacro-cuore",
-"r": "affiliated"
-},
-{
-"a": "person:paolo-calabresi",
-"b": "paper:pmid-36859484",
-"r": "authored"
-},
-{
-"a": "person:peter-doro",
-"b": "org:university-of-szeged",
-"r": "affiliated"
-},
-{
-"a": "person:peter-doro",
-"b": "paper:pmid-28188510",
-"r": "authored"
-},
-{
-"a": "person:philip-b-gorelick",
-"b": "org:mercy-health",
-"r": "affiliated"
-},
-{
-"a": "person:philip-b-gorelick",
-"b": "org:michigan-state-university",
-"r": "affiliated"
-},
-{
-"a": "person:philip-b-gorelick",
-"b": "paper:pmid-28786085",
-"r": "authored"
-},
-{
-"a": "person:piero-parchi",
-"b": "org:istituto-delle-scienze-neurologiche-di-bologna",
-"r": "affiliated"
-},
-{
-"a": "person:piero-parchi",
-"b": "org:university-of-bologna",
-"r": "affiliated"
-},
-{
-"a": "person:piero-parchi",
-"b": "paper:pmid-32342188",
-"r": "authored"
 },
 {
 "a": "person:prabesh-kanel",
@@ -9651,271 +5681,6 @@
 "r": "investigator"
 },
 {
-"a": "person:qingwu-yang",
-"b": "org:army-medical-university",
-"r": "affiliated"
-},
-{
-"a": "person:qingwu-yang",
-"b": "org:xinqiao-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:qingwu-yang",
-"b": "paper:pmid-29113305",
-"r": "authored"
-},
-{
-"a": "person:qiurong-wu",
-"b": "org:center-for-life-sciences",
-"r": "affiliated"
-},
-{
-"a": "person:qiurong-wu",
-"b": "org:tsinghua-university",
-"r": "affiliated"
-},
-{
-"a": "person:qiurong-wu",
-"b": "paper:pmid-37270609",
-"r": "authored"
-},
-{
-"a": "person:rehab-s-abdelrahman",
-"b": "org:mansoura-university",
-"r": "affiliated"
-},
-{
-"a": "person:rehab-s-abdelrahman",
-"b": "org:taibah-university",
-"r": "affiliated"
-},
-{
-"a": "person:rehab-s-abdelrahman",
-"b": "paper:pmid-32840391",
-"r": "authored"
-},
-{
-"a": "person:reham-m-essam",
-"b": "org:cairo-university",
-"r": "affiliated"
-},
-{
-"a": "person:reham-m-essam",
-"b": "paper:pmid-30858122",
-"r": "authored"
-},
-{
-"a": "person:robert-j-fontana",
-"b": "org:michigan-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:robert-j-fontana",
-"b": "org:university-of-michigan",
-"r": "affiliated"
-},
-{
-"a": "person:robert-j-fontana",
-"b": "paper:pmid-35899384",
-"r": "authored"
-},
-{
-"a": "person:ronald-melki",
-"b": "org:centre-national-de-la-recherche-scientifique",
-"r": "affiliated"
-},
-{
-"a": "person:ronald-melki",
-"b": "org:commissariat-a-l-energie-atomique-et-aux-energies-alternativ",
-"r": "affiliated"
-},
-{
-"a": "person:ronald-melki",
-"b": "paper:pmid-32356200",
-"r": "authored"
-},
-{
-"a": "person:roy-l-freeman",
-"b": "org:beth-israel-deaconess-medical-center",
-"r": "affiliated"
-},
-{
-"a": "person:roy-l-freeman",
-"b": "org:harvard-university",
-"r": "affiliated"
-},
-{
-"a": "person:roy-l-freeman",
-"b": "paper:pmid-38506839",
-"r": "authored"
-},
-{
-"a": "person:ruufen-tzang",
-"b": "org:mackay-medical-university",
-"r": "affiliated"
-},
-{
-"a": "person:ruufen-tzang",
-"b": "org:mackay-memorial-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:ruufen-tzang",
-"b": "paper:pmid-29502274",
-"r": "authored"
-},
-{
-"a": "person:safia-sharif",
-"b": "org:university-of-hertfordshire",
-"r": "affiliated"
-},
-{
-"a": "person:safia-sharif",
-"b": "paper:pmid-33802176",
-"r": "authored"
-},
-{
-"a": "person:safoura-raoufi",
-"b": "org:hamedan-university-of-medical-sciences",
-"r": "affiliated"
-},
-{
-"a": "person:safoura-raoufi",
-"b": "paper:pmid-31991177",
-"r": "authored"
-},
-{
-"a": "person:sara-a-wahdan",
-"b": "org:ain-shams-university",
-"r": "affiliated"
-},
-{
-"a": "person:sara-a-wahdan",
-"b": "paper:pmid-30981765",
-"r": "authored"
-},
-{
-"a": "person:saranna-fanning",
-"b": "org:brigham-and-women-s-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:saranna-fanning",
-"b": "org:harvard-university",
-"r": "affiliated"
-},
-{
-"a": "person:saranna-fanning",
-"b": "paper:pmid-31909184",
-"r": "authored"
-},
-{
-"a": "person:seyed-mohammad-nabavi",
-"b": "org:baqiyatallah-university-of-medical-sciences",
-"r": "affiliated"
-},
-{
-"a": "person:seyed-mohammad-nabavi",
-"b": "paper:pmid-31536753",
-"r": "authored"
-},
-{
-"a": "person:shengdi-chen",
-"b": "org:ruijin-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:shengdi-chen",
-"b": "org:shanghai-jiao-tong-university",
-"r": "affiliated"
-},
-{
-"a": "person:shengdi-chen",
-"b": "paper:pmid-37735487",
-"r": "authored"
-},
-{
-"a": "person:shu-g-chen",
-"b": "org:university-hospitals-cleveland-medical-center",
-"r": "affiliated"
-},
-{
-"a": "person:shu-g-chen",
-"b": "org:university-hospitals-of-cleveland",
-"r": "affiliated"
-},
-{
-"a": "person:shu-g-chen",
-"b": "paper:pmid-32986090",
-"r": "authored"
-},
-{
-"a": "person:shuai-qian",
-"b": "org:china-pharmaceutical-university",
-"r": "affiliated"
-},
-{
-"a": "person:shuai-qian",
-"b": "paper:pmid-35517286",
-"r": "authored"
-},
-{
-"a": "person:shunsuke-koga",
-"b": "org:mayo-clinic-in-florida",
-"r": "affiliated"
-},
-{
-"a": "person:shunsuke-koga",
-"b": "paper:pmid-34922583",
-"r": "authored"
-},
-{
-"a": "person:sjors-h-w-scheres",
-"b": "org:medical-research-council",
-"r": "affiliated"
-},
-{
-"a": "person:sjors-h-w-scheres",
-"b": "org:mrc-laboratory-of-molecular-biology",
-"r": "affiliated"
-},
-{
-"a": "person:sjors-h-w-scheres",
-"b": "paper:pmid-32461689",
-"r": "authored"
-},
-{
-"a": "person:sjors-h-w-scheres",
-"b": "paper:pmid-33548114",
-"r": "authored"
-},
-{
-"a": "person:sjors-h-w-scheres",
-"b": "paper:pmid-36108674",
-"r": "authored"
-},
-{
-"a": "person:sofia-lovestam",
-"b": "org:mrc-laboratory-of-molecular-biology",
-"r": "affiliated"
-},
-{
-"a": "person:sofia-lovestam",
-"b": "paper:pmid-33548114",
-"r": "authored"
-},
-{
-"a": "person:sumaia-abdulbari-ahmed-ali-hard",
-"b": "org:kle-academy-of-higher-education-and-research",
-"r": "affiliated"
-},
-{
-"a": "person:sumaia-abdulbari-ahmed-ali-hard",
-"b": "paper:pmid-37793522",
-"r": "authored"
-},
-{
 "a": "person:sun-ahe-lee",
 "b": "org:pluto",
 "r": "affiliated"
@@ -9926,159 +5691,14 @@
 "r": "investigator"
 },
 {
-"a": "person:suzanne-fergus",
-"b": "org:university-of-hertfordshire",
+"a": "person:weiwei-zhang",
+"b": "org:pla-the-military-general-hospital-of-beijing",
 "r": "affiliated"
-},
-{
-"a": "person:suzanne-fergus",
-"b": "paper:pmid-33802176",
-"r": "authored"
-},
-{
-"a": "person:syed-ehtaishamul-haque",
-"b": "org:jamia-hamdard",
-"r": "affiliated"
-},
-{
-"a": "person:syed-ehtaishamul-haque",
-"b": "paper:pmid-30551388",
-"r": "authored"
-},
-{
-"a": "person:thomas-k-karikari",
-"b": "org:university-of-gothenburg",
-"r": "affiliated"
-},
-{
-"a": "person:thomas-k-karikari",
-"b": "paper:pmid-32333900",
-"r": "authored"
-},
-{
-"a": "person:ulf-dettmer",
-"b": "org:brigham-and-women-s-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:ulf-dettmer",
-"b": "org:harvard-university",
-"r": "affiliated"
-},
-{
-"a": "person:ulf-dettmer",
-"b": "paper:pmid-31909184",
-"r": "authored"
-},
-{
-"a": "person:veerle-baekelandt",
-"b": "org:ku-leuven",
-"r": "affiliated"
-},
-{
-"a": "person:veerle-baekelandt",
-"b": "paper:pmid-32356200",
-"r": "authored"
-},
-{
-"a": "person:veronica-ghiglieri",
-"b": "org:agostino-gemelli-university-polyclinic",
-"r": "affiliated"
-},
-{
-"a": "person:veronica-ghiglieri",
-"b": "org:san-raffaele-university-of-rome",
-"r": "affiliated"
-},
-{
-"a": "person:veronica-ghiglieri",
-"b": "paper:pmid-36859484",
-"r": "authored"
-},
-{
-"a": "person:victor-fattori",
-"b": "org:universidade-estadual-de-londrina",
-"r": "affiliated"
-},
-{
-"a": "person:victor-fattori",
-"b": "paper:pmid-28315429",
-"r": "authored"
-},
-{
-"a": "person:victor-j-navarro",
-"b": "org:einstein-healthcare-network",
-"r": "affiliated"
-},
-{
-"a": "person:victor-j-navarro",
-"b": "paper:pmid-35899384",
-"r": "authored"
-},
-{
-"a": "person:waldiceu-aparecido-verri-jr",
-"b": "org:universidade-estadual-de-londrina",
-"r": "affiliated"
-},
-{
-"a": "person:waldiceu-aparecido-verri-jr",
-"b": "paper:pmid-28315429",
-"r": "authored"
 },
 {
 "a": "person:weiwei-zhang",
 "b": "trial:nct01400035",
 "r": "investigator"
-},
-{
-"a": "person:wenquan-zou",
-"b": "org:university-hospitals-cleveland-medical-center",
-"r": "affiliated"
-},
-{
-"a": "person:wenquan-zou",
-"b": "org:university-hospitals-of-cleveland",
-"r": "affiliated"
-},
-{
-"a": "person:wenquan-zou",
-"b": "paper:pmid-32986090",
-"r": "authored"
-},
-{
-"a": "person:werner-h-poewe",
-"b": "org:innsbruck-medical-university",
-"r": "affiliated"
-},
-{
-"a": "person:werner-h-poewe",
-"b": "org:universitat-innsbruck",
-"r": "affiliated"
-},
-{
-"a": "person:werner-h-poewe",
-"b": "paper:pmid-33855335",
-"r": "authored"
-},
-{
-"a": "person:werner-h-poewe",
-"b": "paper:pmid-36008429",
-"r": "authored"
-},
-{
-"a": "person:wolfgang-hermann-oertel",
-"b": "org:helmholtz-munich",
-"r": "affiliated"
-},
-{
-"a": "person:wolfgang-hermann-oertel",
-"b": "org:philipps-university-of-marburg",
-"r": "affiliated"
-},
-{
-"a": "person:wolfgang-hermann-oertel",
-"b": "paper:pmid-34302789",
-"r": "authored"
 },
 {
 "a": "person:wolfgang-singer",
@@ -10091,31 +5711,6 @@
 "r": "investigator"
 },
 {
-"a": "person:xiao-fan",
-"b": "org:princeton-university",
-"r": "affiliated"
-},
-{
-"a": "person:xiao-fan",
-"b": "paper:pmid-37270609",
-"r": "authored"
-},
-{
-"a": "person:xiaojing-pan",
-"b": "org:center-for-life-sciences",
-"r": "affiliated"
-},
-{
-"a": "person:xiaojing-pan",
-"b": "org:tsinghua-university",
-"r": "affiliated"
-},
-{
-"a": "person:xiaojing-pan",
-"b": "paper:pmid-37270609",
-"r": "authored"
-},
-{
 "a": "person:xiaosun-liu",
 "b": "org:first-affiliated-hospital-of-zhejiang-university",
 "r": "affiliated"
@@ -10126,91 +5721,6 @@
 "r": "investigator"
 },
 {
-"a": "person:yan-chen",
-"b": "org:shanghai-university-of-traditional-chinese-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:yan-chen",
-"b": "org:university-of-rochester",
-"r": "affiliated"
-},
-{
-"a": "person:yan-chen",
-"b": "org:university-of-rochester-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:yan-chen",
-"b": "paper:pmid-28321644",
-"r": "authored"
-},
-{
-"a": "person:yan-chen",
-"b": "paper:pmid-29183836",
-"r": "authored"
-},
-{
-"a": "person:yang-yang",
-"b": "org:medical-research-council",
-"r": "affiliated"
-},
-{
-"a": "person:yang-yang",
-"b": "org:mrc-laboratory-of-molecular-biology",
-"r": "affiliated"
-},
-{
-"a": "person:yang-yang",
-"b": "paper:pmid-36108674",
-"r": "authored"
-},
-{
-"a": "person:yishuai-zhang",
-"b": "org:university-of-rochester",
-"r": "affiliated"
-},
-{
-"a": "person:yishuai-zhang",
-"b": "org:university-of-rochester-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:yishuai-zhang",
-"b": "paper:pmid-29183836",
-"r": "authored"
-},
-{
-"a": "person:yu-xiao-xie",
-"b": "org:china-japan-friendship-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:yu-xiao-xie",
-"b": "paper:pmid-32251002",
-"r": "authored"
-},
-{
-"a": "person:yuan-gao",
-"b": "org:china-pharmaceutical-university",
-"r": "affiliated"
-},
-{
-"a": "person:yuan-gao",
-"b": "paper:pmid-35517286",
-"r": "authored"
-},
-{
-"a": "person:yuanfeng-wei",
-"b": "org:china-pharmaceutical-university",
-"r": "affiliated"
-},
-{
-"a": "person:yuanfeng-wei",
-"b": "paper:pmid-35517286",
-"r": "authored"
-},
-{
 "a": "person:yusuke-marikawa",
 "b": "grant:nih-1r03hd120740-01",
 "r": "grant_pi"
@@ -10219,31 +5729,6 @@
 "a": "person:yusuke-marikawa",
 "b": "org:university-of-hawaii-at-manoa",
 "r": "affiliated"
-},
-{
-"a": "person:yuyan-tan",
-"b": "org:ruijin-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:yuyan-tan",
-"b": "org:shanghai-jiao-tong-university",
-"r": "affiliated"
-},
-{
-"a": "person:yuyan-tan",
-"b": "paper:pmid-37735487",
-"r": "authored"
-},
-{
-"a": "person:zerui-wang",
-"b": "org:case-western-reserve-university",
-"r": "affiliated"
-},
-{
-"a": "person:zerui-wang",
-"b": "paper:pmid-32986090",
-"r": "authored"
 }
 ]
 }

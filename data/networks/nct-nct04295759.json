@@ -1,6 +1,6 @@
 {
 "assetId": "nct-nct04295759",
-"updated": "2026-10-26",
+"updated": "2026-10-28",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 60,
@@ -12,38 +12,6 @@
 "t": "asset",
 "n": "INCB7839",
 "sub": "Glioblastoma Multiforme; Anaplastic Astrocytoma",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct01254136",
-"t": "trial",
-"n": "Safety and Efficacy of INCB007839 With Trastuzumab and Vinorelbine in Patients With Metast",
-"sub": "P1/P2 · terminated · 2010-2011",
-"url": "https://clinicaltrials.gov/study/NCT01254136",
-"c": ""
-},
-{
-"k": "org:incyte",
-"t": "company",
-"n": "Incyte Corporation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:sara-cannon-research-institute",
-"t": "academic",
-"n": "Sara Cannon Research Institute",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:denise-a-yardley",
-"t": "person",
-"n": "Denise A. Yardley",
-"sub": "principal investigator · Sara Cannon Research Institute",
 "url": "",
 "c": ""
 },
@@ -176,22 +144,6 @@
 "c": "United States"
 },
 {
-"k": "trial:nct00820560",
-"t": "trial",
-"n": "Open-Label Study to Assess the Safety/Tolerability in Patients With Solid Tumors",
-"sub": "P1 · completed · 2005-2009",
-"url": "https://clinicaltrials.gov/study/NCT00820560",
-"c": ""
-},
-{
-"k": "person:william-v-williams",
-"t": "person",
-"n": "William V Williams",
-"sub": "study director · Incyte Corporation",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct00864175",
 "t": "trial",
 "n": "Open Label Trial of INCB07839 to Determine Effect and Safety of INCB007839 Plus Trastuzuma",
@@ -200,10 +152,42 @@
 "c": ""
 },
 {
+"k": "org:incyte",
+"t": "company",
+"n": "Incyte Corporation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "person:bijyoyesh-mookerjee",
 "t": "person",
 "n": "Bijyoyesh Mookerjee",
 "sub": "study director · Incyte Corporation",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct01254136",
+"t": "trial",
+"n": "Safety and Efficacy of INCB007839 With Trastuzumab and Vinorelbine in Patients With Metast",
+"sub": "P1/P2 · terminated · 2010-2011",
+"url": "https://clinicaltrials.gov/study/NCT01254136",
+"c": ""
+},
+{
+"k": "org:sara-cannon-research-institute",
+"t": "academic",
+"n": "Sara Cannon Research Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:denise-a-yardley",
+"t": "person",
+"n": "Denise A. Yardley",
+"sub": "principal investigator · Sara Cannon Research Institute",
 "url": "",
 "c": ""
 },
@@ -240,28 +224,284 @@
 "c": ""
 },
 {
-"k": "trial:nct05432804",
+"k": "trial:nct00820560",
 "t": "trial",
-"n": "Testing the Addition of an Anti-cancer Drug, Selinexor, to the Usual Chemotherapy Treatmen",
-"sub": "P1/P2 · recruiting · 2023-2027",
-"url": "https://clinicaltrials.gov/study/NCT05432804",
+"n": "Open-Label Study to Assess the Safety/Tolerability in Patients With Solid Tumors",
+"sub": "P1 · completed · 2005-2009",
+"url": "https://clinicaltrials.gov/study/NCT00820560",
 "c": ""
 },
 {
-"k": "org:city-of-hope-comprehensive-cancer-center-lao",
+"k": "person:william-v-williams",
+"t": "person",
+"n": "William V Williams",
+"sub": "study director · Incyte Corporation",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06914128",
+"t": "trial",
+"n": "A Study of PRMT5 Inhibitor BAY 3713372 in Participants With MTAP-deleted Solid Tumors",
+"sub": "P1/P2 · recruiting · 2025-2029",
+"url": "https://clinicaltrials.gov/study/NCT06914128",
+"c": ""
+},
+{
+"k": "org:bayer",
 "t": "company",
-"n": "City of Hope Comprehensive Cancer Center LAO",
+"n": "Bayer",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "person:jana-l-portnow",
-"t": "person",
-"n": "Jana L Portnow",
-"sub": "principal investigator · City of Hope Comprehensive Cancer Center LAO",
+"k": "org:uab-o-neal-comprehensive-cancer-center-the-kirklin-clinic-of",
+"t": "hospital",
+"n": "UAB O'Neal Comprehensive Cancer Center - The Kirklin Clinic of UAB Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:city-of-hope-duarte-cancer-center",
+"t": "company",
+"n": "City of Hope - Duarte Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ucla-health-bowyer-oncology-center",
+"t": "hospital",
+"n": "UCLA Health Bowyer Oncology Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ucsf-helen-diller-medical-center-at-parnassus-heights-neurol",
+"t": "hospital",
+"n": "UCSF Helen Diller Medical Center at Parnassus Heights - Neurology",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:stanford-university-medical-center-neurology",
+"t": "hospital",
+"n": "Stanford University Medical Center - Neurology",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:uchealth-cancer-center-anschutz-medical-campus-university-of",
+"t": "hospital",
+"n": "UCHealth Cancer Center - Anschutz Medical Campus - University of Colorado Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:sarah-cannon-research-institute-at-hca-healthone-presbyteria",
+"t": "hospital",
+"n": "Sarah Cannon Research Institute at HCA HealthONE Presbyterian St. Luke's",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:sarah-cannon-research-institute-at-florida-cancer-specialist",
+"t": "academic",
+"n": "Sarah Cannon Research Institute at Florida Cancer Specialists- Lake Nona",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:massachusetts-general-hospital-neurology",
+"t": "hospital",
+"n": "Massachusetts General Hospital - Neurology",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:dana-farber-cancer-institute-oncology-department",
+"t": "academic",
+"n": "Dana-Farber Cancer Institute - Oncology Department",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:bay-3713372",
+"t": "drug",
+"n": "BAY 3713372",
+"sub": "Bayer",
 "url": "",
 "c": ""
+},
+{
+"k": "trial:nct07708961",
+"t": "trial",
+"n": "Temozolomide, With or Without WSD0922-FU, for the Treatment of EGFR-Mutant, IDH-Wildtype G",
+"sub": "P2 · recruiting · 2026-2036",
+"url": "https://clinicaltrials.gov/study/NCT07708961",
+"c": ""
+},
+{
+"k": "org:mayo-clinic",
+"t": "hospital",
+"n": "Mayo Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:mayo-clinic-in-rochester",
+"t": "hospital",
+"n": "Mayo Clinic in Rochester",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "person:sani-h-kizilbash-mph",
+"t": "person",
+"n": "Sani H. Kizilbash, MPH",
+"sub": "principal investigator · Mayo Clinic in Rochester",
+"url": "",
+"c": ""
+},
+{
+"k": "org:mayo-clinic-in-arizona",
+"t": "hospital",
+"n": "Mayo Clinic in Arizona",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:mayo-clinic-in-florida",
+"t": "hospital",
+"n": "Mayo Clinic in Florida",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:egfr-egfrviii-inhibitor-wsd0922-fu",
+"t": "drug",
+"n": "EGFR/EGFRvIII Inhibitor WSD0922-FU",
+"sub": "Mayo Clinic",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:temozolomide",
+"t": "drug",
+"n": "Temozolomide",
+"sub": "Mayo Clinic",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04145115",
+"t": "trial",
+"n": "A Study Testing the Effect of Immunotherapy (Ipilimumab and Nivolumab) in Patients With Re",
+"sub": "P2 · active_not_recruiting · 2020-2027",
+"url": "https://clinicaltrials.gov/study/NCT04145115",
+"c": ""
+},
+{
+"k": "org:alliance-for-clinical-trials-in-oncology",
+"t": "hospital",
+"n": "Alliance for Clinical Trials in Oncology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:gavin-p-dunn",
+"t": "person",
+"n": "Gavin P Dunn",
+"sub": "principal investigator · Alliance for Clinical Trials in Oncology",
+"url": "",
+"c": ""
+},
+{
+"k": "org:anchorage-associates-in-radiation-medicine",
+"t": "company",
+"n": "Anchorage Associates in Radiation Medicine",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:anchorage-radiation-therapy-center",
+"t": "company",
+"n": "Anchorage Radiation Therapy Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:alaska-breast-care-and-surgery",
+"t": "company",
+"n": "Alaska Breast Care and Surgery LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:alaska-oncology-and-hematology",
+"t": "company",
+"n": "Alaska Oncology and Hematology LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:alaska-women-s-cancer-care",
+"t": "company",
+"n": "Alaska Women's Cancer Care",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:anchorage-oncology-centre",
+"t": "company",
+"n": "Anchorage Oncology Centre",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:katmai-oncology-group",
+"t": "company",
+"n": "Katmai Oncology Group",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:providence-alaska-medical-center",
+"t": "hospital",
+"n": "Providence Alaska Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cancer-center-at-saint-joseph-s",
+"t": "company",
+"n": "Cancer Center at Saint Joseph's",
+"sub": "",
+"url": "",
+"c": "United States"
 },
 {
 "k": "org:mayo-clinic-hospital-in-arizona",
@@ -272,90 +512,90 @@
 "c": "United States"
 },
 {
-"k": "org:city-of-hope-comprehensive-cancer-center",
-"t": "company",
-"n": "City of Hope Comprehensive Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:uci-health-chao-family-comprehensive-cancer-center-and-ambul",
-"t": "hospital",
-"n": "UCI Health - Chao Family Comprehensive Cancer Center and Ambulatory Care",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:uc-san-diego-moores-cancer-center",
-"t": "company",
-"n": "UC San Diego Moores Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:keck-medicine-of-usc-koreatown",
-"t": "company",
-"n": "Keck Medicine of USC Koreatown",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:los-angeles-general-medical-center",
-"t": "hospital",
-"n": "Los Angeles General Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:usc-norris-comprehensive-cancer-center",
-"t": "company",
-"n": "USC / Norris Comprehensive Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:uc-irvine-health-chao-family-comprehensive-cancer-center",
-"t": "hospital",
-"n": "UC Irvine Health/Chao Family Comprehensive Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-california-davis-comprehensive-cancer-center",
-"t": "academic",
-"n": "University of California Davis Comprehensive Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:uchealth-university-of-colorado-hospital",
-"t": "hospital",
-"n": "UCHealth University of Colorado Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:selinexor",
+"k": "drug:ipilimumab",
 "t": "drug",
-"n": "Selinexor",
+"n": "Ipilimumab",
 "sub": "National Cancer Institute (NCI)",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:temozolomide",
+"k": "drug:nivolumab",
 "t": "drug",
-"n": "Temozolomide",
+"n": "Nivolumab",
 "sub": "National Cancer Institute (NCI)",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04528680",
+"t": "trial",
+"n": "Ultrasound-based Blood-brain Barrier Opening and Albumin-bound Paclitaxel and Carboplatin ",
+"sub": "P1/P2 · active_not_recruiting · 2020-2027",
+"url": "https://clinicaltrials.gov/study/NCT04528680",
+"c": ""
+},
+{
+"k": "org:northwestern-university",
+"t": "academic",
+"n": "Northwestern University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:carthera",
+"t": "company",
+"n": "CarThera",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:bristol-myers-squibb",
+"t": "company",
+"n": "Bristol-Myers Squibb",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:roger-stupp",
+"t": "person",
+"n": "Roger Stupp",
+"sub": "study chair · Northwestern University",
+"url": "",
+"c": ""
+},
+{
+"k": "person:adam-m-sonabend",
+"t": "person",
+"n": "Adam M Sonabend",
+"sub": "principal investigator · Northwestern University",
+"url": "",
+"c": ""
+},
+{
+"k": "org:northwestern-memorial-hospital",
+"t": "hospital",
+"n": "Northwestern Memorial Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:chemotherapy-albumin-bound-paclitaxel",
+"t": "drug",
+"n": "Chemotherapy, albumin-bound paclitaxel",
+"sub": "Northwestern University",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:chemotherapy-carboplatin",
+"t": "drug",
+"n": "Chemotherapy, carboplatin",
+"sub": "Northwestern University",
 "url": "",
 "c": ""
 },
@@ -464,6 +704,54 @@
 "c": ""
 },
 {
+"k": "trial:nct07346144",
+"t": "trial",
+"n": "Study of an AAV Mediated Dual-Payload Gene Therapy in Patients With High Grade Glioma",
+"sub": "P1/P2 · recruiting · 2026-2033",
+"url": "https://clinicaltrials.gov/study/NCT07346144",
+"c": ""
+},
+{
+"k": "org:trogenix",
+"t": "company",
+"n": "Trogenix ltd",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:ohio-state-university-hospital",
+"t": "hospital",
+"n": "Ohio State University Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:royal-infirmary-of-edinburgh",
+"t": "company",
+"n": "Royal Infirmary of Edinburgh",
+"sub": "",
+"url": "",
+"c": "United Kingdom"
+},
+{
+"k": "drug:tgx-007",
+"t": "drug",
+"n": "TGX-007",
+"sub": "Trogenix ltd",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:valaciclovir",
+"t": "drug",
+"n": "Valaciclovir",
+"sub": "Trogenix ltd",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct03970447",
 "t": "trial",
 "n": "A Trial to Evaluate Multiple Regimens in Newly Diagnosed and Recurrent Glioblastoma",
@@ -475,14 +763,6 @@
 "k": "org:global-coalition-for-adaptive-research",
 "t": "academic",
 "n": "Global Coalition for Adaptive Research",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:bayer",
-"t": "company",
-"n": "Bayer",
 "sub": "",
 "url": "",
 "c": ""
@@ -712,161 +992,105 @@
 "c": ""
 },
 {
-"k": "trial:nct07346144",
+"k": "trial:nct05432804",
 "t": "trial",
-"n": "Study of an AAV Mediated Dual-Payload Gene Therapy in Patients With High Grade Glioma",
-"sub": "P1/P2 · recruiting · 2026-2033",
-"url": "https://clinicaltrials.gov/study/NCT07346144",
+"n": "Testing the Addition of an Anti-cancer Drug, Selinexor, to the Usual Chemotherapy Treatmen",
+"sub": "P1/P2 · recruiting · 2023-2027",
+"url": "https://clinicaltrials.gov/study/NCT05432804",
 "c": ""
 },
 {
-"k": "org:trogenix",
+"k": "org:city-of-hope-comprehensive-cancer-center-lao",
 "t": "company",
-"n": "Trogenix ltd",
+"n": "City of Hope Comprehensive Cancer Center LAO",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:ohio-state-university-hospital",
-"t": "hospital",
-"n": "Ohio State University Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:royal-infirmary-of-edinburgh",
-"t": "company",
-"n": "Royal Infirmary of Edinburgh",
-"sub": "",
-"url": "",
-"c": "United Kingdom"
-},
-{
-"k": "drug:tgx-007",
-"t": "drug",
-"n": "TGX-007",
-"sub": "Trogenix ltd",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:valaciclovir",
-"t": "drug",
-"n": "Valaciclovir",
-"sub": "Trogenix ltd",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct04145115",
-"t": "trial",
-"n": "A Study Testing the Effect of Immunotherapy (Ipilimumab and Nivolumab) in Patients With Re",
-"sub": "P2 · active_not_recruiting · 2020-2027",
-"url": "https://clinicaltrials.gov/study/NCT04145115",
-"c": ""
-},
-{
-"k": "org:alliance-for-clinical-trials-in-oncology",
-"t": "hospital",
-"n": "Alliance for Clinical Trials in Oncology",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:gavin-p-dunn",
+"k": "person:jana-l-portnow",
 "t": "person",
-"n": "Gavin P Dunn",
-"sub": "principal investigator · Alliance for Clinical Trials in Oncology",
+"n": "Jana L Portnow",
+"sub": "principal investigator · City of Hope Comprehensive Cancer Center LAO",
 "url": "",
 "c": ""
 },
 {
-"k": "org:anchorage-associates-in-radiation-medicine",
+"k": "org:city-of-hope-comprehensive-cancer-center",
 "t": "company",
-"n": "Anchorage Associates in Radiation Medicine",
+"n": "City of Hope Comprehensive Cancer Center",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "org:anchorage-radiation-therapy-center",
-"t": "company",
-"n": "Anchorage Radiation Therapy Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:alaska-breast-care-and-surgery",
-"t": "company",
-"n": "Alaska Breast Care and Surgery LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:alaska-oncology-and-hematology",
-"t": "company",
-"n": "Alaska Oncology and Hematology LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:alaska-women-s-cancer-care",
-"t": "company",
-"n": "Alaska Women's Cancer Care",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:anchorage-oncology-centre",
-"t": "company",
-"n": "Anchorage Oncology Centre",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:katmai-oncology-group",
-"t": "company",
-"n": "Katmai Oncology Group",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:providence-alaska-medical-center",
+"k": "org:uci-health-chao-family-comprehensive-cancer-center-and-ambul",
 "t": "hospital",
-"n": "Providence Alaska Medical Center",
+"n": "UCI Health - Chao Family Comprehensive Cancer Center and Ambulatory Care",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "org:cancer-center-at-saint-joseph-s",
+"k": "org:uc-san-diego-moores-cancer-center",
 "t": "company",
-"n": "Cancer Center at Saint Joseph's",
+"n": "UC San Diego Moores Cancer Center",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "drug:ipilimumab",
-"t": "drug",
-"n": "Ipilimumab",
-"sub": "National Cancer Institute (NCI)",
+"k": "org:keck-medicine-of-usc-koreatown",
+"t": "company",
+"n": "Keck Medicine of USC Koreatown",
+"sub": "",
 "url": "",
-"c": ""
+"c": "United States"
 },
 {
-"k": "drug:nivolumab",
+"k": "org:los-angeles-general-medical-center",
+"t": "hospital",
+"n": "Los Angeles General Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:usc-norris-comprehensive-cancer-center",
+"t": "company",
+"n": "USC / Norris Comprehensive Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:uc-irvine-health-chao-family-comprehensive-cancer-center",
+"t": "hospital",
+"n": "UC Irvine Health/Chao Family Comprehensive Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-california-davis-comprehensive-cancer-center",
+"t": "academic",
+"n": "University of California Davis Comprehensive Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:uchealth-university-of-colorado-hospital",
+"t": "hospital",
+"n": "UCHealth University of Colorado Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:selinexor",
 "t": "drug",
-"n": "Nivolumab",
+"n": "Selinexor",
 "sub": "National Cancer Institute (NCI)",
 "url": "",
 "c": ""
@@ -1192,14 +1416,6 @@
 "c": "United States"
 },
 {
-"k": "org:northwestern-memorial-hospital",
-"t": "hospital",
-"n": "Northwestern Memorial Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:nyu-langone-health",
 "t": "hospital",
 "n": "NYU Langone Health",
@@ -1278,14 +1494,6 @@
 "sub": "principal investigator · Washington University School of Medicine",
 "url": "",
 "c": ""
-},
-{
-"k": "org:mayo-clinic",
-"t": "hospital",
-"n": "Mayo Clinic",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "drug:cemiplimab",
@@ -1536,118 +1744,6 @@
 "c": ""
 },
 {
-"k": "trial:nct05734560",
-"t": "trial",
-"n": "D2C7-IT and 2141-V11 in Newly Diagnosed GBM Patients",
-"sub": "P1/P2 · recruiting · 2023-2028",
-"url": "https://clinicaltrials.gov/study/NCT05734560",
-"c": ""
-},
-{
-"k": "org:darell-bigner",
-"t": "academic",
-"n": "Darell Bigner",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:rockefeller-university",
-"t": "academic",
-"n": "Rockefeller University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:duke-university",
-"t": "academic",
-"n": "Duke University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:daniel-landi",
-"t": "person",
-"n": "Daniel Landi",
-"sub": "principal investigator · Duke University",
-"url": "",
-"c": ""
-},
-{
-"k": "org:duke-university-medical-center",
-"t": "hospital",
-"n": "Duke University Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:d2c7-it",
-"t": "drug",
-"n": "D2C7-IT",
-"sub": "Darell Bigner",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:2141-v11",
-"t": "drug",
-"n": "2141-V11",
-"sub": "Darell Bigner",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07416188",
-"t": "trial",
-"n": "Novel Indenoisoquinolone CMYC/TOPOISOMERASE 1 Inhibitor (LMP744) in Recurrent Glioblastoma",
-"sub": "P1/P2 · recruiting · 2026-2032",
-"url": "https://clinicaltrials.gov/study/NCT07416188",
-"c": ""
-},
-{
-"k": "org:national-institute-of-neurological-disorders-and-stroke-nind",
-"t": "funder",
-"n": "National Institute of Neurological Disorders and Stroke (NINDS)",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:sadhana-jackson-m-d",
-"t": "person",
-"n": "Sadhana Jackson, M.D",
-"sub": "principal investigator · National Institute of Neurological Disorders and Stroke (NINDS)",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:lmp744",
-"t": "drug",
-"n": "LMP744",
-"sub": "National Institute of Neurological Disorders and Stroke (NINDS)",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06161519",
-"t": "trial",
-"n": "PLX038 in Primary Central Nervous System Tumors Containing MYC or MYCN Amplifications",
-"sub": "P1/P2 · recruiting · 2024-2033",
-"url": "https://clinicaltrials.gov/study/NCT06161519",
-"c": ""
-},
-{
-"k": "drug:plx038",
-"t": "drug",
-"n": "PLX038",
-"sub": "National Cancer Institute (NCI)",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct05629702",
 "t": "trial",
 "n": "ARISTOCRAT: Blinded Trial of Temozolomide +/- Cannabinoids",
@@ -1784,106 +1880,114 @@
 "c": ""
 },
 {
-"k": "trial:nct07708961",
+"k": "trial:nct05734560",
 "t": "trial",
-"n": "Temozolomide, With or Without WSD0922-FU, for the Treatment of EGFR-Mutant, IDH-Wildtype G",
-"sub": "P2 · recruiting · 2026-2036",
-"url": "https://clinicaltrials.gov/study/NCT07708961",
+"n": "D2C7-IT and 2141-V11 in Newly Diagnosed GBM Patients",
+"sub": "P1/P2 · recruiting · 2023-2028",
+"url": "https://clinicaltrials.gov/study/NCT05734560",
 "c": ""
 },
 {
-"k": "org:mayo-clinic-in-rochester",
-"t": "hospital",
-"n": "Mayo Clinic in Rochester",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "person:sani-h-kizilbash-mph",
-"t": "person",
-"n": "Sani H. Kizilbash, MPH",
-"sub": "principal investigator · Mayo Clinic in Rochester",
-"url": "",
-"c": ""
-},
-{
-"k": "org:mayo-clinic-in-arizona",
-"t": "hospital",
-"n": "Mayo Clinic in Arizona",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:mayo-clinic-in-florida",
-"t": "hospital",
-"n": "Mayo Clinic in Florida",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:egfr-egfrviii-inhibitor-wsd0922-fu",
-"t": "drug",
-"n": "EGFR/EGFRvIII Inhibitor WSD0922-FU",
-"sub": "Mayo Clinic",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07873996",
-"t": "trial",
-"n": "Tris-CAR-T Cell Therapy Targeting CD44 and CD133 in Newly Diagnosed Glioblastoma",
-"sub": "P2/P3 · not_yet_recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07873996",
-"c": ""
-},
-{
-"k": "org:beijing-tiantan-hospital",
-"t": "hospital",
-"n": "Beijing Tiantan Hospital",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:beijing-neurosurgical-institute",
+"k": "org:darell-bigner",
 "t": "academic",
-"n": "Beijing Neurosurgical Institute",
+"n": "Darell Bigner",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "person:wei-zhang",
-"t": "person",
-"n": "Wei Zhang",
-"sub": "principal investigator · Beijing Tiantan Hospital",
+"k": "org:rockefeller-university",
+"t": "academic",
+"n": "Rockefeller University",
+"sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "person:tao-jiang",
-"t": "person",
-"n": "Tao Jiang",
-"sub": "study chair · Beijing Neurosurgical Institute",
+"k": "org:duke-university",
+"t": "academic",
+"n": "Duke University",
+"sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:beijing-tiantan-hospital-capital-medical-university",
+"k": "person:daniel-landi",
+"t": "person",
+"n": "Daniel Landi",
+"sub": "principal investigator · Duke University",
+"url": "",
+"c": ""
+},
+{
+"k": "org:duke-university-medical-center",
 "t": "hospital",
-"n": "Beijing Tiantan Hospital, Capital Medical University",
+"n": "Duke University Medical Center",
 "sub": "",
 "url": "",
-"c": "China"
+"c": "United States"
 },
 {
-"k": "drug:tris-car-t-cell",
+"k": "drug:d2c7-it",
 "t": "drug",
-"n": "Tris-CAR-T cell",
-"sub": "Beijing Tiantan Hospital",
+"n": "D2C7-IT",
+"sub": "Darell Bigner",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:2141-v11",
+"t": "drug",
+"n": "2141-V11",
+"sub": "Darell Bigner",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06161519",
+"t": "trial",
+"n": "PLX038 in Primary Central Nervous System Tumors Containing MYC or MYCN Amplifications",
+"sub": "P1/P2 · recruiting · 2024-2033",
+"url": "https://clinicaltrials.gov/study/NCT06161519",
+"c": ""
+},
+{
+"k": "drug:plx038",
+"t": "drug",
+"n": "PLX038",
+"sub": "National Cancer Institute (NCI)",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07416188",
+"t": "trial",
+"n": "Novel Indenoisoquinolone CMYC/TOPOISOMERASE 1 Inhibitor (LMP744) in Recurrent Glioblastoma",
+"sub": "P1/P2 · recruiting · 2026-2032",
+"url": "https://clinicaltrials.gov/study/NCT07416188",
+"c": ""
+},
+{
+"k": "org:national-institute-of-neurological-disorders-and-stroke-nind",
+"t": "funder",
+"n": "National Institute of Neurological Disorders and Stroke (NINDS)",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:sadhana-jackson-m-d",
+"t": "person",
+"n": "Sadhana Jackson, M.D",
+"sub": "principal investigator · National Institute of Neurological Disorders and Stroke (NINDS)",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:lmp744",
+"t": "drug",
+"n": "LMP744",
+"sub": "National Institute of Neurological Disorders and Stroke (NINDS)",
 "url": "",
 "c": ""
 },
@@ -1948,6 +2052,62 @@
 "t": "drug",
 "n": "Intracerebroventricular of MT027 UCAR-T Cell targeting B7H3",
 "sub": "T-MAXIMUM Pharmaceutical Inc",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07873996",
+"t": "trial",
+"n": "Tris-CAR-T Cell Therapy Targeting CD44 and CD133 in Newly Diagnosed Glioblastoma",
+"sub": "P2/P3 · not_yet_recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07873996",
+"c": ""
+},
+{
+"k": "org:beijing-tiantan-hospital",
+"t": "hospital",
+"n": "Beijing Tiantan Hospital",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:beijing-neurosurgical-institute",
+"t": "academic",
+"n": "Beijing Neurosurgical Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:wei-zhang",
+"t": "person",
+"n": "Wei Zhang",
+"sub": "principal investigator · Beijing Tiantan Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "person:tao-jiang",
+"t": "person",
+"n": "Tao Jiang",
+"sub": "study chair · Beijing Neurosurgical Institute",
+"url": "",
+"c": ""
+},
+{
+"k": "org:beijing-tiantan-hospital-capital-medical-university",
+"t": "hospital",
+"n": "Beijing Tiantan Hospital, Capital Medical University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "drug:tris-car-t-cell",
+"t": "drug",
+"n": "Tris-CAR-T cell",
+"sub": "Beijing Tiantan Hospital",
 "url": "",
 "c": ""
 },
@@ -2160,158 +2320,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07859059",
-"t": "trial",
-"n": "Metronomic Temozolomide With Dexbrompheniramine for Recurrent High-Grade Glioma/Glioblasto",
-"sub": "P1/P2 · not_yet_recruiting · 2027-2031",
-"url": "https://clinicaltrials.gov/study/NCT07859059",
-"c": ""
-},
-{
-"k": "org:university-of-nebraska",
-"t": "academic",
-"n": "University of Nebraska",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:nicole-a-shonka",
-"t": "person",
-"n": "Nicole A Shonka",
-"sub": "principal investigator · University of Nebraska",
-"url": "",
-"c": ""
-},
-{
-"k": "org:university-of-nebraska-medical-center",
-"t": "hospital",
-"n": "University of Nebraska Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:dexbrompheniramine",
-"t": "drug",
-"n": "Dexbrompheniramine",
-"sub": "University of Nebraska",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06011109",
-"t": "trial",
-"n": "Treatment of Patients With Recurrent High-Grade Glioma With APG-157 and Bevacizumab",
-"sub": "P1/P2 · active_not_recruiting · 2023-2027",
-"url": "https://clinicaltrials.gov/study/NCT06011109",
-"c": ""
-},
-{
-"k": "org:aveta-biomics",
-"t": "company",
-"n": "Aveta Biomics, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:nicole-shonka",
-"t": "person",
-"n": "Nicole Shonka",
-"sub": "principal investigator · University of Nebraska",
-"url": "",
-"c": ""
-},
-{
-"k": "person:joon-uhm",
-"t": "person",
-"n": "Joon Uhm",
-"sub": "principal investigator · Mayo Clinic",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:apg-157",
-"t": "drug",
-"n": "APG-157",
-"sub": "Aveta Biomics, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05902169",
-"t": "trial",
-"n": "Sonocloud-9 in Association With Carboplatin Versus Standard-of-Care Chemotherapies (CCNU o",
-"sub": "P3 · recruiting · 2024-2028",
-"url": "https://clinicaltrials.gov/study/NCT05902169",
-"c": ""
-},
-{
-"k": "org:carthera",
-"t": "company",
-"n": "CarThera",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:kaiser-permanente",
-"t": "company",
-"n": "Kaiser Permanente",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:ucla",
-"t": "company",
-"n": "UCLA",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:sutter-health-california-pacific-medical-center",
-"t": "hospital",
-"n": "Sutter Health - California Pacific Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:uchealth",
-"t": "hospital",
-"n": "UCHealth",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:mayo-clinic-of-jacksonville-florida",
-"t": "hospital",
-"n": "Mayo Clinic of Jacksonville Florida",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:winship-cancer-institute-at-emory-university",
-"t": "academic",
-"n": "Winship Cancer Institute at Emory University",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:carboplatin",
-"t": "drug",
-"n": "Carboplatin",
-"sub": "CarThera",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct05465954",
 "t": "trial",
 "n": "Efineptakin Alfa and Pembrolizumab for the Treatment of Recurrent Glioblastoma",
@@ -2360,50 +2368,58 @@
 "c": ""
 },
 {
-"k": "trial:nct07521657",
+"k": "trial:nct06011109",
 "t": "trial",
-"n": "Efficacy of Mirdametinib Alone or Combination With Radiotherapy for Germline and Sporadic ",
-"sub": "P2 · not_yet_recruiting · 2027-2032",
-"url": "https://clinicaltrials.gov/study/NCT07521657",
+"n": "Treatment of Patients With Recurrent High-Grade Glioma With APG-157 and Bevacizumab",
+"sub": "P1/P2 · active_not_recruiting · 2023-2027",
+"url": "https://clinicaltrials.gov/study/NCT06011109",
 "c": ""
 },
 {
-"k": "org:children-s-hospital-of-philadelphia",
-"t": "hospital",
-"n": "Children's Hospital of Philadelphia",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:congressionally-directed-medical-research-programs",
-"t": "funder",
-"n": "Congressionally Directed Medical Research Programs",
+"k": "org:aveta-biomics",
+"t": "company",
+"n": "Aveta Biomics, Inc.",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "person:girish-dhall",
+"k": "org:university-of-nebraska",
+"t": "academic",
+"n": "University of Nebraska",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:nicole-shonka",
 "t": "person",
-"n": "Girish Dhall",
-"sub": "study director · University of Alabama at Birmingham",
+"n": "Nicole Shonka",
+"sub": "principal investigator · University of Nebraska",
 "url": "",
 "c": ""
 },
 {
-"k": "org:childrens-of-alabama",
+"k": "person:joon-uhm",
+"t": "person",
+"n": "Joon Uhm",
+"sub": "principal investigator · Mayo Clinic",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-nebraska-medical-center",
 "t": "hospital",
-"n": "Childrens of Alabama",
+"n": "University of Nebraska Medical Center",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "drug:mirdametinib",
+"k": "drug:apg-157",
 "t": "drug",
-"n": "mirdametinib",
-"sub": "University of Alabama at Birmingham",
+"n": "APG-157",
+"sub": "Aveta Biomics, Inc.",
 "url": "",
 "c": ""
 },
@@ -2502,6 +2518,142 @@
 "sub": "",
 "url": "",
 "c": "United States"
+},
+{
+"k": "trial:nct07859059",
+"t": "trial",
+"n": "Metronomic Temozolomide With Dexbrompheniramine for Recurrent High-Grade Glioma/Glioblasto",
+"sub": "P1/P2 · not_yet_recruiting · 2027-2031",
+"url": "https://clinicaltrials.gov/study/NCT07859059",
+"c": ""
+},
+{
+"k": "person:nicole-a-shonka",
+"t": "person",
+"n": "Nicole A Shonka",
+"sub": "principal investigator · University of Nebraska",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:dexbrompheniramine",
+"t": "drug",
+"n": "Dexbrompheniramine",
+"sub": "University of Nebraska",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05902169",
+"t": "trial",
+"n": "Sonocloud-9 in Association With Carboplatin Versus Standard-of-Care Chemotherapies (CCNU o",
+"sub": "P3 · recruiting · 2024-2028",
+"url": "https://clinicaltrials.gov/study/NCT05902169",
+"c": ""
+},
+{
+"k": "org:kaiser-permanente",
+"t": "company",
+"n": "Kaiser Permanente",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ucla",
+"t": "company",
+"n": "UCLA",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:sutter-health-california-pacific-medical-center",
+"t": "hospital",
+"n": "Sutter Health - California Pacific Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:uchealth",
+"t": "hospital",
+"n": "UCHealth",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:mayo-clinic-of-jacksonville-florida",
+"t": "hospital",
+"n": "Mayo Clinic of Jacksonville Florida",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:winship-cancer-institute-at-emory-university",
+"t": "academic",
+"n": "Winship Cancer Institute at Emory University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:carboplatin",
+"t": "drug",
+"n": "Carboplatin",
+"sub": "CarThera",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07521657",
+"t": "trial",
+"n": "Efficacy of Mirdametinib Alone or Combination With Radiotherapy for Germline and Sporadic ",
+"sub": "P2 · not_yet_recruiting · 2027-2032",
+"url": "https://clinicaltrials.gov/study/NCT07521657",
+"c": ""
+},
+{
+"k": "org:children-s-hospital-of-philadelphia",
+"t": "hospital",
+"n": "Children's Hospital of Philadelphia",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:congressionally-directed-medical-research-programs",
+"t": "funder",
+"n": "Congressionally Directed Medical Research Programs",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:girish-dhall",
+"t": "person",
+"n": "Girish Dhall",
+"sub": "study director · University of Alabama at Birmingham",
+"url": "",
+"c": ""
+},
+{
+"k": "org:childrens-of-alabama",
+"t": "hospital",
+"n": "Childrens of Alabama",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:mirdametinib",
+"t": "drug",
+"n": "mirdametinib",
+"sub": "University of Alabama at Birmingham",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct06991101",
@@ -2616,6 +2768,142 @@
 "c": ""
 },
 {
+"k": "trial:nct05685004",
+"t": "trial",
+"n": "Study of Neoantigen-specific Adoptive T Cell Therapy for Newly Diagnosed MGMT Negative Gli",
+"sub": "P2/P3 · active_not_recruiting · 2023-2030",
+"url": "https://clinicaltrials.gov/study/NCT05685004",
+"c": ""
+},
+{
+"k": "org:tvax-biomedical",
+"t": "company",
+"n": "TVAX Biomedical",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:gary-wood",
+"t": "person",
+"n": "Gary Wood",
+"sub": "study chair · TVAX Biomedical, Inc",
+"url": "",
+"c": ""
+},
+{
+"k": "org:center-for-neurosciences",
+"t": "company",
+"n": "Center for Neurosciences",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cedar-sanai-medical-center",
+"t": "hospital",
+"n": "Cedar-Sanai Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-southern-california-keck-school-of-medicine",
+"t": "academic",
+"n": "University of Southern California Keck School of Medicine",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:piedmont",
+"t": "company",
+"n": "Piedmont",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-kansas-medical-center",
+"t": "hospital",
+"n": "University of Kansas Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:capital-health",
+"t": "hospital",
+"n": "Capital Health",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:providence-st-vincent",
+"t": "company",
+"n": "Providence St. Vincent",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:tvi-brain-1",
+"t": "drug",
+"n": "TVI-Brain-1",
+"sub": "TVAX Biomedical",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05864534",
+"t": "trial",
+"n": "Phase 2a Immune Modulation With Ultrasound for Newly Diagnosed Glioblastoma",
+"sub": "P2 · active_not_recruiting · 2024-2031",
+"url": "https://clinicaltrials.gov/study/NCT05864534",
+"c": ""
+},
+{
+"k": "org:agenus",
+"t": "company",
+"n": "Agenus Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:adam-sonabend",
+"t": "person",
+"n": "Adam Sonabend",
+"sub": "principal investigator · Northwestern University",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:balstilimab",
+"t": "drug",
+"n": "Balstilimab",
+"sub": "Northwestern University",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:botensilimab",
+"t": "drug",
+"n": "Botensilimab",
+"sub": "Northwestern University",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:liposomal-doxorubicin",
+"t": "drug",
+"n": "Liposomal Doxorubicin",
+"sub": "Northwestern University",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct05871021",
 "t": "trial",
 "n": "Protective VEGF Inhibition for Isotoxic Dose Escalation in Glioblastoma",
@@ -2720,198 +3008,6 @@
 "c": "Germany"
 },
 {
-"k": "trial:nct05864534",
-"t": "trial",
-"n": "Phase 2a Immune Modulation With Ultrasound for Newly Diagnosed Glioblastoma",
-"sub": "P2 · active_not_recruiting · 2024-2031",
-"url": "https://clinicaltrials.gov/study/NCT05864534",
-"c": ""
-},
-{
-"k": "org:northwestern-university",
-"t": "academic",
-"n": "Northwestern University",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:agenus",
-"t": "company",
-"n": "Agenus Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:adam-sonabend",
-"t": "person",
-"n": "Adam Sonabend",
-"sub": "principal investigator · Northwestern University",
-"url": "",
-"c": ""
-},
-{
-"k": "person:roger-stupp",
-"t": "person",
-"n": "Roger Stupp",
-"sub": "study director · Northwestern University",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:balstilimab",
-"t": "drug",
-"n": "Balstilimab",
-"sub": "Northwestern University",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:botensilimab",
-"t": "drug",
-"n": "Botensilimab",
-"sub": "Northwestern University",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:liposomal-doxorubicin",
-"t": "drug",
-"n": "Liposomal Doxorubicin",
-"sub": "Northwestern University",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05685004",
-"t": "trial",
-"n": "Study of Neoantigen-specific Adoptive T Cell Therapy for Newly Diagnosed MGMT Negative Gli",
-"sub": "P2/P3 · active_not_recruiting · 2023-2030",
-"url": "https://clinicaltrials.gov/study/NCT05685004",
-"c": ""
-},
-{
-"k": "org:tvax-biomedical",
-"t": "company",
-"n": "TVAX Biomedical",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:gary-wood",
-"t": "person",
-"n": "Gary Wood",
-"sub": "study chair · TVAX Biomedical, Inc",
-"url": "",
-"c": ""
-},
-{
-"k": "org:center-for-neurosciences",
-"t": "company",
-"n": "Center for Neurosciences",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:cedar-sanai-medical-center",
-"t": "hospital",
-"n": "Cedar-Sanai Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-southern-california-keck-school-of-medicine",
-"t": "academic",
-"n": "University of Southern California Keck School of Medicine",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:piedmont",
-"t": "company",
-"n": "Piedmont",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-kansas-medical-center",
-"t": "hospital",
-"n": "University of Kansas Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:capital-health",
-"t": "hospital",
-"n": "Capital Health",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:providence-st-vincent",
-"t": "company",
-"n": "Providence St. Vincent",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:tvi-brain-1",
-"t": "drug",
-"n": "TVI-Brain-1",
-"sub": "TVAX Biomedical",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05183204",
-"t": "trial",
-"n": "Paxalisib With a High Fat, Low Carb Diet and Metformin for Glioblastoma",
-"sub": "P2 · completed · 2022-2026",
-"url": "https://clinicaltrials.gov/study/NCT05183204",
-"c": ""
-},
-{
-"k": "org:weill-medical-college-of-cornell-university",
-"t": "academic",
-"n": "Weill Medical College of Cornell University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:howard-fine",
-"t": "person",
-"n": "Howard Fine",
-"sub": "principal investigator · Weill Medical College of Cornell University",
-"url": "",
-"c": ""
-},
-{
-"k": "org:weill-cornell-medicine",
-"t": "company",
-"n": "Weill Cornell Medicine",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:metformin",
-"t": "drug",
-"n": "Metformin",
-"sub": "Weill Medical College of Cornell University",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct04094610",
 "t": "trial",
 "n": "A Study of Repotrectinib in Pediatric and Young Adult Subjects Harboring ALK, ROS1, OR NTR",
@@ -2923,14 +3019,6 @@
 "k": "org:turning-point-therapeutics",
 "t": "company",
 "n": "Turning Point Therapeutics, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:bristol-myers-squibb",
-"t": "company",
-"n": "Bristol-Myers Squibb",
 "sub": "",
 "url": "",
 "c": ""
@@ -2984,202 +3072,42 @@
 "c": ""
 },
 {
-"k": "trial:nct06047379",
+"k": "trial:nct05183204",
 "t": "trial",
-"n": "Safety and Efficacy of NEO212 in Patients With Astrocytoma IDH-mutant, Glioblastoma IDH-wi",
-"sub": "P1/P2 · recruiting · 2023-2027",
-"url": "https://clinicaltrials.gov/study/NCT06047379",
+"n": "Paxalisib With a High Fat, Low Carb Diet and Metformin for Glioblastoma",
+"sub": "P2 · completed · 2022-2026",
+"url": "https://clinicaltrials.gov/study/NCT05183204",
 "c": ""
 },
 {
-"k": "org:neonc-technologies",
-"t": "company",
-"n": "Neonc Technologies, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:tom-chen",
-"t": "person",
-"n": "Tom Chen",
-"sub": "study chair · NeOnc Technologies",
-"url": "",
-"c": ""
-},
-{
-"k": "org:neonc-technologies-holdings",
-"t": "company",
-"n": "NeOnc Technologies Holdings, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:josh-neman",
-"t": "person",
-"n": "Josh Neman",
-"sub": "study director · NeOnc Technologies Holdings, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "org:precision-nextgen-oncology",
-"t": "company",
-"n": "Precision NextGen Oncology",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:opn-healthcare",
-"t": "hospital",
-"n": "OPN Healthcare, Inc",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-southern-california",
+"k": "org:weill-medical-college-of-cornell-university",
 "t": "academic",
-"n": "University of Southern California",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:mdr-core-network",
-"t": "company",
-"n": "MDR Core Network",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:tufts-medical-center",
-"t": "hospital",
-"n": "Tufts Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:vanderbilt-university-medical-center",
-"t": "hospital",
-"n": "Vanderbilt University Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:baylor-scott-and-white-research-institute",
-"t": "academic",
-"n": "Baylor, Scott and White Research Institute",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:northwest-medical-specialties",
-"t": "company",
-"n": "Northwest Medical Specialties",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:neo212-oral",
-"t": "drug",
-"n": "NEO212 Oral",
-"sub": "Neonc Technologies, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:paclitaxel",
-"t": "drug",
-"n": "Paclitaxel",
-"sub": "Neonc Technologies, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:folfiri-protocol",
-"t": "drug",
-"n": "FOLFIRI Protocol",
-"sub": "Neonc Technologies, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:bevacizumab",
-"t": "drug",
-"n": "Bevacizumab",
-"sub": "Neonc Technologies, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct04115761",
-"t": "trial",
-"n": "Evaluate the Efficacy and Safety of ADCV01 as an Add-On Treatment for Primary Glioblastoma",
-"sub": "P2 · recruiting · 2019-2027",
-"url": "https://clinicaltrials.gov/study/NCT04115761",
-"c": ""
-},
-{
-"k": "org:ever-supreme-bio-technology",
-"t": "company",
-"n": "Ever Supreme Bio Technology Co., Ltd.",
+"n": "Weill Medical College of Cornell University",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:ever-supreme-biotechnology",
-"t": "company",
-"n": "Ever-Supreme Biotechnology",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:wen-liang-huang",
+"k": "person:howard-fine",
 "t": "person",
-"n": "Wen-Liang Huang",
-"sub": "study director · Ever-Supreme Biotechnology",
+"n": "Howard Fine",
+"sub": "principal investigator · Weill Medical College of Cornell University",
 "url": "",
 "c": ""
 },
 {
-"k": "org:taichung-veterans-general-hospital",
-"t": "hospital",
-"n": "Taichung Veterans General Hospital",
+"k": "org:weill-cornell-medicine",
+"t": "company",
+"n": "Weill Cornell Medicine",
 "sub": "",
 "url": "",
-"c": "Taiwan"
+"c": "United States"
 },
 {
-"k": "org:chang-gung-memorial-hospital-at-lin-ko",
-"t": "hospital",
-"n": "Chang-Gung Memorial Hospital at Lin-Ko",
-"sub": "",
-"url": "",
-"c": "Taiwan"
-},
-{
-"k": "org:china-medical-university-hospital",
-"t": "hospital",
-"n": "China Medical University Hospital",
-"sub": "",
-"url": "",
-"c": "Taiwan"
-},
-{
-"k": "drug:autologous-dendritic-cells",
+"k": "drug:metformin",
 "t": "drug",
-"n": "autologous dendritic cells",
-"sub": "Ever Supreme Bio Technology Co., Ltd.",
+"n": "Metformin",
+"sub": "Weill Medical College of Cornell University",
 "url": "",
 "c": ""
 },
@@ -3840,14 +3768,6 @@
 "c": ""
 },
 {
-"k": "org:city-of-hope-duarte-cancer-center",
-"t": "company",
-"n": "City of Hope - Duarte Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:rocky-mountain-cancer-centers-aurora",
 "t": "company",
 "n": "Rocky Mountain Cancer Centers / Aurora, CO",
@@ -4104,11 +4024,11 @@
 "c": "United States"
 },
 {
-"k": "grant:nih-4uh3ca283619-03",
+"k": "grant:nih-5uh3ca283619-04",
 "t": "grant",
 "n": "CAR T cells targeting mesothelin and secreting bispecific antibodies targeting fibroblasts",
-"sub": "NIH NCI · $2,054,733 · 2025-2028",
-"url": "https://reporter.nih.gov/project-details/11249694",
+"sub": "NIH NCI · $2,493,876 · 2025-2028",
+"url": "https://reporter.nih.gov/project-details/11396191",
 "c": ""
 },
 {
@@ -4136,11 +4056,11 @@
 "c": ""
 },
 {
-"k": "grant:nih-5uh3ca283619-04",
+"k": "grant:nih-4uh3ca283619-03",
 "t": "grant",
 "n": "CAR T cells targeting mesothelin and secreting bispecific antibodies targeting fibroblasts",
-"sub": "NIH NCI · $2,493,876 · 2025-2028",
-"url": "https://reporter.nih.gov/project-details/11396191",
+"sub": "NIH NCI · $2,054,733 · 2025-2028",
+"url": "https://reporter.nih.gov/project-details/11249694",
 "c": ""
 },
 {
@@ -4227,16 +4147,6 @@
 "r": "tested_in"
 },
 {
-"a": "drug:autologous-dendritic-cells",
-"b": "asset:nct-nct04295759",
-"r": "competes"
-},
-{
-"a": "drug:autologous-dendritic-cells",
-"b": "trial:nct04115761",
-"r": "tested_in"
-},
-{
 "a": "drug:azd1390",
 "b": "asset:nct-nct04295759",
 "r": "competes"
@@ -4267,13 +4177,13 @@
 "r": "tested_in"
 },
 {
-"a": "drug:bevacizumab",
+"a": "drug:bay-3713372",
 "b": "asset:nct-nct04295759",
 "r": "competes"
 },
 {
-"a": "drug:bevacizumab",
-"b": "trial:nct06047379",
+"a": "drug:bay-3713372",
+"b": "trial:nct06914128",
 "r": "tested_in"
 },
 {
@@ -4337,11 +4247,6 @@
 "r": "tested_in"
 },
 {
-"a": "drug:carboplatin",
-"b": "trial:nct06047379",
-"r": "tested_in"
-},
-{
 "a": "drug:cemiplimab",
 "b": "asset:nct-nct04295759",
 "r": "competes"
@@ -4359,6 +4264,26 @@
 {
 "a": "drug:chemotherapy",
 "b": "trial:nct07620548",
+"r": "tested_in"
+},
+{
+"a": "drug:chemotherapy-albumin-bound-paclitaxel",
+"b": "asset:nct-nct04295759",
+"r": "competes"
+},
+{
+"a": "drug:chemotherapy-albumin-bound-paclitaxel",
+"b": "trial:nct04528680",
+"r": "tested_in"
+},
+{
+"a": "drug:chemotherapy-carboplatin",
+"b": "asset:nct-nct04295759",
+"r": "competes"
+},
+{
+"a": "drug:chemotherapy-carboplatin",
+"b": "trial:nct04528680",
 "r": "tested_in"
 },
 {
@@ -4482,16 +4407,6 @@
 "r": "tested_in"
 },
 {
-"a": "drug:folfiri-protocol",
-"b": "asset:nct-nct04295759",
-"r": "competes"
-},
-{
-"a": "drug:folfiri-protocol",
-"b": "trial:nct06047379",
-"r": "tested_in"
-},
-{
 "a": "drug:idh1-vac",
 "b": "asset:nct-nct04295759",
 "r": "competes"
@@ -4529,11 +4444,6 @@
 {
 "a": "drug:ipilimumab",
 "b": "trial:nct04145115",
-"r": "tested_in"
-},
-{
-"a": "drug:ipilimumab",
-"b": "trial:nct06047379",
 "r": "tested_in"
 },
 {
@@ -4627,16 +4537,6 @@
 "r": "tested_in"
 },
 {
-"a": "drug:neo212-oral",
-"b": "asset:nct-nct04295759",
-"r": "competes"
-},
-{
-"a": "drug:neo212-oral",
-"b": "trial:nct06047379",
-"r": "tested_in"
-},
-{
 "a": "drug:nivolumab",
 "b": "asset:nct-nct04295759",
 "r": "competes"
@@ -4654,11 +4554,6 @@
 {
 "a": "drug:nivolumab",
 "b": "trial:nct04704154",
-"r": "tested_in"
-},
-{
-"a": "drug:nivolumab",
-"b": "trial:nct06047379",
 "r": "tested_in"
 },
 {
@@ -4684,16 +4579,6 @@
 {
 "a": "drug:oral-repotrectinib",
 "b": "trial:nct04094610",
-"r": "tested_in"
-},
-{
-"a": "drug:paclitaxel",
-"b": "asset:nct-nct04295759",
-"r": "competes"
-},
-{
-"a": "drug:paclitaxel",
-"b": "trial:nct06047379",
 "r": "tested_in"
 },
 {
@@ -4724,11 +4609,6 @@
 {
 "a": "drug:pembrolizumab",
 "b": "trial:nct05465954",
-"r": "tested_in"
-},
-{
-"a": "drug:pembrolizumab",
-"b": "trial:nct06047379",
 "r": "tested_in"
 },
 {
@@ -4779,11 +4659,6 @@
 {
 "a": "drug:regorafenib",
 "b": "trial:nct04704154",
-"r": "tested_in"
-},
-{
-"a": "drug:regorafenib",
-"b": "trial:nct06047379",
 "r": "tested_in"
 },
 {
@@ -5253,6 +5128,11 @@
 },
 {
 "a": "org:bayer",
+"b": "drug:bay-3713372",
+"r": "develops"
+},
+{
+"a": "org:bayer",
 "b": "drug:nivolumab",
 "r": "develops"
 },
@@ -5272,13 +5152,13 @@
 "r": "sponsors"
 },
 {
-"a": "org:baylor-charles-a-sammons-cancer-center-at-dallas",
-"b": "trial:nct04704154",
-"r": "site_of"
+"a": "org:bayer",
+"b": "trial:nct06914128",
+"r": "sponsors"
 },
 {
-"a": "org:baylor-scott-and-white-research-institute",
-"b": "trial:nct06047379",
+"a": "org:baylor-charles-a-sammons-cancer-center-at-dallas",
+"b": "trial:nct04704154",
 "r": "site_of"
 },
 {
@@ -5337,6 +5217,11 @@
 "r": "site_of"
 },
 {
+"a": "org:bristol-myers-squibb",
+"b": "trial:nct04528680",
+"r": "collaborates"
+},
+{
 "a": "org:bristol-myers-squibb-and-ono-pharmaceutical",
 "b": "trial:nct04704154",
 "r": "collaborates"
@@ -5385,6 +5270,11 @@
 "a": "org:carthera",
 "b": "drug:temozolomide",
 "r": "develops"
+},
+{
+"a": "org:carthera",
+"b": "trial:nct04528680",
+"r": "collaborates"
 },
 {
 "a": "org:carthera",
@@ -5449,11 +5339,6 @@
 {
 "a": "org:centre-leon-berard",
 "b": "trial:nct04881032",
-"r": "site_of"
-},
-{
-"a": "org:chang-gung-memorial-hospital-at-lin-ko",
-"b": "trial:nct04115761",
 "r": "site_of"
 },
 {
@@ -5557,11 +5442,6 @@
 "r": "site_of"
 },
 {
-"a": "org:china-medical-university-hospital",
-"b": "trial:nct04115761",
-"r": "site_of"
-},
-{
 "a": "org:chu-de-brest",
 "b": "trial:nct04881032",
 "r": "site_of"
@@ -5617,6 +5497,11 @@
 "r": "site_of"
 },
 {
+"a": "org:city-of-hope-duarte-cancer-center",
+"b": "trial:nct06914128",
+"r": "site_of"
+},
+{
 "a": "org:congressionally-directed-medical-research-programs",
 "b": "trial:nct07521657",
 "r": "collaborates"
@@ -5644,6 +5529,11 @@
 {
 "a": "org:dana-farber-cancer-institute",
 "b": "trial:nct06810544",
+"r": "site_of"
+},
+{
+"a": "org:dana-farber-cancer-institute-oncology-department",
+"b": "trial:nct06914128",
 "r": "site_of"
 },
 {
@@ -5770,16 +5660,6 @@
 "a": "org:emory-winship-cancer-institute",
 "b": "trial:nct07195591",
 "r": "site_of"
-},
-{
-"a": "org:ever-supreme-bio-technology",
-"b": "drug:autologous-dendritic-cells",
-"r": "develops"
-},
-{
-"a": "org:ever-supreme-bio-technology",
-"b": "trial:nct04115761",
-"r": "sponsors"
 },
 {
 "a": "org:fred-hutchinson-cancer-research-center",
@@ -6152,6 +6032,11 @@
 "r": "sponsors"
 },
 {
+"a": "org:massachusetts-general-hospital-neurology",
+"b": "trial:nct06914128",
+"r": "site_of"
+},
+{
 "a": "org:mayo-clinic",
 "b": "drug:bispecific-cd80-lgg4fc-il-2v-fusion-protein-gi-102",
 "r": "develops"
@@ -6312,11 +6197,6 @@
 "r": "site_of"
 },
 {
-"a": "org:mdr-core-network",
-"b": "trial:nct06047379",
-"r": "site_of"
-},
-{
 "a": "org:memorial-sloan-kettering",
 "b": "trial:nct04482933",
 "r": "site_of"
@@ -6463,6 +6343,11 @@
 },
 {
 "a": "org:national-cancer-institute-nci",
+"b": "trial:nct04528680",
+"r": "collaborates"
+},
+{
+"a": "org:national-cancer-institute-nci",
 "b": "trial:nct05432804",
 "r": "sponsors"
 },
@@ -6577,56 +6462,6 @@
 "r": "collaborates"
 },
 {
-"a": "org:neonc-technologies",
-"b": "drug:bevacizumab",
-"r": "develops"
-},
-{
-"a": "org:neonc-technologies",
-"b": "drug:carboplatin",
-"r": "develops"
-},
-{
-"a": "org:neonc-technologies",
-"b": "drug:folfiri-protocol",
-"r": "develops"
-},
-{
-"a": "org:neonc-technologies",
-"b": "drug:ipilimumab",
-"r": "develops"
-},
-{
-"a": "org:neonc-technologies",
-"b": "drug:neo212-oral",
-"r": "develops"
-},
-{
-"a": "org:neonc-technologies",
-"b": "drug:nivolumab",
-"r": "develops"
-},
-{
-"a": "org:neonc-technologies",
-"b": "drug:paclitaxel",
-"r": "develops"
-},
-{
-"a": "org:neonc-technologies",
-"b": "drug:pembrolizumab",
-"r": "develops"
-},
-{
-"a": "org:neonc-technologies",
-"b": "drug:regorafenib",
-"r": "develops"
-},
-{
-"a": "org:neonc-technologies",
-"b": "trial:nct06047379",
-"r": "sponsors"
-},
-{
 "a": "org:new-york-university-langone-medical-center",
 "b": "trial:nct05765812",
 "r": "site_of"
@@ -6657,8 +6492,8 @@
 "r": "funded"
 },
 {
-"a": "org:northwest-medical-specialties",
-"b": "trial:nct06047379",
+"a": "org:northwestern-memorial-hospital",
+"b": "trial:nct04528680",
 "r": "site_of"
 },
 {
@@ -6683,8 +6518,23 @@
 },
 {
 "a": "org:northwestern-university",
+"b": "drug:chemotherapy-albumin-bound-paclitaxel",
+"r": "develops"
+},
+{
+"a": "org:northwestern-university",
+"b": "drug:chemotherapy-carboplatin",
+"r": "develops"
+},
+{
+"a": "org:northwestern-university",
 "b": "drug:liposomal-doxorubicin",
 "r": "develops"
+},
+{
+"a": "org:northwestern-university",
+"b": "trial:nct04528680",
+"r": "sponsors"
 },
 {
 "a": "org:northwestern-university",
@@ -6747,11 +6597,6 @@
 "r": "site_of"
 },
 {
-"a": "org:opn-healthcare",
-"b": "trial:nct06047379",
-"r": "site_of"
-},
-{
 "a": "org:pediatric-brain-tumor-consortium",
 "b": "drug:biological-g207",
 "r": "develops"
@@ -6785,11 +6630,6 @@
 "a": "org:polaris-group",
 "b": "trial:nct03970447",
 "r": "collaborates"
-},
-{
-"a": "org:precision-nextgen-oncology",
-"b": "trial:nct06047379",
-"r": "site_of"
 },
 {
 "a": "org:providence-alaska-medical-center",
@@ -6839,6 +6679,16 @@
 {
 "a": "org:sarah-cannon-cancer-center",
 "b": "trial:nct04704154",
+"r": "site_of"
+},
+{
+"a": "org:sarah-cannon-research-institute-at-florida-cancer-specialist",
+"b": "trial:nct06914128",
+"r": "site_of"
+},
+{
+"a": "org:sarah-cannon-research-institute-at-hca-healthone-presbyteria",
+"b": "trial:nct06914128",
 "r": "site_of"
 },
 {
@@ -6942,6 +6792,11 @@
 "r": "site_of"
 },
 {
+"a": "org:stanford-university-medical-center-neurology",
+"b": "trial:nct06914128",
+"r": "site_of"
+},
+{
 "a": "org:susan-chi",
 "b": "trial:nct06161974",
 "r": "site_of"
@@ -6965,11 +6820,6 @@
 "a": "org:t-maximum-pharmaceutical",
 "b": "trial:nct07386002",
 "r": "sponsors"
-},
-{
-"a": "org:taichung-veterans-general-hospital",
-"b": "trial:nct04115761",
-"r": "site_of"
 },
 {
 "a": "org:tango-therapeutics",
@@ -7062,11 +6912,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:tufts-medical-center",
-"b": "trial:nct06047379",
-"r": "site_of"
-},
-{
 "a": "org:turning-point-therapeutics",
 "b": "drug:oral-repotrectinib",
 "r": "develops"
@@ -7097,6 +6942,11 @@
 "r": "site_of"
 },
 {
+"a": "org:uab-o-neal-comprehensive-cancer-center-the-kirklin-clinic-of",
+"b": "trial:nct06914128",
+"r": "site_of"
+},
+{
 "a": "org:uc-irvine-health",
 "b": "trial:nct07326566",
 "r": "site_of"
@@ -7122,6 +6972,11 @@
 "r": "site_of"
 },
 {
+"a": "org:uchealth-cancer-center-anschutz-medical-campus-university-of",
+"b": "trial:nct06914128",
+"r": "site_of"
+},
+{
 "a": "org:uchealth-university-of-colorado-hospital",
 "b": "trial:nct05432804",
 "r": "site_of"
@@ -7142,8 +6997,18 @@
 "r": "site_of"
 },
 {
+"a": "org:ucla-health-bowyer-oncology-center",
+"b": "trial:nct06914128",
+"r": "site_of"
+},
+{
 "a": "org:ucsd-moores-cancer-center",
 "b": "trial:nct07326566",
+"r": "site_of"
+},
+{
+"a": "org:ucsf-helen-diller-medical-center-at-parnassus-heights-neurol",
+"b": "trial:nct06914128",
 "r": "site_of"
 },
 {
@@ -7407,11 +7272,6 @@
 "r": "site_of"
 },
 {
-"a": "org:university-of-southern-california",
-"b": "trial:nct06047379",
-"r": "site_of"
-},
-{
 "a": "org:university-of-southern-california-keck-school-of-medicine",
 "b": "trial:nct05685004",
 "r": "site_of"
@@ -7449,11 +7309,6 @@
 {
 "a": "org:uz-antwerpen",
 "b": "trial:nct04704154",
-"r": "site_of"
-},
-{
-"a": "org:vanderbilt-university-medical-center",
-"b": "trial:nct06047379",
 "r": "site_of"
 },
 {
@@ -7569,6 +7424,16 @@
 {
 "a": "person:adam-crystal",
 "b": "trial:nct06810544",
+"r": "investigator"
+},
+{
+"a": "person:adam-m-sonabend",
+"b": "org:northwestern-university",
+"r": "affiliated"
+},
+{
+"a": "person:adam-m-sonabend",
+"b": "trial:nct04528680",
 "r": "investigator"
 },
 {
@@ -7807,16 +7672,6 @@
 "r": "investigator"
 },
 {
-"a": "person:josh-neman",
-"b": "org:neonc-technologies-holdings",
-"r": "affiliated"
-},
-{
-"a": "person:josh-neman",
-"b": "trial:nct06047379",
-"r": "investigator"
-},
-{
 "a": "person:juan-sepulveda",
 "b": "org:hospital-universitario-12-de-octubre",
 "r": "affiliated"
@@ -8043,6 +7898,11 @@
 },
 {
 "a": "person:roger-stupp",
+"b": "trial:nct04528680",
+"r": "investigator"
+},
+{
+"a": "person:roger-stupp",
 "b": "trial:nct05864534",
 "r": "investigator"
 },
@@ -8127,16 +7987,6 @@
 "r": "investigator"
 },
 {
-"a": "person:tom-chen",
-"b": "org:neonc-technologies",
-"r": "affiliated"
-},
-{
-"a": "person:tom-chen",
-"b": "trial:nct06047379",
-"r": "investigator"
-},
-{
 "a": "person:veronika-bachanova",
 "b": "org:university-of-minnesota-medical-center-fairview",
 "r": "affiliated"
@@ -8154,16 +8004,6 @@
 {
 "a": "person:wei-zhang",
 "b": "trial:nct07873996",
-"r": "investigator"
-},
-{
-"a": "person:wen-liang-huang",
-"b": "org:ever-supreme-biotechnology",
-"r": "affiliated"
-},
-{
-"a": "person:wen-liang-huang",
-"b": "trial:nct04115761",
 "r": "investigator"
 },
 {

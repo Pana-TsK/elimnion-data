@@ -1,6 +1,6 @@
 {
 "assetId": "nct-nct06589219",
-"updated": "2026-10-27",
+"updated": "2026-10-28",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 41
@@ -45,6 +45,110 @@
 "sub": "",
 "url": "",
 "c": "Germany"
+},
+{
+"k": "trial:nct07036523",
+"t": "trial",
+"n": "A Study to Find Out Whether BI 765423 Has an Effect on Lung Function in People With Idiopa",
+"sub": "P2 · active_not_recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT07036523",
+"c": ""
+},
+{
+"k": "org:boehringer-ingelheim",
+"t": "company",
+"n": "Boehringer Ingelheim",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-alabama-at-birmingham",
+"t": "academic",
+"n": "University of Alabama at Birmingham",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-florida",
+"t": "academic",
+"n": "University of Florida",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:renstar-medical-research",
+"t": "company",
+"n": "Renstar Medical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-iowa-hospitals-and-clinics",
+"t": "hospital",
+"n": "University of Iowa Hospitals and Clinics",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-kansas-medical-center",
+"t": "hospital",
+"n": "University of Kansas Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-minnesota",
+"t": "academic",
+"n": "University of Minnesota",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:the-lung-research-center",
+"t": "company",
+"n": "The Lung Research Center, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-missouri-health-system",
+"t": "hospital",
+"n": "University of Missouri Health System",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:new-york-presbyterian-hospital-columbia-university",
+"t": "hospital",
+"n": "New York Presbyterian Hospital -Columbia University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:weill-cornell-medical-college",
+"t": "academic",
+"n": "Weill Cornell Medical College",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:bi-765423",
+"t": "drug",
+"n": "BI 765423",
+"sub": "Boehringer Ingelheim",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct07284459",
@@ -279,14 +383,6 @@
 "c": ""
 },
 {
-"k": "org:university-of-alabama-at-birmingham",
-"t": "academic",
-"n": "University of Alabama at Birmingham",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "person:steven-r-duncan",
 "t": "person",
 "n": "Steven R Duncan",
@@ -487,30 +583,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06189820",
-"t": "trial",
-"n": "Role of the Fibroblast Activation Protein (FAP) as Biomarker of Fibrotic Lung Diseases",
-"sub": "P2 · recruiting · 2023-2027",
-"url": "https://clinicaltrials.gov/study/NCT06189820",
-"c": ""
-},
-{
-"k": "org:erasme-university-hospital",
-"t": "hospital",
-"n": "Erasme University Hospital",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:medecine",
-"t": "company",
-"n": "Medecine",
-"sub": "",
-"url": "",
-"c": "Belgium"
-},
-{
 "k": "trial:nct06968845",
 "t": "trial",
 "n": "A Phase 2 Study of LTI-03 in Patients With Idiopathic Pulmonary Fibrosis",
@@ -578,14 +650,6 @@
 "k": "org:indiana-university",
 "t": "academic",
 "n": "Indiana University",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-kansas-medical-center",
-"t": "hospital",
-"n": "University of Kansas Medical Center",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -715,6 +779,174 @@
 "t": "drug",
 "n": "CHF10067",
 "sub": "Chiesi Farmaceutici S.p.A.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06189820",
+"t": "trial",
+"n": "Role of the Fibroblast Activation Protein (FAP) as Biomarker of Fibrotic Lung Diseases",
+"sub": "P2 · recruiting · 2023-2027",
+"url": "https://clinicaltrials.gov/study/NCT06189820",
+"c": ""
+},
+{
+"k": "org:erasme-university-hospital",
+"t": "hospital",
+"n": "Erasme University Hospital",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:medecine",
+"t": "company",
+"n": "Medecine",
+"sub": "",
+"url": "",
+"c": "Belgium"
+},
+{
+"k": "trial:nct06967805",
+"t": "trial",
+"n": "WISPer: Evaluation of MTX-463 in Participants With Idiopathic Pulmonary Fibrosis (IPF)",
+"sub": "P2 · active_not_recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT06967805",
+"c": ""
+},
+{
+"k": "org:mediar-therapeutics",
+"t": "company",
+"n": "Mediar Therapeutics",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:todd-astor",
+"t": "person",
+"n": "Todd Astor",
+"sub": "study chair · Mediar Therapeutics",
+"url": "",
+"c": ""
+},
+{
+"k": "org:wisper-site-in-birmingham-al",
+"t": "company",
+"n": "WISPer Site in Birmingham, AL",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:wisper-site-in-phoenix-az",
+"t": "company",
+"n": "WISPer site in Phoenix, AZ",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:wisper-site-in-newport-beach-ca",
+"t": "company",
+"n": "WISPer site in Newport Beach, CA",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:wisper-site-in-palm-springs-ca",
+"t": "company",
+"n": "WISPer Site in Palm Springs, CA",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:wisper-site-in-denver",
+"t": "company",
+"n": "WISPer Site in Denver, CO",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:wisper-site-in-loxahatchee-fl",
+"t": "company",
+"n": "WISPer site in Loxahatchee, FL",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:wisper-site-in-atlanta-ga",
+"t": "company",
+"n": "WISPer Site in Atlanta, GA",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:wisper-site-in-champaign-il",
+"t": "company",
+"n": "WISPer site in Champaign, IL",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:wisper-site-in-kansas-city-ks",
+"t": "company",
+"n": "WISPer site in Kansas City, KS",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:wisper-site-in-shreveport-la",
+"t": "company",
+"n": "WISPer site in Shreveport, LA",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:mtx-463",
+"t": "drug",
+"n": "MTX-463",
+"sub": "Mediar Therapeutics",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07869147",
+"t": "trial",
+"n": "Study of ORJ-001 for the Treatment of IPF",
+"sub": "P2 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07869147",
+"c": ""
+},
+{
+"k": "org:oorja-bio",
+"t": "company",
+"n": "Oorja Bio, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:innova-pharma-research",
+"t": "company",
+"n": "Innova Pharma Research, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:orj-001",
+"t": "drug",
+"n": "ORJ-001",
+"sub": "Oorja Bio, Inc.",
 "url": "",
 "c": ""
 },
@@ -911,163 +1143,11 @@
 "c": "Australia"
 },
 {
-"k": "trial:nct07869147",
-"t": "trial",
-"n": "Study of ORJ-001 for the Treatment of IPF",
-"sub": "P2 · recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07869147",
-"c": ""
-},
-{
-"k": "org:oorja-bio",
-"t": "company",
-"n": "Oorja Bio, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:innova-pharma-research",
-"t": "company",
-"n": "Innova Pharma Research, LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:orj-001",
-"t": "drug",
-"n": "ORJ-001",
-"sub": "Oorja Bio, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06967805",
-"t": "trial",
-"n": "WISPer: Evaluation of MTX-463 in Participants With Idiopathic Pulmonary Fibrosis (IPF)",
-"sub": "P2 · active_not_recruiting · 2025-2027",
-"url": "https://clinicaltrials.gov/study/NCT06967805",
-"c": ""
-},
-{
-"k": "org:mediar-therapeutics",
-"t": "company",
-"n": "Mediar Therapeutics",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:todd-astor",
-"t": "person",
-"n": "Todd Astor",
-"sub": "study chair · Mediar Therapeutics",
-"url": "",
-"c": ""
-},
-{
-"k": "org:wisper-site-in-birmingham-al",
-"t": "company",
-"n": "WISPer Site in Birmingham, AL",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:wisper-site-in-phoenix-az",
-"t": "company",
-"n": "WISPer site in Phoenix, AZ",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:wisper-site-in-newport-beach-ca",
-"t": "company",
-"n": "WISPer site in Newport Beach, CA",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:wisper-site-in-palm-springs-ca",
-"t": "company",
-"n": "WISPer Site in Palm Springs, CA",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:wisper-site-in-denver",
-"t": "company",
-"n": "WISPer Site in Denver, CO",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:wisper-site-in-loxahatchee-fl",
-"t": "company",
-"n": "WISPer site in Loxahatchee, FL",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:wisper-site-in-atlanta-ga",
-"t": "company",
-"n": "WISPer Site in Atlanta, GA",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:wisper-site-in-champaign-il",
-"t": "company",
-"n": "WISPer site in Champaign, IL",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:wisper-site-in-kansas-city-ks",
-"t": "company",
-"n": "WISPer site in Kansas City, KS",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:wisper-site-in-shreveport-la",
-"t": "company",
-"n": "WISPer site in Shreveport, LA",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:mtx-463",
-"t": "drug",
-"n": "MTX-463",
-"sub": "Mediar Therapeutics",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct06238622",
 "t": "trial",
 "n": "A Follow-up Study to Test Long-term Treatment With Nerandomilast in People With Pulmonary ",
 "sub": "P3 · active_not_recruiting · 2024-2027",
 "url": "https://clinicaltrials.gov/study/NCT06238622",
-"c": ""
-},
-{
-"k": "org:boehringer-ingelheim",
-"t": "company",
-"n": "Boehringer Ingelheim",
-"sub": "",
-"url": "",
 "c": ""
 },
 {
@@ -1415,14 +1495,6 @@
 "c": "United States"
 },
 {
-"k": "org:renstar-medical-research",
-"t": "company",
-"n": "Renstar Medical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:piedmont-healthcare",
 "t": "hospital",
 "n": "Piedmont Healthcare, Inc.",
@@ -1453,78 +1525,6 @@
 "sub": "",
 "url": "",
 "c": "United States"
-},
-{
-"k": "trial:nct07036523",
-"t": "trial",
-"n": "A Study to Find Out Whether BI 765423 Has an Effect on Lung Function in People With Idiopa",
-"sub": "P2 · active_not_recruiting · 2025-2027",
-"url": "https://clinicaltrials.gov/study/NCT07036523",
-"c": ""
-},
-{
-"k": "org:university-of-florida",
-"t": "academic",
-"n": "University of Florida",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-iowa-hospitals-and-clinics",
-"t": "hospital",
-"n": "University of Iowa Hospitals and Clinics",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-minnesota",
-"t": "academic",
-"n": "University of Minnesota",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:the-lung-research-center",
-"t": "company",
-"n": "The Lung Research Center, LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-missouri-health-system",
-"t": "hospital",
-"n": "University of Missouri Health System",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:columbia-university-medical-center-new-york-presbyterian-hos",
-"t": "hospital",
-"n": "Columbia University Medical Center-New York Presbyterian Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:weill-cornell-medical-college",
-"t": "academic",
-"n": "Weill Cornell Medical College",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:bi-765423",
-"t": "drug",
-"n": "BI 765423",
-"sub": "Boehringer Ingelheim",
-"url": "",
-"c": ""
 },
 {
 "k": "trial:nct06360094",
@@ -1578,6 +1578,14 @@
 "k": "org:icahn-school-of-medicine-at-mount-sinai",
 "t": "academic",
 "n": "Icahn School of Medicine at Mount Sinai",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:columbia-university-medical-center-new-york-presbyterian-hos",
+"t": "hospital",
+"n": "Columbia University Medical Center-New York Presbyterian Hospital",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -2431,6 +2439,30 @@
 "c": ""
 },
 {
+"k": "trial:nct05537025",
+"t": "trial",
+"n": "Study of ARO-MMP7 Inhalation Solution in Healthy Participants and Participants With Idiopa",
+"sub": "P1/P2 · completed · 2023-2025",
+"url": "https://clinicaltrials.gov/study/NCT05537025",
+"c": ""
+},
+{
+"k": "org:arrowhead-pharmaceuticals",
+"t": "company",
+"n": "Arrowhead Pharmaceuticals",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:aro-mmp7-inhalation-solution",
+"t": "drug",
+"n": "ARO-MMP7 Inhalation Solution",
+"sub": "Arrowhead Pharmaceuticals",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct06097260",
 "t": "trial",
 "n": "Randomized, Double-blind Study of Efficacy and Safety of Bexotegrast (PLN-74809) for Idiop",
@@ -2499,30 +2531,6 @@
 "t": "drug",
 "n": "PLN-74809",
 "sub": "Pliant Therapeutics, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05537025",
-"t": "trial",
-"n": "Study of ARO-MMP7 Inhalation Solution in Healthy Participants and Participants With Idiopa",
-"sub": "P1/P2 · completed · 2023-2025",
-"url": "https://clinicaltrials.gov/study/NCT05537025",
-"c": ""
-},
-{
-"k": "org:arrowhead-pharmaceuticals",
-"t": "company",
-"n": "Arrowhead Pharmaceuticals",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:aro-mmp7-inhalation-solution",
-"t": "drug",
-"n": "ARO-MMP7 Inhalation Solution",
-"sub": "Arrowhead Pharmaceuticals",
 "url": "",
 "c": ""
 },
@@ -3731,11 +3739,6 @@
 "r": "site_of"
 },
 {
-"a": "org:columbia-university-medical-center-new-york-presbyterian-hos",
-"b": "trial:nct07036523",
-"r": "site_of"
-},
-{
 "a": "org:concord-repatriation-general-hospital",
 "b": "trial:nct05964335",
 "r": "site_of"
@@ -4178,6 +4181,11 @@
 {
 "a": "org:nepean-lung-and-sleep",
 "b": "trial:nct07194382",
+"r": "site_of"
+},
+{
+"a": "org:new-york-presbyterian-hospital-columbia-university",
+"b": "trial:nct07036523",
 "r": "site_of"
 },
 {

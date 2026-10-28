@@ -1,6 +1,6 @@
 {
 "assetId": "acumapimod",
-"updated": "2026-10-27",
+"updated": "2026-10-28",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 20,
@@ -16,11 +16,11 @@
 "c": ""
 },
 {
-"k": "trial:nct03498170",
+"k": "trial:nct02926326",
 "t": "trial",
-"n": "The Effect of Itraconazole on BCT197 Exposure in Healthy Male Participants",
-"sub": "P1 · completed · 2018-2018",
-"url": "https://clinicaltrials.gov/study/NCT03498170",
+"n": "The Effect of Azithromycin on BCT197 Exposure in Healthy Male Volunteers",
+"sub": "P1 · completed · 2016-2016",
+"url": "https://clinicaltrials.gov/study/NCT02926326",
 "c": ""
 },
 {
@@ -40,28 +40,28 @@
 "c": "GB"
 },
 {
-"k": "org:inventiv-health-clinical-research-services",
-"t": "hospital",
-"n": "inVentiv Health Clinical Research Services LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "trial:nct02926326",
-"t": "trial",
-"n": "The Effect of Azithromycin on BCT197 Exposure in Healthy Male Volunteers",
-"sub": "P1 · completed · 2016-2016",
-"url": "https://clinicaltrials.gov/study/NCT02926326",
-"c": ""
-},
-{
 "k": "org:biokinetic-europe",
 "t": "company",
 "n": "BioKinetic Europe Ltd",
 "sub": "",
 "url": "",
 "c": "United Kingdom"
+},
+{
+"k": "trial:nct03498170",
+"t": "trial",
+"n": "The Effect of Itraconazole on BCT197 Exposure in Healthy Male Participants",
+"sub": "P1 · completed · 2018-2018",
+"url": "https://clinicaltrials.gov/study/NCT03498170",
+"c": ""
+},
+{
+"k": "org:inventiv-health-clinical-research-services",
+"t": "hospital",
+"n": "inVentiv Health Clinical Research Services LLC",
+"sub": "",
+"url": "",
+"c": "United States"
 },
 {
 "k": "trial:nct04163536",
@@ -1163,7 +1163,7 @@
 "k": "paper:pmid-32800196",
 "t": "paper",
 "n": "Definition, Causes, Pathogenesis, and Consequences of Chronic Obstructive Pulmonary Diseas",
-"sub": "Clinics in Chest Medicine 2020 · cited 402",
+"sub": "Clinics in Chest Medicine 2020 · cited 401",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32800196",
 "c": ""
 },
@@ -1243,7 +1243,7 @@
 "k": "paper:pmid-33893708",
 "t": "paper",
 "n": "Chronic obstructive pulmonary disease exacerbation fundamentals: Diagnosis, treatment, pre",
-"sub": "Respirology 2021 · cited 360",
+"sub": "Respirology 2021 · cited 359",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33893708",
 "c": ""
 },
@@ -1555,7 +1555,7 @@
 "k": "paper:pmid-34058148",
 "t": "paper",
 "n": "Airway mucin MUC5AC and MUC5B concentrations and the initiation and progression of chronic",
-"sub": "The Lancet Respiratory Medicine 2021 · cited 208",
+"sub": "The Lancet Respiratory Medicine 2021 · cited 209",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34058148",
 "c": ""
 },
@@ -1715,16 +1715,8 @@
 "k": "person:xiaoye-fan",
 "t": "person",
 "n": "Xiaoye Fan",
-"sub": "Jilin University",
+"sub": "First Hospital of Jilin University",
 "url": "https://orcid.org/0009-0001-0739-1978",
-"c": "CN"
-},
-{
-"k": "org:jilin-university",
-"t": "academic",
-"n": "Jilin University",
-"sub": "",
-"url": "",
 "c": "CN"
 },
 {
@@ -1739,7 +1731,7 @@
 "k": "person:xinxin-ci",
 "t": "person",
 "n": "Xinxin Ci",
-"sub": "Jilin University",
+"sub": "First Hospital of Jilin University",
 "url": "https://orcid.org/0000-0003-2207-6869",
 "c": "CN"
 },
@@ -1747,7 +1739,7 @@
 "k": "person:liping-peng",
 "t": "person",
 "n": "Liping Peng",
-"sub": "Jilin University",
+"sub": "First Hospital of Jilin University",
 "url": "https://orcid.org/0000-0001-6440-9436",
 "c": "CN"
 },
@@ -2339,7 +2331,7 @@
 "k": "paper:pmid-37348121",
 "t": "paper",
 "n": "Targeting Type 2 Inflammation and Epithelial Alarmins in Chronic Obstructive Pulmonary Dis",
-"sub": "American Journal of Respiratory and Critical Care Medicine 2023 · cited 129",
+"sub": "American Journal of Respiratory and Critical Care Medicine 2023 · cited 130",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37348121",
 "c": ""
 },
@@ -2715,7 +2707,7 @@
 "k": "paper:pmid-36322846",
 "t": "paper",
 "n": "Noninvasive Respiratory Support for Adults with Acute Respiratory Failure",
-"sub": "New England Journal of Medicine 2022 · cited 107",
+"sub": "New England Journal of Medicine 2022 · cited 108",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36322846",
 "c": ""
 },
@@ -4519,11 +4511,6 @@
 },
 {
 "a": "person:liping-peng",
-"b": "org:jilin-university",
-"r": "affiliated"
-},
-{
-"a": "person:liping-peng",
 "b": "paper:pmid-36608590",
 "r": "authored"
 },
@@ -4854,22 +4841,12 @@
 },
 {
 "a": "person:xiaoye-fan",
-"b": "org:jilin-university",
-"r": "affiliated"
-},
-{
-"a": "person:xiaoye-fan",
 "b": "paper:pmid-36608590",
 "r": "authored"
 },
 {
 "a": "person:xinxin-ci",
 "b": "org:first-hospital-of-jilin-university",
-"r": "affiliated"
-},
-{
-"a": "person:xinxin-ci",
-"b": "org:jilin-university",
 "r": "affiliated"
 },
 {
