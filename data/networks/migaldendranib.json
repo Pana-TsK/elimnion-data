@@ -1,10 +1,10 @@
 {
 "assetId": "migaldendranib",
-"updated": "2026-10-28",
+"updated": "2026-10-29",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 80,
-"papers": 35
+"papers": 70
 },
 "nodes": [
 {
@@ -21,6 +21,78 @@
 "n": "Study Evaluating Safety & Tolerability of Migaldendranib in Healthy Volunteers",
 "sub": "P1 · active_not_recruiting · 2026-2026",
 "url": "https://clinicaltrials.gov/study/NCT07370155",
+"c": ""
+},
+{
+"k": "trial:nct07185841",
+"t": "trial",
+"n": "Safety and Efficacy of Oral HX9428 Tablets in Subjects With Wet Age-related Macular Degene",
+"sub": "P1/P2 · recruiting · 2025-2029",
+"url": "https://clinicaltrials.gov/study/NCT07185841",
+"c": ""
+},
+{
+"k": "org:fujian-haixi-pharmaceuticals",
+"t": "company",
+"n": "Fujian Haixi Pharmaceuticals Co., Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:beijing-hospital",
+"t": "hospital",
+"n": "Beijing Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "person:hong-dai",
+"t": "person",
+"n": "Hong Dai",
+"sub": "principal investigator · Beijing Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:hx9428",
+"t": "drug",
+"n": "HX9428",
+"sub": "Fujian Haixi Pharmaceuticals Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05536973",
+"t": "trial",
+"n": "Safety and Efficacy of ADVM-022 in Treatment-Experienced Patients With Neovascular Age-rel",
+"sub": "P2 · active_not_recruiting · 2022-2028",
+"url": "https://clinicaltrials.gov/study/NCT05536973",
+"c": ""
+},
+{
+"k": "org:adverum-biotechnologies",
+"t": "company",
+"n": "Adverum Biotechnologies, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:adam-turpcu",
+"t": "person",
+"n": "Adam Turpcu",
+"sub": "study director · Adverum Biotechnologies, Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:advm-022",
+"t": "drug",
+"n": "ADVM-022",
+"sub": "Adverum Biotechnologies, Inc.",
+"url": "",
 "c": ""
 },
 {
@@ -72,42 +144,18 @@
 "c": "United States"
 },
 {
+"k": "org:midwest-eye-institute",
+"t": "academic",
+"n": "Midwest Eye Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "drug:iptacopan",
 "t": "drug",
 "n": "Iptacopan",
 "sub": "Novartis Pharmaceuticals",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05536973",
-"t": "trial",
-"n": "Safety and Efficacy of ADVM-022 in Treatment-Experienced Patients With Neovascular Age-rel",
-"sub": "P2 · active_not_recruiting · 2022-2028",
-"url": "https://clinicaltrials.gov/study/NCT05536973",
-"c": ""
-},
-{
-"k": "org:adverum-biotechnologies",
-"t": "company",
-"n": "Adverum Biotechnologies, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:adam-turpcu",
-"t": "person",
-"n": "Adam Turpcu",
-"sub": "study director · Adverum Biotechnologies, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:advm-022",
-"t": "drug",
-"n": "ADVM-022",
-"sub": "Adverum Biotechnologies, Inc.",
 "url": "",
 "c": ""
 },
@@ -320,30 +368,6 @@
 "c": "United States"
 },
 {
-"k": "org:bellaire-tx",
-"t": "company",
-"n": "Bellaire, TX",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:mcallen-tx",
-"t": "company",
-"n": "McAllen, TX",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:the-woodlands-tx",
-"t": "company",
-"n": "The Woodlands, TX",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "drug:eyc-0305",
 "t": "drug",
 "n": "EYC-0305",
@@ -376,41 +400,9 @@
 "c": ""
 },
 {
-"k": "org:research-network-arizona-retina-macula-institute-of-arizona",
-"t": "academic",
-"n": "Research Network Arizona / Retina Macula Institute of Arizona",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-center-of-arkansas",
-"t": "company",
-"n": "Retina Center of Arkansas",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-partners-of-northwest-arkansas-pllc",
-"t": "company",
-"n": "Retina Partners of Northwest Arkansas, PLLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:global-research-management",
 "t": "company",
 "n": "Global Research Management, Inc.",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:azul-vision-california-eye-specialists-medical-group",
-"t": "company",
-"n": "Azul Vision / California Eye Specialists Medical Group, Inc.",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -464,52 +456,12 @@
 "c": ""
 },
 {
-"k": "org:central-coast-eye-specialists",
-"t": "company",
-"n": "Central Coast Eye Specialists",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "person:hemal-mehta-frcophth-franzco",
 "t": "person",
 "n": "Hemal Mehta, FRCOphth FRANZCO",
 "sub": "principal investigator · Central Coast Eye Specialists",
 "url": "",
 "c": ""
-},
-{
-"k": "org:central-coast-eye-specialist",
-"t": "company",
-"n": "Central Coast Eye Specialist",
-"sub": "",
-"url": "",
-"c": "Australia"
-},
-{
-"k": "org:sydney-eye-hospital",
-"t": "hospital",
-"n": "Sydney Eye Hospital",
-"sub": "",
-"url": "",
-"c": "Australia"
-},
-{
-"k": "org:sydney-west-retina",
-"t": "company",
-"n": "Sydney West Retina",
-"sub": "",
-"url": "",
-"c": "Australia"
-},
-{
-"k": "org:cerulea-clinical-trials",
-"t": "hospital",
-"n": "Cerulea Clinical Trials",
-"sub": "",
-"url": "",
-"c": "Australia"
 },
 {
 "k": "drug:beta-tt8-ophthalmic-gel-3-8-w-v",
@@ -536,22 +488,6 @@
 "c": ""
 },
 {
-"k": "org:advanced-retina-institute",
-"t": "academic",
-"n": "Advanced Retina Institute",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:tulsa-retina-consultants",
-"t": "company",
-"n": "Tulsa Retina Consultants",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:erie-retina-research",
 "t": "company",
 "n": "Erie Retina Research",
@@ -564,6 +500,54 @@
 "t": "drug",
 "n": "NT-101 ophthalmic solution",
 "sub": "NexThera Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04663750",
+"t": "trial",
+"n": "Vitrectomy, Subretinal Tissue Plasminogen Activator (TPA) and Intravitreal Gas for Submacu",
+"sub": "P3 · recruiting · 2021-2028",
+"url": "https://clinicaltrials.gov/study/NCT04663750",
+"c": ""
+},
+{
+"k": "org:king-s-college-hospital-nhs-trust",
+"t": "hospital",
+"n": "King's College Hospital NHS Trust",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:timothy-l-jackson-frcophth",
+"t": "person",
+"n": "Timothy L Jackson, FRCOphth",
+"sub": "principal investigator · Kings College London & Kings College Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:intravitreal",
+"t": "drug",
+"n": "Intravitreal",
+"sub": "King's College Hospital NHS Trust",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:subretinal-of-recombinant-tpa-up-to-a-maximum-of-25-microgra",
+"t": "drug",
+"n": "subretinal of recombinant TPA up to a maximum of 25 micrograms in 0.2 mls",
+"sub": "King's College Hospital NHS Trust",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:intravitreal-20-sulfahexafluoride-gas-tamponade",
+"t": "drug",
+"n": "Intravitreal 20% sulfahexafluoride gas tamponade",
+"sub": "King's College Hospital NHS Trust",
 "url": "",
 "c": ""
 },
@@ -608,146 +592,34 @@
 "c": ""
 },
 {
-"k": "trial:nct04663750",
+"k": "trial:nct05984927",
 "t": "trial",
-"n": "Vitrectomy, Subretinal Tissue Plasminogen Activator (TPA) and Intravitreal Gas for Submacu",
-"sub": "P3 · recruiting · 2021-2028",
-"url": "https://clinicaltrials.gov/study/NCT04663750",
+"n": "NG101 AAV Gene Therapy in Subjects With Wet Age-Related Macular Degeneration",
+"sub": "P1/P2 · active_not_recruiting · 2023-2030",
+"url": "https://clinicaltrials.gov/study/NCT05984927",
 "c": ""
 },
 {
-"k": "org:king-s-college-hospital-nhs-trust",
-"t": "hospital",
-"n": "King's College Hospital NHS Trust",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:king-s-college-london",
-"t": "academic",
-"n": "King's College London",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:kings-college-london-kings-college-hospital",
-"t": "hospital",
-"n": "Kings College London & Kings College Hospital",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:timothy-l-jackson-frcophth",
-"t": "person",
-"n": "Timothy L Jackson, FRCOphth",
-"sub": "principal investigator · Kings College London & Kings College Hospital",
-"url": "",
-"c": ""
-},
-{
-"k": "org:university-of-bonn",
-"t": "academic",
-"n": "University of Bonn",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:university-medical-center-hamburg-eppendorf",
-"t": "hospital",
-"n": "University Medical Center Hamburg Eppendorf",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:eye-clinic-ludwigshafen",
-"t": "hospital",
-"n": "Eye Clinic Ludwigshafen",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:ludwig-maximilians-university-munchen",
-"t": "academic",
-"n": "Ludwig Maximilians-University München",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:augenzentrum-am-st-franziskus-hospital-munster",
-"t": "hospital",
-"n": "Augenzentrum am St. Franziskus-Hospital Münster",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:knappschaft-kliniken-saar-sulzbach",
-"t": "hospital",
-"n": "Knappschaft Kliniken Saar GmbH, Sulzbach",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:ulm-university-hospital",
-"t": "hospital",
-"n": "Ulm University Hospital",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:university-hospital-of-wurzburg",
-"t": "hospital",
-"n": "University hospital of Würzburg",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:the-institute-of-eye-surgery",
-"t": "academic",
-"n": "The Institute of Eye Surgery",
-"sub": "",
-"url": "",
-"c": "Ireland"
-},
-{
-"k": "org:radboudumc",
+"k": "org:elisigen",
 "t": "company",
-"n": "RadboudUMC",
+"n": "Elisigen, Inc.",
 "sub": "",
 "url": "",
-"c": "Netherlands"
+"c": ""
 },
 {
-"k": "drug:intravitreal",
-"t": "drug",
-"n": "Intravitreal",
-"sub": "King's College Hospital NHS Trust",
+"k": "person:christopher-d-riemann",
+"t": "person",
+"n": "Christopher D Riemann",
+"sub": "principal investigator · Neuracle Genetics, Inc. Medical Director",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:subretinal-of-recombinant-tpa-up-to-a-maximum-of-25-microgra",
+"k": "drug:ng101-aav-gene-therapy",
 "t": "drug",
-"n": "subretinal of recombinant TPA up to a maximum of 25 micrograms in 0.2 mls",
-"sub": "King's College Hospital NHS Trust",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:intravitreal-20-sulfahexafluoride-gas-tamponade",
-"t": "drug",
-"n": "Intravitreal 20% sulfahexafluoride gas tamponade",
-"sub": "King's College Hospital NHS Trust",
+"n": "NG101 AAV gene therapy",
+"sub": "Elisigen, Inc.",
 "url": "",
 "c": ""
 },
@@ -768,98 +640,10 @@
 "c": ""
 },
 {
-"k": "org:visara",
-"t": "company",
-"n": "Visara, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "drug:vis-101",
 "t": "drug",
 "n": "VIS-101",
 "sub": "Everest Medicines (China) Co.,Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05984927",
-"t": "trial",
-"n": "NG101 AAV Gene Therapy in Subjects With Wet Age-Related Macular Degeneration",
-"sub": "P1/P2 · active_not_recruiting · 2023-2030",
-"url": "https://clinicaltrials.gov/study/NCT05984927",
-"c": ""
-},
-{
-"k": "org:elisigen",
-"t": "company",
-"n": "Elisigen, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:ora",
-"t": "company",
-"n": "ORA, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:neuracle-genetics-medical-director",
-"t": "company",
-"n": "Neuracle Genetics, Inc. Medical Director",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:christopher-d-riemann",
-"t": "person",
-"n": "Christopher D Riemann",
-"sub": "principal investigator · Neuracle Genetics, Inc. Medical Director",
-"url": "",
-"c": ""
-},
-{
-"k": "org:cincinnati-eye-institute",
-"t": "academic",
-"n": "Cincinnati Eye Institute",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:vancouver-coastal-health-research-institute",
-"t": "hospital",
-"n": "Vancouver Coastal Health Research Institute",
-"sub": "",
-"url": "",
-"c": "Canada"
-},
-{
-"k": "org:sunnybrook-ophthalmology-and-vision-services",
-"t": "company",
-"n": "Sunnybrook Ophthalmology and Vision Services",
-"sub": "",
-"url": "",
-"c": "Canada"
-},
-{
-"k": "org:vitreous-retina-macula-specialists-of-toronto",
-"t": "company",
-"n": "Vitreous Retina Macula Specialists of Toronto",
-"sub": "",
-"url": "",
-"c": "Canada"
-},
-{
-"k": "drug:ng101-aav-gene-therapy",
-"t": "drug",
-"n": "NG101 AAV gene therapy",
-"sub": "Elisigen, Inc.",
 "url": "",
 "c": ""
 },
@@ -880,14 +664,6 @@
 "c": ""
 },
 {
-"k": "org:macula-and-retina-institute",
-"t": "academic",
-"n": "Macula and Retina Institute",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:retina-consultants-san-diego",
 "t": "company",
 "n": "Retina Consultants San Diego",
@@ -899,14 +675,6 @@
 "k": "org:retina-consultants-of-southern-california",
 "t": "company",
 "n": "Retina Consultants of Southern California",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:american-institute-of-research",
-"t": "academic",
-"n": "American Institute of Research",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -944,14 +712,6 @@
 "c": "United States"
 },
 {
-"k": "org:phoenix-retina-clinical-trials",
-"t": "hospital",
-"n": "Phoenix Retina Clinical Trials, LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:retina-macula-institute-of-arizona",
 "t": "academic",
 "n": "Retina Macula Institute of Arizona",
@@ -963,30 +723,6 @@
 "k": "org:win-retina",
 "t": "company",
 "n": "Win Retina",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:doctor-retina-pc",
-"t": "company",
-"n": "Doctor Retina, PC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:rcoc-clinical-research-institute",
-"t": "hospital",
-"n": "RCOC Clinical Research Institute Inc.",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:atlantis-eyecare",
-"t": "company",
-"n": "Atlantis Eyecare",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -1008,14 +744,6 @@
 "c": ""
 },
 {
-"k": "org:retina-vitreous-associates-of-florida-saint-petersburg",
-"t": "company",
-"n": "Retina Vitreous Associates of Florida - Saint Petersburg",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:ophthalmic-consultants-of-boston",
 "t": "company",
 "n": "Ophthalmic Consultants of Boston",
@@ -1032,41 +760,9 @@
 "c": "United States"
 },
 {
-"k": "org:wagner-kapoor-research-institute",
-"t": "academic",
-"n": "Wagner Kapoor Research Institute",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:the-second-hospital-of-anhui-medical-university",
-"t": "hospital",
-"n": "The Second Hospital Of Anhui Medical University",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
 "k": "org:zhejiang-provincial-people-s-hospital",
 "t": "hospital",
 "n": "Zhejiang Provincial People's Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:eye-hospital-wmu-zhejiang-eye-hospital",
-"t": "hospital",
-"n": "Eye Hospital, WMU (Zhejiang Eye Hospital)",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:beijing-hospital",
-"t": "hospital",
-"n": "Beijing Hospital",
 "sub": "",
 "url": "",
 "c": "China"
@@ -1104,65 +800,9 @@
 "c": ""
 },
 {
-"k": "org:barnet-delaney-perkins-eye-center",
-"t": "company",
-"n": "Barnet Delaney Perkins Eye Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:colorado-retina-associates",
 "t": "company",
 "n": "Colorado Retina Associates",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:rand-eye-institute",
-"t": "academic",
-"n": "Rand Eye Institute",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-group-of-florida",
-"t": "company",
-"n": "Retina Group of Florida",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-vitreous-consultants-llp-dba-retina-group-of-florida",
-"t": "company",
-"n": "Retina Vitreous Consultants, LLP DBA Retina Group of Florida",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:vitreo-retinal-associates",
-"t": "company",
-"n": "Vitreo Retinal Associates",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:florida-eye-associates",
-"t": "company",
-"n": "Florida Eye Associates",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retinal-specialty-institute",
-"t": "academic",
-"n": "Retinal Specialty Institute",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -1192,70 +832,6 @@
 "c": ""
 },
 {
-"k": "org:peking-university-people-s-hospital",
-"t": "hospital",
-"n": "Peking University People's Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:the-second-hospital-of-jilin-university",
-"t": "hospital",
-"n": "The Second Hospital of Jilin University",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:southwest-hospital-army-medical-university-southwest-hospita",
-"t": "hospital",
-"n": "Southwest Hospital, Army Medical University（Southwest Hospital）",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:shantou-international-eye-center-of-shantou-university-and-t",
-"t": "academic",
-"n": "Shantou International Eye Center of Shantou University and The Chinese University of Hong ",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:the-second-affiliated-hospital-of-harbin-medical-university",
-"t": "hospital",
-"n": "The Second Affiliated Hospital of Harbin Medical University",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:henan-provincial-people-s-hospital",
-"t": "hospital",
-"n": "Henan Provincial People's Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:general-hospital-of-central-theater-command-chinese-people-s",
-"t": "hospital",
-"n": "General Hospital of Central Theater Command, Chinese People's Liberation Army",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:jiangsu-provincial-people-s-hospital-the-first-affiliated-ho",
-"t": "hospital",
-"n": "Jiangsu Provincial People's Hospital, The First Affiliated Hospital of Nanjing Medical Uni",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
 "k": "drug:jwk001",
 "t": "drug",
 "n": "JWK001",
@@ -1272,14 +848,6 @@
 "c": ""
 },
 {
-"k": "org:associated-retina-consultants-gilbert",
-"t": "company",
-"n": "Associated Retina Consultants - Gilbert",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:northern-california-retina-vitreous-associates-medical-group",
 "t": "company",
 "n": "Northern California Retina Vitreous Associates Medical Group, Inc.",
@@ -1288,49 +856,9 @@
 "c": "United States"
 },
 {
-"k": "org:orange-county-retina-medical-group",
-"t": "company",
-"n": "Orange County Retina Medical Group",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:retina-consultants-of-southern-colorado",
 "t": "company",
 "n": "Retina Consultants of Southern Colorado",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:rsc-research",
-"t": "company",
-"n": "RSC Research LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:connecticut-eye-consultants-p-c",
-"t": "company",
-"n": "Connecticut Eye Consultants, P.C.",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-consultants-p-c",
-"t": "company",
-"n": "Retina Consultants, P.C.",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-group-of-new-england",
-"t": "company",
-"n": "Retina Group of New England",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -1350,62 +878,6 @@
 "sub": "",
 "url": "",
 "c": ""
-},
-{
-"k": "org:the-first-affiliated-hospital-of-university-of-science-and-t",
-"t": "hospital",
-"n": "The First Affiliated Hospital of University of Science and Technology of China",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:beijing-aier-intech-eye-hospital",
-"t": "hospital",
-"n": "Beijing Aier-Intech Eye Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:the-second-affiliated-hospital-of-chongqing-medical-universi",
-"t": "hospital",
-"n": "The Second Affiliated Hospital of Chongqing Medical University",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:southwest-hospital",
-"t": "hospital",
-"n": "Southwest Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:the-first-affiliated-hospital-of-jinan-university",
-"t": "hospital",
-"n": "The First Affiliated Hospital of Jinan University",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:joint-shantou-international-eye-center-shantou-university-an",
-"t": "academic",
-"n": "Joint Shantou International Eye Center, Shantou University and the Chinese University of H",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:zhongshan-ophthalmic-center-sun-yat-sen-university",
-"t": "academic",
-"n": "Zhongshan Ophthalmic Center, Sun Yat-sen University",
-"sub": "",
-"url": "",
-"c": "China"
 },
 {
 "k": "org:hebei-eye-hospital",
@@ -1472,100 +944,12 @@
 "c": "United States"
 },
 {
-"k": "org:vitreoretinal-surgery-pllc",
-"t": "company",
-"n": "Vitreoretinal Surgery PLLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "trial:nct05407636",
 "t": "trial",
 "n": "Pivotal 2 Study of RGX-314 Gene Therapy in Participants With nAMD",
 "sub": "P3 · active_not_recruiting · 2022-2027",
 "url": "https://clinicaltrials.gov/study/NCT05407636",
 "c": ""
-},
-{
-"k": "org:barnet-dulaney-eye-center-phoenix-id-256340",
-"t": "company",
-"n": "Barnet Dulaney Eye Center-Phoenix /ID# 256340",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retinal-research-institute-id-256238",
-"t": "academic",
-"n": "Retinal Research Institute /ID# 256238",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-macula-institute-of-arizona-id-271026",
-"t": "academic",
-"n": "Retina Macula Institute of Arizona /ID# 271026",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:california-retina-consultants-bakersfield-id-256240",
-"t": "company",
-"n": "California Retina Consultants - Bakersfield /ID# 256240",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-vitreous-assoc-med-grp-id-256246",
-"t": "company",
-"n": "Retina Vitreous Assoc Med Grp /ID# 256246",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retinal-diagnostic-center-id-256262",
-"t": "company",
-"n": "Retinal Diagnostic Center /ID# 256262",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:the-retina-partners-encino-id-259660",
-"t": "company",
-"n": "The Retina Partners - Encino /ID# 259660",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-consultants-of-orange-county-id-256267",
-"t": "company",
-"n": "Retina Consultants of Orange County /ID# 256267",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:jacobs-retina-center-at-ucsd-id-256320",
-"t": "company",
-"n": "Jacobs Retina Center at UCSD/ID# 256320",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:california-retina-consultants-oxnard-north-ventura-road-id-2",
-"t": "company",
-"n": "California Retina Consultants - Oxnard - North Ventura Road /ID# 262883",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "drug:abbv-rgx-314",
@@ -1640,14 +1024,6 @@
 "c": ""
 },
 {
-"k": "org:kyung-hee-university-hospital",
-"t": "hospital",
-"n": "Kyung Hee University Hospital",
-"sub": "",
-"url": "",
-"c": "South Korea"
-},
-{
 "k": "drug:smz1",
 "t": "drug",
 "n": "SMZ1",
@@ -1678,38 +1054,6 @@
 "sub": "study director · Sam Chun Dang Pharm. Co. Ltd.",
 "url": "",
 "c": ""
-},
-{
-"k": "org:east-florida-eye-institute",
-"t": "academic",
-"n": "East Florida Eye Institute",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:center-for-retina-and-macular-disease",
-"t": "company",
-"n": "Center for Retina and Macular Disease",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-retina-macula-associates-p-c",
-"t": "academic",
-"n": "University Retina & Macula Associates, P.C",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-vitreous-surgeons-of-central-new-york-pc",
-"t": "company",
-"n": "Retina Vitreous Surgeons of Central New York, PC",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "drug:scd411",
@@ -1752,38 +1096,6 @@
 "c": ""
 },
 {
-"k": "org:kcrn-research",
-"t": "company",
-"n": "KCRN Research, LLC",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:elman-retina-group",
-"t": "company",
-"n": "Elman Retina Group",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:duke-eye-center",
-"t": "company",
-"n": "Duke Eye Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:texas-retina-associates",
-"t": "company",
-"n": "Texas Retina Associates",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "drug:nt-101-low",
 "t": "drug",
 "n": "NT-101 Low",
@@ -1816,14 +1128,6 @@
 "c": ""
 },
 {
-"k": "org:national-university-hospital-singapore",
-"t": "hospital",
-"n": "National University Hospital, Singapore",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "person:qi-zeng",
 "t": "person",
 "n": "Qi Zeng",
@@ -1832,50 +1136,10 @@
 "c": ""
 },
 {
-"k": "org:nuhs-department-of-ophthalmology",
-"t": "company",
-"n": "NUHS Department of Ophthalmology",
-"sub": "",
-"url": "",
-"c": "Singapore"
-},
-{
 "k": "drug:prl3-zumab",
 "t": "drug",
 "n": "PRL3-ZUMAB",
 "sub": "Intra-IMMUSG Pte Ltd",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07557121",
-"t": "trial",
-"n": "Safety and Efficacy of AIV007 Periocular Injection in Patients With Neovascular Age-Relate",
-"sub": "P2 · not_yet_recruiting · 2026-2027",
-"url": "https://clinicaltrials.gov/study/NCT07557121",
-"c": ""
-},
-{
-"k": "org:aiviva-biopharma",
-"t": "company",
-"n": "AiViva BioPharma, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:clindatrix",
-"t": "company",
-"n": "ClinDatrix, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:aiv007",
-"t": "drug",
-"n": "AIV007",
-"sub": "AiViva BioPharma, Inc.",
 "url": "",
 "c": ""
 },
@@ -1912,22 +1176,6 @@
 "c": "United States"
 },
 {
-"k": "org:retina-associates-sw",
-"t": "company",
-"n": "Retina Associates SW",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:global-research-management-lugene-eye-institute",
-"t": "academic",
-"n": "Global Research Management, Inc. - Lugene Eye Institute",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:california-eye-specialists-medical-group",
 "t": "company",
 "n": "California Eye Specialists Medical Group, Inc.",
@@ -1952,91 +1200,35 @@
 "c": ""
 },
 {
+"k": "trial:nct07557121",
+"t": "trial",
+"n": "Safety and Efficacy of AIV007 Periocular Injection in Patients With Neovascular Age-Relate",
+"sub": "P2 · not_yet_recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07557121",
+"c": ""
+},
+{
+"k": "org:aiviva-biopharma",
+"t": "company",
+"n": "AiViva BioPharma, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:aiv007",
+"t": "drug",
+"n": "AIV007",
+"sub": "AiViva BioPharma, Inc.",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct04704921",
 "t": "trial",
 "n": "Pivotal 1 Study of ABBV-RGX-314 (Also Known as RGX-314) Gene Therapy Administered Via Subr",
 "sub": "P2/P3 · active_not_recruiting · 2020-2027",
 "url": "https://clinicaltrials.gov/study/NCT04704921",
-"c": ""
-},
-{
-"k": "org:retinal-research-institute-id-256019",
-"t": "academic",
-"n": "Retinal Research Institute /ID# 256019",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:barnet-dulaney-perkins-eye-center-sun-city-id-256055",
-"t": "company",
-"n": "Barnet Dulaney Perkins Eye Center - Sun City /ID# 256055",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-arkansas-for-medical-sciences-id-271290",
-"t": "academic",
-"n": "University of Arkansas for Medical Sciences /ID# 271290",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-vitreous-assoc-med-grp-id-256299",
-"t": "company",
-"n": "Retina Vitreous Assoc Med Grp /ID# 256299",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retinal-diagnostic-center-id-256137",
-"t": "company",
-"n": "Retinal Diagnostic Center /ID# 256137",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:the-retina-partners-encino-id-256054",
-"t": "company",
-"n": "The Retina Partners - Encino /ID# 256054",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-consultants-of-orange-county-id-256152",
-"t": "company",
-"n": "Retina Consultants of Orange County /ID# 256152",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:salehi-retina-institute-id-263485",
-"t": "academic",
-"n": "Salehi Retina Institute /ID# 263485",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:uc-irvine-gavin-herbert-eye-institute-id-256145",
-"t": "academic",
-"n": "UC Irvine/Gavin Herbert Eye Institute /ID# 256145",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "trial:nct07550504",
-"t": "trial",
-"n": "A Study to Evaluate the Usability of the SB11 PFS in Trial Participants With Wet AMD, Macu",
-"sub": "P2 · completed · 2026-2026",
-"url": "https://clinicaltrials.gov/study/NCT07550504",
 "c": ""
 },
 {
@@ -2054,46 +1246,6 @@
 "sub": "P3 · active_not_recruiting · 2021-2027",
 "url": "https://clinicaltrials.gov/study/NCT05112861",
 "c": ""
-},
-{
-"k": "trial:nct07520318",
-"t": "trial",
-"n": "This is a 96-week, Multicenter Study in Patients With Neovascular AMD That Evaluates OCUL1",
-"sub": "P2/P3 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07520318",
-"c": ""
-},
-{
-"k": "org:shenzhen-oculgen-biomedical-technology",
-"t": "company",
-"n": "Shenzhen Oculgen Biomedical Technology Co., Ltd.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:bispecific-anti-vegf-and-anti-complement",
-"t": "drug",
-"n": "bispecific anti-VEGF and anti-complement",
-"sub": "Shenzhen Oculgen Biomedical Technology Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07897630",
-"t": "trial",
-"n": "Suprachoroidal Bevacizumab Versus Intravitreal Bevacizumab in Diabetic Macular Edema",
-"sub": "P3 · enrolling_by_invitation · 2026-2027",
-"url": "https://clinicaltrials.gov/study/NCT07897630",
-"c": ""
-},
-{
-"k": "org:khyber-teaching-hospital",
-"t": "hospital",
-"n": "Khyber Teaching Hospital",
-"sub": "",
-"url": "",
-"c": "Pakistan"
 },
 {
 "k": "trial:nct07812090",
@@ -2128,6 +1280,22 @@
 "c": ""
 },
 {
+"k": "trial:nct07897630",
+"t": "trial",
+"n": "Suprachoroidal Bevacizumab Versus Intravitreal Bevacizumab in Diabetic Macular Edema",
+"sub": "P3 · enrolling_by_invitation · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07897630",
+"c": ""
+},
+{
+"k": "org:khyber-teaching-hospital",
+"t": "hospital",
+"n": "Khyber Teaching Hospital",
+"sub": "",
+"url": "",
+"c": "Pakistan"
+},
+{
 "k": "trial:nct06845163",
 "t": "trial",
 "n": "Randomized Clinical Trial to Evaluate the Effect of Dapagliflozin in Patients With Diabeti",
@@ -2144,28 +1312,12 @@
 "c": ""
 },
 {
-"k": "org:clinical-researcher-and-phd-student-at-the-faculty-of-pharma",
-"t": "hospital",
-"n": "Clinical researcher and PhD student at the Faculty of Pharmacy, Alexandria University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "person:amira-a-nayel",
 "t": "person",
 "n": "Amira A. Nayel",
 "sub": "principal investigator · Clinical researcher and PhD student at the Faculty of Pharmacy, A",
 "url": "",
 "c": ""
-},
-{
-"k": "org:alexandria-main-university-hospital-the-ophthalmology-depart",
-"t": "hospital",
-"n": "Alexandria Main University Hospital, The Ophthalmology Department, Faculty of Medicine, Al",
-"sub": "",
-"url": "",
-"c": "Egypt"
 },
 {
 "k": "drug:dapagliflozin",
@@ -2184,11 +1336,11 @@
 "c": ""
 },
 {
-"k": "trial:nct07705555",
+"k": "trial:nct07705607",
 "t": "trial",
 "n": "A Clinical Trial of MK-8748 Compared to Aflibercept in Participants With Diabetic Macular ",
 "sub": "P3 · recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07705555",
+"url": "https://clinicaltrials.gov/study/NCT07705607",
 "c": ""
 },
 {
@@ -2197,6 +1349,14 @@
 "n": "MK-8748",
 "sub": "Merck Sharp & Dohme LLC",
 "url": "",
+"c": ""
+},
+{
+"k": "trial:nct07705555",
+"t": "trial",
+"n": "A Clinical Trial of MK-8748 Compared to Aflibercept in Participants With Diabetic Macular ",
+"sub": "P3 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07705555",
 "c": ""
 },
 {
@@ -2224,156 +1384,12 @@
 "c": ""
 },
 {
-"k": "trial:nct07705607",
-"t": "trial",
-"n": "A Clinical Trial of MK-8748 Compared to Aflibercept in Participants With Diabetic Macular ",
-"sub": "P3 · recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07705607",
-"c": ""
-},
-{
-"k": "trial:nct06962839",
-"t": "trial",
-"n": "A Study to Test Whether BI 1815368 Helps People With an Eye Condition Called Diabetic Macu",
-"sub": "P2 · recruiting · 2025-2028",
-"url": "https://clinicaltrials.gov/study/NCT06962839",
-"c": ""
-},
-{
-"k": "org:boehringer-ingelheim",
-"t": "company",
-"n": "Boehringer Ingelheim",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:arizona-retina-vitreous-research-central-phoenix",
-"t": "company",
-"n": "Arizona Retina & Vitreous Research, Central Phoenix",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:eye-research-foundation",
-"t": "foundation",
-"n": "Eye Research Foundation",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:doheny-eye-center-ucla-arcadia",
-"t": "company",
-"n": "Doheny Eye Center UCLA Arcadia",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:connecticut-eye-consultants-pc",
-"t": "company",
-"n": "Connecticut Eye Consultants, PC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:bi-1815368",
-"t": "drug",
-"n": "BI 1815368",
-"sub": "Boehringer Ingelheim",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07592273",
 "t": "trial",
 "n": "Surabgene Lomparvovec Administered in the Suprachoroidal Space in Adult Participants With ",
 "sub": "P2/P3 · recruiting · 2026-2036",
 "url": "https://clinicaltrials.gov/study/NCT07592273",
 "c": ""
-},
-{
-"k": "org:barnet-dulaney-perkins-eye-center-mesa-id-283000",
-"t": "company",
-"n": "Barnet Dulaney Perkins Eye Center - Mesa /ID# 283000",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retinal-consultants-of-arizona-phoenix-north-id-283407",
-"t": "company",
-"n": "Retinal Consultants Of Arizona - Phoenix - North /ID# 283407",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-macula-institute-of-arizona-id-282881",
-"t": "academic",
-"n": "Retina Macula Institute of Arizona /ID# 282881",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:california-retina-consultants-bakersfield-id-282990",
-"t": "company",
-"n": "California Retina Consultants - Bakersfield /ID# 282990",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-vitreous-associates-medical-group-beverly-hills-id-28",
-"t": "company",
-"n": "Retina-Vitreous Associates Medical Group - Beverly Hills /ID# 282995",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retinal-diagnostic-center-id-275055",
-"t": "company",
-"n": "Retinal Diagnostic Center /ID# 275055",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:the-retina-partners-id-274741",
-"t": "company",
-"n": "The Retina Partners /ID# 274741",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:northern-california-retina-vitreous-associates-id-282994",
-"t": "company",
-"n": "Northern California Retina Vitreous Associates /ID# 282994",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:california-eye-specialists-medical-group-id-274705",
-"t": "company",
-"n": "California Eye Specialists Medical Group /ID# 274705",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-consultants-san-diego-id-274748",
-"t": "company",
-"n": "Retina Consultants San Diego /ID# 274748",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "drug:surabgene-lomparvovec",
@@ -2408,6 +1424,30 @@
 "c": ""
 },
 {
+"k": "trial:nct06962839",
+"t": "trial",
+"n": "A Study to Test Whether BI 1815368 Helps People With an Eye Condition Called Diabetic Macu",
+"sub": "P2 · recruiting · 2025-2028",
+"url": "https://clinicaltrials.gov/study/NCT06962839",
+"c": ""
+},
+{
+"k": "org:boehringer-ingelheim",
+"t": "company",
+"n": "Boehringer Ingelheim",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:bi-1815368",
+"t": "drug",
+"n": "BI 1815368",
+"sub": "Boehringer Ingelheim",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct06957080",
 "t": "trial",
 "n": "A Study of 2 Doses of Remigromig (EYE103) Compared With Ranibizumab (0.5 mg) in Participan",
@@ -2424,49 +1464,9 @@
 "c": ""
 },
 {
-"k": "org:gilbert-arizona",
-"t": "company",
-"n": "Gilbert, Arizona",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:phoenix-arizona",
-"t": "company",
-"n": "Phoenix, Arizona",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:scottsdale-az",
-"t": "company",
-"n": "Scottsdale, AZ",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:fayetteville-ar",
-"t": "company",
-"n": "Fayetteville, AR",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:bakersfield-ca",
 "t": "company",
 "n": "Bakersfield, CA",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:encino-california",
-"t": "company",
-"n": "Encino, California",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -2512,28 +1512,36 @@
 "c": ""
 },
 {
-"k": "org:seoul-national-university-bundang-hospital",
-"t": "hospital",
-"n": "Seoul National University Bundang Hospital",
-"sub": "",
-"url": "",
-"c": "South Korea"
+"k": "trial:nct06116916",
+"t": "trial",
+"n": "Study to Assess the Efficacy & Safety of KHK4951 in Patients With Diabetic Macular Edema",
+"sub": "P2 · active_not_recruiting · 2024-2026",
+"url": "https://clinicaltrials.gov/study/NCT06116916",
+"c": ""
 },
 {
-"k": "org:kim-s-eye-hospital",
-"t": "hospital",
-"n": "Kim's Eye Hospital",
+"k": "org:kyowa-kirin",
+"t": "company",
+"n": "Kyowa Kirin Co., Ltd.",
 "sub": "",
 "url": "",
-"c": "South Korea"
+"c": ""
 },
 {
-"k": "org:nune-eye-hospital",
-"t": "hospital",
-"n": "Nune Eye Hospital",
-"sub": "",
+"k": "person:sotaro-takigawa",
+"t": "person",
+"n": "Sotaro Takigawa",
+"sub": "study director · Kyowa Kirin Co., Ltd.",
 "url": "",
-"c": "South Korea"
+"c": ""
+},
+{
+"k": "drug:khk4951",
+"t": "drug",
+"n": "KHK4951",
+"sub": "Kyowa Kirin Co., Ltd.",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct06571045",
@@ -2542,38 +1550,6 @@
 "sub": "P2/P3 · active_not_recruiting · 2024-2027",
 "url": "https://clinicaltrials.gov/study/NCT06571045",
 "c": ""
-},
-{
-"k": "org:scottsdale",
-"t": "company",
-"n": "Scottsdale",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:fayetteville-arkansas",
-"t": "company",
-"n": "Fayetteville, Arkansas",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:springdale-arkansas",
-"t": "company",
-"n": "Springdale, Arkansas",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:glendale-ca",
-"t": "company",
-"n": "Glendale, CA",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "trial:nct05217680",
@@ -2592,14 +1568,6 @@
 "c": ""
 },
 {
-"k": "org:salauno-salud-s-a-p-i-de-c-v",
-"t": "company",
-"n": "SalaUno Salud, S.A.P.I. de C.V.",
-"sub": "",
-"url": "",
-"c": "Mexico"
-},
-{
 "k": "drug:lucentis",
 "t": "drug",
 "n": "Lucentis",
@@ -2616,25 +1584,9 @@
 "c": ""
 },
 {
-"k": "org:california-retina-consultants-oxnard-70187",
-"t": "company",
-"n": "California Retina Consultants-Oxnard-70187",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:bay-area-retina-associates-walnut-creek",
 "t": "company",
 "n": "Bay Area Retina Associates - Walnut Creek",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-group-of-new-england-pc",
-"t": "company",
-"n": "Retina Group of New England, PC",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -2664,108 +1616,12 @@
 "c": ""
 },
 {
-"k": "trial:nct06116916",
-"t": "trial",
-"n": "Study to Assess the Efficacy & Safety of KHK4951 in Patients With Diabetic Macular Edema",
-"sub": "P2 · active_not_recruiting · 2024-2026",
-"url": "https://clinicaltrials.gov/study/NCT06116916",
-"c": ""
-},
-{
-"k": "org:kyowa-kirin",
-"t": "company",
-"n": "Kyowa Kirin Co., Ltd.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:sotaro-takigawa",
-"t": "person",
-"n": "Sotaro Takigawa",
-"sub": "study director · Kyowa Kirin Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "org:barnet-dulaney-perkins-eye-center-phoenix",
-"t": "company",
-"n": "Barnet Dulaney Perkins Eye Center - Phoenix",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-associates-southwest-p-c",
-"t": "company",
-"n": "Retina Associates Southwest, P.C.",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-consultants-of-southern",
-"t": "company",
-"n": "Retina Consultants of Southern CO",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:blue-ocean-clinical-research-west",
-"t": "hospital",
-"n": "Blue Ocean Clinical Research West",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:khk4951",
-"t": "drug",
-"n": "KHK4951",
-"sub": "Kyowa Kirin Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07867080",
 "t": "trial",
 "n": "A Phase 3 Trial for Intravitreal Injection of 4D-150 in Adults With Diabetic Macular Edema",
 "sub": "P3 · recruiting · 2026-2030",
 "url": "https://clinicaltrials.gov/study/NCT07867080",
 "c": ""
-},
-{
-"k": "org:retina-institute-of-new-england",
-"t": "academic",
-"n": "Retina Institute of New England",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-specialists-of-colorado-aurora",
-"t": "company",
-"n": "Retina Specialists of Colorado - Aurora",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-consultants-of-southern-colorado-p-c",
-"t": "company",
-"n": "Retina Consultants of Southern Colorado P.C.",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:southwest-retina-consultants",
-"t": "company",
-"n": "Southwest Retina Consultants",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "drug:eyelea",
@@ -2840,38 +1696,6 @@
 "c": ""
 },
 {
-"k": "org:retinal-consultants-of-arizona-opthalmology",
-"t": "company",
-"n": "Retinal Consultants of Arizona;Opthalmology",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:arizona-retina-and-vitreous-consultants",
-"t": "company",
-"n": "Arizona Retina and Vitreous Consultants",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-consultants-of-orange-county-clinical-research",
-"t": "hospital",
-"n": "Retina Consultants of Orange County;Clinical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:jules-stein-eye-institute-ucla",
-"t": "academic",
-"n": "Jules Stein Eye Institute/ UCLA",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "drug:pds-implant-pre-filled-with",
 "t": "drug",
 "n": "PDS Implant Pre-Filled with",
@@ -2912,70 +1736,6 @@
 "c": ""
 },
 {
-"k": "org:shijiazhuang-people-s-hospital",
-"t": "hospital",
-"n": "Shijiazhuang People's Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:zhengzhou-second-hospital",
-"t": "hospital",
-"n": "Zhengzhou Second Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:affiliated-hospital-of-shandong-second-medical-university",
-"t": "hospital",
-"n": "Affiliated Hospital of Shandong Second Medical University",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:shanghai-eye-disease-prevention-and-treatment-center",
-"t": "company",
-"n": "Shanghai Eye Disease Prevention and Treatment Center",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:shanxi-eye-hospital",
-"t": "hospital",
-"n": "Shanxi Eye Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:xian-no-1-hospital",
-"t": "hospital",
-"n": "Xian No.1 Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:hospital-of-chengdu-university-of-tcm",
-"t": "hospital",
-"n": "Hospital of Chengdu University of TCM",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:tianjin-medical-university-eye-hospital",
-"t": "hospital",
-"n": "Tianjin Medical University Eye Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
 "k": "drug:enn0403-low",
 "t": "drug",
 "n": "ENN0403, low",
@@ -2990,62 +1750,6 @@
 "sub": "EnnovaBio",
 "url": "",
 "c": ""
-},
-{
-"k": "trial:nct07449923",
-"t": "trial",
-"n": "CAPRI: A Phase 3 Randomized, Double-Masked Study Comparing the Efficacy of EYP-1901 Agains",
-"sub": "P3 · active_not_recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07449923",
-"c": ""
-},
-{
-"k": "org:phoenix-retina-clinical-trials-north-phoenix",
-"t": "hospital",
-"n": "Phoenix Retina Clinical Trials, LLC - North Phoenix",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:south-coast-retina-center",
-"t": "company",
-"n": "South Coast Retina Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retinal-consultants-medical-group-modesto",
-"t": "company",
-"n": "Retinal Consultants Medical Group - Modesto",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:kaiser-permanente",
-"t": "company",
-"n": "Kaiser Permanente",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "trial:nct07449936",
-"t": "trial",
-"n": "COMO: A Phase 3 Randomized, Double-Masked Study Comparing the Efficacy of EYP-1901 Against",
-"sub": "P3 · active_not_recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07449936",
-"c": ""
-},
-{
-"k": "org:retinal-consultants-medical-group-parkcenter-drive",
-"t": "company",
-"n": "Retinal Consultants Medical Group - Parkcenter Drive",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "trial:nct06599684",
@@ -3064,14 +1768,6 @@
 "c": ""
 },
 {
-"k": "org:biomedical-advanced-research-and-development-authority",
-"t": "funder",
-"n": "Biomedical Advanced Research and Development Authority",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "person:robert-shalwitz",
 "t": "person",
 "n": "Robert Shalwitz",
@@ -3080,19 +1776,35 @@
 "c": ""
 },
 {
-"k": "org:medtrials",
-"t": "company",
-"n": "MedTrials, Inc.",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "drug:inv-102",
 "t": "drug",
 "n": "INV-102",
 "sub": "Invirsa, Inc.",
 "url": "",
+"c": ""
+},
+{
+"k": "trial:nct07449923",
+"t": "trial",
+"n": "CAPRI: A Phase 3 Randomized, Double-Masked Study Comparing the Efficacy of EYP-1901 Agains",
+"sub": "P3 · active_not_recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07449923",
+"c": ""
+},
+{
+"k": "org:south-coast-retina-center",
+"t": "company",
+"n": "South Coast Retina Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct07449936",
+"t": "trial",
+"n": "COMO: A Phase 3 Randomized, Double-Masked Study Comparing the Efficacy of EYP-1901 Against",
+"sub": "P3 · active_not_recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07449936",
 "c": ""
 },
 {
@@ -3112,14 +1824,6 @@
 "c": "US"
 },
 {
-"k": "org:mass-eye-and-ear",
-"t": "company",
-"n": "Mass Eye and Ear",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "drug:lactobacillus-plantarum-299v",
 "t": "drug",
 "n": "Lactobacillus plantarum 299v",
@@ -3134,38 +1838,6 @@
 "sub": "P1/P2 · completed · 2023-2024",
 "url": "https://clinicaltrials.gov/study/NCT05919693",
 "c": ""
-},
-{
-"k": "org:phoenix-az",
-"t": "company",
-"n": "Phoenix, AZ",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:colorado-springs-colorado",
-"t": "company",
-"n": "Colorado Springs, Colorado",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:lakewood",
-"t": "company",
-"n": "Lakewood, CO",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:pompano-beach",
-"t": "company",
-"n": "Pompano Beach",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "org:lemont",
@@ -3304,14 +1976,6 @@
 "c": "United Kingdom"
 },
 {
-"k": "trial:nct07842016",
-"t": "trial",
-"n": "Phase 3 Study of Intravitreal OLN324 in Adults With Diabetic Macular Edema (DME) (OLN324-C",
-"sub": "P3 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07842016",
-"c": ""
-},
-{
 "k": "trial:nct07841899",
 "t": "trial",
 "n": "Phase 3 Study of Intravitreal OLN324 in Adults With Diabetic Macular Edema (DME) (OLN324-C",
@@ -3366,6 +2030,14 @@
 "sub": "",
 "url": "",
 "c": "Bangladesh"
+},
+{
+"k": "trial:nct07842016",
+"t": "trial",
+"n": "Phase 3 Study of Intravitreal OLN324 in Adults With Diabetic Macular Edema (DME) (OLN324-C",
+"sub": "P3 · not_yet_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07842016",
+"c": ""
 },
 {
 "k": "trial:nct06491914",
@@ -4051,7 +2723,7 @@
 "k": "paper:pmid-35005108",
 "t": "paper",
 "n": "Age-related macular degeneration: Epidemiology, genetics, pathophysiology, diagnosis, and ",
-"sub": "Genes & Diseases 2021 · cited 408",
+"sub": "Genes & Diseases 2021 · cited 409",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35005108",
 "c": ""
 },
@@ -5080,6 +3752,54 @@
 "c": "US"
 },
 {
+"k": "paper:pmid-32482069",
+"t": "paper",
+"n": "Ocular Disease Therapeutics: Design and Delivery of Drugs for Diseases of the Eye",
+"sub": "Journal of Medicinal Chemistry 2020 · cited 65",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32482069",
+"c": ""
+},
+{
+"k": "person:kueiju-cheng",
+"t": "person",
+"n": "Kuei‐Ju Cheng",
+"sub": "Taipei Medical University",
+"url": "https://orcid.org/0000-0003-1314-5834",
+"c": "TW"
+},
+{
+"k": "org:taipei-medical-university",
+"t": "academic",
+"n": "Taipei Medical University",
+"sub": "",
+"url": "",
+"c": "TW"
+},
+{
+"k": "person:kunal-nepali",
+"t": "person",
+"n": "Kunal Nepali",
+"sub": "Taipei Medical University",
+"url": "https://orcid.org/0000-0002-6443-7928",
+"c": "TW"
+},
+{
+"k": "person:jingping-liou",
+"t": "person",
+"n": "Jing‐Ping Liou",
+"sub": "Taipei Medical University",
+"url": "https://orcid.org/0000-0002-3775-6405",
+"c": "TW"
+},
+{
+"k": "org:ministry-of-science-and-technology-taiwan",
+"t": "funder",
+"n": "Ministry of Science and Technology, Taiwan",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-40507802",
 "t": "paper",
 "n": "VEGF in Diabetic Retinopathy and Age-Related Macular Degeneration",
@@ -5123,54 +3843,6 @@
 "k": "org:national-cancer-institute",
 "t": "funder",
 "n": "National Cancer Institute",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32482069",
-"t": "paper",
-"n": "Ocular Disease Therapeutics: Design and Delivery of Drugs for Diseases of the Eye",
-"sub": "Journal of Medicinal Chemistry 2020 · cited 64",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32482069",
-"c": ""
-},
-{
-"k": "person:kueiju-cheng",
-"t": "person",
-"n": "Kuei‐Ju Cheng",
-"sub": "Taipei Medical University",
-"url": "https://orcid.org/0000-0003-1314-5834",
-"c": "TW"
-},
-{
-"k": "org:taipei-medical-university",
-"t": "academic",
-"n": "Taipei Medical University",
-"sub": "",
-"url": "",
-"c": "TW"
-},
-{
-"k": "person:kunal-nepali",
-"t": "person",
-"n": "Kunal Nepali",
-"sub": "Taipei Medical University",
-"url": "https://orcid.org/0000-0002-6443-7928",
-"c": "TW"
-},
-{
-"k": "person:jingping-liou",
-"t": "person",
-"n": "Jing‐Ping Liou",
-"sub": "Taipei Medical University",
-"url": "https://orcid.org/0000-0002-3775-6405",
-"c": "TW"
-},
-{
-"k": "org:ministry-of-science-and-technology-taiwan",
-"t": "funder",
-"n": "Ministry of Science and Technology, Taiwan",
 "sub": "",
 "url": "",
 "c": ""
@@ -5515,7 +4187,7 @@
 "k": "paper:pmid-33330470",
 "t": "paper",
 "n": "Not All Stressors Are Equal: Mechanism of Stressors on RPE Cell Degeneration",
-"sub": "Frontiers in Cell and Developmental Biology 2020 · cited 56",
+"sub": "Frontiers in Cell and Developmental Biology 2020 · cited 57",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33330470",
 "c": ""
 },
@@ -5563,7 +4235,7 @@
 "k": "paper:pmid-33670014",
 "t": "paper",
 "n": "Nanoparticle-Hydrogel Composite Drug Delivery System for Potential Ocular Applications",
-"sub": "Polymers 2021 · cited 55",
+"sub": "Polymers 2021 · cited 56",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33670014",
 "c": ""
 },
@@ -5603,6 +4275,1334 @@
 "k": "org:ministry-of-science-and-technology",
 "t": "funder",
 "n": "Ministry of Science and Technology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33940045",
+"t": "paper",
+"n": "Global Prevalence of Diabetic Retinopathy and Projection of Burden through 2045",
+"sub": "Ophthalmology 2021 · cited 2410",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33940045",
+"c": ""
+},
+{
+"k": "person:zhen-ling-teo",
+"t": "person",
+"n": "Zhen Ling Teo",
+"sub": "Singapore National Eye Center",
+"url": "https://orcid.org/0000-0003-3443-8601",
+"c": "SG"
+},
+{
+"k": "org:singapore-national-eye-center",
+"t": "hospital",
+"n": "Singapore National Eye Center",
+"sub": "",
+"url": "",
+"c": "SG"
+},
+{
+"k": "org:singapore-eye-research-institute",
+"t": "academic",
+"n": "Singapore Eye Research Institute",
+"sub": "",
+"url": "",
+"c": "SG"
+},
+{
+"k": "person:chingyu-cheng",
+"t": "person",
+"n": "Ching‐Yu Cheng",
+"sub": "National University of Singapore",
+"url": "https://orcid.org/0000-0003-0655-885X",
+"c": "SG"
+},
+{
+"k": "org:national-university-of-singapore",
+"t": "academic",
+"n": "National University of Singapore",
+"sub": "",
+"url": "",
+"c": "SG"
+},
+{
+"k": "paper:pmid-33316144",
+"t": "paper",
+"n": "Update in the epidemiology, risk factors, screening, and treatment of diabetic retinopathy",
+"sub": "Journal of Diabetes Investigation 2020 · cited 444",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33316144",
+"c": ""
+},
+{
+"k": "person:kuanyu-lin",
+"t": "person",
+"n": "Kuan‐Yu Lin",
+"sub": "National Taiwan University Hospital",
+"url": "https://orcid.org/0000-0001-8824-7099",
+"c": "TW"
+},
+{
+"k": "person:tienjyun-chang",
+"t": "person",
+"n": "Tien‐Jyun Chang",
+"sub": "National Taiwan University Hospital",
+"url": "https://orcid.org/0000-0001-9437-5847",
+"c": "TW"
+},
+{
+"k": "paper:pmid-33240272",
+"t": "paper",
+"n": "The Role of Inflammation in Diabetic Retinopathy",
+"sub": "Frontiers in Immunology 2020 · cited 441",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33240272",
+"c": ""
+},
+{
+"k": "person:john-v-forrester",
+"t": "person",
+"n": "John V. Forrester",
+"sub": "University of Aberdeen",
+"url": "https://orcid.org/0000-0003-3531-5945",
+"c": "GB"
+},
+{
+"k": "org:university-of-aberdeen",
+"t": "academic",
+"n": "University of Aberdeen",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:mirela-delibegovic",
+"t": "person",
+"n": "Mirela Delibegović",
+"sub": "University of Aberdeen",
+"url": "https://orcid.org/0000-0001-6193-3152",
+"c": "GB"
+},
+{
+"k": "paper:doi-10-1109-access-2020-2993937",
+"t": "paper",
+"n": "Diabetic Retinopathy Detection Using Prognosis of Microaneurysm and Early Diagnosis System",
+"sub": "IEEE Access 2020 · cited 305",
+"url": "https://doi.org/10.1109/access.2020.2993937",
+"c": ""
+},
+{
+"k": "person:lifeng-qiao",
+"t": "person",
+"n": "Lifeng Qiao",
+"sub": "Sichuan Academy of Medical Sciences & Sichuan Provincial People's Hospital",
+"url": "https://orcid.org/0000-0003-1023-5009",
+"c": "CN"
+},
+{
+"k": "person:hui-zhou",
+"t": "person",
+"n": "Hui Zhou",
+"sub": "Sichuan Academy of Medical Sciences & Sichuan Provincial People's Hospital",
+"url": "https://orcid.org/0000-0002-2537-3060",
+"c": "CN"
+},
+{
+"k": "paper:pmid-36359761",
+"t": "paper",
+"n": "Diabetic Macular Edema: Current Understanding, Molecular Mechanisms and Therapeutic Implic",
+"sub": "Cells 2022 · cited 300",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36359761",
+"c": ""
+},
+{
+"k": "person:jingfa-zhang",
+"t": "person",
+"n": "Jingfa Zhang",
+"sub": "Shanghai Jiao Tong University",
+"url": "https://orcid.org/0000-0003-0601-4342",
+"c": "CN"
+},
+{
+"k": "org:shanghai-eye-disease-prevention-treatment-center",
+"t": "hospital",
+"n": "Shanghai Eye Disease Prevention & Treatment Center",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:qinghua-qiu",
+"t": "person",
+"n": "Qinghua Qiu",
+"sub": "Shanghai Jiao Tong University",
+"url": "https://orcid.org/0000-0002-8383-892X",
+"c": "CN"
+},
+{
+"k": "paper:pmid-37318810",
+"t": "paper",
+"n": "Prevalence of Diabetic Retinopathy in the US in 2021",
+"sub": "JAMA Ophthalmology 2023 · cited 289",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37318810",
+"c": ""
+},
+{
+"k": "person:elizabeth-a-lundeen",
+"t": "person",
+"n": "Elizabeth A. Lundeen",
+"sub": "Centers for Disease Control and Prevention",
+"url": "https://orcid.org/0000-0002-4249-8455",
+"c": "US"
+},
+{
+"k": "org:centers-for-disease-control-and-prevention",
+"t": "funder",
+"n": "Centers for Disease Control and Prevention",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:abraham-d-flaxman",
+"t": "person",
+"n": "Abraham D. Flaxman",
+"sub": "University of Washington",
+"url": "https://orcid.org/0000-0001-6033-4713",
+"c": "US"
+},
+{
+"k": "org:university-of-washington",
+"t": "academic",
+"n": "University of Washington",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:institute-for-health-metrics-and-evaluation",
+"t": "academic",
+"n": "Institute for Health Metrics and Evaluation",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:national-center-for-chronic-disease-prevention-and-health-pr",
+"t": "funder",
+"n": "National Center for Chronic Disease Prevention and Health Promotion",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36254977",
+"t": "paper",
+"n": "Inflammation in diabetic retinopathy: possible roles in pathogenesis and potential implica",
+"sub": "Neural Regeneration Research 2022 · cited 283",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36254977",
+"c": ""
+},
+{
+"k": "person:guo-tong-xu",
+"t": "person",
+"n": "Guo-Tong Xu",
+"sub": "Tongji University",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:tongji-university",
+"t": "academic",
+"n": "Tongji University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:lei-tang",
+"t": "person",
+"n": "Lei Tang",
+"sub": "Tongji University",
+"url": "https://orcid.org/0009-0003-8066-9811",
+"c": "CN"
+},
+{
+"k": "paper:pmid-32121432",
+"t": "paper",
+"n": "Somatostatin Analogs in Clinical Practice: A Review",
+"sub": "International Journal of Molecular Sciences 2020 · cited 265",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32121432",
+"c": ""
+},
+{
+"k": "person:mariana-gomes-porras",
+"t": "person",
+"n": "Mariana Gomes-Porras",
+"sub": "Hospital Universitario La Paz",
+"url": "",
+"c": "ES"
+},
+{
+"k": "org:hospital-universitario-la-paz",
+"t": "hospital",
+"n": "Hospital Universitario La Paz",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "person:cristina-alvarezescola",
+"t": "person",
+"n": "Cristina Álvarez‐Escolá",
+"sub": "Hospital Universitario La Paz",
+"url": "https://orcid.org/0000-0002-4684-1652",
+"c": "ES"
+},
+{
+"k": "org:pfizer",
+"t": "funder",
+"n": "Pfizer",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:ipsen",
+"t": "funder",
+"n": "Ipsen",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32879755",
+"t": "paper",
+"n": "Current Challenges and Barriers to Real-World Artificial Intelligence Adoption for the Hea",
+"sub": "Translational Vision Science & Technology 2020 · cited 259",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32879755",
+"c": ""
+},
+{
+"k": "person:rishi-p-singh",
+"t": "person",
+"n": "Rishi P. Singh",
+"sub": "Cleveland Clinic",
+"url": "https://orcid.org/0000-0001-5859-8162",
+"c": "US"
+},
+{
+"k": "org:eunice-kennedy-shriver-national-institute-of-child-health-an",
+"t": "funder",
+"n": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32184554",
+"t": "paper",
+"n": "The Evolving Treatment of Diabetic Retinopathy",
+"sub": "Clinical ophthalmology 2020 · cited 240",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32184554",
+"c": ""
+},
+{
+"k": "person:sam-e-mansour",
+"t": "person",
+"n": "Sam E. Mansour",
+"sub": "George Washington University",
+"url": "https://orcid.org/0000-0002-0345-0467",
+"c": "US"
+},
+{
+"k": "org:george-washington-university",
+"t": "academic",
+"n": "George Washington University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:abdhish-r-bhavsar",
+"t": "person",
+"n": "Abdhish R. Bhavsar",
+"sub": "The Retina Center",
+"url": "https://orcid.org/0000-0002-3316-7152",
+"c": "US"
+},
+{
+"k": "org:the-retina-center",
+"t": "hospital",
+"n": "The Retina Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-33576772",
+"t": "paper",
+"n": "A Global Assessment of Eye Health and Quality of Life",
+"sub": "JAMA Ophthalmology 2021 · cited 235",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33576772",
+"c": ""
+},
+{
+"k": "person:lama-assi",
+"t": "person",
+"n": "Lama Assi",
+"sub": "Johns Hopkins University",
+"url": "https://orcid.org/0000-0001-5855-3896",
+"c": "US"
+},
+{
+"k": "org:johns-hopkins-medicine",
+"t": "hospital",
+"n": "Johns Hopkins Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:bonnielin-k-swenor",
+"t": "person",
+"n": "Bonnielin K. Swenor",
+"sub": "Johns Hopkins University",
+"url": "https://orcid.org/0000-0002-6044-0951",
+"c": "US"
+},
+{
+"k": "org:wellcome-trust",
+"t": "funder",
+"n": "Wellcome Trust",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institute-on-aging",
+"t": "funder",
+"n": "National Institute on Aging",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32750417",
+"t": "paper",
+"n": "Regulation of blood-retinal barrier cell-junctions in diabetic retinopathy",
+"sub": "Pharmacological Research 2020 · cited 217",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32750417",
+"c": ""
+},
+{
+"k": "person:madhuri-rudraraju",
+"t": "person",
+"n": "Madhuri Rudraraju",
+"sub": "University of Georgia",
+"url": "https://orcid.org/0000-0002-6478-5666",
+"c": "US"
+},
+{
+"k": "org:university-of-georgia",
+"t": "academic",
+"n": "University of Georgia",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:augusta-university",
+"t": "academic",
+"n": "Augusta University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:payaningal-r-somanath",
+"t": "person",
+"n": "Payaningal R. Somanath",
+"sub": "University of Georgia",
+"url": "https://orcid.org/0000-0003-3017-0230",
+"c": "US"
+},
+{
+"k": "org:national-heart-and-lung-institute",
+"t": "funder",
+"n": "National Heart and Lung Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-center-for-advancing-translational-sciences",
+"t": "funder",
+"n": "National Center for Advancing Translational Sciences",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32402554",
+"t": "paper",
+"n": "Five-Year Outcomes after Initial Aflibercept, Bevacizumab, or Ranibizumab Treatment for Di",
+"sub": "Ophthalmology 2020 · cited 200",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32402554",
+"c": ""
+},
+{
+"k": "person:adam-r-glassman",
+"t": "person",
+"n": "Adam R. Glassman",
+"sub": "Jaeb Center for Health Research",
+"url": "https://orcid.org/0000-0003-0173-1684",
+"c": "US"
+},
+{
+"k": "org:jaeb-center-for-health-research",
+"t": "foundation",
+"n": "Jaeb Center for Health Research",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:jennifer-k-sun",
+"t": "person",
+"n": "Jennifer K. Sun",
+"sub": "Joslin Diabetes Center",
+"url": "https://orcid.org/0000-0003-0915-6303",
+"c": "US"
+},
+{
+"k": "org:joslin-diabetes-center",
+"t": "academic",
+"n": "Joslin Diabetes Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-32173113",
+"t": "paper",
+"n": "Efficacy and Safety of Suprachoroidal CLS-TA for Macular Edema Secondary to Noninfectious ",
+"sub": "Ophthalmology 2020 · cited 190",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32173113",
+"c": ""
+},
+{
+"k": "person:steven-yeh",
+"t": "person",
+"n": "Steven Yeh",
+"sub": "Emory University",
+"url": "https://orcid.org/0000-0002-5417-7771",
+"c": "US"
+},
+{
+"k": "org:emory-university",
+"t": "academic",
+"n": "Emory University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:emory-eye-center",
+"t": "hospital",
+"n": "Emory Eye Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:glenn-noronha",
+"t": "person",
+"n": "Glenn Noronha",
+"sub": "Clearside Biomedical (United States)",
+"url": "https://orcid.org/0000-0001-6241-9091",
+"c": "US"
+},
+{
+"k": "org:clearside-biomedical-united-states",
+"t": "company",
+"n": "Clearside Biomedical (United States)",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:research-to-prevent-blindness",
+"t": "funder",
+"n": "Research to Prevent Blindness",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-37499857",
+"t": "paper",
+"n": "Optical coherence tomography angiography in diabetic retinopathy",
+"sub": "Progress in Retinal and Eye Research 2023 · cited 188",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37499857",
+"c": ""
+},
+{
+"k": "person:nadia-khalida-waheed",
+"t": "person",
+"n": "Nadia Khalida Waheed",
+"sub": "Tufts University",
+"url": "https://orcid.org/0000-0002-8229-7519",
+"c": "US"
+},
+{
+"k": "org:tufts-university",
+"t": "academic",
+"n": "Tufts University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:tufts-medical-center",
+"t": "hospital",
+"n": "Tufts Medical Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:elizabeth-pearce",
+"t": "person",
+"n": "Elizabeth Pearce",
+"sub": "Boehringer Ingelheim (United States)",
+"url": "https://orcid.org/0000-0002-8010-228X",
+"c": "US"
+},
+{
+"k": "org:boehringer-ingelheim-united-states",
+"t": "company",
+"n": "Boehringer Ingelheim (United States)",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-38158159",
+"t": "paper",
+"n": "Faricimab Treat-and-Extend for Diabetic Macular Edema",
+"sub": "Ophthalmology 2023 · cited 178",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38158159",
+"c": ""
+},
+{
+"k": "person:tien-yin-wong",
+"t": "person",
+"n": "Tien Yin Wong",
+"sub": "Singapore National Eye Center",
+"url": "https://orcid.org/0000-0002-8448-1264",
+"c": "SG"
+},
+{
+"k": "org:tsinghua-university",
+"t": "academic",
+"n": "Tsinghua University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:roche",
+"t": "funder",
+"n": "Roche",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:f-hoffmann-la-roche",
+"t": "funder",
+"n": "F. Hoffmann-La Roche",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:matt-shirley",
+"t": "person",
+"n": "Matt Shirley",
+"sub": "Springer Nature (New Zealand)",
+"url": "https://orcid.org/0000-0001-7191-7391",
+"c": "NZ"
+},
+{
+"k": "org:springer-nature-new-zealand",
+"t": "company",
+"n": "Springer Nature (New Zealand)",
+"sub": "",
+"url": "",
+"c": "NZ"
+},
+{
+"k": "paper:pmid-35321827",
+"t": "paper",
+"n": "Bibliometric and visualized analysis of ocular drug delivery from 2001 to 2020",
+"sub": "Journal of Controlled Release 2022 · cited 171",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35321827",
+"c": ""
+},
+{
+"k": "person:cheng-peng",
+"t": "person",
+"n": "Cheng Peng",
+"sub": "Massachusetts Eye and Ear Infirmary",
+"url": "https://orcid.org/0000-0002-1849-3187",
+"c": "US"
+},
+{
+"k": "person:zhongqing-wang",
+"t": "person",
+"n": "Zhongqing Wang",
+"sub": "First Hospital of China Medical University",
+"url": "https://orcid.org/0000-0003-0839-9856",
+"c": "CN"
+},
+{
+"k": "org:first-hospital-of-china-medical-university",
+"t": "hospital",
+"n": "First Hospital of China Medical University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:joseph-b-ciolino",
+"t": "person",
+"n": "Joseph B. Ciolino",
+"sub": "Massachusetts Eye and Ear Infirmary",
+"url": "https://orcid.org/0000-0002-6223-3091",
+"c": "US"
+},
+{
+"k": "paper:pmid-35038415",
+"t": "paper",
+"n": "KESTREL and KITE: 52-Week Results From Two Phase III Pivotal Trials of Brolucizumab for Di",
+"sub": "American Journal of Ophthalmology 2022 · cited 169",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35038415",
+"c": ""
+},
+{
+"k": "person:david-m-brown",
+"t": "person",
+"n": "David M. Brown",
+"sub": "Retina Consultants of Texas",
+"url": "https://orcid.org/0000-0002-2570-5766",
+"c": "US"
+},
+{
+"k": "person:justus-gerhard-garweg",
+"t": "person",
+"n": "Justus Gerhard Garweg",
+"sub": "University of Bern",
+"url": "https://orcid.org/0000-0003-3973-5082",
+"c": "CH"
+},
+{
+"k": "org:novartis",
+"t": "funder",
+"n": "Novartis",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34450729",
+"t": "paper",
+"n": "Detection of Diabetic Eye Disease from Retinal Images Using a Deep Learning Based CenterNe",
+"sub": "Sensors 2021 · cited 167",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34450729",
+"c": ""
+},
+{
+"k": "person:tahira-nazir",
+"t": "person",
+"n": "Tahira Nazir",
+"sub": "University of Engineering and Technology Taxila",
+"url": "https://orcid.org/0000-0001-8130-3721",
+"c": "PK"
+},
+{
+"k": "org:university-of-engineering-and-technology-taxila",
+"t": "academic",
+"n": "University of Engineering and Technology Taxila",
+"sub": "",
+"url": "",
+"c": "PK"
+},
+{
+"k": "person:junaid-rashid",
+"t": "person",
+"n": "Junaid Rashid",
+"sub": "Kongju National University",
+"url": "https://orcid.org/0000-0002-1485-0757",
+"c": "KR"
+},
+{
+"k": "org:kongju-national-university",
+"t": "academic",
+"n": "Kongju National University",
+"sub": "",
+"url": "",
+"c": "KR"
+},
+{
+"k": "person:hyuk-yoon-kwon",
+"t": "person",
+"n": "Hyuk-Yoon Kwon",
+"sub": "Seoul National University of Science and Technology",
+"url": "https://orcid.org/0000-0002-1125-6533",
+"c": "KR"
+},
+{
+"k": "org:seoul-national-university-of-science-and-technology",
+"t": "academic",
+"n": "Seoul National University of Science and Technology",
+"sub": "",
+"url": "",
+"c": "KR"
+},
+{
+"k": "person:amir-hussain",
+"t": "person",
+"n": "Amir Hussain",
+"sub": "Edinburgh Napier University",
+"url": "https://orcid.org/0000-0002-8080-082X",
+"c": "GB"
+},
+{
+"k": "org:edinburgh-napier-university",
+"t": "academic",
+"n": "Edinburgh Napier University",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:national-research-foundation",
+"t": "funder",
+"n": "National Research Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-research-foundation-of-korea",
+"t": "funder",
+"n": "National Research Foundation of Korea",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:ministry-of-science-and-ict-south-korea",
+"t": "funder",
+"n": "Ministry of Science and ICT, South Korea",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:engineering-and-physical-sciences-research-council",
+"t": "funder",
+"n": "Engineering and Physical Sciences Research Council",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34351414",
+"t": "paper",
+"n": "Evaluation of Intravitreal Aflibercept for the Treatment of Severe Nonproliferative Diabet",
+"sub": "JAMA Ophthalmology 2021 · cited 157",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34351414",
+"c": ""
+},
+{
+"k": "person:charles-c-wykoff",
+"t": "person",
+"n": "Charles C. Wykoff",
+"sub": "Houston Methodist",
+"url": "https://orcid.org/0000-0001-7756-5091",
+"c": "US"
+},
+{
+"k": "org:houston-methodist",
+"t": "hospital",
+"n": "Houston Methodist",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:robert-vitti",
+"t": "person",
+"n": "Robert Vitti",
+"sub": "Regeneron (United States)",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:regeneron-united-states",
+"t": "company",
+"n": "Regeneron (United States)",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:ionis-pharmaceuticals",
+"t": "funder",
+"n": "Ionis Pharmaceuticals",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-3390-diabetology3010011",
+"t": "paper",
+"n": "Diabetic Retinopathy: An Overview on Mechanisms, Pathophysiology and Pharmacotherapy",
+"sub": "Diabetology 2022 · cited 156",
+"url": "https://doi.org/10.3390/diabetology3010011",
+"c": ""
+},
+{
+"k": "person:prawej-ansari",
+"t": "person",
+"n": "Prawej Ansari",
+"sub": "University of Ulster",
+"url": "https://orcid.org/0000-0001-9474-2766",
+"c": "GB"
+},
+{
+"k": "org:university-of-ulster",
+"t": "academic",
+"n": "University of Ulster",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:independent-university-bangladesh",
+"t": "academic",
+"n": "Independent University, Bangladesh",
+"sub": "",
+"url": "",
+"c": "BD"
+},
+{
+"k": "person:yasser-h-a-abdelwahab",
+"t": "person",
+"n": "Yasser H.A. Abdel‐Wahab",
+"sub": "University of Ulster",
+"url": "https://orcid.org/0000-0002-3991-3419",
+"c": "GB"
+},
+{
+"k": "org:ulster-university-derry-londonderry-campus",
+"t": "academic",
+"n": "Ulster University, Derry-Londonderry Campus",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "paper:pmid-34487257",
+"t": "paper",
+"n": "Laser Therapy in the Treatment of Diabetic Retinopathy and Diabetic Macular Edema",
+"sub": "Current Diabetes Reports 2021 · cited 149",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34487257",
+"c": ""
+},
+{
+"k": "person:lesley-a-everett",
+"t": "person",
+"n": "Lesley A Everett",
+"sub": "University of Michigan",
+"url": "https://orcid.org/0000-0002-7373-2056",
+"c": "US"
+},
+{
+"k": "org:michigan-medicine",
+"t": "hospital",
+"n": "Michigan Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:yannis-mantas-paulus",
+"t": "person",
+"n": "Yannis Mantas Paulus",
+"sub": "University of Michigan",
+"url": "https://orcid.org/0000-0002-0615-628X",
+"c": "US"
+},
+{
+"k": "org:international-retinal-research-foundation",
+"t": "funder",
+"n": "International Retinal Research Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:fight-for-sight",
+"t": "funder",
+"n": "Fight for Sight",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-3390-app10186185",
+"t": "paper",
+"n": "Retinal Image Analysis for Diabetes-Based Eye Disease Detection Using Deep Learning",
+"sub": "Applied Sciences 2020 · cited 147",
+"url": "https://doi.org/10.3390/app10186185",
+"c": ""
+},
+{
+"k": "person:dildar-hussain",
+"t": "person",
+"n": "Dildar Hussain",
+"sub": "Korea Institute for Advanced Study",
+"url": "https://orcid.org/0000-0001-9007-6284",
+"c": "KR"
+},
+{
+"k": "org:korea-institute-for-advanced-study",
+"t": "academic",
+"n": "Korea Institute for Advanced Study",
+"sub": "",
+"url": "",
+"c": "KR"
+},
+{
+"k": "person:rizwan-ali-naqvi",
+"t": "person",
+"n": "Rizwan Ali Naqvi",
+"sub": "Sejong University",
+"url": "https://orcid.org/0000-0002-7473-8441",
+"c": "KR"
+},
+{
+"k": "org:sejong-university",
+"t": "academic",
+"n": "Sejong University",
+"sub": "",
+"url": "",
+"c": "KR"
+},
+{
+"k": "paper:pmid-33339630",
+"t": "paper",
+"n": "OctNET: A Lightweight CNN for Retinal Disease Classification from Optical Coherence Tomogr",
+"sub": "Computer Methods and Programs in Biomedicine 2020 · cited 147",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33339630",
+"c": ""
+},
+{
+"k": "person:a-p-sunija",
+"t": "person",
+"n": "A. P. Sunija",
+"sub": "National Institute of Technology Tiruchirappalli",
+"url": "",
+"c": "IN"
+},
+{
+"k": "org:national-institute-of-technology-tiruchirappalli",
+"t": "academic",
+"n": "National Institute of Technology Tiruchirappalli",
+"sub": "",
+"url": "",
+"c": "IN"
+},
+{
+"k": "person:varun-p-gopi",
+"t": "person",
+"n": "Varun P. Gopi",
+"sub": "National Institute of Technology Tiruchirappalli",
+"url": "https://orcid.org/0000-0001-5593-3949",
+"c": "IN"
+},
+{
+"k": "person:ponnusamy-palanisamy",
+"t": "person",
+"n": "Ponnusamy Palanisamy",
+"sub": "National Institute of Technology Tiruchirappalli",
+"url": "https://orcid.org/0000-0003-3687-5944",
+"c": "IN"
+},
+{
+"k": "org:science-and-engineering-research-board",
+"t": "funder",
+"n": "Science and Engineering Research Board",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-38605088",
+"t": "paper",
+"n": "OCTDL: Optical Coherence Tomography Dataset for Image-Based Deep Learning Methods",
+"sub": "Scientific Data 2024 · cited 146",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38605088",
+"c": ""
+},
+{
+"k": "person:mikhail-kulyabin",
+"t": "person",
+"n": "Mikhail Kulyabin",
+"sub": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+"url": "https://orcid.org/0009-0007-0440-030X",
+"c": "DE"
+},
+{
+"k": "org:friedrich-alexander-universitat-erlangen-nurnberg",
+"t": "academic",
+"n": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "person:andreas-maier",
+"t": "person",
+"n": "Andreas Maier",
+"sub": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+"url": "https://orcid.org/0000-0002-9550-5284",
+"c": "DE"
+},
+{
+"k": "paper:pmid-33784735",
+"t": "paper",
+"n": "Effect of Intravitreous Anti–Vascular Endothelial Growth Factor vs Sham Treatment for Prev",
+"sub": "JAMA Ophthalmology 2021 · cited 141",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33784735",
+"c": ""
+},
+{
+"k": "person:raj-k-maturi",
+"t": "person",
+"n": "Raj K. Maturi",
+"sub": "Midwest Eye Institute",
+"url": "https://orcid.org/0000-0002-8894-1846",
+"c": "US"
+},
+{
+"k": "org:indiana-university-school-of-medicine",
+"t": "academic",
+"n": "Indiana University School of Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:doi-10-1007-s00530-021-00769-7",
+"t": "paper",
+"n": "DL-CNN-based approach with image processing techniques for diagnosis of retinal diseases",
+"sub": "Multimedia Systems 2021 · cited 140",
+"url": "https://doi.org/10.1007/s00530-021-00769-7",
+"c": ""
+},
+{
+"k": "person:akash-tayal",
+"t": "person",
+"n": "Akash Tayal",
+"sub": "Indira Gandhi Delhi Technical University for Women",
+"url": "https://orcid.org/0000-0001-7163-0753",
+"c": "IN"
+},
+{
+"k": "org:indira-gandhi-delhi-technical-university-for-women",
+"t": "academic",
+"n": "Indira Gandhi Delhi Technical University for Women",
+"sub": "",
+"url": "",
+"c": "IN"
+},
+{
+"k": "person:anand-nayyar",
+"t": "person",
+"n": "Anand Nayyar",
+"sub": "Duy Tan University",
+"url": "https://orcid.org/0000-0002-9821-6146",
+"c": "VN"
+},
+{
+"k": "org:duy-tan-university",
+"t": "academic",
+"n": "Duy Tan University",
+"sub": "",
+"url": "",
+"c": "VN"
+},
+{
+"k": "person:mehedi-masud",
+"t": "person",
+"n": "Mehedi Masud",
+"sub": "Taif University",
+"url": "https://orcid.org/0000-0001-6019-7245",
+"c": "SA"
+},
+{
+"k": "org:taif-university",
+"t": "academic",
+"n": "Taif University",
+"sub": "",
+"url": "",
+"c": "SA"
+},
+{
+"k": "paper:doi-10-48350-181493",
+"t": "paper",
+"n": "KESTREL and KITE: 52-Week Results From Two Phase III Pivotal Trials of Brolucizumab for Di",
+"sub": " 2022 · cited 140",
+"url": "https://doi.org/10.48350/181493",
+"c": ""
+},
+{
+"k": "paper:pmid-31913272",
+"t": "paper",
+"n": "Predicting optical coherence tomography-derived diabetic macular edema grades from fundus ",
+"sub": "Nature Communications 2020 · cited 139",
+"url": "https://pubmed.ncbi.nlm.nih.gov/31913272",
+"c": ""
+},
+{
+"k": "person:avinash-v-varadarajan",
+"t": "person",
+"n": "Avinash V. Varadarajan",
+"sub": "Google (United States)",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:google-united-states",
+"t": "company",
+"n": "Google (United States)",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:lily-peng",
+"t": "person",
+"n": "Lily Peng",
+"sub": "Google (United States)",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:dale-r-webster",
+"t": "person",
+"n": "Dale R. Webster",
+"sub": "Google (United States)",
+"url": "https://orcid.org/0000-0002-3023-8824",
+"c": "US"
+},
+{
+"k": "org:national-institute-for-health-and-care-research",
+"t": "funder",
+"n": "National Institute for Health and Care Research",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32740069",
+"t": "paper",
+"n": "Artificial intelligence for diabetic retinopathy screening, prediction and management",
+"sub": "Current Opinion in Ophthalmology 2020 · cited 133",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32740069",
+"c": ""
+},
+{
+"k": "person:dinesh-visva-gunasekeran",
+"t": "person",
+"n": "Dinesh Visva Gunasekeran",
+"sub": "National University of Singapore",
+"url": "https://orcid.org/0000-0002-8502-2334",
+"c": "SG"
+},
+{
+"k": "paper:pmid-32785136",
+"t": "paper",
+"n": "Targeting Angiopoietin in Retinal Vascular Diseases: A Literature Review and Summary of Cl",
+"sub": "Cells 2020 · cited 132",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32785136",
+"c": ""
+},
+{
+"k": "person:majid-khan",
+"t": "person",
+"n": "Majid Khan",
+"sub": "University of Nevada, Reno",
+"url": "https://orcid.org/0000-0003-3569-7963",
+"c": "US"
+},
+{
+"k": "org:genentech",
+"t": "funder",
+"n": "Genentech",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33658779",
+"t": "paper",
+"n": "Progress of Nanotechnology in Diabetic Retinopathy Treatment",
+"sub": "International Journal of Nanomedicine 2021 · cited 129",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33658779",
+"c": ""
+},
+{
+"k": "person:yuxin-liu",
+"t": "person",
+"n": "Yuxin Liu",
+"sub": "Sheng Jing Hospital",
+"url": "https://orcid.org/0000-0002-4115-3658",
+"c": "CN"
+},
+{
+"k": "org:sheng-jing-hospital",
+"t": "hospital",
+"n": "Sheng Jing Hospital",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:china-medical-university",
+"t": "academic",
+"n": "China Medical University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:na-wu",
+"t": "person",
+"n": "Na Wu",
+"sub": "Sheng Jing Hospital",
+"url": "https://orcid.org/0000-0003-1156-3231",
+"c": "CN"
+},
+{
+"k": "org:shengjing-hospital",
+"t": "funder",
+"n": "Shengjing Hospital",
 "sub": "",
 "url": "",
 "c": ""
@@ -5910,16 +5910,6 @@
 "r": "tested_in"
 },
 {
-"a": "drug:bispecific-anti-vegf-and-anti-complement",
-"b": "asset:migaldendranib",
-"r": "competes"
-},
-{
-"a": "drug:bispecific-anti-vegf-and-anti-complement",
-"b": "trial:nct07520318",
-"r": "tested_in"
-},
-{
 "a": "drug:cu06-1004",
 "b": "asset:migaldendranib",
 "r": "competes"
@@ -6132,6 +6122,16 @@
 {
 "a": "drug:hipsc-rpes",
 "b": "trial:nct07418177",
+"r": "tested_in"
+},
+{
+"a": "drug:hx9428",
+"b": "asset:migaldendranib",
+"r": "competes"
+},
+{
+"a": "drug:hx9428",
+"b": "trial:nct07185841",
 "r": "tested_in"
 },
 {
@@ -6686,6 +6686,11 @@
 },
 {
 "a": "org:abbvie",
+"b": "paper:pmid-35038415",
+"r": "funded"
+},
+{
+"a": "org:abbvie",
 "b": "trial:nct04567550",
 "r": "sponsors"
 },
@@ -6713,11 +6718,6 @@
 "a": "org:abbvie",
 "b": "trial:nct07592273",
 "r": "sponsors"
-},
-{
-"a": "org:advanced-retina-institute",
-"b": "trial:nct07811726",
-"r": "site_of"
 },
 {
 "a": "org:adverum-biotechnologies",
@@ -6755,11 +6755,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:affiliated-hospital-of-shandong-second-medical-university",
-"b": "trial:nct06708260",
-"r": "site_of"
-},
-{
 "a": "org:agence-nationale-de-la-recherche",
 "b": "paper:pmid-36014339",
 "r": "funded"
@@ -6785,11 +6780,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:alexandria-main-university-hospital-the-ophthalmology-depart",
-"b": "trial:nct06845163",
-"r": "site_of"
-},
-{
 "a": "org:alexandria-university",
 "b": "drug:anti-vegf-drug",
 "r": "develops"
@@ -6810,11 +6800,6 @@
 "r": "funded"
 },
 {
-"a": "org:american-institute-of-research",
-"b": "trial:nct06668064",
-"r": "site_of"
-},
-{
 "a": "org:aphm-hopital-nord",
 "b": "trial:nct04116398",
 "r": "site_of"
@@ -6822,16 +6807,6 @@
 {
 "a": "org:aphp-hopital-avicenne",
 "b": "trial:nct04116398",
-"r": "site_of"
-},
-{
-"a": "org:arizona-retina-and-vitreous-consultants",
-"b": "trial:nct04108156",
-"r": "site_of"
-},
-{
-"a": "org:arizona-retina-vitreous-research-central-phoenix",
-"b": "trial:nct06962839",
 "r": "site_of"
 },
 {
@@ -6860,11 +6835,6 @@
 "r": "site_of"
 },
 {
-"a": "org:associated-retina-consultants-gilbert",
-"b": "trial:nct07496567",
-"r": "site_of"
-},
-{
 "a": "org:associated-retina-consultants-phoenix",
 "b": "trial:nct06683742",
 "r": "site_of"
@@ -6875,23 +6845,8 @@
 "r": "site_of"
 },
 {
-"a": "org:atlantis-eyecare",
-"b": "trial:nct06683742",
-"r": "site_of"
-},
-{
-"a": "org:augenzentrum-am-st-franziskus-hospital-munster",
-"b": "trial:nct04663750",
-"r": "site_of"
-},
-{
 "a": "org:austin-clinical-research",
 "b": "trial:nct05930561",
-"r": "site_of"
-},
-{
-"a": "org:azul-vision-california-eye-specialists-medical-group",
-"b": "trial:nct07440225",
 "r": "site_of"
 },
 {
@@ -6915,16 +6870,6 @@
 "r": "site_of"
 },
 {
-"a": "org:barnet-delaney-perkins-eye-center",
-"b": "trial:nct05197270",
-"r": "site_of"
-},
-{
-"a": "org:barnet-dulaney-eye-center-phoenix-id-256340",
-"b": "trial:nct05407636",
-"r": "site_of"
-},
-{
 "a": "org:barnet-dulaney-perkins-eye-center",
 "b": "trial:nct04108156",
 "r": "site_of"
@@ -6942,21 +6887,6 @@
 {
 "a": "org:barnet-dulaney-perkins-eye-center",
 "b": "trial:nct07064759",
-"r": "site_of"
-},
-{
-"a": "org:barnet-dulaney-perkins-eye-center-mesa-id-283000",
-"b": "trial:nct07592273",
-"r": "site_of"
-},
-{
-"a": "org:barnet-dulaney-perkins-eye-center-phoenix",
-"b": "trial:nct06116916",
-"r": "site_of"
-},
-{
-"a": "org:barnet-dulaney-perkins-eye-center-sun-city-id-256055",
-"b": "trial:nct04704921",
 "r": "site_of"
 },
 {
@@ -6985,13 +6915,13 @@
 "r": "site_of"
 },
 {
-"a": "org:beijing-aier-intech-eye-hospital",
-"b": "trial:nct07317934",
+"a": "org:beijing-hospital",
+"b": "trial:nct05986864",
 "r": "site_of"
 },
 {
 "a": "org:beijing-hospital",
-"b": "trial:nct05986864",
+"b": "trial:nct07185841",
 "r": "site_of"
 },
 {
@@ -7008,11 +6938,6 @@
 "a": "org:belfast-health-and-social-care-trust",
 "b": "trial:nct06985706",
 "r": "sponsors"
-},
-{
-"a": "org:bellaire-tx",
-"b": "trial:nct07587515",
-"r": "site_of"
 },
 {
 "a": "org:bio-thera-solutions",
@@ -7035,11 +6960,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:biomedical-advanced-research-and-development-authority",
-"b": "trial:nct06599684",
-"r": "collaborates"
-},
-{
 "a": "org:birmingham-and-midland-eye-centre",
 "b": "trial:nct06985706",
 "r": "site_of"
@@ -7047,11 +6967,6 @@
 {
 "a": "org:bloomfield-new-jersey",
 "b": "trial:nct06664502",
-"r": "site_of"
-},
-{
-"a": "org:blue-ocean-clinical-research-west",
-"b": "trial:nct06116916",
 "r": "site_of"
 },
 {
@@ -7073,6 +6988,11 @@
 "a": "org:boehringer-ingelheim",
 "b": "drug:medium",
 "r": "develops"
+},
+{
+"a": "org:boehringer-ingelheim",
+"b": "paper:pmid-37499857",
+"r": "funded"
 },
 {
 "a": "org:boehringer-ingelheim",
@@ -7122,11 +7042,6 @@
 {
 "a": "org:california-eye-specialists-medical-group",
 "b": "trial:nct07449936",
-"r": "site_of"
-},
-{
-"a": "org:california-eye-specialists-medical-group-id-274705",
-"b": "trial:nct07592273",
 "r": "site_of"
 },
 {
@@ -7180,38 +7095,8 @@
 "r": "site_of"
 },
 {
-"a": "org:california-retina-consultants-bakersfield-id-256240",
-"b": "trial:nct05407636",
-"r": "site_of"
-},
-{
-"a": "org:california-retina-consultants-bakersfield-id-282990",
-"b": "trial:nct07592273",
-"r": "site_of"
-},
-{
 "a": "org:california-retina-consultants-crc",
 "b": "trial:nct05296447",
-"r": "site_of"
-},
-{
-"a": "org:california-retina-consultants-oxnard-70187",
-"b": "trial:nct07553429",
-"r": "site_of"
-},
-{
-"a": "org:california-retina-consultants-oxnard-north-ventura-road-id-2",
-"b": "trial:nct05407636",
-"r": "site_of"
-},
-{
-"a": "org:center-for-retina-and-macular-disease",
-"b": "trial:nct07501052",
-"r": "site_of"
-},
-{
-"a": "org:central-coast-eye-specialist",
-"b": "trial:nct07766473",
 "r": "site_of"
 },
 {
@@ -7227,11 +7112,6 @@
 {
 "a": "org:centre-retine-gallien",
 "b": "trial:nct04116398",
-"r": "site_of"
-},
-{
-"a": "org:cerulea-clinical-trials",
-"b": "trial:nct07766473",
 "r": "site_of"
 },
 {
@@ -7255,16 +7135,6 @@
 "r": "site_of"
 },
 {
-"a": "org:cincinnati-eye-institute",
-"b": "trial:nct05984927",
-"r": "site_of"
-},
-{
-"a": "org:clindatrix",
-"b": "trial:nct07557121",
-"r": "collaborates"
-},
-{
 "a": "org:college-of-engineering-ohio-state-university",
 "b": "paper:pmid-32789323",
 "r": "funded"
@@ -7282,21 +7152,6 @@
 {
 "a": "org:colorado-retina-associates",
 "b": "trial:nct07449936",
-"r": "site_of"
-},
-{
-"a": "org:colorado-springs-colorado",
-"b": "trial:nct05919693",
-"r": "site_of"
-},
-{
-"a": "org:connecticut-eye-consultants-p-c",
-"b": "trial:nct07496567",
-"r": "site_of"
-},
-{
-"a": "org:connecticut-eye-consultants-pc",
-"b": "trial:nct06962839",
 "r": "site_of"
 },
 {
@@ -7323,26 +7178,6 @@
 "a": "org:department-of-science-and-technology-of-sichuan-province",
 "b": "paper:pmid-35005108",
 "r": "funded"
-},
-{
-"a": "org:doctor-retina-pc",
-"b": "trial:nct06683742",
-"r": "site_of"
-},
-{
-"a": "org:doheny-eye-center-ucla-arcadia",
-"b": "trial:nct06962839",
-"r": "site_of"
-},
-{
-"a": "org:duke-eye-center",
-"b": "trial:nct06704009",
-"r": "site_of"
-},
-{
-"a": "org:east-florida-eye-institute",
-"b": "trial:nct07501052",
-"r": "site_of"
 },
 {
 "a": "org:eclipse-life-sciences",
@@ -7375,19 +7210,14 @@
 "r": "sponsors"
 },
 {
-"a": "org:elman-retina-group",
-"b": "trial:nct06704009",
-"r": "site_of"
-},
-{
 "a": "org:emanuelli-research-and-development-center",
 "b": "trial:nct05930561",
 "r": "site_of"
 },
 {
-"a": "org:encino-california",
-"b": "trial:nct06957080",
-"r": "site_of"
+"a": "org:engineering-and-physical-sciences-research-council",
+"b": "paper:pmid-34450729",
+"r": "funded"
 },
 {
 "a": "org:ennovabio",
@@ -7420,6 +7250,11 @@
 "r": "site_of"
 },
 {
+"a": "org:eunice-kennedy-shriver-national-institute-of-child-health-an",
+"b": "paper:pmid-32879755",
+"r": "funded"
+},
+{
 "a": "org:everest-medicines-china",
 "b": "drug:aflibercept",
 "r": "develops"
@@ -7450,23 +7285,8 @@
 "r": "site_of"
 },
 {
-"a": "org:eye-clinic-ludwigshafen",
-"b": "trial:nct04663750",
-"r": "site_of"
-},
-{
 "a": "org:eye-hospital-of-china-academy-of-chinese-medical-sciences",
 "b": "trial:nct04772105",
-"r": "site_of"
-},
-{
-"a": "org:eye-hospital-wmu-zhejiang-eye-hospital",
-"b": "trial:nct05986864",
-"r": "site_of"
-},
-{
-"a": "org:eye-research-foundation",
-"b": "trial:nct06962839",
 "r": "site_of"
 },
 {
@@ -7560,14 +7380,19 @@
 "r": "sponsors"
 },
 {
-"a": "org:fayetteville-ar",
-"b": "trial:nct06957080",
-"r": "site_of"
+"a": "org:f-hoffmann-la-roche",
+"b": "paper:pmid-34351414",
+"r": "funded"
 },
 {
-"a": "org:fayetteville-arkansas",
-"b": "trial:nct06571045",
-"r": "site_of"
+"a": "org:f-hoffmann-la-roche",
+"b": "paper:pmid-38158159",
+"r": "funded"
+},
+{
+"a": "org:fight-for-sight",
+"b": "paper:pmid-34487257",
+"r": "funded"
 },
 {
 "a": "org:filamon",
@@ -7580,29 +7405,24 @@
 "r": "sponsors"
 },
 {
-"a": "org:florida-eye-associates",
-"b": "trial:nct05197270",
-"r": "site_of"
-},
-{
 "a": "org:frimley-park-hospital",
 "b": "trial:nct06985706",
 "r": "site_of"
 },
 {
-"a": "org:general-hospital-of-central-theater-command-chinese-people-s",
-"b": "trial:nct07776522",
-"r": "site_of"
+"a": "org:fujian-haixi-pharmaceuticals",
+"b": "drug:hx9428",
+"r": "develops"
 },
 {
-"a": "org:gilbert-arizona",
-"b": "trial:nct06957080",
-"r": "site_of"
+"a": "org:fujian-haixi-pharmaceuticals",
+"b": "trial:nct07185841",
+"r": "sponsors"
 },
 {
-"a": "org:glendale-ca",
-"b": "trial:nct06571045",
-"r": "site_of"
+"a": "org:genentech",
+"b": "paper:pmid-32785136",
+"r": "funded"
 },
 {
 "a": "org:global-research-management",
@@ -7622,11 +7442,6 @@
 {
 "a": "org:global-research-management",
 "b": "trial:nct07553429",
-"r": "site_of"
-},
-{
-"a": "org:global-research-management-lugene-eye-institute",
-"b": "trial:nct06556368",
 "r": "site_of"
 },
 {
@@ -7651,17 +7466,17 @@
 },
 {
 "a": "org:heed-ophthalmic-foundation",
+"b": "paper:pmid-34487257",
+"r": "funded"
+},
+{
+"a": "org:heed-ophthalmic-foundation",
 "b": "paper:pmid-34616189",
 "r": "funded"
 },
 {
 "a": "org:henan-provincial-eye-hospital",
 "b": "trial:nct04772105",
-"r": "site_of"
-},
-{
-"a": "org:henan-provincial-people-s-hospital",
-"b": "trial:nct07776522",
 "r": "site_of"
 },
 {
@@ -7715,11 +7530,6 @@
 "r": "site_of"
 },
 {
-"a": "org:hospital-of-chengdu-university-of-tcm",
-"b": "trial:nct06708260",
-"r": "site_of"
-},
-{
 "a": "org:hull-royal-infirmary",
 "b": "trial:nct06985706",
 "r": "site_of"
@@ -7765,6 +7575,11 @@
 "r": "funded"
 },
 {
+"a": "org:international-retinal-research-foundation",
+"b": "paper:pmid-34487257",
+"r": "funded"
+},
+{
 "a": "org:intra-immusg-pte",
 "b": "drug:prl3-zumab",
 "r": "develops"
@@ -7785,19 +7600,19 @@
 "r": "sponsors"
 },
 {
-"a": "org:jacobs-retina-center-at-ucsd-id-256320",
-"b": "trial:nct05407636",
-"r": "site_of"
+"a": "org:ionis-pharmaceuticals",
+"b": "paper:pmid-34351414",
+"r": "funded"
+},
+{
+"a": "org:ipsen",
+"b": "paper:pmid-32121432",
+"r": "funded"
 },
 {
 "a": "org:jiangsu-provincial-key-research-and-development-program",
 "b": "paper:pmid-32059325",
 "r": "funded"
-},
-{
-"a": "org:jiangsu-provincial-people-s-hospital-the-first-affiliated-ho",
-"b": "trial:nct07776522",
-"r": "site_of"
 },
 {
 "a": "org:jieyang-people-s-hospital",
@@ -7808,26 +7623,6 @@
 "a": "org:johns-hopkins-university",
 "b": "trial:nct05210803",
 "r": "site_of"
-},
-{
-"a": "org:joint-shantou-international-eye-center-shantou-university-an",
-"b": "trial:nct07317934",
-"r": "site_of"
-},
-{
-"a": "org:jules-stein-eye-institute-ucla",
-"b": "trial:nct04108156",
-"r": "site_of"
-},
-{
-"a": "org:kaiser-permanente",
-"b": "trial:nct07449923",
-"r": "site_of"
-},
-{
-"a": "org:kcrn-research",
-"b": "trial:nct06704009",
-"r": "collaborates"
 },
 {
 "a": "org:khyber-girls-medical-college",
@@ -7855,11 +7650,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:kim-s-eye-hospital",
-"b": "trial:nct07844343",
-"r": "site_of"
-},
-{
 "a": "org:king-s-college-hospital-nhs-trust",
 "b": "drug:intravitreal",
 "r": "develops"
@@ -7878,16 +7668,6 @@
 "a": "org:king-s-college-hospital-nhs-trust",
 "b": "trial:nct04663750",
 "r": "sponsors"
-},
-{
-"a": "org:king-s-college-london",
-"b": "trial:nct04663750",
-"r": "collaborates"
-},
-{
-"a": "org:knappschaft-kliniken-saar-sulzbach",
-"b": "trial:nct04663750",
-"r": "site_of"
 },
 {
 "a": "org:kodiak-research-center",
@@ -7935,11 +7715,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:kyung-hee-university-hospital",
-"b": "trial:nct07695207",
-"r": "site_of"
-},
-{
 "a": "org:laboratorios-sophia-s-a-de-c-v",
 "b": "drug:bevacizumab",
 "r": "develops"
@@ -7955,11 +7730,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:lakewood",
-"b": "trial:nct05919693",
-"r": "site_of"
-},
-{
 "a": "org:lemont",
 "b": "trial:nct05919693",
 "r": "site_of"
@@ -7970,23 +7740,8 @@
 "r": "site_of"
 },
 {
-"a": "org:ludwig-maximilians-university-munchen",
-"b": "trial:nct04663750",
-"r": "site_of"
-},
-{
-"a": "org:macula-and-retina-institute",
-"b": "trial:nct06668064",
-"r": "site_of"
-},
-{
 "a": "org:madison-mississippi",
 "b": "trial:nct06664502",
-"r": "site_of"
-},
-{
-"a": "org:mass-eye-and-ear",
-"b": "trial:nct07383701",
 "r": "site_of"
 },
 {
@@ -7998,16 +7753,6 @@
 "a": "org:massachusetts-eye-and-ear-infirmary",
 "b": "trial:nct07383701",
 "r": "sponsors"
-},
-{
-"a": "org:mcallen-tx",
-"b": "trial:nct07587515",
-"r": "site_of"
-},
-{
-"a": "org:medtrials",
-"b": "trial:nct06599684",
-"r": "site_of"
 },
 {
 "a": "org:merck-sharp-dohme",
@@ -8030,6 +7775,11 @@
 "r": "sponsors"
 },
 {
+"a": "org:midwest-eye-institute",
+"b": "trial:nct05230537",
+"r": "site_of"
+},
+{
 "a": "org:ministero-dell-universita-e-della-ricerca",
 "b": "paper:pmid-39684764",
 "r": "funded"
@@ -8037,6 +7787,11 @@
 {
 "a": "org:ministero-dellistruzione-delluniversita-e-della-ricerca",
 "b": "paper:pmid-39684764",
+"r": "funded"
+},
+{
+"a": "org:ministry-of-science-and-ict-south-korea",
+"b": "paper:pmid-34450729",
 "r": "funded"
 },
 {
@@ -8125,8 +7880,33 @@
 "r": "funded"
 },
 {
+"a": "org:national-center-for-advancing-translational-sciences",
+"b": "paper:pmid-32750417",
+"r": "funded"
+},
+{
+"a": "org:national-center-for-chronic-disease-prevention-and-health-pr",
+"b": "paper:pmid-37318810",
+"r": "funded"
+},
+{
+"a": "org:national-eye-institute",
+"b": "paper:pmid-32173113",
+"r": "funded"
+},
+{
+"a": "org:national-eye-institute",
+"b": "paper:pmid-32402554",
+"r": "funded"
+},
+{
 "a": "org:national-eye-institute",
 "b": "paper:pmid-32560057",
+"r": "funded"
+},
+{
+"a": "org:national-eye-institute",
+"b": "paper:pmid-32750417",
 "r": "funded"
 },
 {
@@ -8136,12 +7916,57 @@
 },
 {
 "a": "org:national-eye-institute",
+"b": "paper:pmid-32879755",
+"r": "funded"
+},
+{
+"a": "org:national-eye-institute",
+"b": "paper:pmid-33576772",
+"r": "funded"
+},
+{
+"a": "org:national-eye-institute",
+"b": "paper:pmid-33784735",
+"r": "funded"
+},
+{
+"a": "org:national-eye-institute",
+"b": "paper:pmid-35321827",
+"r": "funded"
+},
+{
+"a": "org:national-eye-institute",
+"b": "paper:pmid-37499857",
+"r": "funded"
+},
+{
+"a": "org:national-eye-institute",
 "b": "paper:pmid-40507802",
+"r": "funded"
+},
+{
+"a": "org:national-heart-and-lung-institute",
+"b": "paper:pmid-32750417",
+"r": "funded"
+},
+{
+"a": "org:national-heart-lung-and-blood-institute",
+"b": "paper:pmid-32750417",
 "r": "funded"
 },
 {
 "a": "org:national-heart-lung-and-blood-institute",
 "b": "paper:pmid-36550275",
+"r": "funded"
+},
+{
+"a": "org:national-institute-for-health-and-care-research",
+"b": "paper:pmid-31913272",
+"r": "funded"
+},
+{
+"a": "org:national-institute-on-aging",
+"b": "paper:pmid-33576772",
 "r": "funded"
 },
 {
@@ -8151,7 +7976,22 @@
 },
 {
 "a": "org:national-institutes-of-health",
+"b": "paper:pmid-32173113",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-32402554",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
 "b": "paper:pmid-33330470",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-35321827",
 "r": "funded"
 },
 {
@@ -8186,12 +8026,32 @@
 },
 {
 "a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-33658779",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
 "b": "paper:pmid-35005108",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-36359761",
 "r": "funded"
 },
 {
 "a": "org:national-natural-science-foundation-of-china-yunnan-joint-fu",
 "b": "paper:pmid-32323368",
+"r": "funded"
+},
+{
+"a": "org:national-research-foundation",
+"b": "paper:pmid-34450729",
+"r": "funded"
+},
+{
+"a": "org:national-research-foundation-of-korea",
+"b": "paper:pmid-34450729",
 "r": "funded"
 },
 {
@@ -8201,13 +8061,18 @@
 },
 {
 "a": "org:national-taiwan-university",
+"b": "paper:pmid-33316144",
+"r": "funded"
+},
+{
+"a": "org:national-taiwan-university",
 "b": "paper:pmid-33670014",
 "r": "funded"
 },
 {
-"a": "org:national-university-hospital-singapore",
-"b": "trial:nct07547228",
-"r": "collaborates"
+"a": "org:national-taiwan-university-hospital",
+"b": "paper:pmid-33316144",
+"r": "funded"
 },
 {
 "a": "org:natural-science-foundation-for-young-scientists-of-shanxi-pr",
@@ -8255,11 +8120,6 @@
 "r": "site_of"
 },
 {
-"a": "org:northern-california-retina-vitreous-associates-id-282994",
-"b": "trial:nct07592273",
-"r": "site_of"
-},
-{
 "a": "org:northern-california-retina-vitreous-associates-medical-group",
 "b": "trial:nct04567550",
 "r": "site_of"
@@ -8290,24 +8150,24 @@
 "r": "site_of"
 },
 {
+"a": "org:novartis",
+"b": "paper:pmid-35038415",
+"r": "funded"
+},
+{
 "a": "org:novartis-pharmaceuticals",
 "b": "drug:iptacopan",
 "r": "develops"
 },
 {
 "a": "org:novartis-pharmaceuticals",
+"b": "paper:pmid-35038415",
+"r": "funded"
+},
+{
+"a": "org:novartis-pharmaceuticals",
 "b": "trial:nct05230537",
 "r": "sponsors"
-},
-{
-"a": "org:nuhs-department-of-ophthalmology",
-"b": "trial:nct07547228",
-"r": "site_of"
-},
-{
-"a": "org:nune-eye-hospital",
-"b": "trial:nct07844343",
-"r": "site_of"
 },
 {
 "a": "org:ohio-lions-eye-research-foundation",
@@ -8370,16 +8230,6 @@
 "r": "site_of"
 },
 {
-"a": "org:ora",
-"b": "trial:nct05984927",
-"r": "collaborates"
-},
-{
-"a": "org:orange-county-retina-medical-group",
-"b": "trial:nct07496567",
-"r": "site_of"
-},
-{
 "a": "org:outlook-therapeutics",
 "b": "drug:bevacizumab",
 "r": "develops"
@@ -8430,29 +8280,9 @@
 "r": "site_of"
 },
 {
-"a": "org:peking-university-people-s-hospital",
-"b": "trial:nct07776522",
-"r": "site_of"
-},
-{
-"a": "org:phoenix-arizona",
-"b": "trial:nct06957080",
-"r": "site_of"
-},
-{
-"a": "org:phoenix-az",
-"b": "trial:nct05919693",
-"r": "site_of"
-},
-{
-"a": "org:phoenix-retina-clinical-trials",
-"b": "trial:nct06683742",
-"r": "site_of"
-},
-{
-"a": "org:phoenix-retina-clinical-trials-north-phoenix",
-"b": "trial:nct07449923",
-"r": "site_of"
+"a": "org:pfizer",
+"b": "paper:pmid-32121432",
+"r": "funded"
 },
 {
 "a": "org:piedmont-eye-center",
@@ -8460,29 +8290,9 @@
 "r": "site_of"
 },
 {
-"a": "org:pompano-beach",
-"b": "trial:nct05919693",
-"r": "site_of"
-},
-{
 "a": "org:queen-s-university-belfast",
 "b": "trial:nct06985706",
 "r": "collaborates"
-},
-{
-"a": "org:radboudumc",
-"b": "trial:nct04663750",
-"r": "site_of"
-},
-{
-"a": "org:rand-eye-institute",
-"b": "trial:nct05197270",
-"r": "site_of"
-},
-{
-"a": "org:rcoc-clinical-research-institute",
-"b": "trial:nct06683742",
-"r": "site_of"
 },
 {
 "a": "org:redlands-ca",
@@ -8501,6 +8311,11 @@
 },
 {
 "a": "org:regeneron-pharmaceuticals",
+"b": "paper:pmid-34351414",
+"r": "funded"
+},
+{
+"a": "org:regeneron-pharmaceuticals",
 "b": "trial:nct05989126",
 "r": "sponsors"
 },
@@ -8508,6 +8323,11 @@
 "a": "org:regeneron-pharmaceuticals",
 "b": "trial:nct06491914",
 "r": "sponsors"
+},
+{
+"a": "org:regenxbio",
+"b": "paper:pmid-34351414",
+"r": "funded"
 },
 {
 "a": "org:regenxbio",
@@ -8550,9 +8370,14 @@
 "r": "site_of"
 },
 {
-"a": "org:research-network-arizona-retina-macula-institute-of-arizona",
-"b": "trial:nct07440225",
-"r": "site_of"
+"a": "org:research-to-prevent-blindness",
+"b": "paper:pmid-32173113",
+"r": "funded"
+},
+{
+"a": "org:research-to-prevent-blindness",
+"b": "paper:pmid-34487257",
+"r": "funded"
 },
 {
 "a": "org:retina-associates-of-florida",
@@ -8575,21 +8400,6 @@
 "r": "site_of"
 },
 {
-"a": "org:retina-associates-southwest-p-c",
-"b": "trial:nct06116916",
-"r": "site_of"
-},
-{
-"a": "org:retina-associates-sw",
-"b": "trial:nct06556368",
-"r": "site_of"
-},
-{
-"a": "org:retina-center-of-arkansas",
-"b": "trial:nct07440225",
-"r": "site_of"
-},
-{
 "a": "org:retina-consultants-of-orange-county",
 "b": "trial:nct05230537",
 "r": "site_of"
@@ -8615,21 +8425,6 @@
 "r": "site_of"
 },
 {
-"a": "org:retina-consultants-of-orange-county-clinical-research",
-"b": "trial:nct04108156",
-"r": "site_of"
-},
-{
-"a": "org:retina-consultants-of-orange-county-id-256152",
-"b": "trial:nct04704921",
-"r": "site_of"
-},
-{
-"a": "org:retina-consultants-of-orange-county-id-256267",
-"b": "trial:nct05407636",
-"r": "site_of"
-},
-{
 "a": "org:retina-consultants-of-san-diego",
 "b": "trial:nct06864988",
 "r": "site_of"
@@ -8642,11 +8437,6 @@
 {
 "a": "org:retina-consultants-of-san-diego",
 "b": "trial:nct07449936",
-"r": "site_of"
-},
-{
-"a": "org:retina-consultants-of-southern",
-"b": "trial:nct06116916",
 "r": "site_of"
 },
 {
@@ -8685,11 +8475,6 @@
 "r": "site_of"
 },
 {
-"a": "org:retina-consultants-of-southern-colorado-p-c",
-"b": "trial:nct07867080",
-"r": "site_of"
-},
-{
 "a": "org:retina-consultants-of-texas",
 "b": "trial:nct05986864",
 "r": "site_of"
@@ -8697,11 +8482,6 @@
 {
 "a": "org:retina-consultants-of-texas",
 "b": "trial:nct05989126",
-"r": "site_of"
-},
-{
-"a": "org:retina-consultants-p-c",
-"b": "trial:nct07496567",
 "r": "site_of"
 },
 {
@@ -8725,31 +8505,6 @@
 "r": "site_of"
 },
 {
-"a": "org:retina-consultants-san-diego-id-274748",
-"b": "trial:nct07592273",
-"r": "site_of"
-},
-{
-"a": "org:retina-group-of-florida",
-"b": "trial:nct05197270",
-"r": "site_of"
-},
-{
-"a": "org:retina-group-of-new-england",
-"b": "trial:nct07496567",
-"r": "site_of"
-},
-{
-"a": "org:retina-group-of-new-england-pc",
-"b": "trial:nct07553429",
-"r": "site_of"
-},
-{
-"a": "org:retina-institute-of-new-england",
-"b": "trial:nct07867080",
-"r": "site_of"
-},
-{
 "a": "org:retina-macula-institute-of-arizona",
 "b": "trial:nct06556368",
 "r": "site_of"
@@ -8765,16 +8520,6 @@
 "r": "site_of"
 },
 {
-"a": "org:retina-macula-institute-of-arizona-id-271026",
-"b": "trial:nct05407636",
-"r": "site_of"
-},
-{
-"a": "org:retina-macula-institute-of-arizona-id-282881",
-"b": "trial:nct07592273",
-"r": "site_of"
-},
-{
 "a": "org:retina-partners-of-northwest-arkansas",
 "b": "trial:nct06668064",
 "r": "site_of"
@@ -8785,28 +8530,8 @@
 "r": "site_of"
 },
 {
-"a": "org:retina-partners-of-northwest-arkansas-pllc",
-"b": "trial:nct07440225",
-"r": "site_of"
-},
-{
 "a": "org:retina-specialists-of-beverly-hills",
 "b": "trial:nct06491914",
-"r": "site_of"
-},
-{
-"a": "org:retina-specialists-of-colorado-aurora",
-"b": "trial:nct07867080",
-"r": "site_of"
-},
-{
-"a": "org:retina-vitreous-assoc-med-grp-id-256246",
-"b": "trial:nct05407636",
-"r": "site_of"
-},
-{
-"a": "org:retina-vitreous-assoc-med-grp-id-256299",
-"b": "trial:nct04704921",
 "r": "site_of"
 },
 {
@@ -8855,26 +8580,6 @@
 "r": "site_of"
 },
 {
-"a": "org:retina-vitreous-associates-medical-group-beverly-hills-id-28",
-"b": "trial:nct07592273",
-"r": "site_of"
-},
-{
-"a": "org:retina-vitreous-associates-of-florida-saint-petersburg",
-"b": "trial:nct05986864",
-"r": "site_of"
-},
-{
-"a": "org:retina-vitreous-consultants-llp-dba-retina-group-of-florida",
-"b": "trial:nct05197270",
-"r": "site_of"
-},
-{
-"a": "org:retina-vitreous-surgeons-of-central-new-york-pc",
-"b": "trial:nct07501052",
-"r": "site_of"
-},
-{
 "a": "org:retinal-consultants-medical-group",
 "b": "trial:nct05197270",
 "r": "site_of"
@@ -8917,26 +8622,6 @@
 {
 "a": "org:retinal-consultants-medical-group",
 "b": "trial:nct07867080",
-"r": "site_of"
-},
-{
-"a": "org:retinal-consultants-medical-group-modesto",
-"b": "trial:nct07449923",
-"r": "site_of"
-},
-{
-"a": "org:retinal-consultants-medical-group-parkcenter-drive",
-"b": "trial:nct07449936",
-"r": "site_of"
-},
-{
-"a": "org:retinal-consultants-of-arizona-opthalmology",
-"b": "trial:nct04108156",
-"r": "site_of"
-},
-{
-"a": "org:retinal-consultants-of-arizona-phoenix-north-id-283407",
-"b": "trial:nct07592273",
 "r": "site_of"
 },
 {
@@ -8960,21 +8645,6 @@
 "r": "site_of"
 },
 {
-"a": "org:retinal-diagnostic-center-id-256137",
-"b": "trial:nct04704921",
-"r": "site_of"
-},
-{
-"a": "org:retinal-diagnostic-center-id-256262",
-"b": "trial:nct05407636",
-"r": "site_of"
-},
-{
-"a": "org:retinal-diagnostic-center-id-275055",
-"b": "trial:nct07592273",
-"r": "site_of"
-},
-{
 "a": "org:retinal-research-institute",
 "b": "trial:nct04567550",
 "r": "site_of"
@@ -8997,21 +8667,6 @@
 {
 "a": "org:retinal-research-institute",
 "b": "trial:nct06864988",
-"r": "site_of"
-},
-{
-"a": "org:retinal-research-institute-id-256019",
-"b": "trial:nct04704921",
-"r": "site_of"
-},
-{
-"a": "org:retinal-research-institute-id-256238",
-"b": "trial:nct05407636",
-"r": "site_of"
-},
-{
-"a": "org:retinal-specialty-institute",
-"b": "trial:nct05197270",
 "r": "site_of"
 },
 {
@@ -9085,13 +8740,18 @@
 "r": "site_of"
 },
 {
-"a": "org:royal-liverpool-university-hospital",
-"b": "trial:nct06985706",
-"r": "site_of"
+"a": "org:roche",
+"b": "paper:pmid-35038415",
+"r": "funded"
 },
 {
-"a": "org:rsc-research",
-"b": "trial:nct07496567",
+"a": "org:roche",
+"b": "paper:pmid-38158159",
+"r": "funded"
+},
+{
+"a": "org:royal-liverpool-university-hospital",
+"b": "trial:nct06985706",
 "r": "site_of"
 },
 {
@@ -9120,11 +8780,6 @@
 "r": "site_of"
 },
 {
-"a": "org:salauno-salud-s-a-p-i-de-c-v",
-"b": "trial:nct05217680",
-"r": "site_of"
-},
-{
 "a": "org:salehi-retina-institute",
 "b": "trial:nct05230537",
 "r": "site_of"
@@ -9140,11 +8795,6 @@
 "r": "site_of"
 },
 {
-"a": "org:salehi-retina-institute-id-263485",
-"b": "trial:nct04704921",
-"r": "site_of"
-},
-{
 "a": "org:sam-chun-dang-pharm",
 "b": "drug:scd411",
 "r": "develops"
@@ -9152,11 +8802,6 @@
 {
 "a": "org:sam-chun-dang-pharm",
 "b": "trial:nct07501052",
-"r": "sponsors"
-},
-{
-"a": "org:samsung-bioepis",
-"b": "trial:nct07550504",
 "r": "sponsors"
 },
 {
@@ -9175,9 +8820,9 @@
 "r": "sponsors"
 },
 {
-"a": "org:scottsdale",
-"b": "trial:nct06571045",
-"r": "site_of"
+"a": "org:science-and-engineering-research-board",
+"b": "paper:pmid-33339630",
+"r": "funded"
 },
 {
 "a": "org:scottsdale-arizona",
@@ -9185,44 +8830,19 @@
 "r": "site_of"
 },
 {
-"a": "org:scottsdale-az",
-"b": "trial:nct06957080",
-"r": "site_of"
+"a": "org:sejong-university",
+"b": "paper:doi-10-3390-app10186185",
+"r": "funded"
 },
 {
-"a": "org:seoul-national-university-bundang-hospital",
-"b": "trial:nct07844343",
-"r": "site_of"
+"a": "org:shengjing-hospital",
+"b": "paper:pmid-33658779",
+"r": "funded"
 },
 {
-"a": "org:shanghai-eye-disease-prevention-and-treatment-center",
-"b": "trial:nct06708260",
-"r": "site_of"
-},
-{
-"a": "org:shantou-international-eye-center-of-shantou-university-and-t",
-"b": "trial:nct07776522",
-"r": "site_of"
-},
-{
-"a": "org:shanxi-eye-hospital",
-"b": "trial:nct06708260",
-"r": "site_of"
-},
-{
-"a": "org:shenzhen-oculgen-biomedical-technology",
-"b": "drug:bispecific-anti-vegf-and-anti-complement",
-"r": "develops"
-},
-{
-"a": "org:shenzhen-oculgen-biomedical-technology",
-"b": "trial:nct07520318",
-"r": "sponsors"
-},
-{
-"a": "org:shijiazhuang-people-s-hospital",
-"b": "trial:nct06708260",
-"r": "site_of"
+"a": "org:singapore-eye-research-institute",
+"b": "paper:pmid-33940045",
+"r": "funded"
 },
 {
 "a": "org:skyline-therapeutics-us",
@@ -9260,33 +8880,8 @@
 "r": "site_of"
 },
 {
-"a": "org:southwest-hospital",
-"b": "trial:nct07317934",
-"r": "site_of"
-},
-{
-"a": "org:southwest-hospital-army-medical-university-southwest-hospita",
-"b": "trial:nct07776522",
-"r": "site_of"
-},
-{
-"a": "org:southwest-retina-consultants",
-"b": "trial:nct07867080",
-"r": "site_of"
-},
-{
-"a": "org:springdale-arkansas",
-"b": "trial:nct06571045",
-"r": "site_of"
-},
-{
 "a": "org:sun-yat-sen-memorial-hospital-sun-yat-sen-university",
 "b": "trial:nct04772105",
-"r": "site_of"
-},
-{
-"a": "org:sunnybrook-ophthalmology-and-vision-services",
-"b": "trial:nct05984927",
 "r": "site_of"
 },
 {
@@ -9300,24 +8895,9 @@
 "r": "site_of"
 },
 {
-"a": "org:sydney-eye-hospital",
-"b": "trial:nct07766473",
-"r": "site_of"
-},
-{
-"a": "org:sydney-west-retina",
-"b": "trial:nct07766473",
-"r": "site_of"
-},
-{
 "a": "org:taipei-medical-university",
 "b": "paper:pmid-32482069",
 "r": "funded"
-},
-{
-"a": "org:texas-retina-associates",
-"b": "trial:nct06704009",
-"r": "site_of"
 },
 {
 "a": "org:the-affiliated-eye-hospital-of-nanchang-university",
@@ -9327,16 +8907,6 @@
 {
 "a": "org:the-first-affiliated-hospital-of-bengbu-medical-college",
 "b": "trial:nct04772105",
-"r": "site_of"
-},
-{
-"a": "org:the-first-affiliated-hospital-of-jinan-university",
-"b": "trial:nct07317934",
-"r": "site_of"
-},
-{
-"a": "org:the-first-affiliated-hospital-of-university-of-science-and-t",
-"b": "trial:nct07317934",
 "r": "site_of"
 },
 {
@@ -9357,11 +8927,6 @@
 {
 "a": "org:the-first-hospital-of-jilin-university",
 "b": "trial:nct04772105",
-"r": "site_of"
-},
-{
-"a": "org:the-institute-of-eye-surgery",
-"b": "trial:nct04663750",
 "r": "site_of"
 },
 {
@@ -9400,64 +8965,14 @@
 "r": "site_of"
 },
 {
-"a": "org:the-retina-partners-encino-id-256054",
-"b": "trial:nct04704921",
-"r": "site_of"
-},
-{
-"a": "org:the-retina-partners-encino-id-259660",
-"b": "trial:nct05407636",
-"r": "site_of"
-},
-{
-"a": "org:the-retina-partners-id-274741",
-"b": "trial:nct07592273",
-"r": "site_of"
-},
-{
 "a": "org:the-royal-hospitals-belfast",
 "b": "trial:nct06985706",
-"r": "site_of"
-},
-{
-"a": "org:the-second-affiliated-hospital-of-chongqing-medical-universi",
-"b": "trial:nct07317934",
-"r": "site_of"
-},
-{
-"a": "org:the-second-affiliated-hospital-of-harbin-medical-university",
-"b": "trial:nct07776522",
-"r": "site_of"
-},
-{
-"a": "org:the-second-hospital-of-anhui-medical-university",
-"b": "trial:nct05986864",
-"r": "site_of"
-},
-{
-"a": "org:the-second-hospital-of-jilin-university",
-"b": "trial:nct07776522",
-"r": "site_of"
-},
-{
-"a": "org:the-woodlands-tx",
-"b": "trial:nct07587515",
-"r": "site_of"
-},
-{
-"a": "org:tianjin-medical-university-eye-hospital",
-"b": "trial:nct06708260",
 "r": "site_of"
 },
 {
 "a": "org:tulane-university",
 "b": "paper:pmid-33330470",
 "r": "funded"
-},
-{
-"a": "org:tulsa-retina-consultants",
-"b": "trial:nct07811726",
-"r": "site_of"
 },
 {
 "a": "org:u-s-department-of-defense",
@@ -9475,44 +8990,19 @@
 "r": "funded"
 },
 {
-"a": "org:uc-irvine-gavin-herbert-eye-institute-id-256145",
-"b": "trial:nct04704921",
-"r": "site_of"
-},
-{
-"a": "org:ulm-university-hospital",
-"b": "trial:nct04663750",
-"r": "site_of"
-},
-{
 "a": "org:university-hospital-of-wales",
 "b": "trial:nct06985706",
 "r": "site_of"
 },
 {
-"a": "org:university-hospital-of-wurzburg",
-"b": "trial:nct04663750",
-"r": "site_of"
-},
-{
-"a": "org:university-medical-center-hamburg-eppendorf",
-"b": "trial:nct04663750",
-"r": "site_of"
+"a": "org:university-of-aberdeen",
+"b": "paper:pmid-33240272",
+"r": "funded"
 },
 {
 "a": "org:university-of-alabama-at-birmingham",
 "b": "trial:nct07457632",
 "r": "sponsors"
-},
-{
-"a": "org:university-of-arkansas-for-medical-sciences-id-271290",
-"b": "trial:nct04704921",
-"r": "site_of"
-},
-{
-"a": "org:university-of-bonn",
-"b": "trial:nct04663750",
-"r": "site_of"
 },
 {
 "a": "org:university-of-michigan",
@@ -9525,38 +9015,8 @@
 "r": "site_of"
 },
 {
-"a": "org:university-retina-macula-associates-p-c",
-"b": "trial:nct07501052",
-"r": "site_of"
-},
-{
-"a": "org:vancouver-coastal-health-research-institute",
-"b": "trial:nct05984927",
-"r": "site_of"
-},
-{
 "a": "org:verum-research",
 "b": "trial:nct05930561",
-"r": "site_of"
-},
-{
-"a": "org:visara",
-"b": "trial:nct07798375",
-"r": "collaborates"
-},
-{
-"a": "org:vitreo-retinal-associates",
-"b": "trial:nct05197270",
-"r": "site_of"
-},
-{
-"a": "org:vitreoretinal-surgery-pllc",
-"b": "trial:nct05210803",
-"r": "site_of"
-},
-{
-"a": "org:vitreous-retina-macula-specialists-of-toronto",
-"b": "trial:nct05984927",
 "r": "site_of"
 },
 {
@@ -9565,9 +9025,9 @@
 "r": "site_of"
 },
 {
-"a": "org:wagner-kapoor-research-institute",
-"b": "trial:nct05986864",
-"r": "site_of"
+"a": "org:wellcome-trust",
+"b": "paper:pmid-33576772",
+"r": "funded"
 },
 {
 "a": "org:west-china-hospital",
@@ -9625,11 +9085,6 @@
 "r": "funded"
 },
 {
-"a": "org:xian-no-1-hospital",
-"b": "trial:nct06708260",
-"r": "site_of"
-},
-{
 "a": "org:zhejiang-provincial-people-s-hospital",
 "b": "trial:nct04772105",
 "r": "site_of"
@@ -9645,14 +9100,54 @@
 "r": "site_of"
 },
 {
-"a": "org:zhengzhou-second-hospital",
-"b": "trial:nct06708260",
-"r": "site_of"
+"a": "person:a-p-sunija",
+"b": "org:national-institute-of-technology-tiruchirappalli",
+"r": "affiliated"
 },
 {
-"a": "org:zhongshan-ophthalmic-center-sun-yat-sen-university",
-"b": "trial:nct07317934",
-"r": "site_of"
+"a": "person:a-p-sunija",
+"b": "paper:pmid-33339630",
+"r": "authored"
+},
+{
+"a": "person:abdhish-r-bhavsar",
+"b": "org:the-retina-center",
+"r": "affiliated"
+},
+{
+"a": "person:abdhish-r-bhavsar",
+"b": "paper:pmid-32184554",
+"r": "authored"
+},
+{
+"a": "person:abraham-d-flaxman",
+"b": "org:institute-for-health-metrics-and-evaluation",
+"r": "affiliated"
+},
+{
+"a": "person:abraham-d-flaxman",
+"b": "org:university-of-washington",
+"r": "affiliated"
+},
+{
+"a": "person:abraham-d-flaxman",
+"b": "paper:pmid-37318810",
+"r": "authored"
+},
+{
+"a": "person:adam-r-glassman",
+"b": "org:jaeb-center-for-health-research",
+"r": "affiliated"
+},
+{
+"a": "person:adam-r-glassman",
+"b": "paper:pmid-32402554",
+"r": "authored"
+},
+{
+"a": "person:adam-r-glassman",
+"b": "paper:pmid-33784735",
+"r": "authored"
 },
 {
 "a": "person:adam-turpcu",
@@ -9690,6 +9185,16 @@
 "r": "authored"
 },
 {
+"a": "person:akash-tayal",
+"b": "org:indira-gandhi-delhi-technical-university-for-women",
+"r": "affiliated"
+},
+{
+"a": "person:akash-tayal",
+"b": "paper:doi-10-1007-s00530-021-00769-7",
+"r": "authored"
+},
+{
 "a": "person:alauddin-bhuiyan",
 "b": "org:new-york-university",
 "r": "affiliated"
@@ -9720,14 +9225,39 @@
 "r": "authored"
 },
 {
-"a": "person:amira-a-nayel",
-"b": "org:clinical-researcher-and-phd-student-at-the-faculty-of-pharma",
+"a": "person:amir-hussain",
+"b": "org:edinburgh-napier-university",
 "r": "affiliated"
+},
+{
+"a": "person:amir-hussain",
+"b": "paper:pmid-34450729",
+"r": "authored"
 },
 {
 "a": "person:amira-a-nayel",
 "b": "trial:nct06845163",
 "r": "investigator"
+},
+{
+"a": "person:anand-nayyar",
+"b": "org:duy-tan-university",
+"r": "affiliated"
+},
+{
+"a": "person:anand-nayyar",
+"b": "paper:doi-10-1007-s00530-021-00769-7",
+"r": "authored"
+},
+{
+"a": "person:andreas-maier",
+"b": "org:friedrich-alexander-universitat-erlangen-nurnberg",
+"r": "affiliated"
+},
+{
+"a": "person:andreas-maier",
+"b": "paper:pmid-38605088",
+"r": "authored"
 },
 {
 "a": "person:andrew-callan",
@@ -9791,6 +9321,11 @@
 },
 {
 "a": "person:arshad-m-khanani",
+"b": "paper:pmid-32785136",
+"r": "authored"
+},
+{
+"a": "person:arshad-m-khanani",
 "b": "paper:pmid-36741078",
 "r": "authored"
 },
@@ -9805,6 +9340,16 @@
 "r": "authored"
 },
 {
+"a": "person:avinash-v-varadarajan",
+"b": "org:google-united-states",
+"r": "affiliated"
+},
+{
+"a": "person:avinash-v-varadarajan",
+"b": "paper:pmid-31913272",
+"r": "authored"
+},
+{
 "a": "person:balamurali-krishna-ambati",
 "b": "org:university-of-oregon",
 "r": "affiliated"
@@ -9812,6 +9357,21 @@
 {
 "a": "person:balamurali-krishna-ambati",
 "b": "paper:pmid-33504013",
+"r": "authored"
+},
+{
+"a": "person:bonnielin-k-swenor",
+"b": "org:johns-hopkins-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:bonnielin-k-swenor",
+"b": "org:johns-hopkins-university",
+"r": "affiliated"
+},
+{
+"a": "person:bonnielin-k-swenor",
+"b": "paper:pmid-33576772",
 "r": "authored"
 },
 {
@@ -9860,6 +9420,21 @@
 "r": "authored"
 },
 {
+"a": "person:charles-c-wykoff",
+"b": "org:houston-methodist",
+"r": "affiliated"
+},
+{
+"a": "person:charles-c-wykoff",
+"b": "org:retina-consultants-of-texas",
+"r": "affiliated"
+},
+{
+"a": "person:charles-c-wykoff",
+"b": "paper:pmid-34351414",
+"r": "authored"
+},
+{
 "a": "person:charles-miller",
 "b": "org:eyebiotech",
 "r": "affiliated"
@@ -9875,14 +9450,49 @@
 "r": "investigator"
 },
 {
-"a": "person:christopher-d-riemann",
-"b": "org:neuracle-genetics-medical-director",
+"a": "person:cheng-peng",
+"b": "org:harvard-university",
 "r": "affiliated"
+},
+{
+"a": "person:cheng-peng",
+"b": "org:massachusetts-eye-and-ear-infirmary",
+"r": "affiliated"
+},
+{
+"a": "person:cheng-peng",
+"b": "paper:pmid-35321827",
+"r": "authored"
+},
+{
+"a": "person:chingyu-cheng",
+"b": "org:national-university-of-singapore",
+"r": "affiliated"
+},
+{
+"a": "person:chingyu-cheng",
+"b": "org:singapore-national-eye-center",
+"r": "affiliated"
+},
+{
+"a": "person:chingyu-cheng",
+"b": "paper:pmid-33940045",
+"r": "authored"
 },
 {
 "a": "person:christopher-d-riemann",
 "b": "trial:nct05984927",
 "r": "investigator"
+},
+{
+"a": "person:cristina-alvarezescola",
+"b": "org:hospital-universitario-la-paz",
+"r": "affiliated"
+},
+{
+"a": "person:cristina-alvarezescola",
+"b": "paper:pmid-32121432",
+"r": "authored"
 },
 {
 "a": "person:cyril-ronco",
@@ -9915,6 +9525,36 @@
 "r": "authored"
 },
 {
+"a": "person:dale-r-webster",
+"b": "org:google-united-states",
+"r": "affiliated"
+},
+{
+"a": "person:dale-r-webster",
+"b": "paper:pmid-31913272",
+"r": "authored"
+},
+{
+"a": "person:david-m-brown",
+"b": "org:retina-consultants-of-texas",
+"r": "affiliated"
+},
+{
+"a": "person:david-m-brown",
+"b": "paper:doi-10-48350-181493",
+"r": "authored"
+},
+{
+"a": "person:david-m-brown",
+"b": "paper:pmid-34351414",
+"r": "authored"
+},
+{
+"a": "person:david-m-brown",
+"b": "paper:pmid-35038415",
+"r": "authored"
+},
+{
 "a": "person:demi-dang",
 "b": "org:4d-molecular-therapeutics",
 "r": "affiliated"
@@ -9935,6 +9575,51 @@
 "r": "authored"
 },
 {
+"a": "person:dildar-hussain",
+"b": "org:korea-institute-for-advanced-study",
+"r": "affiliated"
+},
+{
+"a": "person:dildar-hussain",
+"b": "paper:doi-10-3390-app10186185",
+"r": "authored"
+},
+{
+"a": "person:dinesh-visva-gunasekeran",
+"b": "org:national-university-of-singapore",
+"r": "affiliated"
+},
+{
+"a": "person:dinesh-visva-gunasekeran",
+"b": "org:singapore-national-eye-center",
+"r": "affiliated"
+},
+{
+"a": "person:dinesh-visva-gunasekeran",
+"b": "paper:pmid-32740069",
+"r": "authored"
+},
+{
+"a": "person:elizabeth-a-lundeen",
+"b": "org:centers-for-disease-control-and-prevention",
+"r": "affiliated"
+},
+{
+"a": "person:elizabeth-a-lundeen",
+"b": "paper:pmid-37318810",
+"r": "authored"
+},
+{
+"a": "person:elizabeth-pearce",
+"b": "org:boehringer-ingelheim-united-states",
+"r": "affiliated"
+},
+{
+"a": "person:elizabeth-pearce",
+"b": "paper:pmid-37499857",
+"r": "authored"
+},
+{
 "a": "person:fedra-hajizadeh",
 "b": "org:noor-eye-hospital",
 "r": "affiliated"
@@ -9947,6 +9632,26 @@
 {
 "a": "person:fedra-hajizadeh",
 "b": "paper:pmid-35259614",
+"r": "authored"
+},
+{
+"a": "person:glenn-noronha",
+"b": "org:clearside-biomedical-united-states",
+"r": "affiliated"
+},
+{
+"a": "person:glenn-noronha",
+"b": "paper:pmid-32173113",
+"r": "authored"
+},
+{
+"a": "person:guo-tong-xu",
+"b": "org:tongji-university",
+"r": "affiliated"
+},
+{
+"a": "person:guo-tong-xu",
+"b": "paper:pmid-36254977",
 "r": "authored"
 },
 {
@@ -10016,11 +9721,6 @@
 },
 {
 "a": "person:hemal-mehta-frcophth-franzco",
-"b": "org:central-coast-eye-specialists",
-"r": "affiliated"
-},
-{
-"a": "person:hemal-mehta-frcophth-franzco",
 "b": "trial:nct07766473",
 "r": "investigator"
 },
@@ -10033,6 +9733,26 @@
 "a": "person:hersh-patel",
 "b": "trial:nct06864988",
 "r": "investigator"
+},
+{
+"a": "person:hong-dai",
+"b": "org:beijing-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:hong-dai",
+"b": "trial:nct07185841",
+"r": "investigator"
+},
+{
+"a": "person:hui-zhou",
+"b": "org:sichuan-academy-of-medical-sciences-sichuan-provincial-peopl",
+"r": "affiliated"
+},
+{
+"a": "person:hui-zhou",
+"b": "paper:doi-10-1109-access-2020-2993937",
+"r": "authored"
 },
 {
 "a": "person:huimin-hu",
@@ -10060,6 +9780,16 @@
 "r": "authored"
 },
 {
+"a": "person:hyuk-yoon-kwon",
+"b": "org:seoul-national-university-of-science-and-technology",
+"r": "affiliated"
+},
+{
+"a": "person:hyuk-yoon-kwon",
+"b": "paper:pmid-34450729",
+"r": "authored"
+},
+{
 "a": "person:j-pablo-velazquez-martin",
 "b": "org:kodiak-sciences",
 "r": "affiliated"
@@ -10080,6 +9810,21 @@
 "r": "authored"
 },
 {
+"a": "person:jennifer-k-sun",
+"b": "org:harvard-university",
+"r": "affiliated"
+},
+{
+"a": "person:jennifer-k-sun",
+"b": "org:joslin-diabetes-center",
+"r": "affiliated"
+},
+{
+"a": "person:jennifer-k-sun",
+"b": "paper:pmid-32402554",
+"r": "authored"
+},
+{
 "a": "person:jennifer-m-kissner",
 "b": "org:outlook-therapeutics",
 "r": "affiliated"
@@ -10090,6 +9835,26 @@
 "r": "investigator"
 },
 {
+"a": "person:jingfa-zhang",
+"b": "org:shanghai-eye-disease-prevention-treatment-center",
+"r": "affiliated"
+},
+{
+"a": "person:jingfa-zhang",
+"b": "org:shanghai-jiao-tong-university",
+"r": "affiliated"
+},
+{
+"a": "person:jingfa-zhang",
+"b": "paper:pmid-36254977",
+"r": "authored"
+},
+{
+"a": "person:jingfa-zhang",
+"b": "paper:pmid-36359761",
+"r": "authored"
+},
+{
 "a": "person:jingping-liou",
 "b": "org:taipei-medical-university",
 "r": "affiliated"
@@ -10097,6 +9862,16 @@
 {
 "a": "person:jingping-liou",
 "b": "paper:pmid-32482069",
+"r": "authored"
+},
+{
+"a": "person:john-v-forrester",
+"b": "org:university-of-aberdeen",
+"r": "affiliated"
+},
+{
+"a": "person:john-v-forrester",
+"b": "paper:pmid-33240272",
 "r": "authored"
 },
 {
@@ -10112,6 +9887,21 @@
 {
 "a": "person:jose-garciaarumi",
 "b": "paper:pmid-36596252",
+"r": "authored"
+},
+{
+"a": "person:joseph-b-ciolino",
+"b": "org:harvard-university",
+"r": "affiliated"
+},
+{
+"a": "person:joseph-b-ciolino",
+"b": "org:massachusetts-eye-and-ear-infirmary",
+"r": "affiliated"
+},
+{
+"a": "person:joseph-b-ciolino",
+"b": "paper:pmid-35321827",
 "r": "authored"
 },
 {
@@ -10135,6 +9925,16 @@
 "r": "investigator"
 },
 {
+"a": "person:junaid-rashid",
+"b": "org:kongju-national-university",
+"r": "affiliated"
+},
+{
+"a": "person:junaid-rashid",
+"b": "paper:pmid-34450729",
+"r": "authored"
+},
+{
 "a": "person:justis-p-ehlers",
 "b": "org:cleveland-clinic",
 "r": "affiliated"
@@ -10142,6 +9942,26 @@
 {
 "a": "person:justis-p-ehlers",
 "b": "paper:pmid-34616189",
+"r": "authored"
+},
+{
+"a": "person:justus-gerhard-garweg",
+"b": "org:university-hospital-of-bern",
+"r": "affiliated"
+},
+{
+"a": "person:justus-gerhard-garweg",
+"b": "org:university-of-bern",
+"r": "affiliated"
+},
+{
+"a": "person:justus-gerhard-garweg",
+"b": "paper:doi-10-48350-181493",
+"r": "authored"
+},
+{
+"a": "person:justus-gerhard-garweg",
+"b": "paper:pmid-35038415",
 "r": "authored"
 },
 {
@@ -10175,6 +9995,16 @@
 "r": "authored"
 },
 {
+"a": "person:kuanyu-lin",
+"b": "org:national-taiwan-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:kuanyu-lin",
+"b": "paper:pmid-33316144",
+"r": "authored"
+},
+{
 "a": "person:kueiju-cheng",
 "b": "org:taipei-medical-university",
 "r": "affiliated"
@@ -10192,6 +10022,66 @@
 {
 "a": "person:kunal-nepali",
 "b": "paper:pmid-32482069",
+"r": "authored"
+},
+{
+"a": "person:lama-assi",
+"b": "org:johns-hopkins-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:lama-assi",
+"b": "org:johns-hopkins-university",
+"r": "affiliated"
+},
+{
+"a": "person:lama-assi",
+"b": "paper:pmid-33576772",
+"r": "authored"
+},
+{
+"a": "person:lei-tang",
+"b": "org:tongji-university",
+"r": "affiliated"
+},
+{
+"a": "person:lei-tang",
+"b": "paper:pmid-36254977",
+"r": "authored"
+},
+{
+"a": "person:lesley-a-everett",
+"b": "org:michigan-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:lesley-a-everett",
+"b": "org:university-of-michigan",
+"r": "affiliated"
+},
+{
+"a": "person:lesley-a-everett",
+"b": "paper:pmid-34487257",
+"r": "authored"
+},
+{
+"a": "person:lifeng-qiao",
+"b": "org:sichuan-academy-of-medical-sciences-sichuan-provincial-peopl",
+"r": "affiliated"
+},
+{
+"a": "person:lifeng-qiao",
+"b": "paper:doi-10-1109-access-2020-2993937",
+"r": "authored"
+},
+{
+"a": "person:lily-peng",
+"b": "org:google-united-states",
+"r": "affiliated"
+},
+{
+"a": "person:lily-peng",
+"b": "paper:pmid-31913272",
 "r": "authored"
 },
 {
@@ -10265,6 +10155,21 @@
 "r": "authored"
 },
 {
+"a": "person:madhuri-rudraraju",
+"b": "org:augusta-university",
+"r": "affiliated"
+},
+{
+"a": "person:madhuri-rudraraju",
+"b": "org:university-of-georgia",
+"r": "affiliated"
+},
+{
+"a": "person:madhuri-rudraraju",
+"b": "paper:pmid-32750417",
+"r": "authored"
+},
+{
 "a": "person:magali-saintgeniez",
 "b": "org:harvard-university",
 "r": "affiliated"
@@ -10280,6 +10185,16 @@
 "r": "authored"
 },
 {
+"a": "person:majid-khan",
+"b": "org:university-of-nevada-reno",
+"r": "affiliated"
+},
+{
+"a": "person:majid-khan",
+"b": "paper:pmid-32785136",
+"r": "authored"
+},
+{
 "a": "person:maria-grant",
 "b": "org:university-of-alabama-at-birmingham",
 "r": "affiliated"
@@ -10288,6 +10203,16 @@
 "a": "person:maria-grant",
 "b": "trial:nct07457632",
 "r": "investigator"
+},
+{
+"a": "person:mariana-gomes-porras",
+"b": "org:hospital-universitario-la-paz",
+"r": "affiliated"
+},
+{
+"a": "person:mariana-gomes-porras",
+"b": "paper:pmid-32121432",
+"r": "authored"
 },
 {
 "a": "person:marie-fabre",
@@ -10335,6 +10260,21 @@
 "r": "authored"
 },
 {
+"a": "person:matt-shirley",
+"b": "org:springer-nature-new-zealand",
+"r": "affiliated"
+},
+{
+"a": "person:mehedi-masud",
+"b": "org:taif-university",
+"r": "affiliated"
+},
+{
+"a": "person:mehedi-masud",
+"b": "paper:doi-10-1007-s00530-021-00769-7",
+"r": "authored"
+},
+{
 "a": "person:michael-j-ammar",
 "b": "org:mid-atlantic-retina",
 "r": "affiliated"
@@ -10347,6 +10287,16 @@
 {
 "a": "person:michael-j-ammar",
 "b": "paper:pmid-32205470",
+"r": "authored"
+},
+{
+"a": "person:mikhail-kulyabin",
+"b": "org:friedrich-alexander-universitat-erlangen-nurnberg",
+"r": "affiliated"
+},
+{
+"a": "person:mikhail-kulyabin",
+"b": "paper:pmid-38605088",
 "r": "authored"
 },
 {
@@ -10377,6 +10327,46 @@
 {
 "a": "person:ming-min",
 "b": "paper:doi-10-1016-j-enggeo-2024-107750",
+"r": "authored"
+},
+{
+"a": "person:mirela-delibegovic",
+"b": "org:university-of-aberdeen",
+"r": "affiliated"
+},
+{
+"a": "person:mirela-delibegovic",
+"b": "paper:pmid-33240272",
+"r": "authored"
+},
+{
+"a": "person:na-wu",
+"b": "org:china-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:na-wu",
+"b": "org:sheng-jing-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:na-wu",
+"b": "paper:pmid-33658779",
+"r": "authored"
+},
+{
+"a": "person:nadia-khalida-waheed",
+"b": "org:tufts-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:nadia-khalida-waheed",
+"b": "org:tufts-university",
+"r": "affiliated"
+},
+{
+"a": "person:nadia-khalida-waheed",
+"b": "paper:pmid-37499857",
 "r": "authored"
 },
 {
@@ -10430,6 +10420,21 @@
 "r": "investigator"
 },
 {
+"a": "person:payaningal-r-somanath",
+"b": "org:augusta-university",
+"r": "affiliated"
+},
+{
+"a": "person:payaningal-r-somanath",
+"b": "org:university-of-georgia",
+"r": "affiliated"
+},
+{
+"a": "person:payaningal-r-somanath",
+"b": "paper:pmid-32750417",
+"r": "authored"
+},
+{
 "a": "person:pengfei-jiang",
 "b": "org:the-ohio-state-university",
 "r": "affiliated"
@@ -10460,6 +10465,16 @@
 "r": "authored"
 },
 {
+"a": "person:ponnusamy-palanisamy",
+"b": "org:national-institute-of-technology-tiruchirappalli",
+"r": "affiliated"
+},
+{
+"a": "person:ponnusamy-palanisamy",
+"b": "paper:pmid-33339630",
+"r": "authored"
+},
+{
 "a": "person:prasanna-ganapathi",
 "b": "org:mylan",
 "r": "affiliated"
@@ -10468,6 +10483,21 @@
 "a": "person:prasanna-ganapathi",
 "b": "trial:nct04674800",
 "r": "investigator"
+},
+{
+"a": "person:prawej-ansari",
+"b": "org:independent-university-bangladesh",
+"r": "affiliated"
+},
+{
+"a": "person:prawej-ansari",
+"b": "org:university-of-ulster",
+"r": "affiliated"
+},
+{
+"a": "person:prawej-ansari",
+"b": "paper:doi-10-3390-diabetology3010011",
+"r": "authored"
 },
 {
 "a": "person:qi-zeng",
@@ -10487,6 +10517,21 @@
 {
 "a": "person:qian-chen",
 "b": "paper:pmid-36349821",
+"r": "authored"
+},
+{
+"a": "person:qinghua-qiu",
+"b": "org:shanghai-eye-disease-prevention-treatment-center",
+"r": "affiliated"
+},
+{
+"a": "person:qinghua-qiu",
+"b": "org:shanghai-jiao-tong-university",
+"r": "affiliated"
+},
+{
+"a": "person:qinghua-qiu",
+"b": "paper:pmid-36359761",
 "r": "authored"
 },
 {
@@ -10515,6 +10560,41 @@
 "r": "authored"
 },
 {
+"a": "person:raj-k-maturi",
+"b": "org:indiana-university-school-of-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:raj-k-maturi",
+"b": "org:midwest-eye-institute",
+"r": "affiliated"
+},
+{
+"a": "person:raj-k-maturi",
+"b": "paper:pmid-33784735",
+"r": "authored"
+},
+{
+"a": "person:rishi-p-singh",
+"b": "org:cleveland-clinic",
+"r": "affiliated"
+},
+{
+"a": "person:rishi-p-singh",
+"b": "paper:pmid-32879755",
+"r": "authored"
+},
+{
+"a": "person:rizwan-ali-naqvi",
+"b": "org:sejong-university",
+"r": "affiliated"
+},
+{
+"a": "person:rizwan-ali-naqvi",
+"b": "paper:doi-10-3390-app10186185",
+"r": "authored"
+},
+{
 "a": "person:robert-shalwitz",
 "b": "org:invirsa",
 "r": "affiliated"
@@ -10525,6 +10605,16 @@
 "r": "investigator"
 },
 {
+"a": "person:robert-vitti",
+"b": "org:regeneron-united-states",
+"r": "affiliated"
+},
+{
+"a": "person:robert-vitti",
+"b": "paper:pmid-34351414",
+"r": "authored"
+},
+{
 "a": "person:roland-theodore-smith",
 "b": "org:icahn-school-of-medicine-at-mount-sinai",
 "r": "affiliated"
@@ -10532,6 +10622,16 @@
 {
 "a": "person:roland-theodore-smith",
 "b": "paper:pmid-32818086",
+"r": "authored"
+},
+{
+"a": "person:sam-e-mansour",
+"b": "org:george-washington-university",
+"r": "affiliated"
+},
+{
+"a": "person:sam-e-mansour",
+"b": "paper:pmid-32184554",
 "r": "authored"
 },
 {
@@ -10670,6 +10770,21 @@
 "r": "authored"
 },
 {
+"a": "person:steven-yeh",
+"b": "org:emory-eye-center",
+"r": "affiliated"
+},
+{
+"a": "person:steven-yeh",
+"b": "org:emory-university",
+"r": "affiliated"
+},
+{
+"a": "person:steven-yeh",
+"b": "paper:pmid-32173113",
+"r": "authored"
+},
+{
 "a": "person:sumedha-chakma",
 "b": "org:indian-institute-of-technology-delhi",
 "r": "affiliated"
@@ -10677,6 +10792,21 @@
 {
 "a": "person:sumedha-chakma",
 "b": "paper:doi-10-1007-s00704-020-03112-8",
+"r": "authored"
+},
+{
+"a": "person:tahira-nazir",
+"b": "org:university-of-engineering-and-technology-taxila",
+"r": "affiliated"
+},
+{
+"a": "person:tahira-nazir",
+"b": "paper:doi-10-3390-app10186185",
+"r": "authored"
+},
+{
+"a": "person:tahira-nazir",
+"b": "paper:pmid-34450729",
 "r": "authored"
 },
 {
@@ -10695,14 +10825,54 @@
 "r": "authored"
 },
 {
-"a": "person:timothy-l-jackson-frcophth",
-"b": "org:kings-college-london-kings-college-hospital",
+"a": "person:tien-yin-wong",
+"b": "org:singapore-eye-research-institute",
 "r": "affiliated"
+},
+{
+"a": "person:tien-yin-wong",
+"b": "org:singapore-national-eye-center",
+"r": "affiliated"
+},
+{
+"a": "person:tien-yin-wong",
+"b": "org:tsinghua-university",
+"r": "affiliated"
+},
+{
+"a": "person:tien-yin-wong",
+"b": "paper:pmid-32740069",
+"r": "authored"
+},
+{
+"a": "person:tien-yin-wong",
+"b": "paper:pmid-38158159",
+"r": "authored"
+},
+{
+"a": "person:tienjyun-chang",
+"b": "org:national-taiwan-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:tienjyun-chang",
+"b": "paper:pmid-33316144",
+"r": "authored"
 },
 {
 "a": "person:timothy-l-jackson-frcophth",
 "b": "trial:nct04663750",
 "r": "investigator"
+},
+{
+"a": "person:varun-p-gopi",
+"b": "org:national-institute-of-technology-tiruchirappalli",
+"r": "affiliated"
+},
+{
+"a": "person:varun-p-gopi",
+"b": "paper:pmid-33339630",
+"r": "authored"
 },
 {
 "a": "person:victor-c-li",
@@ -10810,6 +10980,21 @@
 "r": "authored"
 },
 {
+"a": "person:yannis-mantas-paulus",
+"b": "org:michigan-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:yannis-mantas-paulus",
+"b": "org:university-of-michigan",
+"r": "affiliated"
+},
+{
+"a": "person:yannis-mantas-paulus",
+"b": "paper:pmid-34487257",
+"r": "authored"
+},
+{
 "a": "person:yao-tong",
 "b": "org:tulane-university",
 "r": "affiliated"
@@ -10817,6 +11002,21 @@
 {
 "a": "person:yao-tong",
 "b": "paper:pmid-33330470",
+"r": "authored"
+},
+{
+"a": "person:yasser-h-a-abdelwahab",
+"b": "org:ulster-university-derry-londonderry-campus",
+"r": "affiliated"
+},
+{
+"a": "person:yasser-h-a-abdelwahab",
+"b": "org:university-of-ulster",
+"r": "affiliated"
+},
+{
+"a": "person:yasser-h-a-abdelwahab",
+"b": "paper:doi-10-3390-diabetology3010011",
 "r": "authored"
 },
 {
@@ -10875,6 +11075,36 @@
 "r": "authored"
 },
 {
+"a": "person:yuxin-liu",
+"b": "org:china-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:yuxin-liu",
+"b": "org:sheng-jing-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:yuxin-liu",
+"b": "paper:pmid-33658779",
+"r": "authored"
+},
+{
+"a": "person:zhen-ling-teo",
+"b": "org:singapore-eye-research-institute",
+"r": "affiliated"
+},
+{
+"a": "person:zhen-ling-teo",
+"b": "org:singapore-national-eye-center",
+"r": "affiliated"
+},
+{
+"a": "person:zhen-ling-teo",
+"b": "paper:pmid-33940045",
+"r": "authored"
+},
+{
 "a": "person:zhiyan-xu",
 "b": "org:chinese-academy-of-medical-sciences-peking-union-medical-col",
 "r": "affiliated"
@@ -10887,6 +11117,16 @@
 {
 "a": "person:zhiyan-xu",
 "b": "paper:pmid-32499330",
+"r": "authored"
+},
+{
+"a": "person:zhongqing-wang",
+"b": "org:first-hospital-of-china-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:zhongqing-wang",
+"b": "paper:pmid-35321827",
 "r": "authored"
 },
 {
