@@ -1,6 +1,6 @@
 {
 "assetId": "p-39b0eddd",
-"updated": "2026-10-29",
+"updated": "2026-10-30",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 32,
@@ -241,6 +241,38 @@
 "c": ""
 },
 {
+"k": "trial:nct06719141",
+"t": "trial",
+"n": "A Study to Investigate LP352 in Children and Adults With Developmental and Epileptic Encep",
+"sub": "P3 · active_not_recruiting · 2024-2026",
+"url": "https://clinicaltrials.gov/study/NCT06719141",
+"c": ""
+},
+{
+"k": "org:children-s-hospital-los-angeles-chla",
+"t": "hospital",
+"n": "Children's Hospital Los Angeles (CHLA)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:children-s-national-hospital-children-s-national-heart-cente",
+"t": "hospital",
+"n": "Children's National Hospital - Children's National Heart Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:nicklaus-children-s-hospital-miami-children-s-hospital",
+"t": "hospital",
+"n": "Nicklaus Children's Hospital (Miami Children's Hospital)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "trial:nct05339126",
 "t": "trial",
 "n": "RNS System LGS Feasibility Study",
@@ -324,38 +356,6 @@
 "k": "org:mount-sinai-hospital",
 "t": "hospital",
 "n": "Mount Sinai Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "trial:nct06719141",
-"t": "trial",
-"n": "A Study to Investigate LP352 in Children and Adults With Developmental and Epileptic Encep",
-"sub": "P3 · active_not_recruiting · 2024-2026",
-"url": "https://clinicaltrials.gov/study/NCT06719141",
-"c": ""
-},
-{
-"k": "org:children-s-hospital-los-angeles-chla",
-"t": "hospital",
-"n": "Children's Hospital Los Angeles (CHLA)",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:children-s-national-hospital-children-s-national-heart-cente",
-"t": "hospital",
-"n": "Children's National Hospital - Children's National Heart Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:nicklaus-children-s-hospital-miami-children-s-hospital",
-"t": "hospital",
-"n": "Nicklaus Children's Hospital (Miami Children's Hospital)",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -473,22 +473,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06422377",
-"t": "trial",
-"n": "A Study Evaluating Soticlestat in Participants With Dravet Syndrome or Lennox-Gastaut Synd",
-"sub": "P3 · terminated · 2024-2024",
-"url": "https://clinicaltrials.gov/study/NCT06422377",
-"c": ""
-},
-{
-"k": "org:epilepsihospitalet-filadelfia",
-"t": "hospital",
-"n": "Epilepsihospitalet Filadelfia",
-"sub": "",
-"url": "",
-"c": "Denmark"
-},
-{
 "k": "trial:nct05163314",
 "t": "trial",
 "n": "A Study of Soticlestat as an Add-on Therapy in Children and Adults With Dravet Syndrome or",
@@ -511,6 +495,22 @@
 "sub": "",
 "url": "",
 "c": "United States"
+},
+{
+"k": "trial:nct06422377",
+"t": "trial",
+"n": "A Study Evaluating Soticlestat in Participants With Dravet Syndrome or Lennox-Gastaut Synd",
+"sub": "P3 · terminated · 2024-2024",
+"url": "https://clinicaltrials.gov/study/NCT06422377",
+"c": ""
+},
+{
+"k": "org:epilepsihospitalet-filadelfia",
+"t": "hospital",
+"n": "Epilepsihospitalet Filadelfia",
+"sub": "",
+"url": "",
+"c": "Denmark"
 },
 {
 "k": "trial:nct05626634",
@@ -1772,7 +1772,7 @@
 "k": "paper:pmid-35503717",
 "t": "paper",
 "n": "International League Against Epilepsy classification and definition of epilepsy syndromes ",
-"sub": "Epilepsia 2022 · cited 995",
+"sub": "Epilepsia 2022 · cited 998",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35503717",
 "c": ""
 },
@@ -2916,7 +2916,7 @@
 "k": "paper:pmid-34497718",
 "t": "paper",
 "n": "Cannabidiol modulation of oxidative stress and signalling",
-"sub": "Neuronal Signaling 2021 · cited 84",
+"sub": "Neuronal Signaling 2021 · cited 85",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34497718",
 "c": ""
 },
@@ -3700,7 +3700,7 @@
 "k": "paper:pmid-34431999",
 "t": "paper",
 "n": "Genotype-phenotype correlations in SCN8A -related disorders reveal prognostic and therapeu",
-"sub": "Brain 2021 · cited 146",
+"sub": "Brain 2021 · cited 147",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34431999",
 "c": ""
 },
@@ -3932,7 +3932,7 @@
 "k": "paper:pmid-35435735",
 "t": "paper",
 "n": "Cell-Selective Adeno-Associated Virus-Mediated SCN1A Gene Regulation Therapy Rescues Morta",
-"sub": "Human Gene Therapy 2022 · cited 123",
+"sub": "Human Gene Therapy 2022 · cited 124",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35435735",
 "c": ""
 },
@@ -4561,19 +4561,19 @@
 "c": ""
 },
 {
-"k": "grant:nih-1uh3ns109557-01a1",
-"t": "grant",
-"n": "Thalamocortical Responsive Neurostimulation for the Treatment of Lennox-Gastaut Syndrome",
-"sub": "NIH NINDS · $831,388 · 2021-2026",
-"url": "https://reporter.nih.gov/project-details/9958791",
-"c": ""
-},
-{
 "k": "grant:nih-3uh3ns109557-02s1",
 "t": "grant",
 "n": "Thalamocortical Responsive Neurostimulation for the Treatment of Lennox-Gastaut Syndrome",
 "sub": "NIH NINDS · $30,393 · 2021-2026",
 "url": "https://reporter.nih.gov/project-details/10615330",
+"c": ""
+},
+{
+"k": "grant:nih-1uh3ns109557-01a1",
+"t": "grant",
+"n": "Thalamocortical Responsive Neurostimulation for the Treatment of Lennox-Gastaut Syndrome",
+"sub": "NIH NINDS · $831,388 · 2021-2026",
+"url": "https://reporter.nih.gov/project-details/9958791",
 "c": ""
 },
 {
@@ -4713,19 +4713,19 @@
 "c": ""
 },
 {
-"k": "grant:nih-5r01ns105913-04",
-"t": "grant",
-"n": "Infantile Spasms:  Molecular Underpinnings of a Novel Combination Therapy",
-"sub": "NIH NINDS · $346,719 · 2018-2023",
-"url": "https://reporter.nih.gov/project-details/10109159",
-"c": ""
-},
-{
 "k": "grant:nih-5r01ns105913-05",
 "t": "grant",
 "n": "Infantile Spasms:  Molecular Underpinnings of a Novel Combination Therapy",
 "sub": "NIH NINDS · $346,719 · 2018-2023",
 "url": "https://reporter.nih.gov/project-details/10341168",
+"c": ""
+},
+{
+"k": "grant:nih-5r01ns105913-04",
+"t": "grant",
+"n": "Infantile Spasms:  Molecular Underpinnings of a Novel Combination Therapy",
+"sub": "NIH NINDS · $346,719 · 2018-2023",
+"url": "https://reporter.nih.gov/project-details/10109159",
 "c": ""
 },
 {
