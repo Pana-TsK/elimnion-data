@@ -1,6 +1,6 @@
 {
 "assetId": "alg055009",
-"updated": "2026-10-30",
+"updated": "2026-10-31",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 70,
@@ -16,11 +16,11 @@
 "c": ""
 },
 {
-"k": "trial:nct06959888",
+"k": "trial:nct06342947",
 "t": "trial",
-"n": "A Phase 1 Study in Healthy Volunteers to Evaluate the Relative Bioavailability of ALG-0550",
-"sub": "P1 · completed · 2025-2025",
-"url": "https://clinicaltrials.gov/study/NCT06959888",
+"n": "ALG-055009 in Non-cirrhotic Adults With MASH (HERALD)",
+"sub": "P2 · completed · 2024-2024",
+"url": "https://clinicaltrials.gov/study/NCT06342947",
 "c": ""
 },
 {
@@ -32,6 +32,14 @@
 "c": ""
 },
 {
+"k": "trial:nct06191991",
+"t": "trial",
+"n": "A Phase 1 Study to Evaluate the Drug-Drug Interaction Potential Between ALG-055009 and Sta",
+"sub": "P1 · completed · 2023-2023",
+"url": "https://clinicaltrials.gov/study/NCT06191991",
+"c": ""
+},
+{
 "k": "trial:nct05090111",
 "t": "trial",
 "n": "A Study of ALG-055009 in Healthy Volunteers and Subjects With Hyperlipidemia",
@@ -40,19 +48,11 @@
 "c": ""
 },
 {
-"k": "trial:nct06342947",
+"k": "trial:nct06959888",
 "t": "trial",
-"n": "ALG-055009 in Non-cirrhotic Adults With MASH (HERALD)",
-"sub": "P2 · completed · 2024-2024",
-"url": "https://clinicaltrials.gov/study/NCT06342947",
-"c": ""
-},
-{
-"k": "trial:nct06191991",
-"t": "trial",
-"n": "A Phase 1 Study to Evaluate the Drug-Drug Interaction Potential Between ALG-055009 and Sta",
-"sub": "P1 · completed · 2023-2023",
-"url": "https://clinicaltrials.gov/study/NCT06191991",
+"n": "A Phase 1 Study in Healthy Volunteers to Evaluate the Relative Bioavailability of ALG-0550",
+"sub": "P1 · completed · 2025-2025",
+"url": "https://clinicaltrials.gov/study/NCT06959888",
 "c": ""
 },
 {
@@ -528,11 +528,11 @@
 "c": ""
 },
 {
-"k": "trial:nct07704892",
+"k": "trial:nct07701993",
 "t": "trial",
-"n": "A Study to Investigate Safety and Efficacy of Efimosfermin Compared With Placebo in Adult ",
+"n": "A Pivotal Clinical Study to Investigate the Safety and Efficacy of Efimosfermin Compared W",
 "sub": "P3 · recruiting · 2026-2033",
-"url": "https://clinicaltrials.gov/study/NCT07704892",
+"url": "https://clinicaltrials.gov/study/NCT07701993",
 "c": ""
 },
 {
@@ -560,11 +560,11 @@
 "c": ""
 },
 {
-"k": "trial:nct07701993",
+"k": "trial:nct07704892",
 "t": "trial",
-"n": "A Pivotal Clinical Study to Investigate the Safety and Efficacy of Efimosfermin Compared W",
+"n": "A Study to Investigate Safety and Efficacy of Efimosfermin Compared With Placebo in Adult ",
 "sub": "P3 · recruiting · 2026-2033",
-"url": "https://clinicaltrials.gov/study/NCT07701993",
+"url": "https://clinicaltrials.gov/study/NCT07704892",
 "c": ""
 },
 {
@@ -1192,6 +1192,14 @@
 "c": ""
 },
 {
+"k": "org:profil-institut-fur-stoffwechselforschung",
+"t": "academic",
+"n": "Profil Institut für Stoffwechselforschung GmbH",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
 "k": "drug:vonafexor-low",
 "t": "drug",
 "n": "Vonafexor low",
@@ -1286,6 +1294,70 @@
 "sub": "Boehringer Ingelheim",
 "url": "",
 "c": ""
+},
+{
+"k": "trial:nct07850063",
+"t": "trial",
+"n": "ELEVATE-LIVER: A Study to Test Whether Survodutide Helps Improve Heart Structure and Funct",
+"sub": "P3 · not_yet_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07850063",
+"c": ""
+},
+{
+"k": "org:cedars-sinai-medical-center",
+"t": "hospital",
+"n": "Cedars-Sinai Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:fomat-medical-research",
+"t": "company",
+"n": "Fomat Medical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:interventional-cardiology-medical-group",
+"t": "company",
+"n": "Interventional Cardiology Medical Group",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-kansas-medical-center",
+"t": "hospital",
+"n": "University of Kansas Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:kansas-medical-clinic-pa",
+"t": "hospital",
+"n": "Kansas Medical Clinic PA",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:beth-israel-deaconess-medical-center",
+"t": "hospital",
+"n": "Beth Israel Deaconess Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:southwest-gastroenterology-associates-p-c",
+"t": "company",
+"n": "Southwest Gastroenterology Associates, P.C.",
+"sub": "",
+"url": "",
+"c": "United States"
 },
 {
 "k": "trial:nct07198386",
@@ -1472,54 +1544,6 @@
 "c": ""
 },
 {
-"k": "trial:nct03884075",
-"t": "trial",
-"n": "Non-Alcoholic Fatty Liver Disease, the HEpatic Response to Oral Glucose, and the Effect of",
-"sub": "P2 · recruiting · 2019-2028",
-"url": "https://clinicaltrials.gov/study/NCT03884075",
-"c": ""
-},
-{
-"k": "org:national-cancer-institute-nci",
-"t": "funder",
-"n": "National Cancer Institute (NCI)",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:yaron-rotman-m-d",
-"t": "person",
-"n": "Yaron Rotman, M.D",
-"sub": "principal investigator · National Institute of Diabetes and Digestive and Kidney Diseases ",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-institutes-of-health-clinical-center",
-"t": "hospital",
-"n": "National Institutes of Health Clinical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "trial:nct06104319",
-"t": "trial",
-"n": "Dose Exploration Study of GSK4532990 in. Participants With NASH or Suspected NASH",
-"sub": "P2 · completed · 2024-2025",
-"url": "https://clinicaltrials.gov/study/NCT06104319",
-"c": ""
-},
-{
-"k": "drug:gsk4532990",
-"t": "drug",
-"n": "GSK4532990",
-"sub": "GlaxoSmithKline",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07897981",
 "t": "trial",
 "n": "High-Plant-Protein-Diet or High-Animal-Protein-Diet for Improving Alcoholic Fatty Liver Di",
@@ -1552,6 +1576,54 @@
 "c": ""
 },
 {
+"k": "trial:nct06104319",
+"t": "trial",
+"n": "Dose Exploration Study of GSK4532990 in. Participants With NASH or Suspected NASH",
+"sub": "P2 · completed · 2024-2025",
+"url": "https://clinicaltrials.gov/study/NCT06104319",
+"c": ""
+},
+{
+"k": "drug:gsk4532990",
+"t": "drug",
+"n": "GSK4532990",
+"sub": "GlaxoSmithKline",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct03884075",
+"t": "trial",
+"n": "Non-Alcoholic Fatty Liver Disease, the HEpatic Response to Oral Glucose, and the Effect of",
+"sub": "P2 · recruiting · 2019-2028",
+"url": "https://clinicaltrials.gov/study/NCT03884075",
+"c": ""
+},
+{
+"k": "org:national-cancer-institute-nci",
+"t": "funder",
+"n": "National Cancer Institute (NCI)",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:yaron-rotman-m-d",
+"t": "person",
+"n": "Yaron Rotman, M.D",
+"sub": "principal investigator · National Institute of Diabetes and Digestive and Kidney Diseases ",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institutes-of-health-clinical-center",
+"t": "hospital",
+"n": "National Institutes of Health Clinical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "trial:nct06151964",
 "t": "trial",
 "n": "A Trial to Learn How Safe AZD9550 Monotherapy and Combined With AZD6234 is in People With ",
@@ -1574,70 +1646,6 @@
 "sub": "AstraZeneca",
 "url": "",
 "c": ""
-},
-{
-"k": "trial:nct07850063",
-"t": "trial",
-"n": "ELEVATE-LIVER: A Study to Test Whether Survodutide Helps Improve Heart Structure and Funct",
-"sub": "P3 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07850063",
-"c": ""
-},
-{
-"k": "org:cedars-sinai-medical-center",
-"t": "hospital",
-"n": "Cedars-Sinai Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:fomat-medical-research",
-"t": "company",
-"n": "Fomat Medical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-kansas-medical-center",
-"t": "hospital",
-"n": "University of Kansas Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:kansas-medical-clinic-pa",
-"t": "hospital",
-"n": "Kansas Medical Clinic PA",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:beth-israel-deaconess-medical-center",
-"t": "hospital",
-"n": "Beth Israel Deaconess Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:southwest-gastroenterology-associates-p-c",
-"t": "company",
-"n": "Southwest Gastroenterology Associates, P.C.",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:duke-university-medical-center",
-"t": "hospital",
-"n": "Duke University Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "trial:nct05500586",
@@ -2152,22 +2160,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06465186",
-"t": "trial",
-"n": "A Clinical Study of Efinopegdutide in People With Compensated Cirrhosis Due to Steatohepat",
-"sub": "P2 · completed · 2024-2026",
-"url": "https://clinicaltrials.gov/study/NCT06465186",
-"c": ""
-},
-{
-"k": "org:merck-sharp-dohme",
-"t": "company",
-"n": "Merck Sharp & Dohme LLC",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct05011305",
 "t": "trial",
 "n": "Saroglitazar Magnesium for the Treatment of Nonalcoholic Steatohepatitis With Fibrosis",
@@ -2276,6 +2268,22 @@
 "t": "drug",
 "n": "Saroglitazar Magnesium",
 "sub": "Zydus Therapeutics Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06465186",
+"t": "trial",
+"n": "A Clinical Study of Efinopegdutide in People With Compensated Cirrhosis Due to Steatohepat",
+"sub": "P2 · completed · 2024-2026",
+"url": "https://clinicaltrials.gov/study/NCT06465186",
+"c": ""
+},
+{
+"k": "org:merck-sharp-dohme",
+"t": "company",
+"n": "Merck Sharp & Dohme LLC",
+"sub": "",
 "url": "",
 "c": ""
 },
@@ -2515,6 +2523,14 @@
 "k": "org:mount-sinai-hospital",
 "t": "hospital",
 "n": "Mount Sinai Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:duke-university-medical-center",
+"t": "hospital",
+"n": "Duke University Medical Center",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -2819,7 +2835,7 @@
 "k": "paper:pmid-38851997",
 "t": "paper",
 "n": "EASL–EASD–EASO Clinical Practice Guidelines on the management of metabolic dysfunction-ass",
-"sub": "Journal of Hepatology 2024 · cited 2190",
+"sub": "Journal of Hepatology 2024 · cited 2204",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38851997",
 "c": ""
 },
@@ -2859,7 +2875,7 @@
 "k": "paper:pmid-40305708",
 "t": "paper",
 "n": "Phase 3 Trial of Semaglutide in Metabolic Dysfunction–Associated Steatohepatitis",
-"sub": "New England Journal of Medicine 2025 · cited 1106",
+"sub": "New England Journal of Medicine 2025 · cited 1111",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40305708",
 "c": ""
 },
@@ -2907,7 +2923,7 @@
 "k": "paper:pmid-38856224",
 "t": "paper",
 "n": "Tirzepatide for Metabolic Dysfunction–Associated Steatohepatitis with Liver Fibrosis",
-"sub": "New England Journal of Medicine 2024 · cited 1002",
+"sub": "New England Journal of Medicine 2024 · cited 1005",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38856224",
 "c": ""
 },
@@ -2931,7 +2947,7 @@
 "k": "paper:pmid-39159948",
 "t": "paper",
 "n": "Epidemiology of metabolic dysfunction-associated steatotic liver disease",
-"sub": "Clinical and Molecular Hepatology 2024 · cited 950",
+"sub": "Clinical and Molecular Hepatology 2024 · cited 955",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39159948",
 "c": ""
 },
@@ -2995,7 +3011,7 @@
 "k": "paper:pmid-38228377",
 "t": "paper",
 "n": "MASLD: a systemic metabolic disorder with cardiovascular and malignant complications",
-"sub": "Gut 2024 · cited 926",
+"sub": "Gut 2024 · cited 927",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38228377",
 "c": ""
 },
@@ -3107,7 +3123,7 @@
 "k": "paper:pmid-39530327",
 "t": "paper",
 "n": "Database Resources of the National Genomics Data Center, China National Center for Bioinfo",
-"sub": "Nucleic Acids Research 2024 · cited 425",
+"sub": "Nucleic Acids Research 2024 · cited 428",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39530327",
 "c": ""
 },
@@ -3147,7 +3163,7 @@
 "k": "paper:pmid-38521116",
 "t": "paper",
 "n": "The Global Epidemiology of Nonalcoholic Fatty Liver Disease and Nonalcoholic Steatohepatit",
-"sub": "Clinical Gastroenterology and Hepatology 2024 · cited 413",
+"sub": "Clinical Gastroenterology and Hepatology 2024 · cited 416",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38521116",
 "c": ""
 },
@@ -3171,7 +3187,7 @@
 "k": "paper:pmid-38445559",
 "t": "paper",
 "n": "Metabolic dysfunction–associated steatotic liver disease: Update and impact of new nomencl",
-"sub": "Hepatology 2023 · cited 394",
+"sub": "Hepatology 2023 · cited 395",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38445559",
 "c": ""
 },
@@ -3259,7 +3275,7 @@
 "k": "paper:pmid-40434108",
 "t": "paper",
 "n": "Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD) in People With Diabetes: ",
-"sub": "Diabetes Care 2025 · cited 348",
+"sub": "Diabetes Care 2025 · cited 350",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40434108",
 "c": ""
 },
@@ -3299,7 +3315,7 @@
 "k": "paper:pmid-38908436",
 "t": "paper",
 "n": "Inflammasomes in chronic liver disease: Hepatic injury, fibrosis progression and systemic ",
-"sub": "Journal of Hepatology 2024 · cited 342",
+"sub": "Journal of Hepatology 2024 · cited 343",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38908436",
 "c": ""
 },
@@ -3387,7 +3403,7 @@
 "k": "paper:pmid-38653239",
 "t": "paper",
 "n": "Gut symbionts alleviate MASH through a secondary bile acid biosynthetic pathway",
-"sub": "Cell 2024 · cited 338",
+"sub": "Cell 2024 · cited 339",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38653239",
 "c": ""
 },
@@ -3483,7 +3499,7 @@
 "k": "paper:pmid-38649999",
 "t": "paper",
 "n": "Updated mechanisms of MASLD pathogenesis",
-"sub": "Lipids in Health and Disease 2024 · cited 310",
+"sub": "Lipids in Health and Disease 2024 · cited 311",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38649999",
 "c": ""
 },
@@ -3539,7 +3555,7 @@
 "k": "paper:pmid-40050362",
 "t": "paper",
 "n": "Metabolic dysfunction-associated steatotic liver disease in adults",
-"sub": "Nature Reviews Disease Primers 2025 · cited 300",
+"sub": "Nature Reviews Disease Primers 2025 · cited 302",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40050362",
 "c": ""
 },
@@ -3571,7 +3587,7 @@
 "k": "paper:pmid-38867022",
 "t": "paper",
 "n": "An unbiased ranking of murine dietary models based on their proximity to human metabolic d",
-"sub": "Nature Metabolism 2024 · cited 260",
+"sub": "Nature Metabolism 2024 · cited 261",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38867022",
 "c": ""
 },
@@ -3787,7 +3803,7 @@
 "k": "paper:pmid-40032040",
 "t": "paper",
 "n": "Integrative metabolism in MASLD and MASH: Pathophysiology and emerging mechanisms",
-"sub": "Journal of Hepatology 2025 · cited 235",
+"sub": "Journal of Hepatology 2025 · cited 238",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40032040",
 "c": ""
 },
@@ -3840,6 +3856,14 @@
 "c": ""
 },
 {
+"k": "paper:pmid-41212550",
+"t": "paper",
+"n": "Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults",
+"sub": "JAMA 2025 · cited 236",
+"url": "https://pubmed.ncbi.nlm.nih.gov/41212550",
+"c": ""
+},
+{
 "k": "paper:pmid-37940495",
 "t": "paper",
 "n": "Natural history of metabolic dysfunction-associated steatotic liver disease",
@@ -3870,14 +3894,6 @@
 "sub": "National and Kapodistrian University of Athens",
 "url": "https://orcid.org/0000-0002-3518-4060",
 "c": "GR"
-},
-{
-"k": "paper:pmid-41212550",
-"t": "paper",
-"n": "Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults",
-"sub": "JAMA 2025 · cited 233",
-"url": "https://pubmed.ncbi.nlm.nih.gov/41212550",
-"c": ""
 },
 {
 "k": "paper:pmid-38869512",
@@ -3976,6 +3992,38 @@
 "c": ""
 },
 {
+"k": "paper:pmid-39422487",
+"t": "paper",
+"n": "Resmetirom therapy for metabolic dysfunction-associated steatotic liver disease: October 2",
+"sub": "Hepatology 2024 · cited 213",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39422487",
+"c": ""
+},
+{
+"k": "person:vincent-lingzhi-chen",
+"t": "person",
+"n": "Vincent Lingzhi Chen",
+"sub": "University of Michigan",
+"url": "https://orcid.org/0000-0002-0157-6066",
+"c": "US"
+},
+{
+"k": "person:w-ray-kim",
+"t": "person",
+"n": "W. Ray Kim",
+"sub": "Mayo Clinic in Arizona",
+"url": "https://orcid.org/0000-0002-3030-860X",
+"c": "US"
+},
+{
+"k": "org:mayo-clinic-in-arizona",
+"t": "hospital",
+"n": "Mayo Clinic in Arizona",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
 "k": "paper:pmid-37562748",
 "t": "paper",
 "n": "Incretins (GLP-1 receptor agonists and dual/triple agonists) and the liver",
@@ -4030,38 +4078,6 @@
 "sub": "",
 "url": "",
 "c": ""
-},
-{
-"k": "paper:pmid-39422487",
-"t": "paper",
-"n": "Resmetirom therapy for metabolic dysfunction-associated steatotic liver disease: October 2",
-"sub": "Hepatology 2024 · cited 211",
-"url": "https://pubmed.ncbi.nlm.nih.gov/39422487",
-"c": ""
-},
-{
-"k": "person:vincent-lingzhi-chen",
-"t": "person",
-"n": "Vincent Lingzhi Chen",
-"sub": "University of Michigan",
-"url": "https://orcid.org/0000-0002-0157-6066",
-"c": "US"
-},
-{
-"k": "person:w-ray-kim",
-"t": "person",
-"n": "W. Ray Kim",
-"sub": "Mayo Clinic in Arizona",
-"url": "https://orcid.org/0000-0002-3030-860X",
-"c": "US"
-},
-{
-"k": "org:mayo-clinic-in-arizona",
-"t": "hospital",
-"n": "Mayo Clinic in Arizona",
-"sub": "",
-"url": "",
-"c": "US"
 },
 {
 "k": "paper:pmid-38971533",
@@ -4163,7 +4179,7 @@
 "k": "paper:pmid-40222485",
 "t": "paper",
 "n": "Global Consensus Recommendations for Metabolic Dysfunction-Associated Steatotic Liver Dise",
-"sub": "Gastroenterology 2025 · cited 193",
+"sub": "Gastroenterology 2025 · cited 194",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40222485",
 "c": ""
 },
@@ -4192,50 +4208,10 @@
 "c": "US"
 },
 {
-"k": "paper:pmid-38950910",
-"t": "paper",
-"n": "Interplay between gut microbiome, host genetic and epigenetic modifications in MASLD and M",
-"sub": "Gut 2024 · cited 184",
-"url": "https://pubmed.ncbi.nlm.nih.gov/38950910",
-"c": ""
-},
-{
-"k": "person:suki-ha",
-"t": "person",
-"n": "Suki Ha",
-"sub": "Chinese University of Hong Kong",
-"url": "https://orcid.org/0009-0007-5023-8577",
-"c": "HK"
-},
-{
-"k": "org:chinese-university-of-hong-kong-shenzhen",
-"t": "academic",
-"n": "Chinese University of Hong Kong, Shenzhen",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:jun-qing-yu",
-"t": "person",
-"n": "Jun Qing Yu",
-"sub": "Chinese University of Hong Kong",
-"url": "https://orcid.org/0000-0001-5008-2153",
-"c": "HK"
-},
-{
-"k": "org:innovation-and-technology-fund",
-"t": "funder",
-"n": "Innovation and Technology Fund",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-38451123",
 "t": "paper",
 "n": "Pathogenesis of MASLD and MASH – role of insulin resistance and lipotoxicity",
-"sub": "Alimentary Pharmacology & Therapeutics 2024 · cited 183",
+"sub": "Alimentary Pharmacology & Therapeutics 2024 · cited 185",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38451123",
 "c": ""
 },
@@ -4288,6 +4264,46 @@
 "c": ""
 },
 {
+"k": "paper:pmid-38950910",
+"t": "paper",
+"n": "Interplay between gut microbiome, host genetic and epigenetic modifications in MASLD and M",
+"sub": "Gut 2024 · cited 185",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38950910",
+"c": ""
+},
+{
+"k": "person:suki-ha",
+"t": "person",
+"n": "Suki Ha",
+"sub": "Chinese University of Hong Kong",
+"url": "https://orcid.org/0009-0007-5023-8577",
+"c": "HK"
+},
+{
+"k": "org:chinese-university-of-hong-kong-shenzhen",
+"t": "academic",
+"n": "Chinese University of Hong Kong, Shenzhen",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:jun-qing-yu",
+"t": "person",
+"n": "Jun Qing Yu",
+"sub": "Chinese University of Hong Kong",
+"url": "https://orcid.org/0000-0001-5008-2153",
+"c": "HK"
+},
+{
+"k": "org:innovation-and-technology-fund",
+"t": "funder",
+"n": "Innovation and Technology Fund",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-32998095",
 "t": "paper",
 "n": "Pathophysiological mechanisms underlying MAFLD",
@@ -4328,58 +4344,10 @@
 "c": ""
 },
 {
-"k": "paper:doi-10-1016-j-asoc-2020-106198",
-"t": "paper",
-"n": "Sarcasm detection in mash-up language using soft-attention based bi-directional LSTM and f",
-"sub": "Applied Soft Computing 2020 · cited 176",
-"url": "https://doi.org/10.1016/j.asoc.2020.106198",
-"c": ""
-},
-{
-"k": "person:deepak-kumar-jain",
-"t": "person",
-"n": "Deepak Kumar Jain",
-"sub": "Chongqing University of Posts and Telecommunications",
-"url": "https://orcid.org/0000-0002-3400-1613",
-"c": "CN"
-},
-{
-"k": "org:chongqing-university-of-posts-and-telecommunications",
-"t": "academic",
-"n": "Chongqing University of Posts and Telecommunications",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:akshi-kumar",
-"t": "person",
-"n": "Akshi Kumar",
-"sub": "Delhi Technological University",
-"url": "https://orcid.org/0000-0003-4263-7168",
-"c": "IN"
-},
-{
-"k": "org:delhi-technological-university",
-"t": "academic",
-"n": "Delhi Technological University",
-"sub": "",
-"url": "",
-"c": "IN"
-},
-{
-"k": "person:geetanjali-garg",
-"t": "person",
-"n": "Geetanjali Garg",
-"sub": "Delhi Technological University",
-"url": "https://orcid.org/0000-0002-0578-484X",
-"c": "IN"
-},
-{
 "k": "paper:pmid-38349726",
 "t": "paper",
 "n": "Molecular mechanisms in MASLD/MASH-related HCC",
-"sub": "Hepatology 2024 · cited 176",
+"sub": "Hepatology 2024 · cited 178",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38349726",
 "c": ""
 },
@@ -4408,10 +4376,42 @@
 "c": "US"
 },
 {
+"k": "paper:pmid-39609545",
+"t": "paper",
+"n": "Therapeutic landscape of metabolic dysfunction-associated steatohepatitis (MASH)",
+"sub": "Nature Reviews Drug Discovery 2024 · cited 177",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39609545",
+"c": ""
+},
+{
+"k": "person:albert-do",
+"t": "person",
+"n": "Albert Do",
+"sub": "Yale University",
+"url": "https://orcid.org/0000-0002-1980-5197",
+"c": "US"
+},
+{
+"k": "org:university-of-california-davis",
+"t": "academic",
+"n": "University of California, Davis",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:united-states-department-of-veterans-affairs",
+"t": "funder",
+"n": "United States Department of Veterans Affairs",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
 "k": "paper:pmid-37363821",
 "t": "paper",
 "n": "A multisociety Delphi consensus statement on new fatty liver disease nomenclature",
-"sub": "Hepatology 2023 · cited 3458",
+"sub": "Hepatology 2023 · cited 3462",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37363821",
 "c": ""
 },
@@ -4435,7 +4435,7 @@
 "k": "paper:pmid-36626630",
 "t": "paper",
 "n": "The global epidemiology of nonalcoholic fatty liver disease (NAFLD) and nonalcoholic steat",
-"sub": "Hepatology 2023 · cited 3372",
+"sub": "Hepatology 2023 · cited 3380",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36626630",
 "c": ""
 },
@@ -4443,7 +4443,7 @@
 "k": "paper:pmid-37364790",
 "t": "paper",
 "n": "A multisociety Delphi consensus statement on new fatty liver disease nomenclature",
-"sub": "Journal of Hepatology 2023 · cited 3093",
+"sub": "Journal of Hepatology 2023 · cited 3100",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37364790",
 "c": ""
 },
@@ -4451,7 +4451,7 @@
 "k": "paper:pmid-36727674",
 "t": "paper",
 "n": "AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty li",
-"sub": "Hepatology 2023 · cited 2659",
+"sub": "Hepatology 2023 · cited 2667",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36727674",
 "c": ""
 },
@@ -4475,7 +4475,7 @@
 "k": "paper:pmid-38324483",
 "t": "paper",
 "n": "A Phase 3, Randomized, Controlled Trial of Resmetirom in NASH with Liver Fibrosis",
-"sub": "New England Journal of Medicine 2024 · cited 2078",
+"sub": "New England Journal of Medicine 2024 · cited 2084",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38324483",
 "c": ""
 },
@@ -4507,7 +4507,7 @@
 "k": "paper:pmid-33185364",
 "t": "paper",
 "n": "A Placebo-Controlled Trial of Subcutaneous Semaglutide in Nonalcoholic Steatohepatitis",
-"sub": "New England Journal of Medicine 2020 · cited 2036",
+"sub": "New England Journal of Medicine 2020 · cited 2038",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33185364",
 "c": ""
 },
@@ -4515,7 +4515,7 @@
 "k": "paper:pmid-33989548",
 "t": "paper",
 "n": "Mechanisms and disease consequences of nonalcoholic fatty liver disease",
-"sub": "Cell 2021 · cited 2001",
+"sub": "Cell 2021 · cited 2002",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33989548",
 "c": ""
 },
@@ -4555,7 +4555,7 @@
 "k": "paper:pmid-32582143",
 "t": "paper",
 "n": "The Genus Alistipes: Gut Bacteria With Emerging Implications to Inflammation, Cancer, and ",
-"sub": "Frontiers in Immunology 2020 · cited 1716",
+"sub": "Frontiers in Immunology 2020 · cited 1717",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32582143",
 "c": ""
 },
@@ -4603,7 +4603,7 @@
 "k": "paper:pmid-32207804",
 "t": "paper",
 "n": "Nonalcoholic Steatohepatitis",
-"sub": "JAMA 2020 · cited 1390",
+"sub": "JAMA 2020 · cited 1391",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32207804",
 "c": ""
 },
@@ -4635,7 +4635,7 @@
 "k": "paper:pmid-32061595",
 "t": "paper",
 "n": "Nonalcoholic Fatty Liver Disease 2020: The State of the Disease",
-"sub": "Gastroenterology 2020 · cited 1203",
+"sub": "Gastroenterology 2020 · cited 1204",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32061595",
 "c": ""
 },
@@ -4667,7 +4667,7 @@
 "k": "paper:pmid-32027911",
 "t": "paper",
 "n": "Association Between Fibrosis Stage and Outcomes of Patients With Nonalcoholic Fatty Liver ",
-"sub": "Gastroenterology 2020 · cited 1067",
+"sub": "Gastroenterology 2020 · cited 1068",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32027911",
 "c": ""
 },
@@ -4715,7 +4715,7 @@
 "k": "paper:pmid-36316383",
 "t": "paper",
 "n": "New insights into activation and function of the AMPK",
-"sub": "Nature Reviews Molecular Cell Biology 2022 · cited 1024",
+"sub": "Nature Reviews Molecular Cell Biology 2022 · cited 1026",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36316383",
 "c": ""
 },
@@ -4755,7 +4755,7 @@
 "k": "paper:pmid-35569886",
 "t": "paper",
 "n": "American Association of Clinical Endocrinology Clinical Practice Guideline for the Diagnos",
-"sub": "Endocrine Practice 2022 · cited 1019",
+"sub": "Endocrine Practice 2022 · cited 1021",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35569886",
 "c": ""
 },
@@ -4763,7 +4763,7 @@
 "k": "paper:pmid-33972770",
 "t": "paper",
 "n": "The complex link between NAFLD and type 2 diabetes mellitus — mechanisms and treatments",
-"sub": "Nature Reviews Gastroenterology & Hepatology 2021 · cited 849",
+"sub": "Nature Reviews Gastroenterology & Hepatology 2021 · cited 850",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33972770",
 "c": ""
 },
@@ -4803,7 +4803,7 @@
 "k": "paper:pmid-37364816",
 "t": "paper",
 "n": "A multisociety Delphi consensus statement on new fatty liver disease nomenclature",
-"sub": "Annals of Hepatology 2023 · cited 843",
+"sub": "Annals of Hepatology 2023 · cited 844",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37364816",
 "c": ""
 },
@@ -4811,7 +4811,7 @@
 "k": "paper:pmid-37400694",
 "t": "paper",
 "n": "Hepatic inflammatory responses in liver fibrosis",
-"sub": "Nature Reviews Gastroenterology & Hepatology 2023 · cited 802",
+"sub": "Nature Reviews Gastroenterology & Hepatology 2023 · cited 803",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37400694",
 "c": ""
 },
@@ -5107,7 +5107,7 @@
 "k": "paper:pmid-32531342",
 "t": "paper",
 "n": "Nonalcoholic Steatohepatitis Is the Most Rapidly Increasing Indication for Liver Transplan",
-"sub": "Clinical Gastroenterology and Hepatology 2020 · cited 581",
+"sub": "Clinical Gastroenterology and Hepatology 2020 · cited 582",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32531342",
 "c": ""
 },
@@ -5155,7 +5155,7 @@
 "k": "paper:pmid-32006558",
 "t": "paper",
 "n": "Complications, morbidity and mortality of nonalcoholic fatty liver disease",
-"sub": "Metabolism 2020 · cited 556",
+"sub": "Metabolism 2020 · cited 558",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32006558",
 "c": ""
 },
@@ -5227,7 +5227,7 @@
 "k": "paper:pmid-32730231",
 "t": "paper",
 "n": "Tirzepatide is an imbalanced and biased dual GIP and GLP-1 receptor agonist",
-"sub": "JCI Insight 2020 · cited 540",
+"sub": "JCI Insight 2020 · cited 541",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32730231",
 "c": ""
 },
@@ -5259,7 +5259,7 @@
 "k": "paper:pmid-37356033",
 "t": "paper",
 "n": "Randomized, Controlled Trial of the FGF21 Analogue Pegozafermin in NASH",
-"sub": "New England Journal of Medicine 2023 · cited 521",
+"sub": "New England Journal of Medicine 2023 · cited 522",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37356033",
 "c": ""
 },
@@ -5270,6 +5270,30 @@
 "sub": "",
 "url": "",
 "c": "US"
+},
+{
+"k": "paper:pmid-37121527",
+"t": "paper",
+"n": "The Global Burden of Liver Disease",
+"sub": "Clinical Gastroenterology and Hepatology 2023 · cited 509",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37121527",
+"c": ""
+},
+{
+"k": "org:european-federation-of-pharmaceutical-industries-and-associa",
+"t": "funder",
+"n": "European Federation of Pharmaceutical Industries and Associations",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:innovative-medicines-initiative",
+"t": "funder",
+"n": "Innovative Medicines Initiative",
+"sub": "",
+"url": "",
+"c": ""
 },
 {
 "k": "paper:pmid-33762736",
@@ -5315,30 +5339,6 @@
 "k": "org:tehran-university-of-medical-sciences-and-health-services",
 "t": "funder",
 "n": "Tehran University of Medical Sciences and Health Services",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-37121527",
-"t": "paper",
-"n": "The Global Burden of Liver Disease",
-"sub": "Clinical Gastroenterology and Hepatology 2023 · cited 507",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37121527",
-"c": ""
-},
-{
-"k": "org:european-federation-of-pharmaceutical-industries-and-associa",
-"t": "funder",
-"n": "European Federation of Pharmaceutical Industries and Associations",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:innovative-medicines-initiative",
-"t": "funder",
-"n": "Innovative Medicines Initiative",
 "sub": "",
 "url": "",
 "c": ""
@@ -5403,7 +5403,7 @@
 "k": "paper:pmid-33268509",
 "t": "paper",
 "n": "Transcriptomic profiling across the nonalcoholic fatty liver disease spectrum reveals gene",
-"sub": "Science Translational Medicine 2020 · cited 477",
+"sub": "Science Translational Medicine 2020 · cited 479",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33268509",
 "c": ""
 },
@@ -6980,11 +6980,6 @@
 "r": "site_of"
 },
 {
-"a": "org:duke-university-medical-center",
-"b": "trial:nct07850063",
-"r": "site_of"
-},
-{
 "a": "org:eccogene",
 "b": "drug:ecc0509",
 "r": "develops"
@@ -7480,6 +7475,11 @@
 "r": "funded"
 },
 {
+"a": "org:interventional-cardiology-medical-group",
+"b": "trial:nct07850063",
+"r": "site_of"
+},
+{
 "a": "org:inventiva-pharma",
 "b": "drug:empagliflozin",
 "r": "develops"
@@ -7920,11 +7920,6 @@
 "r": "funded"
 },
 {
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-39821400",
-"r": "funded"
-},
-{
 "a": "org:national-institutes-of-health-clinical-center",
 "b": "trial:nct03884075",
 "r": "site_of"
@@ -8142,6 +8137,11 @@
 {
 "a": "org:prince-of-wales-hospital-the-chinese-university-of-hong-kong",
 "b": "trial:nct07024212",
+"r": "site_of"
+},
+{
+"a": "org:profil-institut-fur-stoffwechselforschung",
+"b": "trial:nct06939816",
 "r": "site_of"
 },
 {
@@ -8885,16 +8885,6 @@
 "r": "investigator"
 },
 {
-"a": "person:akshi-kumar",
-"b": "org:delhi-technological-university",
-"r": "affiliated"
-},
-{
-"a": "person:akshi-kumar",
-"b": "paper:doi-10-1016-j-asoc-2020-106198",
-"r": "authored"
-},
-{
 "a": "person:alan-l-hutchison",
 "b": "org:university-of-chicago",
 "r": "affiliated"
@@ -8902,6 +8892,21 @@
 {
 "a": "person:alan-l-hutchison",
 "b": "paper:pmid-37730124",
+"r": "authored"
+},
+{
+"a": "person:albert-do",
+"b": "org:university-of-california-davis",
+"r": "affiliated"
+},
+{
+"a": "person:albert-do",
+"b": "org:yale-university",
+"r": "affiliated"
+},
+{
+"a": "person:albert-do",
+"b": "paper:pmid-39609545",
 "r": "authored"
 },
 {
@@ -9120,16 +9125,6 @@
 "r": "authored"
 },
 {
-"a": "person:deepak-kumar-jain",
-"b": "org:chongqing-university-of-posts-and-telecommunications",
-"r": "affiliated"
-},
-{
-"a": "person:deepak-kumar-jain",
-"b": "paper:doi-10-1016-j-asoc-2020-106198",
-"r": "authored"
-},
-{
 "a": "person:dennis-to",
 "b": "org:neuraly",
 "r": "affiliated"
@@ -9252,16 +9247,6 @@
 {
 "a": "person:frank-tacke",
 "b": "paper:pmid-38869512",
-"r": "authored"
-},
-{
-"a": "person:geetanjali-garg",
-"b": "org:delhi-technological-university",
-"r": "affiliated"
-},
-{
-"a": "person:geetanjali-garg",
-"b": "paper:doi-10-1016-j-asoc-2020-106198",
 "r": "authored"
 },
 {
@@ -10586,12 +10571,22 @@
 },
 {
 "a": "person:wajahat-zafar-mehal",
+"b": "org:united-states-department-of-veterans-affairs",
+"r": "affiliated"
+},
+{
+"a": "person:wajahat-zafar-mehal",
 "b": "org:yale-university",
 "r": "affiliated"
 },
 {
 "a": "person:wajahat-zafar-mehal",
 "b": "paper:pmid-38908436",
+"r": "authored"
+},
+{
+"a": "person:wajahat-zafar-mehal",
+"b": "paper:pmid-39609545",
 "r": "authored"
 },
 {
