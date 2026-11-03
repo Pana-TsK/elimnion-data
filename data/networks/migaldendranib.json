@@ -1,6 +1,6 @@
 {
 "assetId": "migaldendranib",
-"updated": "2026-11-02",
+"updated": "2026-11-03",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 80,
@@ -60,6 +60,38 @@
 "t": "drug",
 "n": "HX9428",
 "sub": "Fujian Haixi Pharmaceuticals Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05536973",
+"t": "trial",
+"n": "Safety and Efficacy of ADVM-022 in Treatment-Experienced Patients With Neovascular Age-rel",
+"sub": "P2 · active_not_recruiting · 2022-2028",
+"url": "https://clinicaltrials.gov/study/NCT05536973",
+"c": ""
+},
+{
+"k": "org:adverum-biotechnologies",
+"t": "company",
+"n": "Adverum Biotechnologies, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:adam-turpcu",
+"t": "person",
+"n": "Adam Turpcu",
+"sub": "study director · Adverum Biotechnologies, Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:advm-022",
+"t": "drug",
+"n": "ADVM-022",
+"sub": "Adverum Biotechnologies, Inc.",
 "url": "",
 "c": ""
 },
@@ -124,38 +156,6 @@
 "t": "drug",
 "n": "Iptacopan",
 "sub": "Novartis Pharmaceuticals",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05536973",
-"t": "trial",
-"n": "Safety and Efficacy of ADVM-022 in Treatment-Experienced Patients With Neovascular Age-rel",
-"sub": "P2 · active_not_recruiting · 2022-2028",
-"url": "https://clinicaltrials.gov/study/NCT05536973",
-"c": ""
-},
-{
-"k": "org:adverum-biotechnologies",
-"t": "company",
-"n": "Adverum Biotechnologies, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:adam-turpcu",
-"t": "person",
-"n": "Adam Turpcu",
-"sub": "study director · Adverum Biotechnologies, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:advm-022",
-"t": "drug",
-"n": "ADVM-022",
-"sub": "Adverum Biotechnologies, Inc.",
 "url": "",
 "c": ""
 },
@@ -504,11 +504,11 @@
 "c": ""
 },
 {
-"k": "trial:nct07816289",
+"k": "trial:nct07816315",
 "t": "trial",
 "n": "Phase 3 Study of Intravitreal OLN324 in Adults With Neovascular (Wet) Age-related Macular ",
 "sub": "P3 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07816289",
+"url": "https://clinicaltrials.gov/study/NCT07816315",
 "c": ""
 },
 {
@@ -523,14 +523,6 @@
 "k": "drug:oln324",
 "t": "drug",
 "n": "OLN324",
-"sub": "Ollin Biosciences, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:ranibizumab",
-"t": "drug",
-"n": "Ranibizumab",
 "sub": "Ollin Biosciences, Inc.",
 "url": "",
 "c": ""
@@ -584,11 +576,19 @@
 "c": ""
 },
 {
-"k": "trial:nct07816315",
+"k": "trial:nct07816289",
 "t": "trial",
 "n": "Phase 3 Study of Intravitreal OLN324 in Adults With Neovascular (Wet) Age-related Macular ",
 "sub": "P3 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07816315",
+"url": "https://clinicaltrials.gov/study/NCT07816289",
+"c": ""
+},
+{
+"k": "drug:ranibizumab",
+"t": "drug",
+"n": "Ranibizumab",
+"sub": "Ollin Biosciences, Inc.",
+"url": "",
 "c": ""
 },
 {
@@ -840,6 +840,30 @@
 "c": ""
 },
 {
+"k": "trial:nct07496567",
+"t": "trial",
+"n": "A Clinical Trial of EYE201/MK-8748 in People With Macular Degeneration (MK-8748-003)",
+"sub": "P2/P3 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07496567",
+"c": ""
+},
+{
+"k": "org:northern-california-retina-vitreous-associates-medical-group",
+"t": "company",
+"n": "Northern California Retina Vitreous Associates Medical Group, Inc.",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:retina-consultants-of-southern-colorado",
+"t": "company",
+"n": "Retina Consultants of Southern Colorado",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "trial:nct07317934",
 "t": "trial",
 "n": "Efficacy and Safety of LX102 Gene Therapy in Patients With Neovascular Age-related Macular",
@@ -869,38 +893,6 @@
 "n": "LX102",
 "sub": "Innostellar Biotherapeutics Co.,Ltd",
 "url": "",
-"c": ""
-},
-{
-"k": "trial:nct07496567",
-"t": "trial",
-"n": "A Clinical Trial of EYE201/MK-8748 in People With Macular Degeneration (MK-8748-003)",
-"sub": "P2/P3 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07496567",
-"c": ""
-},
-{
-"k": "org:northern-california-retina-vitreous-associates-medical-group",
-"t": "company",
-"n": "Northern California Retina Vitreous Associates Medical Group, Inc.",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-consultants-of-southern-colorado",
-"t": "company",
-"n": "Retina Consultants of Southern Colorado",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "trial:nct07630649",
-"t": "trial",
-"n": "Ixoberogene Soroparvovec (Ixo-vec) Contralateral Dosing Study in Participants With Neovasc",
-"sub": "P2 · recruiting · 2026-2031",
-"url": "https://clinicaltrials.gov/study/NCT07630649",
 "c": ""
 },
 {
@@ -944,6 +936,30 @@
 "c": "United States"
 },
 {
+"k": "trial:nct07630649",
+"t": "trial",
+"n": "Ixoberogene Soroparvovec (Ixo-vec) Contralateral Dosing Study in Participants With Neovasc",
+"sub": "P2 · recruiting · 2026-2031",
+"url": "https://clinicaltrials.gov/study/NCT07630649",
+"c": ""
+},
+{
+"k": "trial:nct05407636",
+"t": "trial",
+"n": "Pivotal 2 Study of RGX-314 Gene Therapy in Participants With nAMD",
+"sub": "P3 · active_not_recruiting · 2022-2027",
+"url": "https://clinicaltrials.gov/study/NCT05407636",
+"c": ""
+},
+{
+"k": "drug:abbv-rgx-314",
+"t": "drug",
+"n": "ABBV-RGX-314",
+"sub": "AbbVie",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct03834753",
 "t": "trial",
 "n": "A Clinical Effectiveness Study Examining the Efficacy and Safety of ONS-5010 in Subjects W",
@@ -972,22 +988,6 @@
 "t": "drug",
 "n": "bevacizumab",
 "sub": "Outlook Therapeutics, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05407636",
-"t": "trial",
-"n": "Pivotal 2 Study of RGX-314 Gene Therapy in Participants With nAMD",
-"sub": "P3 · active_not_recruiting · 2022-2027",
-"url": "https://clinicaltrials.gov/study/NCT05407636",
-"c": ""
-},
-{
-"k": "drug:abbv-rgx-314",
-"t": "drug",
-"n": "ABBV-RGX-314",
-"sub": "AbbVie",
 "url": "",
 "c": ""
 },
@@ -1248,30 +1248,6 @@
 "c": ""
 },
 {
-"k": "trial:nct04692688",
-"t": "trial",
-"n": "Study of the Safety and Efficacy of APX3330 in Diabetic Retinopathy",
-"sub": "P2 · completed · 2021-2023",
-"url": "https://clinicaltrials.gov/study/NCT04692688",
-"c": ""
-},
-{
-"k": "org:opus-genetics",
-"t": "company",
-"n": "Opus Genetics, Inc",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:apx3330",
-"t": "drug",
-"n": "APX3330",
-"sub": "Opus Genetics, Inc",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct06957080",
 "t": "trial",
 "n": "A Study of 2 Doses of Remigromig (EYE103) Compared With Ranibizumab (0.5 mg) in Participan",
@@ -1348,6 +1324,30 @@
 "t": "drug",
 "n": "EYELEA",
 "sub": "4D Molecular Therapeutics",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04692688",
+"t": "trial",
+"n": "Study of the Safety and Efficacy of APX3330 in Diabetic Retinopathy",
+"sub": "P2 · completed · 2021-2023",
+"url": "https://clinicaltrials.gov/study/NCT04692688",
+"c": ""
+},
+{
+"k": "org:opus-genetics",
+"t": "company",
+"n": "Opus Genetics, Inc",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:apx3330",
+"t": "drug",
+"n": "APX3330",
+"sub": "Opus Genetics, Inc",
 "url": "",
 "c": ""
 },
@@ -1480,6 +1480,22 @@
 "c": ""
 },
 {
+"k": "trial:nct07705607",
+"t": "trial",
+"n": "A Clinical Trial of MK-8748 Compared to Aflibercept in Participants With Diabetic Macular ",
+"sub": "P3 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07705607",
+"c": ""
+},
+{
+"k": "drug:mk-8748",
+"t": "drug",
+"n": "MK-8748",
+"sub": "Merck Sharp & Dohme LLC",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07459829",
 "t": "trial",
 "n": "Study of CU06-1004 in Patients With Daibetic Macular Edema",
@@ -1500,22 +1516,6 @@
 "t": "drug",
 "n": "CU06-1004",
 "sub": "Curacle Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07705607",
-"t": "trial",
-"n": "A Clinical Trial of MK-8748 Compared to Aflibercept in Participants With Diabetic Macular ",
-"sub": "P3 · recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07705607",
-"c": ""
-},
-{
-"k": "drug:mk-8748",
-"t": "drug",
-"n": "MK-8748",
-"sub": "Merck Sharp & Dohme LLC",
 "url": "",
 "c": ""
 },
@@ -1560,30 +1560,6 @@
 "c": ""
 },
 {
-"k": "trial:nct05217680",
-"t": "trial",
-"n": "Clinical Study to Evaluate PRO-169 for Diabetic Macular Edema",
-"sub": "P3 · completed · 2021-2025",
-"url": "https://clinicaltrials.gov/study/NCT05217680",
-"c": ""
-},
-{
-"k": "org:laboratorios-sophia-s-a-de-c-v",
-"t": "company",
-"n": "Laboratorios Sophia S.A de C.V.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:lucentis",
-"t": "drug",
-"n": "Lucentis",
-"sub": "Laboratorios Sophia S.A de C.V.",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct06116916",
 "t": "trial",
 "n": "Study to Assess the Efficacy & Safety of KHK4951 in Patients With Diabetic Macular Edema",
@@ -1612,6 +1588,30 @@
 "t": "drug",
 "n": "KHK4951",
 "sub": "Kyowa Kirin Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05217680",
+"t": "trial",
+"n": "Clinical Study to Evaluate PRO-169 for Diabetic Macular Edema",
+"sub": "P3 · completed · 2021-2025",
+"url": "https://clinicaltrials.gov/study/NCT05217680",
+"c": ""
+},
+{
+"k": "org:laboratorios-sophia-s-a-de-c-v",
+"t": "company",
+"n": "Laboratorios Sophia S.A de C.V.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:lucentis",
+"t": "drug",
+"n": "Lucentis",
+"sub": "Laboratorios Sophia S.A de C.V.",
 "url": "",
 "c": ""
 },
@@ -1776,28 +1776,12 @@
 "c": ""
 },
 {
-"k": "trial:nct07449936",
-"t": "trial",
-"n": "COMO: A Phase 3 Randomized, Double-Masked Study Comparing the Efficacy of EYP-1901 Against",
-"sub": "P3 · active_not_recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07449936",
-"c": ""
-},
-{
 "k": "trial:nct07449923",
 "t": "trial",
 "n": "CAPRI: A Phase 3 Randomized, Double-Masked Study Comparing the Efficacy of EYP-1901 Agains",
 "sub": "P3 · active_not_recruiting · 2026-2028",
 "url": "https://clinicaltrials.gov/study/NCT07449923",
 "c": ""
-},
-{
-"k": "org:phoenix-retina-clinical-trials-north-phoenix",
-"t": "hospital",
-"n": "Phoenix Retina Clinical Trials, LLC - North Phoenix",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "org:south-coast-retina-center",
@@ -1819,6 +1803,22 @@
 "k": "org:kaiser-permanente",
 "t": "company",
 "n": "Kaiser Permanente",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct07449936",
+"t": "trial",
+"n": "COMO: A Phase 3 Randomized, Double-Masked Study Comparing the Efficacy of EYP-1901 Against",
+"sub": "P3 · active_not_recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07449936",
+"c": ""
+},
+{
+"k": "org:retinal-consultants-medical-group-parkcenter-drive",
+"t": "company",
+"n": "Retinal Consultants Medical Group - Parkcenter Drive",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -2080,19 +2080,19 @@
 "c": "United Kingdom"
 },
 {
-"k": "trial:nct07841899",
-"t": "trial",
-"n": "Phase 3 Study of Intravitreal OLN324 in Adults With Diabetic Macular Edema (DME) (OLN324-C",
-"sub": "P3 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07841899",
-"c": ""
-},
-{
 "k": "trial:nct07842016",
 "t": "trial",
 "n": "Phase 3 Study of Intravitreal OLN324 in Adults With Diabetic Macular Edema (DME) (OLN324-C",
 "sub": "P3 · not_yet_recruiting · 2026-2029",
 "url": "https://clinicaltrials.gov/study/NCT07842016",
+"c": ""
+},
+{
+"k": "trial:nct07841899",
+"t": "trial",
+"n": "Phase 3 Study of Intravitreal OLN324 in Adults With Diabetic Macular Edema (DME) (OLN324-C",
+"sub": "P3 · not_yet_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07841899",
 "c": ""
 },
 {
@@ -2544,6 +2544,30 @@
 "c": ""
 },
 {
+"k": "trial:nct07734844",
+"t": "trial",
+"n": "A Study to Evaluate the Efficacy and Safety of Tabirafusp Tedromer Compared to Aflibercept",
+"sub": "P3 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07734844",
+"c": ""
+},
+{
+"k": "person:j-pablo-velazquez-martin",
+"t": "person",
+"n": "J. Pablo Velazquez-Martin",
+"sub": "study director · Kodiak Sciences Inc",
+"url": "",
+"c": ""
+},
+{
+"k": "org:kodiak-research-center",
+"t": "company",
+"n": "Kodiak Research Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "trial:nct05930561",
 "t": "trial",
 "n": "4D-150 in Patients With Diabetic Macular Edema",
@@ -2598,30 +2622,6 @@
 "sub": "",
 "url": "",
 "c": "Puerto Rico"
-},
-{
-"k": "trial:nct07734844",
-"t": "trial",
-"n": "A Study to Evaluate the Efficacy and Safety of Tabirafusp Tedromer Compared to Aflibercept",
-"sub": "P3 · recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07734844",
-"c": ""
-},
-{
-"k": "person:j-pablo-velazquez-martin",
-"t": "person",
-"n": "J. Pablo Velazquez-Martin",
-"sub": "study director · Kodiak Sciences Inc",
-"url": "",
-"c": ""
-},
-{
-"k": "org:kodiak-research-center",
-"t": "company",
-"n": "Kodiak Research Center",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "trial:nct04567550",
@@ -4451,7 +4451,7 @@
 "k": "paper:pmid-37318810",
 "t": "paper",
 "n": "Prevalence of Diabetic Retinopathy in the US in 2021",
-"sub": "JAMA Ophthalmology 2023 · cited 293",
+"sub": "JAMA Ophthalmology 2023 · cited 294",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37318810",
 "c": ""
 },
@@ -5171,7 +5171,7 @@
 "k": "paper:doi-10-3390-diabetology3010011",
 "t": "paper",
 "n": "Diabetic Retinopathy: An Overview on Mechanisms, Pathophysiology and Pharmacotherapy",
-"sub": "Diabetology 2022 · cited 156",
+"sub": "Diabetology 2022 · cited 157",
 "url": "https://doi.org/10.3390/diabetology3010011",
 "c": ""
 },
@@ -8310,11 +8310,6 @@
 "r": "site_of"
 },
 {
-"a": "org:phoenix-retina-clinical-trials-north-phoenix",
-"b": "trial:nct07449923",
-"r": "site_of"
-},
-{
 "a": "org:piedmont-eye-center",
 "b": "trial:nct05930561",
 "r": "site_of"
@@ -8662,6 +8657,11 @@
 {
 "a": "org:retinal-consultants-medical-group-modesto",
 "b": "trial:nct07449923",
+"r": "site_of"
+},
+{
+"a": "org:retinal-consultants-medical-group-parkcenter-drive",
+"b": "trial:nct07449936",
 "r": "site_of"
 },
 {

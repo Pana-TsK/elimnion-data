@@ -1,6 +1,6 @@
 {
 "assetId": "ves001",
-"updated": "2026-11-02",
+"updated": "2026-11-03",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 42,
@@ -16,46 +16,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06226064",
-"t": "trial",
-"n": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of VE",
-"sub": "P1 · completed · 2023-2024",
-"url": "https://clinicaltrials.gov/study/NCT06226064",
-"c": ""
-},
-{
-"k": "org:vesper-biotechnologies-aps",
-"t": "company",
-"n": "Vesper Biotechnologies ApS",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:vesper-bio",
-"t": "company",
-"n": "Vesper Bio",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:mads-kjolby",
-"t": "person",
-"n": "Mads Kjolby",
-"sub": "principal investigator · Vesper Bio",
-"url": "",
-"c": ""
-},
-{
-"k": "org:center-for-human-drug-research",
-"t": "company",
-"n": "Center for Human Drug Research",
-"sub": "",
-"url": "",
-"c": "Netherlands"
-},
-{
 "k": "trial:nct06705192",
 "t": "trial",
 "n": "Study in Asymptomatic GRN-FTD Patients to Investigate the Safety, Tolerability, Pharmacoki",
@@ -67,6 +27,14 @@
 "k": "org:mads-kjolby",
 "t": "company",
 "n": "Mads Kjolby",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:vesper-bio",
+"t": "company",
+"n": "Vesper Bio",
 "sub": "",
 "url": "",
 "c": ""
@@ -94,6 +62,38 @@
 "sub": "",
 "url": "",
 "c": "United Kingdom"
+},
+{
+"k": "trial:nct06226064",
+"t": "trial",
+"n": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of VE",
+"sub": "P1 · completed · 2023-2024",
+"url": "https://clinicaltrials.gov/study/NCT06226064",
+"c": ""
+},
+{
+"k": "org:vesper-biotechnologies-aps",
+"t": "company",
+"n": "Vesper Biotechnologies ApS",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:mads-kjolby",
+"t": "person",
+"n": "Mads Kjolby",
+"sub": "principal investigator · Vesper Bio",
+"url": "",
+"c": ""
+},
+{
+"k": "org:center-for-human-drug-research",
+"t": "company",
+"n": "Center for Human Drug Research",
+"sub": "",
+"url": "",
+"c": "Netherlands"
 },
 {
 "k": "trial:nct04747431",
@@ -488,6 +488,14 @@
 "c": ""
 },
 {
+"k": "trial:nct07885917",
+"t": "trial",
+"n": "Long-Term Safety and Tolerability of Nizubaglustat in Participants With Rare Lysosomal Dis",
+"sub": "P2/P3 · not_yet_recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07885917",
+"c": ""
+},
+{
 "k": "trial:nct07399704",
 "t": "trial",
 "n": "A Study to Evaluate the Safety and Efficacy of Nizubaglustat (AZ-3102) in Patients With GM",
@@ -518,14 +526,6 @@
 "sub": "",
 "url": "",
 "c": "Brazil"
-},
-{
-"k": "trial:nct07885917",
-"t": "trial",
-"n": "Long-Term Safety and Tolerability of Nizubaglustat in Participants With Rare Lysosomal Dis",
-"sub": "P2/P3 · not_yet_recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07885917",
-"c": ""
 },
 {
 "k": "trial:nct04046991",
@@ -1536,6 +1536,62 @@
 "c": ""
 },
 {
+"k": "trial:nct04576793",
+"t": "trial",
+"n": "Longitudinal Imaging of Microglial Activation in Different Clinical Variants of Alzheimer'",
+"sub": "P2 · recruiting · 2020-2027",
+"url": "https://clinicaltrials.gov/study/NCT04576793",
+"c": ""
+},
+{
+"k": "org:columbia-university",
+"t": "academic",
+"n": "Columbia University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "person:patrick-j-lao",
+"t": "person",
+"n": "Patrick J. Lao",
+"sub": "principal investigator · Columbia University",
+"url": "",
+"c": ""
+},
+{
+"k": "org:columbia-university-irving-medical-center",
+"t": "hospital",
+"n": "Columbia University Irving Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:11c-er176",
+"t": "drug",
+"n": "11C-ER176",
+"sub": "Columbia University",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:18f-mk6240",
+"t": "drug",
+"n": "18F-MK6240",
+"sub": "Columbia University",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:18f-florbetaben",
+"t": "drug",
+"n": "18F-Florbetaben",
+"sub": "Columbia University",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07033481",
 "t": "trial",
 "n": "Clinical Study of Neflamapimod in Patients With Primary Progressive Aphasia",
@@ -1563,14 +1619,6 @@
 "k": "org:northwestern-memorial-hospital",
 "t": "hospital",
 "n": "Northwestern Memorial Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:columbia-university",
-"t": "academic",
-"n": "Columbia University",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -1612,54 +1660,6 @@
 "t": "drug",
 "n": "Neflamapimod",
 "sub": "EIP Pharma Inc",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct04576793",
-"t": "trial",
-"n": "Longitudinal Imaging of Microglial Activation in Different Clinical Variants of Alzheimer'",
-"sub": "P2 · recruiting · 2020-2027",
-"url": "https://clinicaltrials.gov/study/NCT04576793",
-"c": ""
-},
-{
-"k": "person:patrick-j-lao",
-"t": "person",
-"n": "Patrick J. Lao",
-"sub": "principal investigator · Columbia University",
-"url": "",
-"c": ""
-},
-{
-"k": "org:columbia-university-irving-medical-center",
-"t": "hospital",
-"n": "Columbia University Irving Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:11c-er176",
-"t": "drug",
-"n": "11C-ER176",
-"sub": "Columbia University",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:18f-mk6240",
-"t": "drug",
-"n": "18F-MK6240",
-"sub": "Columbia University",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:18f-florbetaben",
-"t": "drug",
-"n": "18F-Florbetaben",
-"sub": "Columbia University",
 "url": "",
 "c": ""
 },
@@ -3579,7 +3579,7 @@
 "k": "paper:pmid-39107446",
 "t": "paper",
 "n": "Mechanisms of autophagy–lysosome dysfunction in neurodegenerative diseases",
-"sub": "Nature Reviews Molecular Cell Biology 2024 · cited 418",
+"sub": "Nature Reviews Molecular Cell Biology 2024 · cited 419",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39107446",
 "c": ""
 },
@@ -3739,7 +3739,7 @@
 "k": "paper:pmid-34140671",
 "t": "paper",
 "n": "Molecular mechanisms underlying nucleotide repeat expansion disorders",
-"sub": "Nature Reviews Molecular Cell Biology 2021 · cited 362",
+"sub": "Nature Reviews Molecular Cell Biology 2021 · cited 361",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34140671",
 "c": ""
 },
@@ -4011,7 +4011,7 @@
 "k": "paper:pmid-32129844",
 "t": "paper",
 "n": "Recommendations to distinguish behavioural variant frontotemporal dementia from psychiatri",
-"sub": "Brain 2020 · cited 321",
+"sub": "Brain 2020 · cited 320",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32129844",
 "c": ""
 },
@@ -4075,7 +4075,7 @@
 "k": "paper:pmid-36420821",
 "t": "paper",
 "n": "Amyloid nomenclature 2022: update, novel proteins, and recommendations by the Internationa",
-"sub": "Amyloid 2022 · cited 319",
+"sub": "Amyloid 2022 · cited 318",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36420821",
 "c": ""
 },

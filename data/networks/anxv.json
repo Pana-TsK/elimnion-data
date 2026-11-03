@@ -1,6 +1,6 @@
 {
 "assetId": "anxv",
-"updated": "2026-11-02",
+"updated": "2026-11-03",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 69,
@@ -16,11 +16,11 @@
 "c": ""
 },
 {
-"k": "trial:nct05532735",
+"k": "trial:nct04850339",
 "t": "trial",
-"n": "Safety and Proof of Concept Study of ANXV (Annexin A5) in Patients With Retinal Vein Occlu",
-"sub": "P2 · completed · 2022-2024",
-"url": "https://clinicaltrials.gov/study/NCT05532735",
+"n": "First in Human Study of ANXV (Recombinant Human Annexin A5) in Healthy Volunteers",
+"sub": "P1 · completed · 2020-2021",
+"url": "https://clinicaltrials.gov/study/NCT04850339",
 "c": ""
 },
 {
@@ -37,6 +37,14 @@
 "n": "Anna Frostegård",
 "sub": "study director · Annexin Pharmaceuticals",
 "url": "",
+"c": ""
+},
+{
+"k": "trial:nct05532735",
+"t": "trial",
+"n": "Safety and Proof of Concept Study of ANXV (Annexin A5) in Patients With Retinal Vein Occlu",
+"sub": "P2 · completed · 2022-2024",
+"url": "https://clinicaltrials.gov/study/NCT05532735",
 "c": ""
 },
 {
@@ -61,14 +69,6 @@
 "n": "Safety and Proof of Concept Study of ANXV (Annexin A5) in Patients With Diabetic Retinopat",
 "sub": "P2 · recruiting · 2025-2026",
 "url": "https://clinicaltrials.gov/study/NCT07259928",
-"c": ""
-},
-{
-"k": "trial:nct04850339",
-"t": "trial",
-"n": "First in Human Study of ANXV (Recombinant Human Annexin A5) in Healthy Volunteers",
-"sub": "P1 · completed · 2020-2021",
-"url": "https://clinicaltrials.gov/study/NCT04850339",
 "c": ""
 },
 {
@@ -432,30 +432,6 @@
 "c": ""
 },
 {
-"k": "trial:nct04667897",
-"t": "trial",
-"n": "601 Versus Ranibizumab in Patients With Branch Retinal Vein Occlusion (BRVO)",
-"sub": "P2 · completed · 2021-2022",
-"url": "https://clinicaltrials.gov/study/NCT04667897",
-"c": ""
-},
-{
-"k": "person:hong-dai-bachelor",
-"t": "person",
-"n": "Hong Dai, Bachelor",
-"sub": "principal investigator · Beijing Hospital",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:ranibizuman",
-"t": "drug",
-"n": "Ranibizuman",
-"sub": "Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct04667910",
 "t": "trial",
 "n": "601 Versus Ranibizumab in Patients With Central Retinal Vein Occlusion (CRVO)",
@@ -476,6 +452,30 @@
 "t": "person",
 "n": "Xiao rong Li",
 "sub": "principal investigator · TianJing Medical University Eye Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ranibizuman",
+"t": "drug",
+"n": "Ranibizuman",
+"sub": "Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04667897",
+"t": "trial",
+"n": "601 Versus Ranibizumab in Patients With Branch Retinal Vein Occlusion (BRVO)",
+"sub": "P2 · completed · 2021-2022",
+"url": "https://clinicaltrials.gov/study/NCT04667897",
+"c": ""
+},
+{
+"k": "person:hong-dai-bachelor",
+"t": "person",
+"n": "Hong Dai, Bachelor",
+"sub": "principal investigator · Beijing Hospital",
 "url": "",
 "c": ""
 },
@@ -656,11 +656,11 @@
 "c": ""
 },
 {
-"k": "trial:nct04740931",
+"k": "trial:nct04740905",
 "t": "trial",
 "n": "A Study to Evaluate the Efficacy and Safety of Faricimab in Participants With Macular Edem",
 "sub": "P3 · completed · 2021-2023",
-"url": "https://clinicaltrials.gov/study/NCT04740931",
+"url": "https://clinicaltrials.gov/study/NCT04740905",
 "c": ""
 },
 {
@@ -678,14 +678,6 @@
 "sub": "",
 "url": "",
 "c": ""
-},
-{
-"k": "org:barnet-dulaney-perkins-eye-center",
-"t": "company",
-"n": "Barnet Dulaney Perkins Eye Center",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "org:retinal-research-institute",
@@ -720,22 +712,6 @@
 "c": "United States"
 },
 {
-"k": "org:retina-consultants-of-orange-county",
-"t": "company",
-"n": "Retina Consultants of Orange County",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:northern-california-retina-vitreous-associates",
-"t": "company",
-"n": "Northern California Retina Vitreous Associates",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:california-eye-specialists-medical-group",
 "t": "company",
 "n": "California Eye Specialists Medical group Inc.",
@@ -752,17 +728,41 @@
 "c": "United States"
 },
 {
-"k": "trial:nct04740905",
-"t": "trial",
-"n": "A Study to Evaluate the Efficacy and Safety of Faricimab in Participants With Macular Edem",
-"sub": "P3 · completed · 2021-2023",
-"url": "https://clinicaltrials.gov/study/NCT04740905",
-"c": ""
-},
-{
 "k": "org:florida-eye-associates",
 "t": "company",
 "n": "Florida Eye Associates",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct04740931",
+"t": "trial",
+"n": "A Study to Evaluate the Efficacy and Safety of Faricimab in Participants With Macular Edem",
+"sub": "P3 · completed · 2021-2023",
+"url": "https://clinicaltrials.gov/study/NCT04740931",
+"c": ""
+},
+{
+"k": "org:barnet-dulaney-perkins-eye-center",
+"t": "company",
+"n": "Barnet Dulaney Perkins Eye Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:retina-consultants-of-orange-county",
+"t": "company",
+"n": "Retina Consultants of Orange County",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:northern-california-retina-vitreous-associates",
+"t": "company",
+"n": "Northern California Retina Vitreous Associates",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -872,11 +872,11 @@
 "c": ""
 },
 {
-"k": "trial:nct03802630",
+"k": "trial:nct03810313",
 "t": "trial",
 "n": "Assessing the Efficacy and Safety of Brolucizumab Versus Aflibercept in Patients With Visu",
 "sub": "P3 · terminated · 2019-2021",
-"url": "https://clinicaltrials.gov/study/NCT03802630",
+"url": "https://clinicaltrials.gov/study/NCT03810313",
 "c": ""
 },
 {
@@ -888,11 +888,11 @@
 "c": ""
 },
 {
-"k": "trial:nct03810313",
+"k": "trial:nct03802630",
 "t": "trial",
 "n": "Assessing the Efficacy and Safety of Brolucizumab Versus Aflibercept in Patients With Visu",
 "sub": "P3 · terminated · 2019-2021",
-"url": "https://clinicaltrials.gov/study/NCT03810313",
+"url": "https://clinicaltrials.gov/study/NCT03802630",
 "c": ""
 },
 {
@@ -1100,6 +1100,38 @@
 "t": "drug",
 "n": "triamcinolone acetate",
 "sub": "Assiut University",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07354477",
+"t": "trial",
+"n": "Single-site Pilot Study Evaluating the Effect of QLS-111 Ophthalmic Solution on Posterior ",
+"sub": "P2 · completed · 2026-2026",
+"url": "https://clinicaltrials.gov/study/NCT07354477",
+"c": ""
+},
+{
+"k": "org:qlaris-bio",
+"t": "company",
+"n": "Qlaris Bio, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:barbara-m-wirostko",
+"t": "person",
+"n": "Barbara M Wirostko",
+"sub": "study director · Qlaris Bio",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:qls-111-ophthalmic-solution",
+"t": "drug",
+"n": "QLS-111 Ophthalmic Solution",
+"sub": "Qlaris Bio, Inc.",
 "url": "",
 "c": ""
 },
@@ -1424,11 +1456,11 @@
 "c": ""
 },
 {
-"k": "trial:nct07841899",
+"k": "trial:nct07842016",
 "t": "trial",
 "n": "Phase 3 Study of Intravitreal OLN324 in Adults With Diabetic Macular Edema (DME) (OLN324-C",
 "sub": "P3 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07841899",
+"url": "https://clinicaltrials.gov/study/NCT07842016",
 "c": ""
 },
 {
@@ -1448,11 +1480,11 @@
 "c": ""
 },
 {
-"k": "trial:nct07842016",
+"k": "trial:nct07841899",
 "t": "trial",
 "n": "Phase 3 Study of Intravitreal OLN324 in Adults With Diabetic Macular Edema (DME) (OLN324-C",
 "sub": "P3 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07842016",
+"url": "https://clinicaltrials.gov/study/NCT07841899",
 "c": ""
 },
 {
@@ -1534,38 +1566,6 @@
 "sub": "",
 "url": "",
 "c": "United States"
-},
-{
-"k": "trial:nct07354477",
-"t": "trial",
-"n": "Single-site Pilot Study Evaluating the Effect of QLS-111 Ophthalmic Solution on Posterior ",
-"sub": "P2 · active_not_recruiting · 2026-2026",
-"url": "https://clinicaltrials.gov/study/NCT07354477",
-"c": ""
-},
-{
-"k": "org:qlaris-bio",
-"t": "company",
-"n": "Qlaris Bio, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:barbara-m-wirostko",
-"t": "person",
-"n": "Barbara M Wirostko",
-"sub": "study director · Qlaris Bio",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:qls-111-ophthalmic-solution",
-"t": "drug",
-"n": "QLS-111 Ophthalmic Solution",
-"sub": "Qlaris Bio, Inc.",
-"url": "",
-"c": ""
 },
 {
 "k": "trial:nct05712720",
@@ -3475,7 +3475,7 @@
 "k": "paper:pmid-32358156",
 "t": "paper",
 "n": "Ocular Manifestations in Rheumatoid Arthritis, Connective Tissue Disease, and Vasculitis: ",
-"sub": "The Journal of Rheumatology 2020 · cited 118",
+"sub": "The Journal of Rheumatology 2020 · cited 117",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32358156",
 "c": ""
 },
@@ -4219,7 +4219,7 @@
 "k": "paper:pmid-33275949",
 "t": "paper",
 "n": "Causes of blindness and vision impairment in 2020 and trends over 30 years, and prevalence",
-"sub": "The Lancet Global Health 2020 · cited 3193",
+"sub": "The Lancet Global Health 2020 · cited 3194",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33275949",
 "c": ""
 },
@@ -4299,7 +4299,7 @@
 "k": "paper:pmid-32398868",
 "t": "paper",
 "n": "Genetics of diabetes mellitus and diabetes complications",
-"sub": "Nature Reviews Nephrology 2020 · cited 1799",
+"sub": "Nature Reviews Nephrology 2020 · cited 1800",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32398868",
 "c": ""
 },
@@ -4552,6 +4552,30 @@
 "c": "EG"
 },
 {
+"k": "org:korea-institute-of-science-and-technology",
+"t": "funder",
+"n": "Korea Institute of Science and Technology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:korea-drug-development-fund",
+"t": "funder",
+"n": "Korea Drug Development Fund",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-research-council-of-science-and-technology",
+"t": "funder",
+"n": "National Research Council of Science and Technology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-32898686",
 "t": "paper",
 "n": "Digital technology, tele-medicine and artificial intelligence in ophthalmology: A global p",
@@ -4723,7 +4747,7 @@
 "k": "paper:pmid-37623239",
 "t": "paper",
 "n": "Oxidative Stress in Type 2 Diabetes: Impacts from Pathogenesis to Lifestyle Modifications",
-"sub": "Current Issues in Molecular Biology 2023 · cited 579",
+"sub": "Current Issues in Molecular Biology 2023 · cited 580",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37623239",
 "c": ""
 },
@@ -5536,76 +5560,52 @@
 "c": ""
 },
 {
-"k": "paper:pmid-33640465",
+"k": "paper:pmid-40434108",
 "t": "paper",
-"n": "VEGFR1 signaling in retinal angiogenesis and microinflammation",
-"sub": "Progress in Retinal and Eye Research 2021 · cited 355",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33640465",
+"n": "Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD) in People With Diabetes: ",
+"sub": "Diabetes Care 2025 · cited 356",
+"url": "https://pubmed.ncbi.nlm.nih.gov/40434108",
 "c": ""
 },
 {
-"k": "person:akiyoshi-uemura",
+"k": "person:kenneth-j-cusi",
 "t": "person",
-"n": "Akiyoshi Uemura",
-"sub": "Nagoya City University",
-"url": "https://orcid.org/0000-0001-5574-5470",
-"c": "JP"
+"n": "Kenneth J. Cusi",
+"sub": "University of Florida Health",
+"url": "https://orcid.org/0000-0002-8629-418X",
+"c": "US"
 },
 {
-"k": "org:nagoya-city-university",
+"k": "org:university-of-florida-health",
 "t": "academic",
-"n": "Nagoya City University",
+"n": "University of Florida Health",
 "sub": "",
 "url": "",
-"c": "JP"
+"c": "US"
 },
 {
-"k": "person:marcus-fruttiger",
+"k": "org:university-of-florida",
+"t": "academic",
+"n": "University of Florida",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:mandeep-singh-bajaj",
 "t": "person",
-"n": "Marcus Fruttiger",
-"sub": "University College London",
-"url": "https://orcid.org/0000-0002-6962-5485",
-"c": "GB"
+"n": "Mandeep Singh Bajaj",
+"sub": "Baylor College of Medicine",
+"url": "https://orcid.org/0000-0001-7263-5425",
+"c": "US"
 },
 {
-"k": "org:university-college-london",
+"k": "org:baylor-college-of-medicine",
 "t": "academic",
-"n": "University College London",
+"n": "Baylor College of Medicine",
 "sub": "",
 "url": "",
-"c": "GB"
-},
-{
-"k": "person:thomas-langmann",
-"t": "person",
-"n": "Thomas Langmann",
-"sub": "University of Cologne",
-"url": "https://orcid.org/0000-0001-6826-529X",
-"c": "DE"
-},
-{
-"k": "org:university-of-cologne",
-"t": "academic",
-"n": "University of Cologne",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "org:university-hospital-cologne",
-"t": "hospital",
-"n": "University Hospital Cologne",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "org:bayer-consumer-health",
-"t": "funder",
-"n": "Bayer Consumer Health",
-"sub": "",
-"url": "",
-"c": ""
+"c": "US"
 }
 ],
 "edges": [
@@ -6745,11 +6745,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:bayer-consumer-health",
-"b": "paper:pmid-33640465",
-"r": "funded"
-},
-{
 "a": "org:beijing-hospital",
 "b": "trial:nct04667897",
 "r": "site_of"
@@ -7201,11 +7196,6 @@
 },
 {
 "a": "org:japan-society-for-the-promotion-of-science",
-"b": "paper:pmid-33640465",
-"r": "funded"
-},
-{
-"a": "org:japan-society-for-the-promotion-of-science",
 "b": "paper:pmid-35085503",
 "r": "funded"
 },
@@ -7238,6 +7228,16 @@
 "a": "org:kodiak-sciences",
 "b": "trial:nct06270836",
 "r": "sponsors"
+},
+{
+"a": "org:korea-drug-development-fund",
+"b": "paper:pmid-37857245",
+"r": "funded"
+},
+{
+"a": "org:korea-institute-of-science-and-technology",
+"b": "paper:pmid-37857245",
+"r": "funded"
 },
 {
 "a": "org:loma-linda-university",
@@ -7355,11 +7355,6 @@
 "r": "funded"
 },
 {
-"a": "org:national-eye-institute",
-"b": "paper:pmid-33640465",
-"r": "funded"
-},
-{
 "a": "org:national-eye-institute-nei",
 "b": "trial:nct03981549",
 "r": "collaborates"
@@ -7467,6 +7462,11 @@
 {
 "a": "org:national-natural-science-foundation-of-china",
 "b": "paper:pmid-37709773",
+"r": "funded"
+},
+{
+"a": "org:national-research-council-of-science-and-technology",
+"b": "paper:pmid-37857245",
 "r": "funded"
 },
 {
@@ -8680,16 +8680,6 @@
 "r": "authored"
 },
 {
-"a": "person:akiyoshi-uemura",
-"b": "org:nagoya-city-university",
-"r": "affiliated"
-},
-{
-"a": "person:akiyoshi-uemura",
-"b": "paper:pmid-33640465",
-"r": "authored"
-},
-{
 "a": "person:alan-w-stitt",
 "b": "paper:pmid-33469209",
 "r": "authored"
@@ -9725,6 +9715,21 @@
 "r": "authored"
 },
 {
+"a": "person:kenneth-j-cusi",
+"b": "org:university-of-florida",
+"r": "affiliated"
+},
+{
+"a": "person:kenneth-j-cusi",
+"b": "org:university-of-florida-health",
+"r": "affiliated"
+},
+{
+"a": "person:kenneth-j-cusi",
+"b": "paper:pmid-40434108",
+"r": "authored"
+},
+{
 "a": "person:kexiang-liu",
 "b": "org:jilin-university",
 "r": "affiliated"
@@ -9900,6 +9905,16 @@
 "r": "authored"
 },
 {
+"a": "person:mandeep-singh-bajaj",
+"b": "org:baylor-college-of-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:mandeep-singh-bajaj",
+"b": "paper:pmid-40434108",
+"r": "authored"
+},
+{
 "a": "person:marc-yves-donath",
 "b": "paper:pmid-35021057",
 "r": "authored"
@@ -9917,16 +9932,6 @@
 {
 "a": "person:marco-nassisi",
 "b": "paper:pmid-36912792",
-"r": "authored"
-},
-{
-"a": "person:marcus-fruttiger",
-"b": "org:university-college-london",
-"r": "affiliated"
-},
-{
-"a": "person:marcus-fruttiger",
-"b": "paper:pmid-33640465",
 "r": "authored"
 },
 {
@@ -10642,21 +10647,6 @@
 {
 "a": "person:thippa-reddy-gadekallu",
 "b": "paper:doi-10-1109-access-2020-2980942",
-"r": "authored"
-},
-{
-"a": "person:thomas-langmann",
-"b": "org:university-hospital-cologne",
-"r": "affiliated"
-},
-{
-"a": "person:thomas-langmann",
-"b": "org:university-of-cologne",
-"r": "affiliated"
-},
-{
-"a": "person:thomas-langmann",
-"b": "paper:pmid-33640465",
 "r": "authored"
 },
 {
