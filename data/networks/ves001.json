@@ -1,6 +1,6 @@
 {
 "assetId": "ves001",
-"updated": "2026-11-03",
+"updated": "2026-11-04",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 42,
@@ -16,6 +16,46 @@
 "c": ""
 },
 {
+"k": "trial:nct06226064",
+"t": "trial",
+"n": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of VE",
+"sub": "P1 · completed · 2023-2024",
+"url": "https://clinicaltrials.gov/study/NCT06226064",
+"c": ""
+},
+{
+"k": "org:vesper-biotechnologies-aps",
+"t": "company",
+"n": "Vesper Biotechnologies ApS",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:vesper-bio",
+"t": "company",
+"n": "Vesper Bio",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:mads-kjolby",
+"t": "person",
+"n": "Mads Kjolby",
+"sub": "principal investigator · Vesper Bio",
+"url": "",
+"c": ""
+},
+{
+"k": "org:center-for-human-drug-research",
+"t": "company",
+"n": "Center for Human Drug Research",
+"sub": "",
+"url": "",
+"c": "Netherlands"
+},
+{
 "k": "trial:nct06705192",
 "t": "trial",
 "n": "Study in Asymptomatic GRN-FTD Patients to Investigate the Safety, Tolerability, Pharmacoki",
@@ -27,14 +67,6 @@
 "k": "org:mads-kjolby",
 "t": "company",
 "n": "Mads Kjolby",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:vesper-bio",
-"t": "company",
-"n": "Vesper Bio",
 "sub": "",
 "url": "",
 "c": ""
@@ -62,38 +94,6 @@
 "sub": "",
 "url": "",
 "c": "United Kingdom"
-},
-{
-"k": "trial:nct06226064",
-"t": "trial",
-"n": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of VE",
-"sub": "P1 · completed · 2023-2024",
-"url": "https://clinicaltrials.gov/study/NCT06226064",
-"c": ""
-},
-{
-"k": "org:vesper-biotechnologies-aps",
-"t": "company",
-"n": "Vesper Biotechnologies ApS",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:mads-kjolby",
-"t": "person",
-"n": "Mads Kjolby",
-"sub": "principal investigator · Vesper Bio",
-"url": "",
-"c": ""
-},
-{
-"k": "org:center-for-human-drug-research",
-"t": "company",
-"n": "Center for Human Drug Research",
-"sub": "",
-"url": "",
-"c": "Netherlands"
 },
 {
 "k": "trial:nct04747431",
@@ -488,14 +488,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07885917",
-"t": "trial",
-"n": "Long-Term Safety and Tolerability of Nizubaglustat in Participants With Rare Lysosomal Dis",
-"sub": "P2/P3 · not_yet_recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07885917",
-"c": ""
-},
-{
 "k": "trial:nct07399704",
 "t": "trial",
 "n": "A Study to Evaluate the Safety and Efficacy of Nizubaglustat (AZ-3102) in Patients With GM",
@@ -526,6 +518,14 @@
 "sub": "",
 "url": "",
 "c": "Brazil"
+},
+{
+"k": "trial:nct07885917",
+"t": "trial",
+"n": "Long-Term Safety and Tolerability of Nizubaglustat in Participants With Rare Lysosomal Dis",
+"sub": "P2/P3 · not_yet_recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07885917",
+"c": ""
 },
 {
 "k": "trial:nct04046991",
@@ -2811,7 +2811,7 @@
 "k": "paper:pmid-32526057",
 "t": "paper",
 "n": "Amyotrophic lateral sclerosis: a clinical review",
-"sub": "European Journal of Neurology 2020 · cited 1218",
+"sub": "European Journal of Neurology 2020 · cited 1222",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32526057",
 "c": ""
 },
@@ -2883,7 +2883,7 @@
 "k": "paper:pmid-32284590",
 "t": "paper",
 "n": "Large-scale proteomic analysis of Alzheimer’s disease brain and cerebrospinal fluid reveal",
-"sub": "Nature Medicine 2020 · cited 1003",
+"sub": "Nature Medicine 2020 · cited 1004",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32284590",
 "c": ""
 },
@@ -3139,7 +3139,7 @@
 "k": "paper:pmid-32296178",
 "t": "paper",
 "n": "LRP1 is a master regulator of tau uptake and spread",
-"sub": "Nature 2020 · cited 541",
+"sub": "Nature 2020 · cited 543",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32296178",
 "c": ""
 },
@@ -3203,7 +3203,7 @@
 "k": "paper:pmid-35197628",
 "t": "paper",
 "n": "TDP-43 loss and ALS-risk SNPs drive mis-splicing and depletion of UNC13A",
-"sub": "Nature 2022 · cited 536",
+"sub": "Nature 2022 · cited 537",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35197628",
 "c": ""
 },
@@ -3379,7 +3379,7 @@
 "k": "paper:pmid-38609644",
 "t": "paper",
 "n": "Neurofilaments as biomarkers in neurological disorders — towards clinical application",
-"sub": "Nature Reviews Neurology 2024 · cited 460",
+"sub": "Nature Reviews Neurology 2024 · cited 463",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38609644",
 "c": ""
 },
@@ -3715,7 +3715,7 @@
 "k": "paper:pmid-33033486",
 "t": "paper",
 "n": "Behavioral and Psychological Effects of Coronavirus Disease-19 Quarantine in Patients With",
-"sub": "Frontiers in Psychiatry 2020 · cited 367",
+"sub": "Frontiers in Psychiatry 2020 · cited 370",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33033486",
 "c": ""
 },
@@ -3739,7 +3739,7 @@
 "k": "paper:pmid-34140671",
 "t": "paper",
 "n": "Molecular mechanisms underlying nucleotide repeat expansion disorders",
-"sub": "Nature Reviews Molecular Cell Biology 2021 · cited 361",
+"sub": "Nature Reviews Molecular Cell Biology 2021 · cited 363",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34140671",
 "c": ""
 },
@@ -3779,7 +3779,7 @@
 "k": "paper:pmid-35063084",
 "t": "paper",
 "n": "Tau interactome maps synaptic and mitochondrial processes associated with neurodegeneratio",
-"sub": "Cell 2022 · cited 346",
+"sub": "Cell 2022 · cited 347",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35063084",
 "c": ""
 },
@@ -3899,7 +3899,7 @@
 "k": "paper:pmid-34222873",
 "t": "paper",
 "n": "The role of the medial prefrontal cortex in cognition, ageing and dementia",
-"sub": "Brain Communications 2021 · cited 338",
+"sub": "Brain Communications 2021 · cited 340",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34222873",
 "c": ""
 },
@@ -3947,7 +3947,7 @@
 "k": "paper:pmid-34739333",
 "t": "paper",
 "n": "Ubiquitination of G3BP1 mediates stress granule disassembly in a context-specific manner",
-"sub": "Science 2021 · cited 337",
+"sub": "Science 2021 · cited 339",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34739333",
 "c": ""
 },
@@ -3987,7 +3987,7 @@
 "k": "paper:pmid-33446423",
 "t": "paper",
 "n": "FUS and TDP-43 Phases in Health and Disease",
-"sub": "Trends in Biochemical Sciences 2021 · cited 328",
+"sub": "Trends in Biochemical Sciences 2021 · cited 329",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33446423",
 "c": ""
 },
@@ -4232,42 +4232,10 @@
 "c": ""
 },
 {
-"k": "paper:doi-10-3390-data8060095",
-"t": "paper",
-"n": "A Dataset of Scalp EEG Recordings of Alzheimer’s Disease, Frontotemporal Dementia and Heal",
-"sub": "Data 2023 · cited 293",
-"url": "https://doi.org/10.3390/data8060095",
-"c": ""
-},
-{
-"k": "org:university-of-ioannina",
-"t": "academic",
-"n": "University of Ioannina",
-"sub": "",
-"url": "",
-"c": "GR"
-},
-{
-"k": "person:alexandros-t-tzallas",
-"t": "person",
-"n": "Alexandros T. Tzallas",
-"sub": "University of Ioannina",
-"url": "https://orcid.org/0000-0001-9043-1290",
-"c": "GR"
-},
-{
-"k": "org:european-regional-development-fund",
-"t": "funder",
-"n": "European Regional Development Fund",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-34239129",
 "t": "paper",
 "n": "Genomic atlas of the proteome from brain, CSF and plasma prioritizes proteins implicated i",
-"sub": "Nature Neuroscience 2021 · cited 291",
+"sub": "Nature Neuroscience 2021 · cited 293",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34239129",
 "c": ""
 },
@@ -4307,6 +4275,38 @@
 "k": "org:u-s-department-of-health-and-human-services",
 "t": "funder",
 "n": "U.S. Department of Health and Human Services",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-3390-data8060095",
+"t": "paper",
+"n": "A Dataset of Scalp EEG Recordings of Alzheimer’s Disease, Frontotemporal Dementia and Heal",
+"sub": "Data 2023 · cited 293",
+"url": "https://doi.org/10.3390/data8060095",
+"c": ""
+},
+{
+"k": "org:university-of-ioannina",
+"t": "academic",
+"n": "University of Ioannina",
+"sub": "",
+"url": "",
+"c": "GR"
+},
+{
+"k": "person:alexandros-t-tzallas",
+"t": "person",
+"n": "Alexandros T. Tzallas",
+"sub": "University of Ioannina",
+"url": "https://orcid.org/0000-0001-9043-1290",
+"c": "GR"
+},
+{
+"k": "org:european-regional-development-fund",
+"t": "funder",
+"n": "European Regional Development Fund",
 "sub": "",
 "url": "",
 "c": ""

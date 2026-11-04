@@ -1,6 +1,6 @@
 {
 "assetId": "arina1",
-"updated": "2026-11-03",
+"updated": "2026-11-04",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 6,
@@ -175,6 +175,38 @@
 "sub": "",
 "url": "",
 "c": "United States"
+},
+{
+"k": "trial:nct05658029",
+"t": "trial",
+"n": "An Investigator-initiated Study to Evaluate Safety and Efficacy of ARINA-1 in People With ",
+"sub": "P1 · withdrawn · 2023-2023",
+"url": "https://clinicaltrials.gov/study/NCT05658029",
+"c": ""
+},
+{
+"k": "org:matthew-bruehl",
+"t": "academic",
+"n": "Matthew Bruehl",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:wakemed-health-hospitals",
+"t": "hospital",
+"n": "WakeMed Health & Hospitals",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "person:matthew-bruehl",
+"t": "person",
+"n": "Matthew Bruehl",
+"sub": "principal investigator · WakeMed Health & Hospitals",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct05654922",
@@ -359,38 +391,6 @@
 "sub": "",
 "url": "",
 "c": "United States"
-},
-{
-"k": "trial:nct05658029",
-"t": "trial",
-"n": "An Investigator-initiated Study to Evaluate Safety and Efficacy of ARINA-1 in People With ",
-"sub": "P1 · withdrawn · 2023-2023",
-"url": "https://clinicaltrials.gov/study/NCT05658029",
-"c": ""
-},
-{
-"k": "org:matthew-bruehl",
-"t": "academic",
-"n": "Matthew Bruehl",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:wakemed-health-hospitals",
-"t": "hospital",
-"n": "WakeMed Health & Hospitals",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "person:matthew-bruehl",
-"t": "person",
-"n": "Matthew Bruehl",
-"sub": "principal investigator · WakeMed Health & Hospitals",
-"url": "",
-"c": ""
 },
 {
 "k": "trial:nct04322929",
@@ -1849,58 +1849,10 @@
 "c": "US"
 },
 {
-"k": "paper:pmid-32257221",
-"t": "paper",
-"n": "Effects of high intensity interval training on exercise capacity in people with chronic pu",
-"sub": "BMC Sports Science Medicine and Rehabilitation 2020 · cited 50",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32257221",
-"c": ""
-},
-{
-"k": "person:abbey-sawyer",
-"t": "person",
-"n": "Abbey Sawyer",
-"sub": "Curtin University",
-"url": "https://orcid.org/0000-0001-5153-5927",
-"c": "AU"
-},
-{
-"k": "org:curtin-university",
-"t": "academic",
-"n": "Curtin University",
-"sub": "",
-"url": "",
-"c": "AU"
-},
-{
-"k": "org:sir-charles-gairdner-hospital",
-"t": "hospital",
-"n": "Sir Charles Gairdner Hospital",
-"sub": "",
-"url": "",
-"c": "AU"
-},
-{
-"k": "person:kylie-hill",
-"t": "person",
-"n": "Kylie Hill",
-"sub": "Curtin University",
-"url": "https://orcid.org/0000-0002-6082-6352",
-"c": "AU"
-},
-{
-"k": "org:institute-for-respiratory-health",
-"t": "academic",
-"n": "Institute for Respiratory Health",
-"sub": "",
-"url": "",
-"c": "AU"
-},
-{
 "k": "paper:pmid-32398304",
 "t": "paper",
 "n": "Morbidity and mortality in carriers of the cystic fibrosis mutationCFTRPhe508del in the ge",
-"sub": "European Respiratory Journal 2020 · cited 50",
+"sub": "European Respiratory Journal 2020 · cited 51",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32398304",
 "c": ""
 },
@@ -1951,6 +1903,54 @@
 "sub": "",
 "url": "",
 "c": ""
+},
+{
+"k": "paper:pmid-32257221",
+"t": "paper",
+"n": "Effects of high intensity interval training on exercise capacity in people with chronic pu",
+"sub": "BMC Sports Science Medicine and Rehabilitation 2020 · cited 50",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32257221",
+"c": ""
+},
+{
+"k": "person:abbey-sawyer",
+"t": "person",
+"n": "Abbey Sawyer",
+"sub": "Curtin University",
+"url": "https://orcid.org/0000-0001-5153-5927",
+"c": "AU"
+},
+{
+"k": "org:curtin-university",
+"t": "academic",
+"n": "Curtin University",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "org:sir-charles-gairdner-hospital",
+"t": "hospital",
+"n": "Sir Charles Gairdner Hospital",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "person:kylie-hill",
+"t": "person",
+"n": "Kylie Hill",
+"sub": "Curtin University",
+"url": "https://orcid.org/0000-0002-6082-6352",
+"c": "AU"
+},
+{
+"k": "org:institute-for-respiratory-health",
+"t": "academic",
+"n": "Institute for Respiratory Health",
+"sub": "",
+"url": "",
+"c": "AU"
 },
 {
 "k": "paper:pmid-40293759",
@@ -2356,7 +2356,7 @@
 "k": "paper:pmid-33295693",
 "t": "paper",
 "n": "Effectiveness of hypertonic saline nebulization in airway clearance in children with non‐c",
-"sub": "Pediatric Pulmonology 2020 · cited 28",
+"sub": "Pediatric Pulmonology 2020 · cited 27",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33295693",
 "c": ""
 },
@@ -2497,10 +2497,58 @@
 "c": "TR"
 },
 {
+"k": "paper:pmid-33271296",
+"t": "paper",
+"n": "Efficacy of type 2-targeted biologics in patients with asthma and bronchiectasis",
+"sub": "Annals of Allergy Asthma & Immunology 2020 · cited 25",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33271296",
+"c": ""
+},
+{
+"k": "person:elizabeth-a-kudlaty",
+"t": "person",
+"n": "Elizabeth A. Kudlaty",
+"sub": "Northwestern University",
+"url": "https://orcid.org/0000-0003-0838-4419",
+"c": "US"
+},
+{
+"k": "org:northwestern-university",
+"t": "academic",
+"n": "Northwestern University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:anju-tripathi-peters",
+"t": "person",
+"n": "Anju Tripathi Peters",
+"sub": "Northwestern University",
+"url": "https://orcid.org/0000-0003-0745-2379",
+"c": "US"
+},
+{
+"k": "org:national-institute-of-allergy-and-infectious-diseases",
+"t": "funder",
+"n": "National Institute of Allergy and Infectious Diseases",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-center-for-advancing-translational-sciences",
+"t": "funder",
+"n": "National Center for Advancing Translational Sciences",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-37546739",
 "t": "paper",
 "n": "Microbial community organization designates distinct pulmonary exacerbation types and pred",
-"sub": "Nature Communications 2024 · cited 25",
+"sub": "Nature Communications 2024 · cited 24",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37546739",
 "c": ""
 },
@@ -2548,54 +2596,6 @@
 "k": "org:austrian-science-fund",
 "t": "funder",
 "n": "Austrian Science Fund",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-33271296",
-"t": "paper",
-"n": "Efficacy of type 2-targeted biologics in patients with asthma and bronchiectasis",
-"sub": "Annals of Allergy Asthma & Immunology 2020 · cited 25",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33271296",
-"c": ""
-},
-{
-"k": "person:elizabeth-a-kudlaty",
-"t": "person",
-"n": "Elizabeth A. Kudlaty",
-"sub": "Northwestern University",
-"url": "https://orcid.org/0000-0003-0838-4419",
-"c": "US"
-},
-{
-"k": "org:northwestern-university",
-"t": "academic",
-"n": "Northwestern University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:anju-tripathi-peters",
-"t": "person",
-"n": "Anju Tripathi Peters",
-"sub": "Northwestern University",
-"url": "https://orcid.org/0000-0003-0745-2379",
-"c": "US"
-},
-{
-"k": "org:national-institute-of-allergy-and-infectious-diseases",
-"t": "funder",
-"n": "National Institute of Allergy and Infectious Diseases",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-center-for-advancing-translational-sciences",
-"t": "funder",
-"n": "National Center for Advancing Translational Sciences",
 "sub": "",
 "url": "",
 "c": ""
