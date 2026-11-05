@@ -1,10 +1,10 @@
 {
 "assetId": "cba1205",
-"updated": "2026-11-04",
+"updated": "2026-11-05",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 81,
-"papers": 83
+"papers": 76
 },
 "nodes": [
 {
@@ -38,6 +38,110 @@
 "sub": "",
 "url": "",
 "c": "Japan"
+},
+{
+"k": "trial:nct05451043",
+"t": "trial",
+"n": "Durvalumab and Tremelimumab in Combination With Propranolol and Chemotherapy for Treatment",
+"sub": "P2 · active_not_recruiting · 2023-2029",
+"url": "https://clinicaltrials.gov/study/NCT05451043",
+"c": ""
+},
+{
+"k": "org:ahs-cancer-control-alberta",
+"t": "academic",
+"n": "AHS Cancer Control Alberta",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:durvalumab",
+"t": "drug",
+"n": "Durvalumab",
+"sub": "AHS Cancer Control Alberta",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:gemcitabine",
+"t": "drug",
+"n": "Gemcitabine",
+"sub": "AHS Cancer Control Alberta",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:nab-paclitaxel",
+"t": "drug",
+"n": "Nab paclitaxel",
+"sub": "AHS Cancer Control Alberta",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:tremelimumab",
+"t": "drug",
+"n": "Tremelimumab",
+"sub": "AHS Cancer Control Alberta",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:propranolol",
+"t": "drug",
+"n": "Propranolol",
+"sub": "AHS Cancer Control Alberta",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:cisplatin",
+"t": "drug",
+"n": "Cisplatin",
+"sub": "AHS Cancer Control Alberta",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07917481",
+"t": "trial",
+"n": "A Clinical Study Evaluating the Safety and Efficacy of Ivonescimab as Second-line Treatmen",
+"sub": "P2 · not_yet_recruiting · 2027-2029",
+"url": "https://clinicaltrials.gov/study/NCT07917481",
+"c": ""
+},
+{
+"k": "org:medsir",
+"t": "academic",
+"n": "MedSIR",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:angela-lamarca-lete",
+"t": "person",
+"n": "Ángela Lamarca Lete",
+"sub": "principal investigator · Fundación Jimenez Díaz University Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "person:gerald-prager",
+"t": "person",
+"n": "Gerald Prager",
+"sub": "principal investigator · Medical University of Vienna",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ivonescimab",
+"t": "drug",
+"n": "Ivonescimab",
+"sub": "MedSIR",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct07636785",
@@ -176,46 +280,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07589244",
-"t": "trial",
-"n": "A Study of VRT106, Combined With Camrelizumab, and Apatinib for Advanced HCC",
-"sub": "P2/P3 · recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07589244",
-"c": ""
-},
-{
-"k": "org:guangzhou-virotech-pharmaceutical",
-"t": "company",
-"n": "Guangzhou Virotech Pharmaceutical Co., Ltd.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:liang-peng",
-"t": "person",
-"n": "Liang Peng",
-"sub": "study chair · Third Affiliated Hospital, Sun Yat-Sen University",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:vrt106",
-"t": "drug",
-"n": "VRT106",
-"sub": "Guangzhou Virotech Pharmaceutical Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:vrt106-in-combination-with-camrelizumab-and-apatinib",
-"t": "drug",
-"n": "VRT106 in combination with camrelizumab and apatinib",
-"sub": "Guangzhou Virotech Pharmaceutical Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct05063565",
 "t": "trial",
 "n": "TheraSphere With Durvalumab and Tremelimumab for HCC",
@@ -292,6 +356,46 @@
 "t": "drug",
 "n": "Tremelimumab immunotherapy",
 "sub": "Boston Scientific Corporation",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07589244",
+"t": "trial",
+"n": "A Study of VRT106, Combined With Camrelizumab, and Apatinib for Advanced HCC",
+"sub": "P2/P3 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07589244",
+"c": ""
+},
+{
+"k": "org:guangzhou-virotech-pharmaceutical",
+"t": "company",
+"n": "Guangzhou Virotech Pharmaceutical Co., Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:liang-peng",
+"t": "person",
+"n": "Liang Peng",
+"sub": "study chair · Third Affiliated Hospital, Sun Yat-Sen University",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:vrt106",
+"t": "drug",
+"n": "VRT106",
+"sub": "Guangzhou Virotech Pharmaceutical Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:vrt106-in-combination-with-camrelizumab-and-apatinib",
+"t": "drug",
+"n": "VRT106 in combination with camrelizumab and apatinib",
+"sub": "Guangzhou Virotech Pharmaceutical Co., Ltd.",
 "url": "",
 "c": ""
 },
@@ -520,6 +624,70 @@
 "c": ""
 },
 {
+"k": "trial:nct07487662",
+"t": "trial",
+"n": "TACE or Ablation Combined With Sintilimab and Ipilimumab N01 as Neoadjuvant Therapy for Re",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07487662",
+"c": ""
+},
+{
+"k": "org:sun-yat-sen-university",
+"t": "academic",
+"n": "Sun Yat-sen University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:sintilimab",
+"t": "drug",
+"n": "sintilimab",
+"sub": "Sun Yat-sen University",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ipilimumab-n01",
+"t": "drug",
+"n": "ipilimumab N01",
+"sub": "Sun Yat-sen University",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07899632",
+"t": "trial",
+"n": "A Study of MDSY-1240, a STAT3 Degrader, for the Treatment of Hematologic Malignancies and ",
+"sub": "P1/P2 · not_yet_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07899632",
+"c": ""
+},
+{
+"k": "org:medsyn-biopharma",
+"t": "company",
+"n": "Medsyn Biopharma, LLC",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:krish-patel",
+"t": "person",
+"n": "Krish Patel",
+"sub": "study chair · SCRI Development Innovations, LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:mdsy-1240",
+"t": "drug",
+"n": "MDSY-1240",
+"sub": "Medsyn Biopharma, LLC",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct05603572",
 "t": "trial",
 "n": "KAT-101 in Subjects With Hepatocellular Carcinoma (HCC)",
@@ -560,66 +728,66 @@
 "c": ""
 },
 {
-"k": "trial:nct07899632",
+"k": "trial:nct03937830",
 "t": "trial",
-"n": "A Study of MDSY-1240, a STAT3 Degrader, for the Treatment of Hematologic Malignancies and ",
-"sub": "P1/P2 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07899632",
+"n": "Combined Treatment of Durvalumab, Bevacizumab, Tremelimumab and Transarterial Chemoemboliz",
+"sub": "P2 · active_not_recruiting · 2021-2027",
+"url": "https://clinicaltrials.gov/study/NCT03937830",
 "c": ""
 },
 {
-"k": "org:medsyn-biopharma",
-"t": "company",
-"n": "Medsyn Biopharma, LLC",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:krish-patel",
+"k": "person:tim-f-greten-m-d",
 "t": "person",
-"n": "Krish Patel",
-"sub": "study chair · SCRI Development Innovations, LLC",
+"n": "Tim F Greten, M.D",
+"sub": "principal investigator · National Cancer Institute (NCI)",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:mdsy-1240",
+"k": "drug:doxorubicin-eluting-beads",
 "t": "drug",
-"n": "MDSY-1240",
-"sub": "Medsyn Biopharma, LLC",
+"n": "Doxorubicin-Eluting Beads",
+"sub": "National Cancer Institute (NCI)",
 "url": "",
 "c": ""
 },
 {
-"k": "trial:nct07487662",
-"t": "trial",
-"n": "TACE or Ablation Combined With Sintilimab and Ipilimumab N01 as Neoadjuvant Therapy for Re",
-"sub": "P2 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07487662",
+"k": "drug:bevacizumab",
+"t": "drug",
+"n": "bevacizumab",
+"sub": "National Cancer Institute (NCI)",
+"url": "",
 "c": ""
 },
 {
-"k": "org:sun-yat-sen-university",
-"t": "academic",
-"n": "Sun Yat-sen University",
+"k": "trial:nct06330064",
+"t": "trial",
+"n": "A Study to Evaluate the Efficacy and Safety of Ifinatamab Deruxtecan (I-DXd) in Subjects W",
+"sub": "P1/P2 · recruiting · 2024-2028",
+"url": "https://clinicaltrials.gov/study/NCT06330064",
+"c": ""
+},
+{
+"k": "org:daiichi-sankyo",
+"t": "company",
+"n": "Daiichi Sankyo",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:sintilimab",
-"t": "drug",
-"n": "sintilimab",
-"sub": "Sun Yat-sen University",
+"k": "org:merck-sharp-dohme",
+"t": "company",
+"n": "Merck Sharp & Dohme LLC",
+"sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:ipilimumab-n01",
+"k": "drug:ifinatamab-deruxtecan",
 "t": "drug",
-"n": "ipilimumab N01",
-"sub": "Sun Yat-sen University",
+"n": "Ifinatamab deruxtecan",
+"sub": "Daiichi Sankyo",
 "url": "",
 "c": ""
 },
@@ -664,59 +832,75 @@
 "c": ""
 },
 {
-"k": "trial:nct03937830",
-"t": "trial",
-"n": "Combined Treatment of Durvalumab, Bevacizumab, Tremelimumab and Transarterial Chemoemboliz",
-"sub": "P2 · active_not_recruiting · 2021-2027",
-"url": "https://clinicaltrials.gov/study/NCT03937830",
-"c": ""
-},
-{
-"k": "person:tim-f-greten-m-d",
-"t": "person",
-"n": "Tim F Greten, M.D",
-"sub": "principal investigator · National Cancer Institute (NCI)",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:durvalumab",
-"t": "drug",
-"n": "durvalumab",
-"sub": "National Cancer Institute (NCI)",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:doxorubicin-eluting-beads",
-"t": "drug",
-"n": "Doxorubicin-Eluting Beads",
-"sub": "National Cancer Institute (NCI)",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:bevacizumab",
-"t": "drug",
-"n": "bevacizumab",
-"sub": "National Cancer Institute (NCI)",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:tremelimumab",
-"t": "drug",
-"n": "Tremelimumab",
-"sub": "National Cancer Institute (NCI)",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07895732",
 "t": "trial",
 "n": "Personalized Adaptive Radiotherapy for Hepatocellular Carcinoma",
 "sub": "P3 · not_yet_recruiting · 2026-2031",
 "url": "https://clinicaltrials.gov/study/NCT07895732",
+"c": ""
+},
+{
+"k": "trial:nct04472767",
+"t": "trial",
+"n": "Cabozantinib Combined With Ipilimumab/Nivolumab and TACE in Patients With Hepatocellular C",
+"sub": "P2 · recruiting · 2020-2027",
+"url": "https://clinicaltrials.gov/study/NCT04472767",
+"c": ""
+},
+{
+"k": "org:university-of-california-irvine",
+"t": "academic",
+"n": "University of California, Irvine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:farshid-dayyani",
+"t": "person",
+"n": "Farshid Dayyani",
+"sub": "principal investigator · Chao Family Comprehensive Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ipilimumab",
+"t": "drug",
+"n": "Ipilimumab",
+"sub": "University of California, Irvine",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06811116",
+"t": "trial",
+"n": "Testing the Addition of an Anti-cancer Drug, Sapanisertib, to the Usual Chemotherapy Treat",
+"sub": "P1/P2 · recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT06811116",
+"c": ""
+},
+{
+"k": "person:anwaar-saeed",
+"t": "person",
+"n": "Anwaar Saeed",
+"sub": "principal investigator · UPMC Hillman Cancer Center LAO",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:cabozantinib-s-malate",
+"t": "drug",
+"n": "Cabozantinib S-malate",
+"sub": "National Cancer Institute (NCI)",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:sapanisertib",
+"t": "drug",
+"n": "Sapanisertib",
+"sub": "National Cancer Institute (NCI)",
+"url": "",
 "c": ""
 },
 {
@@ -768,126 +952,6 @@
 "c": ""
 },
 {
-"k": "trial:nct04472767",
-"t": "trial",
-"n": "Cabozantinib Combined With Ipilimumab/Nivolumab and TACE in Patients With Hepatocellular C",
-"sub": "P2 · recruiting · 2020-2027",
-"url": "https://clinicaltrials.gov/study/NCT04472767",
-"c": ""
-},
-{
-"k": "org:university-of-california-irvine",
-"t": "academic",
-"n": "University of California, Irvine",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:farshid-dayyani",
-"t": "person",
-"n": "Farshid Dayyani",
-"sub": "principal investigator · Chao Family Comprehensive Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:ipilimumab",
-"t": "drug",
-"n": "Ipilimumab",
-"sub": "University of California, Irvine",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06330064",
-"t": "trial",
-"n": "A Study to Evaluate the Efficacy and Safety of Ifinatamab Deruxtecan (I-DXd) in Subjects W",
-"sub": "P1/P2 · recruiting · 2024-2028",
-"url": "https://clinicaltrials.gov/study/NCT06330064",
-"c": ""
-},
-{
-"k": "org:daiichi-sankyo",
-"t": "company",
-"n": "Daiichi Sankyo",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:merck-sharp-dohme",
-"t": "company",
-"n": "Merck Sharp & Dohme LLC",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:ifinatamab-deruxtecan",
-"t": "drug",
-"n": "Ifinatamab deruxtecan",
-"sub": "Daiichi Sankyo",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06811116",
-"t": "trial",
-"n": "Testing the Addition of an Anti-cancer Drug, Sapanisertib, to the Usual Chemotherapy Treat",
-"sub": "P1/P2 · recruiting · 2025-2027",
-"url": "https://clinicaltrials.gov/study/NCT06811116",
-"c": ""
-},
-{
-"k": "person:anwaar-saeed",
-"t": "person",
-"n": "Anwaar Saeed",
-"sub": "principal investigator · UPMC Hillman Cancer Center LAO",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:cabozantinib-s-malate",
-"t": "drug",
-"n": "Cabozantinib S-malate",
-"sub": "National Cancer Institute (NCI)",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:sapanisertib",
-"t": "drug",
-"n": "Sapanisertib",
-"sub": "National Cancer Institute (NCI)",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07291076",
-"t": "trial",
-"n": "A Study to Evaluate the Safety and Tolerability of Pumitamig Alone or In Combination With ",
-"sub": "P1/P2 · recruiting · 2026-2031",
-"url": "https://clinicaltrials.gov/study/NCT07291076",
-"c": ""
-},
-{
-"k": "person:bristol-myers-squibb",
-"t": "person",
-"n": "Bristol-Myers Squibb",
-"sub": "study director · Bristol-Myers Squibb",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:pumitamig",
-"t": "drug",
-"n": "Pumitamig",
-"sub": "Bristol-Myers Squibb",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07042919",
 "t": "trial",
 "n": "Zanzalintinib in Second Line and Beyond for the Treatment of Advanced Liver Cancer",
@@ -916,6 +980,62 @@
 "t": "person",
 "n": "Devalingam Mahalingam",
 "sub": "principal investigator · Northwestern University",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07291076",
+"t": "trial",
+"n": "A Study to Evaluate the Safety and Tolerability of Pumitamig Alone or In Combination With ",
+"sub": "P1/P2 · recruiting · 2026-2031",
+"url": "https://clinicaltrials.gov/study/NCT07291076",
+"c": ""
+},
+{
+"k": "person:bristol-myers-squibb",
+"t": "person",
+"n": "Bristol-Myers Squibb",
+"sub": "study director · Bristol-Myers Squibb",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:pumitamig",
+"t": "drug",
+"n": "Pumitamig",
+"sub": "Bristol-Myers Squibb",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06027086",
+"t": "trial",
+"n": "DRP-104 (Glutamine Antagonist) in Combination With Durvalumab in Patients With Advanced St",
+"sub": "P1/P2 · active_not_recruiting · 2024-2033",
+"url": "https://clinicaltrials.gov/study/NCT06027086",
+"c": ""
+},
+{
+"k": "org:sidney-kimmel-comprehensive-cancer-center-at-johns-hopkins",
+"t": "academic",
+"n": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:marina-baretti",
+"t": "person",
+"n": "Marina Baretti",
+"sub": "principal investigator · SKCCC • Johns Hopkins Medical Institution",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:drp-104",
+"t": "drug",
+"n": "DRP-104",
+"sub": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
 "url": "",
 "c": ""
 },
@@ -968,54 +1088,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06027086",
-"t": "trial",
-"n": "DRP-104 (Glutamine Antagonist) in Combination With Durvalumab in Patients With Advanced St",
-"sub": "P1/P2 · active_not_recruiting · 2024-2033",
-"url": "https://clinicaltrials.gov/study/NCT06027086",
-"c": ""
-},
-{
-"k": "org:sidney-kimmel-comprehensive-cancer-center-at-johns-hopkins",
-"t": "academic",
-"n": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:marina-baretti",
-"t": "person",
-"n": "Marina Baretti",
-"sub": "principal investigator · SKCCC • Johns Hopkins Medical Institution",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:drp-104",
-"t": "drug",
-"n": "DRP-104",
-"sub": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07884877",
-"t": "trial",
-"n": "PULSAR Radiotherapy Combined With Immunotherapy for High-Risk Advanced Liver Cancer",
-"sub": "P2 · recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07884877",
-"c": ""
-},
-{
-"k": "drug:immune-checkpoint-inhibitor-based-therapy",
-"t": "drug",
-"n": "Immune checkpoint inhibitor-based therapy",
-"sub": "Samsung Medical Center",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct05914116",
 "t": "trial",
 "n": "A Phase 1/2a Study of DB-1311/BNT324 in Advanced/Metastatic Solid Tumors",
@@ -1056,6 +1128,22 @@
 "c": ""
 },
 {
+"k": "trial:nct07884877",
+"t": "trial",
+"n": "PULSAR Radiotherapy Combined With Immunotherapy for High-Risk Advanced Liver Cancer",
+"sub": "P2 · recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07884877",
+"c": ""
+},
+{
+"k": "drug:immune-checkpoint-inhibitor-based-therapy",
+"t": "drug",
+"n": "Immune checkpoint inhibitor-based therapy",
+"sub": "Samsung Medical Center",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07590336",
 "t": "trial",
 "n": "68Ga-NYM207 PET/CT Imaging in Hepatocellular Carcinoma",
@@ -1070,30 +1158,6 @@
 "sub": "",
 "url": "",
 "c": "China"
-},
-{
-"k": "trial:nct05377034",
-"t": "trial",
-"n": "Multinational Phase II Trial to Compare Safety and Efficacy of SIRT (Y-90 Resin Microspher",
-"sub": "P2 · active_not_recruiting · 2022-2028",
-"url": "https://clinicaltrials.gov/study/NCT05377034",
-"c": ""
-},
-{
-"k": "org:national-cancer-centre-singapore",
-"t": "academic",
-"n": "National Cancer Centre, Singapore",
-"sub": "",
-"url": "",
-"c": "Singapore"
-},
-{
-"k": "person:pierce-chow",
-"t": "person",
-"n": "Pierce CHOW",
-"sub": "principal investigator · National Cancer Centre, Singapore",
-"url": "",
-"c": ""
 },
 {
 "k": "trial:nct05879822",
@@ -1116,6 +1180,30 @@
 "t": "drug",
 "n": "INCB099280",
 "sub": "Incyte Corporation",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05377034",
+"t": "trial",
+"n": "Multinational Phase II Trial to Compare Safety and Efficacy of SIRT (Y-90 Resin Microspher",
+"sub": "P2 · active_not_recruiting · 2022-2028",
+"url": "https://clinicaltrials.gov/study/NCT05377034",
+"c": ""
+},
+{
+"k": "org:national-cancer-centre-singapore",
+"t": "academic",
+"n": "National Cancer Centre, Singapore",
+"sub": "",
+"url": "",
+"c": "Singapore"
+},
+{
+"k": "person:pierce-chow",
+"t": "person",
+"n": "Pierce CHOW",
+"sub": "principal investigator · National Cancer Centre, Singapore",
 "url": "",
 "c": ""
 },
@@ -1168,38 +1256,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07878689",
-"t": "trial",
-"n": "Study of Tegavivint Plus Zanzalintinib in Patients With Advanced Hepatocellular Carcinoma",
-"sub": "P1/P2 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07878689",
-"c": ""
-},
-{
-"k": "org:university-of-texas-southwestern-medical-center",
-"t": "hospital",
-"n": "University of Texas Southwestern Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "person:david-hsieh",
-"t": "person",
-"n": "David Hsieh",
-"sub": "principal investigator · University of Texas Southwestern Medical Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:tegavivint",
-"t": "drug",
-"n": "Tegavivint",
-"sub": "University of Texas Southwestern Medical Center",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct06789757",
 "t": "trial",
 "n": "The Study of Atezolizumab, Bevacizumab and Memantine in Patients With Hepatocellular Carci",
@@ -1232,74 +1288,34 @@
 "c": ""
 },
 {
-"k": "trial:nct07274774",
+"k": "trial:nct07878689",
 "t": "trial",
-"n": "SBRT Plus Systemic Therapy vs Systemic Therapy Alone in BCLC C Hepatocellular Carcinoma",
-"sub": "P2 · suspended · 2025-2028",
-"url": "https://clinicaltrials.gov/study/NCT07274774",
+"n": "Study of Tegavivint Plus Zanzalintinib in Patients With Advanced Hepatocellular Carcinoma",
+"sub": "P1/P2 · not_yet_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07878689",
 "c": ""
 },
 {
-"k": "org:shandong-cancer-hospital-and-institute",
+"k": "org:university-of-texas-southwestern-medical-center",
 "t": "hospital",
-"n": "Shandong Cancer Hospital and Institute",
+"n": "University of Texas Southwestern Medical Center",
 "sub": "",
 "url": "",
-"c": "China"
+"c": "United States"
 },
 {
-"k": "drug:systemic-therapy",
-"t": "drug",
-"n": "Systemic therapy",
-"sub": "Shandong Cancer Hospital and Institute",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07062055",
-"t": "trial",
-"n": "BITS-TO-HCC Study: HAIC+Iparomlimab/Tuvonralimab + Bevacizumab + Surgery/SBRT for BCLC-C H",
-"sub": "P2 · recruiting · 2025-2029",
-"url": "https://clinicaltrials.gov/study/NCT07062055",
-"c": ""
-},
-{
-"k": "person:jinbo-yue-doctor",
+"k": "person:david-hsieh",
 "t": "person",
-"n": "Jinbo Yue, Doctor",
-"sub": "principal investigator · Shandong Cancer Hospital and Institute",
+"n": "David Hsieh",
+"sub": "principal investigator · University of Texas Southwestern Medical Center",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:anti-vegf",
+"k": "drug:tegavivint",
 "t": "drug",
-"n": "Anti-VEGF",
-"sub": "Shandong Cancer Hospital and Institute",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:immunotherapy",
-"t": "drug",
-"n": "Immunotherapy",
-"sub": "Shandong Cancer Hospital and Institute",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05901519",
-"t": "trial",
-"n": "A Pilot Study of Liver Protection Using Prednisone for Patients Receiving Stereotactic Bod",
-"sub": "P2 · recruiting · 2024-2027",
-"url": "https://clinicaltrials.gov/study/NCT05901519",
-"c": ""
-},
-{
-"k": "person:theodore-lawrence",
-"t": "person",
-"n": "Theodore Lawrence",
-"sub": "principal investigator · University of Michigan Rogel Cancer Center",
+"n": "Tegavivint",
+"sub": "University of Texas Southwestern Medical Center",
 "url": "",
 "c": ""
 },
@@ -1336,58 +1352,146 @@
 "c": ""
 },
 {
-"k": "trial:nct04008797",
+"k": "trial:nct07274774",
 "t": "trial",
-"n": "A Study of E7386 in Combination With Other Anticancer Drug(s) in Participants With Solid T",
-"sub": "P1/P2 · active_not_recruiting · 2019-2027",
-"url": "https://clinicaltrials.gov/study/NCT04008797",
+"n": "SBRT Plus Systemic Therapy vs Systemic Therapy Alone in BCLC C Hepatocellular Carcinoma",
+"sub": "P2 · suspended · 2025-2028",
+"url": "https://clinicaltrials.gov/study/NCT07274774",
 "c": ""
 },
 {
-"k": "org:eisai",
-"t": "company",
-"n": "Eisai Inc.",
+"k": "org:shandong-cancer-hospital-and-institute",
+"t": "hospital",
+"n": "Shandong Cancer Hospital and Institute",
 "sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "drug:systemic-therapy",
+"t": "drug",
+"n": "Systemic therapy",
+"sub": "Shandong Cancer Hospital and Institute",
 "url": "",
 "c": ""
 },
 {
-"k": "org:cedars-sinai-medical-center",
+"k": "trial:nct05901519",
+"t": "trial",
+"n": "A Pilot Study of Liver Protection Using Prednisone for Patients Receiving Stereotactic Bod",
+"sub": "P2 · recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT05901519",
+"c": ""
+},
+{
+"k": "person:theodore-lawrence",
+"t": "person",
+"n": "Theodore Lawrence",
+"sub": "principal investigator · University of Michigan Rogel Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07062055",
+"t": "trial",
+"n": "BITS-TO-HCC Study: HAIC+Iparomlimab/Tuvonralimab + Bevacizumab + Surgery/SBRT for BCLC-C H",
+"sub": "P2 · recruiting · 2025-2029",
+"url": "https://clinicaltrials.gov/study/NCT07062055",
+"c": ""
+},
+{
+"k": "person:jinbo-yue-doctor",
+"t": "person",
+"n": "Jinbo Yue, Doctor",
+"sub": "principal investigator · Shandong Cancer Hospital and Institute",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:anti-vegf",
+"t": "drug",
+"n": "Anti-VEGF",
+"sub": "Shandong Cancer Hospital and Institute",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:immunotherapy",
+"t": "drug",
+"n": "Immunotherapy",
+"sub": "Shandong Cancer Hospital and Institute",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04796012",
+"t": "trial",
+"n": "VITAS: Atezolizumab in Combination With Chemotherapy for Pediatric Relapsed/Refractory Sol",
+"sub": "P1/P2 · active_not_recruiting · 2023-2027",
+"url": "https://clinicaltrials.gov/study/NCT04796012",
+"c": ""
+},
+{
+"k": "person:arhanti-sadanand",
+"t": "person",
+"n": "Arhanti Sadanand",
+"sub": "principal investigator · University of Texas Southwestern Medical Center",
+"url": "",
+"c": ""
+},
+{
+"k": "org:boston-children-s-hospital",
 "t": "hospital",
-"n": "Cedars-Sinai Medical Center",
+"n": "Boston Children's Hospital",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "drug:e7386",
+"k": "org:children-s-hospital-of-philadelphia",
+"t": "hospital",
+"n": "Children's Hospital of Philadelphia",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:the-university-of-texas-southwestern-medical-center",
+"t": "hospital",
+"n": "The University of Texas Southwestern Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:texas-children-s-hospital",
+"t": "hospital",
+"n": "Texas Children's Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:vincristine",
 "t": "drug",
-"n": "E7386",
-"sub": "Eisai Inc.",
+"n": "Vincristine",
+"sub": "University of Texas Southwestern Medical Center",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:doxorubicin",
+"k": "drug:irinotecan",
 "t": "drug",
-"n": "Doxorubicin",
-"sub": "Eisai Inc.",
+"n": "Irinotecan",
+"sub": "University of Texas Southwestern Medical Center",
 "url": "",
 "c": ""
 },
 {
-"k": "trial:nct05337137",
-"t": "trial",
-"n": "A Study of Nivolumab and Relatlimab in Combination With Bevacizumab in Advanced Liver Canc",
-"sub": "P1/P2 · completed · 2022-2025",
-"url": "https://clinicaltrials.gov/study/NCT05337137",
-"c": ""
-},
-{
-"k": "drug:relatlimab",
+"k": "drug:temozolomide",
 "t": "drug",
-"n": "Relatlimab",
-"sub": "Bristol-Myers Squibb",
+"n": "Temozolomide",
+"sub": "University of Texas Southwestern Medical Center",
 "url": "",
 "c": ""
 },
@@ -1432,22 +1536,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06395103",
-"t": "trial",
-"n": "Substudy 01A: Zilovertamab Vedotin in Pediatric and Young Adult Participants With Hematolo",
-"sub": "P1/P2 · recruiting · 2024-2029",
-"url": "https://clinicaltrials.gov/study/NCT06395103",
-"c": ""
-},
-{
-"k": "drug:zilovertamab-vedotin",
-"t": "drug",
-"n": "Zilovertamab vedotin",
-"sub": "Merck Sharp & Dohme LLC",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct06915727",
 "t": "trial",
 "n": "An Imaging Agent (Pafolacianine) for Identifying Lesions in Pediatric Patients With Primar",
@@ -1468,6 +1556,22 @@
 "t": "drug",
 "n": "Pafolacianine",
 "sub": "Mayo Clinic",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06395103",
+"t": "trial",
+"n": "Substudy 01A: Zilovertamab Vedotin in Pediatric and Young Adult Participants With Hematolo",
+"sub": "P1/P2 · recruiting · 2024-2029",
+"url": "https://clinicaltrials.gov/study/NCT06395103",
+"c": ""
+},
+{
+"k": "drug:zilovertamab-vedotin",
+"t": "drug",
+"n": "Zilovertamab vedotin",
+"sub": "Merck Sharp & Dohme LLC",
 "url": "",
 "c": ""
 },
@@ -1784,22 +1888,6 @@
 "c": ""
 },
 {
-"k": "drug:temozolomide",
-"t": "drug",
-"n": "Temozolomide",
-"sub": "Pfizer",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:irinotecan",
-"t": "drug",
-"n": "Irinotecan",
-"sub": "Pfizer",
-"url": "",
-"c": ""
-},
-{
 "k": "drug:topotecan",
 "t": "drug",
 "n": "Topotecan",
@@ -1812,6 +1900,22 @@
 "t": "drug",
 "n": "Cyclophosphamide",
 "sub": "Pfizer",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06941272",
+"t": "trial",
+"n": "A Study of Patritumab Deruxtecan in Pediatric Participants With Relapsed or Refractory Sol",
+"sub": "P1/P2 · recruiting · 2025-2030",
+"url": "https://clinicaltrials.gov/study/NCT06941272",
+"c": ""
+},
+{
+"k": "drug:patritumab-deruxtecan",
+"t": "drug",
+"n": "Patritumab Deruxtecan",
+"sub": "Merck Sharp & Dohme LLC",
 "url": "",
 "c": ""
 },
@@ -1856,22 +1960,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06941272",
-"t": "trial",
-"n": "A Study of Patritumab Deruxtecan in Pediatric Participants With Relapsed or Refractory Sol",
-"sub": "P1/P2 · recruiting · 2025-2030",
-"url": "https://clinicaltrials.gov/study/NCT06941272",
-"c": ""
-},
-{
-"k": "drug:patritumab-deruxtecan",
-"t": "drug",
-"n": "Patritumab Deruxtecan",
-"sub": "Merck Sharp & Dohme LLC",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct06721689",
 "t": "trial",
 "n": "PEEL-224, Vincristine and Temozolomide in Pediatric Solid Tumors",
@@ -1896,28 +1984,12 @@
 "c": "US"
 },
 {
-"k": "org:children-s-hospital-of-philadelphia",
-"t": "hospital",
-"n": "Children's Hospital of Philadelphia",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "person:jacquelyn-crane",
 "t": "person",
 "n": "Jacquelyn Crane",
 "sub": "principal investigator · Children's Hospital of Philadelphia",
 "url": "",
 "c": ""
-},
-{
-"k": "org:boston-children-s-hospital",
-"t": "hospital",
-"n": "Boston Children's Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "org:dana-farber-cancer-institute",
@@ -1928,25 +2000,9 @@
 "c": "United States"
 },
 {
-"k": "org:texas-children-s-hospital",
-"t": "hospital",
-"n": "Texas Children's Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "drug:peel-224",
 "t": "drug",
 "n": "PEEL-224",
-"sub": "Theodore Laetsch",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:vincristine",
-"t": "drug",
-"n": "Vincristine",
 "sub": "Theodore Laetsch",
 "url": "",
 "c": ""
@@ -2326,30 +2382,6 @@
 "sub": "Memorial Sloan Kettering Cancer Center",
 "url": "",
 "c": ""
-},
-{
-"k": "trial:nct04796012",
-"t": "trial",
-"n": "VITAS: Atezolizumab in Combination With Chemotherapy for Pediatric Relapsed/Refractory Sol",
-"sub": "P1/P2 · recruiting · 2023-2027",
-"url": "https://clinicaltrials.gov/study/NCT04796012",
-"c": ""
-},
-{
-"k": "person:arhanti-sadanand",
-"t": "person",
-"n": "Arhanti Sadanand",
-"sub": "principal investigator · University of Texas Southwestern Medical Center",
-"url": "",
-"c": ""
-},
-{
-"k": "org:the-university-of-texas-southwestern-medical-center",
-"t": "hospital",
-"n": "The University of Texas Southwestern Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "trial:nct05468359",
@@ -2771,7 +2803,7 @@
 "k": "paper:pmid-39832211",
 "t": "paper",
 "n": "A Phase I, First‐In‐Human Study of CBA ‐1205, an Anti‐ DLK1 Monoclonal Antibody, in Patien",
-"sub": "Cancer Science 2025 · cited 1",
+"sub": "Cancer Science 2025 · cited 3",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39832211",
 "c": ""
 },
@@ -2859,7 +2891,7 @@
 "k": "paper:pmid-39769389",
 "t": "paper",
 "n": "A Novel Glycoengineered Humanized Antibody Targeting DLK1 Exhibits Potent Anti-Tumor Activ",
-"sub": "International Journal of Molecular Sciences 2024 · cited 2",
+"sub": "International Journal of Molecular Sciences 2024 · cited 3",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39769389",
 "c": ""
 },
@@ -2872,18 +2904,10 @@
 "c": "JP"
 },
 {
-"k": "paper:doi-10-5281-zenodo-19104342",
-"t": "paper",
-"n": "Impact of Artificial Intelligence on Diagnostic Accuracy in Radiology",
-"sub": "Zenodo (CERN European Organization for Nuclear Research) 2026 · cited 0",
-"url": "https://doi.org/10.5281/zenodo.19104342",
-"c": ""
-},
-{
 "k": "paper:pmid-32402160",
 "t": "paper",
 "n": "Atezolizumab plus Bevacizumab in Unresectable Hepatocellular Carcinoma",
-"sub": "New England Journal of Medicine 2020 · cited 7470",
+"sub": "New England Journal of Medicine 2020 · cited 7495",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32402160",
 "c": ""
 },
@@ -2931,7 +2955,7 @@
 "k": "paper:pmid-33479224",
 "t": "paper",
 "n": "Hepatocellular carcinoma",
-"sub": "Nature Reviews Disease Primers 2021 · cited 7067",
+"sub": "Nature Reviews Disease Primers 2021 · cited 7155",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33479224",
 "c": ""
 },
@@ -2971,7 +2995,7 @@
 "k": "paper:pmid-34801630",
 "t": "paper",
 "n": "BCLC strategy for prognosis prediction and treatment recommendation: The 2022 update",
-"sub": "Journal of Hepatology 2021 · cited 4324",
+"sub": "Journal of Hepatology 2021 · cited 4404",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34801630",
 "c": ""
 },
@@ -3003,7 +3027,7 @@
 "k": "paper:pmid-33894145",
 "t": "paper",
 "n": "Non-alcoholic fatty liver disease",
-"sub": "The Lancet 2021 · cited 2792",
+"sub": "The Lancet 2021 · cited 2839",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33894145",
 "c": ""
 },
@@ -3027,7 +3051,7 @@
 "k": "paper:pmid-36084663",
 "t": "paper",
 "n": "Hepatocellular carcinoma",
-"sub": "The Lancet 2022 · cited 2435",
+"sub": "The Lancet 2022 · cited 2467",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36084663",
 "c": ""
 },
@@ -3059,7 +3083,7 @@
 "k": "paper:pmid-36990226",
 "t": "paper",
 "n": "Global burden of liver disease: 2023 update",
-"sub": "Journal of Hepatology 2023 · cited 2267",
+"sub": "Journal of Hepatology 2023 · cited 2360",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36990226",
 "c": ""
 },
@@ -3091,7 +3115,7 @@
 "k": "paper:pmid-38851997",
 "t": "paper",
 "n": "EASL–EASD–EASO Clinical Practice Guidelines on the management of metabolic dysfunction-ass",
-"sub": "Journal of Hepatology 2024 · cited 2217",
+"sub": "Journal of Hepatology 2024 · cited 2354",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38851997",
 "c": ""
 },
@@ -3107,7 +3131,7 @@
 "k": "paper:pmid-32319693",
 "t": "paper",
 "n": "Epidemiology of Hepatocellular Carcinoma",
-"sub": "Hepatology 2020 · cited 2179",
+"sub": "Hepatology 2020 · cited 2197",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32319693",
 "c": ""
 },
@@ -3163,7 +3187,7 @@
 "k": "paper:pmid-37199193",
 "t": "paper",
 "n": "AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinom",
-"sub": "Hepatology 2023 · cited 2061",
+"sub": "Hepatology 2023 · cited 2149",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37199193",
 "c": ""
 },
@@ -3195,7 +3219,7 @@
 "k": "paper:pmid-33989548",
 "t": "paper",
 "n": "Mechanisms and disease consequences of nonalcoholic fatty liver disease",
-"sub": "Cell 2021 · cited 2007",
+"sub": "Cell 2021 · cited 2046",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33989548",
 "c": ""
 },
@@ -3235,7 +3259,7 @@
 "k": "paper:pmid-33349658",
 "t": "paper",
 "n": "Global epidemiology of NAFLD-related HCC: trends, predictions, risk factors and prevention",
-"sub": "Nature Reviews Gastroenterology & Hepatology 2020 · cited 1858",
+"sub": "Nature Reviews Gastroenterology & Hepatology 2020 · cited 1882",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33349658",
 "c": ""
 },
@@ -3259,7 +3283,7 @@
 "k": "paper:pmid-34764464",
 "t": "paper",
 "n": "Immunotherapies for hepatocellular carcinoma",
-"sub": "Nature Reviews Clinical Oncology 2021 · cited 1844",
+"sub": "Nature Reviews Clinical Oncology 2021 · cited 1843",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34764464",
 "c": ""
 },
@@ -3267,7 +3291,7 @@
 "k": "paper:pmid-34902530",
 "t": "paper",
 "n": "Updated efficacy and safety data from IMbrave150: Atezolizumab plus bevacizumab vs. sorafe",
-"sub": "Journal of Hepatology 2021 · cited 1748",
+"sub": "Journal of Hepatology 2021 · cited 1772",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34902530",
 "c": ""
 },
@@ -3275,7 +3299,7 @@
 "k": "paper:pmid-38319892",
 "t": "paper",
 "n": "Tremelimumab plus Durvalumab in Unresectable Hepatocellular Carcinoma",
-"sub": "NEJM Evidence 2022 · cited 1578",
+"sub": "NEJM Evidence 2022 · cited 1605",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38319892",
 "c": ""
 },
@@ -3315,7 +3339,7 @@
 "k": "paper:pmid-38311623",
 "t": "paper",
 "n": "Extracellular vesicles as tools and targets in therapy for diseases",
-"sub": "Signal Transduction and Targeted Therapy 2024 · cited 1376",
+"sub": "Signal Transduction and Targeted Therapy 2024 · cited 1443",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38311623",
 "c": ""
 },
@@ -3347,7 +3371,7 @@
 "k": "paper:pmid-33850328",
 "t": "paper",
 "n": "Advances in immunotherapy for hepatocellular carcinoma",
-"sub": "Nature Reviews Gastroenterology & Hepatology 2021 · cited 1306",
+"sub": "Nature Reviews Gastroenterology & Hepatology 2021 · cited 1311",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33850328",
 "c": ""
 },
@@ -3379,7 +3403,7 @@
 "k": "paper:pmid-33762733",
 "t": "paper",
 "n": "NASH limits anti-tumour surveillance in immunotherapy-treated HCC",
-"sub": "Nature 2021 · cited 1294",
+"sub": "Nature 2021 · cited 1297",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33762733",
 "c": ""
 },
@@ -3443,7 +3467,7 @@
 "k": "paper:pmid-32260126",
 "t": "paper",
 "n": "Liver Fibrosis: Mechanistic Concepts and Therapeutic Perspectives",
-"sub": "Cells 2020 · cited 1238",
+"sub": "Cells 2020 · cited 1254",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32260126",
 "c": ""
 },
@@ -3472,50 +3496,10 @@
 "c": "FR"
 },
 {
-"k": "org:deutsche-forschungsgemeinschaft",
-"t": "funder",
-"n": "Deutsche Forschungsgemeinschaft",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:agence-nationale-de-la-recherche",
-"t": "funder",
-"n": "Agence Nationale de la Recherche",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32716739",
-"t": "paper",
-"n": "Phase Ib Study of Lenvatinib Plus Pembrolizumab in Patients With Unresectable Hepatocellul",
-"sub": "Journal of Clinical Oncology 2020 · cited 1167",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32716739",
-"c": ""
-},
-{
-"k": "org:los-angeles-medical-center",
-"t": "hospital",
-"n": "Los Angeles Medical Center",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:tisch-cancer-institute",
-"t": "hospital",
-"n": "Tisch Cancer Institute",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
 "k": "paper:pmid-32335505",
 "t": "paper",
 "n": "Bevacizumab (Avastin®) in cancer treatment: A review of 15 years of clinical experience an",
-"sub": "Cancer Treatment Reviews 2020 · cited 1159",
+"sub": "Cancer Treatment Reviews 2020 · cited 1174",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32335505",
 "c": ""
 },
@@ -3544,22 +3528,6 @@
 "c": "FR"
 },
 {
-"k": "org:aix-marseille-universite",
-"t": "academic",
-"n": "Aix-Marseille Université",
-"sub": "",
-"url": "",
-"c": "FR"
-},
-{
-"k": "org:assistance-publique-hopitaux-de-marseille",
-"t": "hospital",
-"n": "Assistance Publique Hôpitaux de Marseille",
-"sub": "",
-"url": "",
-"c": "FR"
-},
-{
 "k": "org:roche",
 "t": "funder",
 "n": "Roche",
@@ -3568,10 +3536,42 @@
 "c": ""
 },
 {
+"k": "paper:pmid-32716739",
+"t": "paper",
+"n": "Phase Ib Study of Lenvatinib Plus Pembrolizumab in Patients With Unresectable Hepatocellul",
+"sub": "Journal of Clinical Oncology 2020 · cited 1158",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32716739",
+"c": ""
+},
+{
+"k": "org:tisch-cancer-institute",
+"t": "hospital",
+"n": "Tisch Cancer Institute",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-34914889",
+"t": "paper",
+"n": "Nivolumab versus sorafenib in advanced hepatocellular carcinoma (CheckMate 459): a randomi",
+"sub": "The Lancet Oncology 2021 · cited 1145",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34914889",
+"c": ""
+},
+{
+"k": "person:thomas-yau",
+"t": "person",
+"n": "Thomas Yau",
+"sub": "University of Hong Kong",
+"url": "",
+"c": "HK"
+},
+{
 "k": "paper:pmid-34143971",
 "t": "paper",
 "n": "Sintilimab plus a bevacizumab biosimilar (IBI305) versus sorafenib in unresectable hepatoc",
-"sub": "The Lancet Oncology 2021 · cited 1125",
+"sub": "The Lancet Oncology 2021 · cited 1126",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34143971",
 "c": ""
 },
@@ -3608,10 +3608,58 @@
 "c": "CN"
 },
 {
+"k": "paper:pmid-31954490",
+"t": "paper",
+"n": "Epidemiology and surveillance for hepatocellular carcinoma: New trends",
+"sub": "Journal of Hepatology 2020 · cited 1125",
+"url": "https://pubmed.ncbi.nlm.nih.gov/31954490",
+"c": ""
+},
+{
+"k": "person:pierre-nahon",
+"t": "person",
+"n": "Pierre Nahon",
+"sub": "Sorbonne Université",
+"url": "https://orcid.org/0000-0003-2489-0768",
+"c": "FR"
+},
+{
+"k": "org:universite-sorbonne-paris-nord",
+"t": "academic",
+"n": "Université Sorbonne Paris Nord",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:abbvie",
+"t": "funder",
+"n": "AbbVie",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:bpifrance",
+"t": "funder",
+"n": "Bpifrance",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:agence-nationale-de-recherches-sur-le-sida-et-les-hepatites",
+"t": "funder",
+"n": "Agence Nationale de Recherches sur le Sida et les Hépatites Virales",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-32532960",
 "t": "paper",
 "n": "The mechanisms of sorafenib resistance in hepatocellular carcinoma: theoretical basis and ",
-"sub": "Signal Transduction and Targeted Therapy 2020 · cited 1116",
+"sub": "Signal Transduction and Targeted Therapy 2020 · cited 1125",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32532960",
 "c": ""
 },
@@ -3696,90 +3744,18 @@
 "c": "CN"
 },
 {
-"k": "paper:pmid-31954490",
+"k": "paper:pmid-39690085",
 "t": "paper",
-"n": "Epidemiology and surveillance for hepatocellular carcinoma: New trends",
-"sub": "Journal of Hepatology 2020 · cited 1113",
-"url": "https://pubmed.ncbi.nlm.nih.gov/31954490",
-"c": ""
-},
-{
-"k": "person:pierre-nahon",
-"t": "person",
-"n": "Pierre Nahon",
-"sub": "Sorbonne Université",
-"url": "https://orcid.org/0000-0003-2489-0768",
-"c": "FR"
-},
-{
-"k": "org:sorbonne-universite",
-"t": "academic",
-"n": "Sorbonne Université",
-"sub": "",
-"url": "",
-"c": "FR"
-},
-{
-"k": "org:universite-sorbonne-paris-nord",
-"t": "academic",
-"n": "Université Sorbonne Paris Nord",
-"sub": "",
-"url": "",
-"c": "FR"
-},
-{
-"k": "org:abbvie",
-"t": "funder",
-"n": "AbbVie",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:bpifrance",
-"t": "funder",
-"n": "Bpifrance",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:agence-nationale-de-recherches-sur-le-sida-et-les-hepatites",
-"t": "funder",
-"n": "Agence Nationale de Recherches sur le Sida et les Hépatites Virales",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-34914889",
-"t": "paper",
-"n": "Nivolumab versus sorafenib in advanced hepatocellular carcinoma (CheckMate 459): a randomi",
-"sub": "The Lancet Oncology 2021 · cited 1107",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34914889",
-"c": ""
-},
-{
-"k": "person:thomas-yau",
-"t": "person",
-"n": "Thomas Yau",
-"sub": "University of Hong Kong",
-"url": "",
-"c": "HK"
-},
-{
-"k": "org:yonsei-university",
-"t": "funder",
-"n": "Yonsei University",
-"sub": "",
-"url": "",
+"n": "EASL Clinical Practice Guidelines on the management of hepatocellular carcinoma",
+"sub": "Journal of Hepatology 2024 · cited 1065",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39690085",
 "c": ""
 },
 {
 "k": "paper:pmid-33510460",
 "t": "paper",
 "n": "Locoregional therapies in the era of molecular and immune treatments for hepatocellular ca",
-"sub": "Nature Reviews Gastroenterology & Hepatology 2021 · cited 1044",
+"sub": "Nature Reviews Gastroenterology & Hepatology 2021 · cited 1048",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33510460",
 "c": ""
 },
@@ -3808,66 +3784,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-34030131",
-"t": "paper",
-"n": "Hepatobiliary Cancers, Version 2.2021, NCCN Clinical Practice Guidelines in Oncology",
-"sub": "Journal of the National Comprehensive Cancer Network 2021 · cited 1011",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34030131",
-"c": ""
-},
-{
-"k": "person:al-b-benson",
-"t": "person",
-"n": "Al B. Benson",
-"sub": "Robert H. Lurie Comprehensive Cancer Center of Northwestern University",
-"url": "https://orcid.org/0000-0001-5485-7227",
-"c": "US"
-},
-{
-"k": "org:robert-h-lurie-comprehensive-cancer-center-of-northwestern-u",
-"t": "hospital",
-"n": "Robert H. Lurie Comprehensive Cancer Center of Northwestern University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:susan-d-darlow",
-"t": "person",
-"n": "Susan D. Darlow",
-"sub": "National Comprehensive Cancer Network",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:national-comprehensive-cancer-network",
-"t": "funder",
-"n": "National Comprehensive Cancer Network",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "paper:pmid-39690085",
-"t": "paper",
-"n": "EASL Clinical Practice Guidelines on the management of hepatocellular carcinoma",
-"sub": "Journal of Hepatology 2024 · cited 991",
-"url": "https://pubmed.ncbi.nlm.nih.gov/39690085",
-"c": ""
-},
-{
-"k": "paper:pmid-37884736",
-"t": "paper",
-"n": "Global trends in hepatocellular carcinoma epidemiology: implications for screening, preven",
-"sub": "Nature Reviews Clinical Oncology 2023 · cited 978",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37884736",
-"c": ""
-},
-{
 "k": "paper:pmid-39159948",
 "t": "paper",
 "n": "Epidemiology of metabolic dysfunction-associated steatotic liver disease",
-"sub": "Clinical and Molecular Hepatology 2024 · cited 973",
+"sub": "Clinical and Molecular Hepatology 2024 · cited 1030",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39159948",
 "c": ""
 },
@@ -3936,34 +3856,58 @@
 "c": ""
 },
 {
-"k": "paper:oa-w4200158019",
+"k": "paper:pmid-34030131",
 "t": "paper",
-"n": "Nivolumab versus sorafenib in advanced hepatocellular carcinoma (CheckMate 459): a randomi",
-"sub": "Deposito Adademico Digital Universidad De Navarra (University of Navarra) 2022 · cited 934",
-"url": "https://openalex.org/W4200158019",
+"n": "Hepatobiliary Cancers, Version 2.2021, NCCN Clinical Practice Guidelines in Oncology",
+"sub": "Journal of the National Comprehensive Cancer Network 2021 · cited 1010",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34030131",
 "c": ""
 },
 {
-"k": "person:yau-t-thomas",
+"k": "person:al-b-benson",
 "t": "person",
-"n": "Yau, T. (Thomas)",
-"sub": "University of Hong Kong",
-"url": "",
-"c": "HK"
+"n": "Al B. Benson",
+"sub": "Robert H. Lurie Comprehensive Cancer Center of Northwestern University",
+"url": "https://orcid.org/0000-0001-5485-7227",
+"c": "US"
 },
 {
-"k": "person:sangro-b-bruno",
-"t": "person",
-"n": "Sangro, B. (Bruno)",
-"sub": "Clinica Universidad de Navarra",
+"k": "org:robert-h-lurie-comprehensive-cancer-center-of-northwestern-u",
+"t": "hospital",
+"n": "Robert H. Lurie Comprehensive Cancer Center of Northwestern University",
+"sub": "",
 "url": "",
-"c": "ES"
+"c": "US"
+},
+{
+"k": "person:susan-d-darlow",
+"t": "person",
+"n": "Susan D. Darlow",
+"sub": "National Comprehensive Cancer Network",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:national-comprehensive-cancer-network",
+"t": "funder",
+"n": "National Comprehensive Cancer Network",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-37884736",
+"t": "paper",
+"n": "Global trends in hepatocellular carcinoma epidemiology: implications for screening, preven",
+"sub": "Nature Reviews Clinical Oncology 2023 · cited 1006",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37884736",
+"c": ""
 },
 {
 "k": "paper:pmid-38228377",
 "t": "paper",
 "n": "MASLD: a systemic metabolic disorder with cardiovascular and malignant complications",
-"sub": "Gut 2024 · cited 933",
+"sub": "Gut 2024 · cited 992",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38228377",
 "c": ""
 },
@@ -4019,7 +3963,7 @@
 "k": "paper:pmid-33357445",
 "t": "paper",
 "n": "Single-cell landscape of the ecosystem in early-relapse hepatocellular carcinoma",
-"sub": "Cell 2020 · cited 900",
+"sub": "Cell 2020 · cited 893",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33357445",
 "c": ""
 },
@@ -4099,7 +4043,7 @@
 "k": "paper:pmid-33579421",
 "t": "paper",
 "n": "Hepatocellular carcinoma (HCC): Epidemiology, etiology and molecular classification",
-"sub": "Advances in cancer research 2020 · cited 852",
+"sub": "Advances in cancer research 2020 · cited 865",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33579421",
 "c": ""
 },
@@ -4139,7 +4083,7 @@
 "k": "paper:pmid-32694178",
 "t": "paper",
 "n": "Dietary cholesterol drives fatty liver-associated liver cancer by modulating gut microbiot",
-"sub": "Gut 2020 · cited 840",
+"sub": "Gut 2020 · cited 844",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32694178",
 "c": ""
 },
@@ -4176,10 +4120,34 @@
 "c": "HK"
 },
 {
+"k": "paper:pmid-33442540",
+"t": "paper",
+"n": "Guidelines for the Diagnosis and Treatment of Hepatocellular Carcinoma (2019 Edition)",
+"sub": "Liver Cancer 2020 · cited 803",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33442540",
+"c": ""
+},
+{
+"k": "person:jian-zhou",
+"t": "person",
+"n": "Jian Zhou",
+"sub": "Fudan University",
+"url": "https://orcid.org/0000-0002-7650-7540",
+"c": "CN"
+},
+{
+"k": "org:zhongshan-hospital",
+"t": "hospital",
+"n": "Zhongshan Hospital",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
 "k": "paper:pmid-34083238",
 "t": "paper",
 "n": "FDA Approval Summary: Pembrolizumab for the Treatment of Tumor Mutational Burden–High Soli",
-"sub": "Clinical Cancer Research 2021 · cited 588",
+"sub": "Clinical Cancer Research 2021 · cited 599",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34083238",
 "c": ""
 },
@@ -4227,7 +4195,7 @@
 "k": "paper:pmid-32004793",
 "t": "paper",
 "n": "The management of desmoid tumours: A joint global consensus-based guideline approach for a",
-"sub": "European Journal of Cancer 2020 · cited 508",
+"sub": "European Journal of Cancer 2020 · cited 510",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32004793",
 "c": ""
 },
@@ -4283,7 +4251,7 @@
 "k": "paper:pmid-37256141",
 "t": "paper",
 "n": "From bench to bedside: the history and progress of CAR T cell therapy",
-"sub": "Frontiers in Immunology 2023 · cited 476",
+"sub": "Frontiers in Immunology 2023 · cited 492",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37256141",
 "c": ""
 },
@@ -4347,7 +4315,7 @@
 "k": "paper:pmid-39134804",
 "t": "paper",
 "n": "CAR-T and CAR-NK as cellular cancer immunotherapy for solid tumors",
-"sub": "Cellular and Molecular Immunology 2024 · cited 388",
+"sub": "Cellular and Molecular Immunology 2024 · cited 411",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39134804",
 "c": ""
 },
@@ -4400,10 +4368,42 @@
 "c": ""
 },
 {
+"k": "paper:pmid-39495525",
+"t": "paper",
+"n": "CAR T Cells and T-Cell Therapies for Cancer",
+"sub": "JAMA 2024 · cited 386",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39495525",
+"c": ""
+},
+{
+"k": "person:jennifer-n-brudno",
+"t": "person",
+"n": "Jennifer N. Brudno",
+"sub": "National Institutes of Health",
+"url": "https://orcid.org/0000-0002-7904-8415",
+"c": "US"
+},
+{
+"k": "person:christian-s-hinrichs",
+"t": "person",
+"n": "Christian S. Hinrichs",
+"sub": "Rutgers Cancer Institute",
+"url": "https://orcid.org/0000-0001-5597-2841",
+"c": "US"
+},
+{
+"k": "org:rutgers-cancer-institute",
+"t": "hospital",
+"n": "Rutgers Cancer Institute",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
 "k": "paper:pmid-33155698",
 "t": "paper",
 "n": "Molecular targeting therapies for neuroblastoma: Progress and challenges",
-"sub": "Medicinal Research Reviews 2020 · cited 384",
+"sub": "Medicinal Research Reviews 2020 · cited 383",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33155698",
 "c": ""
 },
@@ -4440,42 +4440,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-39495525",
-"t": "paper",
-"n": "CAR T Cells and T-Cell Therapies for Cancer",
-"sub": "JAMA 2024 · cited 371",
-"url": "https://pubmed.ncbi.nlm.nih.gov/39495525",
-"c": ""
-},
-{
-"k": "person:jennifer-n-brudno",
-"t": "person",
-"n": "Jennifer N. Brudno",
-"sub": "National Institutes of Health",
-"url": "https://orcid.org/0000-0002-7904-8415",
-"c": "US"
-},
-{
-"k": "person:christian-s-hinrichs",
-"t": "person",
-"n": "Christian S. Hinrichs",
-"sub": "Rutgers Cancer Institute",
-"url": "https://orcid.org/0000-0001-5597-2841",
-"c": "US"
-},
-{
-"k": "org:rutgers-cancer-institute",
-"t": "hospital",
-"n": "Rutgers Cancer Institute",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
 "k": "paper:pmid-32733795",
 "t": "paper",
 "n": "Disialoganglioside GD2 Expression in Solid Tumors and Role as a Target for Cancer Therapy",
-"sub": "Frontiers in Oncology 2020 · cited 329",
+"sub": "Frontiers in Oncology 2020 · cited 334",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32733795",
 "c": ""
 },
@@ -4515,7 +4483,7 @@
 "k": "paper:pmid-36066969",
 "t": "paper",
 "n": "CBTRUS Statistical Report: Pediatric Brain Tumor Foundation Childhood and Adolescent Prima",
-"sub": "Neuro-Oncology 2022 · cited 324",
+"sub": "Neuro-Oncology 2022 · cited 323",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36066969",
 "c": ""
 },
@@ -4595,7 +4563,7 @@
 "k": "paper:pmid-32776780",
 "t": "paper",
 "n": "Reduced In-Person and Increased Telehealth Outpatient Visits During the COVID-19 Pandemic",
-"sub": "Annals of Internal Medicine 2020 · cited 258",
+"sub": "Annals of Internal Medicine 2020 · cited 253",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32776780",
 "c": ""
 },
@@ -4635,7 +4603,7 @@
 "k": "paper:pmid-32771306",
 "t": "paper",
 "n": "The FDA approval of pembrolizumab for adult and pediatric patients with tumor mutational b",
-"sub": "Annals of Oncology 2020 · cited 252",
+"sub": "Annals of Oncology 2020 · cited 249",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32771306",
 "c": ""
 },
@@ -4667,7 +4635,7 @@
 "k": "paper:pmid-35144967",
 "t": "paper",
 "n": "Updated Integrated Analysis of the Efficacy and Safety of Entrectinib in Patients With NTR",
-"sub": "Clinical Cancer Research 2022 · cited 235",
+"sub": "Clinical Cancer Research 2022 · cited 237",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35144967",
 "c": ""
 },
@@ -4699,7 +4667,7 @@
 "k": "paper:pmid-36853475",
 "t": "paper",
 "n": "CAR-T Therapies in Solid Tumors: Opportunities and Challenges",
-"sub": "Current Oncology Reports 2023 · cited 200",
+"sub": "Current Oncology Reports 2023 · cited 207",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36853475",
 "c": ""
 },
@@ -4739,7 +4707,7 @@
 "k": "paper:pmid-36494601",
 "t": "paper",
 "n": "Comprehensive pan-cancer genomic landscape of KRAS altered cancers and real-world outcomes",
-"sub": "npj Precision Oncology 2022 · cited 188",
+"sub": "npj Precision Oncology 2022 · cited 190",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36494601",
 "c": ""
 },
@@ -4803,7 +4771,7 @@
 "k": "paper:pmid-38012406",
 "t": "paper",
 "n": "Forks in the road for CAR T and CAR NK cell cancer therapies",
-"sub": "Nature Immunology 2023 · cited 177",
+"sub": "Nature Immunology 2023 · cited 182",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38012406",
 "c": ""
 },
@@ -4835,7 +4803,7 @@
 "k": "paper:pmid-34308366",
 "t": "paper",
 "n": "Prospective pan-cancer germline testing using MSK-IMPACT informs clinical translation in 7",
-"sub": "Nature Cancer 2021 · cited 173",
+"sub": "Nature Cancer 2021 · cited 172",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34308366",
 "c": ""
 },
@@ -4899,7 +4867,7 @@
 "k": "paper:pmid-34971569",
 "t": "paper",
 "n": "GPC2-CAR T cells tuned for low antigen density mediate potent activity against neuroblasto",
-"sub": "Cancer Cell 2021 · cited 165",
+"sub": "Cancer Cell 2021 · cited 166",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34971569",
 "c": ""
 },
@@ -4968,10 +4936,42 @@
 "c": ""
 },
 {
+"k": "paper:pmid-35941207",
+"t": "paper",
+"n": "Update on aneurysmal bone cyst: pathophysiology, histology, imaging and treatment",
+"sub": "Pediatric Radiology 2022 · cited 162",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35941207",
+"c": ""
+},
+{
+"k": "person:ricardo-restrepo",
+"t": "person",
+"n": "Ricardo Restrepo",
+"sub": "Miami Children's Hospital",
+"url": "https://orcid.org/0000-0001-5131-5975",
+"c": "US"
+},
+{
+"k": "org:miami-children-s-hospital",
+"t": "hospital",
+"n": "Miami Children's Hospital",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:james-w-murakami",
+"t": "person",
+"n": "James W. Murakami",
+"sub": "Nationwide Children's Hospital",
+"url": "https://orcid.org/0000-0003-0516-5691",
+"c": "US"
+},
+{
 "k": "paper:pmid-35842290",
 "t": "paper",
 "n": "Drug independence and the curability of cancer by combination chemotherapy",
-"sub": "Trends in cancer 2022 · cited 161",
+"sub": "Trends in cancer 2022 · cited 160",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35842290",
 "c": ""
 },
@@ -5016,82 +5016,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-35941207",
-"t": "paper",
-"n": "Update on aneurysmal bone cyst: pathophysiology, histology, imaging and treatment",
-"sub": "Pediatric Radiology 2022 · cited 158",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35941207",
-"c": ""
-},
-{
-"k": "person:ricardo-restrepo",
-"t": "person",
-"n": "Ricardo Restrepo",
-"sub": "Miami Children's Hospital",
-"url": "https://orcid.org/0000-0001-5131-5975",
-"c": "US"
-},
-{
-"k": "org:miami-children-s-hospital",
-"t": "hospital",
-"n": "Miami Children's Hospital",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:james-w-murakami",
-"t": "person",
-"n": "James W. Murakami",
-"sub": "Nationwide Children's Hospital",
-"url": "https://orcid.org/0000-0003-0516-5691",
-"c": "US"
-},
-{
-"k": "paper:pmid-33753930",
-"t": "paper",
-"n": "A first-generation pediatric cancer dependency map",
-"sub": "Nature Genetics 2021 · cited 154",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33753930",
-"c": ""
-},
-{
-"k": "person:neekesh-v-dharia",
-"t": "person",
-"n": "Neekesh V. Dharia",
-"sub": "Broad Institute",
-"url": "https://orcid.org/0000-0001-5048-067X",
-"c": "US"
-},
-{
-"k": "org:broad-institute",
-"t": "foundation",
-"n": "Broad Institute",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:francisca-vazquez",
-"t": "person",
-"n": "Francisca Vázquez",
-"sub": "Broad Institute",
-"url": "https://orcid.org/0000-0002-2857-4685",
-"c": "US"
-},
-{
-"k": "person:kimberly-stegmaier",
-"t": "person",
-"n": "Kimberly Stegmaier",
-"sub": "Broad Institute",
-"url": "https://orcid.org/0000-0003-0218-7895",
-"c": "US"
-},
-{
 "k": "paper:pmid-35552754",
 "t": "paper",
 "n": "Chemotherapy-Induced Neutropenia and Febrile Neutropenia in the US: A Beast of Burden That",
-"sub": "The Oncologist 2022 · cited 153",
+"sub": "The Oncologist 2022 · cited 154",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35552754",
 "c": ""
 },
@@ -5128,10 +5056,50 @@
 "c": "CH"
 },
 {
+"k": "paper:pmid-33753930",
+"t": "paper",
+"n": "A first-generation pediatric cancer dependency map",
+"sub": "Nature Genetics 2021 · cited 150",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33753930",
+"c": ""
+},
+{
+"k": "person:neekesh-v-dharia",
+"t": "person",
+"n": "Neekesh V. Dharia",
+"sub": "Broad Institute",
+"url": "https://orcid.org/0000-0001-5048-067X",
+"c": "US"
+},
+{
+"k": "org:broad-institute",
+"t": "foundation",
+"n": "Broad Institute",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:francisca-vazquez",
+"t": "person",
+"n": "Francisca Vázquez",
+"sub": "Broad Institute",
+"url": "https://orcid.org/0000-0002-2857-4685",
+"c": "US"
+},
+{
+"k": "person:kimberly-stegmaier",
+"t": "person",
+"n": "Kimberly Stegmaier",
+"sub": "Broad Institute",
+"url": "https://orcid.org/0000-0003-0218-7895",
+"c": "US"
+},
+{
 "k": "paper:pmid-35205650",
 "t": "paper",
 "n": "Novel Insights on the Use of L-Asparaginase as an Efficient and Safe Anti-Cancer Therapy",
-"sub": "Cancers 2022 · cited 143",
+"sub": "Cancers 2022 · cited 146",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35205650",
 "c": ""
 },
@@ -5192,42 +5160,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-32383819",
-"t": "paper",
-"n": "COVID‐19 infection in children and adolescents with cancer in Madrid",
-"sub": "Pediatric Blood & Cancer 2020 · cited 140",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32383819",
-"c": ""
-},
-{
-"k": "person:teresa-de-rojas",
-"t": "person",
-"n": "Teresa de Rojas",
-"sub": "Hospital Infantil Universitario Niño Jesús",
-"url": "https://orcid.org/0000-0001-7749-8423",
-"c": "ES"
-},
-{
-"k": "org:hospital-infantil-universitario-nino-jesus",
-"t": "hospital",
-"n": "Hospital Infantil Universitario Niño Jesús",
-"sub": "",
-"url": "",
-"c": "ES"
-},
-{
-"k": "person:luis-madero",
-"t": "person",
-"n": "Luís Madero",
-"sub": "Hospital Infantil Universitario Niño Jesús",
-"url": "https://orcid.org/0000-0003-4599-6414",
-"c": "ES"
-},
-{
 "k": "paper:pmid-32967940",
 "t": "paper",
 "n": "FDA Approval Summary: Entrectinib for the Treatment of NTRK gene Fusion Solid Tumors",
-"sub": "Clinical Cancer Research 2020 · cited 139",
+"sub": "Clinical Cancer Research 2020 · cited 141",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32967940",
 "c": ""
 },
@@ -5296,10 +5232,42 @@
 "c": ""
 },
 {
+"k": "paper:pmid-32383819",
+"t": "paper",
+"n": "COVID‐19 infection in children and adolescents with cancer in Madrid",
+"sub": "Pediatric Blood & Cancer 2020 · cited 133",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32383819",
+"c": ""
+},
+{
+"k": "person:teresa-de-rojas",
+"t": "person",
+"n": "Teresa de Rojas",
+"sub": "Hospital Infantil Universitario Niño Jesús",
+"url": "https://orcid.org/0000-0001-7749-8423",
+"c": "ES"
+},
+{
+"k": "org:hospital-infantil-universitario-nino-jesus",
+"t": "hospital",
+"n": "Hospital Infantil Universitario Niño Jesús",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "person:luis-madero",
+"t": "person",
+"n": "Luís Madero",
+"sub": "Hospital Infantil Universitario Niño Jesús",
+"url": "https://orcid.org/0000-0003-4599-6414",
+"c": "ES"
+},
+{
 "k": "paper:pmid-35353553",
 "t": "paper",
 "n": "Actionable Tumor Alterations and Treatment Protocol Enrollment of Pediatric and Young Adul",
-"sub": "Journal of Clinical Oncology 2022 · cited 134",
+"sub": "Journal of Clinical Oncology 2022 · cited 132",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35353553",
 "c": ""
 },
@@ -5312,34 +5280,10 @@
 "c": "US"
 },
 {
-"k": "paper:pmid-32167865",
-"t": "paper",
-"n": "Targets and Antibody Formats for Immunotherapy of Neuroblastoma",
-"sub": "Journal of Clinical Oncology 2020 · cited 129",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32167865",
-"c": ""
-},
-{
-"k": "person:jeong-ah-park",
-"t": "person",
-"n": "Jeong Ah Park",
-"sub": "Memorial Sloan Kettering Cancer Center",
-"url": "https://orcid.org/0000-0003-3690-6747",
-"c": "US"
-},
-{
-"k": "person:naikong-v-cheung",
-"t": "person",
-"n": "Nai‐Kong V. Cheung",
-"sub": "Memorial Sloan Kettering Cancer Center",
-"url": "https://orcid.org/0000-0001-6323-5171",
-"c": "US"
-},
-{
 "k": "paper:pmid-38003734",
 "t": "paper",
 "n": "Molecular Characteristics of Cisplatin-Induced Ototoxicity and Therapeutic Interventions",
-"sub": "International Journal of Molecular Sciences 2023 · cited 126",
+"sub": "International Journal of Molecular Sciences 2023 · cited 131",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38003734",
 "c": ""
 },
@@ -5376,6 +5320,30 @@
 "c": ""
 },
 {
+"k": "paper:pmid-32167865",
+"t": "paper",
+"n": "Targets and Antibody Formats for Immunotherapy of Neuroblastoma",
+"sub": "Journal of Clinical Oncology 2020 · cited 127",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32167865",
+"c": ""
+},
+{
+"k": "person:jeong-ah-park",
+"t": "person",
+"n": "Jeong Ah Park",
+"sub": "Memorial Sloan Kettering Cancer Center",
+"url": "https://orcid.org/0000-0003-3690-6747",
+"c": "US"
+},
+{
+"k": "person:naikong-v-cheung",
+"t": "person",
+"n": "Nai‐Kong V. Cheung",
+"sub": "Memorial Sloan Kettering Cancer Center",
+"url": "https://orcid.org/0000-0001-6323-5171",
+"c": "US"
+},
+{
 "k": "paper:pmid-32053771",
 "t": "paper",
 "n": "First-in-Human, First-in-Child Trial of Autologous MSCs Carrying the Oncolytic Virus Icovi",
@@ -5408,10 +5376,42 @@
 "c": ""
 },
 {
+"k": "paper:pmid-38900421",
+"t": "paper",
+"n": "Current Management of Desmoid Tumors",
+"sub": "JAMA Oncology 2024 · cited 120",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38900421",
+"c": ""
+},
+{
+"k": "person:bernd-kasper",
+"t": "person",
+"n": "Bernd Kasper",
+"sub": "Heidelberg University",
+"url": "https://orcid.org/0000-0001-8425-8356",
+"c": "DE"
+},
+{
+"k": "org:heidelberg-university",
+"t": "academic",
+"n": "Heidelberg University",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:university-medical-centre-mannheim",
+"t": "funder",
+"n": "University Medical Centre Mannheim",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
 "k": "paper:pmid-33619171",
 "t": "paper",
 "n": "The B7-H3–Targeting Antibody–Drug Conjugate m276-SL-PBD Is Potently Effective Against Pedi",
-"sub": "Clinical Cancer Research 2021 · cited 120",
+"sub": "Clinical Cancer Research 2021 · cited 117",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33619171",
 "c": ""
 },
@@ -5454,38 +5454,6 @@
 "sub": "",
 "url": "",
 "c": ""
-},
-{
-"k": "paper:pmid-38900421",
-"t": "paper",
-"n": "Current Management of Desmoid Tumors",
-"sub": "JAMA Oncology 2024 · cited 118",
-"url": "https://pubmed.ncbi.nlm.nih.gov/38900421",
-"c": ""
-},
-{
-"k": "person:bernd-kasper",
-"t": "person",
-"n": "Bernd Kasper",
-"sub": "Heidelberg University",
-"url": "https://orcid.org/0000-0001-8425-8356",
-"c": "DE"
-},
-{
-"k": "org:heidelberg-university",
-"t": "academic",
-"n": "Heidelberg University",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "org:university-medical-centre-mannheim",
-"t": "funder",
-"n": "University Medical Centre Mannheim",
-"sub": "",
-"url": "",
-"c": "DE"
 },
 {
 "k": "paper:pmid-33404859",
@@ -5539,7 +5507,7 @@
 "k": "paper:pmid-33653816",
 "t": "paper",
 "n": "Pediatric Brain Tumors: Descriptive Epidemiology, Risk Factors, and Future Directions",
-"sub": "Cancer Epidemiology Biomarkers & Prevention 2021 · cited 109",
+"sub": "Cancer Epidemiology Biomarkers & Prevention 2021 · cited 112",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33653816",
 "c": ""
 },
@@ -5568,44 +5536,76 @@
 "c": "US"
 },
 {
-"k": "paper:pmid-32652521",
+"k": "paper:pmid-39939433",
 "t": "paper",
-"n": "Clinical Characteristics and Outcome of Severe Acute Respiratory Syndrome Coronavirus 2 In",
-"sub": "Journal of the Pediatric Infectious Diseases Society 2020 · cited 106",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32652521",
+"n": "The 2023 EBMT report on hematopoietic cell transplantation and cellular therapies. Increas",
+"sub": "Bone Marrow Transplantation 2025 · cited 106",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39939433",
 "c": ""
 },
 {
-"k": "person:gianni-bisogno",
+"k": "person:jakob-robert-passweg",
 "t": "person",
-"n": "Gianni Bisogno",
-"sub": "University of Padua",
-"url": "https://orcid.org/0000-0003-4462-5523",
-"c": "IT"
+"n": "Jakob Robert Passweg",
+"sub": "University Hospital of Basel",
+"url": "https://orcid.org/0000-0001-7092-3351",
+"c": "CH"
 },
 {
-"k": "org:university-of-padua",
-"t": "academic",
-"n": "University of Padua",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "person:simone-cesaro",
-"t": "person",
-"n": "Simone Cesaro",
-"sub": "Azienda Ospedaliera Universitaria Integrata Verona",
-"url": "https://orcid.org/0000-0002-8698-9547",
-"c": "IT"
-},
-{
-"k": "org:azienda-ospedaliera-universitaria-integrata-verona",
+"k": "org:university-hospital-of-basel",
 "t": "hospital",
-"n": "Azienda Ospedaliera Universitaria Integrata Verona",
+"n": "University Hospital of Basel",
 "sub": "",
 "url": "",
-"c": "IT"
+"c": "CH"
+},
+{
+"k": "person:helen-baldomero",
+"t": "person",
+"n": "Helen Baldomero",
+"sub": "University Hospital of Basel",
+"url": "https://orcid.org/0000-0002-6554-483X",
+"c": "CH"
+},
+{
+"k": "person:anna-maria-sureda",
+"t": "person",
+"n": "Anna Maria Sureda",
+"sub": "Institut d'Investigació Biomédica de Bellvitge",
+"url": "https://orcid.org/0000-0002-1238-6970",
+"c": "ES"
+},
+{
+"k": "org:institut-d-investigacio-biomedica-de-bellvitge",
+"t": "academic",
+"n": "Institut d'Investigació Biomédica de Bellvitge",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "org:institut-catala-d-oncologia",
+"t": "funder",
+"n": "Institut Català d'Oncologia",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "org:universitat-basel",
+"t": "funder",
+"n": "Universität Basel",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:vertex-pharmaceuticals",
+"t": "funder",
+"n": "Vertex Pharmaceuticals",
+"sub": "",
+"url": "",
+"c": ""
 }
 ],
 "edges": [
@@ -5756,11 +5756,6 @@
 },
 {
 "a": "drug:bevacizumab",
-"b": "trial:nct05337137",
-"r": "tested_in"
-},
-{
-"a": "drug:bevacizumab",
 "b": "trial:nct05440708",
 "r": "tested_in"
 },
@@ -5855,6 +5850,16 @@
 "r": "tested_in"
 },
 {
+"a": "drug:cisplatin",
+"b": "asset:cba1205",
+"r": "competes"
+},
+{
+"a": "drug:cisplatin",
+"b": "trial:nct05451043",
+"r": "tested_in"
+},
+{
 "a": "drug:cyclophosphamide",
 "b": "asset:cba1205",
 "r": "competes"
@@ -5920,16 +5925,6 @@
 "r": "tested_in"
 },
 {
-"a": "drug:doxorubicin",
-"b": "asset:cba1205",
-"r": "competes"
-},
-{
-"a": "drug:doxorubicin",
-"b": "trial:nct04008797",
-"r": "tested_in"
-},
-{
 "a": "drug:doxorubicin-eluting-beads",
 "b": "asset:cba1205",
 "r": "competes"
@@ -5966,6 +5961,11 @@
 },
 {
 "a": "drug:durvalumab",
+"b": "trial:nct05451043",
+"r": "tested_in"
+},
+{
+"a": "drug:durvalumab",
 "b": "trial:nct06027086",
 "r": "tested_in"
 },
@@ -5987,16 +5987,6 @@
 {
 "a": "drug:durvalumab-tremelimumab-combination-therapy",
 "b": "trial:nct03837899",
-"r": "tested_in"
-},
-{
-"a": "drug:e7386",
-"b": "asset:cba1205",
-"r": "competes"
-},
-{
-"a": "drug:e7386",
-"b": "trial:nct04008797",
 "r": "tested_in"
 },
 {
@@ -6072,6 +6062,16 @@
 {
 "a": "drug:fluorouracil",
 "b": "trial:nct04380545",
+"r": "tested_in"
+},
+{
+"a": "drug:gemcitabine",
+"b": "asset:cba1205",
+"r": "competes"
+},
+{
+"a": "drug:gemcitabine",
+"b": "trial:nct05451043",
 "r": "tested_in"
 },
 {
@@ -6210,6 +6210,16 @@
 "r": "tested_in"
 },
 {
+"a": "drug:ivonescimab",
+"b": "asset:cba1205",
+"r": "competes"
+},
+{
+"a": "drug:ivonescimab",
+"b": "trial:nct07917481",
+"r": "tested_in"
+},
+{
 "a": "drug:ivosidenib",
 "b": "asset:cba1205",
 "r": "competes"
@@ -6243,11 +6253,6 @@
 "a": "drug:lenvatinib",
 "b": "asset:cba1205",
 "r": "competes"
-},
-{
-"a": "drug:lenvatinib",
-"b": "trial:nct04008797",
-"r": "tested_in"
 },
 {
 "a": "drug:lenvatinib",
@@ -6355,6 +6360,16 @@
 "r": "tested_in"
 },
 {
+"a": "drug:nab-paclitaxel",
+"b": "asset:cba1205",
+"r": "competes"
+},
+{
+"a": "drug:nab-paclitaxel",
+"b": "trial:nct05451043",
+"r": "tested_in"
+},
+{
 "a": "drug:nivolumab",
 "b": "asset:cba1205",
 "r": "competes"
@@ -6372,11 +6387,6 @@
 {
 "a": "drug:nivolumab",
 "b": "trial:nct04472767",
-"r": "tested_in"
-},
-{
-"a": "drug:nivolumab",
-"b": "trial:nct05337137",
 "r": "tested_in"
 },
 {
@@ -6433,11 +6443,6 @@
 "a": "drug:paclitaxel",
 "b": "asset:cba1205",
 "r": "competes"
-},
-{
-"a": "drug:paclitaxel",
-"b": "trial:nct04008797",
-"r": "tested_in"
 },
 {
 "a": "drug:paclitaxel",
@@ -6585,6 +6590,16 @@
 "r": "tested_in"
 },
 {
+"a": "drug:propranolol",
+"b": "asset:cba1205",
+"r": "competes"
+},
+{
+"a": "drug:propranolol",
+"b": "trial:nct05451043",
+"r": "tested_in"
+},
+{
 "a": "drug:pumitamig",
 "b": "asset:cba1205",
 "r": "competes"
@@ -6602,16 +6617,6 @@
 {
 "a": "drug:recombinant-interferon-alpha-2b-like-protein",
 "b": "trial:nct04380545",
-"r": "tested_in"
-},
-{
-"a": "drug:relatlimab",
-"b": "asset:cba1205",
-"r": "competes"
-},
-{
-"a": "drug:relatlimab",
-"b": "trial:nct05337137",
 "r": "tested_in"
 },
 {
@@ -6825,6 +6830,11 @@
 "r": "tested_in"
 },
 {
+"a": "drug:tremelimumab",
+"b": "trial:nct05451043",
+"r": "tested_in"
+},
+{
 "a": "drug:tremelimumab-immunotherapy",
 "b": "asset:cba1205",
 "r": "competes"
@@ -6955,14 +6965,44 @@
 "r": "funded"
 },
 {
-"a": "org:agence-nationale-de-la-recherche",
-"b": "paper:pmid-32260126",
-"r": "funded"
-},
-{
 "a": "org:agence-nationale-de-recherches-sur-le-sida-et-les-hepatites",
 "b": "paper:pmid-31954490",
 "r": "funded"
+},
+{
+"a": "org:ahs-cancer-control-alberta",
+"b": "drug:cisplatin",
+"r": "develops"
+},
+{
+"a": "org:ahs-cancer-control-alberta",
+"b": "drug:durvalumab",
+"r": "develops"
+},
+{
+"a": "org:ahs-cancer-control-alberta",
+"b": "drug:gemcitabine",
+"r": "develops"
+},
+{
+"a": "org:ahs-cancer-control-alberta",
+"b": "drug:nab-paclitaxel",
+"r": "develops"
+},
+{
+"a": "org:ahs-cancer-control-alberta",
+"b": "drug:propranolol",
+"r": "develops"
+},
+{
+"a": "org:ahs-cancer-control-alberta",
+"b": "drug:tremelimumab",
+"r": "develops"
+},
+{
+"a": "org:ahs-cancer-control-alberta",
+"b": "trial:nct05451043",
+"r": "sponsors"
 },
 {
 "a": "org:alex-s-lemonade-stand-foundation-for-childhood-cancer",
@@ -7236,27 +7276,12 @@
 },
 {
 "a": "org:bristol-myers-squibb",
-"b": "drug:bevacizumab",
-"r": "develops"
-},
-{
-"a": "org:bristol-myers-squibb",
 "b": "drug:ipilimumab",
 "r": "develops"
 },
 {
 "a": "org:bristol-myers-squibb",
-"b": "drug:nivolumab",
-"r": "develops"
-},
-{
-"a": "org:bristol-myers-squibb",
 "b": "drug:pumitamig",
-"r": "develops"
-},
-{
-"a": "org:bristol-myers-squibb",
-"b": "drug:relatlimab",
 "r": "develops"
 },
 {
@@ -7283,11 +7308,6 @@
 "a": "org:bristol-myers-squibb",
 "b": "trial:nct03585465",
 "r": "collaborates"
-},
-{
-"a": "org:bristol-myers-squibb",
-"b": "trial:nct05337137",
-"r": "sponsors"
 },
 {
 "a": "org:bristol-myers-squibb",
@@ -7398,16 +7418,6 @@
 "a": "org:cancer-research-uk",
 "b": "paper:pmid-37884736",
 "r": "funded"
-},
-{
-"a": "org:cedars-sinai-medical-center",
-"b": "trial:nct04008797",
-"r": "site_of"
-},
-{
-"a": "org:cedars-sinai-medical-center",
-"b": "trial:nct06721689",
-"r": "site_of"
 },
 {
 "a": "org:centre-oscar-lambret",
@@ -7675,11 +7685,6 @@
 "r": "funded"
 },
 {
-"a": "org:deutsche-forschungsgemeinschaft",
-"b": "paper:pmid-32260126",
-"r": "funded"
-},
-{
 "a": "org:devalingam-mahalingam",
 "b": "drug:zanzalintinib",
 "r": "develops"
@@ -7737,31 +7742,6 @@
 {
 "a": "org:dualitybio",
 "b": "trial:nct06953089",
-"r": "sponsors"
-},
-{
-"a": "org:eisai",
-"b": "drug:doxorubicin",
-"r": "develops"
-},
-{
-"a": "org:eisai",
-"b": "drug:e7386",
-"r": "develops"
-},
-{
-"a": "org:eisai",
-"b": "drug:lenvatinib",
-"r": "develops"
-},
-{
-"a": "org:eisai",
-"b": "drug:paclitaxel",
-"r": "develops"
-},
-{
-"a": "org:eisai",
-"b": "trial:nct04008797",
 "r": "sponsors"
 },
 {
@@ -8066,6 +8046,11 @@
 },
 {
 "a": "org:jazz-pharmaceuticals",
+"b": "paper:pmid-39939433",
+"r": "funded"
+},
+{
+"a": "org:jazz-pharmaceuticals",
 "b": "trial:nct05734066",
 "r": "sponsors"
 },
@@ -8177,6 +8162,16 @@
 {
 "a": "org:mayo-clinic",
 "b": "trial:nct06915727",
+"r": "sponsors"
+},
+{
+"a": "org:medsir",
+"b": "drug:ivonescimab",
+"r": "develops"
+},
+{
+"a": "org:medsir",
+"b": "trial:nct07917481",
 "r": "sponsors"
 },
 {
@@ -8731,11 +8726,6 @@
 },
 {
 "a": "org:ono-pharmaceutical",
-"b": "paper:oa-w4200158019",
-"r": "funded"
-},
-{
-"a": "org:ono-pharmaceutical",
 "b": "paper:pmid-34914889",
 "r": "funded"
 },
@@ -9270,6 +9260,11 @@
 "r": "funded"
 },
 {
+"a": "org:universitat-basel",
+"b": "paper:pmid-39939433",
+"r": "funded"
+},
+{
 "a": "org:university-hospital-bordeaux",
 "b": "drug:low",
 "r": "develops"
@@ -9445,6 +9440,11 @@
 "r": "sponsors"
 },
 {
+"a": "org:vertex-pharmaceuticals",
+"b": "paper:pmid-39939433",
+"r": "funded"
+},
+{
 "a": "org:vienna-science-and-technology-fund",
 "b": "paper:pmid-33404859",
 "r": "funded"
@@ -9485,11 +9485,6 @@
 "r": "site_of"
 },
 {
-"a": "org:yonsei-university",
-"b": "paper:pmid-34914889",
-"r": "funded"
-},
-{
 "a": "paper:doi-10-1158-1538-7445-am2019-1535",
 "b": "asset:cba1205",
 "r": "cites_asset"
@@ -9506,11 +9501,6 @@
 },
 {
 "a": "paper:doi-10-1158-1538-7445-sabcs18-1535",
-"b": "asset:cba1205",
-"r": "cites_asset"
-},
-{
-"a": "paper:doi-10-5281-zenodo-19104342",
 "b": "asset:cba1205",
 "r": "cites_asset"
 },
@@ -9660,6 +9650,11 @@
 "r": "investigator"
 },
 {
+"a": "person:angela-lamarca-lete",
+"b": "trial:nct07917481",
+"r": "investigator"
+},
+{
 "a": "person:anna-lena-saborowski",
 "b": "org:medizinische-hochschule-hannover",
 "r": "affiliated"
@@ -9667,6 +9662,21 @@
 {
 "a": "person:anna-lena-saborowski",
 "b": "paper:pmid-36084663",
+"r": "authored"
+},
+{
+"a": "person:anna-maria-sureda",
+"b": "org:institut-catala-d-oncologia",
+"r": "affiliated"
+},
+{
+"a": "person:anna-maria-sureda",
+"b": "org:institut-d-investigacio-biomedica-de-bellvitge",
+"r": "affiliated"
+},
+{
+"a": "person:anna-maria-sureda",
+"b": "paper:pmid-39939433",
 "r": "authored"
 },
 {
@@ -9837,11 +9847,6 @@
 {
 "a": "person:bristol-myers-squibb",
 "b": "trial:nct04094610",
-"r": "investigator"
-},
-{
-"a": "person:bristol-myers-squibb",
-"b": "trial:nct05337137",
 "r": "investigator"
 },
 {
@@ -10160,6 +10165,11 @@
 "r": "authored"
 },
 {
+"a": "person:gerald-prager",
+"b": "trial:nct07917481",
+"r": "investigator"
+},
+{
 "a": "person:ghassan-k-aboualfa",
 "b": "org:cornell-university",
 "r": "affiliated"
@@ -10172,16 +10182,6 @@
 {
 "a": "person:ghassan-k-aboualfa",
 "b": "paper:pmid-38319892",
-"r": "authored"
-},
-{
-"a": "person:gianni-bisogno",
-"b": "org:university-of-padua",
-"r": "affiliated"
-},
-{
-"a": "person:gianni-bisogno",
-"b": "paper:pmid-32652521",
 "r": "authored"
 },
 {
@@ -10222,6 +10222,16 @@
 {
 "a": "person:hashem-b-elserag",
 "b": "paper:pmid-32319693",
+"r": "authored"
+},
+{
+"a": "person:helen-baldomero",
+"b": "org:university-hospital-of-basel",
+"r": "affiliated"
+},
+{
+"a": "person:helen-baldomero",
+"b": "paper:pmid-39939433",
 "r": "authored"
 },
 {
@@ -10268,6 +10278,16 @@
 "a": "person:jacquelyn-crane",
 "b": "trial:nct06721689",
 "r": "investigator"
+},
+{
+"a": "person:jakob-robert-passweg",
+"b": "org:university-hospital-of-basel",
+"r": "affiliated"
+},
+{
+"a": "person:jakob-robert-passweg",
+"b": "paper:pmid-39939433",
+"r": "authored"
 },
 {
 "a": "person:james-h-doroshow",
@@ -10361,12 +10381,37 @@
 },
 {
 "a": "person:jia-fan",
+"b": "org:zhongshan-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:jia-fan",
 "b": "paper:pmid-33357445",
 "r": "authored"
 },
 {
 "a": "person:jia-fan",
+"b": "paper:pmid-33442540",
+"r": "authored"
+},
+{
+"a": "person:jia-fan",
 "b": "paper:pmid-34143971",
+"r": "authored"
+},
+{
+"a": "person:jian-zhou",
+"b": "org:fudan-university",
+"r": "affiliated"
+},
+{
+"a": "person:jian-zhou",
+"b": "org:zhongshan-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:jian-zhou",
+"b": "paper:pmid-33442540",
 "r": "authored"
 },
 {
@@ -10936,16 +10981,6 @@
 },
 {
 "a": "person:olivier-louis-chinot",
-"b": "org:aix-marseille-universite",
-"r": "affiliated"
-},
-{
-"a": "person:olivier-louis-chinot",
-"b": "org:assistance-publique-hopitaux-de-marseille",
-"r": "affiliated"
-},
-{
-"a": "person:olivier-louis-chinot",
 "b": "paper:pmid-32335505",
 "r": "authored"
 },
@@ -10998,11 +11033,6 @@
 "a": "person:pierre-leblond",
 "b": "trial:nct03585465",
 "r": "investigator"
-},
-{
-"a": "person:pierre-nahon",
-"b": "org:sorbonne-universite",
-"r": "affiliated"
 },
 {
 "a": "person:pierre-nahon",
@@ -11121,11 +11151,6 @@
 },
 {
 "a": "person:richard-s-finn",
-"b": "org:los-angeles-medical-center",
-"r": "affiliated"
-},
-{
-"a": "person:richard-s-finn",
 "b": "org:university-of-california-los-angeles",
 "r": "affiliated"
 },
@@ -11220,16 +11245,6 @@
 "r": "authored"
 },
 {
-"a": "person:sangro-b-bruno",
-"b": "org:clinica-universidad-de-navarra",
-"r": "affiliated"
-},
-{
-"a": "person:sangro-b-bruno",
-"b": "paper:oa-w4200158019",
-"r": "authored"
-},
-{
 "a": "person:sara-federico",
 "b": "org:st-jude-children-s-research-hospital",
 "r": "affiliated"
@@ -11302,16 +11317,6 @@
 {
 "a": "person:sidi-chen",
 "b": "paper:pmid-39134804",
-"r": "authored"
-},
-{
-"a": "person:simone-cesaro",
-"b": "org:azienda-ospedaliera-universitaria-integrata-verona",
-"r": "affiliated"
-},
-{
-"a": "person:simone-cesaro",
-"b": "paper:pmid-32652521",
 "r": "authored"
 },
 {
@@ -11567,16 +11572,6 @@
 {
 "a": "person:xuehao-wang",
 "b": "paper:pmid-32532960",
-"r": "authored"
-},
-{
-"a": "person:yau-t-thomas",
-"b": "org:university-of-hong-kong",
-"r": "affiliated"
-},
-{
-"a": "person:yau-t-thomas",
-"b": "paper:oa-w4200158019",
 "r": "authored"
 },
 {

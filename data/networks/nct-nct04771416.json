@@ -1,9 +1,10 @@
 {
 "assetId": "nct-nct04771416",
-"updated": "2026-11-04",
+"updated": "2026-11-05",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
-"trials": 3
+"trials": 3,
+"papers": 38
 },
 "nodes": [
 {
@@ -111,6 +112,46 @@
 "c": "United Kingdom"
 },
 {
+"k": "trial:nct05739643",
+"t": "trial",
+"n": "Gene Transfer Clinical Trial for Infantile and Late Infantile Krabbe Disease Treated Previ",
+"sub": "P1/P2 · active_not_recruiting · 2023-2028",
+"url": "https://clinicaltrials.gov/study/NCT05739643",
+"c": ""
+},
+{
+"k": "org:duke-university",
+"t": "academic",
+"n": "Duke University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:joanne-kurtzberg",
+"t": "person",
+"n": "Joanne Kurtzberg",
+"sub": "principal investigator · Duke University",
+"url": "",
+"c": ""
+},
+{
+"k": "org:duke-university-medical-center",
+"t": "hospital",
+"n": "Duke University Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:fbx-101",
+"t": "drug",
+"n": "FBX-101",
+"sub": "Duke University",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07740512",
 "t": "trial",
 "n": "Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of PLX-200 in Pediatric P",
@@ -135,50 +176,1554 @@
 "c": ""
 },
 {
-"k": "trial:nct05739643",
-"t": "trial",
-"n": "Gene Transfer Clinical Trial for Infantile and Late Infantile Krabbe Disease Treated Previ",
-"sub": "P1/P2 · active_not_recruiting · 2023-2026",
-"url": "https://clinicaltrials.gov/study/NCT05739643",
+"k": "paper:doi-10-1016-j-ymgme-2021-11-204",
+"t": "paper",
+"n": "A phase 1/2 open-label, multicenter, dose ranging and confirmatory study to assess the saf",
+"sub": "Molecular Genetics and Metabolism 2022 · cited 0",
+"url": "https://doi.org/10.1016/j.ymgme.2021.11.204",
 "c": ""
 },
 {
-"k": "org:forge-biologics",
+"k": "person:eric-james-mallack",
+"t": "person",
+"n": "Eric James Mallack",
+"sub": "Weill Cornell Medicine",
+"url": "https://orcid.org/0000-0002-2678-8807",
+"c": "US"
+},
+{
+"k": "org:weill-cornell-medicine",
+"t": "academic",
+"n": "Weill Cornell Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:dawn-elizabeth-mcneil",
+"t": "person",
+"n": "Dawn Elizabeth McNeil",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-1016-j-ymgme-2022-106999",
+"t": "paper",
+"n": "Early transgene expression of GALC enzyme in a phase I/II safety, tolerability and efficac",
+"sub": "Molecular Genetics and Metabolism 2023 · cited 0",
+"url": "https://doi.org/10.1016/j.ymgme.2022.106999",
+"c": ""
+},
+{
+"k": "person:samiah-a-al-zaidy",
+"t": "person",
+"n": "Samiah A. Al-Zaidy",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:genevieve-bernard",
+"t": "person",
+"n": "Geneviève Bernard",
+"sub": "McGill University",
+"url": "https://orcid.org/0000-0002-9634-2966",
+"c": "CA"
+},
+{
+"k": "org:mcgill-university",
+"t": "academic",
+"n": "McGill University",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "paper:pmid-33766733",
+"t": "paper",
+"n": "Krabbe disease: New hope for an old disease",
+"sub": "Neuroscience Letters 2021 · cited 84",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33766733",
+"c": ""
+},
+{
+"k": "person:allison-m-bradbury",
+"t": "person",
+"n": "Allison M. Bradbury",
+"sub": "Nationwide Children's Hospital",
+"url": "https://orcid.org/0000-0002-8268-3743",
+"c": "US"
+},
+{
+"k": "org:nationwide-children-s-hospital",
+"t": "hospital",
+"n": "Nationwide Children's Hospital",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:the-ohio-state-university",
+"t": "academic",
+"n": "The Ohio State University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:ernesto-roque-bongarzone",
+"t": "person",
+"n": "Ernesto Roque Bongarzone",
+"sub": "University of Illinois Chicago",
+"url": "https://orcid.org/0000-0003-1664-6634",
+"c": "US"
+},
+{
+"k": "org:university-of-illinois-chicago",
+"t": "academic",
+"n": "University of Illinois Chicago",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:mark-s-sands",
+"t": "person",
+"n": "Mark S. Sands",
+"sub": "Washington University in St. Louis",
+"url": "https://orcid.org/0000-0002-5559-0832",
+"c": "US"
+},
+{
+"k": "org:washington-university-in-st-louis",
+"t": "academic",
+"n": "Washington University in St. Louis",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:legacy-of-angels-foundation",
+"t": "funder",
+"n": "Legacy of Angels Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institutes-of-health",
+"t": "funder",
+"n": "National Institutes of Health",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institute-of-neurological-disorders-and-stroke",
+"t": "funder",
+"n": "National Institute of Neurological Disorders and Stroke",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:eunice-kennedy-shriver-national-institute-of-child-health-an",
+"t": "funder",
+"n": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32773406",
+"t": "paper",
+"n": "Krabbe disease successfully treated via monotherapy of intrathecal gene therapy",
+"sub": "Journal of Clinical Investigation 2020 · cited 68",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32773406",
+"c": ""
+},
+{
+"k": "org:university-of-pennsylvania",
+"t": "academic",
+"n": "University of Pennsylvania",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:charles-h-vite",
+"t": "person",
+"n": "Charles H. Vite",
+"sub": "University of Pennsylvania",
+"url": "https://orcid.org/0000-0001-6625-5266",
+"c": "US"
+},
+{
+"k": "paper:pmid-32375064",
+"t": "paper",
+"n": "Macrophages Expressing GALC Improve Peripheral Krabbe Disease by a Mechanism Independent o",
+"sub": "Neuron 2020 · cited 60",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32375064",
+"c": ""
+},
+{
+"k": "person:nadav-i-weinstock",
+"t": "person",
+"n": "Nadav I. Weinstock",
+"sub": "University at Buffalo, State University of New York",
+"url": "https://orcid.org/0000-0002-9065-4176",
+"c": "US"
+},
+{
+"k": "org:university-at-buffalo-state-university-of-new-york",
+"t": "academic",
+"n": "University at Buffalo, State University of New York",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:m-laura-feltri",
+"t": "person",
+"n": "M. Laura Feltri",
+"sub": "University at Buffalo, State University of New York",
+"url": "https://orcid.org/0000-0002-2276-9182",
+"c": "US"
+},
+{
+"k": "org:foundation-for-the-national-institutes-of-health",
+"t": "funder",
+"n": "Foundation for the National Institutes of Health",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
+"t": "funder",
+"n": "National Institute of Diabetes and Digestive and Kidney Diseases",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33388420",
+"t": "paper",
+"n": "Enhanced Efficacy and Increased Long-Term Toxicity of CNS-Directed, AAV-Based Combination ",
+"sub": "Molecular Therapy 2020 · cited 51",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33388420",
+"c": ""
+},
+{
+"k": "person:yedda-li",
+"t": "person",
+"n": "Yedda Li",
+"sub": "Washington University in St. Louis",
+"url": "https://orcid.org/0000-0001-7629-2757",
+"c": "US"
+},
+{
+"k": "org:international-foundation-for-research-in-paraplegia",
+"t": "funder",
+"n": "International Foundation for Research in Paraplegia",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-human-genome-research-institute",
+"t": "funder",
+"n": "National Human Genome Research Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-cancer-institute",
+"t": "funder",
+"n": "National Cancer Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33851745",
+"t": "paper",
+"n": "Mechanisms of demyelination and neurodegeneration in globoid cell leukodystrophy",
+"sub": "Glia 2021 · cited 39",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33851745",
+"c": ""
+},
+{
+"k": "person:daesung-shin",
+"t": "person",
+"n": "Daesung Shin",
+"sub": "University at Buffalo, State University of New York",
+"url": "https://orcid.org/0000-0001-5285-3820",
+"c": "US"
+},
+{
+"k": "org:association-europeenne-contre-les-leucodystrophies",
+"t": "funder",
+"n": "Association Européenne contre les Leucodystrophies",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-3538889",
+"t": "paper",
+"n": "Expression of glial fibrillary acidic protein in the CNS and PNS of murine globoid cell le",
+"sub": "PubMed Central 2020 · cited 39",
+"url": "https://pubmed.ncbi.nlm.nih.gov/3538889",
+"c": ""
+},
+{
+"k": "paper:pmid-32912261",
+"t": "paper",
+"n": "Natural history of Krabbe disease – a nationwide study in Germany using clinical and MRI d",
+"sub": "Orphanet Journal of Rare Diseases 2020 · cited 38",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32912261",
+"c": ""
+},
+{
+"k": "person:sarah-krieg",
+"t": "person",
+"n": "Sarah Krieg",
+"sub": "University Children's Hospital Tübingen",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:university-children-s-hospital-tubingen",
+"t": "hospital",
+"n": "University Children's Hospital Tübingen",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:university-of-tubingen",
+"t": "academic",
+"n": "University of Tübingen",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "person:ingeborg-kragelohmann",
+"t": "person",
+"n": "Ingeborg Krägeloh‐Mann",
+"sub": "University Children's Hospital Tübingen",
+"url": "https://orcid.org/0000-0003-4599-1373",
+"c": "DE"
+},
+{
+"k": "person:christiane-kehrer",
+"t": "person",
+"n": "Christiane Kehrer",
+"sub": "University Children's Hospital Tübingen",
+"url": "https://orcid.org/0000-0002-6313-1839",
+"c": "DE"
+},
+{
+"k": "org:deutsche-forschungsgemeinschaft",
+"t": "funder",
+"n": "Deutsche Forschungsgemeinschaft",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:eberhard-karls-universitat-tubingen",
+"t": "funder",
+"n": "Eberhard Karls Universität Tübingen",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-1016-b978-0-443-19041-4-00043-1",
+"t": "paper",
+"n": "Krabbe disease: globoid cell leukodystrophy",
+"sub": "Elsevier eBooks 2024 · cited 33",
+"url": "https://doi.org/10.1016/b978-0-443-19041-4.00043-1",
+"c": ""
+},
+{
+"k": "person:david-a-wenger",
+"t": "person",
+"n": "David A. Wenger",
+"sub": "Thomas Jefferson University",
+"url": "https://orcid.org/0000-0002-7721-3608",
+"c": "US"
+},
+{
+"k": "org:thomas-jefferson-university",
+"t": "academic",
+"n": "Thomas Jefferson University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:paola-luzi",
+"t": "person",
+"n": "Paola Luzi",
+"sub": "Thomas Jefferson University",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-33989519",
+"t": "paper",
+"n": "Human iPSC-based neurodevelopmental models of globoid cell leukodystrophy uncover patient-",
+"sub": "Stem Cell Reports 2021 · cited 27",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33989519",
+"c": ""
+},
+{
+"k": "person:elisabeth-mangiameli",
+"t": "person",
+"n": "Elisabeth Mangiameli",
+"sub": "The San Raffaele Telethon Institute for Gene Therapy",
+"url": "https://orcid.org/0000-0003-0138-9903",
+"c": "IT"
+},
+{
+"k": "org:the-san-raffaele-telethon-institute-for-gene-therapy",
+"t": "academic",
+"n": "The San Raffaele Telethon Institute for Gene Therapy",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:angela-gritti",
+"t": "person",
+"n": "Angela Gritti",
+"sub": "The San Raffaele Telethon Institute for Gene Therapy",
+"url": "https://orcid.org/0000-0002-9845-0370",
+"c": "IT"
+},
+{
+"k": "org:leukemia-research-foundation",
+"t": "funder",
+"n": "Leukemia Research Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:european-hematology-association",
+"t": "funder",
+"n": "European Hematology Association",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:japan-agency-for-medical-research-and-development",
+"t": "funder",
+"n": "Japan Agency for Medical Research and Development",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:new-york-academy-of-sciences",
+"t": "funder",
+"n": "New York Academy of Sciences",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32219101",
+"t": "paper",
+"n": "Canine Models of Inherited Musculoskeletal and Neurodegenerative Diseases",
+"sub": "Frontiers in Veterinary Science 2020 · cited 27",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32219101",
+"c": ""
+},
+{
+"k": "person:brett-d-story",
+"t": "person",
+"n": "Brett D. Story",
+"sub": "University of Florida",
+"url": "https://orcid.org/0000-0002-9771-9294",
+"c": "US"
+},
+{
+"k": "org:university-of-florida",
+"t": "academic",
+"n": "University of Florida",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:auburn-university",
+"t": "academic",
+"n": "Auburn University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:heather-l-grayedwards",
+"t": "person",
+"n": "Heather L. Gray‐Edwards",
+"sub": "University of Massachusetts Chan Medical School",
+"url": "https://orcid.org/0000-0002-7856-3159",
+"c": "US"
+},
+{
+"k": "org:university-of-massachusetts-chan-medical-school",
+"t": "academic",
+"n": "University of Massachusetts Chan Medical School",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:parent-project-muscular-dystrophy",
+"t": "funder",
+"n": "Parent Project Muscular Dystrophy",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-missouri",
+"t": "funder",
+"n": "University of Missouri",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-3358457",
+"t": "paper",
+"n": "The twitcher mouse. An alteration of the unmyelinated fibers in the PNS.",
+"sub": "PubMed Central 2020 · cited 26",
+"url": "https://pubmed.ncbi.nlm.nih.gov/3358457",
+"c": ""
+},
+{
+"k": "org:albert-einstein-college-of-medicine",
+"t": "academic",
+"n": "Albert Einstein College of Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-32370022",
+"t": "paper",
+"n": "Impairment of Proteasome and Autophagy Underlying the Pathogenesis of Leukodystrophy",
+"sub": "Cells 2020 · cited 25",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32370022",
+"c": ""
+},
+{
+"k": "person:darshong-lin",
+"t": "person",
+"n": "Dar‐Shong Lin",
+"sub": "Mackay Memorial Hospital",
+"url": "https://orcid.org/0000-0002-1168-9857",
+"c": "TW"
+},
+{
+"k": "org:mackay-memorial-hospital",
+"t": "hospital",
+"n": "Mackay Memorial Hospital",
+"sub": "",
+"url": "",
+"c": "TW"
+},
+{
+"k": "org:mackay-medical-university",
+"t": "academic",
+"n": "Mackay Medical University",
+"sub": "",
+"url": "",
+"c": "TW"
+},
+{
+"k": "person:mingfu-chiang",
+"t": "person",
+"n": "Ming‐Fu Chiang",
+"sub": "Mackay Memorial Hospital",
+"url": "",
+"c": "TW"
+},
+{
+"k": "org:mackay-junior-college-of-medicine-nursing-and-management",
+"t": "academic",
+"n": "Mackay Junior College of Medicine, Nursing and Management",
+"sub": "",
+"url": "",
+"c": "TW"
+},
+{
+"k": "org:ministry-of-science-and-technology-taiwan",
+"t": "funder",
+"n": "Ministry of Science and Technology, Taiwan",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-39276676",
+"t": "paper",
+"n": "Gene therapy for the leukodystrophies: From preclinical animal studies to clinical trials",
+"sub": "Neurotherapeutics 2024 · cited 17",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39276676",
+"c": ""
+},
+{
+"k": "person:jasna-metovic",
+"t": "person",
+"n": "Jasna Metović",
+"sub": "Harvard University",
+"url": "https://orcid.org/0000-0002-9146-1747",
+"c": "US"
+},
+{
+"k": "org:harvard-university",
+"t": "academic",
+"n": "Harvard University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:massachusetts-general-hospital",
+"t": "hospital",
+"n": "Massachusetts General Hospital",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:florian-eichler",
+"t": "person",
+"n": "Florian Eichler",
+"sub": "Harvard University",
+"url": "https://orcid.org/0000-0001-6836-1089",
+"c": "US"
+},
+{
+"k": "paper:pmid-37918668",
+"t": "paper",
+"n": "Nanomedicines to treat rare neurological disorders: The case of Krabbe disease",
+"sub": "Advanced Drug Delivery Reviews 2023 · cited 16",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37918668",
+"c": ""
+},
+{
+"k": "person:thomas-l-moore",
+"t": "person",
+"n": "Thomas L. Moore",
+"sub": "Italian Institute of Technology",
+"url": "https://orcid.org/0000-0002-7886-5245",
+"c": "IT"
+},
+{
+"k": "org:italian-institute-of-technology",
+"t": "academic",
+"n": "Italian Institute of Technology",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:venera-cardile",
+"t": "person",
+"n": "Venera Cardile",
+"sub": "University of Catania",
+"url": "https://orcid.org/0000-0001-9902-3736",
+"c": "IT"
+},
+{
+"k": "org:university-of-catania",
+"t": "academic",
+"n": "University of Catania",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "paper:pmid-37928748",
+"t": "paper",
+"n": "Globoid Cell Leukodystrophy (Krabbe Disease): An Update",
+"sub": "ImmunoTargets and Therapy 2023 · cited 16",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37928748",
+"c": ""
+},
+{
+"k": "person:azzam-a-maghazachi",
+"t": "person",
+"n": "Azzam A. Maghazachi",
+"sub": "",
+"url": "https://orcid.org/0000-0002-3310-678X",
+"c": ""
+},
+{
+"k": "paper:pmid-37952085",
+"t": "paper",
+"n": "Combination HSCT and intravenous AAV-mediated gene therapy in a canine model proves pivota",
+"sub": "Molecular Therapy 2023 · cited 15",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37952085",
+"c": ""
+},
+{
+"k": "org:the-ohio-state-university-wexner-medical-center",
+"t": "hospital",
+"n": "The Ohio State University Wexner Medical Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:maria-luisa-escolar",
+"t": "person",
+"n": "Maria Luisa Escolar",
+"sub": "University of Pittsburgh",
+"url": "https://orcid.org/0000-0003-1530-6777",
+"c": "US"
+},
+{
+"k": "org:university-of-pittsburgh",
+"t": "academic",
+"n": "University of Pittsburgh",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:theriva-biologics-united-states",
 "t": "company",
-"n": "Forge Biologics, Inc",
+"n": "Theriva Biologics (United States)",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-37048066",
+"t": "paper",
+"n": "Rapamycin Alleviates Protein Aggregates, Reduces Neuroinflammation, and Rescues Demyelinat",
+"sub": "Cells 2023 · cited 14",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37048066",
+"c": ""
+},
+{
+"k": "person:chesheng-ho",
+"t": "person",
+"n": "Che‐Sheng Ho",
+"sub": "Mackay Medical University",
+"url": "https://orcid.org/0000-0002-7942-5823",
+"c": "TW"
+},
+{
+"k": "org:national-science-and-technology-council",
+"t": "funder",
+"n": "National Science and Technology Council",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:children-s-hospital-of-orange-county-choc",
-"t": "hospital",
-"n": "Children's Hospital of Orange County (CHOC)",
-"sub": "",
-"url": "",
-"c": "United States"
+"k": "paper:pmid-35028271",
+"t": "paper",
+"n": "Chronic lithium administration in a mouse model for Krabbe disease",
+"sub": "JIMD Reports 2021 · cited 12",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35028271",
+"c": ""
 },
 {
-"k": "org:university-of-michigan-hospitals-michigan-medicine",
-"t": "hospital",
-"n": "University of Michigan Hospitals - Michigan Medicine",
-"sub": "",
-"url": "",
-"c": "United States"
+"k": "person:ambra-del-grosso",
+"t": "person",
+"n": "Ambra Del Grosso",
+"sub": "Scuola Normale Superiore",
+"url": "https://orcid.org/0000-0002-1838-9064",
+"c": "IT"
 },
 {
-"k": "org:duke-university-medical-center",
-"t": "hospital",
-"n": "Duke University Medical Center",
+"k": "org:scuola-normale-superiore",
+"t": "academic",
+"n": "Scuola Normale Superiore",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": "IT"
 },
 {
-"k": "drug:fbx-101",
-"t": "drug",
-"n": "FBX-101",
-"sub": "Forge Biologics, Inc",
+"k": "org:istituto-nanoscienze",
+"t": "academic",
+"n": "Istituto Nanoscienze",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:marco-g-cecchini",
+"t": "person",
+"n": "Marco G. Cecchini",
+"sub": "Scuola Normale Superiore",
+"url": "https://orcid.org/0000-0002-9688-2356",
+"c": "IT"
+},
+{
+"k": "org:fondazione-cassa-di-risparmio-di-lucca",
+"t": "funder",
+"n": "Fondazione Cassa di Risparmio di Lucca",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:universita-degli-studi-di-perugia",
+"t": "funder",
+"n": "Università degli Studi di Perugia",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33822434",
+"t": "paper",
+"n": "Reduction in miR‐219 expression underlies cellular pathogenesis of oligodendrocytes in a m",
+"sub": "Brain Pathology 2021 · cited 11",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33822434",
+"c": ""
+},
+{
+"k": "person:naoko-inamura",
+"t": "person",
+"n": "Naoko Inamura",
+"sub": "Aichi Developmental Disability Center",
+"url": "",
+"c": "JP"
+},
+{
+"k": "org:aichi-developmental-disability-center",
+"t": "hospital",
+"n": "Aichi Developmental Disability Center",
+"sub": "",
+"url": "",
+"c": "JP"
+},
+{
+"k": "org:institute-for-developmental-research",
+"t": "academic",
+"n": "Institute for Developmental Research",
+"sub": "",
+"url": "",
+"c": "JP"
+},
+{
+"k": "person:yasushi-enokido",
+"t": "person",
+"n": "Yasushi Enokido",
+"sub": "Aichi Developmental Disability Center",
+"url": "https://orcid.org/0000-0003-3252-504X",
+"c": "JP"
+},
+{
+"k": "org:aichi-health-promotion-foundation",
+"t": "funder",
+"n": "Aichi Health Promotion Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:ministry-of-education-culture-sports-science-and-technology",
+"t": "funder",
+"n": "Ministry of Education, Culture, Sports, Science and Technology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:japan-society-for-the-promotion-of-science",
+"t": "funder",
+"n": "Japan Society for the Promotion of Science",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-1016-b978-0-12-813955-4-00034-9",
+"t": "paper",
+"n": "Krabbe disease: globoid cell leukodystrophy",
+"sub": "Elsevier eBooks 2020 · cited 10",
+"url": "https://doi.org/10.1016/b978-0-12-813955-4.00034-9",
+"c": ""
+},
+{
+"k": "paper:pmid-36161165",
+"t": "paper",
+"n": "A neglected neurodegenerative disease: Adult-onset globoid cell leukodystrophy",
+"sub": "Frontiers in Neuroscience 2022 · cited 9",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36161165",
+"c": ""
+},
+{
+"k": "person:guode-wu",
+"t": "person",
+"n": "Guode Wu",
+"sub": "Lanzhou University Second Hospital",
+"url": "https://orcid.org/0000-0001-5448-1397",
+"c": "CN"
+},
+{
+"k": "org:lanzhou-university-second-hospital",
+"t": "hospital",
+"n": "Lanzhou University Second Hospital",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:manxia-wang",
+"t": "person",
+"n": "Manxia Wang",
+"sub": "Lanzhou University Second Hospital",
+"url": "https://orcid.org/0000-0003-1645-6523",
+"c": "CN"
+},
+{
+"k": "person:pengfei-zhang",
+"t": "person",
+"n": "Pengfei Zhang",
+"sub": "Lanzhou University Second Hospital",
+"url": "https://orcid.org/0000-0002-5056-6091",
+"c": "CN"
+},
+{
+"k": "org:health-commission-of-gansu-province",
+"t": "funder",
+"n": "Health Commission of Gansu Province",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:natural-science-foundation-of-gansu-province",
+"t": "funder",
+"n": "Natural Science Foundation of Gansu Province",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32064984",
+"t": "paper",
+"n": "A new compound heterozygous mutation in adult-onset Krabbe disease",
+"sub": "International Journal of Neuroscience 2020 · cited 9",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32064984",
+"c": ""
+},
+{
+"k": "person:xianghe-meng",
+"t": "person",
+"n": "Xianghe Meng",
+"sub": "First Affiliated Hospital of Zhengzhou University",
+"url": "https://orcid.org/0000-0001-6934-3675",
+"c": "CN"
+},
+{
+"k": "org:first-affiliated-hospital-of-zhengzhou-university",
+"t": "hospital",
+"n": "First Affiliated Hospital of Zhengzhou University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:nanchang-xie",
+"t": "person",
+"n": "Nanchang Xie",
+"sub": "First Affiliated Hospital of Zhengzhou University",
+"url": "https://orcid.org/0000-0002-6029-5213",
+"c": "CN"
+},
+{
+"k": "person:cui-wang",
+"t": "person",
+"n": "Cui Wang",
+"sub": "First Affiliated Hospital of Zhengzhou University",
+"url": "https://orcid.org/0000-0003-2014-5701",
+"c": "CN"
+},
+{
+"k": "paper:pmid-35921286",
+"t": "paper",
+"n": "Human iPSC-derived astrocytes generated from donors with globoid cell leukodystrophy displ",
+"sub": "PLoS ONE 2022 · cited 8",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35921286",
+"c": ""
+},
+{
+"k": "person:richard-lieberman",
+"t": "person",
+"n": "Richard Lieberman",
+"sub": "Sanofi (United States)",
+"url": "https://orcid.org/0000-0001-6662-5300",
+"c": "US"
+},
+{
+"k": "org:sanofi-united-states",
+"t": "company",
+"n": "Sanofi (United States)",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:leslie-k-cortes",
+"t": "person",
+"n": "Leslie K. Cortes",
+"sub": "Sanofi (United States)",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:robert-henry-barker",
+"t": "person",
+"n": "Robert Henry Barker",
+"sub": "Sanofi (United States)",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:sanofi",
+"t": "funder",
+"n": "Sanofi",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32973651",
+"t": "paper",
+"n": "Novel GALC Mutations Cause Adult-Onset Krabbe Disease With Myelopathy in Two Chinese Famil",
+"sub": "Frontiers in Neurology 2020 · cited 8",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32973651",
+"c": ""
+},
+{
+"k": "person:junfei-zhong",
+"t": "person",
+"n": "Junfei Zhong",
+"sub": "Central South University",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:central-south-university",
+"t": "academic",
+"n": "Central South University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:xiangya-hospital-central-south-university",
+"t": "hospital",
+"n": "Xiangya Hospital Central South University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:qiuming-zeng",
+"t": "person",
+"n": "Qiuming Zeng",
+"sub": "Central South University",
+"url": "https://orcid.org/0000-0002-2021-1484",
+"c": "CN"
+},
+{
+"k": "person:qian-xu",
+"t": "person",
+"n": "Qian Xu",
+"sub": "Central South University",
+"url": "https://orcid.org/0000-0002-5223-9967",
+"c": "CN"
+},
+{
+"k": "org:national-natural-science-foundation-of-china",
+"t": "funder",
+"n": "National Natural Science Foundation of China",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-35966016",
+"t": "paper",
+"n": "Improved Brain Pathology and Progressive Peripheral Neuropathy in a 15 Year Old Survivor o",
+"sub": "Frontiers in Molecular Neuroscience 2022 · cited 8",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35966016",
+"c": ""
+},
+{
+"k": "person:julia-kofler",
+"t": "person",
+"n": "Julia Kofler",
+"sub": "University of Pittsburgh",
+"url": "https://orcid.org/0000-0003-4298-7328",
+"c": "US"
+},
+{
+"k": "org:children-s-hospital-of-pittsburgh",
+"t": "hospital",
+"n": "Children's Hospital of Pittsburgh",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:university-of-pittsburgh-medical-center",
+"t": "hospital",
+"n": "University of Pittsburgh Medical Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:cincinnati-children-s-hospital-medical-center",
+"t": "funder",
+"n": "Cincinnati Children's Hospital Medical Center",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-chicago",
+"t": "funder",
+"n": "University of Chicago",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33374753",
+"t": "paper",
+"n": "Visual System Impairment in a Mouse Model of Krabbe Disease: The Twitcher Mouse",
+"sub": "Biomolecules 2020 · cited 8",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33374753",
+"c": ""
+},
+{
+"k": "person:ilaria-tonazzini",
+"t": "person",
+"n": "Ilaria Tonazzini",
+"sub": "Scuola Normale Superiore",
+"url": "https://orcid.org/0000-0002-7323-2174",
+"c": "IT"
+},
+{
+"k": "paper:pmid-39103379",
+"t": "paper",
+"n": "Exploring the globoid cell leukodystrophy protein network and therapeutic interventions",
+"sub": "Scientific Reports 2024 · cited 7",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39103379",
+"c": ""
+},
+{
+"k": "person:pukar-khanal",
+"t": "person",
+"n": "Pukar Khanal",
+"sub": "KLE Academy of Higher Education and Research",
+"url": "https://orcid.org/0000-0002-8187-2120",
+"c": "IN"
+},
+{
+"k": "org:kle-academy-of-higher-education-and-research",
+"t": "academic",
+"n": "KLE Academy of Higher Education and Research",
+"sub": "",
+"url": "",
+"c": "IN"
+},
+{
+"k": "person:vishwambhar-vishnu-bhandare",
+"t": "person",
+"n": "Vishwambhar Vishnu Bhandare",
+"sub": "Shivaji University",
+"url": "https://orcid.org/0000-0001-8289-1959",
+"c": "IN"
+},
+{
+"k": "org:shivaji-university",
+"t": "academic",
+"n": "Shivaji University",
+"sub": "",
+"url": "",
+"c": "IN"
+},
+{
+"k": "paper:pmid-37310382",
+"t": "paper",
+"n": "CD8+ T cell depletion prevents neuropathology in a mouse model of globoid cell leukodystro",
+"sub": "The Journal of Experimental Medicine 2023 · cited 7",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37310382",
+"c": ""
+},
+{
+"k": "person:pearl-a-sutter",
+"t": "person",
+"n": "Pearl A. Sutter",
+"sub": "University of Connecticut",
+"url": "https://orcid.org/0000-0003-0186-6087",
+"c": "US"
+},
+{
+"k": "org:university-of-connecticut",
+"t": "academic",
+"n": "University of Connecticut",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:uconn-health",
+"t": "hospital",
+"n": "UConn Health",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:stephen-j-crocker",
+"t": "person",
+"n": "Stephen J. Crocker",
+"sub": "University of Connecticut",
+"url": "https://orcid.org/0000-0003-4529-1385",
+"c": "US"
+},
+{
+"k": "org:national-multiple-sclerosis-society",
+"t": "funder",
+"n": "National Multiple Sclerosis Society",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:multiple-sclerosis-society",
+"t": "funder",
+"n": "Multiple Sclerosis Society",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:school-of-medicine-university-of-connecticut",
+"t": "funder",
+"n": "School of Medicine, University of Connecticut",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32850960",
+"t": "paper",
+"n": "In vitro Validation of Chimeric β-Galactosylceramidase Enzymes With Improved Enzymatic Act",
+"sub": "Frontiers in Molecular Biosciences 2020 · cited 7",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32850960",
+"c": ""
+},
+{
+"k": "person:alessandra-ricca",
+"t": "person",
+"n": "Alessandra Ricca",
+"sub": "The San Raffaele Telethon Institute for Gene Therapy",
+"url": "https://orcid.org/0000-0002-0684-4824",
+"c": "IT"
+},
+{
+"k": "org:fondazione-telethon",
+"t": "funder",
+"n": "Fondazione Telethon",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-39594621",
+"t": "paper",
+"n": "Emerging Role of Ubiquitin Proteasome System and Autophagy in Pediatric Demyelinating Leuk",
+"sub": "Cells 2024 · cited 6",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39594621",
+"c": ""
+},
+{
+"k": "paper:pmid-36341094",
+"t": "paper",
+"n": "Adult-onset Krabbe disease presenting with progressive myoclonic epilepsy and asymmetric o",
+"sub": "Frontiers in Neurology 2022 · cited 6",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36341094",
+"c": ""
+},
+{
+"k": "person:yu-wang",
+"t": "person",
+"n": "Yu Wang",
+"sub": "Anhui University of Traditional Chinese Medicine",
+"url": "https://orcid.org/0000-0002-8098-2491",
+"c": "CN"
+},
+{
+"k": "org:anhui-university-of-traditional-chinese-medicine",
+"t": "academic",
+"n": "Anhui University of Traditional Chinese Medicine",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:kai-li",
+"t": "person",
+"n": "Kai Li",
+"sub": "Anhui University of Traditional Chinese Medicine",
+"url": "https://orcid.org/0000-0001-6022-1911",
+"c": "CN"
+},
+{
+"k": "person:huai-zhen-chen",
+"t": "person",
+"n": "Huai-zhen Chen",
+"sub": "Anhui University of Traditional Chinese Medicine",
+"url": "",
+"c": "CN"
+},
+{
+"k": "paper:pmid-37076788",
+"t": "paper",
+"n": "Identifying altered developmental pathways in human globoid cell leukodystrophy iPSCs-deri",
+"sub": "BMC Genomics 2023 · cited 6",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37076788",
+"c": ""
+},
+{
+"k": "person:yafeng-lv",
+"t": "person",
+"n": "Yafeng Lv",
+"sub": "China Three Gorges University",
+"url": "https://orcid.org/0000-0003-1873-593X",
+"c": "CN"
+},
+{
+"k": "org:china-three-gorges-university",
+"t": "academic",
+"n": "China Three Gorges University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:wei-wang",
+"t": "person",
+"n": "Wei Wang",
+"sub": "China-Japan Friendship Hospital",
+"url": "https://orcid.org/0000-0001-6043-0860",
+"c": "CN"
+},
+{
+"k": "org:china-japan-friendship-hospital",
+"t": "hospital",
+"n": "China-Japan Friendship Hospital",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:chunyu-cao",
+"t": "person",
+"n": "Chunyu Cao",
+"sub": "China Three Gorges University",
+"url": "https://orcid.org/0000-0003-3043-5673",
+"c": "CN"
+},
+{
+"k": "person:ye-zhang",
+"t": "person",
+"n": "Ye Zhang",
+"sub": "Chinese Academy of Medical Sciences & Peking Union Medical College",
+"url": "https://orcid.org/0000-0002-3494-7206",
+"c": "CN"
+},
+{
+"k": "org:chinese-academy-of-medical-sciences-peking-union-medical-col",
+"t": "academic",
+"n": "Chinese Academy of Medical Sciences & Peking Union Medical College",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:institute-of-basic-medical-sciences-of-the-chinese-academy-o",
+"t": "academic",
+"n": "Institute of Basic Medical Sciences of the Chinese Academy of Medical Sciences",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:beijing-municipal-science-and-technology-commission",
+"t": "funder",
+"n": "Beijing Municipal Science and Technology Commission",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:chinese-academy-of-medical-sciences-initiative-for-innovativ",
+"t": "funder",
+"n": "Chinese Academy of Medical Sciences Initiative for Innovative Medicine",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-40017455",
+"t": "paper",
+"n": "Natural History and Diagnostic Findings in an Adult Man Diagnosed With Attenuated Krabbe D",
+"sub": "American Journal of Medical Genetics Part A 2025 · cited 4",
+"url": "https://pubmed.ncbi.nlm.nih.gov/40017455",
+"c": ""
+},
+{
+"k": "person:eamon-p-mccarron",
+"t": "person",
+"n": "Éamon P McCarron",
+"sub": "Northern Care Alliance NHS Foundation Trust",
+"url": "https://orcid.org/0000-0003-3387-9210",
+"c": "GB"
+},
+{
+"k": "org:northern-care-alliance-nhs-foundation-trust",
+"t": "hospital",
+"n": "Northern Care Alliance NHS Foundation Trust",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:karolina-m-stepien",
+"t": "person",
+"n": "Karolina M. Stępień",
+"sub": "University of Manchester",
+"url": "https://orcid.org/0000-0003-0148-6332",
+"c": "GB"
+},
+{
+"k": "org:university-of-manchester",
+"t": "academic",
+"n": "University of Manchester",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "paper:pmid-35212100",
+"t": "paper",
+"n": "Incidental magnetic resonance imaging findings leading to an unusual diagnosis: Adult onse",
+"sub": "European Journal of Neurology 2022 · cited 4",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35212100",
+"c": ""
+},
+{
+"k": "person:anderson-rodrigues-brandao-de-paiva",
+"t": "person",
+"n": "Anderson Rodrigues Brandão de Paiva",
+"sub": "Hospital São Rafael",
+"url": "https://orcid.org/0000-0002-8261-2275",
+"c": "BR"
+},
+{
+"k": "org:hospital-sao-rafael",
+"t": "hospital",
+"n": "Hospital São Rafael",
+"sub": "",
+"url": "",
+"c": "BR"
+},
+{
+"k": "org:hospital-das-clinicas-da-faculdade-de-medicina-da-universida",
+"t": "hospital",
+"n": "Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo",
+"sub": "",
+"url": "",
+"c": "BR"
+},
+{
+"k": "person:fernando-kok",
+"t": "person",
+"n": "Fernando Kok",
+"sub": "Mendelics",
+"url": "https://orcid.org/0000-0002-7577-9122",
+"c": "BR"
+},
+{
+"k": "org:mendelics",
+"t": "academic",
+"n": "Mendelics",
+"sub": "",
+"url": "",
+"c": "BR"
+},
+{
+"k": "paper:pmid-36012705",
+"t": "paper",
+"n": "β-Galactosylceramidase Deficiency Causes Upregulation of Long Pentraxin-3 in the Central N",
+"sub": "International Journal of Molecular Sciences 2022 · cited 4",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36012705",
+"c": ""
+},
+{
+"k": "person:daniela-coltrini",
+"t": "person",
+"n": "Daniela Coltrini",
+"sub": "University of Brescia",
+"url": "https://orcid.org/0000-0003-2326-9793",
+"c": "IT"
+},
+{
+"k": "org:university-of-brescia",
+"t": "academic",
+"n": "University of Brescia",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:marco-presta",
+"t": "person",
+"n": "Marco Presta",
+"sub": "University of Brescia",
+"url": "https://orcid.org/0000-0002-4398-8376",
+"c": "IT"
+},
+{
+"k": "org:associazione-italiana-per-la-ricerca-sul-cancro",
+"t": "funder",
+"n": "Associazione Italiana per la Ricerca sul Cancro",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:fondazione-italiana-per-la-ricerca-sul-cancro",
+"t": "funder",
+"n": "Fondazione Italiana per la Ricerca sul Cancro",
+"sub": "",
 "url": "",
 "c": ""
 }
@@ -210,6 +1755,11 @@
 "r": "tested_in"
 },
 {
+"a": "org:aichi-health-promotion-foundation",
+"b": "paper:pmid-33822434",
+"r": "funded"
+},
+{
 "a": "org:amsterdam-umc",
 "b": "trial:nct04771416",
 "r": "site_of"
@@ -220,9 +1770,59 @@
 "r": "site_of"
 },
 {
-"a": "org:children-s-hospital-of-orange-county-choc",
+"a": "org:association-europeenne-contre-les-leucodystrophies",
+"b": "paper:pmid-32850960",
+"r": "funded"
+},
+{
+"a": "org:association-europeenne-contre-les-leucodystrophies",
+"b": "paper:pmid-33374753",
+"r": "funded"
+},
+{
+"a": "org:association-europeenne-contre-les-leucodystrophies",
+"b": "paper:pmid-33851745",
+"r": "funded"
+},
+{
+"a": "org:association-europeenne-contre-les-leucodystrophies",
+"b": "paper:pmid-35028271",
+"r": "funded"
+},
+{
+"a": "org:associazione-italiana-per-la-ricerca-sul-cancro",
+"b": "paper:pmid-36012705",
+"r": "funded"
+},
+{
+"a": "org:beijing-municipal-science-and-technology-commission",
+"b": "paper:pmid-37076788",
+"r": "funded"
+},
+{
+"a": "org:chinese-academy-of-medical-sciences-initiative-for-innovativ",
+"b": "paper:pmid-37076788",
+"r": "funded"
+},
+{
+"a": "org:cincinnati-children-s-hospital-medical-center",
+"b": "paper:pmid-35966016",
+"r": "funded"
+},
+{
+"a": "org:deutsche-forschungsgemeinschaft",
+"b": "paper:pmid-32912261",
+"r": "funded"
+},
+{
+"a": "org:duke-university",
+"b": "drug:fbx-101",
+"r": "develops"
+},
+{
+"a": "org:duke-university",
 "b": "trial:nct05739643",
-"r": "site_of"
+"r": "sponsors"
 },
 {
 "a": "org:duke-university-medical-center",
@@ -230,14 +1830,49 @@
 "r": "site_of"
 },
 {
-"a": "org:forge-biologics",
-"b": "drug:fbx-101",
-"r": "develops"
+"a": "org:eberhard-karls-universitat-tubingen",
+"b": "paper:pmid-32912261",
+"r": "funded"
 },
 {
-"a": "org:forge-biologics",
-"b": "trial:nct05739643",
-"r": "sponsors"
+"a": "org:eunice-kennedy-shriver-national-institute-of-child-health-an",
+"b": "paper:pmid-32773406",
+"r": "funded"
+},
+{
+"a": "org:eunice-kennedy-shriver-national-institute-of-child-health-an",
+"b": "paper:pmid-3358457",
+"r": "funded"
+},
+{
+"a": "org:eunice-kennedy-shriver-national-institute-of-child-health-an",
+"b": "paper:pmid-33766733",
+"r": "funded"
+},
+{
+"a": "org:european-hematology-association",
+"b": "paper:pmid-33989519",
+"r": "funded"
+},
+{
+"a": "org:fondazione-cassa-di-risparmio-di-lucca",
+"b": "paper:pmid-35028271",
+"r": "funded"
+},
+{
+"a": "org:fondazione-italiana-per-la-ricerca-sul-cancro",
+"b": "paper:pmid-36012705",
+"r": "funded"
+},
+{
+"a": "org:fondazione-telethon",
+"b": "paper:pmid-32850960",
+"r": "funded"
+},
+{
+"a": "org:foundation-for-the-national-institutes-of-health",
+"b": "paper:pmid-32375064",
+"r": "funded"
 },
 {
 "a": "org:gemma-biotherapeutics",
@@ -245,9 +1880,69 @@
 "r": "sponsors"
 },
 {
+"a": "org:health-commission-of-gansu-province",
+"b": "paper:pmid-36161165",
+"r": "funded"
+},
+{
 "a": "org:hospital-de-clinicas-de-porto-alegre",
 "b": "trial:nct04771416",
 "r": "site_of"
+},
+{
+"a": "org:international-foundation-for-research-in-paraplegia",
+"b": "paper:pmid-33388420",
+"r": "funded"
+},
+{
+"a": "org:japan-agency-for-medical-research-and-development",
+"b": "paper:pmid-33989519",
+"r": "funded"
+},
+{
+"a": "org:japan-society-for-the-promotion-of-science",
+"b": "paper:pmid-33822434",
+"r": "funded"
+},
+{
+"a": "org:legacy-of-angels-foundation",
+"b": "paper:pmid-33766733",
+"r": "funded"
+},
+{
+"a": "org:legacy-of-angels-foundation",
+"b": "paper:pmid-35966016",
+"r": "funded"
+},
+{
+"a": "org:legacy-of-angels-foundation",
+"b": "paper:pmid-36012705",
+"r": "funded"
+},
+{
+"a": "org:legacy-of-angels-foundation",
+"b": "paper:pmid-37952085",
+"r": "funded"
+},
+{
+"a": "org:leukemia-research-foundation",
+"b": "paper:pmid-33989519",
+"r": "funded"
+},
+{
+"a": "org:mackay-memorial-hospital",
+"b": "paper:pmid-32370022",
+"r": "funded"
+},
+{
+"a": "org:mackay-memorial-hospital",
+"b": "paper:pmid-37048066",
+"r": "funded"
+},
+{
+"a": "org:mackay-memorial-hospital",
+"b": "paper:pmid-39594621",
+"r": "funded"
 },
 {
 "a": "org:manchester-university",
@@ -255,14 +1950,179 @@
 "r": "site_of"
 },
 {
+"a": "org:ministry-of-education-culture-sports-science-and-technology",
+"b": "paper:pmid-33822434",
+"r": "funded"
+},
+{
+"a": "org:ministry-of-science-and-technology-taiwan",
+"b": "paper:pmid-32370022",
+"r": "funded"
+},
+{
 "a": "org:montreal-children-s-hospital",
 "b": "trial:nct04771416",
 "r": "site_of"
 },
 {
+"a": "org:multiple-sclerosis-society",
+"b": "paper:pmid-37310382",
+"r": "funded"
+},
+{
+"a": "org:national-cancer-institute",
+"b": "paper:pmid-33388420",
+"r": "funded"
+},
+{
+"a": "org:national-human-genome-research-institute",
+"b": "paper:pmid-33388420",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
+"b": "paper:pmid-32375064",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
+"b": "paper:pmid-37952085",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-neurological-disorders-and-stroke",
+"b": "paper:pmid-32219101",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-neurological-disorders-and-stroke",
+"b": "paper:pmid-32375064",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-neurological-disorders-and-stroke",
+"b": "paper:pmid-32773406",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-neurological-disorders-and-stroke",
+"b": "paper:pmid-3358457",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-neurological-disorders-and-stroke",
+"b": "paper:pmid-33766733",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-neurological-disorders-and-stroke",
+"b": "paper:pmid-33851745",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-neurological-disorders-and-stroke",
+"b": "paper:pmid-37952085",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-neurological-disorders-and-stroke",
+"b": "paper:pmid-39276676",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-32219101",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-32375064",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-32773406",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-33388420",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-3358457",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-33766733",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-33851745",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-3538889",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-37310382",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-37952085",
+"r": "funded"
+},
+{
+"a": "org:national-multiple-sclerosis-society",
+"b": "paper:pmid-37310382",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-32973651",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-37076788",
+"r": "funded"
+},
+{
+"a": "org:national-science-and-technology-council",
+"b": "paper:pmid-37048066",
+"r": "funded"
+},
+{
+"a": "org:national-science-and-technology-council",
+"b": "paper:pmid-39594621",
+"r": "funded"
+},
+{
+"a": "org:natural-science-foundation-of-gansu-province",
+"b": "paper:pmid-36161165",
+"r": "funded"
+},
+{
+"a": "org:new-york-academy-of-sciences",
+"b": "paper:pmid-33989519",
+"r": "funded"
+},
+{
 "a": "org:new-york-presbyterian",
 "b": "trial:nct04771416",
 "r": "site_of"
+},
+{
+"a": "org:parent-project-muscular-dystrophy",
+"b": "paper:pmid-32219101",
+"r": "funded"
 },
 {
 "a": "org:polaryx-therapeutics",
@@ -275,6 +2135,16 @@
 "r": "sponsors"
 },
 {
+"a": "org:sanofi",
+"b": "paper:pmid-35921286",
+"r": "funded"
+},
+{
+"a": "org:school-of-medicine-university-of-connecticut",
+"b": "paper:pmid-37310382",
+"r": "funded"
+},
+{
 "a": "org:shaare-zadek-medical-center",
 "b": "trial:nct04771416",
 "r": "site_of"
@@ -285,14 +2155,604 @@
 "r": "site_of"
 },
 {
-"a": "org:university-of-michigan-hospitals-michigan-medicine",
-"b": "trial:nct05739643",
-"r": "site_of"
+"a": "org:universita-degli-studi-di-perugia",
+"b": "paper:pmid-35028271",
+"r": "funded"
+},
+{
+"a": "org:university-of-chicago",
+"b": "paper:pmid-35966016",
+"r": "funded"
+},
+{
+"a": "org:university-of-missouri",
+"b": "paper:pmid-32219101",
+"r": "funded"
+},
+{
+"a": "org:university-of-pennsylvania",
+"b": "paper:pmid-32773406",
+"r": "funded"
+},
+{
+"a": "org:university-of-pittsburgh",
+"b": "paper:pmid-35966016",
+"r": "funded"
 },
 {
 "a": "org:university-of-utah-school-of-medicine",
 "b": "trial:nct04771416",
 "r": "site_of"
+},
+{
+"a": "paper:doi-10-1016-j-ymgme-2021-11-204",
+"b": "asset:nct-nct04771416",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1016-j-ymgme-2022-106999",
+"b": "asset:nct-nct04771416",
+"r": "cites_asset"
+},
+{
+"a": "person:alessandra-ricca",
+"b": "org:the-san-raffaele-telethon-institute-for-gene-therapy",
+"r": "affiliated"
+},
+{
+"a": "person:alessandra-ricca",
+"b": "paper:pmid-32850960",
+"r": "authored"
+},
+{
+"a": "person:allison-m-bradbury",
+"b": "org:nationwide-children-s-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:allison-m-bradbury",
+"b": "org:the-ohio-state-university",
+"r": "affiliated"
+},
+{
+"a": "person:allison-m-bradbury",
+"b": "org:the-ohio-state-university-wexner-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:allison-m-bradbury",
+"b": "org:university-of-pennsylvania",
+"r": "affiliated"
+},
+{
+"a": "person:allison-m-bradbury",
+"b": "paper:pmid-32773406",
+"r": "authored"
+},
+{
+"a": "person:allison-m-bradbury",
+"b": "paper:pmid-33766733",
+"r": "authored"
+},
+{
+"a": "person:allison-m-bradbury",
+"b": "paper:pmid-37952085",
+"r": "authored"
+},
+{
+"a": "person:ambra-del-grosso",
+"b": "org:istituto-nanoscienze",
+"r": "affiliated"
+},
+{
+"a": "person:ambra-del-grosso",
+"b": "org:scuola-normale-superiore",
+"r": "affiliated"
+},
+{
+"a": "person:ambra-del-grosso",
+"b": "paper:pmid-35028271",
+"r": "authored"
+},
+{
+"a": "person:anderson-rodrigues-brandao-de-paiva",
+"b": "org:hospital-das-clinicas-da-faculdade-de-medicina-da-universida",
+"r": "affiliated"
+},
+{
+"a": "person:anderson-rodrigues-brandao-de-paiva",
+"b": "org:hospital-sao-rafael",
+"r": "affiliated"
+},
+{
+"a": "person:anderson-rodrigues-brandao-de-paiva",
+"b": "paper:pmid-35212100",
+"r": "authored"
+},
+{
+"a": "person:angela-gritti",
+"b": "org:the-san-raffaele-telethon-institute-for-gene-therapy",
+"r": "affiliated"
+},
+{
+"a": "person:angela-gritti",
+"b": "paper:pmid-32850960",
+"r": "authored"
+},
+{
+"a": "person:angela-gritti",
+"b": "paper:pmid-33989519",
+"r": "authored"
+},
+{
+"a": "person:azzam-a-maghazachi",
+"b": "paper:pmid-37928748",
+"r": "authored"
+},
+{
+"a": "person:brett-d-story",
+"b": "org:auburn-university",
+"r": "affiliated"
+},
+{
+"a": "person:brett-d-story",
+"b": "org:university-of-florida",
+"r": "affiliated"
+},
+{
+"a": "person:brett-d-story",
+"b": "paper:pmid-32219101",
+"r": "authored"
+},
+{
+"a": "person:charles-h-vite",
+"b": "org:university-of-pennsylvania",
+"r": "affiliated"
+},
+{
+"a": "person:charles-h-vite",
+"b": "paper:pmid-32773406",
+"r": "authored"
+},
+{
+"a": "person:chesheng-ho",
+"b": "org:mackay-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:chesheng-ho",
+"b": "paper:pmid-37048066",
+"r": "authored"
+},
+{
+"a": "person:chesheng-ho",
+"b": "paper:pmid-39594621",
+"r": "authored"
+},
+{
+"a": "person:christiane-kehrer",
+"b": "org:university-children-s-hospital-tubingen",
+"r": "affiliated"
+},
+{
+"a": "person:christiane-kehrer",
+"b": "org:university-of-tubingen",
+"r": "affiliated"
+},
+{
+"a": "person:christiane-kehrer",
+"b": "paper:pmid-32912261",
+"r": "authored"
+},
+{
+"a": "person:chunyu-cao",
+"b": "org:china-three-gorges-university",
+"r": "affiliated"
+},
+{
+"a": "person:chunyu-cao",
+"b": "paper:pmid-37076788",
+"r": "authored"
+},
+{
+"a": "person:cui-wang",
+"b": "org:first-affiliated-hospital-of-zhengzhou-university",
+"r": "affiliated"
+},
+{
+"a": "person:cui-wang",
+"b": "paper:pmid-32064984",
+"r": "authored"
+},
+{
+"a": "person:daesung-shin",
+"b": "org:university-at-buffalo-state-university-of-new-york",
+"r": "affiliated"
+},
+{
+"a": "person:daesung-shin",
+"b": "paper:pmid-33851745",
+"r": "authored"
+},
+{
+"a": "person:daniela-coltrini",
+"b": "org:university-of-brescia",
+"r": "affiliated"
+},
+{
+"a": "person:daniela-coltrini",
+"b": "paper:pmid-36012705",
+"r": "authored"
+},
+{
+"a": "person:darshong-lin",
+"b": "org:mackay-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:darshong-lin",
+"b": "org:mackay-memorial-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:darshong-lin",
+"b": "paper:pmid-32370022",
+"r": "authored"
+},
+{
+"a": "person:darshong-lin",
+"b": "paper:pmid-37048066",
+"r": "authored"
+},
+{
+"a": "person:darshong-lin",
+"b": "paper:pmid-39594621",
+"r": "authored"
+},
+{
+"a": "person:david-a-wenger",
+"b": "org:thomas-jefferson-university",
+"r": "affiliated"
+},
+{
+"a": "person:david-a-wenger",
+"b": "paper:doi-10-1016-b978-0-12-813955-4-00034-9",
+"r": "authored"
+},
+{
+"a": "person:david-a-wenger",
+"b": "paper:doi-10-1016-b978-0-443-19041-4-00043-1",
+"r": "authored"
+},
+{
+"a": "person:dawn-elizabeth-mcneil",
+"b": "paper:doi-10-1016-j-ymgme-2021-11-204",
+"r": "authored"
+},
+{
+"a": "person:eamon-p-mccarron",
+"b": "org:northern-care-alliance-nhs-foundation-trust",
+"r": "affiliated"
+},
+{
+"a": "person:eamon-p-mccarron",
+"b": "paper:pmid-40017455",
+"r": "authored"
+},
+{
+"a": "person:elisabeth-mangiameli",
+"b": "org:the-san-raffaele-telethon-institute-for-gene-therapy",
+"r": "affiliated"
+},
+{
+"a": "person:elisabeth-mangiameli",
+"b": "paper:pmid-33989519",
+"r": "authored"
+},
+{
+"a": "person:eric-james-mallack",
+"b": "org:weill-cornell-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:eric-james-mallack",
+"b": "paper:doi-10-1016-j-ymgme-2021-11-204",
+"r": "authored"
+},
+{
+"a": "person:ernesto-roque-bongarzone",
+"b": "org:university-of-illinois-chicago",
+"r": "affiliated"
+},
+{
+"a": "person:ernesto-roque-bongarzone",
+"b": "paper:pmid-33766733",
+"r": "authored"
+},
+{
+"a": "person:fernando-kok",
+"b": "org:hospital-das-clinicas-da-faculdade-de-medicina-da-universida",
+"r": "affiliated"
+},
+{
+"a": "person:fernando-kok",
+"b": "org:mendelics",
+"r": "affiliated"
+},
+{
+"a": "person:fernando-kok",
+"b": "paper:pmid-35212100",
+"r": "authored"
+},
+{
+"a": "person:florian-eichler",
+"b": "org:harvard-university",
+"r": "affiliated"
+},
+{
+"a": "person:florian-eichler",
+"b": "org:massachusetts-general-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:florian-eichler",
+"b": "paper:pmid-39276676",
+"r": "authored"
+},
+{
+"a": "person:genevieve-bernard",
+"b": "org:mcgill-university",
+"r": "affiliated"
+},
+{
+"a": "person:genevieve-bernard",
+"b": "paper:doi-10-1016-j-ymgme-2022-106999",
+"r": "authored"
+},
+{
+"a": "person:guode-wu",
+"b": "org:lanzhou-university-second-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:guode-wu",
+"b": "paper:pmid-36161165",
+"r": "authored"
+},
+{
+"a": "person:heather-l-grayedwards",
+"b": "org:university-of-massachusetts-chan-medical-school",
+"r": "affiliated"
+},
+{
+"a": "person:heather-l-grayedwards",
+"b": "paper:pmid-32219101",
+"r": "authored"
+},
+{
+"a": "person:huai-zhen-chen",
+"b": "org:anhui-university-of-traditional-chinese-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:huai-zhen-chen",
+"b": "paper:pmid-36341094",
+"r": "authored"
+},
+{
+"a": "person:ilaria-tonazzini",
+"b": "org:istituto-nanoscienze",
+"r": "affiliated"
+},
+{
+"a": "person:ilaria-tonazzini",
+"b": "org:scuola-normale-superiore",
+"r": "affiliated"
+},
+{
+"a": "person:ilaria-tonazzini",
+"b": "paper:pmid-33374753",
+"r": "authored"
+},
+{
+"a": "person:ingeborg-kragelohmann",
+"b": "org:university-children-s-hospital-tubingen",
+"r": "affiliated"
+},
+{
+"a": "person:ingeborg-kragelohmann",
+"b": "org:university-of-tubingen",
+"r": "affiliated"
+},
+{
+"a": "person:ingeborg-kragelohmann",
+"b": "paper:pmid-32912261",
+"r": "authored"
+},
+{
+"a": "person:jasna-metovic",
+"b": "org:harvard-university",
+"r": "affiliated"
+},
+{
+"a": "person:jasna-metovic",
+"b": "org:massachusetts-general-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:jasna-metovic",
+"b": "paper:pmid-39276676",
+"r": "authored"
+},
+{
+"a": "person:joanne-kurtzberg",
+"b": "org:duke-university",
+"r": "affiliated"
+},
+{
+"a": "person:joanne-kurtzberg",
+"b": "trial:nct05739643",
+"r": "investigator"
+},
+{
+"a": "person:julia-kofler",
+"b": "org:university-of-pittsburgh",
+"r": "affiliated"
+},
+{
+"a": "person:julia-kofler",
+"b": "paper:pmid-35966016",
+"r": "authored"
+},
+{
+"a": "person:junfei-zhong",
+"b": "org:central-south-university",
+"r": "affiliated"
+},
+{
+"a": "person:junfei-zhong",
+"b": "org:xiangya-hospital-central-south-university",
+"r": "affiliated"
+},
+{
+"a": "person:junfei-zhong",
+"b": "paper:pmid-32973651",
+"r": "authored"
+},
+{
+"a": "person:kai-li",
+"b": "org:anhui-university-of-traditional-chinese-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:kai-li",
+"b": "paper:pmid-36341094",
+"r": "authored"
+},
+{
+"a": "person:karolina-m-stepien",
+"b": "org:northern-care-alliance-nhs-foundation-trust",
+"r": "affiliated"
+},
+{
+"a": "person:karolina-m-stepien",
+"b": "org:university-of-manchester",
+"r": "affiliated"
+},
+{
+"a": "person:karolina-m-stepien",
+"b": "paper:pmid-40017455",
+"r": "authored"
+},
+{
+"a": "person:leslie-k-cortes",
+"b": "org:sanofi-united-states",
+"r": "affiliated"
+},
+{
+"a": "person:leslie-k-cortes",
+"b": "paper:pmid-35921286",
+"r": "authored"
+},
+{
+"a": "person:m-laura-feltri",
+"b": "org:university-at-buffalo-state-university-of-new-york",
+"r": "affiliated"
+},
+{
+"a": "person:m-laura-feltri",
+"b": "paper:pmid-32375064",
+"r": "authored"
+},
+{
+"a": "person:m-laura-feltri",
+"b": "paper:pmid-33851745",
+"r": "authored"
+},
+{
+"a": "person:manxia-wang",
+"b": "org:lanzhou-university-second-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:manxia-wang",
+"b": "paper:pmid-36161165",
+"r": "authored"
+},
+{
+"a": "person:marco-g-cecchini",
+"b": "org:istituto-nanoscienze",
+"r": "affiliated"
+},
+{
+"a": "person:marco-g-cecchini",
+"b": "org:scuola-normale-superiore",
+"r": "affiliated"
+},
+{
+"a": "person:marco-g-cecchini",
+"b": "paper:pmid-33374753",
+"r": "authored"
+},
+{
+"a": "person:marco-g-cecchini",
+"b": "paper:pmid-35028271",
+"r": "authored"
+},
+{
+"a": "person:marco-presta",
+"b": "org:university-of-brescia",
+"r": "affiliated"
+},
+{
+"a": "person:marco-presta",
+"b": "paper:pmid-36012705",
+"r": "authored"
+},
+{
+"a": "person:maria-luisa-escolar",
+"b": "org:children-s-hospital-of-pittsburgh",
+"r": "affiliated"
+},
+{
+"a": "person:maria-luisa-escolar",
+"b": "org:theriva-biologics-united-states",
+"r": "affiliated"
+},
+{
+"a": "person:maria-luisa-escolar",
+"b": "org:university-of-pittsburgh",
+"r": "affiliated"
+},
+{
+"a": "person:maria-luisa-escolar",
+"b": "org:university-of-pittsburgh-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:maria-luisa-escolar",
+"b": "paper:pmid-35966016",
+"r": "authored"
+},
+{
+"a": "person:maria-luisa-escolar",
+"b": "paper:pmid-37952085",
+"r": "authored"
+},
+{
+"a": "person:mark-s-sands",
+"b": "org:washington-university-in-st-louis",
+"r": "affiliated"
+},
+{
+"a": "person:mark-s-sands",
+"b": "paper:pmid-33388420",
+"r": "authored"
+},
+{
+"a": "person:mark-s-sands",
+"b": "paper:pmid-33766733",
+"r": "authored"
 },
 {
 "a": "person:may-orfali",
@@ -303,6 +2763,301 @@
 "a": "person:may-orfali",
 "b": "trial:nct04771416",
 "r": "investigator"
+},
+{
+"a": "person:mingfu-chiang",
+"b": "org:mackay-junior-college-of-medicine-nursing-and-management",
+"r": "affiliated"
+},
+{
+"a": "person:mingfu-chiang",
+"b": "org:mackay-memorial-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:mingfu-chiang",
+"b": "paper:pmid-32370022",
+"r": "authored"
+},
+{
+"a": "person:nadav-i-weinstock",
+"b": "org:university-at-buffalo-state-university-of-new-york",
+"r": "affiliated"
+},
+{
+"a": "person:nadav-i-weinstock",
+"b": "paper:pmid-32375064",
+"r": "authored"
+},
+{
+"a": "person:nanchang-xie",
+"b": "org:first-affiliated-hospital-of-zhengzhou-university",
+"r": "affiliated"
+},
+{
+"a": "person:nanchang-xie",
+"b": "paper:pmid-32064984",
+"r": "authored"
+},
+{
+"a": "person:naoko-inamura",
+"b": "org:aichi-developmental-disability-center",
+"r": "affiliated"
+},
+{
+"a": "person:naoko-inamura",
+"b": "org:institute-for-developmental-research",
+"r": "affiliated"
+},
+{
+"a": "person:naoko-inamura",
+"b": "paper:pmid-33822434",
+"r": "authored"
+},
+{
+"a": "person:paola-luzi",
+"b": "org:thomas-jefferson-university",
+"r": "affiliated"
+},
+{
+"a": "person:paola-luzi",
+"b": "paper:doi-10-1016-b978-0-12-813955-4-00034-9",
+"r": "authored"
+},
+{
+"a": "person:paola-luzi",
+"b": "paper:doi-10-1016-b978-0-443-19041-4-00043-1",
+"r": "authored"
+},
+{
+"a": "person:pearl-a-sutter",
+"b": "org:uconn-health",
+"r": "affiliated"
+},
+{
+"a": "person:pearl-a-sutter",
+"b": "org:university-of-connecticut",
+"r": "affiliated"
+},
+{
+"a": "person:pearl-a-sutter",
+"b": "paper:pmid-37310382",
+"r": "authored"
+},
+{
+"a": "person:pengfei-zhang",
+"b": "org:lanzhou-university-second-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:pengfei-zhang",
+"b": "paper:pmid-36161165",
+"r": "authored"
+},
+{
+"a": "person:pukar-khanal",
+"b": "org:kle-academy-of-higher-education-and-research",
+"r": "affiliated"
+},
+{
+"a": "person:pukar-khanal",
+"b": "paper:pmid-39103379",
+"r": "authored"
+},
+{
+"a": "person:qian-xu",
+"b": "org:central-south-university",
+"r": "affiliated"
+},
+{
+"a": "person:qian-xu",
+"b": "org:xiangya-hospital-central-south-university",
+"r": "affiliated"
+},
+{
+"a": "person:qian-xu",
+"b": "paper:pmid-32973651",
+"r": "authored"
+},
+{
+"a": "person:qiuming-zeng",
+"b": "org:central-south-university",
+"r": "affiliated"
+},
+{
+"a": "person:qiuming-zeng",
+"b": "org:xiangya-hospital-central-south-university",
+"r": "affiliated"
+},
+{
+"a": "person:qiuming-zeng",
+"b": "paper:pmid-32973651",
+"r": "authored"
+},
+{
+"a": "person:richard-lieberman",
+"b": "org:sanofi-united-states",
+"r": "affiliated"
+},
+{
+"a": "person:richard-lieberman",
+"b": "paper:pmid-35921286",
+"r": "authored"
+},
+{
+"a": "person:robert-henry-barker",
+"b": "org:sanofi-united-states",
+"r": "affiliated"
+},
+{
+"a": "person:robert-henry-barker",
+"b": "paper:pmid-35921286",
+"r": "authored"
+},
+{
+"a": "person:samiah-a-al-zaidy",
+"b": "paper:doi-10-1016-j-ymgme-2022-106999",
+"r": "authored"
+},
+{
+"a": "person:sarah-krieg",
+"b": "org:university-children-s-hospital-tubingen",
+"r": "affiliated"
+},
+{
+"a": "person:sarah-krieg",
+"b": "org:university-of-tubingen",
+"r": "affiliated"
+},
+{
+"a": "person:sarah-krieg",
+"b": "paper:pmid-32912261",
+"r": "authored"
+},
+{
+"a": "person:stephen-j-crocker",
+"b": "org:uconn-health",
+"r": "affiliated"
+},
+{
+"a": "person:stephen-j-crocker",
+"b": "org:university-of-connecticut",
+"r": "affiliated"
+},
+{
+"a": "person:stephen-j-crocker",
+"b": "paper:pmid-37310382",
+"r": "authored"
+},
+{
+"a": "person:thomas-l-moore",
+"b": "org:italian-institute-of-technology",
+"r": "affiliated"
+},
+{
+"a": "person:thomas-l-moore",
+"b": "paper:pmid-37918668",
+"r": "authored"
+},
+{
+"a": "person:venera-cardile",
+"b": "org:university-of-catania",
+"r": "affiliated"
+},
+{
+"a": "person:venera-cardile",
+"b": "paper:pmid-37918668",
+"r": "authored"
+},
+{
+"a": "person:vishwambhar-vishnu-bhandare",
+"b": "org:shivaji-university",
+"r": "affiliated"
+},
+{
+"a": "person:vishwambhar-vishnu-bhandare",
+"b": "paper:pmid-39103379",
+"r": "authored"
+},
+{
+"a": "person:wei-wang",
+"b": "org:china-japan-friendship-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:wei-wang",
+"b": "paper:pmid-37076788",
+"r": "authored"
+},
+{
+"a": "person:xianghe-meng",
+"b": "org:first-affiliated-hospital-of-zhengzhou-university",
+"r": "affiliated"
+},
+{
+"a": "person:xianghe-meng",
+"b": "paper:pmid-32064984",
+"r": "authored"
+},
+{
+"a": "person:yafeng-lv",
+"b": "org:china-three-gorges-university",
+"r": "affiliated"
+},
+{
+"a": "person:yafeng-lv",
+"b": "paper:pmid-37076788",
+"r": "authored"
+},
+{
+"a": "person:yasushi-enokido",
+"b": "org:aichi-developmental-disability-center",
+"r": "affiliated"
+},
+{
+"a": "person:yasushi-enokido",
+"b": "org:institute-for-developmental-research",
+"r": "affiliated"
+},
+{
+"a": "person:yasushi-enokido",
+"b": "paper:pmid-33822434",
+"r": "authored"
+},
+{
+"a": "person:ye-zhang",
+"b": "org:chinese-academy-of-medical-sciences-peking-union-medical-col",
+"r": "affiliated"
+},
+{
+"a": "person:ye-zhang",
+"b": "org:institute-of-basic-medical-sciences-of-the-chinese-academy-o",
+"r": "affiliated"
+},
+{
+"a": "person:ye-zhang",
+"b": "paper:pmid-37076788",
+"r": "authored"
+},
+{
+"a": "person:yedda-li",
+"b": "org:washington-university-in-st-louis",
+"r": "affiliated"
+},
+{
+"a": "person:yedda-li",
+"b": "paper:pmid-33388420",
+"r": "authored"
+},
+{
+"a": "person:yu-wang",
+"b": "org:anhui-university-of-traditional-chinese-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:yu-wang",
+"b": "paper:pmid-36341094",
+"r": "authored"
 }
 ]
 }

@@ -1,9 +1,10 @@
 {
 "assetId": "nct-nct04145674",
-"updated": "2026-11-04",
+"updated": "2026-11-05",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
-"trials": 24
+"trials": 24,
+"papers": 35
 },
 "nodes": [
 {
@@ -15,11 +16,11 @@
 "c": ""
 },
 {
-"k": "trial:nct06009003",
+"k": "trial:nct03638869",
 "t": "trial",
-"n": "Individual Patient Esmethadone (REL-1017) Expanded Access Program",
-"sub": "NA · no_longer_available · ",
-"url": "https://clinicaltrials.gov/study/NCT06009003",
+"n": "Safety, Tolerability, and Pharmacokinetics of Multiple Ascending Doses of REL-1017 (d-Meth",
+"sub": "P1 · completed · 2015-2015",
+"url": "https://clinicaltrials.gov/study/NCT03638869",
 "c": ""
 },
 {
@@ -28,6 +29,14 @@
 "n": "Relmada Therapeutics, Inc.",
 "sub": "",
 "url": "",
+"c": ""
+},
+{
+"k": "trial:nct06009003",
+"t": "trial",
+"n": "Individual Patient Esmethadone (REL-1017) Expanded Access Program",
+"sub": "NA · no_longer_available · ",
+"url": "https://clinicaltrials.gov/study/NCT06009003",
 "c": ""
 },
 {
@@ -44,6 +53,46 @@
 "n": "Marco Pappagallo",
 "sub": "study director · Relmada Therapeutics",
 "url": "",
+"c": ""
+},
+{
+"k": "trial:nct04855760",
+"t": "trial",
+"n": "Safety of REL-1017 for Major Depressive Disorder",
+"sub": "P3 · completed · 2021-2023",
+"url": "https://clinicaltrials.gov/study/NCT04855760",
+"c": ""
+},
+{
+"k": "org:relmada-site",
+"t": "company",
+"n": "Relmada Site",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct04688164",
+"t": "trial",
+"n": "A Study to Assess the Efficacy and Safety of REL-1017 as Adjunctive Treatment for Major De",
+"sub": "P3 · completed · 2021-2022",
+"url": "https://clinicaltrials.gov/study/NCT04688164",
+"c": ""
+},
+{
+"k": "trial:nct05081167",
+"t": "trial",
+"n": "A Study to Assess the Efficacy and Safety of REL-1017 as Monotherapy for Major Depressive ",
+"sub": "P3 · completed · 2021-2022",
+"url": "https://clinicaltrials.gov/study/NCT05081167",
+"c": ""
+},
+{
+"k": "trial:nct03637361",
+"t": "trial",
+"n": "Safety, Tolerability and Pharmacokinetics of Single Ascending Doses of REL-1017 (d-Methado",
+"sub": "P1 · completed · 2014-2015",
+"url": "https://clinicaltrials.gov/study/NCT03637361",
 "c": ""
 },
 {
@@ -71,12 +120,44 @@
 "c": ""
 },
 {
-"k": "org:relmada-site",
+"k": "trial:nct06735079",
+"t": "trial",
+"n": "A Study to Evaluate the Efficacy and Safety of REL-1017 As Adjunctive Treatment of Major D",
+"sub": "P3 · withdrawn · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06735079",
+"c": ""
+},
+{
+"k": "org:mggm",
 "t": "company",
-"n": "Relmada Site",
+"n": "MGGM LLC",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": ""
+},
+{
+"k": "org:mediolanum-cardio-research",
+"t": "company",
+"n": "Mediolanum Cardio Research",
+"sub": "",
+"url": "",
+"c": "Italy"
+},
+{
+"k": "org:clinical-trial-unit-ente-ospedaliero-cantonale-ctu-eoc-area",
+"t": "hospital",
+"n": "Clinical Trial Unit - Ente Ospedaliero Cantonale (CTU-EOC) Area Formazione medica e Ricerc",
+"sub": "",
+"url": "",
+"c": "Switzerland"
+},
+{
+"k": "trial:nct06011577",
+"t": "trial",
+"n": "Randomized, Double-Blind, Placebo-Controlled Trial of REL-1017 as Adjunctive Treatment for",
+"sub": "P3 · terminated · 2023-2024",
+"url": "https://clinicaltrials.gov/study/NCT06011577",
+"c": ""
 },
 {
 "k": "trial:nct04145674",
@@ -115,8 +196,8 @@
 "t": "person",
 "n": "Mauro Manconi",
 "sub": "principal investigator · Ente Ospedaliero Cantonale, Neurocenter of Southern Switzerland",
-"url": "",
-"c": ""
+"url": "https://orcid.org/0000-0002-1849-7196",
+"c": "CH"
 },
 {
 "k": "org:sleep-center-irccs-san-raffaele",
@@ -149,22 +230,6 @@
 "sub": "",
 "url": "",
 "c": "Switzerland"
-},
-{
-"k": "trial:nct06011577",
-"t": "trial",
-"n": "Randomized, Double-Blind, Placebo-Controlled Trial of REL-1017 as Adjunctive Treatment for",
-"sub": "P3 · terminated · 2023-2024",
-"url": "https://clinicaltrials.gov/study/NCT06011577",
-"c": ""
-},
-{
-"k": "trial:nct04688164",
-"t": "trial",
-"n": "A Study to Assess the Efficacy and Safety of REL-1017 as Adjunctive Treatment for Major De",
-"sub": "P3 · completed · 2021-2022",
-"url": "https://clinicaltrials.gov/study/NCT04688164",
-"c": ""
 },
 {
 "k": "trial:nct03051256",
@@ -277,70 +342,6 @@
 "sub": "",
 "url": "",
 "c": "United States"
-},
-{
-"k": "trial:nct03638869",
-"t": "trial",
-"n": "Safety, Tolerability, and Pharmacokinetics of Multiple Ascending Doses of REL-1017 (d-Meth",
-"sub": "P1 · completed · 2015-2015",
-"url": "https://clinicaltrials.gov/study/NCT03638869",
-"c": ""
-},
-{
-"k": "trial:nct03637361",
-"t": "trial",
-"n": "Safety, Tolerability and Pharmacokinetics of Single Ascending Doses of REL-1017 (d-Methado",
-"sub": "P1 · completed · 2014-2015",
-"url": "https://clinicaltrials.gov/study/NCT03637361",
-"c": ""
-},
-{
-"k": "trial:nct05081167",
-"t": "trial",
-"n": "A Study to Assess the Efficacy and Safety of REL-1017 as Monotherapy for Major Depressive ",
-"sub": "P3 · completed · 2021-2022",
-"url": "https://clinicaltrials.gov/study/NCT05081167",
-"c": ""
-},
-{
-"k": "trial:nct06735079",
-"t": "trial",
-"n": "A Study to Evaluate the Efficacy and Safety of REL-1017 As Adjunctive Treatment of Major D",
-"sub": "P3 · withdrawn · 2024-2027",
-"url": "https://clinicaltrials.gov/study/NCT06735079",
-"c": ""
-},
-{
-"k": "org:mggm",
-"t": "company",
-"n": "MGGM LLC",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:mediolanum-cardio-research",
-"t": "company",
-"n": "Mediolanum Cardio Research",
-"sub": "",
-"url": "",
-"c": "Italy"
-},
-{
-"k": "org:clinical-trial-unit-ente-ospedaliero-cantonale-ctu-eoc-area",
-"t": "hospital",
-"n": "Clinical Trial Unit - Ente Ospedaliero Cantonale (CTU-EOC) Area Formazione medica e Ricerc",
-"sub": "",
-"url": "",
-"c": "Switzerland"
-},
-{
-"k": "trial:nct04855760",
-"t": "trial",
-"n": "Safety of REL-1017 for Major Depressive Disorder",
-"sub": "P3 · completed · 2021-2023",
-"url": "https://clinicaltrials.gov/study/NCT04855760",
-"c": ""
 },
 {
 "k": "trial:nct07224932",
@@ -861,6 +862,1566 @@
 "sub": "Diego García-Borreguero, MD, PhD",
 "url": "",
 "c": ""
+},
+{
+"k": "paper:pmid-33571887",
+"t": "paper",
+"n": "Sleep disturbances during pregnancy and adverse maternal and fetal outcomes: A systematic ",
+"sub": "Sleep Medicine Reviews 2021 · cited 327",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33571887",
+"c": ""
+},
+{
+"k": "person:qing-dong-lu",
+"t": "person",
+"n": "Qing-Dong Lu",
+"sub": "Peking University",
+"url": "https://orcid.org/0000-0002-0582-2383",
+"c": "CN"
+},
+{
+"k": "org:peking-university",
+"t": "academic",
+"n": "Peking University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:jie-shi",
+"t": "person",
+"n": "Jie Shi",
+"sub": "Peking University",
+"url": "https://orcid.org/0000-0001-6567-8160",
+"c": "CN"
+},
+{
+"k": "person:yanping-bao",
+"t": "person",
+"n": "Yanping Bao",
+"sub": "Peking University",
+"url": "https://orcid.org/0000-0002-1881-0939",
+"c": "CN"
+},
+{
+"k": "person:lin-lu",
+"t": "person",
+"n": "Lin Lü",
+"sub": "Peking University",
+"url": "https://orcid.org/0000-0003-0742-9072",
+"c": "CN"
+},
+{
+"k": "org:center-for-life-sciences",
+"t": "academic",
+"n": "Center for Life Sciences",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "paper:pmid-34732752",
+"t": "paper",
+"n": "Restless legs syndrome",
+"sub": "Nature Reviews Disease Primers 2021 · cited 290",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34732752",
+"c": ""
+},
+{
+"k": "org:university-of-bern",
+"t": "academic",
+"n": "University of Bern",
+"sub": "",
+"url": "",
+"c": "CH"
+},
+{
+"k": "org:ospedale-regionale-di-lugano",
+"t": "hospital",
+"n": "Ospedale regionale di Lugano",
+"sub": "",
+"url": "",
+"c": "CH"
+},
+{
+"k": "person:yves-a-dauvilliers",
+"t": "person",
+"n": "Yves A Dauvilliers",
+"sub": "Inserm",
+"url": "https://orcid.org/0000-0003-0683-6506",
+"c": "FR"
+},
+{
+"k": "org:inserm",
+"t": "funder",
+"n": "Inserm",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:universite-de-montpellier",
+"t": "academic",
+"n": "Université de Montpellier",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "paper:pmid-32358212",
+"t": "paper",
+"n": "Sleep Disorders in Adolescents",
+"sub": "PEDIATRICS 2020 · cited 234",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32358212",
+"c": ""
+},
+{
+"k": "person:sujay-m-kansagra",
+"t": "person",
+"n": "Sujay M. Kansagra",
+"sub": "Duke Medical Center",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:duke-medical-center",
+"t": "hospital",
+"n": "Duke Medical Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-33880737",
+"t": "paper",
+"n": "Restless Legs Syndrome: Contemporary Diagnosis and Treatment",
+"sub": "Neurotherapeutics 2021 · cited 226",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33880737",
+"c": ""
+},
+{
+"k": "person:thomas-r-gossard",
+"t": "person",
+"n": "Thomas R. Gossard",
+"sub": "Mayo Clinic",
+"url": "https://orcid.org/0000-0002-9231-0086",
+"c": "US"
+},
+{
+"k": "org:mayo-clinic",
+"t": "hospital",
+"n": "Mayo Clinic",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:erik-k-st-louis",
+"t": "person",
+"n": "Erik K. St. Louis",
+"sub": "Mayo Clinic",
+"url": "https://orcid.org/0000-0002-2833-8826",
+"c": "US"
+},
+{
+"k": "org:national-institutes-of-health",
+"t": "funder",
+"n": "National Institutes of Health",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:center-for-clinical-and-translational-science-mayo-clinic",
+"t": "funder",
+"n": "Center for Clinical and Translational Science, Mayo Clinic",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institute-on-aging",
+"t": "funder",
+"n": "National Institute on Aging",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-center-for-research-resources",
+"t": "funder",
+"n": "National Center for Research Resources",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34261435",
+"t": "paper",
+"n": "Comorbidities of primary headache disorders: a literature review with meta-analysis",
+"sub": "The Journal of Headache and Pain 2021 · cited 215",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34261435",
+"c": ""
+},
+{
+"k": "person:valeria-caponnetto",
+"t": "person",
+"n": "Valeria Caponnetto",
+"sub": "University of L'Aquila",
+"url": "https://orcid.org/0000-0003-4573-6110",
+"c": "IT"
+},
+{
+"k": "org:university-of-l-aquila",
+"t": "academic",
+"n": "University of L'Aquila",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:manuela-deodato",
+"t": "person",
+"n": "Manuela Deodato",
+"sub": "University of Trieste",
+"url": "https://orcid.org/0000-0002-6150-6887",
+"c": "IT"
+},
+{
+"k": "org:university-of-trieste",
+"t": "academic",
+"n": "University of Trieste",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:alberto-raggi",
+"t": "person",
+"n": "Alberto Raggi",
+"sub": "Fondazione IRCCS Istituto Neurologico Carlo Besta",
+"url": "https://orcid.org/0000-0002-7433-7779",
+"c": "IT"
+},
+{
+"k": "org:fondazione-irccs-istituto-neurologico-carlo-besta",
+"t": "hospital",
+"n": "Fondazione IRCCS Istituto Neurologico Carlo Besta",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:ministero-della-salute",
+"t": "funder",
+"n": "Ministero della Salute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34218864",
+"t": "paper",
+"n": "The Management of Restless Legs Syndrome: An Updated Algorithm",
+"sub": "Mayo Clinic Proceedings 2021 · cited 212",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34218864",
+"c": ""
+},
+{
+"k": "person:michael-h-silber",
+"t": "person",
+"n": "Michael H. Silber",
+"sub": "Mayo Clinic",
+"url": "https://orcid.org/0000-0002-6529-5773",
+"c": "US"
+},
+{
+"k": "person:john-weyl-winkelman",
+"t": "person",
+"n": "John Weyl Winkelman",
+"sub": "Harvard University",
+"url": "https://orcid.org/0000-0003-1673-5418",
+"c": "US"
+},
+{
+"k": "org:harvard-university",
+"t": "academic",
+"n": "Harvard University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:u-s-department-of-defense",
+"t": "funder",
+"n": "U.S. Department of Defense",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:restless-legs-syndrome-foundation",
+"t": "funder",
+"n": "Restless Legs Syndrome Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:american-regent",
+"t": "funder",
+"n": "American Regent",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34401953",
+"t": "paper",
+"n": "Sleep disorders in people with type 2 diabetes and associated health outcomes: a review of",
+"sub": "Diabetologia 2021 · cited 212",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34401953",
+"c": ""
+},
+{
+"k": "person:samantha-b-j-schipper",
+"t": "person",
+"n": "Samantha B. J. Schipper",
+"sub": "Amsterdam Public Health",
+"url": "https://orcid.org/0009-0008-6432-3497",
+"c": "NL"
+},
+{
+"k": "org:amsterdam-public-health",
+"t": "academic",
+"n": "Amsterdam Public Health",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "org:amsterdam-umc-location-vrije-universiteit-amsterdam",
+"t": "hospital",
+"n": "Amsterdam UMC Location Vrije Universiteit Amsterdam",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "person:femke-rutters",
+"t": "person",
+"n": "Femke Rutters",
+"sub": "Amsterdam UMC Location Vrije Universiteit Amsterdam",
+"url": "https://orcid.org/0000-0002-1008-678X",
+"c": "NL"
+},
+{
+"k": "org:national-heart-lung-and-blood-institute",
+"t": "funder",
+"n": "National Heart, Lung, and Blood Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-39324694",
+"t": "paper",
+"n": "Treatment of restless legs syndrome and periodic limb movement disorder: an American Acade",
+"sub": "Journal of Clinical Sleep Medicine 2024 · cited 185",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39324694",
+"c": ""
+},
+{
+"k": "person:arthur-scott-walters",
+"t": "person",
+"n": "Arthur Scott Walters",
+"sub": "Vanderbilt University",
+"url": "https://orcid.org/0000-0001-5143-7817",
+"c": "US"
+},
+{
+"k": "org:vanderbilt-university",
+"t": "academic",
+"n": "Vanderbilt University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:national-center-for-advancing-translational-sciences",
+"t": "funder",
+"n": "National Center for Advancing Translational Sciences",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36153674",
+"t": "paper",
+"n": "The incidence, complications, and treatment of iron deficiency in pregnancy",
+"sub": "European Journal Of Haematology 2022 · cited 184",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36153674",
+"c": ""
+},
+{
+"k": "person:ashley-e-benson",
+"t": "person",
+"n": "Ashley E. Benson",
+"sub": "Oregon Health & Science University",
+"url": "https://orcid.org/0000-0001-5716-2818",
+"c": "US"
+},
+{
+"k": "org:oregon-health-science-university",
+"t": "academic",
+"n": "Oregon Health & Science University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:jamie-oi-ting-lo",
+"t": "person",
+"n": "Jamie Oi-Ting Lo",
+"sub": "Oregon Health & Science University",
+"url": "https://orcid.org/0000-0002-1934-1935",
+"c": "US"
+},
+{
+"k": "paper:pmid-32603954",
+"t": "paper",
+"n": "Cannabinoid therapies in the management of sleep disorders: A systematic review of preclin",
+"sub": "Sleep Medicine Reviews 2020 · cited 164",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32603954",
+"c": ""
+},
+{
+"k": "person:anastasia-s-suraev",
+"t": "person",
+"n": "Anastasia S. Suraev",
+"sub": "The University of Sydney",
+"url": "https://orcid.org/0000-0002-5993-2246",
+"c": "AU"
+},
+{
+"k": "org:the-university-of-sydney",
+"t": "academic",
+"n": "The University of Sydney",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "org:woolcock-institute-of-medical-research",
+"t": "academic",
+"n": "Woolcock Institute of Medical Research",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "person:camilla-m-hoyos",
+"t": "person",
+"n": "Camilla M. Hoyos",
+"sub": "The University of Sydney",
+"url": "https://orcid.org/0000-0002-6543-4016",
+"c": "AU"
+},
+{
+"k": "org:university-of-sydney",
+"t": "funder",
+"n": "University of Sydney",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-40159291",
+"t": "paper",
+"n": "Iron Deficiency in Adults",
+"sub": "JAMA 2025 · cited 164",
+"url": "https://pubmed.ncbi.nlm.nih.gov/40159291",
+"c": ""
+},
+{
+"k": "person:michael-auerbach",
+"t": "person",
+"n": "Michael Auerbach",
+"sub": "Georgetown University",
+"url": "https://orcid.org/0000-0003-0707-8647",
+"c": "US"
+},
+{
+"k": "org:georgetown-university",
+"t": "academic",
+"n": "Georgetown University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:jennifer-s-tirnauer",
+"t": "person",
+"n": "Jennifer S. Tirnauer",
+"sub": "Wolters Kluwer Health",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:wolters-kluwer-health",
+"t": "company",
+"n": "Wolters Kluwer Health",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-34015136",
+"t": "paper",
+"n": "The social and economic cost of sleep disorders",
+"sub": "SLEEP 2021 · cited 160",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34015136",
+"c": ""
+},
+{
+"k": "person:jared-streatfeild",
+"t": "person",
+"n": "Jared Streatfeild",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:david-r-hillman",
+"t": "person",
+"n": "David R. Hillman",
+"sub": "The University of Western Australia",
+"url": "https://orcid.org/0000-0001-9987-539X",
+"c": "AU"
+},
+{
+"k": "org:the-university-of-western-australia",
+"t": "academic",
+"n": "The University of Western Australia",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "org:sir-charles-gairdner-hospital",
+"t": "hospital",
+"n": "Sir Charles Gairdner Hospital",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "org:resmed-foundation",
+"t": "funder",
+"n": "ResMed Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:resmed",
+"t": "funder",
+"n": "ResMed",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33430071",
+"t": "paper",
+"n": "Botulinum Toxin in Movement Disorders: An Update",
+"sub": "Toxins 2021 · cited 157",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33430071",
+"c": ""
+},
+{
+"k": "person:charenya-anandan",
+"t": "person",
+"n": "Charenya Anandan",
+"sub": "Baylor College of Medicine",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:baylor-college-of-medicine",
+"t": "academic",
+"n": "Baylor College of Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:joseph-j-jankovic",
+"t": "person",
+"n": "Joseph J. Jankovic",
+"sub": "Baylor College of Medicine",
+"url": "https://orcid.org/0000-0003-4129-3674",
+"c": "US"
+},
+{
+"k": "paper:pmid-35041878",
+"t": "paper",
+"n": "Sleep disorders and non-sleep circadian disorders predict depression: A systematic review ",
+"sub": "Neuroscience & Biobehavioral Reviews 2022 · cited 155",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35041878",
+"c": ""
+},
+{
+"k": "person:mi-mi-zhang",
+"t": "person",
+"n": "Mi-Mi Zhang",
+"sub": "Xiamen University",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:xiamen-university",
+"t": "academic",
+"n": "Xiamen University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:zhe-li",
+"t": "person",
+"n": "Zhe Li",
+"sub": "University College London",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:university-college-london",
+"t": "academic",
+"n": "University College London",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:suxia-li",
+"t": "person",
+"n": "Su‐Xia Li",
+"sub": "Peking University",
+"url": "https://orcid.org/0000-0002-0781-0300",
+"c": "CN"
+},
+{
+"k": "paper:pmid-34391672",
+"t": "paper",
+"n": "Sleep disorders and COVID-19",
+"sub": "Sleep Medicine 2021 · cited 153",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34391672",
+"c": ""
+},
+{
+"k": "person:sushanth-bhat",
+"t": "person",
+"n": "Sushanth Bhat",
+"sub": "Hackensack Meridian Health",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:hackensack-meridian-health",
+"t": "hospital",
+"n": "Hackensack Meridian Health",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:john-f-kennedy-medical-center",
+"t": "hospital",
+"n": "John F. Kennedy Medical Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:sudhansu-chokroverty",
+"t": "person",
+"n": "Sudhansu Chokroverty",
+"sub": "Hackensack Meridian Health",
+"url": "https://orcid.org/0000-0001-8231-9346",
+"c": "US"
+},
+{
+"k": "paper:pmid-33406871",
+"t": "paper",
+"n": "Dynamic Prevalence of Sleep Disorders Following Stroke or Transient Ischemic Attack",
+"sub": "Stroke 2021 · cited 135",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33406871",
+"c": ""
+},
+{
+"k": "person:faizul-hasan",
+"t": "person",
+"n": "Faizul Hasan",
+"sub": "Kementerian Kesehatan Republik Indonesia",
+"url": "https://orcid.org/0000-0001-7802-1328",
+"c": "ID"
+},
+{
+"k": "org:kementerian-kesehatan-republik-indonesia",
+"t": "funder",
+"n": "Kementerian Kesehatan Republik Indonesia",
+"sub": "",
+"url": "",
+"c": "ID"
+},
+{
+"k": "org:poltekkes-kemenkes-malang",
+"t": "academic",
+"n": "Poltekkes Kemenkes Malang",
+"sub": "",
+"url": "",
+"c": "ID"
+},
+{
+"k": "person:hsiaoyean-chiu",
+"t": "person",
+"n": "Hsiao‐Yean Chiu",
+"sub": "Taipei Medical University",
+"url": "https://orcid.org/0000-0002-6419-9309",
+"c": "TW"
+},
+{
+"k": "org:taipei-medical-university",
+"t": "academic",
+"n": "Taipei Medical University",
+"sub": "",
+"url": "",
+"c": "TW"
+},
+{
+"k": "org:ministry-of-science-and-technology-taiwan",
+"t": "funder",
+"n": "Ministry of Science and Technology, Taiwan",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:faculty-of-medicine-and-health-university-of-sydney",
+"t": "funder",
+"n": "Faculty of Medicine and Health, University of Sydney",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36563570",
+"t": "paper",
+"n": "Repetitive transcranial magnetic stimulation in primary sleep disorders",
+"sub": "Sleep Medicine Reviews 2022 · cited 131",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36563570",
+"c": ""
+},
+{
+"k": "person:giuseppe-lanza",
+"t": "person",
+"n": "Giuseppe Lanza",
+"sub": "University of Catania",
+"url": "https://orcid.org/0000-0002-5659-662X",
+"c": "IT"
+},
+{
+"k": "org:university-of-catania",
+"t": "academic",
+"n": "University of Catania",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:raffaele-ferri",
+"t": "person",
+"n": "Raffaele Ferri",
+"sub": "Oasi Maria SS",
+"url": "https://orcid.org/0000-0001-6937-3065",
+"c": "IT"
+},
+{
+"k": "org:oasi-maria-ss",
+"t": "academic",
+"n": "Oasi Maria SS",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:i-r-c-c-s-oasi-maria-ss",
+"t": "academic",
+"n": "I.R.C.C.S. Oasi Maria SS",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "paper:pmid-38942041",
+"t": "paper",
+"n": "Sleep and sleep disorders in people with Parkinson's disease",
+"sub": "The Lancet Neurology 2024 · cited 129",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38942041",
+"c": ""
+},
+{
+"k": "person:alex-iranzo",
+"t": "person",
+"n": "Álex Iranzo",
+"sub": "Biomedical Research Networking Center on Neurodegenerative Diseases",
+"url": "https://orcid.org/0000-0002-5618-8271",
+"c": "ES"
+},
+{
+"k": "org:biomedical-research-networking-center-on-neurodegenerative-d",
+"t": "academic",
+"n": "Biomedical Research Networking Center on Neurodegenerative Diseases",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "org:hospital-clinic-de-barcelona",
+"t": "hospital",
+"n": "Hospital Clínic de Barcelona",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "person:lynn-marie-trotti",
+"t": "person",
+"n": "Lynn Marie Trotti",
+"sub": "Emory University",
+"url": "https://orcid.org/0000-0003-2329-6847",
+"c": "US"
+},
+{
+"k": "org:emory-university",
+"t": "academic",
+"n": "Emory University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-40180826",
+"t": "paper",
+"n": "Obesity and sleep disorders: A bidirectional relationship",
+"sub": "Nutrition Metabolism and Cardiovascular Diseases 2025 · cited 125",
+"url": "https://pubmed.ncbi.nlm.nih.gov/40180826",
+"c": ""
+},
+{
+"k": "person:michela-figorilli",
+"t": "person",
+"n": "Michela Figorilli",
+"sub": "University of Cagliari",
+"url": "https://orcid.org/0000-0002-1638-1384",
+"c": "IT"
+},
+{
+"k": "org:university-of-cagliari",
+"t": "academic",
+"n": "University of Cagliari",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:stefania-redolfi",
+"t": "person",
+"n": "Stefania Redolfi",
+"sub": "University of Cagliari",
+"url": "https://orcid.org/0000-0002-5645-5763",
+"c": "IT"
+},
+{
+"k": "paper:pmid-32280974",
+"t": "paper",
+"n": "The prevalence of common sleep disorders in young adults: a descriptive population-based s",
+"sub": "SLEEP 2020 · cited 123",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32280974",
+"c": ""
+},
+{
+"k": "person:nigel-mcardle",
+"t": "person",
+"n": "Nigel McArdle",
+"sub": "The University of Western Australia",
+"url": "https://orcid.org/0000-0002-3199-8569",
+"c": "AU"
+},
+{
+"k": "person:peter-r-eastwood",
+"t": "person",
+"n": "Peter R. Eastwood",
+"sub": "The University of Western Australia",
+"url": "https://orcid.org/0000-0002-4490-4138",
+"c": "AU"
+},
+{
+"k": "org:telethon-kids-institute",
+"t": "funder",
+"n": "Telethon Kids Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:raine-medical-research-foundation",
+"t": "funder",
+"n": "Raine Medical Research Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:women-and-infants-research-foundation",
+"t": "funder",
+"n": "Women and Infants Research Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:curtin-university-of-technology",
+"t": "funder",
+"n": "Curtin University of Technology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34879286",
+"t": "paper",
+"n": "Associations between sleep bruxism and other sleep-related disorders in adults: a systemat",
+"sub": "Sleep Medicine 2021 · cited 116",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34879286",
+"c": ""
+},
+{
+"k": "person:boyuan-kuang",
+"t": "person",
+"n": "Boyuan Kuang",
+"sub": "Academic Center for Dentistry Amsterdam",
+"url": "https://orcid.org/0000-0003-0519-8290",
+"c": "NL"
+},
+{
+"k": "org:academic-center-for-dentistry-amsterdam",
+"t": "academic",
+"n": "Academic Center for Dentistry Amsterdam",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "org:vrije-universiteit-amsterdam",
+"t": "academic",
+"n": "Vrije Universiteit Amsterdam",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "person:deshui-li",
+"t": "person",
+"n": "Deshui Li",
+"sub": "Academic Center for Dentistry Amsterdam",
+"url": "https://orcid.org/0000-0003-4216-0240",
+"c": "NL"
+},
+{
+"k": "person:ghizlane-aarab",
+"t": "person",
+"n": "Ghizlane Aarab",
+"sub": "Academic Center for Dentistry Amsterdam",
+"url": "https://orcid.org/0000-0002-6677-7897",
+"c": "NL"
+},
+{
+"k": "org:china-scholarship-council",
+"t": "funder",
+"n": "China Scholarship Council",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36600470",
+"t": "paper",
+"n": "Worldwide estimation of restless legs syndrome: a systematic review and meta‐analysis of p",
+"sub": "Journal of Sleep Research 2023 · cited 115",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36600470",
+"c": ""
+},
+{
+"k": "person:anders-brostrom",
+"t": "person",
+"n": "Anders Broström",
+"sub": "Linköping University Hospital",
+"url": "https://orcid.org/0000-0002-0433-0619",
+"c": "SE"
+},
+{
+"k": "org:linkoping-university-hospital",
+"t": "hospital",
+"n": "Linköping University Hospital",
+"sub": "",
+"url": "",
+"c": "SE"
+},
+{
+"k": "org:jonkoping-university",
+"t": "academic",
+"n": "Jönköping University",
+"sub": "",
+"url": "",
+"c": "SE"
+},
+{
+"k": "person:amir-h-pakpour",
+"t": "person",
+"n": "Amir H. Pakpour",
+"sub": "Jönköping University",
+"url": "https://orcid.org/0000-0002-8798-5345",
+"c": "SE"
+},
+{
+"k": "org:forskningsradet-i-sydostra-sverige",
+"t": "funder",
+"n": "Forskningsrådet i Sydöstra Sverige",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:norges-forskningsrad",
+"t": "funder",
+"n": "Norges Forskningsråd",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:futurum-akademin-for-halsa-och-vard-region-jonkopings-lans",
+"t": "funder",
+"n": "Futurum - Akademin för Hälsa och Vård, Region Jönköpings läns",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33766925",
+"t": "paper",
+"n": "Effect of Aerobic Exercise on Dialysis-Related Symptoms in Individuals Undergoing Maintena",
+"sub": "Clinical Journal of the American Society of Nephrology 2021 · cited 114",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33766925",
+"c": ""
+},
+{
+"k": "person:nicholas-hargrove",
+"t": "person",
+"n": "Nicholas Hargrove",
+"sub": "University of Manitoba",
+"url": "",
+"c": "CA"
+},
+{
+"k": "org:university-of-manitoba",
+"t": "academic",
+"n": "University of Manitoba",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "person:clara-j-bohm",
+"t": "person",
+"n": "Clara J Bohm",
+"sub": "Seven Oaks General Hospital",
+"url": "https://orcid.org/0000-0001-7710-7162",
+"c": "CA"
+},
+{
+"k": "org:seven-oaks-general-hospital",
+"t": "hospital",
+"n": "Seven Oaks General Hospital",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "paper:pmid-32546134",
+"t": "paper",
+"n": "Antidepressants and movement disorders: a postmarketing study in the world pharmacovigilan",
+"sub": "BMC Psychiatry 2020 · cited 110",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32546134",
+"c": ""
+},
+{
+"k": "person:alexis-revet",
+"t": "person",
+"n": "Alexis Revet",
+"sub": "Université Toulouse III - Paul Sabatier",
+"url": "https://orcid.org/0000-0002-8051-1657",
+"c": "FR"
+},
+{
+"k": "org:universite-toulouse-iii-paul-sabatier",
+"t": "academic",
+"n": "Université Toulouse III - Paul Sabatier",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:thi-thu-ha-nguyen",
+"t": "person",
+"n": "Thi Thu Ha Nguyen",
+"sub": "Université Toulouse III - Paul Sabatier",
+"url": "https://orcid.org/0000-0003-4627-0658",
+"c": "FR"
+},
+{
+"k": "org:world-health-organization",
+"t": "funder",
+"n": "World Health Organization",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:fondation-pierre-deniker-pour-la-recherche-et-la-prevention",
+"t": "funder",
+"n": "Fondation Pierre Deniker pour la Recherche et la Prévention en Santé Mentale",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34504473",
+"t": "paper",
+"n": "Thyroid Dysfunction and Sleep Disorders",
+"sub": "Frontiers in Endocrinology 2021 · cited 110",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34504473",
+"c": ""
+},
+{
+"k": "person:max-e-green",
+"t": "person",
+"n": "Max E. Green",
+"sub": "Mayo Clinic",
+"url": "https://orcid.org/0000-0001-9651-2817",
+"c": "US"
+},
+{
+"k": "org:mayo-clinic-in-florida",
+"t": "hospital",
+"n": "Mayo Clinic in Florida",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:joseph-cheung",
+"t": "person",
+"n": "Joseph Cheung",
+"sub": "Mayo Clinic in Florida",
+"url": "https://orcid.org/0000-0002-1222-7603",
+"c": "US"
+},
+{
+"k": "paper:pmid-33580483",
+"t": "paper",
+"n": "Effects of Cannabinoids on Sleep and their Therapeutic Potential for Sleep Disorders",
+"sub": "Neurotherapeutics 2021 · cited 109",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33580483",
+"c": ""
+},
+{
+"k": "person:malvika-kaul",
+"t": "person",
+"n": "Malvika Kaul",
+"sub": "University of Illinois Chicago",
+"url": "https://orcid.org/0000-0002-8301-1922",
+"c": "US"
+},
+{
+"k": "org:university-of-illinois-chicago",
+"t": "academic",
+"n": "University of Illinois Chicago",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:ashima-sahni",
+"t": "person",
+"n": "Ashima Sahni",
+"sub": "University of Illinois Chicago",
+"url": "https://orcid.org/0000-0001-7531-2955",
+"c": "US"
+},
+{
+"k": "paper:pmid-33029723",
+"t": "paper",
+"n": "Sleep Issues in Parkinson's Disease and Their Management",
+"sub": "Neurotherapeutics 2020 · cited 108",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33029723",
+"c": ""
+},
+{
+"k": "person:jose-rafael-p-zuzuarregui",
+"t": "person",
+"n": "José Rafael P. Zuzuárregui",
+"sub": "University of California, San Francisco",
+"url": "https://orcid.org/0000-0002-8556-5275",
+"c": "US"
+},
+{
+"k": "org:university-of-california-san-francisco",
+"t": "academic",
+"n": "University of California, San Francisco",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:emmanuel-during",
+"t": "person",
+"n": "Emmanuel During",
+"sub": "Stanford Medicine",
+"url": "https://orcid.org/0000-0002-0539-5115",
+"c": "US"
+},
+{
+"k": "org:stanford-medicine",
+"t": "hospital",
+"n": "Stanford Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-32173186",
+"t": "paper",
+"n": "Effects of repetitive transcranial magnetic stimulation in subjects with sleep disorders",
+"sub": "Sleep Medicine 2020 · cited 102",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32173186",
+"c": ""
+},
+{
+"k": "person:raffaele-nardone",
+"t": "person",
+"n": "Raffaele Nardone",
+"sub": "Paracelsus Medical University",
+"url": "https://orcid.org/0000-0001-5243-6760",
+"c": "AT"
+},
+{
+"k": "org:paracelsus-medical-university",
+"t": "academic",
+"n": "Paracelsus Medical University",
+"sub": "",
+"url": "",
+"c": "AT"
+},
+{
+"k": "org:christian-doppler-klinik",
+"t": "hospital",
+"n": "Christian Doppler Klinik",
+"sub": "",
+"url": "",
+"c": "AT"
+},
+{
+"k": "person:eugen-trinka",
+"t": "person",
+"n": "Eugen Trinka",
+"sub": "University of Salzburg",
+"url": "https://orcid.org/0000-0002-5950-2692",
+"c": "AT"
+},
+{
+"k": "org:university-of-salzburg",
+"t": "academic",
+"n": "University of Salzburg",
+"sub": "",
+"url": "",
+"c": "AT"
+},
+{
+"k": "paper:pmid-34463249",
+"t": "paper",
+"n": "Disrupted nighttime sleep and sleep instability in narcolepsy",
+"sub": "Journal of Clinical Sleep Medicine 2021 · cited 98",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34463249",
+"c": ""
+},
+{
+"k": "person:kiran-prasad-maski",
+"t": "person",
+"n": "Kiran Prasad Maski",
+"sub": "Boston Children's Hospital",
+"url": "https://orcid.org/0000-0003-4073-4036",
+"c": "US"
+},
+{
+"k": "org:boston-children-s-hospital",
+"t": "hospital",
+"n": "Boston Children's Hospital",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:national-institute-of-neurological-disorders-and-stroke",
+"t": "funder",
+"n": "National Institute of Neurological Disorders and Stroke",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36342675",
+"t": "paper",
+"n": "Widening the Spectrum of Risk Factors, Comorbidities, and Prodromal Features of Parkinson ",
+"sub": "JAMA Neurology 2022 · cited 95",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36342675",
+"c": ""
+},
+{
+"k": "person:anette-e-schrag",
+"t": "person",
+"n": "Anette E. Schrag",
+"sub": "University College London",
+"url": "https://orcid.org/0000-0002-9872-6680",
+"c": "GB"
+},
+{
+"k": "person:jakob-holstiege",
+"t": "person",
+"n": "Jakob Holstiege",
+"sub": "",
+"url": "https://orcid.org/0000-0003-1337-6640",
+"c": ""
+},
+{
+"k": "paper:pmid-32006640",
+"t": "paper",
+"n": "The association between sleep and diabetes outcomes – A systematic review",
+"sub": "Diabetes Research and Clinical Practice 2020 · cited 94",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32006640",
+"c": ""
+},
+{
+"k": "person:marina-khalil",
+"t": "person",
+"n": "Marina Khalil",
+"sub": "Douglas Mental Health University Institute",
+"url": "",
+"c": "CA"
+},
+{
+"k": "org:douglas-mental-health-university-institute",
+"t": "hospital",
+"n": "Douglas Mental Health University Institute",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "org:mcgill-university",
+"t": "academic",
+"n": "McGill University",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "person:norbert-schmitz",
+"t": "person",
+"n": "Norbert Schmitz",
+"sub": "Douglas Mental Health University Institute",
+"url": "https://orcid.org/0000-0001-7777-6323",
+"c": "CA"
+},
+{
+"k": "paper:pmid-38424131",
+"t": "paper",
+"n": "Sleep disorders in Parkinson’s disease, an early and multiple problem",
+"sub": "npj Parkinson s Disease 2024 · cited 94",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38424131",
+"c": ""
+},
+{
+"k": "person:pauline-dodet",
+"t": "person",
+"n": "Pauline Dodet",
+"sub": "Centre National de la Recherche Scientifique",
+"url": "https://orcid.org/0000-0002-7078-8345",
+"c": "FR"
+},
+{
+"k": "org:centre-national-de-la-recherche-scientifique",
+"t": "funder",
+"n": "Centre National de la Recherche Scientifique",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:isabelle-arnulf",
+"t": "person",
+"n": "Isabelle Arnulf",
+"sub": "Centre National de la Recherche Scientifique",
+"url": "https://orcid.org/0000-0002-2240-2516",
+"c": "FR"
+},
+{
+"k": "org:eu-joint-programme-neurodegenerative-disease-research",
+"t": "funder",
+"n": "EU Joint Programme – Neurodegenerative Disease Research",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:philippe-foundation",
+"t": "funder",
+"n": "Philippe Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:agence-nationale-de-la-recherche",
+"t": "funder",
+"n": "Agence Nationale de la Recherche",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:servier",
+"t": "funder",
+"n": "Servier",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32719975",
+"t": "paper",
+"n": "A global view of comorbidity in multiple sclerosis: a systematic review with a focus on re",
+"sub": "Journal of Neurology 2020 · cited 93",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32719975",
+"c": ""
+},
+{
+"k": "person:larissa-hauer",
+"t": "person",
+"n": "Larissa Hauer",
+"sub": "Paracelsus Medical University",
+"url": "",
+"c": "AT"
+},
+{
+"k": "person:johann-sellner",
+"t": "person",
+"n": "Johann Sellner",
+"sub": "Paracelsus Medical University",
+"url": "https://orcid.org/0000-0001-8749-5533",
+"c": "AT"
+},
+{
+"k": "org:tum-klinikum",
+"t": "hospital",
+"n": "TUM Klinikum",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:paracelsus-medizinische-privatuniversitat",
+"t": "funder",
+"n": "Paracelsus Medizinische Privatuniversität",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32156230",
+"t": "paper",
+"n": "Vitamin D and Sleep Regulation: Is there a Role for Vitamin D?",
+"sub": "Current Pharmaceutical Design 2020 · cited 91",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32156230",
+"c": ""
+},
+{
+"k": "person:fiammetta-romano",
+"t": "person",
+"n": "Fiammetta Romano",
+"sub": "University of Naples Federico II",
+"url": "https://orcid.org/0000-0002-8825-9257",
+"c": "IT"
+},
+{
+"k": "org:university-of-naples-federico-ii",
+"t": "academic",
+"n": "University of Naples Federico II",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:carolina-di-somma",
+"t": "person",
+"n": "Carolina Di Somma",
+"sub": "University of Naples Federico II",
+"url": "https://orcid.org/0000-0002-5724-1951",
+"c": "IT"
+},
+{
+"k": "paper:pmid-38789686",
+"t": "paper",
+"n": "Sleep disorders in chronic kidney disease",
+"sub": "Nature Reviews Nephrology 2024 · cited 88",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38789686",
+"c": ""
+},
+{
+"k": "person:owen-d-lyons",
+"t": "person",
+"n": "Owen D. Lyons",
+"sub": "University of Toronto",
+"url": "https://orcid.org/0000-0002-5892-1836",
+"c": "CA"
+},
+{
+"k": "org:university-of-toronto",
+"t": "academic",
+"n": "University of Toronto",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "org:toronto-rehabilitation-institute",
+"t": "hospital",
+"n": "Toronto Rehabilitation Institute",
+"sub": "",
+"url": "",
+"c": "CA"
 }
 ],
 "edges": [
@@ -1070,6 +2631,16 @@
 "r": "tested_in"
 },
 {
+"a": "org:agence-nationale-de-la-recherche",
+"b": "paper:pmid-38424131",
+"r": "funded"
+},
+{
+"a": "org:american-regent",
+"b": "paper:pmid-34218864",
+"r": "funded"
+},
+{
 "a": "org:artemis-institute-for-clinical-research",
 "b": "trial:nct03051256",
 "r": "site_of"
@@ -1083,6 +2654,16 @@
 "a": "org:biopharmaceutical-research-company",
 "b": "trial:nct07224932",
 "r": "collaborates"
+},
+{
+"a": "org:center-for-clinical-and-translational-science-mayo-clinic",
+"b": "paper:pmid-33880737",
+"r": "funded"
+},
+{
+"a": "org:china-scholarship-council",
+"b": "paper:pmid-34879286",
+"r": "funded"
 },
 {
 "a": "org:chu-de-montpellier",
@@ -1110,6 +2691,11 @@
 "r": "site_of"
 },
 {
+"a": "org:curtin-university-of-technology",
+"b": "paper:pmid-32280974",
+"r": "funded"
+},
+{
 "a": "org:diego-garcia-borreguero-md-phd",
 "b": "drug:suvorexant",
 "r": "develops"
@@ -1125,9 +2711,34 @@
 "r": "site_of"
 },
 {
+"a": "org:eu-joint-programme-neurodegenerative-disease-research",
+"b": "paper:pmid-38424131",
+"r": "funded"
+},
+{
+"a": "org:faculty-of-medicine-and-health-university-of-sydney",
+"b": "paper:pmid-33406871",
+"r": "funded"
+},
+{
 "a": "org:first-affiliated-hospital-of-chongqing-medical-university",
 "b": "trial:nct07199504",
 "r": "site_of"
+},
+{
+"a": "org:fondation-pierre-deniker-pour-la-recherche-et-la-prevention",
+"b": "paper:pmid-32546134",
+"r": "funded"
+},
+{
+"a": "org:forskningsradet-i-sydostra-sverige",
+"b": "paper:pmid-36600470",
+"r": "funded"
+},
+{
+"a": "org:futurum-akademin-for-halsa-och-vard-region-jonkopings-lans",
+"b": "paper:pmid-36600470",
+"r": "funded"
 },
 {
 "a": "org:gavin-foundation-clinical-stabilization-services",
@@ -1210,6 +2821,11 @@
 "r": "sponsors"
 },
 {
+"a": "org:mayo-clinic",
+"b": "paper:pmid-34504473",
+"r": "funded"
+},
+{
 "a": "org:mediolanum-cardio-research",
 "b": "trial:nct06735079",
 "r": "site_of"
@@ -1225,14 +2841,94 @@
 "r": "site_of"
 },
 {
+"a": "org:ministero-della-salute",
+"b": "paper:pmid-34261435",
+"r": "funded"
+},
+{
+"a": "org:ministry-of-science-and-technology-taiwan",
+"b": "paper:pmid-33406871",
+"r": "funded"
+},
+{
+"a": "org:national-center-for-advancing-translational-sciences",
+"b": "paper:pmid-39324694",
+"r": "funded"
+},
+{
+"a": "org:national-center-for-research-resources",
+"b": "paper:pmid-33880737",
+"r": "funded"
+},
+{
+"a": "org:national-heart-lung-and-blood-institute",
+"b": "paper:pmid-34401953",
+"r": "funded"
+},
+{
+"a": "org:national-heart-lung-and-blood-institute",
+"b": "paper:pmid-36153674",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-neurological-disorders-and-stroke",
+"b": "paper:pmid-34463249",
+"r": "funded"
+},
+{
+"a": "org:national-institute-on-aging",
+"b": "paper:pmid-33880737",
+"r": "funded"
+},
+{
+"a": "org:national-institute-on-aging",
+"b": "paper:pmid-34401953",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-33880737",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-34401953",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-36153674",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-39324694",
+"r": "funded"
+},
+{
 "a": "org:neurologie-schlaflabor-kantonsspital-graubunden",
 "b": "trial:nct04145674",
 "r": "site_of"
 },
 {
+"a": "org:norges-forskningsrad",
+"b": "paper:pmid-36600470",
+"r": "funded"
+},
+{
 "a": "org:nova-scotia-health-authority",
 "b": "trial:nct03806530",
 "r": "site_of"
+},
+{
+"a": "org:paracelsus-medizinische-privatuniversitat",
+"b": "paper:pmid-32719975",
+"r": "funded"
+},
+{
+"a": "org:philippe-foundation",
+"b": "paper:pmid-38424131",
+"r": "funded"
 },
 {
 "a": "org:pillar-clinical-research",
@@ -1253,6 +2949,11 @@
 "a": "org:population-health-research-institute",
 "b": "trial:nct03806530",
 "r": "sponsors"
+},
+{
+"a": "org:raine-medical-research-foundation",
+"b": "paper:pmid-32280974",
+"r": "funded"
 },
 {
 "a": "org:relmada-site",
@@ -1315,6 +3016,21 @@
 "r": "sponsors"
 },
 {
+"a": "org:resmed",
+"b": "paper:pmid-34015136",
+"r": "funded"
+},
+{
+"a": "org:resmed-foundation",
+"b": "paper:pmid-34015136",
+"r": "funded"
+},
+{
+"a": "org:restless-legs-syndrome-foundation",
+"b": "paper:pmid-34218864",
+"r": "funded"
+},
+{
 "a": "org:rl0007-101",
 "b": "trial:nct03992196",
 "r": "site_of"
@@ -1353,6 +3069,11 @@
 "a": "org:seoul-national-university-hospital",
 "b": "trial:nct04161027",
 "r": "sponsors"
+},
+{
+"a": "org:servier",
+"b": "paper:pmid-38424131",
+"r": "funded"
 },
 {
 "a": "org:sleep-center-irccs-san-raffaele",
@@ -1410,9 +3131,24 @@
 "r": "sponsors"
 },
 {
+"a": "org:taipei-medical-university",
+"b": "paper:pmid-33406871",
+"r": "funded"
+},
+{
+"a": "org:telethon-kids-institute",
+"b": "paper:pmid-32280974",
+"r": "funded"
+},
+{
 "a": "org:the-ottawa-hospital",
 "b": "trial:nct03806530",
 "r": "site_of"
+},
+{
+"a": "org:u-s-department-of-defense",
+"b": "paper:pmid-34218864",
+"r": "funded"
 },
 {
 "a": "org:ucb-biopharma",
@@ -1470,9 +3206,24 @@
 "r": "sponsors"
 },
 {
+"a": "org:university-of-sydney",
+"b": "paper:pmid-32603954",
+"r": "funded"
+},
+{
+"a": "org:women-and-infants-research-foundation",
+"b": "paper:pmid-32280974",
+"r": "funded"
+},
+{
 "a": "org:woodland-international-research-group",
 "b": "trial:nct03051256",
 "r": "site_of"
+},
+{
+"a": "org:world-health-organization",
+"b": "paper:pmid-32546134",
+"r": "funded"
 },
 {
 "a": "org:yunfeng-xia",
@@ -1485,6 +3236,46 @@
 "r": "sponsors"
 },
 {
+"a": "person:alberto-raggi",
+"b": "org:fondazione-irccs-istituto-neurologico-carlo-besta",
+"r": "affiliated"
+},
+{
+"a": "person:alberto-raggi",
+"b": "paper:pmid-34261435",
+"r": "authored"
+},
+{
+"a": "person:alex-iranzo",
+"b": "org:biomedical-research-networking-center-on-neurodegenerative-d",
+"r": "affiliated"
+},
+{
+"a": "person:alex-iranzo",
+"b": "org:hospital-clinic-de-barcelona",
+"r": "affiliated"
+},
+{
+"a": "person:alex-iranzo",
+"b": "paper:pmid-38942041",
+"r": "authored"
+},
+{
+"a": "person:alexis-revet",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:alexis-revet",
+"b": "org:universite-toulouse-iii-paul-sabatier",
+"r": "affiliated"
+},
+{
+"a": "person:alexis-revet",
+"b": "paper:pmid-32546134",
+"r": "authored"
+},
+{
 "a": "person:alison-e-pritchard",
 "b": "org:hugo-w-moser-research-institute-at-kennedy-krieger",
 "r": "affiliated"
@@ -1493,6 +3284,301 @@
 "a": "person:alison-e-pritchard",
 "b": "trial:nct07061470",
 "r": "investigator"
+},
+{
+"a": "person:amir-h-pakpour",
+"b": "org:jonkoping-university",
+"r": "affiliated"
+},
+{
+"a": "person:amir-h-pakpour",
+"b": "paper:pmid-36600470",
+"r": "authored"
+},
+{
+"a": "person:anastasia-s-suraev",
+"b": "org:the-university-of-sydney",
+"r": "affiliated"
+},
+{
+"a": "person:anastasia-s-suraev",
+"b": "org:woolcock-institute-of-medical-research",
+"r": "affiliated"
+},
+{
+"a": "person:anastasia-s-suraev",
+"b": "paper:pmid-32603954",
+"r": "authored"
+},
+{
+"a": "person:anders-brostrom",
+"b": "org:jonkoping-university",
+"r": "affiliated"
+},
+{
+"a": "person:anders-brostrom",
+"b": "org:linkoping-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:anders-brostrom",
+"b": "paper:pmid-36600470",
+"r": "authored"
+},
+{
+"a": "person:anette-e-schrag",
+"b": "org:university-college-london",
+"r": "affiliated"
+},
+{
+"a": "person:anette-e-schrag",
+"b": "paper:pmid-36342675",
+"r": "authored"
+},
+{
+"a": "person:arthur-scott-walters",
+"b": "org:vanderbilt-university",
+"r": "affiliated"
+},
+{
+"a": "person:arthur-scott-walters",
+"b": "paper:pmid-39324694",
+"r": "authored"
+},
+{
+"a": "person:ashima-sahni",
+"b": "org:university-of-illinois-chicago",
+"r": "affiliated"
+},
+{
+"a": "person:ashima-sahni",
+"b": "paper:pmid-33580483",
+"r": "authored"
+},
+{
+"a": "person:ashley-e-benson",
+"b": "org:oregon-health-science-university",
+"r": "affiliated"
+},
+{
+"a": "person:ashley-e-benson",
+"b": "paper:pmid-36153674",
+"r": "authored"
+},
+{
+"a": "person:boyuan-kuang",
+"b": "org:academic-center-for-dentistry-amsterdam",
+"r": "affiliated"
+},
+{
+"a": "person:boyuan-kuang",
+"b": "org:vrije-universiteit-amsterdam",
+"r": "affiliated"
+},
+{
+"a": "person:boyuan-kuang",
+"b": "paper:pmid-34879286",
+"r": "authored"
+},
+{
+"a": "person:camilla-m-hoyos",
+"b": "org:the-university-of-sydney",
+"r": "affiliated"
+},
+{
+"a": "person:camilla-m-hoyos",
+"b": "org:woolcock-institute-of-medical-research",
+"r": "affiliated"
+},
+{
+"a": "person:camilla-m-hoyos",
+"b": "paper:pmid-32603954",
+"r": "authored"
+},
+{
+"a": "person:carolina-di-somma",
+"b": "org:university-of-naples-federico-ii",
+"r": "affiliated"
+},
+{
+"a": "person:carolina-di-somma",
+"b": "paper:pmid-32156230",
+"r": "authored"
+},
+{
+"a": "person:charenya-anandan",
+"b": "org:baylor-college-of-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:charenya-anandan",
+"b": "paper:pmid-33430071",
+"r": "authored"
+},
+{
+"a": "person:clara-j-bohm",
+"b": "org:seven-oaks-general-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:clara-j-bohm",
+"b": "org:university-of-manitoba",
+"r": "affiliated"
+},
+{
+"a": "person:clara-j-bohm",
+"b": "paper:pmid-33766925",
+"r": "authored"
+},
+{
+"a": "person:david-r-hillman",
+"b": "org:sir-charles-gairdner-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:david-r-hillman",
+"b": "org:the-university-of-western-australia",
+"r": "affiliated"
+},
+{
+"a": "person:david-r-hillman",
+"b": "paper:pmid-34015136",
+"r": "authored"
+},
+{
+"a": "person:deshui-li",
+"b": "org:academic-center-for-dentistry-amsterdam",
+"r": "affiliated"
+},
+{
+"a": "person:deshui-li",
+"b": "org:vrije-universiteit-amsterdam",
+"r": "affiliated"
+},
+{
+"a": "person:deshui-li",
+"b": "paper:pmid-34879286",
+"r": "authored"
+},
+{
+"a": "person:emmanuel-during",
+"b": "org:stanford-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:emmanuel-during",
+"b": "paper:pmid-33029723",
+"r": "authored"
+},
+{
+"a": "person:erik-k-st-louis",
+"b": "org:mayo-clinic",
+"r": "affiliated"
+},
+{
+"a": "person:erik-k-st-louis",
+"b": "paper:pmid-33880737",
+"r": "authored"
+},
+{
+"a": "person:eugen-trinka",
+"b": "org:paracelsus-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:eugen-trinka",
+"b": "org:university-of-salzburg",
+"r": "affiliated"
+},
+{
+"a": "person:eugen-trinka",
+"b": "paper:pmid-32173186",
+"r": "authored"
+},
+{
+"a": "person:faizul-hasan",
+"b": "org:kementerian-kesehatan-republik-indonesia",
+"r": "affiliated"
+},
+{
+"a": "person:faizul-hasan",
+"b": "org:poltekkes-kemenkes-malang",
+"r": "affiliated"
+},
+{
+"a": "person:faizul-hasan",
+"b": "paper:pmid-33406871",
+"r": "authored"
+},
+{
+"a": "person:femke-rutters",
+"b": "org:amsterdam-umc-location-vrije-universiteit-amsterdam",
+"r": "affiliated"
+},
+{
+"a": "person:femke-rutters",
+"b": "paper:pmid-34401953",
+"r": "authored"
+},
+{
+"a": "person:fiammetta-romano",
+"b": "org:university-of-naples-federico-ii",
+"r": "affiliated"
+},
+{
+"a": "person:fiammetta-romano",
+"b": "paper:pmid-32156230",
+"r": "authored"
+},
+{
+"a": "person:ghizlane-aarab",
+"b": "org:academic-center-for-dentistry-amsterdam",
+"r": "affiliated"
+},
+{
+"a": "person:ghizlane-aarab",
+"b": "org:vrije-universiteit-amsterdam",
+"r": "affiliated"
+},
+{
+"a": "person:ghizlane-aarab",
+"b": "paper:pmid-34879286",
+"r": "authored"
+},
+{
+"a": "person:giuseppe-lanza",
+"b": "org:university-of-catania",
+"r": "affiliated"
+},
+{
+"a": "person:giuseppe-lanza",
+"b": "paper:pmid-36563570",
+"r": "authored"
+},
+{
+"a": "person:hsiaoyean-chiu",
+"b": "org:taipei-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:hsiaoyean-chiu",
+"b": "paper:pmid-33406871",
+"r": "authored"
+},
+{
+"a": "person:isabelle-arnulf",
+"b": "org:centre-national-de-la-recherche-scientifique",
+"r": "affiliated"
+},
+{
+"a": "person:isabelle-arnulf",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:isabelle-arnulf",
+"b": "paper:pmid-38424131",
+"r": "authored"
 },
 {
 "a": "person:jacquelyn-bainbridge",
@@ -1505,6 +3591,61 @@
 "r": "investigator"
 },
 {
+"a": "person:jakob-holstiege",
+"b": "paper:pmid-36342675",
+"r": "authored"
+},
+{
+"a": "person:jamie-oi-ting-lo",
+"b": "org:oregon-health-science-university",
+"r": "affiliated"
+},
+{
+"a": "person:jamie-oi-ting-lo",
+"b": "paper:pmid-36153674",
+"r": "authored"
+},
+{
+"a": "person:jared-streatfeild",
+"b": "paper:pmid-34015136",
+"r": "authored"
+},
+{
+"a": "person:jennifer-s-tirnauer",
+"b": "org:wolters-kluwer-health",
+"r": "affiliated"
+},
+{
+"a": "person:jennifer-s-tirnauer",
+"b": "paper:pmid-40159291",
+"r": "authored"
+},
+{
+"a": "person:jie-shi",
+"b": "org:peking-university",
+"r": "affiliated"
+},
+{
+"a": "person:jie-shi",
+"b": "paper:pmid-33571887",
+"r": "authored"
+},
+{
+"a": "person:johann-sellner",
+"b": "org:paracelsus-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:johann-sellner",
+"b": "org:tum-klinikum",
+"r": "affiliated"
+},
+{
+"a": "person:johann-sellner",
+"b": "paper:pmid-32719975",
+"r": "authored"
+},
+{
 "a": "person:john-w-winkelman",
 "b": "org:massachusetts-general-hospital",
 "r": "affiliated"
@@ -1515,6 +3656,56 @@
 "r": "investigator"
 },
 {
+"a": "person:john-weyl-winkelman",
+"b": "org:harvard-university",
+"r": "affiliated"
+},
+{
+"a": "person:john-weyl-winkelman",
+"b": "org:massachusetts-general-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:john-weyl-winkelman",
+"b": "paper:pmid-34218864",
+"r": "authored"
+},
+{
+"a": "person:john-weyl-winkelman",
+"b": "paper:pmid-39324694",
+"r": "authored"
+},
+{
+"a": "person:jose-rafael-p-zuzuarregui",
+"b": "org:university-of-california-san-francisco",
+"r": "affiliated"
+},
+{
+"a": "person:jose-rafael-p-zuzuarregui",
+"b": "paper:pmid-33029723",
+"r": "authored"
+},
+{
+"a": "person:joseph-cheung",
+"b": "org:mayo-clinic-in-florida",
+"r": "affiliated"
+},
+{
+"a": "person:joseph-cheung",
+"b": "paper:pmid-34504473",
+"r": "authored"
+},
+{
+"a": "person:joseph-j-jankovic",
+"b": "org:baylor-college-of-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:joseph-j-jankovic",
+"b": "paper:pmid-33430071",
+"r": "authored"
+},
+{
 "a": "person:ki-young-jung",
 "b": "org:seoul-national-university-hospital",
 "r": "affiliated"
@@ -1523,6 +3714,71 @@
 "a": "person:ki-young-jung",
 "b": "trial:nct04161027",
 "r": "investigator"
+},
+{
+"a": "person:kiran-prasad-maski",
+"b": "org:boston-children-s-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:kiran-prasad-maski",
+"b": "paper:pmid-34463249",
+"r": "authored"
+},
+{
+"a": "person:larissa-hauer",
+"b": "org:paracelsus-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:larissa-hauer",
+"b": "paper:pmid-32719975",
+"r": "authored"
+},
+{
+"a": "person:lin-lu",
+"b": "org:center-for-life-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:lin-lu",
+"b": "org:peking-university",
+"r": "affiliated"
+},
+{
+"a": "person:lin-lu",
+"b": "paper:pmid-33571887",
+"r": "authored"
+},
+{
+"a": "person:lynn-marie-trotti",
+"b": "org:emory-university",
+"r": "affiliated"
+},
+{
+"a": "person:lynn-marie-trotti",
+"b": "paper:pmid-38942041",
+"r": "authored"
+},
+{
+"a": "person:malvika-kaul",
+"b": "org:university-of-illinois-chicago",
+"r": "affiliated"
+},
+{
+"a": "person:malvika-kaul",
+"b": "paper:pmid-33580483",
+"r": "authored"
+},
+{
+"a": "person:manuela-deodato",
+"b": "org:university-of-trieste",
+"r": "affiliated"
+},
+{
+"a": "person:manuela-deodato",
+"b": "paper:pmid-34261435",
+"r": "authored"
 },
 {
 "a": "person:marco-pappagallo",
@@ -1548,6 +3804,21 @@
 "a": "person:marco-pappagallo",
 "b": "trial:nct06009003",
 "r": "investigator"
+},
+{
+"a": "person:marina-khalil",
+"b": "org:douglas-mental-health-university-institute",
+"r": "affiliated"
+},
+{
+"a": "person:marina-khalil",
+"b": "org:mcgill-university",
+"r": "affiliated"
+},
+{
+"a": "person:marina-khalil",
+"b": "paper:pmid-32006640",
+"r": "authored"
 },
 {
 "a": "person:mark-esguerra",
@@ -1576,8 +3847,73 @@
 },
 {
 "a": "person:mauro-manconi",
+"b": "org:ospedale-regionale-di-lugano",
+"r": "affiliated"
+},
+{
+"a": "person:mauro-manconi",
+"b": "org:university-of-bern",
+"r": "affiliated"
+},
+{
+"a": "person:mauro-manconi",
+"b": "paper:pmid-34732752",
+"r": "authored"
+},
+{
+"a": "person:mauro-manconi",
 "b": "trial:nct04145674",
 "r": "investigator"
+},
+{
+"a": "person:max-e-green",
+"b": "org:mayo-clinic",
+"r": "affiliated"
+},
+{
+"a": "person:max-e-green",
+"b": "org:mayo-clinic-in-florida",
+"r": "affiliated"
+},
+{
+"a": "person:max-e-green",
+"b": "paper:pmid-34504473",
+"r": "authored"
+},
+{
+"a": "person:mi-mi-zhang",
+"b": "org:peking-university",
+"r": "affiliated"
+},
+{
+"a": "person:mi-mi-zhang",
+"b": "org:xiamen-university",
+"r": "affiliated"
+},
+{
+"a": "person:mi-mi-zhang",
+"b": "paper:pmid-35041878",
+"r": "authored"
+},
+{
+"a": "person:michael-auerbach",
+"b": "org:georgetown-university",
+"r": "affiliated"
+},
+{
+"a": "person:michael-auerbach",
+"b": "paper:pmid-40159291",
+"r": "authored"
+},
+{
+"a": "person:michael-h-silber",
+"b": "org:mayo-clinic",
+"r": "affiliated"
+},
+{
+"a": "person:michael-h-silber",
+"b": "paper:pmid-34218864",
+"r": "authored"
 },
 {
 "a": "person:michael-walsh-c",
@@ -1588,6 +3924,71 @@
 "a": "person:michael-walsh-c",
 "b": "trial:nct03806530",
 "r": "investigator"
+},
+{
+"a": "person:michela-figorilli",
+"b": "org:university-of-cagliari",
+"r": "affiliated"
+},
+{
+"a": "person:michela-figorilli",
+"b": "paper:pmid-40180826",
+"r": "authored"
+},
+{
+"a": "person:nicholas-hargrove",
+"b": "org:university-of-manitoba",
+"r": "affiliated"
+},
+{
+"a": "person:nicholas-hargrove",
+"b": "paper:pmid-33766925",
+"r": "authored"
+},
+{
+"a": "person:nigel-mcardle",
+"b": "org:sir-charles-gairdner-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:nigel-mcardle",
+"b": "org:the-university-of-western-australia",
+"r": "affiliated"
+},
+{
+"a": "person:nigel-mcardle",
+"b": "paper:pmid-32280974",
+"r": "authored"
+},
+{
+"a": "person:norbert-schmitz",
+"b": "org:douglas-mental-health-university-institute",
+"r": "affiliated"
+},
+{
+"a": "person:norbert-schmitz",
+"b": "org:mcgill-university",
+"r": "affiliated"
+},
+{
+"a": "person:norbert-schmitz",
+"b": "paper:pmid-32006640",
+"r": "authored"
+},
+{
+"a": "person:owen-d-lyons",
+"b": "org:toronto-rehabilitation-institute",
+"r": "affiliated"
+},
+{
+"a": "person:owen-d-lyons",
+"b": "org:university-of-toronto",
+"r": "affiliated"
+},
+{
+"a": "person:owen-d-lyons",
+"b": "paper:pmid-38789686",
+"r": "authored"
 },
 {
 "a": "person:paul-greene",
@@ -1603,6 +4004,226 @@
 "a": "person:paul-greene",
 "b": "trial:nct06011577",
 "r": "investigator"
+},
+{
+"a": "person:pauline-dodet",
+"b": "org:centre-national-de-la-recherche-scientifique",
+"r": "affiliated"
+},
+{
+"a": "person:pauline-dodet",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:pauline-dodet",
+"b": "paper:pmid-38424131",
+"r": "authored"
+},
+{
+"a": "person:peter-r-eastwood",
+"b": "org:sir-charles-gairdner-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:peter-r-eastwood",
+"b": "org:the-university-of-western-australia",
+"r": "affiliated"
+},
+{
+"a": "person:peter-r-eastwood",
+"b": "paper:pmid-32280974",
+"r": "authored"
+},
+{
+"a": "person:qing-dong-lu",
+"b": "org:peking-university",
+"r": "affiliated"
+},
+{
+"a": "person:qing-dong-lu",
+"b": "paper:pmid-33571887",
+"r": "authored"
+},
+{
+"a": "person:raffaele-ferri",
+"b": "org:i-r-c-c-s-oasi-maria-ss",
+"r": "affiliated"
+},
+{
+"a": "person:raffaele-ferri",
+"b": "org:oasi-maria-ss",
+"r": "affiliated"
+},
+{
+"a": "person:raffaele-ferri",
+"b": "paper:pmid-36563570",
+"r": "authored"
+},
+{
+"a": "person:raffaele-nardone",
+"b": "org:christian-doppler-klinik",
+"r": "affiliated"
+},
+{
+"a": "person:raffaele-nardone",
+"b": "org:paracelsus-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:raffaele-nardone",
+"b": "paper:pmid-32173186",
+"r": "authored"
+},
+{
+"a": "person:samantha-b-j-schipper",
+"b": "org:amsterdam-public-health",
+"r": "affiliated"
+},
+{
+"a": "person:samantha-b-j-schipper",
+"b": "org:amsterdam-umc-location-vrije-universiteit-amsterdam",
+"r": "affiliated"
+},
+{
+"a": "person:samantha-b-j-schipper",
+"b": "paper:pmid-34401953",
+"r": "authored"
+},
+{
+"a": "person:stefania-redolfi",
+"b": "org:university-of-cagliari",
+"r": "affiliated"
+},
+{
+"a": "person:stefania-redolfi",
+"b": "paper:pmid-40180826",
+"r": "authored"
+},
+{
+"a": "person:sudhansu-chokroverty",
+"b": "org:hackensack-meridian-health",
+"r": "affiliated"
+},
+{
+"a": "person:sudhansu-chokroverty",
+"b": "org:john-f-kennedy-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:sudhansu-chokroverty",
+"b": "paper:pmid-34391672",
+"r": "authored"
+},
+{
+"a": "person:sujay-m-kansagra",
+"b": "org:duke-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:sujay-m-kansagra",
+"b": "paper:pmid-32358212",
+"r": "authored"
+},
+{
+"a": "person:sushanth-bhat",
+"b": "org:hackensack-meridian-health",
+"r": "affiliated"
+},
+{
+"a": "person:sushanth-bhat",
+"b": "org:john-f-kennedy-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:sushanth-bhat",
+"b": "paper:pmid-34391672",
+"r": "authored"
+},
+{
+"a": "person:suxia-li",
+"b": "org:peking-university",
+"r": "affiliated"
+},
+{
+"a": "person:suxia-li",
+"b": "paper:pmid-35041878",
+"r": "authored"
+},
+{
+"a": "person:thi-thu-ha-nguyen",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:thi-thu-ha-nguyen",
+"b": "org:universite-toulouse-iii-paul-sabatier",
+"r": "affiliated"
+},
+{
+"a": "person:thi-thu-ha-nguyen",
+"b": "paper:pmid-32546134",
+"r": "authored"
+},
+{
+"a": "person:thomas-r-gossard",
+"b": "org:mayo-clinic",
+"r": "affiliated"
+},
+{
+"a": "person:thomas-r-gossard",
+"b": "paper:pmid-33880737",
+"r": "authored"
+},
+{
+"a": "person:valeria-caponnetto",
+"b": "org:university-of-l-aquila",
+"r": "affiliated"
+},
+{
+"a": "person:valeria-caponnetto",
+"b": "paper:pmid-34261435",
+"r": "authored"
+},
+{
+"a": "person:yanping-bao",
+"b": "org:peking-university",
+"r": "affiliated"
+},
+{
+"a": "person:yanping-bao",
+"b": "paper:pmid-33571887",
+"r": "authored"
+},
+{
+"a": "person:yves-a-dauvilliers",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:yves-a-dauvilliers",
+"b": "org:universite-de-montpellier",
+"r": "affiliated"
+},
+{
+"a": "person:yves-a-dauvilliers",
+"b": "paper:pmid-34463249",
+"r": "authored"
+},
+{
+"a": "person:yves-a-dauvilliers",
+"b": "paper:pmid-34732752",
+"r": "authored"
+},
+{
+"a": "person:zhe-li",
+"b": "org:university-college-london",
+"r": "affiliated"
+},
+{
+"a": "person:zhe-li",
+"b": "paper:pmid-35041878",
+"r": "authored"
 }
 ]
 }

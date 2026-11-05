@@ -1,10 +1,10 @@
 {
 "assetId": "alg055009",
-"updated": "2026-11-04",
+"updated": "2026-11-05",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
-"trials": 70,
-"papers": 87
+"trials": 69,
+"papers": 52
 },
 "nodes": [
 {
@@ -12,6 +12,30 @@
 "t": "asset",
 "n": "ALG-055009",
 "sub": "MASH; nonalcoholic steatohepatitis",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06342947",
+"t": "trial",
+"n": "ALG-055009 in Non-cirrhotic Adults With MASH (HERALD)",
+"sub": "P2 · completed · 2024-2024",
+"url": "https://clinicaltrials.gov/study/NCT06342947",
+"c": ""
+},
+{
+"k": "org:aligos-therapeutics",
+"t": "company",
+"n": "Aligos Therapeutics",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:stephen-harrison",
+"t": "person",
+"n": "Stephen Harrison",
+"sub": "principal investigator · ",
 "url": "",
 "c": ""
 },
@@ -24,12 +48,12 @@
 "c": ""
 },
 {
-"k": "org:aligos-therapeutics",
+"k": "org:ppd-austin-research-unit",
 "t": "company",
-"n": "Aligos Therapeutics",
+"n": "PPD Austin Research Unit",
 "sub": "",
 "url": "",
-"c": ""
+"c": "United States"
 },
 {
 "k": "trial:nct06959888",
@@ -40,6 +64,14 @@
 "c": ""
 },
 {
+"k": "org:ppd-austin-cru",
+"t": "company",
+"n": "PPD Austin CRU",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "trial:nct05090111",
 "t": "trial",
 "n": "A Study of ALG-055009 in Healthy Volunteers and Subjects With Hyperlipidemia",
@@ -48,11 +80,67 @@
 "c": ""
 },
 {
-"k": "trial:nct06342947",
+"k": "org:biotrial",
+"t": "company",
+"n": "Biotrial",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "trial:nct06836609",
 "t": "trial",
-"n": "ALG-055009 in Non-cirrhotic Adults With MASH (HERALD)",
-"sub": "P2 · completed · 2024-2024",
-"url": "https://clinicaltrials.gov/study/NCT06342947",
+"n": "A Study to Evaluate ALN-CIDEB in Adult Participants With Metabolic Dysfunction-Associated ",
+"sub": "P1/P2 · active_not_recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT06836609",
+"c": ""
+},
+{
+"k": "org:regeneron-pharmaceuticals",
+"t": "company",
+"n": "Regeneron Pharmaceuticals",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:arizona-liver-health",
+"t": "hospital",
+"n": "Arizona Liver Health",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:adobe-clinical-research",
+"t": "hospital",
+"n": "Adobe Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:richmond-pharmacology",
+"t": "company",
+"n": "Richmond Pharmacology Limited",
+"sub": "",
+"url": "",
+"c": "United Kingdom"
+},
+{
+"k": "org:parexel-international-early-phase-clinical-unit",
+"t": "hospital",
+"n": "Parexel International Early Phase Clinical Unit",
+"sub": "",
+"url": "",
+"c": "United Kingdom"
+},
+{
+"k": "drug:aln-cideb",
+"t": "drug",
+"n": "ALN-CIDEB",
+"sub": "Regeneron Pharmaceuticals",
+"url": "",
 "c": ""
 },
 {
@@ -96,14 +184,6 @@
 "c": ""
 },
 {
-"k": "org:regeneron-pharmaceuticals",
-"t": "company",
-"n": "Regeneron Pharmaceuticals",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "org:advanced-medical-trials",
 "t": "company",
 "n": "Advanced Medical Trials",
@@ -112,19 +192,11 @@
 "c": "United States"
 },
 {
-"k": "drug:aln-cideb",
-"t": "drug",
-"n": "ALN-CIDEB",
-"sub": "Regeneron Pharmaceuticals",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06632444",
+"k": "trial:nct06632457",
 "t": "trial",
-"n": "LIVERAGE™: A Study to Test Whether Survodutide Helps People With a Liver Disease Called NA",
-"sub": "P3 · recruiting · 2024-2031",
-"url": "https://clinicaltrials.gov/study/NCT06632444",
+"n": "LIVERAGE™ - Cirrhosis: A Study to Test Whether Survodutide Helps People With a Liver Disea",
+"sub": "P3 · recruiting · 2024-2029",
+"url": "https://clinicaltrials.gov/study/NCT06632457",
 "c": ""
 },
 {
@@ -147,14 +219,6 @@
 "k": "org:scottsdale-medical-specialists",
 "t": "company",
 "n": "Scottsdale Medical Specialists, Ltd",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:adobe-clinical-research",
-"t": "hospital",
-"n": "Adobe Clinical Research, LLC",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -208,12 +272,28 @@
 "c": "United States"
 },
 {
-"k": "trial:nct06632457",
+"k": "org:velocity-clinical-research-huntington-park",
+"t": "hospital",
+"n": "Velocity Clinical Research-Huntington Park",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct06632444",
 "t": "trial",
-"n": "LIVERAGE™ - Cirrhosis: A Study to Test Whether Survodutide Helps People With a Liver Disea",
-"sub": "P3 · recruiting · 2024-2029",
-"url": "https://clinicaltrials.gov/study/NCT06632457",
+"n": "LIVERAGE™: A Study to Test Whether Survodutide Helps People With a Liver Disease Called NA",
+"sub": "P3 · recruiting · 2024-2031",
+"url": "https://clinicaltrials.gov/study/NCT06632444",
 "c": ""
+},
+{
+"k": "org:university-of-alabama-at-birmingham",
+"t": "academic",
+"n": "University of Alabama at Birmingham",
+"sub": "",
+"url": "",
+"c": "United States"
 },
 {
 "k": "trial:nct07631637",
@@ -235,6 +315,22 @@
 "k": "org:california-liver-research-institute",
 "t": "academic",
 "n": "California Liver Research Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:inland-empire-clinical-trials",
+"t": "hospital",
+"n": "Inland Empire Clinical Trials",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:universal-axon-clinical-research",
+"t": "hospital",
+"n": "Universal Axon Clinical Research",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -264,17 +360,25 @@
 "c": "United States"
 },
 {
-"k": "trial:nct06419374",
+"k": "trial:nct06318169",
 "t": "trial",
-"n": "A Study to Evaluate the Efficacy and Safety of Pegozafermin in Participants With Compensat",
-"sub": "P3 · recruiting · 2024-2031",
-"url": "https://clinicaltrials.gov/study/NCT06419374",
+"n": "A Study Evaluating the Efficacy and Safety of Pegozafermin in Participants With MASH and F",
+"sub": "P3 · recruiting · 2024-2029",
+"url": "https://clinicaltrials.gov/study/NCT06318169",
 "c": ""
 },
 {
 "k": "org:hoffmann-la-roche",
 "t": "company",
 "n": "Hoffmann-La Roche",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:89bio",
+"t": "company",
+"n": "89bio, Inc.",
 "sub": "",
 "url": "",
 "c": ""
@@ -296,11 +400,11 @@
 "c": ""
 },
 {
-"k": "trial:nct06318169",
+"k": "trial:nct06419374",
 "t": "trial",
-"n": "A Study Evaluating the Efficacy and Safety of Pegozafermin in Participants With MASH and F",
-"sub": "P3 · recruiting · 2024-2029",
-"url": "https://clinicaltrials.gov/study/NCT06318169",
+"n": "A Study to Evaluate the Efficacy and Safety of Pegozafermin in Participants With Compensat",
+"sub": "P3 · recruiting · 2024-2031",
+"url": "https://clinicaltrials.gov/study/NCT06419374",
 "c": ""
 },
 {
@@ -392,6 +496,30 @@
 "c": ""
 },
 {
+"k": "org:arizona-clinical-trials-chandler",
+"t": "hospital",
+"n": "Arizona Clinical Trials - Chandler",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:velocity-clinical-research-san-diego",
+"t": "hospital",
+"n": "Velocity Clinical Research, San Diego",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:kaiser-permanente-los-angeles-medical-center",
+"t": "hospital",
+"n": "Kaiser Permanente - Los Angeles Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "org:catalina-research-institute",
 "t": "academic",
 "n": "Catalina Research Institute, LLC",
@@ -400,9 +528,41 @@
 "c": "United States"
 },
 {
+"k": "org:peak-gastroenterology-associates",
+"t": "company",
+"n": "Peak Gastroenterology Associates",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:schiff-center-liver-diseases",
+"t": "company",
+"n": "Schiff Center Liver Diseases",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:panax-clinical-research",
+"t": "hospital",
+"n": "Panax Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "org:covenant-metabolic-specialists-university-park",
 "t": "academic",
 "n": "Covenant Metabolic Specialists, LLC - University Park",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:centricity-research-columbus-georgia-multispecialty",
+"t": "company",
+"n": "Centricity Research Columbus Georgia Multispecialty",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -440,17 +600,17 @@
 "c": ""
 },
 {
-"k": "org:arizona-liver-health",
+"k": "org:arizona-liver-health-peoria",
 "t": "hospital",
-"n": "Arizona Liver Health",
+"n": "Arizona Liver Health - Peoria",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "org:arizona-liver-health-peoria",
-"t": "hospital",
-"n": "Arizona Liver Health - Peoria",
+"k": "org:arkansas-gastroenterology-p-a",
+"t": "company",
+"n": "Arkansas Gastroenterology, P.A",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -464,9 +624,25 @@
 "c": "United States"
 },
 {
+"k": "org:om-research",
+"t": "company",
+"n": "Om Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "org:ark-clinical-research-fountain-valley",
 "t": "hospital",
 "n": "ARK Clinical Research - Fountain Valley",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ucsd-medical-center",
+"t": "hospital",
+"n": "UCSD Medical Center",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -600,6 +776,46 @@
 "c": ""
 },
 {
+"k": "org:health-awareness",
+"t": "hospital",
+"n": "Health Awareness, Inc",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:evolution-clinical-trials",
+"t": "hospital",
+"n": "Evolution Clinical Trials",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:tandem-clinical-research-plaza-ii",
+"t": "hospital",
+"n": "Tandem Clinical Research, Plaza II",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:american-research",
+"t": "company",
+"n": "American Research Corporation",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:american-research-at-the-texas-liver-institute",
+"t": "academic",
+"n": "American Research Corporation at The Texas Liver Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "drug:aln-pnp",
 "t": "drug",
 "n": "ALN-PNP",
@@ -648,30 +864,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07795164",
-"t": "trial",
-"n": "Phase 3 Study of the Efficacy, Safety, and Clinical Outcomes of Pemvidutide in MASH",
-"sub": "P3 · recruiting · 2026-2032",
-"url": "https://clinicaltrials.gov/study/NCT07795164",
-"c": ""
-},
-{
-"k": "org:altimmune",
-"t": "company",
-"n": "Altimmune, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:pemvidutide",
-"t": "drug",
-"n": "Pemvidutide",
-"sub": "Altimmune, Inc.",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07581951",
 "t": "trial",
 "n": "A Phase 3 Study Evaluating the Safety and Efficacy of HSK31679 in Patients With MASH",
@@ -692,6 +884,38 @@
 "t": "drug",
 "n": "HSK31679",
 "sub": "Haisco Pharmaceutical Group Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07795164",
+"t": "trial",
+"n": "Phase 3 Study of the Efficacy, Safety, and Clinical Outcomes of Pemvidutide in MASH",
+"sub": "P3 · recruiting · 2026-2032",
+"url": "https://clinicaltrials.gov/study/NCT07795164",
+"c": ""
+},
+{
+"k": "org:altimmune",
+"t": "company",
+"n": "Altimmune, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:altimmune-clinical-study-site",
+"t": "hospital",
+"n": "Altimmune Clinical Study Site",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:pemvidutide",
+"t": "drug",
+"n": "Pemvidutide",
+"sub": "Altimmune, Inc.",
 "url": "",
 "c": ""
 },
@@ -720,6 +944,14 @@
 "c": ""
 },
 {
+"k": "org:riley-hospital-for-children-at-iu-health",
+"t": "hospital",
+"n": "Riley Hospital for Children at IU Health",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "drug:resmetirom",
 "t": "drug",
 "n": "Resmetirom",
@@ -744,6 +976,14 @@
 "c": ""
 },
 {
+"k": "org:kriya-clinical-trial-site",
+"t": "hospital",
+"n": "Kriya Clinical Trial Site",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "drug:vv-14303",
 "t": "drug",
 "n": "VV-14303",
@@ -766,6 +1006,14 @@
 "sub": "",
 "url": "",
 "c": ""
+},
+{
+"k": "org:opko-study-site",
+"t": "company",
+"n": "OPKO study site",
+"sub": "",
+"url": "",
+"c": "United States"
 },
 {
 "k": "drug:opk-88006",
@@ -800,9 +1048,33 @@
 "c": "United States"
 },
 {
+"k": "org:university-of-california-los-angeles-medical-center",
+"t": "hospital",
+"n": "University of California Los Angeles Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "org:university-of-california-san-francisco",
 "t": "academic",
 "n": "University of California, San Francisco",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-colorado",
+"t": "academic",
+"n": "University of Colorado",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:medstar-georgetown-university-hospital",
+"t": "hospital",
+"n": "Medstar Georgetown University Hospital",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -816,9 +1088,33 @@
 "c": "United States"
 },
 {
+"k": "org:the-university-of-chicago-medicine",
+"t": "academic",
+"n": "The University of Chicago Medicine",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "org:mayo-clinic",
 "t": "hospital",
 "n": "Mayo Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-nebraska",
+"t": "academic",
+"n": "University of Nebraska",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:northwell-health-center-for-liver-disease-and-transplantatio",
+"t": "hospital",
+"n": "Northwell Health Inc, Center for Liver Disease and Transplantation",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -838,6 +1134,14 @@
 "sub": "",
 "url": "",
 "c": ""
+},
+{
+"k": "org:the-first-affiliated-hospital-of-zhengzhou-university",
+"t": "hospital",
+"n": "The First Affiliated Hospital of Zhengzhou University",
+"sub": "",
+"url": "",
+"c": "China"
 },
 {
 "k": "drug:hrs-4729",
@@ -872,12 +1176,100 @@
 "c": ""
 },
 {
+"k": "org:ruijin-hospital",
+"t": "hospital",
+"n": "Ruijin Hospital",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "person:weiqing-wang-ph-d",
 "t": "person",
 "n": "Weiqing Wang, Ph.D",
 "sub": "principal investigator · Ruijin Hospital",
 "url": "",
 "c": ""
+},
+{
+"k": "org:the-second-affiliated-hospital-of-anhui-medical-university",
+"t": "hospital",
+"n": "The Second Affiliated Hospital of Anhui Medical University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:the-third-affiliated-hospital-of-guangzhou-medical-universit",
+"t": "hospital",
+"n": "The Third Affiliated Hospital of Guangzhou Medical University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:the-first-hospital-of-hebei-medical-university",
+"t": "hospital",
+"n": "The First Hospital of Hebei Medical University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:nanjing-jiangning-hospital",
+"t": "hospital",
+"n": "Nanjing Jiangning Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:renji-hospital-affiliated-to-shanghai-jiao-tong-university-s",
+"t": "hospital",
+"n": "Renji Hospital Affiliated to Shanghai Jiao Tong University School of Medicine",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:ruijin-hospital-affiliated-to-shanghai-jiao-tong-university",
+"t": "hospital",
+"n": "Ruijin Hospital Affiliated to Shanghai Jiao Tong University School of Medicine",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:shanghai-first-people-s-hospital",
+"t": "hospital",
+"n": "Shanghai First People's Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:tongren-hospital-affiliated-to-shanghai-jiao-tong-university",
+"t": "hospital",
+"n": "Tongren Hospital Affiliated to Shanghai Jiao Tong University School of Medicine",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:the-second-affiliated-hospital-of-zhejiang-university-school",
+"t": "hospital",
+"n": "The Second Affiliated Hospital of Zhejiang University School of Medicine",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:zhejiang-provincial-people-s-hospital",
+"t": "hospital",
+"n": "Zhejiang Provincial People's Hospital",
+"sub": "",
+"url": "",
+"c": "China"
 },
 {
 "k": "drug:semaglutide",
@@ -902,22 +1294,6 @@
 "sub": "P3 · recruiting · 2025-2031",
 "url": "https://clinicaltrials.gov/study/NCT07221227",
 "c": ""
-},
-{
-"k": "trial:nct06836609",
-"t": "trial",
-"n": "A Study to Evaluate ALN-CIDEB in Adult Participants With Metabolic Dysfunction-Associated ",
-"sub": "P1/P2 · recruiting · 2025-2027",
-"url": "https://clinicaltrials.gov/study/NCT06836609",
-"c": ""
-},
-{
-"k": "org:richmond-pharmacology",
-"t": "company",
-"n": "Richmond Pharmacology Limited",
-"sub": "",
-"url": "",
-"c": "United Kingdom"
 },
 {
 "k": "trial:nct06920043",
@@ -984,6 +1360,22 @@
 "c": ""
 },
 {
+"k": "org:the-first-hospital-of-jilin-university",
+"t": "hospital",
+"n": "The First Hospital of Jilin University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:nanjing-gulou-hospital",
+"t": "hospital",
+"n": "Nanjing Gulou Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
 "k": "drug:dr10624",
 "t": "drug",
 "n": "DR10624",
@@ -1008,6 +1400,22 @@
 "c": ""
 },
 {
+"k": "org:chipscreen-biosciences",
+"t": "company",
+"n": "Chipscreen Biosciences, Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:shanghai-punan-hospital-of-pudong-new-district-punan-branch",
+"t": "hospital",
+"n": "Shanghai Punan Hospital of Pudong New District (Punan Branch of Renji Hospital, Shanghai J",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "person:hai-li-professor",
 "t": "person",
 "n": "Hai Li, professor",
@@ -1016,9 +1424,81 @@
 "c": ""
 },
 {
+"k": "org:ditan-hospital-of-integrated-traditional-chinese-and-western",
+"t": "hospital",
+"n": "Ditan Hospital of integrated traditional Chinese and Western Medicine Center",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:southwest-hospital-of-third-military-medical-university",
+"t": "hospital",
+"n": "Southwest Hospital of Third Military Medical University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
 "k": "org:the-first-affiliated-hospital-of-fujian-medical-university",
 "t": "hospital",
 "n": "The First Affiliated Hospital of Fujian Medical University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:the-third-affiliated-hospital-of-sun-yat-sen-university",
+"t": "hospital",
+"n": "The Third Affiliated Hospital of Sun Yat-sen University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:southern-hospital",
+"t": "hospital",
+"n": "Southern Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:wuhan-union-hospital-of-huazhong-university-of-science-and-t",
+"t": "hospital",
+"n": "Wuhan Union Hospital of Huazhong University of Science and Technology",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:taihe-hospital",
+"t": "hospital",
+"n": "Taihe Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:xiangya-hospital-of-central-south-university",
+"t": "hospital",
+"n": "Xiangya hospital of Central South University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:the-first-affiliated-hospital-of-jilin-university",
+"t": "hospital",
+"n": "The First Affiliated Hospital of Jilin University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:renji-hospital-of-shanghai-jiao-tong-university-school-of-me",
+"t": "hospital",
+"n": "Renji hospital of Shanghai Jiao Tong University School of Medical",
 "sub": "",
 "url": "",
 "c": "China"
@@ -1080,6 +1560,22 @@
 "c": ""
 },
 {
+"k": "org:yale-new-haven-health",
+"t": "hospital",
+"n": "Yale New Haven Health",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:yale-new-haven-hospital",
+"t": "hospital",
+"n": "Yale New Haven Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "drug:digoxin",
 "t": "drug",
 "n": "Digoxin",
@@ -1136,6 +1632,62 @@
 "c": ""
 },
 {
+"k": "org:arizona-liver-health-chandler",
+"t": "hospital",
+"n": "Arizona Liver Health - Chandler",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:baptist-health-center-for-clinical-research",
+"t": "hospital",
+"n": "Baptist Health Center for Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:national-institute-of-clinical-research",
+"t": "hospital",
+"n": "National Institute of Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:knowledge-research-center",
+"t": "company",
+"n": "Knowledge Research Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:charter-research-orlando",
+"t": "company",
+"n": "Charter Research LLC - Orlando",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:charter-research-chicago",
+"t": "company",
+"n": "Charter Research LLC - Chicago",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:delta-research-partners-of-bastrop",
+"t": "company",
+"n": "Delta Research Partners of Bastrop, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "drug:hu6",
 "t": "drug",
 "n": "HU6",
@@ -1166,6 +1718,14 @@
 "sub": "study director · Neuraly, Inc.",
 "url": "",
 "c": ""
+},
+{
+"k": "org:summit-research-site",
+"t": "company",
+"n": "Summit Research Site",
+"sub": "",
+"url": "",
+"c": "United States"
 },
 {
 "k": "drug:dd01",
@@ -1200,6 +1760,14 @@
 "c": ""
 },
 {
+"k": "org:profil-institut-fur-stoffwechselforschung",
+"t": "academic",
+"n": "Profil Institut für Stoffwechselforschung GmbH",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
 "k": "drug:vonafexor-low",
 "t": "drug",
 "n": "Vonafexor low",
@@ -1221,6 +1789,62 @@
 "n": "A Trial to Learn if ALN-PNP is Safe and Well Tolerated in Healthy Adults and Adult Partici",
 "sub": "P1/P2 · recruiting · 2022-2027",
 "url": "https://clinicaltrials.gov/study/NCT05648214",
+"c": ""
+},
+{
+"k": "org:california-clinical-trials-medical-group",
+"t": "hospital",
+"n": "California Clinical Trials Medical Group",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:pioneer-research-solutions",
+"t": "company",
+"n": "Pioneer Research Solutions",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct05500586",
+"t": "trial",
+"n": "The Effects of Glucagon on Hepatic Metabolism",
+"sub": "P1/P2 · completed · 2022-2026",
+"url": "https://clinicaltrials.gov/study/NCT05500586",
+"c": ""
+},
+{
+"k": "org:adrian-vella",
+"t": "academic",
+"n": "Adrian Vella",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:adrian-vella",
+"t": "person",
+"n": "Adrian Vella",
+"sub": "principal investigator · Mayo Clinic",
+"url": "",
+"c": ""
+},
+{
+"k": "org:mayo-clinic-in-rochester",
+"t": "hospital",
+"n": "Mayo Clinic in Rochester",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:glucagon-response-study",
+"t": "drug",
+"n": "Glucagon response study",
+"sub": "Adrian Vella",
+"url": "",
 "c": ""
 },
 {
@@ -1268,8 +1892,8 @@
 "t": "person",
 "n": "Sven Francque",
 "sub": "principal investigator · Division of Gastroenterology and Hepatology, Antwerp University H",
-"url": "https://orcid.org/0000-0002-7527-4714",
-"c": "BE"
+"url": "",
+"c": ""
 },
 {
 "k": "org:objective-health-birmingham-gastroenterology-associates",
@@ -1472,34 +2096,50 @@
 "c": "China"
 },
 {
-"k": "trial:nct07902219",
+"k": "trial:nct07900087",
 "t": "trial",
-"n": "Qurse Revand for MASLD: A Randomized Controlled Safety and Efficacy Trial",
-"sub": "P2 · not_yet_recruiting · 2027-2029",
-"url": "https://clinicaltrials.gov/study/NCT07902219",
+"n": "Evaluating the Safety and Efficacy of Roflumilast in the Treatment of Nonalcoholic Fatty L",
+"sub": "P2/P3 · not_yet_recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07900087",
 "c": ""
 },
 {
-"k": "org:national-institute-of-unani-medicine-bengaluru",
+"k": "org:tanta-university",
 "t": "academic",
-"n": "National Institute of Unani Medicine, Bengaluru",
+"n": "Tanta University",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:national-institute-of-unani-medicine-bangalore",
+"k": "org:faculty-of-pharmacy-horus-university",
 "t": "academic",
-"n": "National Institute of Unani Medicine Bangalore",
+"n": "Faculty of Pharmacy, Horus University",
 "sub": "",
 "url": "",
-"c": "India"
+"c": ""
 },
 {
-"k": "drug:qurse-revand",
+"k": "person:mostafa-bahaa",
+"t": "person",
+"n": "Mostafa Bahaa",
+"sub": "principal investigator · Faculty of Pharmacy, Horus University",
+"url": "",
+"c": ""
+},
+{
+"k": "org:faculty-of-medicine-tanta-university-tanta-egypt",
+"t": "academic",
+"n": "Faculty of Medicine, Tanta University, Tanta, Egypt",
+"sub": "",
+"url": "",
+"c": "Egypt"
+},
+{
+"k": "drug:roflumilast",
 "t": "drug",
-"n": "Qurse Revand",
-"sub": "National Institute of Unani Medicine, Bengaluru",
+"n": "Roflumilast",
+"sub": "Tanta University",
 "url": "",
 "c": ""
 },
@@ -1536,22 +2176,6 @@
 "c": ""
 },
 {
-"k": "org:tanta-university",
-"t": "academic",
-"n": "Tanta University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:faculty-of-medicine-tanta-university-tanta-egypt",
-"t": "academic",
-"n": "Faculty of Medicine, Tanta University, Tanta, Egypt",
-"sub": "",
-"url": "",
-"c": "Egypt"
-},
-{
 "k": "drug:rupatadin",
 "t": "drug",
 "n": "Rupatadin",
@@ -1560,34 +2184,34 @@
 "c": ""
 },
 {
-"k": "trial:nct07900087",
+"k": "trial:nct07902219",
 "t": "trial",
-"n": "Evaluating the Safety and Efficacy of Roflumilast in the Treatment of Nonalcoholic Fatty L",
-"sub": "P2/P3 · not_yet_recruiting · 2026-2027",
-"url": "https://clinicaltrials.gov/study/NCT07900087",
+"n": "Qurse Revand for MASLD: A Randomized Controlled Safety and Efficacy Trial",
+"sub": "P2 · not_yet_recruiting · 2027-2029",
+"url": "https://clinicaltrials.gov/study/NCT07902219",
 "c": ""
 },
 {
-"k": "org:faculty-of-pharmacy-horus-university",
+"k": "org:national-institute-of-unani-medicine-bengaluru",
 "t": "academic",
-"n": "Faculty of Pharmacy, Horus University",
+"n": "National Institute of Unani Medicine, Bengaluru",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "person:mostafa-bahaa",
-"t": "person",
-"n": "Mostafa Bahaa",
-"sub": "principal investigator · Faculty of Pharmacy, Horus University",
+"k": "org:national-institute-of-unani-medicine-bangalore",
+"t": "academic",
+"n": "National Institute of Unani Medicine Bangalore",
+"sub": "",
 "url": "",
-"c": ""
+"c": "India"
 },
 {
-"k": "drug:roflumilast",
+"k": "drug:qurse-revand",
 "t": "drug",
-"n": "Roflumilast",
-"sub": "Tanta University",
+"n": "Qurse Revand",
+"sub": "National Institute of Unani Medicine, Bengaluru",
 "url": "",
 "c": ""
 },
@@ -1624,6 +2248,22 @@
 "c": "United States"
 },
 {
+"k": "trial:nct06104319",
+"t": "trial",
+"n": "Dose Exploration Study of GSK4532990 in. Participants With NASH or Suspected NASH",
+"sub": "P2 · completed · 2024-2025",
+"url": "https://clinicaltrials.gov/study/NCT06104319",
+"c": ""
+},
+{
+"k": "drug:gsk4532990",
+"t": "drug",
+"n": "GSK4532990",
+"sub": "GlaxoSmithKline",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07897981",
 "t": "trial",
 "n": "High-Plant-Protein-Diet or High-Animal-Protein-Diet for Improving Alcoholic Fatty Liver Di",
@@ -1656,22 +2296,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06104319",
-"t": "trial",
-"n": "Dose Exploration Study of GSK4532990 in. Participants With NASH or Suspected NASH",
-"sub": "P2 · completed · 2024-2025",
-"url": "https://clinicaltrials.gov/study/NCT06104319",
-"c": ""
-},
-{
-"k": "drug:gsk4532990",
-"t": "drug",
-"n": "GSK4532990",
-"sub": "GlaxoSmithKline",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct06151964",
 "t": "trial",
 "n": "A Trial to Learn How Safe AZD9550 Monotherapy and Combined With AZD6234 is in People With ",
@@ -1692,46 +2316,6 @@
 "t": "drug",
 "n": "AZD9550 and AZD6234",
 "sub": "AstraZeneca",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05500586",
-"t": "trial",
-"n": "The Effects of Glucagon on Hepatic Metabolism",
-"sub": "P1/P2 · completed · 2022-2026",
-"url": "https://clinicaltrials.gov/study/NCT05500586",
-"c": ""
-},
-{
-"k": "org:adrian-vella",
-"t": "academic",
-"n": "Adrian Vella",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:adrian-vella",
-"t": "person",
-"n": "Adrian Vella",
-"sub": "principal investigator · Mayo Clinic",
-"url": "",
-"c": ""
-},
-{
-"k": "org:mayo-clinic-in-rochester",
-"t": "hospital",
-"n": "Mayo Clinic in Rochester",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:glucagon-response-study",
-"t": "drug",
-"n": "Glucagon response study",
-"sub": "Adrian Vella",
 "url": "",
 "c": ""
 },
@@ -1981,7 +2565,7 @@
 "n": "Columbia University",
 "sub": "",
 "url": "",
-"c": "US"
+"c": ""
 },
 {
 "k": "org:weill-medical-college-of-cornell-university",
@@ -2200,22 +2784,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06465186",
-"t": "trial",
-"n": "A Clinical Study of Efinopegdutide in People With Compensated Cirrhosis Due to Steatohepat",
-"sub": "P2 · completed · 2024-2026",
-"url": "https://clinicaltrials.gov/study/NCT06465186",
-"c": ""
-},
-{
-"k": "org:merck-sharp-dohme",
-"t": "company",
-"n": "Merck Sharp & Dohme LLC",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct05011305",
 "t": "trial",
 "n": "Saroglitazar Magnesium for the Treatment of Nonalcoholic Steatohepatitis With Fibrosis",
@@ -2324,6 +2892,22 @@
 "t": "drug",
 "n": "Saroglitazar Magnesium",
 "sub": "Zydus Therapeutics Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06465186",
+"t": "trial",
+"n": "A Clinical Study of Efinopegdutide in People With Compensated Cirrhosis Due to Steatohepat",
+"sub": "P2 · completed · 2024-2026",
+"url": "https://clinicaltrials.gov/study/NCT06465186",
+"c": ""
+},
+{
+"k": "org:merck-sharp-dohme",
+"t": "company",
+"n": "Merck Sharp & Dohme LLC",
+"sub": "",
 "url": "",
 "c": ""
 },
@@ -2576,107 +3160,43 @@
 "c": ""
 },
 {
-"k": "trial:nct05623189",
-"t": "trial",
-"n": "HTD1801 in Adults With Nonalcoholic Steatohepatitis and Liver Fibrosis Who Have Type 2 Dia",
-"sub": "P2 · completed · 2022-2025",
-"url": "https://clinicaltrials.gov/study/NCT05623189",
-"c": ""
-},
-{
-"k": "org:hightide-therapeutics-hong-kong",
-"t": "company",
-"n": "HighTide Therapeutics (Hong Kong) Limited",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:hightide-therapeutics-usa",
-"t": "company",
-"n": "Hightide Therapeutics USA, LLC",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:adrian-di-bisceglie-facp-faasld",
-"t": "person",
-"n": "Adrian Di Bisceglie, FACP, FAASLD",
-"sub": "study director · Hightide Therapeutics USA, LLC",
-"url": "",
-"c": ""
-},
-{
-"k": "org:the-institute-for-liver-health-arizona-liver-health",
-"t": "hospital",
-"n": "The Institute for Liver Health (Arizona Liver Health)",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:arizona-liver-health-glendae",
-"t": "hospital",
-"n": "Arizona Liver Health - Glendae",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:aizona-liver-health",
-"t": "hospital",
-"n": "Aizona Liver Health",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:clinnova-research-solutions",
-"t": "company",
-"n": "Clinnova Research Solutions",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:california-liver-institute",
-"t": "academic",
-"n": "California Liver Institute",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:inland-empire-liver-foundation",
-"t": "foundation",
-"n": "Inland Empire Liver Foundation",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:excel-medical-clinical-trials",
-"t": "hospital",
-"n": "Excel Medical Clinical Trials, LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:htd1801",
-"t": "drug",
-"n": "HTD1801",
-"sub": "HighTide Therapeutics (Hong Kong) Limited",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-39221768",
 "t": "paper",
 "n": "Discovery and Preclinical Profile of ALG-055009, a Potent and Selective Thyroid Hormone Re",
 "sub": "Journal of Medicinal Chemistry 2024 · cited 36",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39221768",
+"c": ""
+},
+{
+"k": "person:koen-vandyck",
+"t": "person",
+"n": "Koen Vandyck",
+"sub": "",
+"url": "https://orcid.org/0000-0002-0923-8301",
+"c": ""
+},
+{
+"k": "person:david-c-mcgowan",
+"t": "person",
+"n": "David C. McGowan",
+"sub": "",
+"url": "https://orcid.org/0000-0002-3759-6771",
+"c": ""
+},
+{
+"k": "person:jerome-deval",
+"t": "person",
+"n": "Jérôme Deval",
+"sub": "",
+"url": "https://orcid.org/0000-0001-8369-907X",
+"c": ""
+},
+{
+"k": "paper:doi-10-7270-q2xp79mb",
+"t": "paper",
+"n": "BindingDB Entry 50022101: Discovery and Preclinical Profile of ALG-055009, a Potent and Se",
+"sub": "UC San Diego 2025 · cited 0",
+"url": "https://doi.org/10.7270/q2xp79mb",
 "c": ""
 },
 {
@@ -2702,6 +3222,22 @@
 "sub": "",
 "url": "",
 "c": "FR"
+},
+{
+"k": "person:megan-fitzgerald",
+"t": "person",
+"n": "Megan Fitzgerald",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:john-fry",
+"t": "person",
+"n": "John Fry",
+"sub": "",
+"url": "",
+"c": ""
 },
 {
 "k": "paper:doi-10-1016-s0168-8278-25-01706-4",
@@ -2792,6 +3328,14 @@
 "c": ""
 },
 {
+"k": "person:peter-althoff",
+"t": "person",
+"n": "Peter Althoff",
+"sub": "",
+"url": "https://orcid.org/0000-0001-6184-7385",
+"c": ""
+},
+{
 "k": "person:xuan-luong",
 "t": "person",
 "n": "Xuan Luong",
@@ -2808,11 +3352,43 @@
 "c": ""
 },
 {
+"k": "person:benedetta-massetto",
+"t": "person",
+"n": "Benedetta Massetto",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:matt-mcclure",
+"t": "person",
+"n": "Matt McClure",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:doi-10-1016-s0168-8278-25-01690-3",
 "t": "paper",
 "n": "SAT-430 Population pharmacokinetic/pharmacodynamic modelling of novel thyroid hormone rece",
 "sub": "Journal of Hepatology 2025 · cited 0",
 "url": "https://doi.org/10.1016/s0168-8278(25)01690-3",
+"c": ""
+},
+{
+"k": "person:kha-n-le",
+"t": "person",
+"n": "Kha N. Le",
+"sub": "",
+"url": "https://orcid.org/0000-0002-5446-819X",
+"c": ""
+},
+{
+"k": "person:sushmita-m-chanda",
+"t": "person",
+"n": "Sushmita M. Chanda",
+"sub": "",
+"url": "https://orcid.org/0000-0003-2290-5428",
 "c": ""
 },
 {
@@ -2832,10 +3408,18 @@
 "c": ""
 },
 {
+"k": "person:jieun-song",
+"t": "person",
+"n": "Jieun Song",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-38851997",
 "t": "paper",
 "n": "EASL–EASD–EASO Clinical Practice Guidelines on the management of metabolic dysfunction-ass",
-"sub": "Journal of Hepatology 2024 · cited 2217",
+"sub": "Journal of Hepatology 2024 · cited 2354",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38851997",
 "c": ""
 },
@@ -2843,9 +3427,9 @@
 "k": "person:frank-tacke",
 "t": "person",
 "n": "Frank Tacke",
-"sub": "Stiftung Charité",
+"sub": "",
 "url": "https://orcid.org/0000-0001-6206-0226",
-"c": "DE"
+"c": ""
 },
 {
 "k": "person:dror-dicker",
@@ -2872,10 +3456,26 @@
 "c": ""
 },
 {
+"k": "paper:pmid-36701446",
+"t": "paper",
+"n": "ChatGPT is fun, but not an author",
+"sub": "Science 2023 · cited 1527",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36701446",
+"c": ""
+},
+{
+"k": "person:h-holden-thorp",
+"t": "person",
+"n": "H. Holden Thorp",
+"sub": "",
+"url": "https://orcid.org/0009-0008-9249-8411",
+"c": ""
+},
+{
 "k": "paper:pmid-40305708",
 "t": "paper",
 "n": "Phase 3 Trial of Semaglutide in Metabolic Dysfunction–Associated Steatohepatitis",
-"sub": "New England Journal of Medicine 2025 · cited 1123",
+"sub": "New England Journal of Medicine 2025 · cited 1183",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40305708",
 "c": ""
 },
@@ -2923,7 +3523,7 @@
 "k": "paper:pmid-38856224",
 "t": "paper",
 "n": "Tirzepatide for Metabolic Dysfunction–Associated Steatohepatitis with Liver Fibrosis",
-"sub": "New England Journal of Medicine 2024 · cited 1009",
+"sub": "New England Journal of Medicine 2024 · cited 1045",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38856224",
 "c": ""
 },
@@ -2947,7 +3547,7 @@
 "k": "paper:pmid-39159948",
 "t": "paper",
 "n": "Epidemiology of metabolic dysfunction-associated steatotic liver disease",
-"sub": "Clinical and Molecular Hepatology 2024 · cited 973",
+"sub": "Clinical and Molecular Hepatology 2024 · cited 1030",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39159948",
 "c": ""
 },
@@ -3011,7 +3611,7 @@
 "k": "paper:pmid-38228377",
 "t": "paper",
 "n": "MASLD: a systemic metabolic disorder with cardiovascular and malignant complications",
-"sub": "Gut 2024 · cited 933",
+"sub": "Gut 2024 · cited 992",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38228377",
 "c": ""
 },
@@ -3067,7 +3667,7 @@
 "k": "paper:pmid-38847460",
 "t": "paper",
 "n": "A Phase 2 Randomized Trial of Survodutide in MASH and Fibrosis",
-"sub": "New England Journal of Medicine 2024 · cited 528",
+"sub": "New England Journal of Medicine 2024 · cited 535",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38847460",
 "c": ""
 },
@@ -3093,13 +3693,13 @@
 "n": "National Institute for Health and Care Research",
 "sub": "",
 "url": "",
-"c": "GB"
+"c": ""
 },
 {
 "k": "paper:pmid-38852583",
 "t": "paper",
 "n": "EASL-EASD-EASO Clinical Practice Guidelines on the Management of Metabolic Dysfunction-Ass",
-"sub": "Obesity Facts 2024 · cited 490",
+"sub": "Obesity Facts 2024 · cited 504",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38852583",
 "c": ""
 },
@@ -3123,8 +3723,16 @@
 "k": "paper:pmid-39530327",
 "t": "paper",
 "n": "Database Resources of the National Genomics Data Center, China National Center for Bioinfo",
-"sub": "Nucleic Acids Research 2024 · cited 439",
+"sub": "Nucleic Acids Research 2024 · cited 454",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39530327",
+"c": ""
+},
+{
+"k": "person:cncb-ngdc-members-and-partners",
+"t": "person",
+"n": "CNCB-NGDC Members and Partners",
+"sub": "",
+"url": "",
 "c": ""
 },
 {
@@ -3163,7 +3771,7 @@
 "k": "paper:pmid-38521116",
 "t": "paper",
 "n": "The Global Epidemiology of Nonalcoholic Fatty Liver Disease and Nonalcoholic Steatohepatit",
-"sub": "Clinical Gastroenterology and Hepatology 2024 · cited 421",
+"sub": "Clinical Gastroenterology and Hepatology 2024 · cited 443",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38521116",
 "c": ""
 },
@@ -3187,7 +3795,7 @@
 "k": "paper:pmid-38445559",
 "t": "paper",
 "n": "Metabolic dysfunction–associated steatotic liver disease: Update and impact of new nomencl",
-"sub": "Hepatology 2023 · cited 396",
+"sub": "Hepatology 2023 · cited 408",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38445559",
 "c": ""
 },
@@ -3256,26 +3864,10 @@
 "c": ""
 },
 {
-"k": "person:susan-j-keam",
-"t": "person",
-"n": "Susan J. Keam",
-"sub": "Springer Nature (New Zealand)",
-"url": "https://orcid.org/0000-0002-0121-7645",
-"c": "NZ"
-},
-{
-"k": "org:springer-nature-new-zealand",
-"t": "company",
-"n": "Springer Nature (New Zealand)",
-"sub": "",
-"url": "",
-"c": "NZ"
-},
-{
 "k": "paper:pmid-40434108",
 "t": "paper",
 "n": "Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD) in People With Diabetes: ",
-"sub": "Diabetes Care 2025 · cited 357",
+"sub": "Diabetes Care 2025 · cited 393",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40434108",
 "c": ""
 },
@@ -3312,10 +3904,34 @@
 "c": "US"
 },
 {
+"k": "paper:pmid-38771485",
+"t": "paper",
+"n": "Resmetirom: First Approval",
+"sub": "Drugs 2024 · cited 377",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38771485",
+"c": ""
+},
+{
+"k": "person:susan-j-keam",
+"t": "person",
+"n": "Susan J. Keam",
+"sub": "Springer Nature (New Zealand)",
+"url": "https://orcid.org/0000-0002-0121-7645",
+"c": "NZ"
+},
+{
+"k": "org:springer-nature-new-zealand",
+"t": "company",
+"n": "Springer Nature (New Zealand)",
+"sub": "",
+"url": "",
+"c": "NZ"
+},
+{
 "k": "paper:pmid-38908436",
 "t": "paper",
 "n": "Inflammasomes in chronic liver disease: Hepatic injury, fibrosis progression and systemic ",
-"sub": "Journal of Hepatology 2024 · cited 345",
+"sub": "Journal of Hepatology 2024 · cited 353",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38908436",
 "c": ""
 },
@@ -3403,7 +4019,7 @@
 "k": "paper:pmid-38653239",
 "t": "paper",
 "n": "Gut symbionts alleviate MASH through a secondary bile acid biosynthetic pathway",
-"sub": "Cell 2024 · cited 340",
+"sub": "Cell 2024 · cited 345",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38653239",
 "c": ""
 },
@@ -3496,10 +4112,42 @@
 "c": "CN"
 },
 {
+"k": "paper:pmid-40050362",
+"t": "paper",
+"n": "Metabolic dysfunction-associated steatotic liver disease in adults",
+"sub": "Nature Reviews Disease Primers 2025 · cited 332",
+"url": "https://pubmed.ncbi.nlm.nih.gov/40050362",
+"c": ""
+},
+{
+"k": "person:daniel-q-huang",
+"t": "person",
+"n": "Daniel Q. Huang",
+"sub": "National University of Singapore",
+"url": "https://orcid.org/0000-0002-5165-5061",
+"c": "SG"
+},
+{
+"k": "org:national-university-of-singapore",
+"t": "academic",
+"n": "National University of Singapore",
+"sub": "",
+"url": "",
+"c": "SG"
+},
+{
+"k": "org:national-university-health-system",
+"t": "academic",
+"n": "National University Health System",
+"sub": "",
+"url": "",
+"c": "SG"
+},
+{
 "k": "paper:pmid-38649999",
 "t": "paper",
 "n": "Updated mechanisms of MASLD pathogenesis",
-"sub": "Lipids in Health and Disease 2024 · cited 313",
+"sub": "Lipids in Health and Disease 2024 · cited 331",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38649999",
 "c": ""
 },
@@ -3552,42 +4200,18 @@
 "c": "CN"
 },
 {
-"k": "paper:pmid-40050362",
+"k": "paper:pmid-41212550",
 "t": "paper",
-"n": "Metabolic dysfunction-associated steatotic liver disease in adults",
-"sub": "Nature Reviews Disease Primers 2025 · cited 305",
-"url": "https://pubmed.ncbi.nlm.nih.gov/40050362",
+"n": "Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults",
+"sub": "JAMA 2025 · cited 274",
+"url": "https://pubmed.ncbi.nlm.nih.gov/41212550",
 "c": ""
-},
-{
-"k": "person:daniel-q-huang",
-"t": "person",
-"n": "Daniel Q. Huang",
-"sub": "National University of Singapore",
-"url": "https://orcid.org/0000-0002-5165-5061",
-"c": "SG"
-},
-{
-"k": "org:national-university-of-singapore",
-"t": "academic",
-"n": "National University of Singapore",
-"sub": "",
-"url": "",
-"c": "SG"
-},
-{
-"k": "org:national-university-health-system",
-"t": "academic",
-"n": "National University Health System",
-"sub": "",
-"url": "",
-"c": "SG"
 },
 {
 "k": "paper:pmid-38867022",
 "t": "paper",
 "n": "An unbiased ranking of murine dietary models based on their proximity to human metabolic d",
-"sub": "Nature Metabolism 2024 · cited 262",
+"sub": "Nature Metabolism 2024 · cited 264",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38867022",
 "c": ""
 },
@@ -3680,6 +4304,78 @@
 "c": ""
 },
 {
+"k": "paper:pmid-37730124",
+"t": "paper",
+"n": "Endocrine aspects of metabolic dysfunction-associated steatotic liver disease (MASLD): Bey",
+"sub": "Journal of Hepatology 2023 · cited 261",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37730124",
+"c": ""
+},
+{
+"k": "person:alan-l-hutchison",
+"t": "person",
+"n": "Alan L. Hutchison",
+"sub": "University of Chicago",
+"url": "https://orcid.org/0000-0003-4161-0772",
+"c": "US"
+},
+{
+"k": "person:michael-charlton",
+"t": "person",
+"n": "Michael Charlton",
+"sub": "University of Chicago",
+"url": "https://orcid.org/0000-0002-8766-7494",
+"c": "US"
+},
+{
+"k": "paper:pmid-39821400",
+"t": "paper",
+"n": "Estimated Burden of Metabolic Dysfunction–Associated Steatotic Liver Disease in US Adults,",
+"sub": "JAMA Network Open 2025 · cited 260",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39821400",
+"c": ""
+},
+{
+"k": "person:phuc-le",
+"t": "person",
+"n": "Phuc Le",
+"sub": "Cleveland Clinic",
+"url": "https://orcid.org/0000-0003-4788-773X",
+"c": "US"
+},
+{
+"k": "org:cleveland-clinic",
+"t": "hospital",
+"n": "Cleveland Clinic",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:michael-b-rothberg",
+"t": "person",
+"n": "Michael B. Rothberg",
+"sub": "Cleveland Clinic",
+"url": "https://orcid.org/0000-0002-2063-1876",
+"c": "US"
+},
+{
+"k": "org:agency-for-healthcare-research-and-quality",
+"t": "funder",
+"n": "Agency for Healthcare Research and Quality",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institute-on-alcohol-abuse-and-alcoholism",
+"t": "funder",
+"n": "National Institute on Alcohol Abuse and Alcoholism",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:doi-10-1016-j-foodhyd-2021-107173",
 "t": "paper",
 "n": "Development of black fungus-based 3D printed foods as dysphagia diet: Effect of gums incor",
@@ -3728,90 +4424,10 @@
 "c": "CN"
 },
 {
-"k": "paper:pmid-39821400",
-"t": "paper",
-"n": "Estimated Burden of Metabolic Dysfunction–Associated Steatotic Liver Disease in US Adults,",
-"sub": "JAMA Network Open 2025 · cited 252",
-"url": "https://pubmed.ncbi.nlm.nih.gov/39821400",
-"c": ""
-},
-{
-"k": "person:phuc-le",
-"t": "person",
-"n": "Phuc Le",
-"sub": "Cleveland Clinic",
-"url": "https://orcid.org/0000-0003-4788-773X",
-"c": "US"
-},
-{
-"k": "org:cleveland-clinic",
-"t": "hospital",
-"n": "Cleveland Clinic",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:michael-b-rothberg",
-"t": "person",
-"n": "Michael B. Rothberg",
-"sub": "Cleveland Clinic",
-"url": "https://orcid.org/0000-0002-2063-1876",
-"c": "US"
-},
-{
-"k": "org:agency-for-healthcare-research-and-quality",
-"t": "funder",
-"n": "Agency for Healthcare Research and Quality",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-institute-on-alcohol-abuse-and-alcoholism",
-"t": "funder",
-"n": "National Institute on Alcohol Abuse and Alcoholism",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-37730124",
-"t": "paper",
-"n": "Endocrine aspects of metabolic dysfunction-associated steatotic liver disease (MASLD): Bey",
-"sub": "Journal of Hepatology 2023 · cited 251",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37730124",
-"c": ""
-},
-{
-"k": "person:alan-l-hutchison",
-"t": "person",
-"n": "Alan L. Hutchison",
-"sub": "University of Chicago",
-"url": "https://orcid.org/0000-0003-4161-0772",
-"c": "US"
-},
-{
-"k": "person:michael-charlton",
-"t": "person",
-"n": "Michael Charlton",
-"sub": "University of Chicago",
-"url": "https://orcid.org/0000-0002-8766-7494",
-"c": "US"
-},
-{
-"k": "paper:pmid-41212550",
-"t": "paper",
-"n": "Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults",
-"sub": "JAMA 2025 · cited 244",
-"url": "https://pubmed.ncbi.nlm.nih.gov/41212550",
-"c": ""
-},
-{
 "k": "paper:pmid-40032040",
 "t": "paper",
 "n": "Integrative metabolism in MASLD and MASH: Pathophysiology and emerging mechanisms",
-"sub": "Journal of Hepatology 2025 · cited 240",
+"sub": "Journal of Hepatology 2025 · cited 251",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40032040",
 "c": ""
 },
@@ -3867,7 +4483,7 @@
 "k": "paper:pmid-37940495",
 "t": "paper",
 "n": "Natural history of metabolic dysfunction-associated steatotic liver disease",
-"sub": "European Journal of Internal Medicine 2023 · cited 233",
+"sub": "European Journal of Internal Medicine 2023 · cited 243",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37940495",
 "c": ""
 },
@@ -3899,7 +4515,7 @@
 "k": "paper:pmid-38869512",
 "t": "paper",
 "n": "EASL–EASD–EASO Clinical Practice Guidelines on the management of metabolic dysfunction-ass",
-"sub": "Diabetologia 2024 · cited 221",
+"sub": "Diabetologia 2024 · cited 235",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38869512",
 "c": ""
 },
@@ -3939,7 +4555,7 @@
 "k": "paper:pmid-39086662",
 "t": "paper",
 "n": "Systemic impacts of metabolic dysfunction-associated steatotic liver disease (MASLD) and m",
-"sub": "Frontiers in Cell and Developmental Biology 2024 · cited 218",
+"sub": "Frontiers in Cell and Developmental Biology 2024 · cited 227",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39086662",
 "c": ""
 },
@@ -3995,7 +4611,7 @@
 "k": "paper:pmid-39422487",
 "t": "paper",
 "n": "Resmetirom therapy for metabolic dysfunction-associated steatotic liver disease: October 2",
-"sub": "Hepatology 2024 · cited 214",
+"sub": "Hepatology 2024 · cited 226",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39422487",
 "c": ""
 },
@@ -4027,7 +4643,7 @@
 "k": "paper:pmid-37562748",
 "t": "paper",
 "n": "Incretins (GLP-1 receptor agonists and dual/triple agonists) and the liver",
-"sub": "Journal of Hepatology 2023 · cited 211",
+"sub": "Journal of Hepatology 2023 · cited 219",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37562748",
 "c": ""
 },
@@ -4083,7 +4699,7 @@
 "k": "paper:pmid-38971533",
 "t": "paper",
 "n": "Low-to-moderate alcohol consumption is associated with increased fibrosis in individuals w",
-"sub": "Journal of Hepatology 2024 · cited 206",
+"sub": "Journal of Hepatology 2024 · cited 207",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38971533",
 "c": ""
 },
@@ -4176,42 +4792,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-40222485",
-"t": "paper",
-"n": "Global Consensus Recommendations for Metabolic Dysfunction-Associated Steatotic Liver Dise",
-"sub": "Gastroenterology 2025 · cited 194",
-"url": "https://pubmed.ncbi.nlm.nih.gov/40222485",
-"c": ""
-},
-{
-"k": "person:saleh-a-alqahtani",
-"t": "person",
-"n": "Saleh A. Alqahtani",
-"sub": "King Faisal Specialist Hospital & Research Centre",
-"url": "https://orcid.org/0000-0001-7569-1238",
-"c": "SA"
-},
-{
-"k": "org:king-faisal-specialist-hospital-research-centre",
-"t": "hospital",
-"n": "King Faisal Specialist Hospital & Research Centre",
-"sub": "",
-"url": "",
-"c": "SA"
-},
-{
-"k": "org:center-for-outcomes-research-in-liver-diseases",
-"t": "academic",
-"n": "Center for Outcomes Research in Liver Diseases",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
 "k": "paper:pmid-38451123",
 "t": "paper",
 "n": "Pathogenesis of MASLD and MASH – role of insulin resistance and lipotoxicity",
-"sub": "Alimentary Pharmacology & Therapeutics 2024 · cited 187",
+"sub": "Alimentary Pharmacology & Therapeutics 2024 · cited 202",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38451123",
 "c": ""
 },
@@ -4264,10 +4848,42 @@
 "c": ""
 },
 {
+"k": "paper:pmid-40222485",
+"t": "paper",
+"n": "Global Consensus Recommendations for Metabolic Dysfunction-Associated Steatotic Liver Dise",
+"sub": "Gastroenterology 2025 · cited 201",
+"url": "https://pubmed.ncbi.nlm.nih.gov/40222485",
+"c": ""
+},
+{
+"k": "person:saleh-a-alqahtani",
+"t": "person",
+"n": "Saleh A. Alqahtani",
+"sub": "King Faisal Specialist Hospital & Research Centre",
+"url": "https://orcid.org/0000-0001-7569-1238",
+"c": "SA"
+},
+{
+"k": "org:king-faisal-specialist-hospital-research-centre",
+"t": "hospital",
+"n": "King Faisal Specialist Hospital & Research Centre",
+"sub": "",
+"url": "",
+"c": "SA"
+},
+{
+"k": "org:center-for-outcomes-research-in-liver-diseases",
+"t": "academic",
+"n": "Center for Outcomes Research in Liver Diseases",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
 "k": "paper:pmid-38950910",
 "t": "paper",
 "n": "Interplay between gut microbiome, host genetic and epigenetic modifications in MASLD and M",
-"sub": "Gut 2024 · cited 186",
+"sub": "Gut 2024 · cited 192",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38950910",
 "c": ""
 },
@@ -4302,6 +4918,70 @@
 "sub": "",
 "url": "",
 "c": ""
+},
+{
+"k": "paper:pmid-38349726",
+"t": "paper",
+"n": "Molecular mechanisms in MASLD/MASH-related HCC",
+"sub": "Hepatology 2024 · cited 188",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38349726",
+"c": ""
+},
+{
+"k": "person:xiaobo-wang",
+"t": "person",
+"n": "Xiaobo Wang",
+"sub": "Columbia University Irving Medical Center",
+"url": "https://orcid.org/0000-0001-6044-914X",
+"c": "US"
+},
+{
+"k": "org:columbia-university-irving-medical-center",
+"t": "hospital",
+"n": "Columbia University Irving Medical Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:bingning-dong",
+"t": "person",
+"n": "Bingning Dong",
+"sub": "Baylor College of Medicine",
+"url": "https://orcid.org/0000-0002-4300-3928",
+"c": "US"
+},
+{
+"k": "paper:pmid-39609545",
+"t": "paper",
+"n": "Therapeutic landscape of metabolic dysfunction-associated steatohepatitis (MASH)",
+"sub": "Nature Reviews Drug Discovery 2024 · cited 186",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39609545",
+"c": ""
+},
+{
+"k": "person:albert-do",
+"t": "person",
+"n": "Albert Do",
+"sub": "Yale University",
+"url": "https://orcid.org/0000-0002-1980-5197",
+"c": "US"
+},
+{
+"k": "org:university-of-california-davis",
+"t": "academic",
+"n": "University of California, Davis",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:united-states-department-of-veterans-affairs",
+"t": "funder",
+"n": "United States Department of Veterans Affairs",
+"sub": "",
+"url": "",
+"c": "US"
 },
 {
 "k": "paper:pmid-32998095",
@@ -4339,1270 +5019,6 @@
 "k": "org:institute-for-functional-nanomaterials",
 "t": "funder",
 "n": "Institute for Functional Nanomaterials",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-38349726",
-"t": "paper",
-"n": "Molecular mechanisms in MASLD/MASH-related HCC",
-"sub": "Hepatology 2024 · cited 179",
-"url": "https://pubmed.ncbi.nlm.nih.gov/38349726",
-"c": ""
-},
-{
-"k": "person:xiaobo-wang",
-"t": "person",
-"n": "Xiaobo Wang",
-"sub": "Columbia University Irving Medical Center",
-"url": "https://orcid.org/0000-0001-6044-914X",
-"c": "US"
-},
-{
-"k": "org:columbia-university-irving-medical-center",
-"t": "hospital",
-"n": "Columbia University Irving Medical Center",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:bingning-dong",
-"t": "person",
-"n": "Bingning Dong",
-"sub": "Baylor College of Medicine",
-"url": "https://orcid.org/0000-0002-4300-3928",
-"c": "US"
-},
-{
-"k": "paper:pmid-39609545",
-"t": "paper",
-"n": "Therapeutic landscape of metabolic dysfunction-associated steatohepatitis (MASH)",
-"sub": "Nature Reviews Drug Discovery 2024 · cited 179",
-"url": "https://pubmed.ncbi.nlm.nih.gov/39609545",
-"c": ""
-},
-{
-"k": "person:albert-do",
-"t": "person",
-"n": "Albert Do",
-"sub": "Yale University",
-"url": "https://orcid.org/0000-0002-1980-5197",
-"c": "US"
-},
-{
-"k": "org:university-of-california-davis",
-"t": "academic",
-"n": "University of California, Davis",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:united-states-department-of-veterans-affairs",
-"t": "funder",
-"n": "United States Department of Veterans Affairs",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "paper:pmid-37363821",
-"t": "paper",
-"n": "A multisociety Delphi consensus statement on new fatty liver disease nomenclature",
-"sub": "Hepatology 2023 · cited 3476",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37363821",
-"c": ""
-},
-{
-"k": "org:university-of-antwerp",
-"t": "academic",
-"n": "University of Antwerp",
-"sub": "",
-"url": "",
-"c": "BE"
-},
-{
-"k": "org:amgen",
-"t": "funder",
-"n": "Amgen",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-36626630",
-"t": "paper",
-"n": "The global epidemiology of nonalcoholic fatty liver disease (NAFLD) and nonalcoholic steat",
-"sub": "Hepatology 2023 · cited 3387",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36626630",
-"c": ""
-},
-{
-"k": "paper:pmid-37364790",
-"t": "paper",
-"n": "A multisociety Delphi consensus statement on new fatty liver disease nomenclature",
-"sub": "Journal of Hepatology 2023 · cited 3123",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37364790",
-"c": ""
-},
-{
-"k": "paper:pmid-36727674",
-"t": "paper",
-"n": "AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty li",
-"sub": "Hepatology 2023 · cited 2688",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36727674",
-"c": ""
-},
-{
-"k": "org:american-association-for-the-study-of-liver-diseases",
-"t": "funder",
-"n": "American Association for the Study of Liver Diseases",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:ngm-biopharmaceuticals",
-"t": "funder",
-"n": "NGM Biopharmaceuticals",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-38324483",
-"t": "paper",
-"n": "A Phase 3, Randomized, Controlled Trial of Resmetirom in NASH with Liver Fibrosis",
-"sub": "New England Journal of Medicine 2024 · cited 2097",
-"url": "https://pubmed.ncbi.nlm.nih.gov/38324483",
-"c": ""
-},
-{
-"k": "person:stephen-a-harrison",
-"t": "person",
-"n": "Stephen A. Harrison",
-"sub": "University Hospitals Birmingham NHS Foundation Trust",
-"url": "https://orcid.org/0000-0001-8285-2204",
-"c": "GB"
-},
-{
-"k": "org:universite-catholique-de-louvain",
-"t": "funder",
-"n": "Université Catholique de Louvain",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:houston-methodist-hospital",
-"t": "funder",
-"n": "Houston Methodist Hospital",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-33185364",
-"t": "paper",
-"n": "A Placebo-Controlled Trial of Subcutaneous Semaglutide in Nonalcoholic Steatohepatitis",
-"sub": "New England Journal of Medicine 2020 · cited 2043",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33185364",
-"c": ""
-},
-{
-"k": "paper:pmid-33989548",
-"t": "paper",
-"n": "Mechanisms and disease consequences of nonalcoholic fatty liver disease",
-"sub": "Cell 2021 · cited 2007",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33989548",
-"c": ""
-},
-{
-"k": "person:scott-l-friedman",
-"t": "person",
-"n": "Scott L. Friedman",
-"sub": "Icahn School of Medicine at Mount Sinai",
-"url": "https://orcid.org/0000-0003-1178-6195",
-"c": "US"
-},
-{
-"k": "person:gerald-i-shulman",
-"t": "person",
-"n": "Gerald I. Shulman",
-"sub": "Yale University",
-"url": "https://orcid.org/0000-0003-1529-5668",
-"c": "US"
-},
-{
-"k": "org:yale-school-of-medicine",
-"t": "funder",
-"n": "Yale School of Medicine",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-33349658",
-"t": "paper",
-"n": "Global epidemiology of NAFLD-related HCC: trends, predictions, risk factors and prevention",
-"sub": "Nature Reviews Gastroenterology & Hepatology 2020 · cited 1858",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33349658",
-"c": ""
-},
-{
-"k": "paper:pmid-32582143",
-"t": "paper",
-"n": "The Genus Alistipes: Gut Bacteria With Emerging Implications to Inflammation, Cancer, and ",
-"sub": "Frontiers in Immunology 2020 · cited 1721",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32582143",
-"c": ""
-},
-{
-"k": "person:bianca-j-parker",
-"t": "person",
-"n": "Bianca J. Parker",
-"sub": "Case Western Reserve University",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:case-western-reserve-university",
-"t": "academic",
-"n": "Case Western Reserve University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:alexander-rodriguezpalacios",
-"t": "person",
-"n": "Alexander Rodriguez‐Palacios",
-"sub": "Case Western Reserve University",
-"url": "https://orcid.org/0000-0003-0713-5605",
-"c": "US"
-},
-{
-"k": "org:wayne-state-university",
-"t": "funder",
-"n": "Wayne State University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:crohn-s-and-colitis-foundation",
-"t": "funder",
-"n": "Crohn's and Colitis Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32207804",
-"t": "paper",
-"n": "Nonalcoholic Steatohepatitis",
-"sub": "JAMA 2020 · cited 1396",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32207804",
-"c": ""
-},
-{
-"k": "person:adam-c-sheka",
-"t": "person",
-"n": "Adam C. Sheka",
-"sub": "University of Minnesota",
-"url": "https://orcid.org/0000-0001-9081-7249",
-"c": "US"
-},
-{
-"k": "org:university-of-minnesota",
-"t": "academic",
-"n": "University of Minnesota",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:sayeed-ikramuddin",
-"t": "person",
-"n": "Sayeed Ikramuddin",
-"sub": "University of Minnesota",
-"url": "https://orcid.org/0000-0003-3088-7952",
-"c": "US"
-},
-{
-"k": "paper:pmid-32061595",
-"t": "paper",
-"n": "Nonalcoholic Fatty Liver Disease 2020: The State of the Disease",
-"sub": "Gastroenterology 2020 · cited 1205",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32061595",
-"c": ""
-},
-{
-"k": "person:thomas-gerard-cotter",
-"t": "person",
-"n": "Thomas Gerard Cotter",
-"sub": "University of Chicago",
-"url": "https://orcid.org/0000-0002-0376-0107",
-"c": "US"
-},
-{
-"k": "org:university-of-chicago-medical-center",
-"t": "hospital",
-"n": "University of Chicago Medical Center",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:novartis",
-"t": "funder",
-"n": "Novartis",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32027911",
-"t": "paper",
-"n": "Association Between Fibrosis Stage and Outcomes of Patients With Nonalcoholic Fatty Liver ",
-"sub": "Gastroenterology 2020 · cited 1069",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32027911",
-"c": ""
-},
-{
-"k": "person:rod-s-taylor",
-"t": "person",
-"n": "Rod S. Taylor",
-"sub": "University of Glasgow",
-"url": "https://orcid.org/0000-0002-3043-6011",
-"c": "GB"
-},
-{
-"k": "org:university-of-glasgow",
-"t": "academic",
-"n": "University of Glasgow",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "org:university-of-birmingham",
-"t": "academic",
-"n": "University of Birmingham",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "org:abbott-laboratories",
-"t": "funder",
-"n": "Abbott Laboratories",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:falk-foundation",
-"t": "funder",
-"n": "Falk Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-36316383",
-"t": "paper",
-"n": "New insights into activation and function of the AMPK",
-"sub": "Nature Reviews Molecular Cell Biology 2022 · cited 1028",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36316383",
-"c": ""
-},
-{
-"k": "person:david-grahame-hardie",
-"t": "person",
-"n": "David Grahame Hardie",
-"sub": "University of Dundee",
-"url": "https://orcid.org/0000-0002-8373-7379",
-"c": "GB"
-},
-{
-"k": "org:university-of-dundee",
-"t": "academic",
-"n": "University of Dundee",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "org:wellcome-trust",
-"t": "funder",
-"n": "Wellcome Trust",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:cancer-research-uk",
-"t": "funder",
-"n": "Cancer Research UK",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-35569886",
-"t": "paper",
-"n": "American Association of Clinical Endocrinology Clinical Practice Guideline for the Diagnos",
-"sub": "Endocrine Practice 2022 · cited 1024",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35569886",
-"c": ""
-},
-{
-"k": "paper:pmid-33972770",
-"t": "paper",
-"n": "The complex link between NAFLD and type 2 diabetes mellitus — mechanisms and treatments",
-"sub": "Nature Reviews Gastroenterology & Hepatology 2021 · cited 853",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33972770",
-"c": ""
-},
-{
-"k": "org:azienda-ospedaliera-universitaria-integrata-verona",
-"t": "hospital",
-"n": "Azienda Ospedaliera Universitaria Integrata Verona",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "person:michael-roden",
-"t": "person",
-"n": "Michael Roden",
-"sub": "Deutsches Diabetes-Zentrum e.V.",
-"url": "https://orcid.org/0000-0001-8200-6382",
-"c": "DE"
-},
-{
-"k": "org:deutsches-diabetes-zentrum-e-v",
-"t": "academic",
-"n": "Deutsches Diabetes-Zentrum e.V.",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "org:german-center-for-diabetes-research",
-"t": "academic",
-"n": "German Center for Diabetes Research",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "paper:pmid-37364816",
-"t": "paper",
-"n": "A multisociety Delphi consensus statement on new fatty liver disease nomenclature",
-"sub": "Annals of Hepatology 2023 · cited 846",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37364816",
-"c": ""
-},
-{
-"k": "paper:pmid-37400694",
-"t": "paper",
-"n": "Hepatic inflammatory responses in liver fibrosis",
-"sub": "Nature Reviews Gastroenterology & Hepatology 2023 · cited 810",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37400694",
-"c": ""
-},
-{
-"k": "person:linda-hammerich",
-"t": "person",
-"n": "Linda Hammerich",
-"sub": "Charité – Universitätsmedizin Berlin",
-"url": "https://orcid.org/0000-0003-0557-3927",
-"c": "DE"
-},
-{
-"k": "org:charite-universitatsmedizin-berlin",
-"t": "hospital",
-"n": "Charité – Universitätsmedizin Berlin",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "org:stiftung-charite",
-"t": "foundation",
-"n": "Stiftung Charité",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "paper:pmid-34670042",
-"t": "paper",
-"n": "A Randomized, Controlled Trial of the Pan-PPAR Agonist Lanifibranor in NASH",
-"sub": "New England Journal of Medicine 2021 · cited 804",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34670042",
-"c": ""
-},
-{
-"k": "org:cliniques-universitaires-saint-luc",
-"t": "hospital",
-"n": "Cliniques Universitaires Saint-Luc",
-"sub": "",
-"url": "",
-"c": "BE"
-},
-{
-"k": "org:universite-libre-de-bruxelles",
-"t": "academic",
-"n": "Université Libre de Bruxelles",
-"sub": "",
-"url": "",
-"c": "BE"
-},
-{
-"k": "person:manal-f-abdelmalek",
-"t": "person",
-"n": "Manal F. Abdelmalek",
-"sub": "Cliniques Universitaires Saint-Luc",
-"url": "https://orcid.org/0000-0002-5001-8618",
-"c": "BE"
-},
-{
-"k": "paper:pmid-35418240",
-"t": "paper",
-"n": "Nonalcoholic Fatty Liver Disease and Cardiovascular Risk: A Scientific Statement From the ",
-"sub": "Arteriosclerosis Thrombosis and Vascular Biology 2022 · cited 727",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35418240",
-"c": ""
-},
-{
-"k": "paper:pmid-32044315",
-"t": "paper",
-"n": "Mechanisms of Fibrosis Development in Nonalcoholic Steatohepatitis",
-"sub": "Gastroenterology 2020 · cited 675",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32044315",
-"c": ""
-},
-{
-"k": "person:robert-f-schwabe",
-"t": "person",
-"n": "Robert F. Schwabe",
-"sub": "Columbia University Irving Medical Center",
-"url": "https://orcid.org/0000-0003-4571-2098",
-"c": "US"
-},
-{
-"k": "person:utpal-b-pajvani",
-"t": "person",
-"n": "Utpal B. Pajvani",
-"sub": "Columbia University Irving Medical Center",
-"url": "https://orcid.org/0000-0001-5991-2723",
-"c": "US"
-},
-{
-"k": "paper:pmid-33037056",
-"t": "paper",
-"n": "Mortality in biopsy-confirmed nonalcoholic fatty liver disease: results from a nationwide ",
-"sub": "Gut 2020 · cited 673",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33037056",
-"c": ""
-},
-{
-"k": "person:tracey-g-simon",
-"t": "person",
-"n": "Tracey G. Simon",
-"sub": "Harvard University",
-"url": "https://orcid.org/0000-0003-0610-5287",
-"c": "US"
-},
-{
-"k": "org:massachusetts-general-hospital",
-"t": "hospital",
-"n": "Massachusetts General Hospital",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:jonas-filip-ludvigsson",
-"t": "person",
-"n": "Jonas Filip Ludvigsson",
-"sub": "University of Nottingham",
-"url": "https://orcid.org/0000-0003-1024-5602",
-"c": "GB"
-},
-{
-"k": "org:university-of-nottingham",
-"t": "academic",
-"n": "University of Nottingham",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "org:karolinska-institutet",
-"t": "academic",
-"n": "Karolinska Institutet",
-"sub": "",
-"url": "",
-"c": "SE"
-},
-{
-"k": "org:harvard-university-center-for-aids-research",
-"t": "funder",
-"n": "Harvard University Center for AIDS Research",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32553765",
-"t": "paper",
-"n": "Bariatric Surgery Provides Long-term Resolution of Nonalcoholic Steatohepatitis and Regres",
-"sub": "Gastroenterology 2020 · cited 622",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32553765",
-"c": ""
-},
-{
-"k": "person:guillaume-lassailly",
-"t": "person",
-"n": "Guillaume Lassailly",
-"sub": "Inserm",
-"url": "https://orcid.org/0000-0002-6955-244X",
-"c": "FR"
-},
-{
-"k": "org:universite-de-lille",
-"t": "academic",
-"n": "Université de Lille",
-"sub": "",
-"url": "",
-"c": "FR"
-},
-{
-"k": "person:francois-n-pattou",
-"t": "person",
-"n": "François N. Pattou",
-"sub": "Inserm",
-"url": "https://orcid.org/0000-0001-8388-3766",
-"c": "FR"
-},
-{
-"k": "person:philippe-mathurin",
-"t": "person",
-"n": "Philippe Mathurin",
-"sub": "Inserm",
-"url": "https://orcid.org/0000-0003-3447-2025",
-"c": "FR"
-},
-{
-"k": "org:european-genomic-institute-for-diabetes",
-"t": "funder",
-"n": "European Genomic Institute for Diabetes",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:european-commission",
-"t": "funder",
-"n": "European Commission",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:ministere-des-affaires-sociales-et-de-la-sante",
-"t": "funder",
-"n": "Ministère des Affaires Sociales et de la Santé",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32555455",
-"t": "paper",
-"n": "A metabolic pathway for bile acid dehydroxylation by the gut microbiome",
-"sub": "Nature 2020 · cited 593",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32555455",
-"c": ""
-},
-{
-"k": "person:masanori-funabashi",
-"t": "person",
-"n": "Masanori Funabashi",
-"sub": "Daiichi Sankyo RD Novare (Japan)",
-"url": "",
-"c": "JP"
-},
-{
-"k": "org:daiichi-sankyo-rd-novare-japan",
-"t": "company",
-"n": "Daiichi Sankyo RD Novare (Japan)",
-"sub": "",
-"url": "",
-"c": "JP"
-},
-{
-"k": "org:stanford-university",
-"t": "academic",
-"n": "Stanford University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:steven-c-almo",
-"t": "person",
-"n": "Steven C. Almo",
-"sub": "Albert Einstein College of Medicine",
-"url": "https://orcid.org/0000-0003-2591-5234",
-"c": "US"
-},
-{
-"k": "org:albert-einstein-college-of-medicine",
-"t": "academic",
-"n": "Albert Einstein College of Medicine",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:michael-andrew-fischbach",
-"t": "person",
-"n": "Michael Andrew Fischbach",
-"sub": "Chan Zuckerberg Biohub San Francisco",
-"url": "https://orcid.org/0000-0003-3079-8247",
-"c": "US"
-},
-{
-"k": "org:chan-zuckerberg-biohub-san-francisco",
-"t": "academic",
-"n": "Chan Zuckerberg Biohub San Francisco",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:howard-hughes-medical-institute",
-"t": "funder",
-"n": "Howard Hughes Medical Institute",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:price-family-foundation",
-"t": "funder",
-"n": "Price Family Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32531342",
-"t": "paper",
-"n": "Nonalcoholic Steatohepatitis Is the Most Rapidly Increasing Indication for Liver Transplan",
-"sub": "Clinical Gastroenterology and Hepatology 2020 · cited 583",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32531342",
-"c": ""
-},
-{
-"k": "org:abbvie",
-"t": "funder",
-"n": "AbbVie",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:hennepin-healthcare-research-institute",
-"t": "funder",
-"n": "Hennepin Healthcare Research Institute",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-34136143",
-"t": "paper",
-"n": "Global Epidemiology of Chronic Liver Disease",
-"sub": "Clinical Liver Disease 2021 · cited 572",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34136143",
-"c": ""
-},
-{
-"k": "person:shantan-cheemerla",
-"t": "person",
-"n": "Shantan Cheemerla",
-"sub": "Baylor College of Medicine",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:maya-balakrishnan",
-"t": "person",
-"n": "Maya Balakrishnan",
-"sub": "Baylor College of Medicine",
-"url": "https://orcid.org/0000-0002-5196-7284",
-"c": "US"
-},
-{
-"k": "paper:pmid-32006558",
-"t": "paper",
-"n": "Complications, morbidity and mortality of nonalcoholic fatty liver disease",
-"sub": "Metabolism 2020 · cited 558",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32006558",
-"c": ""
-},
-{
-"k": "person:alessandro-mantovani",
-"t": "person",
-"n": "Alessandro Mantovani",
-"sub": "University of Verona",
-"url": "https://orcid.org/0000-0002-7271-6329",
-"c": "IT"
-},
-{
-"k": "org:university-hospital-southampton-nhs-foundation-trust",
-"t": "funder",
-"n": "University Hospital Southampton NHS Foundation Trust",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:nihr-biomedical-research-centre-royal-marsden-nhs-foundation",
-"t": "funder",
-"n": "NIHR Biomedical Research Centre, Royal Marsden NHS Foundation Trust/Institute of Cancer Re",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:ministero-della-salute",
-"t": "funder",
-"n": "Ministero della Salute",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-34535788",
-"t": "paper",
-"n": "Emerging therapeutic opportunities for integrin inhibitors",
-"sub": "Nature Reviews Drug Discovery 2021 · cited 546",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34535788",
-"c": ""
-},
-{
-"k": "person:robert-j-slack",
-"t": "person",
-"n": "Robert J. Slack",
-"sub": "GlaxoSmithKline (United Kingdom)",
-"url": "https://orcid.org/0000-0002-4372-9438",
-"c": "GB"
-},
-{
-"k": "org:glaxosmithkline-united-kingdom",
-"t": "company",
-"n": "GlaxoSmithKline (United Kingdom)",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "org:glaxosmithkline-research-development-united-kingdom",
-"t": "company",
-"n": "GlaxoSmithKline Research & Development Limited (United Kingdom)",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "paper:pmid-32730231",
-"t": "paper",
-"n": "Tirzepatide is an imbalanced and biased dual GIP and GLP-1 receptor agonist",
-"sub": "JCI Insight 2020 · cited 541",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32730231",
-"c": ""
-},
-{
-"k": "person:francis-s-willard",
-"t": "person",
-"n": "Francis S. Willard",
-"sub": "Eli Lilly (United States)",
-"url": "https://orcid.org/0000-0002-4260-2451",
-"c": "US"
-},
-{
-"k": "org:eli-lilly-united-states",
-"t": "company",
-"n": "Eli Lilly (United States)",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:american-diabetes-association",
-"t": "funder",
-"n": "American Diabetes Association",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-37356033",
-"t": "paper",
-"n": "Randomized, Controlled Trial of the FGF21 Analogue Pegozafermin in NASH",
-"sub": "New England Journal of Medicine 2023 · cited 524",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37356033",
-"c": ""
-},
-{
-"k": "org:mount-sinai-health-system",
-"t": "hospital",
-"n": "Mount Sinai Health System",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "paper:pmid-37121527",
-"t": "paper",
-"n": "The Global Burden of Liver Disease",
-"sub": "Clinical Gastroenterology and Hepatology 2023 · cited 511",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37121527",
-"c": ""
-},
-{
-"k": "org:european-federation-of-pharmaceutical-industries-and-associa",
-"t": "funder",
-"n": "European Federation of Pharmaceutical Industries and Associations",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:innovative-medicines-initiative",
-"t": "funder",
-"n": "Innovative Medicines Initiative",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-33762736",
-"t": "paper",
-"n": "Auto-aggressive CXCR6+ CD8 T cells cause liver immune pathology in NASH",
-"sub": "Nature 2021 · cited 510",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33762736",
-"c": ""
-},
-{
-"k": "person:michael-dudek",
-"t": "person",
-"n": "Michael Dudek",
-"sub": "Technical University of Munich",
-"url": "https://orcid.org/0000-0002-3959-6820",
-"c": "DE"
-},
-{
-"k": "org:technical-university-of-munich",
-"t": "academic",
-"n": "Technical University of Munich",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "person:percy-alexander-knolle",
-"t": "person",
-"n": "Percy Alexander Knolle",
-"sub": "German Center for Infection Research",
-"url": "https://orcid.org/0000-0003-2983-0414",
-"c": "DE"
-},
-{
-"k": "org:german-center-for-infection-research",
-"t": "academic",
-"n": "German Center for Infection Research",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "org:tehran-university-of-medical-sciences-and-health-services",
-"t": "funder",
-"n": "Tehran University of Medical Sciences and Health Services",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-34427594",
-"t": "paper",
-"n": "Screening for Prediabetes and Type 2 Diabetes",
-"sub": "JAMA 2021 · cited 482",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34427594",
-"c": ""
-},
-{
-"k": "person:us-preventive-services-task-force",
-"t": "person",
-"n": "US Preventive Services Task Force",
-"sub": "Northwell Health",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:northwell-health",
-"t": "hospital",
-"n": "Northwell Health",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:feinstein-institute-for-medical-research",
-"t": "academic",
-"n": "Feinstein Institute for Medical Research",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:karina-w-davidson",
-"t": "person",
-"n": "Karina W. Davidson",
-"sub": "Northwell Health",
-"url": "https://orcid.org/0000-0002-9162-477X",
-"c": "US"
-},
-{
-"k": "person:john-b-wong",
-"t": "person",
-"n": "John B. Wong",
-"sub": "Tufts University",
-"url": "https://orcid.org/0000-0003-4203-9010",
-"c": "US"
-},
-{
-"k": "org:tufts-university",
-"t": "academic",
-"n": "Tufts University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "paper:pmid-33268509",
-"t": "paper",
-"n": "Transcriptomic profiling across the nonalcoholic fatty liver disease spectrum reveals gene",
-"sub": "Science Translational Medicine 2020 · cited 480",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33268509",
-"c": ""
-},
-{
-"k": "person:olivier-govaere",
-"t": "person",
-"n": "Olivier Govaere",
-"sub": "Newcastle University",
-"url": "https://orcid.org/0000-0002-4426-6930",
-"c": "GB"
-},
-{
-"k": "org:newcastle-university",
-"t": "academic",
-"n": "Newcastle University",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "person:ann-k-daly",
-"t": "person",
-"n": "Ann K. Daly",
-"sub": "Newcastle University",
-"url": "https://orcid.org/0000-0002-7321-0629",
-"c": "GB"
-},
-{
-"k": "person:quentin-mark-anstee",
-"t": "person",
-"n": "Quentin Mark Anstee",
-"sub": "NIHR Newcastle Biomedical Research Centre",
-"url": "https://orcid.org/0000-0002-9518-0088",
-"c": "GB"
-},
-{
-"k": "org:nihr-newcastle-biomedical-research-centre",
-"t": "academic",
-"n": "NIHR Newcastle Biomedical Research Centre",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "paper:pmid-36323784",
-"t": "paper",
-"n": "Blocking PD-L1–PD-1 improves senescence surveillance and ageing phenotypes",
-"sub": "Nature 2022 · cited 478",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36323784",
-"c": ""
-},
-{
-"k": "person:tehwei-wang",
-"t": "person",
-"n": "Teh‐Wei Wang",
-"sub": "Institute of Medical Science, The University of Tokyo",
-"url": "",
-"c": "JP"
-},
-{
-"k": "org:institute-of-medical-science-the-university-of-tokyo",
-"t": "academic",
-"n": "Institute of Medical Science, The University of Tokyo",
-"sub": "",
-"url": "",
-"c": "JP"
-},
-{
-"k": "org:the-university-of-tokyo",
-"t": "academic",
-"n": "The University of Tokyo",
-"sub": "",
-"url": "",
-"c": "JP"
-},
-{
-"k": "person:yoshikazu-johmura",
-"t": "person",
-"n": "Yoshikazu Johmura",
-"sub": "Kanazawa University",
-"url": "https://orcid.org/0000-0002-6812-9607",
-"c": "JP"
-},
-{
-"k": "org:kanazawa-university",
-"t": "academic",
-"n": "Kanazawa University",
-"sub": "",
-"url": "",
-"c": "JP"
-},
-{
-"k": "org:cancer-research-institute-of-kanazawa-university",
-"t": "academic",
-"n": "Cancer Research Institute of Kanazawa University",
-"sub": "",
-"url": "",
-"c": "JP"
-},
-{
-"k": "person:makoto-nakanishi",
-"t": "person",
-"n": "Makoto Nakanishi",
-"sub": "Institute of Medical Science, The University of Tokyo",
-"url": "https://orcid.org/0000-0002-6707-3584",
-"c": "JP"
-},
-{
-"k": "org:japan-society-for-the-promotion-of-science",
-"t": "funder",
-"n": "Japan Society for the Promotion of Science",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32931733",
-"t": "paper",
-"n": "Targeting Mitochondria-Located circRNA SCAR Alleviates NASH via Reducing mROS Output",
-"sub": "Cell 2020 · cited 469",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32931733",
-"c": ""
-},
-{
-"k": "person:qiyi-zhao",
-"t": "person",
-"n": "Qiyi Zhao",
-"sub": "Sun Yat-sen University",
-"url": "https://orcid.org/0000-0002-6901-5345",
-"c": "CN"
-},
-{
-"k": "org:sun-yat-sen-university",
-"t": "academic",
-"n": "Sun Yat-sen University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "org:sun-yat-sen-memorial-hospital",
-"t": "hospital",
-"n": "Sun Yat-sen Memorial Hospital",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:xiaoding-xu",
-"t": "person",
-"n": "Xiaoding Xu",
-"sub": "Sun Yat-sen University",
-"url": "https://orcid.org/0000-0002-9785-6731",
-"c": "CN"
-},
-{
-"k": "person:zhiliang-gao",
-"t": "person",
-"n": "Zhiliang Gao",
-"sub": "Sun Yat-sen University",
-"url": "https://orcid.org/0000-0002-1426-6462",
-"c": "CN"
-},
-{
-"k": "org:third-affiliated-hospital-of-sun-yat-sen-university",
-"t": "hospital",
-"n": "Third Affiliated Hospital of Sun Yat-sen University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:shicheng-su",
-"t": "person",
-"n": "Shicheng Su",
-"sub": "Sun Yat-sen University",
-"url": "https://orcid.org/0000-0003-2280-3587",
-"c": "CN"
-},
-{
-"k": "org:natural-science-foundation-of-guangdong-province",
-"t": "funder",
-"n": "Natural Science Foundation of Guangdong Province",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-science-and-technology-major-project",
-"t": "funder",
-"n": "National Science and Technology Major Project",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:pearl-river-s-and-t-nova-program-of-guangzhou",
-"t": "funder",
-"n": "Pearl River S and T Nova Program of Guangzhou",
 "sub": "",
 "url": "",
 "c": ""
@@ -5950,16 +5366,6 @@
 "r": "tested_in"
 },
 {
-"a": "drug:htd1801",
-"b": "asset:alg055009",
-"r": "competes"
-},
-{
-"a": "drug:htd1801",
-"b": "trial:nct05623189",
-"r": "tested_in"
-},
-{
 "a": "drug:hu6",
 "b": "asset:alg055009",
 "r": "competes"
@@ -6285,23 +5691,8 @@
 "r": "site_of"
 },
 {
-"a": "org:abbott-laboratories",
-"b": "paper:pmid-32027911",
-"r": "funded"
-},
-{
-"a": "org:abbvie",
-"b": "paper:pmid-32531342",
-"r": "funded"
-},
-{
 "a": "org:adobe-clinical-research",
 "b": "trial:nct05519475",
-"r": "site_of"
-},
-{
-"a": "org:adobe-clinical-research",
-"b": "trial:nct05623189",
 "r": "site_of"
 },
 {
@@ -6356,16 +5747,6 @@
 },
 {
 "a": "org:agence-nationale-de-la-recherche",
-"b": "paper:pmid-32553765",
-"r": "funded"
-},
-{
-"a": "org:agence-nationale-de-la-recherche",
-"b": "paper:pmid-33268509",
-"r": "funded"
-},
-{
-"a": "org:agence-nationale-de-la-recherche",
 "b": "paper:pmid-38856224",
 "r": "funded"
 },
@@ -6373,11 +5754,6 @@
 "a": "org:agency-for-healthcare-research-and-quality",
 "b": "paper:pmid-39821400",
 "r": "funded"
-},
-{
-"a": "org:aizona-liver-health",
-"b": "trial:nct05623189",
-"r": "site_of"
 },
 {
 "a": "org:akero-clinical-study-site",
@@ -6445,34 +5821,19 @@
 "r": "sponsors"
 },
 {
-"a": "org:american-association-for-the-study-of-liver-diseases",
-"b": "paper:pmid-35569886",
-"r": "funded"
+"a": "org:altimmune-clinical-study-site",
+"b": "trial:nct07795164",
+"r": "site_of"
 },
 {
-"a": "org:american-association-for-the-study-of-liver-diseases",
-"b": "paper:pmid-36727674",
-"r": "funded"
+"a": "org:american-research",
+"b": "trial:nct07527910",
+"r": "site_of"
 },
 {
-"a": "org:american-diabetes-association",
-"b": "paper:pmid-32730231",
-"r": "funded"
-},
-{
-"a": "org:amgen",
-"b": "paper:pmid-37363821",
-"r": "funded"
-},
-{
-"a": "org:amgen",
-"b": "paper:pmid-37364790",
-"r": "funded"
-},
-{
-"a": "org:amgen",
-"b": "paper:pmid-37364816",
-"r": "funded"
+"a": "org:american-research-at-the-texas-liver-institute",
+"b": "trial:nct07527910",
+"r": "site_of"
 },
 {
 "a": "org:arcare-center-for-clinical-research",
@@ -6495,6 +5856,11 @@
 "r": "site_of"
 },
 {
+"a": "org:arizona-clinical-trials-chandler",
+"b": "trial:nct07325526",
+"r": "site_of"
+},
+{
 "a": "org:arizona-liver-health",
 "b": "trial:nct04849728",
 "r": "site_of"
@@ -6510,8 +5876,8 @@
 "r": "site_of"
 },
 {
-"a": "org:arizona-liver-health-glendae",
-"b": "trial:nct05623189",
+"a": "org:arizona-liver-health-chandler",
+"b": "trial:nct07491458",
 "r": "site_of"
 },
 {
@@ -6590,6 +5956,11 @@
 "r": "site_of"
 },
 {
+"a": "org:arkansas-gastroenterology-p-a",
+"b": "trial:nct07288138",
+"r": "site_of"
+},
+{
 "a": "org:arrowhead-pharmaceuticals",
 "b": "drug:aro-inhbe",
 "r": "develops"
@@ -6650,6 +6021,11 @@
 "r": "sponsors"
 },
 {
+"a": "org:baptist-health-center-for-clinical-research",
+"b": "trial:nct07491458",
+"r": "site_of"
+},
+{
 "a": "org:beijing-tsinghua-changgung-hospital",
 "b": "trial:nct06937749",
 "r": "site_of"
@@ -6672,6 +6048,11 @@
 {
 "a": "org:beth-israel-deaconess-medical-center",
 "b": "trial:nct07850063",
+"r": "site_of"
+},
+{
+"a": "org:biotrial",
+"b": "trial:nct05090111",
 "r": "site_of"
 },
 {
@@ -6721,36 +6102,6 @@
 },
 {
 "a": "org:bristol-myers-squibb",
-"b": "paper:pmid-32027911",
-"r": "funded"
-},
-{
-"a": "org:bristol-myers-squibb",
-"b": "paper:pmid-32531342",
-"r": "funded"
-},
-{
-"a": "org:bristol-myers-squibb",
-"b": "paper:pmid-36727674",
-"r": "funded"
-},
-{
-"a": "org:bristol-myers-squibb",
-"b": "paper:pmid-37363821",
-"r": "funded"
-},
-{
-"a": "org:bristol-myers-squibb",
-"b": "paper:pmid-37364790",
-"r": "funded"
-},
-{
-"a": "org:bristol-myers-squibb",
-"b": "paper:pmid-37364816",
-"r": "funded"
-},
-{
-"a": "org:bristol-myers-squibb",
 "b": "paper:pmid-38852583",
 "r": "funded"
 },
@@ -6770,8 +6121,8 @@
 "r": "site_of"
 },
 {
-"a": "org:california-liver-institute",
-"b": "trial:nct05623189",
+"a": "org:california-clinical-trials-medical-group",
+"b": "trial:nct05648214",
 "r": "site_of"
 },
 {
@@ -6791,17 +6142,7 @@
 },
 {
 "a": "org:canadian-institutes-of-health-research",
-"b": "paper:pmid-36316383",
-"r": "funded"
-},
-{
-"a": "org:canadian-institutes-of-health-research",
 "b": "paper:pmid-40032040",
-"r": "funded"
-},
-{
-"a": "org:cancer-research-uk",
-"b": "paper:pmid-36316383",
 "r": "funded"
 },
 {
@@ -6823,16 +6164,6 @@
 "a": "org:cascade-pharmaceuticals",
 "b": "trial:nct07466017",
 "r": "sponsors"
-},
-{
-"a": "org:case-western-reserve-university",
-"b": "paper:pmid-32582143",
-"r": "funded"
-},
-{
-"a": "org:catalina-research-institute",
-"b": "trial:nct05623189",
-"r": "site_of"
 },
 {
 "a": "org:catalina-research-institute",
@@ -6860,6 +6191,11 @@
 "r": "funded"
 },
 {
+"a": "org:centricity-research-columbus-georgia-multispecialty",
+"b": "trial:nct07325526",
+"r": "site_of"
+},
+{
 "a": "org:chandan-sen",
 "b": "drug:tocotrienol",
 "r": "develops"
@@ -6868,6 +6204,16 @@
 "a": "org:chandan-sen",
 "b": "trial:nct02581085",
 "r": "sponsors"
+},
+{
+"a": "org:charter-research-chicago",
+"b": "trial:nct07491458",
+"r": "site_of"
+},
+{
+"a": "org:charter-research-orlando",
+"b": "trial:nct07491458",
+"r": "site_of"
 },
 {
 "a": "org:china-postdoctoral-science-foundation",
@@ -6885,6 +6231,11 @@
 "r": "funded"
 },
 {
+"a": "org:chipscreen-biosciences",
+"b": "trial:nct07303803",
+"r": "collaborates"
+},
+{
 "a": "org:christian-doppler-forschungsgesellschaft",
 "b": "paper:pmid-38908436",
 "r": "funded"
@@ -6892,11 +6243,6 @@
 {
 "a": "org:cincinnati-children-s-hospital-medical-center",
 "b": "trial:nct06133101",
-"r": "site_of"
-},
-{
-"a": "org:clinnova-research-solutions",
-"b": "trial:nct05623189",
 "r": "site_of"
 },
 {
@@ -6928,11 +6274,6 @@
 "a": "org:covenant-metabolic-specialists-university-park",
 "b": "trial:nct07850063",
 "r": "site_of"
-},
-{
-"a": "org:crohn-s-and-colitis-foundation",
-"b": "paper:pmid-32582143",
-"r": "funded"
 },
 {
 "a": "org:cure-clinical-research",
@@ -6970,6 +6311,11 @@
 "r": "site_of"
 },
 {
+"a": "org:delta-research-partners-of-bastrop",
+"b": "trial:nct07491458",
+"r": "site_of"
+},
+{
 "a": "org:diabetes-canada",
 "b": "paper:pmid-40032040",
 "r": "funded"
@@ -6982,6 +6328,11 @@
 {
 "a": "org:dignity-health-st-joseph-s-hospital-and-medical-center",
 "b": "trial:nct04849728",
+"r": "site_of"
+},
+{
+"a": "org:ditan-hospital-of-integrated-traditional-chinese-and-western",
+"b": "trial:nct07303803",
 "r": "site_of"
 },
 {
@@ -7023,26 +6374,6 @@
 "a": "org:eli-lilly-and-company",
 "b": "drug:tirzepatide",
 "r": "develops"
-},
-{
-"a": "org:eli-lilly-and-company",
-"b": "paper:pmid-32730231",
-"r": "funded"
-},
-{
-"a": "org:eli-lilly-and-company",
-"b": "paper:pmid-37363821",
-"r": "funded"
-},
-{
-"a": "org:eli-lilly-and-company",
-"b": "paper:pmid-37364790",
-"r": "funded"
-},
-{
-"a": "org:eli-lilly-and-company",
-"b": "paper:pmid-37364816",
-"r": "funded"
 },
 {
 "a": "org:eli-lilly-and-company",
@@ -7095,33 +6426,8 @@
 "r": "funded"
 },
 {
-"a": "org:european-commission",
-"b": "paper:pmid-32553765",
-"r": "funded"
-},
-{
-"a": "org:european-commission",
-"b": "paper:pmid-33268509",
-"r": "funded"
-},
-{
-"a": "org:european-commission",
-"b": "paper:pmid-37121527",
-"r": "funded"
-},
-{
-"a": "org:european-federation-of-pharmaceutical-industries-and-associa",
-"b": "paper:pmid-37121527",
-"r": "funded"
-},
-{
-"a": "org:european-genomic-institute-for-diabetes",
-"b": "paper:pmid-32553765",
-"r": "funded"
-},
-{
-"a": "org:excel-medical-clinical-trials",
-"b": "trial:nct05623189",
+"a": "org:evolution-clinical-trials",
+"b": "trial:nct07527910",
 "r": "site_of"
 },
 {
@@ -7133,11 +6439,6 @@
 "a": "org:faculty-of-medicine-tanta-university-tanta-egypt",
 "b": "trial:nct07900100",
 "r": "site_of"
-},
-{
-"a": "org:falk-foundation",
-"b": "paper:pmid-32027911",
-"r": "funded"
 },
 {
 "a": "org:florida-research-institute",
@@ -7198,16 +6499,6 @@
 "a": "org:genoma-research-group",
 "b": "trial:nct07631637",
 "r": "site_of"
-},
-{
-"a": "org:gilead-sciences",
-"b": "paper:pmid-32061595",
-"r": "funded"
-},
-{
-"a": "org:gilead-sciences",
-"b": "paper:pmid-32531342",
-"r": "funded"
 },
 {
 "a": "org:gilead-sciences",
@@ -7350,29 +6641,14 @@
 "r": "site_of"
 },
 {
-"a": "org:harvard-university-center-for-aids-research",
-"b": "paper:pmid-33037056",
-"r": "funded"
+"a": "org:health-awareness",
+"b": "trial:nct07527910",
+"r": "site_of"
 },
 {
 "a": "org:heinrich-heine-universitat-dusseldorf",
 "b": "paper:pmid-38869512",
 "r": "funded"
-},
-{
-"a": "org:hennepin-healthcare-research-institute",
-"b": "paper:pmid-32531342",
-"r": "funded"
-},
-{
-"a": "org:hightide-therapeutics-hong-kong",
-"b": "drug:htd1801",
-"r": "develops"
-},
-{
-"a": "org:hightide-therapeutics-hong-kong",
-"b": "trial:nct05623189",
-"r": "sponsors"
 },
 {
 "a": "org:hoffmann-la-roche",
@@ -7400,38 +6676,18 @@
 "r": "site_of"
 },
 {
-"a": "org:houston-methodist-hospital",
-"b": "paper:pmid-38324483",
-"r": "funded"
-},
-{
-"a": "org:howard-hughes-medical-institute",
-"b": "paper:pmid-32555455",
-"r": "funded"
-},
-{
-"a": "org:icahn-school-of-medicine-at-mount-sinai",
-"b": "paper:pmid-33989548",
-"r": "funded"
-},
-{
 "a": "org:indiana-university",
 "b": "trial:nct02581085",
 "r": "collaborates"
 },
 {
-"a": "org:inland-empire-liver-foundation",
-"b": "trial:nct05623189",
+"a": "org:inland-empire-clinical-trials",
+"b": "trial:nct07631637",
 "r": "site_of"
 },
 {
 "a": "org:innovation-and-technology-fund",
 "b": "paper:pmid-38950910",
-"r": "funded"
-},
-{
-"a": "org:innovative-medicines-initiative",
-"b": "paper:pmid-37121527",
 "r": "funded"
 },
 {
@@ -7496,11 +6752,6 @@
 },
 {
 "a": "org:inventiva-pharma",
-"b": "paper:pmid-34670042",
-"r": "funded"
-},
-{
-"a": "org:inventiva-pharma",
 "b": "trial:nct04849728",
 "r": "sponsors"
 },
@@ -7515,9 +6766,9 @@
 "r": "site_of"
 },
 {
-"a": "org:japan-society-for-the-promotion-of-science",
-"b": "paper:pmid-36323784",
-"r": "funded"
+"a": "org:kaiser-permanente-los-angeles-medical-center",
+"b": "trial:nct07325526",
+"r": "site_of"
 },
 {
 "a": "org:kansas-medical-clinic-pa",
@@ -7525,13 +6776,18 @@
 "r": "site_of"
 },
 {
-"a": "org:karolinska-institutet",
-"b": "paper:pmid-33037056",
-"r": "funded"
-},
-{
 "a": "org:keck-medical-center-of-usc",
 "b": "trial:nct05832229",
+"r": "site_of"
+},
+{
+"a": "org:knowledge-research-center",
+"b": "trial:nct07491458",
+"r": "site_of"
+},
+{
+"a": "org:kriya-clinical-trial-site",
+"b": "trial:nct07732400",
 "r": "site_of"
 },
 {
@@ -7635,6 +6891,11 @@
 "r": "funded"
 },
 {
+"a": "org:medstar-georgetown-university-hospital",
+"b": "trial:nct07335601",
+"r": "site_of"
+},
+{
 "a": "org:merck",
 "b": "paper:pmid-39159948",
 "r": "funded"
@@ -7655,16 +6916,6 @@
 "r": "collaborates"
 },
 {
-"a": "org:ministere-des-affaires-sociales-et-de-la-sante",
-"b": "paper:pmid-32553765",
-"r": "funded"
-},
-{
-"a": "org:ministero-della-salute",
-"b": "paper:pmid-32006558",
-"r": "funded"
-},
-{
 "a": "org:ministry-of-education-and-research-romania",
 "b": "paper:pmid-38908436",
 "r": "funded"
@@ -7680,9 +6931,14 @@
 "r": "site_of"
 },
 {
-"a": "org:national-cancer-institute",
-"b": "paper:pmid-32044315",
-"r": "funded"
+"a": "org:nanjing-gulou-hospital",
+"b": "trial:nct07024212",
+"r": "site_of"
+},
+{
+"a": "org:nanjing-jiangning-hospital",
+"b": "trial:nct07466017",
+"r": "site_of"
 },
 {
 "a": "org:national-cancer-institute",
@@ -7711,37 +6967,7 @@
 },
 {
 "a": "org:national-heart-lung-and-blood-institute",
-"b": "paper:pmid-32555455",
-"r": "funded"
-},
-{
-"a": "org:national-heart-lung-and-blood-institute",
-"b": "paper:pmid-33349658",
-"r": "funded"
-},
-{
-"a": "org:national-heart-lung-and-blood-institute",
 "b": "paper:pmid-38445559",
-"r": "funded"
-},
-{
-"a": "org:national-institute-for-health-and-care-research",
-"b": "paper:pmid-32006558",
-"r": "funded"
-},
-{
-"a": "org:national-institute-for-health-and-care-research",
-"b": "paper:pmid-33268509",
-"r": "funded"
-},
-{
-"a": "org:national-institute-for-health-and-care-research",
-"b": "paper:pmid-34535788",
-"r": "funded"
-},
-{
-"a": "org:national-institute-for-health-and-care-research",
-"b": "paper:pmid-37121527",
 "r": "funded"
 },
 {
@@ -7755,6 +6981,11 @@
 "r": "funded"
 },
 {
+"a": "org:national-institute-of-clinical-research",
+"b": "trial:nct07491458",
+"r": "site_of"
+},
+{
 "a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
 "b": "drug:rosuvastatin",
 "r": "develops"
@@ -7763,31 +6994,6 @@
 "a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
 "b": "drug:semaglutide",
 "r": "develops"
-},
-{
-"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
-"b": "paper:pmid-32044315",
-"r": "funded"
-},
-{
-"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
-"b": "paper:pmid-32207804",
-"r": "funded"
-},
-{
-"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
-"b": "paper:pmid-33037056",
-"r": "funded"
-},
-{
-"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
-"b": "paper:pmid-33349658",
-"r": "funded"
-},
-{
-"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
-"b": "paper:pmid-37356033",
-"r": "funded"
 },
 {
 "a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
@@ -7856,41 +7062,6 @@
 },
 {
 "a": "org:national-institutes-of-health",
-"b": "paper:pmid-32044315",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-32555455",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-32582143",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-32730231",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-33037056",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-33349658",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:pmid-33989548",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
 "b": "paper:pmid-38445559",
 "r": "funded"
 },
@@ -7907,11 +7078,6 @@
 {
 "a": "org:national-medical-research-council",
 "b": "paper:pmid-39086662",
-"r": "funded"
-},
-{
-"a": "org:national-natural-science-foundation-of-china",
-"b": "paper:pmid-32931733",
 "r": "funded"
 },
 {
@@ -7940,16 +7106,6 @@
 "r": "site_of"
 },
 {
-"a": "org:national-science-and-technology-major-project",
-"b": "paper:pmid-32931733",
-"r": "funded"
-},
-{
-"a": "org:natural-science-foundation-of-guangdong-province",
-"b": "paper:pmid-32931733",
-"r": "funded"
-},
-{
 "a": "org:neuraly",
 "b": "drug:dd01",
 "r": "develops"
@@ -7963,21 +7119,6 @@
 "a": "org:new-york-presbyterian-weill-cornell",
 "b": "trial:nct05832229",
 "r": "site_of"
-},
-{
-"a": "org:newcastle-university",
-"b": "paper:pmid-33268509",
-"r": "funded"
-},
-{
-"a": "org:ngm-biopharmaceuticals",
-"b": "paper:pmid-36727674",
-"r": "funded"
-},
-{
-"a": "org:nihr-biomedical-research-centre-royal-marsden-nhs-foundation",
-"b": "paper:pmid-32006558",
-"r": "funded"
 },
 {
 "a": "org:north-al-health-res",
@@ -7995,6 +7136,11 @@
 "r": "site_of"
 },
 {
+"a": "org:northwell-health-center-for-liver-disease-and-transplantatio",
+"b": "trial:nct07335601",
+"r": "site_of"
+},
+{
 "a": "org:northwestern-university",
 "b": "drug:lisinopril",
 "r": "develops"
@@ -8008,26 +7154,6 @@
 "a": "org:northwestern-university",
 "b": "trial:nct07335601",
 "r": "site_of"
-},
-{
-"a": "org:novartis",
-"b": "paper:pmid-32061595",
-"r": "funded"
-},
-{
-"a": "org:novo-nordisk",
-"b": "paper:pmid-32730231",
-"r": "funded"
-},
-{
-"a": "org:novo-nordisk",
-"b": "paper:pmid-33185364",
-"r": "funded"
-},
-{
-"a": "org:novo-nordisk",
-"b": "paper:pmid-36727674",
-"r": "funded"
 },
 {
 "a": "org:novo-nordisk",
@@ -8050,6 +7176,11 @@
 "r": "site_of"
 },
 {
+"a": "org:om-research",
+"b": "trial:nct07288138",
+"r": "site_of"
+},
+{
 "a": "org:opko-health",
 "b": "drug:opk-88006",
 "r": "develops"
@@ -8060,24 +7191,24 @@
 "r": "sponsors"
 },
 {
-"a": "org:pearl-river-s-and-t-nova-program-of-guangzhou",
-"b": "paper:pmid-32931733",
-"r": "funded"
+"a": "org:opko-study-site",
+"b": "trial:nct07512427",
+"r": "site_of"
 },
 {
-"a": "org:pfizer",
-"b": "paper:pmid-32027911",
-"r": "funded"
+"a": "org:panax-clinical-research",
+"b": "trial:nct07325526",
+"r": "site_of"
 },
 {
-"a": "org:pfizer",
-"b": "paper:pmid-37363821",
-"r": "funded"
+"a": "org:parexel-international-early-phase-clinical-unit",
+"b": "trial:nct06836609",
+"r": "site_of"
 },
 {
-"a": "org:pfizer",
-"b": "paper:pmid-37364816",
-"r": "funded"
+"a": "org:peak-gastroenterology-associates",
+"b": "trial:nct07325526",
+"r": "site_of"
 },
 {
 "a": "org:pfizer",
@@ -8105,18 +7236,33 @@
 "r": "funded"
 },
 {
+"a": "org:pioneer-research-solutions",
+"b": "trial:nct05648214",
+"r": "site_of"
+},
+{
+"a": "org:ppd-austin-cru",
+"b": "trial:nct06959888",
+"r": "site_of"
+},
+{
+"a": "org:ppd-austin-research-unit",
+"b": "trial:nct06191991",
+"r": "site_of"
+},
+{
 "a": "org:precision-research-institute-pri",
 "b": "trial:nct04505436",
 "r": "site_of"
 },
 {
-"a": "org:price-family-foundation",
-"b": "paper:pmid-32555455",
-"r": "funded"
-},
-{
 "a": "org:prince-of-wales-hospital-the-chinese-university-of-hong-kong",
 "b": "trial:nct07024212",
+"r": "site_of"
+},
+{
+"a": "org:profil-institut-fur-stoffwechselforschung",
+"b": "trial:nct06939816",
 "r": "site_of"
 },
 {
@@ -8180,6 +7326,16 @@
 "r": "sponsors"
 },
 {
+"a": "org:renji-hospital-affiliated-to-shanghai-jiao-tong-university-s",
+"b": "trial:nct07466017",
+"r": "site_of"
+},
+{
+"a": "org:renji-hospital-of-shanghai-jiao-tong-university-school-of-me",
+"b": "trial:nct07303803",
+"r": "site_of"
+},
+{
 "a": "org:richmond-pharmacology",
 "b": "trial:nct06836609",
 "r": "site_of"
@@ -8187,6 +7343,11 @@
 {
 "a": "org:richmond-pharmacology",
 "b": "trial:nct07427680",
+"r": "site_of"
+},
+{
+"a": "org:riley-hospital-for-children-at-iu-health",
+"b": "trial:nct07763015",
 "r": "site_of"
 },
 {
@@ -8205,6 +7366,11 @@
 "r": "site_of"
 },
 {
+"a": "org:ruijin-hospital-affiliated-to-shanghai-jiao-tong-university",
+"b": "trial:nct07466017",
+"r": "site_of"
+},
+{
 "a": "org:ruijin-hospital-shanghai-jiaotong-university-school-of-medic",
 "b": "trial:nct07198386",
 "r": "site_of"
@@ -8217,11 +7383,6 @@
 {
 "a": "org:san-fernando-valley-health-institute",
 "b": "trial:nct05519475",
-"r": "site_of"
-},
-{
-"a": "org:san-fernando-valley-health-institute",
-"b": "trial:nct05623189",
 "r": "site_of"
 },
 {
@@ -8245,6 +7406,11 @@
 "r": "site_of"
 },
 {
+"a": "org:schiff-center-liver-diseases",
+"b": "trial:nct07325526",
+"r": "site_of"
+},
+{
 "a": "org:science-and-technology-commission-of-shanghai-municipality",
 "b": "paper:pmid-39530327",
 "r": "funded"
@@ -8262,6 +7428,11 @@
 {
 "a": "org:shang-wu-m-d",
 "b": "trial:nct04822181",
+"r": "site_of"
+},
+{
+"a": "org:shanghai-first-people-s-hospital",
+"b": "trial:nct07466017",
 "r": "site_of"
 },
 {
@@ -8315,8 +7486,18 @@
 "r": "site_of"
 },
 {
+"a": "org:southern-hospital",
+"b": "trial:nct07303803",
+"r": "site_of"
+},
+{
 "a": "org:southwest-gastroenterology-associates-p-c",
 "b": "trial:nct07850063",
+"r": "site_of"
+},
+{
+"a": "org:southwest-hospital-of-third-military-medical-university",
+"b": "trial:nct07303803",
 "r": "site_of"
 },
 {
@@ -8325,8 +7506,18 @@
 "r": "site_of"
 },
 {
+"a": "org:summit-research-site",
+"b": "trial:nct06410924",
+"r": "site_of"
+},
+{
 "a": "org:synexus-us-chandler",
 "b": "trial:nct04505436",
+"r": "site_of"
+},
+{
+"a": "org:taihe-hospital",
+"b": "trial:nct07303803",
 "r": "site_of"
 },
 {
@@ -8337,6 +7528,11 @@
 {
 "a": "org:tandem-clinical-research",
 "b": "trial:nct07631637",
+"r": "site_of"
+},
+{
+"a": "org:tandem-clinical-research-plaza-ii",
+"b": "trial:nct07527910",
 "r": "site_of"
 },
 {
@@ -8370,11 +7566,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:tehran-university-of-medical-sciences-and-health-services",
-"b": "paper:pmid-33762736",
-"r": "funded"
-},
-{
 "a": "org:the-affiliated-hospital-of-hangzhou-normal-university",
 "b": "trial:nct07024212",
 "r": "site_of"
@@ -8405,13 +7596,28 @@
 "r": "site_of"
 },
 {
-"a": "org:the-institute-for-liver-health",
-"b": "trial:nct04822181",
+"a": "org:the-first-affiliated-hospital-of-jilin-university",
+"b": "trial:nct07303803",
 "r": "site_of"
 },
 {
-"a": "org:the-institute-for-liver-health-arizona-liver-health",
-"b": "trial:nct05623189",
+"a": "org:the-first-affiliated-hospital-of-zhengzhou-university",
+"b": "trial:nct07660848",
+"r": "site_of"
+},
+{
+"a": "org:the-first-hospital-of-hebei-medical-university",
+"b": "trial:nct07466017",
+"r": "site_of"
+},
+{
+"a": "org:the-first-hospital-of-jilin-university",
+"b": "trial:nct07024212",
+"r": "site_of"
+},
+{
+"a": "org:the-institute-for-liver-health",
+"b": "trial:nct04822181",
 "r": "site_of"
 },
 {
@@ -8465,6 +7671,26 @@
 "r": "site_of"
 },
 {
+"a": "org:the-second-affiliated-hospital-of-anhui-medical-university",
+"b": "trial:nct07466017",
+"r": "site_of"
+},
+{
+"a": "org:the-second-affiliated-hospital-of-zhejiang-university-school",
+"b": "trial:nct07466017",
+"r": "site_of"
+},
+{
+"a": "org:the-third-affiliated-hospital-of-guangzhou-medical-universit",
+"b": "trial:nct07466017",
+"r": "site_of"
+},
+{
+"a": "org:the-third-affiliated-hospital-of-sun-yat-sen-university",
+"b": "trial:nct07303803",
+"r": "site_of"
+},
+{
 "a": "org:the-united-bio-technology-hengqin",
 "b": "drug:ubt251",
 "r": "develops"
@@ -8475,14 +7701,14 @@
 "r": "sponsors"
 },
 {
-"a": "org:u-s-department-of-veterans-affairs",
-"b": "paper:pmid-33349658",
-"r": "funded"
+"a": "org:the-university-of-chicago-medicine",
+"b": "trial:nct07335601",
+"r": "site_of"
 },
 {
-"a": "org:u-s-department-of-veterans-affairs",
-"b": "paper:pmid-37364790",
-"r": "funded"
+"a": "org:tongren-hospital-affiliated-to-shanghai-jiao-tong-university",
+"b": "trial:nct07466017",
+"r": "site_of"
 },
 {
 "a": "org:u-s-department-of-veterans-affairs",
@@ -8492,6 +7718,11 @@
 {
 "a": "org:uc-davis-health-system-midtown-ambulatory-care-center",
 "b": "trial:nct04505436",
+"r": "site_of"
+},
+{
+"a": "org:ucsd-medical-center",
+"b": "trial:nct07288138",
 "r": "site_of"
 },
 {
@@ -8510,18 +7741,13 @@
 "r": "site_of"
 },
 {
+"a": "org:universal-axon-clinical-research",
+"b": "trial:nct07631637",
+"r": "site_of"
+},
+{
 "a": "org:universita-degli-studi-di-milano",
 "b": "paper:pmid-38869512",
-"r": "funded"
-},
-{
-"a": "org:universite-catholique-de-louvain",
-"b": "paper:pmid-38324483",
-"r": "funded"
-},
-{
-"a": "org:university-hospital-southampton-nhs-foundation-trust",
-"b": "paper:pmid-32006558",
 "r": "funded"
 },
 {
@@ -8530,14 +7756,14 @@
 "r": "funded"
 },
 {
-"a": "org:university-hospitals-birmingham-nhs-foundation-trust",
-"b": "paper:pmid-38324483",
-"r": "funded"
+"a": "org:university-of-alabama-at-birmingham",
+"b": "trial:nct06632444",
+"r": "site_of"
 },
 {
-"a": "org:university-of-california-san-diego",
-"b": "paper:pmid-33989548",
-"r": "funded"
+"a": "org:university-of-california-los-angeles-medical-center",
+"b": "trial:nct07335601",
+"r": "site_of"
 },
 {
 "a": "org:university-of-california-san-diego",
@@ -8561,6 +7787,11 @@
 },
 {
 "a": "org:university-of-california-san-francisco",
+"b": "trial:nct07335601",
+"r": "site_of"
+},
+{
+"a": "org:university-of-colorado",
 "b": "trial:nct07335601",
 "r": "site_of"
 },
@@ -8610,6 +7841,11 @@
 "r": "site_of"
 },
 {
+"a": "org:university-of-nebraska",
+"b": "trial:nct07335601",
+"r": "site_of"
+},
+{
 "a": "org:university-of-southern-california",
 "b": "trial:nct05832229",
 "r": "collaborates"
@@ -8640,19 +7876,19 @@
 "r": "site_of"
 },
 {
-"a": "org:virginia-commonwealth-university",
-"b": "paper:pmid-38324483",
-"r": "funded"
+"a": "org:velocity-clinical-research-huntington-park",
+"b": "trial:nct06632457",
+"r": "site_of"
+},
+{
+"a": "org:velocity-clinical-research-san-diego",
+"b": "trial:nct07325526",
+"r": "site_of"
 },
 {
 "a": "org:virginia-commonwealth-university",
 "b": "trial:nct05832229",
 "r": "collaborates"
-},
-{
-"a": "org:wayne-state-university",
-"b": "paper:pmid-32582143",
-"r": "funded"
 },
 {
 "a": "org:weill-medical-college-of-cornell-university",
@@ -8660,13 +7896,18 @@
 "r": "collaborates"
 },
 {
-"a": "org:wellcome-trust",
-"b": "paper:pmid-36316383",
-"r": "funded"
+"a": "org:wuhan-union-hospital-of-huazhong-university-of-science-and-t",
+"b": "trial:nct07303803",
+"r": "site_of"
 },
 {
 "a": "org:xiamen-hospital-of-t-c-m",
 "b": "trial:nct07198386",
+"r": "site_of"
+},
+{
+"a": "org:xiangya-hospital-of-central-south-university",
+"b": "trial:nct07303803",
 "r": "site_of"
 },
 {
@@ -8675,9 +7916,14 @@
 "r": "site_of"
 },
 {
-"a": "org:yale-school-of-medicine",
-"b": "paper:pmid-33989548",
-"r": "funded"
+"a": "org:yale-new-haven-health",
+"b": "trial:nct06588699",
+"r": "site_of"
+},
+{
+"a": "org:yale-new-haven-hospital",
+"b": "trial:nct06588699",
+"r": "site_of"
 },
 {
 "a": "org:yale-university",
@@ -8703,6 +7949,11 @@
 "a": "org:zhejiang-doer-biologics",
 "b": "trial:nct07024212",
 "r": "sponsors"
+},
+{
+"a": "org:zhejiang-provincial-people-s-hospital",
+"b": "trial:nct07466017",
+"r": "site_of"
 },
 {
 "a": "org:zhongshan-hospital-fudan-university",
@@ -8800,6 +8051,11 @@
 "r": "cites_asset"
 },
 {
+"a": "paper:doi-10-7270-q2xp79mb",
+"b": "asset:alg055009",
+"r": "cites_asset"
+},
+{
 "a": "paper:pmid-39221768",
 "b": "asset:alg055009",
 "r": "cites_asset"
@@ -8827,26 +8083,6 @@
 {
 "a": "person:abigail-smith",
 "b": "trial:nct05832229",
-"r": "investigator"
-},
-{
-"a": "person:adam-c-sheka",
-"b": "org:university-of-minnesota",
-"r": "affiliated"
-},
-{
-"a": "person:adam-c-sheka",
-"b": "paper:pmid-32207804",
-"r": "authored"
-},
-{
-"a": "person:adrian-di-bisceglie-facp-faasld",
-"b": "org:hightide-therapeutics-usa",
-"r": "affiliated"
-},
-{
-"a": "person:adrian-di-bisceglie-facp-faasld",
-"b": "trial:nct05623189",
 "r": "investigator"
 },
 {
@@ -8882,41 +8118,6 @@
 {
 "a": "person:albert-do",
 "b": "paper:pmid-39609545",
-"r": "authored"
-},
-{
-"a": "person:alessandro-mantovani",
-"b": "org:azienda-ospedaliera-universitaria-integrata-verona",
-"r": "affiliated"
-},
-{
-"a": "person:alessandro-mantovani",
-"b": "org:university-of-verona",
-"r": "affiliated"
-},
-{
-"a": "person:alessandro-mantovani",
-"b": "paper:pmid-32006558",
-"r": "authored"
-},
-{
-"a": "person:alexander-rodriguezpalacios",
-"b": "org:case-western-reserve-university",
-"r": "affiliated"
-},
-{
-"a": "person:alexander-rodriguezpalacios",
-"b": "paper:pmid-32582143",
-"r": "authored"
-},
-{
-"a": "person:ann-k-daly",
-"b": "org:newcastle-university",
-"r": "affiliated"
-},
-{
-"a": "person:ann-k-daly",
-"b": "paper:pmid-33268509",
 "r": "authored"
 },
 {
@@ -8985,13 +8186,8 @@
 "r": "authored"
 },
 {
-"a": "person:bianca-j-parker",
-"b": "org:case-western-reserve-university",
-"r": "affiliated"
-},
-{
-"a": "person:bianca-j-parker",
-"b": "paper:pmid-32582143",
+"a": "person:benedetta-massetto",
+"b": "paper:doi-10-1016-s0168-8278-22-01787-1",
 "r": "authored"
 },
 {
@@ -9070,6 +8266,11 @@
 "r": "authored"
 },
 {
+"a": "person:cncb-ngdc-members-and-partners",
+"b": "paper:pmid-39530327",
+"r": "authored"
+},
+{
 "a": "person:daniel-q-huang",
 "b": "org:national-university-health-system",
 "r": "affiliated"
@@ -9081,22 +8282,12 @@
 },
 {
 "a": "person:daniel-q-huang",
-"b": "paper:pmid-33349658",
-"r": "authored"
-},
-{
-"a": "person:daniel-q-huang",
 "b": "paper:pmid-40050362",
 "r": "authored"
 },
 {
-"a": "person:david-grahame-hardie",
-"b": "org:university-of-dundee",
-"r": "affiliated"
-},
-{
-"a": "person:david-grahame-hardie",
-"b": "paper:pmid-36316383",
+"a": "person:david-c-mcgowan",
+"b": "paper:pmid-39221768",
 "r": "authored"
 },
 {
@@ -9185,46 +8376,6 @@
 "r": "authored"
 },
 {
-"a": "person:francis-s-willard",
-"b": "org:eli-lilly-united-states",
-"r": "affiliated"
-},
-{
-"a": "person:francis-s-willard",
-"b": "paper:pmid-32730231",
-"r": "authored"
-},
-{
-"a": "person:francois-n-pattou",
-"b": "org:inserm",
-"r": "affiliated"
-},
-{
-"a": "person:francois-n-pattou",
-"b": "org:universite-de-lille",
-"r": "affiliated"
-},
-{
-"a": "person:francois-n-pattou",
-"b": "paper:pmid-32553765",
-"r": "authored"
-},
-{
-"a": "person:frank-tacke",
-"b": "org:charite-universitatsmedizin-berlin",
-"r": "affiliated"
-},
-{
-"a": "person:frank-tacke",
-"b": "org:stiftung-charite",
-"r": "affiliated"
-},
-{
-"a": "person:frank-tacke",
-"b": "paper:pmid-37400694",
-"r": "authored"
-},
-{
 "a": "person:frank-tacke",
 "b": "paper:pmid-38851997",
 "r": "authored"
@@ -9250,21 +8401,6 @@
 "r": "authored"
 },
 {
-"a": "person:gerald-i-shulman",
-"b": "org:yale-university",
-"r": "affiliated"
-},
-{
-"a": "person:gerald-i-shulman",
-"b": "paper:pmid-33989548",
-"r": "authored"
-},
-{
-"a": "person:giovanni-targher",
-"b": "org:azienda-ospedaliera-universitaria-integrata-verona",
-"r": "affiliated"
-},
-{
 "a": "person:giovanni-targher",
 "b": "org:ospedale-sacro-cuore-don-calabria",
 "r": "affiliated"
@@ -9273,16 +8409,6 @@
 "a": "person:giovanni-targher",
 "b": "org:university-of-verona",
 "r": "affiliated"
-},
-{
-"a": "person:giovanni-targher",
-"b": "paper:pmid-32006558",
-"r": "authored"
-},
-{
-"a": "person:giovanni-targher",
-"b": "paper:pmid-33972770",
-"r": "authored"
 },
 {
 "a": "person:giovanni-targher",
@@ -9301,28 +8427,18 @@
 },
 {
 "a": "person:gregory-r-steinberg",
-"b": "paper:pmid-36316383",
-"r": "authored"
-},
-{
-"a": "person:gregory-r-steinberg",
 "b": "paper:pmid-40032040",
 "r": "authored"
 },
 {
-"a": "person:guillaume-lassailly",
-"b": "org:inserm",
-"r": "affiliated"
-},
-{
-"a": "person:guillaume-lassailly",
-"b": "org:universite-de-lille",
-"r": "affiliated"
-},
-{
-"a": "person:guillaume-lassailly",
-"b": "paper:pmid-32553765",
+"a": "person:h-holden-thorp",
+"b": "paper:pmid-36701446",
 "r": "authored"
+},
+{
+"a": "person:hai-li-professor",
+"b": "org:shanghai-punan-hospital-of-pudong-new-district-punan-branch",
+"r": "affiliated"
 },
 {
 "a": "person:hai-li-professor",
@@ -9405,6 +8521,11 @@
 "r": "authored"
 },
 {
+"a": "person:jerome-deval",
+"b": "paper:pmid-39221768",
+"r": "authored"
+},
+{
 "a": "person:jiaqi-wu",
 "b": "org:affiliated-hospital-of-hangzhou-normal-university",
 "r": "affiliated"
@@ -9430,28 +8551,13 @@
 "r": "authored"
 },
 {
-"a": "person:john-b-wong",
-"b": "org:tufts-university",
-"r": "affiliated"
-},
-{
-"a": "person:john-b-wong",
-"b": "paper:pmid-34427594",
+"a": "person:jieun-song",
+"b": "paper:doi-10-1016-s0168-8278-26-01833-7",
 "r": "authored"
 },
 {
-"a": "person:jonas-filip-ludvigsson",
-"b": "org:karolinska-institutet",
-"r": "affiliated"
-},
-{
-"a": "person:jonas-filip-ludvigsson",
-"b": "org:university-of-nottingham",
-"r": "affiliated"
-},
-{
-"a": "person:jonas-filip-ludvigsson",
-"b": "paper:pmid-33037056",
+"a": "person:john-fry",
+"b": "paper:pmid-40971152",
 "r": "authored"
 },
 {
@@ -9500,21 +8606,6 @@
 "r": "investigator"
 },
 {
-"a": "person:karina-w-davidson",
-"b": "org:feinstein-institute-for-medical-research",
-"r": "affiliated"
-},
-{
-"a": "person:karina-w-davidson",
-"b": "org:northwell-health",
-"r": "affiliated"
-},
-{
-"a": "person:karina-w-davidson",
-"b": "paper:pmid-34427594",
-"r": "authored"
-},
-{
 "a": "person:kavita-juneja",
 "b": "org:corcept-therapeutics",
 "r": "affiliated"
@@ -9536,28 +8627,18 @@
 },
 {
 "a": "person:kenneth-j-cusi",
-"b": "paper:pmid-35569886",
-"r": "authored"
-},
-{
-"a": "person:kenneth-j-cusi",
 "b": "paper:pmid-40434108",
 "r": "authored"
 },
 {
-"a": "person:linda-hammerich",
-"b": "org:charite-universitatsmedizin-berlin",
-"r": "affiliated"
-},
-{
-"a": "person:linda-hammerich",
-"b": "paper:pmid-37400694",
+"a": "person:kha-n-le",
+"b": "paper:doi-10-1016-s0168-8278-25-01690-3",
 "r": "authored"
 },
 {
-"a": "person:linda-l-henry",
-"b": "org:center-for-outcomes-research-in-liver-diseases",
-"r": "affiliated"
+"a": "person:koen-vandyck",
+"b": "paper:pmid-39221768",
+"r": "authored"
 },
 {
 "a": "person:linda-l-henry",
@@ -9566,28 +8647,8 @@
 },
 {
 "a": "person:linda-l-henry",
-"b": "org:inova-fairfax-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:linda-l-henry",
 "b": "org:inova-health-system",
 "r": "affiliated"
-},
-{
-"a": "person:linda-l-henry",
-"b": "paper:pmid-32531342",
-"r": "authored"
-},
-{
-"a": "person:linda-l-henry",
-"b": "paper:pmid-36626630",
-"r": "authored"
-},
-{
-"a": "person:linda-l-henry",
-"b": "paper:pmid-37121527",
-"r": "authored"
 },
 {
 "a": "person:linda-l-henry",
@@ -9602,51 +8663,6 @@
 {
 "a": "person:madhulika-tripathi",
 "b": "paper:pmid-39086662",
-"r": "authored"
-},
-{
-"a": "person:makoto-nakanishi",
-"b": "org:institute-of-medical-science-the-university-of-tokyo",
-"r": "affiliated"
-},
-{
-"a": "person:makoto-nakanishi",
-"b": "org:the-university-of-tokyo",
-"r": "affiliated"
-},
-{
-"a": "person:makoto-nakanishi",
-"b": "paper:pmid-36323784",
-"r": "authored"
-},
-{
-"a": "person:manal-f-abdelmalek",
-"b": "org:cliniques-universitaires-saint-luc",
-"r": "affiliated"
-},
-{
-"a": "person:manal-f-abdelmalek",
-"b": "org:mayo-clinic",
-"r": "affiliated"
-},
-{
-"a": "person:manal-f-abdelmalek",
-"b": "org:mount-sinai-health-system",
-"r": "affiliated"
-},
-{
-"a": "person:manal-f-abdelmalek",
-"b": "org:universite-libre-de-bruxelles",
-"r": "affiliated"
-},
-{
-"a": "person:manal-f-abdelmalek",
-"b": "paper:pmid-34670042",
-"r": "authored"
-},
-{
-"a": "person:manal-f-abdelmalek",
-"b": "paper:pmid-37356033",
 "r": "authored"
 },
 {
@@ -9676,38 +8692,8 @@
 },
 {
 "a": "person:mary-eugenia-rinella",
-"b": "org:northwestern-university",
-"r": "affiliated"
-},
-{
-"a": "person:mary-eugenia-rinella",
 "b": "org:university-of-chicago",
 "r": "affiliated"
-},
-{
-"a": "person:mary-eugenia-rinella",
-"b": "paper:pmid-32061595",
-"r": "authored"
-},
-{
-"a": "person:mary-eugenia-rinella",
-"b": "paper:pmid-36727674",
-"r": "authored"
-},
-{
-"a": "person:mary-eugenia-rinella",
-"b": "paper:pmid-37363821",
-"r": "authored"
-},
-{
-"a": "person:mary-eugenia-rinella",
-"b": "paper:pmid-37364790",
-"r": "authored"
-},
-{
-"a": "person:mary-eugenia-rinella",
-"b": "paper:pmid-37364816",
-"r": "authored"
 },
 {
 "a": "person:mary-eugenia-rinella",
@@ -9715,18 +8701,8 @@
 "r": "authored"
 },
 {
-"a": "person:masanori-funabashi",
-"b": "org:daiichi-sankyo-rd-novare-japan",
-"r": "affiliated"
-},
-{
-"a": "person:masanori-funabashi",
-"b": "org:stanford-university",
-"r": "affiliated"
-},
-{
-"a": "person:masanori-funabashi",
-"b": "paper:pmid-32555455",
+"a": "person:matt-mcclure",
+"b": "paper:doi-10-1016-s0168-8278-22-01787-1",
 "r": "authored"
 },
 {
@@ -9740,16 +8716,6 @@
 "r": "authored"
 },
 {
-"a": "person:maya-balakrishnan",
-"b": "org:baylor-college-of-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:maya-balakrishnan",
-"b": "paper:pmid-34136143",
-"r": "authored"
-},
-{
 "a": "person:meena-b-bansal",
 "b": "org:icahn-school-of-medicine-at-mount-sinai",
 "r": "affiliated"
@@ -9757,6 +8723,11 @@
 {
 "a": "person:meena-b-bansal",
 "b": "paper:pmid-38451123",
+"r": "authored"
+},
+{
+"a": "person:megan-fitzgerald",
+"b": "paper:pmid-40971152",
 "r": "authored"
 },
 {
@@ -9768,21 +8739,6 @@
 "a": "person:melanie-cree",
 "b": "trial:nct05935826",
 "r": "investigator"
-},
-{
-"a": "person:michael-andrew-fischbach",
-"b": "org:chan-zuckerberg-biohub-san-francisco",
-"r": "affiliated"
-},
-{
-"a": "person:michael-andrew-fischbach",
-"b": "org:stanford-university",
-"r": "affiliated"
-},
-{
-"a": "person:michael-andrew-fischbach",
-"b": "paper:pmid-32555455",
-"r": "authored"
 },
 {
 "a": "person:michael-b-rothberg",
@@ -9802,31 +8758,6 @@
 {
 "a": "person:michael-charlton",
 "b": "paper:pmid-37730124",
-"r": "authored"
-},
-{
-"a": "person:michael-dudek",
-"b": "org:technical-university-of-munich",
-"r": "affiliated"
-},
-{
-"a": "person:michael-dudek",
-"b": "paper:pmid-33762736",
-"r": "authored"
-},
-{
-"a": "person:michael-roden",
-"b": "org:deutsches-diabetes-zentrum-e-v",
-"r": "affiliated"
-},
-{
-"a": "person:michael-roden",
-"b": "org:german-center-for-diabetes-research",
-"r": "affiliated"
-},
-{
-"a": "person:michael-roden",
-"b": "paper:pmid-33972770",
 "r": "authored"
 },
 {
@@ -9875,28 +8806,8 @@
 "r": "investigator"
 },
 {
-"a": "person:olivier-govaere",
-"b": "org:newcastle-university",
-"r": "affiliated"
-},
-{
-"a": "person:olivier-govaere",
-"b": "paper:pmid-33268509",
-"r": "authored"
-},
-{
-"a": "person:percy-alexander-knolle",
-"b": "org:german-center-for-infection-research",
-"r": "affiliated"
-},
-{
-"a": "person:percy-alexander-knolle",
-"b": "org:technical-university-of-munich",
-"r": "affiliated"
-},
-{
-"a": "person:percy-alexander-knolle",
-"b": "paper:pmid-33762736",
+"a": "person:peter-althoff",
+"b": "paper:doi-10-1016-s0168-8278-25-01664-2",
 "r": "authored"
 },
 {
@@ -9911,16 +8822,6 @@
 },
 {
 "a": "person:philip-noel-newsome",
-"b": "org:inserm",
-"r": "affiliated"
-},
-{
-"a": "person:philip-noel-newsome",
-"b": "org:national-institute-for-health-and-care-research",
-"r": "affiliated"
-},
-{
-"a": "person:philip-noel-newsome",
 "b": "org:nihr-birmingham-liver-biomedical-research-unit",
 "r": "affiliated"
 },
@@ -9931,57 +8832,7 @@
 },
 {
 "a": "person:philip-noel-newsome",
-"b": "org:university-of-antwerp",
-"r": "affiliated"
-},
-{
-"a": "person:philip-noel-newsome",
-"b": "org:university-of-birmingham",
-"r": "affiliated"
-},
-{
-"a": "person:philip-noel-newsome",
-"b": "paper:pmid-32027911",
-"r": "authored"
-},
-{
-"a": "person:philip-noel-newsome",
-"b": "paper:pmid-33185364",
-"r": "authored"
-},
-{
-"a": "person:philip-noel-newsome",
-"b": "paper:pmid-37363821",
-"r": "authored"
-},
-{
-"a": "person:philip-noel-newsome",
-"b": "paper:pmid-37364790",
-"r": "authored"
-},
-{
-"a": "person:philip-noel-newsome",
-"b": "paper:pmid-37364816",
-"r": "authored"
-},
-{
-"a": "person:philip-noel-newsome",
 "b": "paper:pmid-37562748",
-"r": "authored"
-},
-{
-"a": "person:philippe-mathurin",
-"b": "org:inserm",
-"r": "affiliated"
-},
-{
-"a": "person:philippe-mathurin",
-"b": "org:universite-de-lille",
-"r": "affiliated"
-},
-{
-"a": "person:philippe-mathurin",
-"b": "paper:pmid-32553765",
 "r": "authored"
 },
 {
@@ -10007,36 +8858,6 @@
 {
 "a": "person:qixing-nie",
 "b": "paper:pmid-38653239",
-"r": "authored"
-},
-{
-"a": "person:qiyi-zhao",
-"b": "org:sun-yat-sen-memorial-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:qiyi-zhao",
-"b": "org:sun-yat-sen-university",
-"r": "affiliated"
-},
-{
-"a": "person:qiyi-zhao",
-"b": "paper:pmid-32931733",
-"r": "authored"
-},
-{
-"a": "person:quentin-mark-anstee",
-"b": "org:newcastle-university",
-"r": "affiliated"
-},
-{
-"a": "person:quentin-mark-anstee",
-"b": "org:nihr-newcastle-biomedical-research-centre",
-"r": "affiliated"
-},
-{
-"a": "person:quentin-mark-anstee",
-"b": "paper:pmid-33268509",
 "r": "authored"
 },
 {
@@ -10090,63 +8911,13 @@
 "r": "authored"
 },
 {
-"a": "person:robert-f-schwabe",
-"b": "org:columbia-university",
-"r": "affiliated"
-},
-{
-"a": "person:robert-f-schwabe",
-"b": "org:columbia-university-irving-medical-center",
-"r": "affiliated"
-},
-{
-"a": "person:robert-f-schwabe",
-"b": "paper:pmid-32044315",
-"r": "authored"
-},
-{
-"a": "person:robert-j-slack",
-"b": "org:glaxosmithkline-research-development-united-kingdom",
-"r": "affiliated"
-},
-{
-"a": "person:robert-j-slack",
-"b": "org:glaxosmithkline-united-kingdom",
-"r": "affiliated"
-},
-{
-"a": "person:robert-j-slack",
-"b": "paper:pmid-34535788",
-"r": "authored"
-},
-{
-"a": "person:rod-s-taylor",
-"b": "org:university-of-glasgow",
-"r": "affiliated"
-},
-{
-"a": "person:rod-s-taylor",
-"b": "paper:pmid-32027911",
-"r": "authored"
-},
-{
 "a": "person:rohit-seth-loomba",
 "b": "org:indiana-university-school-of-medicine",
 "r": "affiliated"
 },
 {
 "a": "person:rohit-seth-loomba",
-"b": "org:mount-sinai-health-system",
-"r": "affiliated"
-},
-{
-"a": "person:rohit-seth-loomba",
 "b": "org:university-of-california-san-diego",
-"r": "affiliated"
-},
-{
-"a": "person:rohit-seth-loomba",
-"b": "org:virginia-commonwealth-university",
 "r": "affiliated"
 },
 {
@@ -10157,26 +8928,6 @@
 {
 "a": "person:rohit-seth-loomba",
 "b": "paper:doi-10-1016-s0168-8278-25-01707-6",
-"r": "authored"
-},
-{
-"a": "person:rohit-seth-loomba",
-"b": "paper:pmid-33349658",
-"r": "authored"
-},
-{
-"a": "person:rohit-seth-loomba",
-"b": "paper:pmid-33989548",
-"r": "authored"
-},
-{
-"a": "person:rohit-seth-loomba",
-"b": "paper:pmid-36727674",
-"r": "authored"
-},
-{
-"a": "person:rohit-seth-loomba",
-"b": "paper:pmid-37356033",
 "r": "authored"
 },
 {
@@ -10210,26 +8961,6 @@
 "r": "authored"
 },
 {
-"a": "person:sayeed-ikramuddin",
-"b": "org:university-of-minnesota",
-"r": "affiliated"
-},
-{
-"a": "person:sayeed-ikramuddin",
-"b": "paper:pmid-32207804",
-"r": "authored"
-},
-{
-"a": "person:scott-l-friedman",
-"b": "org:icahn-school-of-medicine-at-mount-sinai",
-"r": "affiliated"
-},
-{
-"a": "person:scott-l-friedman",
-"b": "paper:pmid-33989548",
-"r": "authored"
-},
-{
 "a": "person:shalini-bansal",
 "b": "org:thomas-jefferson-university",
 "r": "affiliated"
@@ -10237,31 +8968,6 @@
 {
 "a": "person:shalini-bansal",
 "b": "paper:pmid-38451123",
-"r": "authored"
-},
-{
-"a": "person:shantan-cheemerla",
-"b": "org:baylor-college-of-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:shantan-cheemerla",
-"b": "paper:pmid-34136143",
-"r": "authored"
-},
-{
-"a": "person:shicheng-su",
-"b": "org:sun-yat-sen-memorial-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:shicheng-su",
-"b": "org:sun-yat-sen-university",
-"r": "affiliated"
-},
-{
-"a": "person:shicheng-su",
-"b": "paper:pmid-32931733",
 "r": "authored"
 },
 {
@@ -10285,34 +8991,9 @@
 "r": "investigator"
 },
 {
-"a": "person:stephen-a-harrison",
-"b": "org:inserm",
-"r": "affiliated"
-},
-{
-"a": "person:stephen-a-harrison",
-"b": "org:university-hospitals-birmingham-nhs-foundation-trust",
-"r": "affiliated"
-},
-{
-"a": "person:stephen-a-harrison",
-"b": "paper:pmid-33185364",
-"r": "authored"
-},
-{
-"a": "person:stephen-a-harrison",
-"b": "paper:pmid-38324483",
-"r": "authored"
-},
-{
-"a": "person:steven-c-almo",
-"b": "org:albert-einstein-college-of-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:steven-c-almo",
-"b": "paper:pmid-32555455",
-"r": "authored"
+"a": "person:stephen-harrison",
+"b": "trial:nct06342947",
+"r": "investigator"
 },
 {
 "a": "person:suki-ha",
@@ -10345,9 +9026,14 @@
 "r": "affiliated"
 },
 {
-"a": "person:sven-francque",
-"b": "org:cliniques-universitaires-saint-luc",
-"r": "affiliated"
+"a": "person:susan-j-keam",
+"b": "paper:pmid-38771485",
+"r": "authored"
+},
+{
+"a": "person:sushmita-m-chanda",
+"b": "paper:doi-10-1016-s0168-8278-25-01690-3",
+"r": "authored"
 },
 {
 "a": "person:sven-francque",
@@ -10356,48 +9042,8 @@
 },
 {
 "a": "person:sven-francque",
-"b": "org:universite-libre-de-bruxelles",
-"r": "affiliated"
-},
-{
-"a": "person:sven-francque",
-"b": "paper:pmid-34670042",
-"r": "authored"
-},
-{
-"a": "person:sven-francque",
 "b": "trial:nct04849728",
 "r": "investigator"
-},
-{
-"a": "person:tehwei-wang",
-"b": "org:institute-of-medical-science-the-university-of-tokyo",
-"r": "affiliated"
-},
-{
-"a": "person:tehwei-wang",
-"b": "org:the-university-of-tokyo",
-"r": "affiliated"
-},
-{
-"a": "person:tehwei-wang",
-"b": "paper:pmid-36323784",
-"r": "authored"
-},
-{
-"a": "person:thomas-gerard-cotter",
-"b": "org:university-of-chicago",
-"r": "affiliated"
-},
-{
-"a": "person:thomas-gerard-cotter",
-"b": "org:university-of-chicago-medical-center",
-"r": "affiliated"
-},
-{
-"a": "person:thomas-gerard-cotter",
-"b": "paper:pmid-32061595",
-"r": "authored"
 },
 {
 "a": "person:thomas-reiberger",
@@ -10423,51 +9069,6 @@
 "a": "person:tom-hare-ms",
 "b": "trial:nct07335601",
 "r": "investigator"
-},
-{
-"a": "person:tracey-g-simon",
-"b": "org:harvard-university",
-"r": "affiliated"
-},
-{
-"a": "person:tracey-g-simon",
-"b": "org:massachusetts-general-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:tracey-g-simon",
-"b": "paper:pmid-33037056",
-"r": "authored"
-},
-{
-"a": "person:us-preventive-services-task-force",
-"b": "org:feinstein-institute-for-medical-research",
-"r": "affiliated"
-},
-{
-"a": "person:us-preventive-services-task-force",
-"b": "org:northwell-health",
-"r": "affiliated"
-},
-{
-"a": "person:us-preventive-services-task-force",
-"b": "paper:pmid-34427594",
-"r": "authored"
-},
-{
-"a": "person:utpal-b-pajvani",
-"b": "org:columbia-university",
-"r": "affiliated"
-},
-{
-"a": "person:utpal-b-pajvani",
-"b": "org:columbia-university-irving-medical-center",
-"r": "affiliated"
-},
-{
-"a": "person:utpal-b-pajvani",
-"b": "paper:pmid-32044315",
-"r": "authored"
 },
 {
 "a": "person:vasileios-lekakis",
@@ -10513,16 +9114,6 @@
 "a": "person:vlad-ratziu",
 "b": "org:sorbonne-universite",
 "r": "affiliated"
-},
-{
-"a": "person:vlad-ratziu",
-"b": "org:university-hospitals-birmingham-nhs-foundation-trust",
-"r": "affiliated"
-},
-{
-"a": "person:vlad-ratziu",
-"b": "paper:pmid-38324483",
-"r": "authored"
 },
 {
 "a": "person:vlad-ratziu",
@@ -10576,6 +9167,11 @@
 },
 {
 "a": "person:weiqing-wang-ph-d",
+"b": "org:ruijin-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:weiqing-wang-ph-d",
 "b": "trial:nct07466017",
 "r": "investigator"
 },
@@ -10617,21 +9213,6 @@
 {
 "a": "person:xiaobo-wang",
 "b": "paper:pmid-38349726",
-"r": "authored"
-},
-{
-"a": "person:xiaoding-xu",
-"b": "org:sun-yat-sen-memorial-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:xiaoding-xu",
-"b": "org:sun-yat-sen-university",
-"r": "affiliated"
-},
-{
-"a": "person:xiaoding-xu",
-"b": "paper:pmid-32931733",
 "r": "authored"
 },
 {
@@ -10710,21 +9291,6 @@
 "r": "authored"
 },
 {
-"a": "person:yoshikazu-johmura",
-"b": "org:cancer-research-institute-of-kanazawa-university",
-"r": "affiliated"
-},
-{
-"a": "person:yoshikazu-johmura",
-"b": "org:kanazawa-university",
-"r": "affiliated"
-},
-{
-"a": "person:yoshikazu-johmura",
-"b": "paper:pmid-36323784",
-"r": "authored"
-},
-{
 "a": "person:yuxuan-li",
 "b": "org:affiliated-hospital-of-hangzhou-normal-university",
 "r": "affiliated"
@@ -10755,21 +9321,6 @@
 "r": "authored"
 },
 {
-"a": "person:zhiliang-gao",
-"b": "org:sun-yat-sen-university",
-"r": "affiliated"
-},
-{
-"a": "person:zhiliang-gao",
-"b": "org:third-affiliated-hospital-of-sun-yat-sen-university",
-"r": "affiliated"
-},
-{
-"a": "person:zhiliang-gao",
-"b": "paper:pmid-32931733",
-"r": "authored"
-},
-{
 "a": "person:zobair-m-younossi",
 "b": "org:district-of-columbia-water-and-sewer-authority",
 "r": "affiliated"
@@ -10783,26 +9334,6 @@
 "a": "person:zobair-m-younossi",
 "b": "org:inova-health-system",
 "r": "affiliated"
-},
-{
-"a": "person:zobair-m-younossi",
-"b": "paper:pmid-32531342",
-"r": "authored"
-},
-{
-"a": "person:zobair-m-younossi",
-"b": "paper:pmid-35569886",
-"r": "authored"
-},
-{
-"a": "person:zobair-m-younossi",
-"b": "paper:pmid-36626630",
-"r": "authored"
-},
-{
-"a": "person:zobair-m-younossi",
-"b": "paper:pmid-37121527",
-"r": "authored"
 },
 {
 "a": "person:zobair-m-younossi",

@@ -1,9 +1,10 @@
 {
 "assetId": "nct-nct06077773",
-"updated": "2026-11-04",
+"updated": "2026-11-05",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
-"trials": 43
+"trials": 43,
+"papers": 2
 },
 "nodes": [
 {
@@ -15,11 +16,11 @@
 "c": ""
 },
 {
-"k": "trial:nct06077773",
+"k": "trial:nct06050928",
 "t": "trial",
-"n": "Phase 2, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the E",
-"sub": "P2 · terminated · 2023-2025",
-"url": "https://clinicaltrials.gov/study/NCT06077773",
+"n": "Phase 1b, Open-Label Study to Evaluate the Safety, Tolerability, and Pharmacodynamics of E",
+"sub": "P1 · completed · 2023-2024",
+"url": "https://clinicaltrials.gov/study/NCT06050928",
 "c": ""
 },
 {
@@ -31,78 +32,6 @@
 "c": ""
 },
 {
-"k": "org:allervie-clinical-research",
-"t": "hospital",
-"n": "AllerVie Clinical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:scottsdale-clinical-trials",
-"t": "hospital",
-"n": "Scottsdale Clinical Trials",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:little-rock-allergy-asthma-clinical-research-center",
-"t": "hospital",
-"n": "Little Rock Allergy & Asthma Clinical Research Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:first-oc-dermatology-research",
-"t": "company",
-"n": "First OC Dermatology Research, Inc.",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:allergy-and-asthma-specialists-medical-group",
-"t": "company",
-"n": "Allergy and Asthma Specialists Medical Group",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:antelope-valley-clinical-trials",
-"t": "hospital",
-"n": "Antelope Valley Clinical Trials",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-miami-itch-center",
-"t": "academic",
-"n": "University of Miami Itch Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:florida-center-for-allergy-and-asthma-research",
-"t": "company",
-"n": "Florida Center for Allergy and Asthma Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:nuline-clinical-trial-center",
-"t": "hospital",
-"n": "NuLine Clinical Trial Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:advanced-clinical-research-institute",
 "t": "hospital",
 "n": "Advanced Clinical Research Institute",
@@ -111,49 +40,9 @@
 "c": "United States"
 },
 {
-"k": "org:university-of-south-florida",
-"t": "academic",
-"n": "University of South Florida",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:treasure-valley-medical-research",
 "t": "company",
 "n": "Treasure Valley Medical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:dawes-fretzin-clinical-research-group",
-"t": "hospital",
-"n": "Dawes Fretzin Clinical Research Group, LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:southern-indiana-clinical-trials",
-"t": "hospital",
-"n": "Southern Indiana Clinical Trials",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:the-indiana-clinical-trials-center",
-"t": "hospital",
-"n": "The Indiana Clinical Trials Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:velocity-clinical-research-overland-park-kc-asthma-allergy",
-"t": "hospital",
-"n": "Velocity Clinical Research, Overland Park, KC Asthma & Allergy",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -175,52 +64,92 @@
 "c": "United States"
 },
 {
-"k": "org:chesapeake-clinical-research",
+"k": "org:bernstein-clinical-research-center",
 "t": "hospital",
-"n": "Chesapeake Clinical Research, Inc.",
+"n": "Bernstein Clinical Research Center, LLC",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "org:the-clinical-research-center",
+"k": "org:allergy-and-clinical-immunology-associates",
 "t": "hospital",
-"n": "The Clinical Research Center LLC",
+"n": "Allergy and Clinical Immunology Associates",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "org:montana-medical-research",
+"k": "org:national-allergy-and-asthma-research",
 "t": "company",
-"n": "Montana Medical Research, Inc.",
+"n": "National Allergy and Asthma Research, LLC.",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "org:las-vegas-clinical-trials",
-"t": "hospital",
-"n": "Las Vegas Clinical Trials",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:corning-center-for-clinical-research",
-"t": "hospital",
-"n": "Corning Center for Clinical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:bobby-buka-md-pc",
+"k": "org:innovaderm-research",
 "t": "company",
-"n": "Bobby Buka MD, PC",
+"n": "Innovaderm Research Inc.",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": "Canada"
+},
+{
+"k": "org:gordon-sussman-clinical-research",
+"t": "hospital",
+"n": "Gordon Sussman Clinical Research Inc.",
+"sub": "",
+"url": "",
+"c": "Canada"
+},
+{
+"k": "org:medizinische-hochschule-hannover",
+"t": "company",
+"n": "Medizinische Hochschule Hannover",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
+"k": "org:universitatsklinikum-carl-gustav-carus-an-der-technischen-un",
+"t": "hospital",
+"n": "Universitätsklinikum Carl Gustav Carus an der Technischen Universität Dresden",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
+"k": "org:institut-fur-allergieforschung-charite-universitatsmedizin-b",
+"t": "academic",
+"n": "Institut fur Allergieforschung Charite - Universitatsmedizin Berlin",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
+"k": "org:centre-for-human-drug-research-chdr",
+"t": "company",
+"n": "Centre for Human Drug Research (CHDR)",
+"sub": "",
+"url": "",
+"c": "Netherlands"
+},
+{
+"k": "org:hospital-del-mar",
+"t": "hospital",
+"n": "Hospital del Mar",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:hospital-arnau-de-vilanova",
+"t": "hospital",
+"n": "Hospital Arnau de Vilanova",
+"sub": "",
+"url": "",
+"c": "Spain"
 },
 {
 "k": "trial:nct06645704",
@@ -245,6 +174,14 @@
 "sub": "P2 · completed · 2023-2024",
 "url": "https://clinicaltrials.gov/study/NCT06144424",
 "c": ""
+},
+{
+"k": "org:allervie-clinical-research",
+"t": "hospital",
+"n": "Allervie Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
 },
 {
 "k": "org:rm-medical-research",
@@ -311,140 +248,164 @@
 "c": "United States"
 },
 {
-"k": "org:innovaderm-research",
-"t": "company",
-"n": "Innovaderm Research Inc.",
-"sub": "",
-"url": "",
-"c": "Canada"
-},
-{
-"k": "trial:nct06050928",
+"k": "trial:nct06077773",
 "t": "trial",
-"n": "Phase 1b, Open-Label Study to Evaluate the Safety, Tolerability, and Pharmacodynamics of E",
-"sub": "P1 · completed · 2023-2024",
-"url": "https://clinicaltrials.gov/study/NCT06050928",
+"n": "Phase 2, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the E",
+"sub": "P2 · terminated · 2023-2025",
+"url": "https://clinicaltrials.gov/study/NCT06077773",
 "c": ""
 },
 {
-"k": "org:bernstein-clinical-research-center",
+"k": "org:scottsdale-clinical-trials",
 "t": "hospital",
-"n": "Bernstein Clinical Research Center, LLC",
+"n": "Scottsdale Clinical Trials",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "org:allergy-and-clinical-immunology-associates",
+"k": "org:little-rock-allergy-asthma-clinical-research-center",
 "t": "hospital",
-"n": "Allergy and Clinical Immunology Associates",
+"n": "Little Rock Allergy & Asthma Clinical Research Center",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "org:national-allergy-and-asthma-research",
+"k": "org:first-oc-dermatology-research",
 "t": "company",
-"n": "National Allergy and Asthma Research, LLC.",
+"n": "First OC Dermatology Research, Inc.",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "org:gordon-sussman-clinical-research",
-"t": "hospital",
-"n": "Gordon Sussman Clinical Research Inc.",
-"sub": "",
-"url": "",
-"c": "Canada"
-},
-{
-"k": "org:medizinische-hochschule-hannover",
+"k": "org:allergy-and-asthma-specialists-medical-group",
 "t": "company",
-"n": "Medizinische Hochschule Hannover",
+"n": "Allergy and Asthma Specialists Medical Group",
 "sub": "",
 "url": "",
-"c": "Germany"
+"c": "United States"
 },
 {
-"k": "org:universitatsklinikum-carl-gustav-carus-an-der-technischen-un",
+"k": "org:antelope-valley-clinical-trials",
 "t": "hospital",
-"n": "Universitätsklinikum Carl Gustav Carus an der Technischen Universität Dresden",
+"n": "Antelope Valley Clinical Trials",
 "sub": "",
 "url": "",
-"c": "Germany"
+"c": "United States"
 },
 {
-"k": "org:institut-fur-allergieforschung-charite-universitatsmedizin-b",
+"k": "org:university-of-miami-itch-center",
 "t": "academic",
-"n": "Institut fur Allergieforschung Charite - Universitatsmedizin Berlin",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:centre-for-human-drug-research-chdr",
-"t": "company",
-"n": "Centre for Human Drug Research (CHDR)",
-"sub": "",
-"url": "",
-"c": "Netherlands"
-},
-{
-"k": "org:hospital-del-mar",
-"t": "hospital",
-"n": "Hospital del Mar",
-"sub": "",
-"url": "",
-"c": "Spain"
-},
-{
-"k": "org:hospital-arnau-de-vilanova",
-"t": "hospital",
-"n": "Hospital Arnau de Vilanova",
-"sub": "",
-"url": "",
-"c": "Spain"
-},
-{
-"k": "trial:nct07766499",
-"t": "trial",
-"n": "A Study to Assess the Efficacy and Safety of THB335 in Adults With Chronic Spontaneous Urt",
-"sub": "P2 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07766499",
-"c": ""
-},
-{
-"k": "org:calixis",
-"t": "company",
-"n": "Calixis Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:calixis-study-site",
-"t": "company",
-"n": "Calixis Study Site",
+"n": "University of Miami Itch Center",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "drug:thb335-lower",
-"t": "drug",
-"n": "THB335 Lower",
-"sub": "Calixis Inc.",
+"k": "org:florida-center-for-allergy-and-asthma-research",
+"t": "company",
+"n": "Florida Center for Allergy and Asthma Research",
+"sub": "",
 "url": "",
-"c": ""
+"c": "United States"
 },
 {
-"k": "drug:thb335-higher",
-"t": "drug",
-"n": "THB335 Higher",
-"sub": "Calixis Inc.",
+"k": "org:nuline-clinical-trial-center",
+"t": "hospital",
+"n": "NuLine Clinical Trial Center",
+"sub": "",
 "url": "",
-"c": ""
+"c": "United States"
+},
+{
+"k": "org:university-of-south-florida",
+"t": "academic",
+"n": "University of South Florida",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:dawes-fretzin-clinical-research-group",
+"t": "hospital",
+"n": "Dawes Fretzin Clinical Research Group, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:southern-indiana-clinical-trials",
+"t": "hospital",
+"n": "Southern Indiana Clinical Trials",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:the-indiana-clinical-trials-center",
+"t": "hospital",
+"n": "The Indiana Clinical Trials Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:velocity-clinical-research-overland-park-kc-asthma-allergy",
+"t": "hospital",
+"n": "Velocity Clinical Research, Overland Park, KC Asthma & Allergy",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:chesapeake-clinical-research",
+"t": "hospital",
+"n": "Chesapeake Clinical Research, Inc.",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:the-clinical-research-center",
+"t": "hospital",
+"n": "The Clinical Research Center LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:montana-medical-research",
+"t": "company",
+"n": "Montana Medical Research, Inc.",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:las-vegas-clinical-trials",
+"t": "hospital",
+"n": "Las Vegas Clinical Trials",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:corning-center-for-clinical-research",
+"t": "hospital",
+"n": "Corning Center for Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:bobby-buka-md-pc",
+"t": "company",
+"n": "Bobby Buka MD, PC",
+"sub": "",
+"url": "",
+"c": "United States"
 },
 {
 "k": "trial:nct07256392",
@@ -547,6 +508,46 @@
 "t": "drug",
 "n": "barzolvolimab",
 "sub": "Celldex Therapeutics",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07766499",
+"t": "trial",
+"n": "A Study to Assess the Efficacy and Safety of THB335 in Adults With Chronic Spontaneous Urt",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07766499",
+"c": ""
+},
+{
+"k": "org:calixis",
+"t": "company",
+"n": "Calixis Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:calixis-study-site",
+"t": "company",
+"n": "Calixis Study Site",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:thb335-lower",
+"t": "drug",
+"n": "THB335 Lower",
+"sub": "Calixis Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:thb335-higher",
+"t": "drug",
+"n": "THB335 Higher",
+"sub": "Calixis Inc.",
 "url": "",
 "c": ""
 },
@@ -735,6 +736,30 @@
 "c": ""
 },
 {
+"k": "trial:nct07875426",
+"t": "trial",
+"n": "A Trial to Evaluate the Efficacy and Safety of AK139 in Participants With Chronic Spontane",
+"sub": "P2 · not_yet_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07875426",
+"c": ""
+},
+{
+"k": "org:akeso",
+"t": "company",
+"n": "Akeso",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ak139",
+"t": "drug",
+"n": "AK139",
+"sub": "Akeso",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct05677451",
 "t": "trial",
 "n": "24 Weeks Double-blind Randomized Placebo-controlled Trial to Evaluate Efficacy, PK, Safety",
@@ -811,30 +836,6 @@
 "t": "drug",
 "n": "LOU064",
 "sub": "Novartis Pharmaceuticals",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07875426",
-"t": "trial",
-"n": "A Trial to Evaluate the Efficacy and Safety of AK139 in Participants With Chronic Spontane",
-"sub": "P2 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07875426",
-"c": ""
-},
-{
-"k": "org:akeso",
-"t": "company",
-"n": "Akeso",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:ak139",
-"t": "drug",
-"n": "AK139",
-"sub": "Akeso",
 "url": "",
 "c": ""
 },
@@ -1791,78 +1792,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06455202",
-"t": "trial",
-"n": "A Phase 3 Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria (CSU)",
-"sub": "P3 · active_not_recruiting · 2024-2027",
-"url": "https://clinicaltrials.gov/study/NCT06455202",
-"c": ""
-},
-{
-"k": "org:allervie-clinical-research-cullman",
-"t": "hospital",
-"n": "Allervie Clinical Research - Cullman",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:research-solutions-of-arizona-pc",
-"t": "company",
-"n": "Research Solutions of Arizona PC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:medical-research-of-arizona-a-division-of-allergy-asthma-imm",
-"t": "company",
-"n": "Medical Research of Arizona a division of Allergy, Asthma, & Immunology, Assoc. Ltd.",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:center-for-dermatology-plastic-surgery",
-"t": "company",
-"n": "Center for Dermatology & Plastic Surgery",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:ucla-clinical-trials-contracts-strategic-relations",
-"t": "hospital",
-"n": "UCLA Clinical Trials Contracts & Strategic Relations",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:california-allergy-and-asthma-medical-group",
-"t": "company",
-"n": "California Allergy and Asthma Medical Group",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:allergy-and-asthma-associates-of-southern-cal",
-"t": "company",
-"n": "Allergy and Asthma Associates of Southern Cal",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:huntington-asthma-allergy-center",
-"t": "company",
-"n": "Huntington Asthma & Allergy Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "trial:nct06445023",
 "t": "trial",
 "n": "A Phase 3 Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria",
@@ -1930,6 +1859,78 @@
 "k": "org:therapeutics-clinical-research",
 "t": "hospital",
 "n": "Therapeutics Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct06455202",
+"t": "trial",
+"n": "A Phase 3 Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria (CSU)",
+"sub": "P3 · active_not_recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06455202",
+"c": ""
+},
+{
+"k": "org:allervie-clinical-research-cullman",
+"t": "hospital",
+"n": "Allervie Clinical Research - Cullman",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:research-solutions-of-arizona-pc",
+"t": "company",
+"n": "Research Solutions of Arizona PC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:medical-research-of-arizona-a-division-of-allergy-asthma-imm",
+"t": "company",
+"n": "Medical Research of Arizona a division of Allergy, Asthma, & Immunology, Assoc. Ltd.",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:center-for-dermatology-plastic-surgery",
+"t": "company",
+"n": "Center for Dermatology & Plastic Surgery",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ucla-clinical-trials-contracts-strategic-relations",
+"t": "hospital",
+"n": "UCLA Clinical Trials Contracts & Strategic Relations",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:california-allergy-and-asthma-medical-group",
+"t": "company",
+"n": "California Allergy and Asthma Medical Group",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:allergy-and-asthma-associates-of-southern-cal",
+"t": "company",
+"n": "Allergy and Asthma Associates of Southern Cal",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:huntington-asthma-allergy-center",
+"t": "company",
+"n": "Huntington Asthma & Allergy Center",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -2555,6 +2556,62 @@
 "t": "drug",
 "n": "non sedating H1-antihistamine",
 "sub": "Sanofi",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-42770623",
+"t": "paper",
+"n": "Beyond Omalizumab: Emerging Biologic and Small Molecule Therapies in Chronic Spontaneous U",
+"sub": "Clinical & Experimental Allergy 2026 · cited 0",
+"url": "https://pubmed.ncbi.nlm.nih.gov/42770623",
+"c": ""
+},
+{
+"k": "person:sahibpreet-kaur",
+"t": "person",
+"n": "Sahibpreet Kaur",
+"sub": "Post Graduate Institute of Medical Education and Research",
+"url": "https://orcid.org/0009-0009-9028-0635",
+"c": "IN"
+},
+{
+"k": "org:post-graduate-institute-of-medical-education-and-research",
+"t": "academic",
+"n": "Post Graduate Institute of Medical Education and Research",
+"sub": "",
+"url": "",
+"c": "IN"
+},
+{
+"k": "person:muthu-sendhil-kumaran",
+"t": "person",
+"n": "Muthu Sendhil Kumaran",
+"sub": "Post Graduate Institute of Medical Education and Research",
+"url": "https://orcid.org/0000-0002-8091-101X",
+"c": "IN"
+},
+{
+"k": "person:davinder-parsad",
+"t": "person",
+"n": "Davinder Parsad",
+"sub": "Post Graduate Institute of Medical Education and Research",
+"url": "https://orcid.org/0000-0003-0348-0815",
+"c": "IN"
+},
+{
+"k": "paper:doi-10-5336-978-625-395-853-4-p629",
+"t": "paper",
+"n": "NOVEL THERAPIES FOR URTICARIA",
+"sub": "Turkiye Klinikleri eBooks 2026 · cited 0",
+"url": "https://doi.org/10.5336/978-625-395-853-4_p629",
+"c": ""
+},
+{
+"k": "person:gulden-pacac-cetin",
+"t": "person",
+"n": "Gülden Paçacı Çetin",
+"sub": "",
 "url": "",
 "c": ""
 }
@@ -4736,6 +4793,16 @@
 "r": "site_of"
 },
 {
+"a": "paper:doi-10-5336-978-625-395-853-4-p629",
+"b": "asset:nct-nct06077773",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-42770623",
+"b": "asset:nct-nct06077773",
+"r": "cites_asset"
+},
+{
 "a": "person:ahuva-cices",
 "b": "org:icahn-school-of-medicine-at-mount-sinai",
 "r": "affiliated"
@@ -4754,6 +4821,21 @@
 "a": "person:cheng-zhou",
 "b": "trial:nct07402213",
 "r": "investigator"
+},
+{
+"a": "person:davinder-parsad",
+"b": "org:post-graduate-institute-of-medical-education-and-research",
+"r": "affiliated"
+},
+{
+"a": "person:davinder-parsad",
+"b": "paper:pmid-42770623",
+"r": "authored"
+},
+{
+"a": "person:gulden-pacac-cetin",
+"b": "paper:doi-10-5336-978-625-395-853-4-p629",
+"r": "authored"
 },
 {
 "a": "person:hui-tang",
@@ -4809,6 +4891,26 @@
 "a": "person:merrium-mahrukh",
 "b": "trial:nct07850843",
 "r": "investigator"
+},
+{
+"a": "person:muthu-sendhil-kumaran",
+"b": "org:post-graduate-institute-of-medical-education-and-research",
+"r": "affiliated"
+},
+{
+"a": "person:muthu-sendhil-kumaran",
+"b": "paper:pmid-42770623",
+"r": "authored"
+},
+{
+"a": "person:sahibpreet-kaur",
+"b": "org:post-graduate-institute-of-medical-education-and-research",
+"r": "affiliated"
+},
+{
+"a": "person:sahibpreet-kaur",
+"b": "paper:pmid-42770623",
+"r": "authored"
 },
 {
 "a": "person:zuotao-zhao",

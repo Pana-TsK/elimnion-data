@@ -1,6 +1,6 @@
 {
 "assetId": "nct-nct06210945",
-"updated": "2026-11-04",
+"updated": "2026-11-05",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 45
@@ -15,11 +15,11 @@
 "c": ""
 },
 {
-"k": "trial:nct05824156",
+"k": "trial:nct06210945",
 "t": "trial",
-"n": "CM-101 in NASH Patients - The SPLASH Study",
-"sub": "P2 · completed · 2021-2022",
-"url": "https://clinicaltrials.gov/study/NCT05824156",
+"n": "Study to Evaluate the Safety, Tolerability, and Activity of CM-101 in Patients With System",
+"sub": "P2 · suspended · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT06210945",
 "c": ""
 },
 {
@@ -39,6 +39,38 @@
 "c": ""
 },
 {
+"k": "org:columbia-university-irving-medical-center",
+"t": "hospital",
+"n": "Columbia University Irving Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct06025851",
+"t": "trial",
+"n": "Intravenous Doses of CM-101 as a Treatment for Medical Conditions Involving Inflammatory a",
+"sub": "P1 · completed · 2017-2018",
+"url": "https://clinicaltrials.gov/study/NCT06025851",
+"c": ""
+},
+{
+"k": "org:tel-aviv-sourasky-medical-center",
+"t": "hospital",
+"n": "Tel-Aviv Sourasky Medical Center",
+"sub": "",
+"url": "",
+"c": "Israel"
+},
+{
+"k": "person:jacob-atsmon",
+"t": "person",
+"n": "Jacob Atsmon",
+"sub": "principal investigator · Tel-Aviv Sourasky Medical Center",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct06037577",
 "t": "trial",
 "n": "Subcutaneous Doses of CM-101 as a Treatment for Medical Conditions Involving Inflammatory ",
@@ -53,14 +85,6 @@
 "sub": "study director · ChemomAb Ltd.",
 "url": "",
 "c": ""
-},
-{
-"k": "org:tel-aviv-sourasky-medical-center",
-"t": "hospital",
-"n": "Tel Aviv Sourasky Medical Center",
-"sub": "",
-"url": "",
-"c": "Israel"
 },
 {
 "k": "trial:nct06044467",
@@ -95,34 +119,50 @@
 "c": "Israel"
 },
 {
-"k": "trial:nct06210945",
+"k": "trial:nct05824156",
 "t": "trial",
-"n": "Study to Evaluate the Safety, Tolerability, and Activity of CM-101 in Patients With System",
-"sub": "P2 · suspended · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT06210945",
+"n": "CM-101 in NASH Patients - The SPLASH Study",
+"sub": "P2 · completed · 2021-2022",
+"url": "https://clinicaltrials.gov/study/NCT05824156",
 "c": ""
 },
 {
-"k": "org:columbia-university-irving-medical-center",
-"t": "hospital",
-"n": "Columbia University Irving Medical Center",
+"k": "trial:nct07916324",
+"t": "trial",
+"n": "Hyaluronidase Injections for Sclerodactyly in Patients With Scleroderma",
+"sub": "P2 · not_yet_recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07916324",
+"c": ""
+},
+{
+"k": "org:stanford-university",
+"t": "academic",
+"n": "Stanford University",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "trial:nct06025851",
-"t": "trial",
-"n": "Intravenous Doses of CM-101 as a Treatment for Medical Conditions Involving Inflammatory a",
-"sub": "P1 · completed · 2017-2018",
-"url": "https://clinicaltrials.gov/study/NCT06025851",
+"k": "person:nour-kibbi",
+"t": "person",
+"n": "Nour Kibbi",
+"sub": "principal investigator · Stanford University",
+"url": "",
 "c": ""
 },
 {
-"k": "person:jacob-atsmon",
+"k": "person:winnie-fan",
 "t": "person",
-"n": "Jacob Atsmon",
-"sub": "principal investigator · Tel-Aviv Sourasky Medical Center",
+"n": "Winnie Fan",
+"sub": "study director · Stanford University",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:hyaluronidase",
+"t": "drug",
+"n": "hyaluronidase",
+"sub": "Stanford University",
 "url": "",
 "c": ""
 },
@@ -911,70 +951,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07493395",
-"t": "trial",
-"n": "Phase IIa Trial of Anti-CD19 CAR T-Cells in Systemic Sclerosis Resistant to Immunosuppress",
-"sub": "P2 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07493395",
-"c": ""
-},
-{
-"k": "org:university-hospital-montpellier",
-"t": "hospital",
-"n": "University Hospital, Montpellier",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:christian-jorgensen-puph",
-"t": "person",
-"n": "Christian Jorgensen, PUPH",
-"sub": "principal investigator · University Hospital, Montpellier",
-"url": "",
-"c": ""
-},
-{
-"k": "org:chru-lille",
-"t": "company",
-"n": "CHRU Lille",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:montpellier-university-hospital",
-"t": "hospital",
-"n": "Montpellier University Hospital",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:aphp-necker",
-"t": "company",
-"n": "APHP Necker",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-rouen",
-"t": "hospital",
-"n": "Chu Rouen",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "drug:cd19-car-t-arm",
-"t": "drug",
-"n": "CD19 CAR T Arm",
-"sub": "University Hospital, Montpellier",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct03844061",
 "t": "trial",
 "n": "Belimumab and Rituximab Combination Therapy for the Treatment of Diffuse Cutaneous Systemi",
@@ -1035,6 +1011,70 @@
 "t": "drug",
 "n": "MMF",
 "sub": "Hospital for Special Surgery, New York",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07493395",
+"t": "trial",
+"n": "Phase IIa Trial of Anti-CD19 CAR T-Cells in Systemic Sclerosis Resistant to Immunosuppress",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07493395",
+"c": ""
+},
+{
+"k": "org:university-hospital-montpellier",
+"t": "hospital",
+"n": "University Hospital, Montpellier",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:christian-jorgensen-puph",
+"t": "person",
+"n": "Christian Jorgensen, PUPH",
+"sub": "principal investigator · University Hospital, Montpellier",
+"url": "",
+"c": ""
+},
+{
+"k": "org:chru-lille",
+"t": "company",
+"n": "CHRU Lille",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:montpellier-university-hospital",
+"t": "hospital",
+"n": "Montpellier University Hospital",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:aphp-necker",
+"t": "company",
+"n": "APHP Necker",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chu-rouen",
+"t": "hospital",
+"n": "Chu Rouen",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "drug:cd19-car-t-arm",
+"t": "drug",
+"n": "CD19 CAR T Arm",
+"sub": "University Hospital, Montpellier",
 "url": "",
 "c": ""
 },
@@ -1327,94 +1367,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06954597",
-"t": "trial",
-"n": "Safety and Tolerability of TOP-N53 Applied on Digital Ulcers in Patients With Systemic Scl",
-"sub": "P2 · recruiting · 2025-2026",
-"url": "https://clinicaltrials.gov/study/NCT06954597",
-"c": ""
-},
-{
-"k": "org:topadur-pharma",
-"t": "company",
-"n": "Topadur Pharma AG",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:bioskin",
-"t": "company",
-"n": "Bioskin GmbH",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:centre-hospitalier-universitaire-de-bordeaux-service-de-rhum",
-"t": "hospital",
-"n": "Centre Hospitalier Universitaire de Bordeaux, Service de Rhumatologie",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-grenoble-alpes",
-"t": "hospital",
-"n": "CHU Grenoble Alpes",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chru-lille-hopital-claude-huriez-rue-michel-polonosvski",
-"t": "hospital",
-"n": "CHRU Lille, Hôpital Claude Huriez, Rue Michel Polonosvski",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:hopital-cochin",
-"t": "hospital",
-"n": "Hôpital Cochin",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:reha-rheinfelden-salinenstrasse-98",
-"t": "company",
-"n": "Reha Rheinfelden, Salinenstrasse 98",
-"sub": "",
-"url": "",
-"c": "Switzerland"
-},
-{
-"k": "org:universitatsspital-zurich-klinik-fur-rheumatologie-ramistras",
-"t": "hospital",
-"n": "Universitätsspital Zürich, Klinik für Rheumatologie, Rämistrasse 100",
-"sub": "",
-"url": "",
-"c": "Switzerland"
-},
-{
-"k": "drug:top-n53",
-"t": "drug",
-"n": "TOP-N53",
-"sub": "Topadur Pharma AG",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:sildenafil",
-"t": "drug",
-"n": "Sildenafil",
-"sub": "Topadur Pharma AG",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct04986605",
 "t": "trial",
 "n": "Extracorporeal Photopheresis in Early Diffuse Cutaneous Systemic Sclerosis",
@@ -1499,6 +1451,94 @@
 "t": "drug",
 "n": "PF-08154225",
 "sub": "Pfizer",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06954597",
+"t": "trial",
+"n": "Safety and Tolerability of TOP-N53 Applied on Digital Ulcers in Patients With Systemic Scl",
+"sub": "P2 · recruiting · 2025-2026",
+"url": "https://clinicaltrials.gov/study/NCT06954597",
+"c": ""
+},
+{
+"k": "org:topadur-pharma",
+"t": "company",
+"n": "Topadur Pharma AG",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:bioskin",
+"t": "company",
+"n": "Bioskin GmbH",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:centre-hospitalier-universitaire-de-bordeaux-service-de-rhum",
+"t": "hospital",
+"n": "Centre Hospitalier Universitaire de Bordeaux, Service de Rhumatologie",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chu-grenoble-alpes",
+"t": "hospital",
+"n": "CHU Grenoble Alpes",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chru-lille-hopital-claude-huriez-rue-michel-polonosvski",
+"t": "hospital",
+"n": "CHRU Lille, Hôpital Claude Huriez, Rue Michel Polonosvski",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:hopital-cochin",
+"t": "hospital",
+"n": "Hôpital Cochin",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:reha-rheinfelden-salinenstrasse-98",
+"t": "company",
+"n": "Reha Rheinfelden, Salinenstrasse 98",
+"sub": "",
+"url": "",
+"c": "Switzerland"
+},
+{
+"k": "org:universitatsspital-zurich-klinik-fur-rheumatologie-ramistras",
+"t": "hospital",
+"n": "Universitätsspital Zürich, Klinik für Rheumatologie, Rämistrasse 100",
+"sub": "",
+"url": "",
+"c": "Switzerland"
+},
+{
+"k": "drug:top-n53",
+"t": "drug",
+"n": "TOP-N53",
+"sub": "Topadur Pharma AG",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:sildenafil",
+"t": "drug",
+"n": "Sildenafil",
+"sub": "Topadur Pharma AG",
 "url": "",
 "c": ""
 },
@@ -1735,6 +1775,22 @@
 "c": ""
 },
 {
+"k": "trial:nct06828042",
+"t": "trial",
+"n": "Safety and Efficacy of Universal CD19-targeting CAR-γδT Cells in Refractory Autoimmune Dis",
+"sub": "P1/P2 · recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT06828042",
+"c": ""
+},
+{
+"k": "drug:anti-cd19-car-t-cell-therapy",
+"t": "drug",
+"n": "anti-CD19 CAR T cell therapy",
+"sub": "Peking University Third Hospital",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct05270668",
 "t": "trial",
 "n": "Phase 2 Safety and Efficacy Study of Tulisokibart (MK-7240/PRA023) in Subjects With System",
@@ -1763,22 +1819,6 @@
 "t": "drug",
 "n": "Tulisokibart",
 "sub": "Prometheus Biosciences, Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06828042",
-"t": "trial",
-"n": "Safety and Efficacy of Universal CD19-targeting CAR-γδT Cells in Refractory Autoimmune Dis",
-"sub": "P1/P2 · recruiting · 2025-2027",
-"url": "https://clinicaltrials.gov/study/NCT06828042",
-"c": ""
-},
-{
-"k": "drug:anti-cd19-car-t-cell-therapy",
-"t": "drug",
-"n": "anti-CD19 CAR T cell therapy",
-"sub": "Peking University Third Hospital",
 "url": "",
 "c": ""
 },
@@ -2063,38 +2103,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07800871",
-"t": "trial",
-"n": "FT839 in Autoimmune Diseases",
-"sub": "P1/P2 · recruiting · 2026-2040",
-"url": "https://clinicaltrials.gov/study/NCT07800871",
-"c": ""
-},
-{
-"k": "org:fate-therapeutics",
-"t": "company",
-"n": "Fate Therapeutics",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:providence-medical-foundation",
-"t": "foundation",
-"n": "Providence Medical Foundation",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:ft839",
-"t": "drug",
-"n": "FT839",
-"sub": "Fate Therapeutics",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct06655896",
 "t": "trial",
 "n": "Phase 2 Study Evaluating Rapcabtagene Autoleucel in Participants With Diffuse Cutaneous Sy",
@@ -2179,6 +2187,38 @@
 "t": "drug",
 "n": "rapcabtagene autoleucel",
 "sub": "Novartis Pharmaceuticals",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07800871",
+"t": "trial",
+"n": "FT839 in Autoimmune Diseases",
+"sub": "P1/P2 · recruiting · 2026-2040",
+"url": "https://clinicaltrials.gov/study/NCT07800871",
+"c": ""
+},
+{
+"k": "org:fate-therapeutics",
+"t": "company",
+"n": "Fate Therapeutics",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:providence-medical-foundation",
+"t": "foundation",
+"n": "Providence Medical Foundation",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:ft839",
+"t": "drug",
+"n": "FT839",
+"sub": "Fate Therapeutics",
 "url": "",
 "c": ""
 },
@@ -2379,46 +2419,6 @@
 "t": "company",
 "n": "Liquidia Technologies, Inc.",
 "sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07745725",
-"t": "trial",
-"n": "A Phase II Study of TollB-001 Tablets in Systemic Sclerosis",
-"sub": "P2 · not_yet_recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07745725",
-"c": ""
-},
-{
-"k": "org:toll-biotech-beijing",
-"t": "company",
-"n": "Toll Biotech Co. Ltd. (Beijing)",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:toll-biotech-2108-b007-no-9-west-beisihuan-road-haidian-dist",
-"t": "company",
-"n": "Toll Biotech, 2108-B007, No. 9 West Beisihuan Road, Haidian District, Beijing, People's Re",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:peking-union-medical-college-hospital-chinese-academy-of-med",
-"t": "hospital",
-"n": "Peking Union Medical College Hospital, Chinese Academy of Medical Sciences",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "drug:tollb-001",
-"t": "drug",
-"n": "TollB-001",
-"sub": "Toll Biotech Co. Ltd. (Beijing)",
 "url": "",
 "c": ""
 }
@@ -2652,6 +2652,16 @@
 {
 "a": "drug:ft839",
 "b": "trial:nct07800871",
+"r": "tested_in"
+},
+{
+"a": "drug:hyaluronidase",
+"b": "asset:nct-nct06210945",
+"r": "competes"
+},
+{
+"a": "drug:hyaluronidase",
+"b": "trial:nct07916324",
 "r": "tested_in"
 },
 {
@@ -2897,16 +2907,6 @@
 {
 "a": "drug:tocilizumab",
 "b": "trial:nct07335562",
-"r": "tested_in"
-},
-{
-"a": "drug:tollb-001",
-"b": "asset:nct-nct06210945",
-"r": "competes"
-},
-{
-"a": "drug:tollb-001",
-"b": "trial:nct07745725",
 "r": "tested_in"
 },
 {
@@ -3825,11 +3825,6 @@
 "r": "site_of"
 },
 {
-"a": "org:peking-union-medical-college-hospital-chinese-academy-of-med",
-"b": "trial:nct07745725",
-"r": "site_of"
-},
-{
 "a": "org:peking-university-third-hospital",
 "b": "drug:anti-cd19-car-t-cell-therapy",
 "r": "develops"
@@ -3985,6 +3980,21 @@
 "r": "collaborates"
 },
 {
+"a": "org:stanford-university",
+"b": "drug:hyaluronidase",
+"r": "develops"
+},
+{
+"a": "org:stanford-university",
+"b": "trial:nct07916324",
+"r": "site_of"
+},
+{
+"a": "org:stanford-university",
+"b": "trial:nct07916324",
+"r": "sponsors"
+},
+{
 "a": "org:stanford-university-medical-center",
 "b": "trial:nct06195072",
 "r": "site_of"
@@ -4068,21 +4078,6 @@
 "a": "org:thomas-jefferson-university",
 "b": "trial:nct06655155",
 "r": "site_of"
-},
-{
-"a": "org:toll-biotech-2108-b007-no-9-west-beisihuan-road-haidian-dist",
-"b": "trial:nct07745725",
-"r": "site_of"
-},
-{
-"a": "org:toll-biotech-beijing",
-"b": "drug:tollb-001",
-"r": "develops"
-},
-{
-"a": "org:toll-biotech-beijing",
-"b": "trial:nct07745725",
-"r": "sponsors"
 },
 {
 "a": "org:topadur-pharma",
@@ -4450,6 +4445,16 @@
 "r": "investigator"
 },
 {
+"a": "person:nour-kibbi",
+"b": "org:stanford-university",
+"r": "affiliated"
+},
+{
+"a": "person:nour-kibbi",
+"b": "trial:nct07916324",
+"r": "investigator"
+},
+{
 "a": "person:rifaat-safadi",
 "b": "org:hadassah-university-hospital",
 "r": "affiliated"
@@ -4507,6 +4512,16 @@
 {
 "a": "person:vincent-guigonis",
 "b": "trial:nct03582800",
+"r": "investigator"
+},
+{
+"a": "person:winnie-fan",
+"b": "org:stanford-university",
+"r": "affiliated"
+},
+{
+"a": "person:winnie-fan",
+"b": "trial:nct07916324",
 "r": "investigator"
 }
 ]
