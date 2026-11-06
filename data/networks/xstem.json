@@ -1,10 +1,9 @@
 {
 "assetId": "xstem",
-"updated": "2026-11-05",
+"updated": "2026-11-06",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
-"trials": 25,
-"papers": 1
+"trials": 25
 },
 "nodes": [
 {
@@ -1190,46 +1189,6 @@
 "sub": "Hospital Central \"Dr. Ignacio Morones Prieto\"",
 "url": "",
 "c": ""
-},
-{
-"k": "paper:doi-10-48550-arxiv-2205-04355",
-"t": "paper",
-"n": "XSTEM: An exemplar-based stemming algorithm",
-"sub": "arXiv (Cornell University) 2022 · cited 3",
-"url": "https://doi.org/10.48550/arxiv.2205.04355",
-"c": ""
-},
-{
-"k": "person:baker-kirk",
-"t": "person",
-"n": "Baker, Kirk",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:u-s-department-of-defense",
-"t": "funder",
-"n": "U.S. Department of Defense",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-institutes-of-health",
-"t": "funder",
-"n": "National Institutes of Health",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-institute-on-aging",
-"t": "funder",
-"n": "National Institute on Aging",
-"sub": "",
-"url": "",
-"c": ""
 }
 ],
 "edges": [
@@ -1804,16 +1763,6 @@
 "r": "site_of"
 },
 {
-"a": "org:national-institute-on-aging",
-"b": "paper:doi-10-48550-arxiv-2205-04355",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
-"b": "paper:doi-10-48550-arxiv-2205-04355",
-"r": "funded"
-},
-{
 "a": "org:nicolo-brembilla",
 "b": "drug:trophipatch-allogeneic-adipose-derived-stromal-cell-patch",
 "r": "develops"
@@ -1944,11 +1893,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:u-s-department-of-defense",
-"b": "paper:doi-10-48550-arxiv-2205-04355",
-"r": "funded"
-},
-{
 "a": "org:ucla-olive-view",
 "b": "trial:nct03818828",
 "r": "site_of"
@@ -2049,11 +1993,6 @@
 "r": "sponsors"
 },
 {
-"a": "paper:doi-10-48550-arxiv-2205-04355",
-"b": "asset:xstem",
-"r": "cites_asset"
-},
-{
 "a": "person:andreas-kerstan",
 "b": "org:klinik-und-poliklinik-fur-dermatologie-venerologie-und-aller",
 "r": "affiliated"
@@ -2072,11 +2011,6 @@
 "a": "person:anna-moessmer",
 "b": "trial:nct06489028",
 "r": "investigator"
-},
-{
-"a": "person:baker-kirk",
-"b": "paper:doi-10-48550-arxiv-2205-04355",
-"r": "authored"
 },
 {
 "a": "person:encarnacion-gonzalez-vigil",
