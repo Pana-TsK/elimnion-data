@@ -1,6 +1,6 @@
 {
 "assetId": "vtp300",
-"updated": "2026-11-06",
+"updated": "2026-11-07",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 42,
@@ -264,11 +264,11 @@
 "c": "Thailand"
 },
 {
-"k": "trial:nct04954859",
+"k": "trial:nct06537414",
 "t": "trial",
-"n": "Long-term Follow-up Study to Evaluate Durability of Treatment Response in Previous Bepirov",
-"sub": "P2 · active_not_recruiting · 2021-2029",
-"url": "https://clinicaltrials.gov/study/NCT04954859",
+"n": "A Study of Sequential Therapy With Daplusiran/Tomligisiran (DAP/TOM) Followed by Bepirovir",
+"sub": "P2 · active_not_recruiting · 2024-2030",
+"url": "https://clinicaltrials.gov/study/NCT06537414",
 "c": ""
 },
 {
@@ -288,11 +288,35 @@
 "c": "United States"
 },
 {
+"k": "drug:daplusiran-tomligisiran",
+"t": "drug",
+"n": "Daplusiran/Tomligisiran",
+"sub": "GlaxoSmithKline",
+"url": "",
+"c": ""
+},
+{
 "k": "drug:bepirovirsen",
 "t": "drug",
 "n": "Bepirovirsen",
 "sub": "GlaxoSmithKline",
 "url": "",
+"c": ""
+},
+{
+"k": "trial:nct06497504",
+"t": "trial",
+"n": "Study of Bepirovirsen in Participants Living With Human Immunodeficiency Virus and Chronic",
+"sub": "P2 · active_not_recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06497504",
+"c": ""
+},
+{
+"k": "trial:nct04954859",
+"t": "trial",
+"n": "Long-term Follow-up Study to Evaluate Durability of Treatment Response in Previous Bepirov",
+"sub": "P2 · active_not_recruiting · 2021-2029",
+"url": "https://clinicaltrials.gov/study/NCT04954859",
 "c": ""
 },
 {
@@ -315,126 +339,6 @@
 "k": "drug:ht-101-ht-102",
 "t": "drug",
 "n": "HT-101 + HT-102",
-"sub": "Suzhou HepaThera Biotech Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07245953",
-"t": "trial",
-"n": "A Clinical Study of HT-101 and HT-102 in Patients With Chronic Hepatitis B Virus Infection",
-"sub": "P2 · active_not_recruiting · 2025-2027",
-"url": "https://clinicaltrials.gov/study/NCT07245953",
-"c": ""
-},
-{
-"k": "org:nanfang-hospital-southern-medical-university",
-"t": "hospital",
-"n": "Nanfang Hospital, Southern Medical University",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "person:jinlin-hou",
-"t": "person",
-"n": "Jinlin Hou",
-"sub": "study chair · Nanfang Hospital, Southern Medical University",
-"url": "https://orcid.org/0000-0001-8230-8583",
-"c": "CN"
-},
-{
-"k": "org:beijing-ditan-hospital-capital-medical-university",
-"t": "hospital",
-"n": "Beijing Ditan Hospital Capital Medical University",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:mengchao-hepatobiliary-hospital-of-fujian-medical-university",
-"t": "hospital",
-"n": "Mengchao Hepatobiliary Hospital of Fujian Medical University",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:guangzhou-eighth-people-s-hospital-guangzhou-medical-univers",
-"t": "hospital",
-"n": "Guangzhou Eighth People's Hospital, Guangzhou Medical University",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:nanfang-hospital",
-"t": "hospital",
-"n": "Nanfang Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:qingyuan-people-s-hospital",
-"t": "hospital",
-"n": "Qingyuan People's Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:ruikang-hospital-affiliated-to-guangxi-university-of-chinese",
-"t": "hospital",
-"n": "Ruikang Hospital Affiliated to Guangxi University of Chinese Medicine",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:henan-infectious-diseases-hospital-the-sixth-people-s-hospit",
-"t": "hospital",
-"n": "Henan Infectious Diseases Hospital , The Sixth People's Hospital of Zhengzhou",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:the-second-hospital-of-nanjing",
-"t": "hospital",
-"n": "The Second Hospital of Nanjing",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:zhenjiang-third-people-s-hospital-zhenjiang-infectious-disea",
-"t": "hospital",
-"n": "Zhenjiang Third People's Hospital (Zhenjiang Infectious Diseases Hospital)",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:nanchang-ninth-hospital",
-"t": "hospital",
-"n": "Nanchang Ninth Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "drug:ht-101",
-"t": "drug",
-"n": "HT-101",
-"sub": "Suzhou HepaThera Biotech Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:ht-102",
-"t": "drug",
-"n": "HT-102",
 "sub": "Suzhou HepaThera Biotech Co., Ltd.",
 "url": "",
 "c": ""
@@ -560,9 +464,41 @@
 "c": ""
 },
 {
+"k": "org:beijing-ditan-hospital-capital-medical-university",
+"t": "hospital",
+"n": "Beijing Ditan Hospital Capital Medical University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
 "k": "org:xiamen-hospital-of-traditional-chinese-medicine",
 "t": "hospital",
 "n": "Xiamen Hospital of Traditional Chinese Medicine",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:guangzhou-eighth-people-s-hospital-guangzhou-medical-univers",
+"t": "hospital",
+"n": "Guangzhou Eighth People's Hospital, Guangzhou Medical University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:nanfang-hospital",
+"t": "hospital",
+"n": "Nanfang Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:qingyuan-people-s-hospital",
+"t": "hospital",
+"n": "Qingyuan People's Hospital",
 "sub": "",
 "url": "",
 "c": "China"
@@ -579,6 +515,94 @@
 "k": "org:sichuan-provincial-people-s-hospital",
 "t": "hospital",
 "n": "Sichuan Provincial People's Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "drug:ht-101",
+"t": "drug",
+"n": "HT-101",
+"sub": "Suzhou HepaThera Biotech Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ht-102",
+"t": "drug",
+"n": "HT-102",
+"sub": "Suzhou HepaThera Biotech Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07245953",
+"t": "trial",
+"n": "A Clinical Study of HT-101 and HT-102 in Patients With Chronic Hepatitis B Virus Infection",
+"sub": "P2 · active_not_recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT07245953",
+"c": ""
+},
+{
+"k": "org:nanfang-hospital-southern-medical-university",
+"t": "hospital",
+"n": "Nanfang Hospital, Southern Medical University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "person:jinlin-hou",
+"t": "person",
+"n": "Jinlin Hou",
+"sub": "study chair · Nanfang Hospital, Southern Medical University",
+"url": "https://orcid.org/0000-0001-8230-8583",
+"c": "CN"
+},
+{
+"k": "org:mengchao-hepatobiliary-hospital-of-fujian-medical-university",
+"t": "hospital",
+"n": "Mengchao Hepatobiliary Hospital of Fujian Medical University",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:ruikang-hospital-affiliated-to-guangxi-university-of-chinese",
+"t": "hospital",
+"n": "Ruikang Hospital Affiliated to Guangxi University of Chinese Medicine",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:henan-infectious-diseases-hospital-the-sixth-people-s-hospit",
+"t": "hospital",
+"n": "Henan Infectious Diseases Hospital , The Sixth People's Hospital of Zhengzhou",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:the-second-hospital-of-nanjing",
+"t": "hospital",
+"n": "The Second Hospital of Nanjing",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:zhenjiang-third-people-s-hospital-zhenjiang-infectious-disea",
+"t": "hospital",
+"n": "Zhenjiang Third People's Hospital (Zhenjiang Infectious Diseases Hospital)",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:nanchang-ninth-hospital",
+"t": "hospital",
+"n": "Nanchang Ninth Hospital",
 "sub": "",
 "url": "",
 "c": "China"
@@ -1192,54 +1216,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06963710",
-"t": "trial",
-"n": "A Study Evaluating the Efficacy and Safety of ALG-000184 Compared With Tenofovir Disoproxi",
-"sub": "P2 · active_not_recruiting · 2025-2028",
-"url": "https://clinicaltrials.gov/study/NCT06963710",
-"c": ""
-},
-{
-"k": "org:aligos-therapeutics",
-"t": "company",
-"n": "Aligos Therapeutics",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:aligos-investigational-site",
-"t": "company",
-"n": "Aligos Investigational Site",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:aligos-investigational-sites",
-"t": "company",
-"n": "Aligos Investigational Sites",
-"sub": "",
-"url": "",
-"c": "Bulgaria"
-},
-{
-"k": "drug:alg-000184",
-"t": "drug",
-"n": "ALG-000184",
-"sub": "Aligos Therapeutics",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:tdf",
-"t": "drug",
-"n": "TDF",
-"sub": "Aligos Therapeutics",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct06706310",
 "t": "trial",
 "n": "Evaluate TQ-A3334 Combined Nucleoside (Acid) Analogs in the First Treatment/Treatment of C",
@@ -1332,6 +1308,54 @@
 "t": "drug",
 "n": "Nucleoside analogs",
 "sub": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06963710",
+"t": "trial",
+"n": "A Study Evaluating the Efficacy and Safety of ALG-000184 Compared With Tenofovir Disoproxi",
+"sub": "P2 · active_not_recruiting · 2025-2028",
+"url": "https://clinicaltrials.gov/study/NCT06963710",
+"c": ""
+},
+{
+"k": "org:aligos-therapeutics",
+"t": "company",
+"n": "Aligos Therapeutics",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:aligos-investigational-site",
+"t": "company",
+"n": "Aligos Investigational Site",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:aligos-investigational-sites",
+"t": "company",
+"n": "Aligos Investigational Sites",
+"sub": "",
+"url": "",
+"c": "Bulgaria"
+},
+{
+"k": "drug:alg-000184",
+"t": "drug",
+"n": "ALG-000184",
+"sub": "Aligos Therapeutics",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:tdf",
+"t": "drug",
+"n": "TDF",
+"sub": "Aligos Therapeutics",
 "url": "",
 "c": ""
 },
@@ -1440,22 +1464,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07417553",
-"t": "trial",
-"n": "A Study of Hydronidone Capsules in Patients With Chronic Hepatitis B Virus-Related Liver F",
-"sub": "P2 · completed · 2026-2026",
-"url": "https://clinicaltrials.gov/study/NCT07417553",
-"c": ""
-},
-{
-"k": "org:chongqing-medical-university-second-affiliated-hospital",
-"t": "hospital",
-"n": "Chongqing Medical University Second Affiliated Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
 "k": "trial:nct07364448",
 "t": "trial",
 "n": "A Study to Evaluate the Safety of Hydronidone Capsules in Patients With Liver Fibrosis",
@@ -1467,6 +1475,22 @@
 "k": "org:jilin-university-first-hospital",
 "t": "hospital",
 "n": "Jilin University First Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "trial:nct07417553",
+"t": "trial",
+"n": "A Study of Hydronidone Capsules in Patients With Chronic Hepatitis B Virus-Related Liver F",
+"sub": "P2 · completed · 2026-2026",
+"url": "https://clinicaltrials.gov/study/NCT07417553",
+"c": ""
+},
+{
+"k": "org:chongqing-medical-university-second-affiliated-hospital",
+"t": "hospital",
+"n": "Chongqing Medical University Second Affiliated Hospital",
 "sub": "",
 "url": "",
 "c": "China"
@@ -1517,6 +1541,14 @@
 "n": "NA therapy",
 "sub": "Ausper Biopharma Co., Ltd.",
 "url": "",
+"c": ""
+},
+{
+"k": "trial:nct06829329",
+"t": "trial",
+"n": "Study to Evaluate the Efficacy and Safety of AHB-137 in Treatment-naive Participants With ",
+"sub": "P2 · active_not_recruiting · 2024-2026",
+"url": "https://clinicaltrials.gov/study/NCT06829329",
 "c": ""
 },
 {
@@ -1573,14 +1605,6 @@
 "n": "Peng Hu",
 "sub": "principal investigator · The Second Affiliated Hospital of Chongqing Medical University",
 "url": "",
-"c": ""
-},
-{
-"k": "trial:nct06829329",
-"t": "trial",
-"n": "Study to Evaluate the Efficacy and Safety of AHB-137 in Treatment-naive Participants With ",
-"sub": "P2 · active_not_recruiting · 2024-2026",
-"url": "https://clinicaltrials.gov/study/NCT06829329",
 "c": ""
 },
 {
@@ -1805,62 +1829,6 @@
 "n": "GST-HG131",
 "sub": "Fujian Akeylink Biotechnology Co., Ltd.",
 "url": "",
-"c": ""
-},
-{
-"k": "trial:nct07696520",
-"t": "trial",
-"n": "Bepirovirsen Liver Biopsy Study",
-"sub": "P2 · not_yet_recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07696520",
-"c": ""
-},
-{
-"k": "org:national-university-health-system-singapore",
-"t": "hospital",
-"n": "National University Health System, Singapore",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:a-star",
-"t": "academic",
-"n": "A*Star",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-university-of-singapore",
-"t": "academic",
-"n": "National University of Singapore",
-"sub": "",
-"url": "",
-"c": "SG"
-},
-{
-"k": "org:division-of-gastroenterology-hepatology-national-university",
-"t": "hospital",
-"n": "Division of Gastroenterology & Hepatology, National University Hospital (NUH)",
-"sub": "",
-"url": "",
-"c": "Singapore"
-},
-{
-"k": "person:seng-gee-lim-professor",
-"t": "person",
-"n": "Seng Gee Lim, Professor",
-"sub": "principal investigator · Division of Gastroenterology & Hepatology, National University Ho",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05630820",
-"t": "trial",
-"n": "Study of Bepirovirsen in Nucleos(t)Ide Analogue-treated Participants With Chronic Hepatiti",
-"sub": "P3 · completed · 2022-2026",
-"url": "https://clinicaltrials.gov/study/NCT05630820",
 "c": ""
 },
 {
@@ -2120,22 +2088,6 @@
 "c": "US"
 },
 {
-"k": "paper:doi-10-1016-s0168-8278-23-03313-5",
-"t": "paper",
-"n": "Phase 1b/2a study of heterologous ChAdOx1-HBV/MVA-HBV immunotherapy (VTP-300) combined wit",
-"sub": "Journal of Hepatology 2023 · cited 3",
-"url": "https://doi.org/10.1016/s0168-8278(23)03313-5",
-"c": ""
-},
-{
-"k": "person:ginho-lo",
-"t": "person",
-"n": "Gin‐Ho Lo",
-"sub": "",
-"url": "https://orcid.org/0000-0002-9488-6185",
-"c": ""
-},
-{
 "k": "paper:doi-10-1016-j-pdpdt-2017-01-049",
 "t": "paper",
 "n": "TOOKAD® soluble VTP: From local tumor ablation to systemic cancer control",
@@ -2174,6 +2126,22 @@
 "sub": "",
 "url": "",
 "c": "US"
+},
+{
+"k": "paper:doi-10-1016-s0168-8278-23-03313-5",
+"t": "paper",
+"n": "Phase 1b/2a study of heterologous ChAdOx1-HBV/MVA-HBV immunotherapy (VTP-300) combined wit",
+"sub": "Journal of Hepatology 2023 · cited 3",
+"url": "https://doi.org/10.1016/s0168-8278(23)03313-5",
+"c": ""
+},
+{
+"k": "person:ginho-lo",
+"t": "person",
+"n": "Gin‐Ho Lo",
+"sub": "",
+"url": "https://orcid.org/0000-0002-9488-6185",
+"c": ""
 },
 {
 "k": "paper:pmid-26882043",
@@ -2451,7 +2419,7 @@
 "k": "paper:pmid-36727674",
 "t": "paper",
 "n": "AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty li",
-"sub": "Hepatology 2023 · cited 2787",
+"sub": "Hepatology 2023 · cited 2795",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36727674",
 "c": ""
 },
@@ -2627,7 +2595,7 @@
 "k": "paper:pmid-31981519",
 "t": "paper",
 "n": "The global, regional, and national burden of cirrhosis by cause in 195 countries and terri",
-"sub": "The Lancet. Gastroenterology & hepatology 2020 · cited 1751",
+"sub": "The Lancet. Gastroenterology & hepatology 2020 · cited 1752",
 "url": "https://pubmed.ncbi.nlm.nih.gov/31981519",
 "c": ""
 },
@@ -2675,7 +2643,7 @@
 "k": "paper:pmid-36977794",
 "t": "paper",
 "n": "Global epidemiology of cirrhosis — aetiology, trends and predictions",
-"sub": "Nature Reviews Gastroenterology & Hepatology 2023 · cited 900",
+"sub": "Nature Reviews Gastroenterology & Hepatology 2023 · cited 901",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36977794",
 "c": ""
 },
@@ -2685,6 +2653,14 @@
 "n": "Daniel Q. Huang",
 "sub": "National University of Singapore",
 "url": "https://orcid.org/0000-0002-5165-5061",
+"c": "SG"
+},
+{
+"k": "org:national-university-of-singapore",
+"t": "academic",
+"n": "National University of Singapore",
+"sub": "",
+"url": "",
 "c": "SG"
 },
 {
@@ -2787,7 +2763,7 @@
 "k": "paper:pmid-34863359",
 "t": "paper",
 "n": "The EASL–Lancet Liver Commission: protecting the next generation of Europeans against live",
-"sub": "The Lancet 2021 · cited 663",
+"sub": "The Lancet 2021 · cited 664",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34863359",
 "c": ""
 },
@@ -2915,7 +2891,7 @@
 "k": "paper:pmid-36774930",
 "t": "paper",
 "n": "Hepatitis B",
-"sub": "The Lancet 2023 · cited 599",
+"sub": "The Lancet 2023 · cited 600",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36774930",
 "c": ""
 },
@@ -2971,7 +2947,7 @@
 "k": "paper:pmid-32531342",
 "t": "paper",
 "n": "Nonalcoholic Steatohepatitis Is the Most Rapidly Increasing Indication for Liver Transplan",
-"sub": "Clinical Gastroenterology and Hepatology 2020 · cited 586",
+"sub": "Clinical Gastroenterology and Hepatology 2020 · cited 587",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32531342",
 "c": ""
 },
@@ -3019,7 +2995,7 @@
 "k": "paper:pmid-32102898",
 "t": "paper",
 "n": "Hepatitis B Virus: Advances in Prevention, Diagnosis, and Therapy",
-"sub": "Clinical Microbiology Reviews 2020 · cited 585",
+"sub": "Clinical Microbiology Reviews 2020 · cited 586",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32102898",
 "c": ""
 },
@@ -3067,7 +3043,7 @@
 "k": "paper:pmid-31936320",
 "t": "paper",
 "n": "Chronic and Acute Toxicities of Aflatoxins: Mechanisms of Action",
-"sub": "International Journal of Environmental Research and Public Health 2020 · cited 570",
+"sub": "International Journal of Environmental Research and Public Health 2020 · cited 571",
 "url": "https://pubmed.ncbi.nlm.nih.gov/31936320",
 "c": ""
 },
@@ -3099,7 +3075,7 @@
 "k": "paper:pmid-37759956",
 "t": "paper",
 "n": "Oxidative Stress in Liver Pathophysiology and Disease",
-"sub": "Antioxidants 2023 · cited 565",
+"sub": "Antioxidants 2023 · cited 566",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37759956",
 "c": ""
 },
@@ -3259,7 +3235,7 @@
 "k": "paper:pmid-40348683",
 "t": "paper",
 "n": "EASL Clinical Practice Guidelines on the management of hepatitis B virus infection",
-"sub": "Journal of Hepatology 2025 · cited 510",
+"sub": "Journal of Hepatology 2025 · cited 511",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40348683",
 "c": ""
 },
@@ -3403,7 +3379,7 @@
 "k": "paper:pmid-36083140",
 "t": "paper",
 "n": "AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma",
-"sub": "Hepatology 2022 · cited 447",
+"sub": "Hepatology 2022 · cited 448",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36083140",
 "c": ""
 },
@@ -3568,34 +3544,10 @@
 "c": "HK"
 },
 {
-"k": "paper:pmid-32754945",
-"t": "paper",
-"n": "Systemic racism, chronic health inequities, and COVID ‐19: A syndemic in the making?",
-"sub": "American Journal of Human Biology 2020 · cited 375",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32754945",
-"c": ""
-},
-{
-"k": "person:clarence-c-gravlee",
-"t": "person",
-"n": "Clarence C. Gravlee",
-"sub": "University of Florida",
-"url": "https://orcid.org/0000-0002-0913-2320",
-"c": "US"
-},
-{
-"k": "org:university-of-florida",
-"t": "academic",
-"n": "University of Florida",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
 "k": "paper:pmid-32707225",
 "t": "paper",
 "n": "aMAP risk score predicts hepatocellular carcinoma development in patients with chronic hep",
-"sub": "Journal of Hepatology 2020 · cited 373",
+"sub": "Journal of Hepatology 2020 · cited 374",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32707225",
 "c": ""
 },
@@ -3654,6 +3606,30 @@
 "sub": "",
 "url": "",
 "c": ""
+},
+{
+"k": "paper:pmid-32754945",
+"t": "paper",
+"n": "Systemic racism, chronic health inequities, and COVID ‐19: A syndemic in the making?",
+"sub": "American Journal of Human Biology 2020 · cited 374",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32754945",
+"c": ""
+},
+{
+"k": "person:clarence-c-gravlee",
+"t": "person",
+"n": "Clarence C. Gravlee",
+"sub": "University of Florida",
+"url": "https://orcid.org/0000-0002-0913-2320",
+"c": "US"
+},
+{
+"k": "org:university-of-florida",
+"t": "academic",
+"n": "University of Florida",
+"sub": "",
+"url": "",
+"c": "US"
 },
 {
 "k": "paper:pmid-32379894",
@@ -3827,7 +3803,7 @@
 "k": "paper:pmid-36263666",
 "t": "paper",
 "n": "2022 KLCA-NCC Korea practice guidelines for the management of hepatocellular carcinoma",
-"sub": "Clinical and Molecular Hepatology 2022 · cited 349",
+"sub": "Clinical and Molecular Hepatology 2022 · cited 350",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36263666",
 "c": ""
 },
@@ -3851,7 +3827,7 @@
 "k": "paper:pmid-39722614",
 "t": "paper",
 "n": "Hepatocellular carcinoma: updates on epidemiology, surveillance, diagnosis and treatment",
-"sub": "Clinical and Molecular Hepatology 2024 · cited 348",
+"sub": "Clinical and Molecular Hepatology 2024 · cited 349",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39722614",
 "c": ""
 },
@@ -4088,12 +4064,12 @@
 },
 {
 "a": "drug:bepirovirsen",
-"b": "trial:nct05630820",
+"b": "trial:nct06497504",
 "r": "tested_in"
 },
 {
 "a": "drug:bepirovirsen",
-"b": "trial:nct07696520",
+"b": "trial:nct06537414",
 "r": "tested_in"
 },
 {
@@ -4149,6 +4125,16 @@
 {
 "a": "drug:brii-835",
 "b": "trial:nct06650852",
+"r": "tested_in"
+},
+{
+"a": "drug:daplusiran-tomligisiran",
+"b": "asset:vtp300",
+"r": "competes"
+},
+{
+"a": "drug:daplusiran-tomligisiran",
+"b": "trial:nct06537414",
 "r": "tested_in"
 },
 {
@@ -4555,11 +4541,6 @@
 "a": "drug:vir-2218-and-peginterferon-alfa-2a",
 "b": "trial:nct06092333",
 "r": "tested_in"
-},
-{
-"a": "org:a-star",
-"b": "trial:nct07696520",
-"r": "collaborates"
 },
 {
 "a": "org:abbvie",
@@ -5062,11 +5043,6 @@
 "r": "funded"
 },
 {
-"a": "org:division-of-gastroenterology-hepatology-national-university",
-"b": "trial:nct07696520",
-"r": "site_of"
-},
-{
 "a": "org:e-da-hospital",
 "b": "trial:nct04778904",
 "r": "site_of"
@@ -5203,6 +5179,11 @@
 },
 {
 "a": "org:glaxosmithkline",
+"b": "drug:daplusiran-tomligisiran",
+"r": "develops"
+},
+{
+"a": "org:glaxosmithkline",
 "b": "drug:gsk3965193",
 "r": "develops"
 },
@@ -5223,7 +5204,12 @@
 },
 {
 "a": "org:glaxosmithkline",
-"b": "trial:nct05630820",
+"b": "trial:nct06497504",
+"r": "sponsors"
+},
+{
+"a": "org:glaxosmithkline",
+"b": "trial:nct06537414",
 "r": "sponsors"
 },
 {
@@ -5258,7 +5244,12 @@
 },
 {
 "a": "org:gsk-investigational-site",
-"b": "trial:nct05630820",
+"b": "trial:nct06497504",
+"r": "site_of"
+},
+{
+"a": "org:gsk-investigational-site",
+"b": "trial:nct06537414",
 "r": "site_of"
 },
 {
@@ -5602,24 +5593,9 @@
 "r": "site_of"
 },
 {
-"a": "org:national-university-health-system-singapore",
-"b": "drug:bepirovirsen",
-"r": "develops"
-},
-{
-"a": "org:national-university-health-system-singapore",
-"b": "trial:nct07696520",
-"r": "sponsors"
-},
-{
 "a": "org:national-university-hospital-singapore",
 "b": "trial:nct07370207",
 "r": "site_of"
-},
-{
-"a": "org:national-university-of-singapore",
-"b": "trial:nct07696520",
-"r": "collaborates"
 },
 {
 "a": "org:new-zealand-clinical-research",
@@ -7200,16 +7176,6 @@
 "a": "person:sadaf-ghajarieh-sepanlou",
 "b": "paper:pmid-31981519",
 "r": "authored"
-},
-{
-"a": "person:seng-gee-lim-professor",
-"b": "org:division-of-gastroenterology-hepatology-national-university",
-"r": "affiliated"
-},
-{
-"a": "person:seng-gee-lim-professor",
-"b": "trial:nct07696520",
-"r": "investigator"
 },
 {
 "a": "person:senko-tsukuda",
