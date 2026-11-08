@@ -1,6 +1,6 @@
 {
 "assetId": "tesomet",
-"updated": "2026-11-07",
+"updated": "2026-11-08",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 53,
@@ -808,6 +808,14 @@
 "c": ""
 },
 {
+"k": "org:alfred-health",
+"t": "hospital",
+"n": "Alfred Health",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
 "k": "drug:bmb-101",
 "t": "drug",
 "n": "BMB-101",
@@ -840,6 +848,22 @@
 "c": ""
 },
 {
+"k": "org:uncommon-cures",
+"t": "company",
+"n": "Uncommon Cures",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:suburban-research",
+"t": "company",
+"n": "Suburban Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "drug:nnz-2591",
 "t": "drug",
 "n": "NNZ-2591",
@@ -862,6 +886,14 @@
 "sub": "",
 "url": "",
 "c": "US"
+},
+{
+"k": "org:robert-wood-johnson-university-hospital",
+"t": "hospital",
+"n": "Robert Wood Johnson University Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
 },
 {
 "k": "drug:nbt-nm108",
@@ -910,6 +942,22 @@
 "sub": "",
 "url": "",
 "c": ""
+},
+{
+"k": "org:nyu-langone-hospital-long-island",
+"t": "hospital",
+"n": "NYU Langone Hospital-Long Island",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:morgan-stanley-children-s-hospital-of-newyork-presbyterian",
+"t": "hospital",
+"n": "Morgan Stanley Children's Hospital of NewYork-Presbyterian",
+"sub": "",
+"url": "",
+"c": "United States"
 },
 {
 "k": "org:university-hospitals-cleveland-medical-center",
@@ -2043,7 +2091,7 @@
 "k": "paper:pmid-35294397",
 "t": "paper",
 "n": "Randomized controlled trial of Tesomet for weight loss in hypothalamic obesity",
-"sub": "European Journal of Endocrinology 2022 · cited 44",
+"sub": "European Journal of Endocrinology 2022 · cited 48",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35294397",
 "c": ""
 },
@@ -2299,7 +2347,7 @@
 "k": "paper:pmid-29504049",
 "t": "paper",
 "n": "Future Pharmacotherapy for Obesity: New Anti-obesity Drugs on the Horizon",
-"sub": "Current Obesity Reports 2018 · cited 233",
+"sub": "Current Obesity Reports 2018 · cited 236",
 "url": "https://pubmed.ncbi.nlm.nih.gov/29504049",
 "c": ""
 },
@@ -2339,7 +2387,7 @@
 "k": "paper:pmid-30014268",
 "t": "paper",
 "n": "Centrally Acting Agents for Obesity: Past, Present, and Future",
-"sub": "Drugs 2018 · cited 154",
+"sub": "Drugs 2018 · cited 162",
 "url": "https://pubmed.ncbi.nlm.nih.gov/30014268",
 "c": ""
 },
@@ -2584,6 +2632,14 @@
 "c": "PL"
 },
 {
+"k": "paper:doi-10-1358-dof-2018-043-11-2869753",
+"t": "paper",
+"n": "Tesofensine. Triple monoamine reuptake inhibitor of dopamine, norepinephrine and serotonin",
+"sub": "Drugs of the Future 2018 · cited 1",
+"url": "https://doi.org/10.1358/dof.2018.043.11.2869753",
+"c": ""
+},
+{
 "k": "paper:pmid-40554466",
 "t": "paper",
 "n": "Sex-specific effects of appetite suppressants on stereotypy in rats",
@@ -2605,14 +2661,6 @@
 "n": "Consejo Nacional de Ciencia y Tecnología",
 "sub": "",
 "url": "",
-"c": ""
-},
-{
-"k": "paper:doi-10-1358-dof-2018-043-11-2869753",
-"t": "paper",
-"n": "Tesofensine. Triple monoamine reuptake inhibitor of dopamine, norepinephrine and serotonin",
-"sub": "Drugs of the Future 2018 · cited 1",
-"url": "https://doi.org/10.1358/dof.2018.043.11.2869753",
 "c": ""
 },
 {
@@ -2728,66 +2776,10 @@
 "c": "RU"
 },
 {
-"k": "paper:pmid-33647242",
-"t": "paper",
-"n": "Endocrine disorders in Prader-Willi syndrome: a model to understand and treat hypothalamic",
-"sub": "The Lancet Diabetes & Endocrinology 2021 · cited 187",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33647242",
-"c": ""
-},
-{
-"k": "person:m-tauber",
-"t": "person",
-"n": "M. Tauber",
-"sub": "Centre National de la Recherche Scientifique",
-"url": "https://orcid.org/0000-0002-0363-7862",
-"c": "FR"
-},
-{
-"k": "org:centre-national-de-la-recherche-scientifique",
-"t": "funder",
-"n": "Centre National de la Recherche Scientifique",
-"sub": "",
-"url": "",
-"c": "FR"
-},
-{
-"k": "org:universite-toulouse-iii-paul-sabatier",
-"t": "academic",
-"n": "Université Toulouse III - Paul Sabatier",
-"sub": "",
-"url": "",
-"c": "FR"
-},
-{
-"k": "person:charlotte-hoybye",
-"t": "person",
-"n": "Charlotte Höybye",
-"sub": "Karolinska University Hospital",
-"url": "https://orcid.org/0000-0002-3980-1927",
-"c": "SE"
-},
-{
-"k": "org:karolinska-university-hospital",
-"t": "hospital",
-"n": "Karolinska University Hospital",
-"sub": "",
-"url": "",
-"c": "SE"
-},
-{
-"k": "org:karolinska-institutet",
-"t": "academic",
-"n": "Karolinska Institutet",
-"sub": "",
-"url": "",
-"c": "SE"
-},
-{
 "k": "paper:pmid-36232301",
 "t": "paper",
 "n": "Genetics of Obesity in Humans: A Clinical Review",
-"sub": "International Journal of Molecular Sciences 2022 · cited 178",
+"sub": "International Journal of Molecular Sciences 2022 · cited 204",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36232301",
 "c": ""
 },
@@ -2864,10 +2856,66 @@
 "c": ""
 },
 {
+"k": "paper:pmid-33647242",
+"t": "paper",
+"n": "Endocrine disorders in Prader-Willi syndrome: a model to understand and treat hypothalamic",
+"sub": "The Lancet Diabetes & Endocrinology 2021 · cited 194",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33647242",
+"c": ""
+},
+{
+"k": "person:m-tauber",
+"t": "person",
+"n": "M. Tauber",
+"sub": "Centre National de la Recherche Scientifique",
+"url": "https://orcid.org/0000-0002-0363-7862",
+"c": "FR"
+},
+{
+"k": "org:centre-national-de-la-recherche-scientifique",
+"t": "funder",
+"n": "Centre National de la Recherche Scientifique",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:universite-toulouse-iii-paul-sabatier",
+"t": "academic",
+"n": "Université Toulouse III - Paul Sabatier",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:charlotte-hoybye",
+"t": "person",
+"n": "Charlotte Höybye",
+"sub": "Karolinska University Hospital",
+"url": "https://orcid.org/0000-0002-3980-1927",
+"c": "SE"
+},
+{
+"k": "org:karolinska-university-hospital",
+"t": "hospital",
+"n": "Karolinska University Hospital",
+"sub": "",
+"url": "",
+"c": "SE"
+},
+{
+"k": "org:karolinska-institutet",
+"t": "academic",
+"n": "Karolinska Institutet",
+"sub": "",
+"url": "",
+"c": "SE"
+},
+{
 "k": "paper:pmid-33961804",
 "t": "paper",
 "n": "Generation of hypothalamic arcuate organoids from human induced pluripotent stem cells",
-"sub": "Cell stem cell 2021 · cited 174",
+"sub": "Cell stem cell 2021 · cited 179",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33961804",
 "c": ""
 },
@@ -2923,7 +2971,7 @@
 "k": "paper:pmid-35449162",
 "t": "paper",
 "n": "Hypothalamic syndrome",
-"sub": "Nature Reviews Disease Primers 2022 · cited 151",
+"sub": "Nature Reviews Disease Primers 2022 · cited 155",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35449162",
 "c": ""
 },
@@ -2987,7 +3035,7 @@
 "k": "paper:pmid-33006084",
 "t": "paper",
 "n": "Genetic Determinants of Childhood Obesity",
-"sub": "Molecular Diagnosis & Therapy 2020 · cited 128",
+"sub": "Molecular Diagnosis & Therapy 2020 · cited 144",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33006084",
 "c": ""
 },
@@ -3019,7 +3067,7 @@
 "k": "paper:pmid-33975197",
 "t": "paper",
 "n": "Impact of short stature on quality of life: A systematic literature review",
-"sub": "Growth Hormone & IGF Research 2021 · cited 118",
+"sub": "Growth Hormone & IGF Research 2021 · cited 125",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33975197",
 "c": ""
 },
@@ -3088,10 +3136,50 @@
 "c": ""
 },
 {
+"k": "paper:pmid-33891302",
+"t": "paper",
+"n": "Obesity in Prader–Willi syndrome: physiopathological mechanisms, nutritional and pharmacol",
+"sub": "Journal of Endocrinological Investigation 2021 · cited 119",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33891302",
+"c": ""
+},
+{
+"k": "person:giovanna-muscogiuri",
+"t": "person",
+"n": "Giovanna Muscogiuri",
+"sub": "Federico II University Hospital",
+"url": "https://orcid.org/0000-0002-8809-4931",
+"c": "IT"
+},
+{
+"k": "org:federico-ii-university-hospital",
+"t": "hospital",
+"n": "Federico II University Hospital",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:university-of-naples-federico-ii",
+"t": "academic",
+"n": "University of Naples Federico II",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:universita-degli-studi-di-napoli-federico-ii",
+"t": "funder",
+"n": "Università degli Studi di Napoli Federico II",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-35930274",
 "t": "paper",
 "n": "The Congenital and Acquired Mechanisms Implicated in the Etiology of Central Precocious Pu",
-"sub": "Endocrine Reviews 2022 · cited 115",
+"sub": "Endocrine Reviews 2022 · cited 119",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35930274",
 "c": ""
 },
@@ -3155,7 +3243,7 @@
 "k": "paper:pmid-32698138",
 "t": "paper",
 "n": "GENETICS IN ENDOCRINOLOGY: Genetic etiologies of central precocious puberty and the role o",
-"sub": "European Journal of Endocrinology 2020 · cited 114",
+"sub": "European Journal of Endocrinology 2020 · cited 118",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32698138",
 "c": ""
 },
@@ -3184,90 +3272,10 @@
 "c": "US"
 },
 {
-"k": "paper:pmid-33891302",
-"t": "paper",
-"n": "Obesity in Prader–Willi syndrome: physiopathological mechanisms, nutritional and pharmacol",
-"sub": "Journal of Endocrinological Investigation 2021 · cited 113",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33891302",
-"c": ""
-},
-{
-"k": "person:giovanna-muscogiuri",
-"t": "person",
-"n": "Giovanna Muscogiuri",
-"sub": "Federico II University Hospital",
-"url": "https://orcid.org/0000-0002-8809-4931",
-"c": "IT"
-},
-{
-"k": "org:federico-ii-university-hospital",
-"t": "hospital",
-"n": "Federico II University Hospital",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "org:university-of-naples-federico-ii",
-"t": "academic",
-"n": "University of Naples Federico II",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "org:universita-degli-studi-di-napoli-federico-ii",
-"t": "funder",
-"n": "Università degli Studi di Napoli Federico II",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32973676",
-"t": "paper",
-"n": "Autoimmune Thyroid Disease in Specific Genetic Syndromes in Childhood and Adolescence",
-"sub": "Frontiers in Endocrinology 2020 · cited 101",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32973676",
-"c": ""
-},
-{
-"k": "person:eleni-magdalini-kyritsi",
-"t": "person",
-"n": "Eleni Magdalini Kyritsi",
-"sub": "National and Kapodistrian University of Athens",
-"url": "https://orcid.org/0000-0002-9122-8734",
-"c": "GR"
-},
-{
-"k": "org:national-and-kapodistrian-university-of-athens",
-"t": "academic",
-"n": "National and Kapodistrian University of Athens",
-"sub": "",
-"url": "",
-"c": "GR"
-},
-{
-"k": "org:children-s-hospital-agia-sophia",
-"t": "hospital",
-"n": "Children's Hospital Agia Sophia",
-"sub": "",
-"url": "",
-"c": "GR"
-},
-{
-"k": "person:christina-kanakagantenbein",
-"t": "person",
-"n": "Christina Kanaka‐Gantenbein",
-"sub": "National and Kapodistrian University of Athens",
-"url": "https://orcid.org/0000-0001-6942-6470",
-"c": "GR"
-},
-{
 "k": "paper:pmid-34148559",
 "t": "paper",
 "n": "Behavioral features in Prader-Willi syndrome (PWS): consensus paper from the International",
-"sub": "Journal of Neurodevelopmental Disorders 2021 · cited 98",
+"sub": "Journal of Neurodevelopmental Disorders 2021 · cited 107",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34148559",
 "c": ""
 },
@@ -3304,10 +3312,50 @@
 "c": "GB"
 },
 {
+"k": "paper:pmid-32973676",
+"t": "paper",
+"n": "Autoimmune Thyroid Disease in Specific Genetic Syndromes in Childhood and Adolescence",
+"sub": "Frontiers in Endocrinology 2020 · cited 106",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32973676",
+"c": ""
+},
+{
+"k": "person:eleni-magdalini-kyritsi",
+"t": "person",
+"n": "Eleni Magdalini Kyritsi",
+"sub": "National and Kapodistrian University of Athens",
+"url": "https://orcid.org/0000-0002-9122-8734",
+"c": "GR"
+},
+{
+"k": "org:national-and-kapodistrian-university-of-athens",
+"t": "academic",
+"n": "National and Kapodistrian University of Athens",
+"sub": "",
+"url": "",
+"c": "GR"
+},
+{
+"k": "org:children-s-hospital-agia-sophia",
+"t": "hospital",
+"n": "Children's Hospital Agia Sophia",
+"sub": "",
+"url": "",
+"c": "GR"
+},
+{
+"k": "person:christina-kanakagantenbein",
+"t": "person",
+"n": "Christina Kanaka‐Gantenbein",
+"sub": "National and Kapodistrian University of Athens",
+"url": "https://orcid.org/0000-0001-6942-6470",
+"c": "GR"
+},
+{
 "k": "paper:pmid-34937487",
 "t": "paper",
 "n": "Transcutaneous auricular vagus nerve stimulators: a review of past, present, and future de",
-"sub": "Expert Review of Medical Devices 2021 · cited 88",
+"sub": "Expert Review of Medical Devices 2021 · cited 92",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34937487",
 "c": ""
 },
@@ -3336,10 +3384,82 @@
 "c": "CN"
 },
 {
+"k": "paper:pmid-33632309",
+"t": "paper",
+"n": "Sleep disorders in rare genetic syndromes: a meta-analysis of prevalence and profile",
+"sub": "Molecular Autism 2021 · cited 90",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33632309",
+"c": ""
+},
+{
+"k": "person:georgie-agar",
+"t": "person",
+"n": "Georgie Agar",
+"sub": "University of Birmingham",
+"url": "https://orcid.org/0000-0001-8707-8713",
+"c": "GB"
+},
+{
+"k": "person:caroline-richards",
+"t": "person",
+"n": "Caroline Richards",
+"sub": "University of Birmingham",
+"url": "https://orcid.org/0000-0002-5444-4147",
+"c": "GB"
+},
+{
+"k": "org:cerebra",
+"t": "funder",
+"n": "Cerebra",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-31945412",
+"t": "paper",
+"n": "Systematic Review and Meta-analysis: Mental Health in Children With Neurogenetic Disorders",
+"sub": "Journal of the American Academy of Child & Adolescent Psychiatry 2020 · cited 88",
+"url": "https://pubmed.ncbi.nlm.nih.gov/31945412",
+"c": ""
+},
+{
+"k": "person:emma-j-glasson",
+"t": "person",
+"n": "Emma J. Glasson",
+"sub": "The Kids Research Institute Australia",
+"url": "https://orcid.org/0000-0001-5547-8595",
+"c": "AU"
+},
+{
+"k": "org:the-kids-research-institute-australia",
+"t": "foundation",
+"n": "The Kids Research Institute Australia",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "org:the-university-of-western-australia",
+"t": "academic",
+"n": "The University of Western Australia",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "person:jenny-anne-downs",
+"t": "person",
+"n": "Jenny Anne Downs",
+"sub": "The Kids Research Institute Australia",
+"url": "https://orcid.org/0000-0001-7358-9037",
+"c": "AU"
+},
+{
 "k": "paper:pmid-37386011",
 "t": "paper",
 "n": "Imprinting disorders",
-"sub": "Nature Reviews Disease Primers 2023 · cited 84",
+"sub": "Nature Reviews Disease Primers 2023 · cited 88",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37386011",
 "c": ""
 },
@@ -3384,82 +3504,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-33632309",
-"t": "paper",
-"n": "Sleep disorders in rare genetic syndromes: a meta-analysis of prevalence and profile",
-"sub": "Molecular Autism 2021 · cited 83",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33632309",
-"c": ""
-},
-{
-"k": "person:georgie-agar",
-"t": "person",
-"n": "Georgie Agar",
-"sub": "University of Birmingham",
-"url": "https://orcid.org/0000-0001-8707-8713",
-"c": "GB"
-},
-{
-"k": "person:caroline-richards",
-"t": "person",
-"n": "Caroline Richards",
-"sub": "University of Birmingham",
-"url": "https://orcid.org/0000-0002-5444-4147",
-"c": "GB"
-},
-{
-"k": "org:cerebra",
-"t": "funder",
-"n": "Cerebra",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-31945412",
-"t": "paper",
-"n": "Systematic Review and Meta-analysis: Mental Health in Children With Neurogenetic Disorders",
-"sub": "Journal of the American Academy of Child & Adolescent Psychiatry 2020 · cited 80",
-"url": "https://pubmed.ncbi.nlm.nih.gov/31945412",
-"c": ""
-},
-{
-"k": "person:emma-j-glasson",
-"t": "person",
-"n": "Emma J. Glasson",
-"sub": "The Kids Research Institute Australia",
-"url": "https://orcid.org/0000-0001-5547-8595",
-"c": "AU"
-},
-{
-"k": "org:the-kids-research-institute-australia",
-"t": "foundation",
-"n": "The Kids Research Institute Australia",
-"sub": "",
-"url": "",
-"c": "AU"
-},
-{
-"k": "org:the-university-of-western-australia",
-"t": "academic",
-"n": "The University of Western Australia",
-"sub": "",
-"url": "",
-"c": "AU"
-},
-{
-"k": "person:jenny-anne-downs",
-"t": "person",
-"n": "Jenny Anne Downs",
-"sub": "The Kids Research Institute Australia",
-"url": "https://orcid.org/0000-0001-7358-9037",
-"c": "AU"
-},
-{
 "k": "paper:pmid-32411831",
 "t": "paper",
 "n": "Growth hormone treatment in Prader-Willi syndrome patients: systematic review and meta-ana",
-"sub": "BMJ Paediatrics Open 2020 · cited 79",
+"sub": "BMJ Paediatrics Open 2020 · cited 81",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32411831",
 "c": ""
 },
@@ -3488,138 +3536,10 @@
 "c": "BR"
 },
 {
-"k": "paper:pmid-36181471",
-"t": "paper",
-"n": "Liraglutide for Weight Management in Children and Adolescents With Prader–Willi Syndrome a",
-"sub": "The Journal of Clinical Endocrinology & Metabolism 2022 · cited 77",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36181471",
-"c": ""
-},
-{
-"k": "person:gwenaelle-diene",
-"t": "person",
-"n": "Gwénaëlle Diene",
-"sub": "Centre Hospitalier Universitaire de Toulouse",
-"url": "https://orcid.org/0009-0003-8970-0088",
-"c": "FR"
-},
-{
-"k": "org:centre-hospitalier-universitaire-de-toulouse",
-"t": "hospital",
-"n": "Centre Hospitalier Universitaire de Toulouse",
-"sub": "",
-"url": "",
-"c": "FR"
-},
-{
-"k": "org:inserm",
-"t": "funder",
-"n": "Inserm",
-"sub": "",
-"url": "",
-"c": "FR"
-},
-{
-"k": "org:novo-nordisk",
-"t": "funder",
-"n": "Novo Nordisk",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-33148967",
-"t": "paper",
-"n": "Imprinting disorders in humans: a review",
-"sub": "Current Opinion in Pediatrics 2020 · cited 73",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33148967",
-"c": ""
-},
-{
-"k": "paper:pmid-35985710",
-"t": "paper",
-"n": "Clinical Indications for Growth Hormone Therapy",
-"sub": "Advances in Pediatrics 2022 · cited 72",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35985710",
-"c": ""
-},
-{
-"k": "person:melinda-danowitz",
-"t": "person",
-"n": "Melinda Danowitz",
-"sub": "Children's Hospital of Philadelphia",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:adda-grimberg",
-"t": "person",
-"n": "Adda Grimberg",
-"sub": "Children's Hospital of Philadelphia",
-"url": "https://orcid.org/0000-0002-1523-1536",
-"c": "US"
-},
-{
-"k": "paper:pmid-38019584",
-"t": "paper",
-"n": "Appetite- and Weight-Regulating Neuroendocrine Circuitry in Hypothalamic Obesity",
-"sub": "Endocrine Reviews 2023 · cited 71",
-"url": "https://pubmed.ncbi.nlm.nih.gov/38019584",
-"c": ""
-},
-{
-"k": "person:hoongwei-gan",
-"t": "person",
-"n": "Hoong‐Wei Gan",
-"sub": "Great Ormond Street Hospital",
-"url": "https://orcid.org/0000-0001-6198-0397",
-"c": "GB"
-},
-{
-"k": "org:great-ormond-street-hospital",
-"t": "hospital",
-"n": "Great Ormond Street Hospital",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "org:great-ormond-street-hospital-for-children-nhs-foundation-tru",
-"t": "hospital",
-"n": "Great Ormond Street Hospital for Children NHS Foundation Trust",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "org:bupa-foundation",
-"t": "funder",
-"n": "Bupa Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:great-ormond-street-hospital-charity",
-"t": "funder",
-"n": "Great Ormond Street Hospital Charity",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:nihr-great-ormond-street-hospital-biomedical-research-centre",
-"t": "funder",
-"n": "NIHR Great Ormond Street Hospital Biomedical Research Centre",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-33006215",
 "t": "paper",
 "n": "Participation in sport and physical activity in adults with intellectual disabilities",
-"sub": "Journal of Intellectual Disability Research 2020 · cited 67",
+"sub": "Journal of Intellectual Disability Research 2020 · cited 79",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33006215",
 "c": ""
 },
@@ -3672,10 +3592,138 @@
 "c": ""
 },
 {
+"k": "paper:pmid-33148967",
+"t": "paper",
+"n": "Imprinting disorders in humans: a review",
+"sub": "Current Opinion in Pediatrics 2020 · cited 79",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33148967",
+"c": ""
+},
+{
+"k": "paper:pmid-36181471",
+"t": "paper",
+"n": "Liraglutide for Weight Management in Children and Adolescents With Prader–Willi Syndrome a",
+"sub": "The Journal of Clinical Endocrinology & Metabolism 2022 · cited 79",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36181471",
+"c": ""
+},
+{
+"k": "person:gwenaelle-diene",
+"t": "person",
+"n": "Gwénaëlle Diene",
+"sub": "Centre Hospitalier Universitaire de Toulouse",
+"url": "https://orcid.org/0009-0003-8970-0088",
+"c": "FR"
+},
+{
+"k": "org:centre-hospitalier-universitaire-de-toulouse",
+"t": "hospital",
+"n": "Centre Hospitalier Universitaire de Toulouse",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:inserm",
+"t": "funder",
+"n": "Inserm",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:novo-nordisk",
+"t": "funder",
+"n": "Novo Nordisk",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-35985710",
+"t": "paper",
+"n": "Clinical Indications for Growth Hormone Therapy",
+"sub": "Advances in Pediatrics 2022 · cited 77",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35985710",
+"c": ""
+},
+{
+"k": "person:melinda-danowitz",
+"t": "person",
+"n": "Melinda Danowitz",
+"sub": "Children's Hospital of Philadelphia",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:adda-grimberg",
+"t": "person",
+"n": "Adda Grimberg",
+"sub": "Children's Hospital of Philadelphia",
+"url": "https://orcid.org/0000-0002-1523-1536",
+"c": "US"
+},
+{
+"k": "paper:pmid-38019584",
+"t": "paper",
+"n": "Appetite- and Weight-Regulating Neuroendocrine Circuitry in Hypothalamic Obesity",
+"sub": "Endocrine Reviews 2023 · cited 74",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38019584",
+"c": ""
+},
+{
+"k": "person:hoongwei-gan",
+"t": "person",
+"n": "Hoong‐Wei Gan",
+"sub": "Great Ormond Street Hospital",
+"url": "https://orcid.org/0000-0001-6198-0397",
+"c": "GB"
+},
+{
+"k": "org:great-ormond-street-hospital",
+"t": "hospital",
+"n": "Great Ormond Street Hospital",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:great-ormond-street-hospital-for-children-nhs-foundation-tru",
+"t": "hospital",
+"n": "Great Ormond Street Hospital for Children NHS Foundation Trust",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:bupa-foundation",
+"t": "funder",
+"n": "Bupa Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:great-ormond-street-hospital-charity",
+"t": "funder",
+"n": "Great Ormond Street Hospital Charity",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:nihr-great-ormond-street-hospital-biomedical-research-centre",
+"t": "funder",
+"n": "NIHR Great Ormond Street Hospital Biomedical Research Centre",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-32879135",
 "t": "paper",
 "n": "Loss of MAGEL2 in Prader-Willi syndrome leads to decreased secretory granule and neuropept",
-"sub": "JCI Insight 2020 · cited 66",
+"sub": "JCI Insight 2020 · cited 70",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32879135",
 "c": ""
 },
@@ -3707,7 +3755,7 @@
 "k": "paper:pmid-32384786",
 "t": "paper",
 "n": "The 15q11.2 BP1-BP2 Microdeletion (Burnside–Butler) Syndrome: In Silico Analyses of the Fo",
-"sub": "International Journal of Molecular Sciences 2020 · cited 60",
+"sub": "International Journal of Molecular Sciences 2020 · cited 63",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32384786",
 "c": ""
 },
@@ -3718,6 +3766,94 @@
 "sub": "University of Kansas Medical Center",
 "url": "https://orcid.org/0000-0002-1797-1925",
 "c": "US"
+},
+{
+"k": "paper:pmid-36768472",
+"t": "paper",
+"n": "Clinical Trials in Prader–Willi Syndrome: A Review",
+"sub": "International Journal of Molecular Sciences 2023 · cited 60",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36768472",
+"c": ""
+},
+{
+"k": "paper:pmid-33557156",
+"t": "paper",
+"n": "Hashimoto’s Thyroiditis and Graves’ Disease in Genetic Syndromes in Pediatric Age",
+"sub": "Genes 2021 · cited 59",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33557156",
+"c": ""
+},
+{
+"k": "person:celeste-casto",
+"t": "person",
+"n": "Celeste Casto",
+"sub": "University of Messina",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:university-of-messina",
+"t": "academic",
+"n": "University of Messina",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:malgorzata-gabriela-wasniewska",
+"t": "person",
+"n": "Malgorzata Gabriela Wasniewska",
+"sub": "University of Messina",
+"url": "https://orcid.org/0000-0002-8299-2677",
+"c": "IT"
+},
+{
+"k": "paper:pmid-36639249",
+"t": "paper",
+"n": "Diazoxide Choline Extended-Release Tablet in People With Prader-Willi Syndrome: A Double-B",
+"sub": "The Journal of Clinical Endocrinology & Metabolism 2023 · cited 59",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36639249",
+"c": ""
+},
+{
+"k": "person:jennifer-lynne-miller",
+"t": "person",
+"n": "Jennifer Lynne Miller",
+"sub": "University of Florida Health",
+"url": "https://orcid.org/0000-0003-4370-3438",
+"c": "US"
+},
+{
+"k": "org:university-of-florida-health",
+"t": "academic",
+"n": "University of Florida Health",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:vanderbilt-university",
+"t": "funder",
+"n": "Vanderbilt University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:nationwide-children-s-hospital",
+"t": "funder",
+"n": "Nationwide Children's Hospital",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36901699",
+"t": "paper",
+"n": "Prader–Willi Syndrome and Chromosome 15q11.2 BP1-BP2 Region: A Review",
+"sub": "International Journal of Molecular Sciences 2023 · cited 59",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36901699",
+"c": ""
 },
 {
 "k": "paper:pmid-33296519",
@@ -3752,138 +3888,10 @@
 "c": "NL"
 },
 {
-"k": "paper:pmid-33557156",
-"t": "paper",
-"n": "Hashimoto’s Thyroiditis and Graves’ Disease in Genetic Syndromes in Pediatric Age",
-"sub": "Genes 2021 · cited 57",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33557156",
-"c": ""
-},
-{
-"k": "person:celeste-casto",
-"t": "person",
-"n": "Celeste Casto",
-"sub": "University of Messina",
-"url": "",
-"c": "IT"
-},
-{
-"k": "org:university-of-messina",
-"t": "academic",
-"n": "University of Messina",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "person:malgorzata-gabriela-wasniewska",
-"t": "person",
-"n": "Malgorzata Gabriela Wasniewska",
-"sub": "University of Messina",
-"url": "https://orcid.org/0000-0002-8299-2677",
-"c": "IT"
-},
-{
-"k": "paper:pmid-32877518",
-"t": "paper",
-"n": "Missed Diagnoses and Health Problems in Adults With Prader-Willi Syndrome: Recommendations",
-"sub": "The Journal of Clinical Endocrinology & Metabolism 2020 · cited 56",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32877518",
-"c": ""
-},
-{
-"k": "person:karlijn-pellikaan",
-"t": "person",
-"n": "Karlijn Pellikaan",
-"sub": "Erasmus MC",
-"url": "https://orcid.org/0000-0002-0738-0275",
-"c": "NL"
-},
-{
-"k": "person:laura-c-g-de-graaff",
-"t": "person",
-"n": "Laura C. G. de Graaff",
-"sub": "Erasmus MC",
-"url": "https://orcid.org/0000-0002-0295-7063",
-"c": "NL"
-},
-{
-"k": "paper:pmid-32478012",
-"t": "paper",
-"n": "Chromosome 15 Imprinting Disorders: Genetic Laboratory Methodology and Approaches",
-"sub": "Frontiers in Pediatrics 2020 · cited 55",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32478012",
-"c": ""
-},
-{
-"k": "person:jessica-b-duis",
-"t": "person",
-"n": "Jessica B. Duis",
-"sub": "Children's Hospital Colorado",
-"url": "https://orcid.org/0000-0001-6605-1028",
-"c": "US"
-},
-{
-"k": "org:university-of-colorado-anschutz",
-"t": "academic",
-"n": "University of Colorado Anschutz",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "paper:pmid-36639249",
-"t": "paper",
-"n": "Diazoxide Choline Extended-Release Tablet in People With Prader-Willi Syndrome: A Double-B",
-"sub": "The Journal of Clinical Endocrinology & Metabolism 2023 · cited 54",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36639249",
-"c": ""
-},
-{
-"k": "person:jennifer-lynne-miller",
-"t": "person",
-"n": "Jennifer Lynne Miller",
-"sub": "University of Florida Health",
-"url": "https://orcid.org/0000-0003-4370-3438",
-"c": "US"
-},
-{
-"k": "org:university-of-florida-health",
-"t": "academic",
-"n": "University of Florida Health",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:vanderbilt-university",
-"t": "funder",
-"n": "Vanderbilt University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:nationwide-children-s-hospital",
-"t": "funder",
-"n": "Nationwide Children's Hospital",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-36901699",
-"t": "paper",
-"n": "Prader–Willi Syndrome and Chromosome 15q11.2 BP1-BP2 Region: A Review",
-"sub": "International Journal of Molecular Sciences 2023 · cited 54",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36901699",
-"c": ""
-},
-{
 "k": "paper:pmid-37371187",
 "t": "paper",
 "n": "Pediatric Sleep Respiratory Disorders: A Narrative Review of Epidemiology and Risk Factors",
-"sub": "Children 2023 · cited 54",
+"sub": "Children 2023 · cited 57",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37371187",
 "c": ""
 },
@@ -3928,10 +3936,98 @@
 "c": ""
 },
 {
+"k": "paper:pmid-32877518",
+"t": "paper",
+"n": "Missed Diagnoses and Health Problems in Adults With Prader-Willi Syndrome: Recommendations",
+"sub": "The Journal of Clinical Endocrinology & Metabolism 2020 · cited 57",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32877518",
+"c": ""
+},
+{
+"k": "person:karlijn-pellikaan",
+"t": "person",
+"n": "Karlijn Pellikaan",
+"sub": "Erasmus MC",
+"url": "https://orcid.org/0000-0002-0738-0275",
+"c": "NL"
+},
+{
+"k": "person:laura-c-g-de-graaff",
+"t": "person",
+"n": "Laura C. G. de Graaff",
+"sub": "Erasmus MC",
+"url": "https://orcid.org/0000-0002-0295-7063",
+"c": "NL"
+},
+{
+"k": "paper:pmid-32478012",
+"t": "paper",
+"n": "Chromosome 15 Imprinting Disorders: Genetic Laboratory Methodology and Approaches",
+"sub": "Frontiers in Pediatrics 2020 · cited 56",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32478012",
+"c": ""
+},
+{
+"k": "person:jessica-b-duis",
+"t": "person",
+"n": "Jessica B. Duis",
+"sub": "Children's Hospital Colorado",
+"url": "https://orcid.org/0000-0001-6605-1028",
+"c": "US"
+},
+{
+"k": "org:university-of-colorado-anschutz",
+"t": "academic",
+"n": "University of Colorado Anschutz",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-33800122",
+"t": "paper",
+"n": "Prader–Willi Syndrome and Hypogonadism: A Review Article",
+"sub": "International Journal of Molecular Sciences 2021 · cited 56",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33800122",
+"c": ""
+},
+{
+"k": "person:c-noordam",
+"t": "person",
+"n": "C. Noordam",
+"sub": "Radboud University Medical Center",
+"url": "https://orcid.org/0000-0001-9735-5921",
+"c": "NL"
+},
+{
+"k": "org:radboud-university-medical-center",
+"t": "funder",
+"n": "Radboud University Medical Center",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "org:center-for-pediatric-endocrinology-zurich",
+"t": "academic",
+"n": "Center for Pediatric Endocrinology Zurich",
+"sub": "",
+"url": "",
+"c": "CH"
+},
+{
+"k": "person:urs-eiholzer",
+"t": "person",
+"n": "Urs Eiholzer",
+"sub": "Center for Pediatric Endocrinology Zurich",
+"url": "https://orcid.org/0000-0001-5044-0715",
+"c": "CH"
+},
+{
 "k": "paper:pmid-32030506",
 "t": "paper",
 "n": "Update on Diabetes Mellitus and Glucose Metabolism Alterations in Prader-Willi Syndrome",
-"sub": "Current Diabetes Reports 2020 · cited 53",
+"sub": "Current Diabetes Reports 2020 · cited 55",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32030506",
 "c": ""
 },
@@ -3968,10 +4064,26 @@
 "c": "IT"
 },
 {
+"k": "paper:pmid-36633570",
+"t": "paper",
+"n": "Intranasal Carbetocin Reduces Hyperphagia, Anxiousness, and Distress in Prader-Willi Syndr",
+"sub": "The Journal of Clinical Endocrinology & Metabolism 2023 · cited 54",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36633570",
+"c": ""
+},
+{
+"k": "person:elizabeth-roof",
+"t": "person",
+"n": "Elizabeth Roof",
+"sub": "Vanderbilt University",
+"url": "",
+"c": "US"
+},
+{
 "k": "paper:pmid-32393975",
 "t": "paper",
 "n": "Imprinting disorders in children born after ART: a Nordic study from the CoNARTaS group",
-"sub": "Human Reproduction 2020 · cited 53",
+"sub": "Human Reproduction 2020 · cited 54",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32393975",
 "c": ""
 },
@@ -4024,106 +4136,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-36768472",
-"t": "paper",
-"n": "Clinical Trials in Prader–Willi Syndrome: A Review",
-"sub": "International Journal of Molecular Sciences 2023 · cited 52",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36768472",
-"c": ""
-},
-{
-"k": "paper:pmid-32080264",
-"t": "paper",
-"n": "NIPA2 regulates osteoblast function by modulating mitophagy in type 2 diabetes osteoporosi",
-"sub": "Scientific Reports 2020 · cited 51",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32080264",
-"c": ""
-},
-{
-"k": "person:wei-zhao",
-"t": "person",
-"n": "Wei Zhao",
-"sub": "Fourth Affiliated Hospital of China Medical University",
-"url": "https://orcid.org/0000-0002-7196-1357",
-"c": "CN"
-},
-{
-"k": "org:fourth-affiliated-hospital-of-china-medical-university",
-"t": "hospital",
-"n": "Fourth Affiliated Hospital of China Medical University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:maowei-yang",
-"t": "person",
-"n": "Maowei Yang",
-"sub": "First Hospital of China Medical University",
-"url": "https://orcid.org/0000-0003-4304-7661",
-"c": "CN"
-},
-{
-"k": "org:first-hospital-of-china-medical-university",
-"t": "hospital",
-"n": "First Hospital of China Medical University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "org:natural-science-foundation-of-liaoning-province",
-"t": "funder",
-"n": "Natural Science Foundation of Liaoning Province",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-33800122",
-"t": "paper",
-"n": "Prader–Willi Syndrome and Hypogonadism: A Review Article",
-"sub": "International Journal of Molecular Sciences 2021 · cited 51",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33800122",
-"c": ""
-},
-{
-"k": "person:c-noordam",
-"t": "person",
-"n": "C. Noordam",
-"sub": "Radboud University Medical Center",
-"url": "https://orcid.org/0000-0001-9735-5921",
-"c": "NL"
-},
-{
-"k": "org:radboud-university-medical-center",
-"t": "funder",
-"n": "Radboud University Medical Center",
-"sub": "",
-"url": "",
-"c": "NL"
-},
-{
-"k": "org:center-for-pediatric-endocrinology-zurich",
-"t": "academic",
-"n": "Center for Pediatric Endocrinology Zurich",
-"sub": "",
-"url": "",
-"c": "CH"
-},
-{
-"k": "person:urs-eiholzer",
-"t": "person",
-"n": "Urs Eiholzer",
-"sub": "Center for Pediatric Endocrinology Zurich",
-"url": "https://orcid.org/0000-0001-5044-0715",
-"c": "CH"
-},
-{
 "k": "paper:pmid-33670130",
 "t": "paper",
 "n": "Oxidative Stress, Plant Natural Antioxidants, and Obesity",
-"sub": "International Journal of Molecular Sciences 2021 · cited 424",
+"sub": "International Journal of Molecular Sciences 2021 · cited 437",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33670130",
 "c": ""
 },
@@ -4163,7 +4179,7 @@
 "k": "paper:pmid-32846152",
 "t": "paper",
 "n": "‘Liking’ and ‘wanting’ in eating and food reward: Brain mechanisms and clinical implicatio",
-"sub": "Physiology & Behavior 2020 · cited 353",
+"sub": "Physiology & Behavior 2020 · cited 381",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32846152",
 "c": ""
 },
@@ -4200,10 +4216,50 @@
 "c": ""
 },
 {
+"k": "paper:pmid-32399992",
+"t": "paper",
+"n": "Obesity and male infertility: Mechanisms and management",
+"sub": "Andrologia 2020 · cited 339",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32399992",
+"c": ""
+},
+{
+"k": "person:kristian-leisegang",
+"t": "person",
+"n": "Kristian Leisegang",
+"sub": "University of the Western Cape",
+"url": "https://orcid.org/0000-0002-3003-8048",
+"c": "ZA"
+},
+{
+"k": "org:university-of-the-western-cape",
+"t": "academic",
+"n": "University of the Western Cape",
+"sub": "",
+"url": "",
+"c": "ZA"
+},
+{
+"k": "person:ralf-henkel",
+"t": "person",
+"n": "Ralf Henkel",
+"sub": "Cleveland Clinic",
+"url": "https://orcid.org/0000-0003-1128-2982",
+"c": "US"
+},
+{
+"k": "org:cleveland-clinic",
+"t": "hospital",
+"n": "Cleveland Clinic",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
 "k": "paper:pmid-32699414",
 "t": "paper",
 "n": "A leptin–BDNF pathway regulating sympathetic innervation of adipose tissue",
-"sub": "Nature 2020 · cited 333",
+"sub": "Nature 2020 · cited 337",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32699414",
 "c": ""
 },
@@ -4248,114 +4304,10 @@
 "c": "US"
 },
 {
-"k": "paper:pmid-32399992",
-"t": "paper",
-"n": "Obesity and male infertility: Mechanisms and management",
-"sub": "Andrologia 2020 · cited 325",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32399992",
-"c": ""
-},
-{
-"k": "person:kristian-leisegang",
-"t": "person",
-"n": "Kristian Leisegang",
-"sub": "University of the Western Cape",
-"url": "https://orcid.org/0000-0002-3003-8048",
-"c": "ZA"
-},
-{
-"k": "org:university-of-the-western-cape",
-"t": "academic",
-"n": "University of the Western Cape",
-"sub": "",
-"url": "",
-"c": "ZA"
-},
-{
-"k": "person:ralf-henkel",
-"t": "person",
-"n": "Ralf Henkel",
-"sub": "Cleveland Clinic",
-"url": "https://orcid.org/0000-0003-1128-2982",
-"c": "US"
-},
-{
-"k": "org:cleveland-clinic",
-"t": "hospital",
-"n": "Cleveland Clinic",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "paper:pmid-33571454",
-"t": "paper",
-"n": "The glucose-dependent insulinotropic polypeptide (GIP) regulates body weight and food inta",
-"sub": "Cell Metabolism 2021 · cited 321",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33571454",
-"c": ""
-},
-{
-"k": "person:qian-zhang",
-"t": "person",
-"n": "Qian Zhang",
-"sub": "Helmholtz Munich",
-"url": "https://orcid.org/0000-0003-3032-9088",
-"c": "DE"
-},
-{
-"k": "org:helmholtz-munich",
-"t": "academic",
-"n": "Helmholtz Munich",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "org:german-center-for-diabetes-research",
-"t": "academic",
-"n": "German Center for Diabetes Research",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "person:timo-d-muller",
-"t": "person",
-"n": "Timo D. Müller",
-"sub": "Helmholtz Munich",
-"url": "https://orcid.org/0000-0002-0624-9339",
-"c": "DE"
-},
-{
-"k": "org:eli-lilly-and-company",
-"t": "funder",
-"n": "Eli Lilly and Company",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:alexander-von-humboldt-stiftung",
-"t": "funder",
-"n": "Alexander von Humboldt-Stiftung",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:indiana-university",
-"t": "funder",
-"n": "Indiana University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-36139760",
 "t": "paper",
 "n": "Inflammation: Roles in Skeletal Muscle Atrophy",
-"sub": "Antioxidants 2022 · cited 318",
+"sub": "Antioxidants 2022 · cited 328",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36139760",
 "c": ""
 },
@@ -4424,10 +4376,106 @@
 "c": ""
 },
 {
+"k": "paper:pmid-33571454",
+"t": "paper",
+"n": "The glucose-dependent insulinotropic polypeptide (GIP) regulates body weight and food inta",
+"sub": "Cell Metabolism 2021 · cited 325",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33571454",
+"c": ""
+},
+{
+"k": "person:qian-zhang",
+"t": "person",
+"n": "Qian Zhang",
+"sub": "Helmholtz Munich",
+"url": "https://orcid.org/0000-0003-3032-9088",
+"c": "DE"
+},
+{
+"k": "org:helmholtz-munich",
+"t": "academic",
+"n": "Helmholtz Munich",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:german-center-for-diabetes-research",
+"t": "academic",
+"n": "German Center for Diabetes Research",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "person:timo-d-muller",
+"t": "person",
+"n": "Timo D. Müller",
+"sub": "Helmholtz Munich",
+"url": "https://orcid.org/0000-0002-0624-9339",
+"c": "DE"
+},
+{
+"k": "org:eli-lilly-and-company",
+"t": "funder",
+"n": "Eli Lilly and Company",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:alexander-von-humboldt-stiftung",
+"t": "funder",
+"n": "Alexander von Humboldt-Stiftung",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:indiana-university",
+"t": "funder",
+"n": "Indiana University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33456967",
+"t": "paper",
+"n": "Anaesthesia, analgesia, and the surgical stress response",
+"sub": "BJA Education 2020 · cited 309",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33456967",
+"c": ""
+},
+{
+"k": "person:barbara-cusack",
+"t": "person",
+"n": "Barbara Cusack",
+"sub": "University College Dublin",
+"url": "https://orcid.org/0009-0003-4339-6789",
+"c": "IE"
+},
+{
+"k": "org:university-college-dublin",
+"t": "academic",
+"n": "University College Dublin",
+"sub": "",
+"url": "",
+"c": "IE"
+},
+{
+"k": "person:donal-j-buggy",
+"t": "person",
+"n": "Donal J. Buggy",
+"sub": "University College Dublin",
+"url": "https://orcid.org/0000-0003-3922-4397",
+"c": "IE"
+},
+{
 "k": "paper:pmid-32604889",
 "t": "paper",
 "n": "The Role of Exercise in the Interplay between Myokines, Hepatokines, Osteokines, Adipokine",
-"sub": "Nutrients 2020 · cited 288",
+"sub": "Nutrients 2020 · cited 297",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32604889",
 "c": ""
 },
@@ -4464,42 +4512,10 @@
 "c": "MX"
 },
 {
-"k": "paper:pmid-33456967",
-"t": "paper",
-"n": "Anaesthesia, analgesia, and the surgical stress response",
-"sub": "BJA Education 2020 · cited 288",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33456967",
-"c": ""
-},
-{
-"k": "person:barbara-cusack",
-"t": "person",
-"n": "Barbara Cusack",
-"sub": "University College Dublin",
-"url": "https://orcid.org/0009-0003-4339-6789",
-"c": "IE"
-},
-{
-"k": "org:university-college-dublin",
-"t": "academic",
-"n": "University College Dublin",
-"sub": "",
-"url": "",
-"c": "IE"
-},
-{
-"k": "person:donal-j-buggy",
-"t": "person",
-"n": "Donal J. Buggy",
-"sub": "University College Dublin",
-"url": "https://orcid.org/0000-0003-3922-4397",
-"c": "IE"
-},
-{
 "k": "paper:pmid-35525259",
 "t": "paper",
 "n": "Menopause: a cardiometabolic transition",
-"sub": "The Lancet Diabetes & Endocrinology 2022 · cited 277",
+"sub": "The Lancet Diabetes & Endocrinology 2022 · cited 283",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35525259",
 "c": ""
 },
@@ -4547,7 +4563,7 @@
 "k": "paper:pmid-35563589",
 "t": "paper",
 "n": "Obesity as a Risk Factor for Dementia and Alzheimer’s Disease: The Role of Leptin",
-"sub": "International Journal of Molecular Sciences 2022 · cited 220",
+"sub": "International Journal of Molecular Sciences 2022 · cited 231",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35563589",
 "c": ""
 },
@@ -4587,7 +4603,7 @@
 "k": "paper:pmid-37058160",
 "t": "paper",
 "n": "Microbiota-gut-brain axis: relationships among the vagus nerve, gut microbiota, obesity, a",
-"sub": "Acta Diabetologica 2023 · cited 218",
+"sub": "Acta Diabetologica 2023 · cited 228",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37058160",
 "c": ""
 },
@@ -4648,58 +4664,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-33887197",
-"t": "paper",
-"n": "Hypothalamic bile acid-TGR5 signaling protects from obesity",
-"sub": "Cell Metabolism 2021 · cited 209",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33887197",
-"c": ""
-},
-{
-"k": "person:ashley-castellanos-jankiewicz",
-"t": "person",
-"n": "Ashley Castellanos-Jankiewicz",
-"sub": "Université de Bordeaux",
-"url": "https://orcid.org/0000-0001-9080-7593",
-"c": "FR"
-},
-{
-"k": "org:universite-de-bordeaux",
-"t": "academic",
-"n": "Université de Bordeaux",
-"sub": "",
-"url": "",
-"c": "FR"
-},
-{
-"k": "person:daniela-cota",
-"t": "person",
-"n": "Daniela Cota",
-"sub": "Université de Bordeaux",
-"url": "https://orcid.org/0000-0002-6909-2156",
-"c": "FR"
-},
-{
-"k": "org:national-science-foundation",
-"t": "funder",
-"n": "National Science Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:astrazeneca",
-"t": "funder",
-"n": "AstraZeneca",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-34108679",
 "t": "paper",
 "n": "Brain insulin signalling in metabolic homeostasis and disease",
-"sub": "Nature Reviews Endocrinology 2021 · cited 207",
+"sub": "Nature Reviews Endocrinology 2021 · cited 215",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34108679",
 "c": ""
 },
@@ -4731,7 +4699,7 @@
 "k": "paper:pmid-34327017",
 "t": "paper",
 "n": "Structural Brain Changes Associated with Overweight and Obesity",
-"sub": "Journal of Obesity 2021 · cited 207",
+"sub": "Journal of Obesity 2021 · cited 214",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34327017",
 "c": ""
 },
@@ -4776,10 +4744,58 @@
 "c": ""
 },
 {
+"k": "paper:pmid-33887197",
+"t": "paper",
+"n": "Hypothalamic bile acid-TGR5 signaling protects from obesity",
+"sub": "Cell Metabolism 2021 · cited 211",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33887197",
+"c": ""
+},
+{
+"k": "person:ashley-castellanos-jankiewicz",
+"t": "person",
+"n": "Ashley Castellanos-Jankiewicz",
+"sub": "Université de Bordeaux",
+"url": "https://orcid.org/0000-0001-9080-7593",
+"c": "FR"
+},
+{
+"k": "org:universite-de-bordeaux",
+"t": "academic",
+"n": "Université de Bordeaux",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:daniela-cota",
+"t": "person",
+"n": "Daniela Cota",
+"sub": "Université de Bordeaux",
+"url": "https://orcid.org/0000-0002-6909-2156",
+"c": "FR"
+},
+{
+"k": "org:national-science-foundation",
+"t": "funder",
+"n": "National Science Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:astrazeneca",
+"t": "funder",
+"n": "AstraZeneca",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-32246887",
 "t": "paper",
 "n": "The Role of Dietary Advanced Glycation End Products in Metabolic Dysfunction",
-"sub": "Molecular Nutrition & Food Research 2020 · cited 202",
+"sub": "Molecular Nutrition & Food Research 2020 · cited 208",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32246887",
 "c": ""
 },
@@ -4835,7 +4851,7 @@
 "k": "paper:pmid-32397485",
 "t": "paper",
 "n": "Diet and Nutritional Factors in Male (In)fertility—Underestimated Factors",
-"sub": "Journal of Clinical Medicine 2020 · cited 194",
+"sub": "Journal of Clinical Medicine 2020 · cited 202",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32397485",
 "c": ""
 },
@@ -4875,7 +4891,7 @@
 "k": "paper:pmid-32955435",
 "t": "paper",
 "n": "Genetic mapping of etiologic brain cell types for obesity",
-"sub": "eLife 2020 · cited 194",
+"sub": "eLife 2020 · cited 195",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32955435",
 "c": ""
 },
@@ -4928,10 +4944,50 @@
 "c": ""
 },
 {
+"k": "paper:pmid-34798121",
+"t": "paper",
+"n": "AgRP/NPY and POMC neurons in the arcuate nucleus and their potential role in treatment of ",
+"sub": "European Journal of Pharmacology 2021 · cited 195",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34798121",
+"c": ""
+},
+{
+"k": "person:muhammad-sufyan-vohra",
+"t": "person",
+"n": "Muhammad Sufyan Vohra",
+"sub": "Taylor's University",
+"url": "https://orcid.org/0000-0002-0518-9346",
+"c": "MY"
+},
+{
+"k": "org:taylor-s-university",
+"t": "academic",
+"n": "Taylor's University",
+"sub": "",
+"url": "",
+"c": "MY"
+},
+{
+"k": "person:eng-hwa-wong",
+"t": "person",
+"n": "Eng Hwa Wong",
+"sub": "Taylor's University",
+"url": "https://orcid.org/0000-0001-9322-772X",
+"c": "MY"
+},
+{
+"k": "org:taylors-university",
+"t": "funder",
+"n": "Taylor’s University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-33633406",
 "t": "paper",
 "n": "POMC neuronal heterogeneity in energy balance and beyond: an integrated view",
-"sub": "Nature Metabolism 2021 · cited 189",
+"sub": "Nature Metabolism 2021 · cited 194",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33633406",
 "c": ""
 },
@@ -4963,7 +5019,7 @@
 "k": "paper:pmid-33457251",
 "t": "paper",
 "n": "Impact of environmental toxin exposure on male fertility potential",
-"sub": "Translational Andrology and Urology 2020 · cited 185",
+"sub": "Translational Andrology and Urology 2020 · cited 193",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33457251",
 "c": ""
 },
@@ -5008,50 +5064,10 @@
 "c": "US"
 },
 {
-"k": "paper:pmid-34798121",
-"t": "paper",
-"n": "AgRP/NPY and POMC neurons in the arcuate nucleus and their potential role in treatment of ",
-"sub": "European Journal of Pharmacology 2021 · cited 181",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34798121",
-"c": ""
-},
-{
-"k": "person:muhammad-sufyan-vohra",
-"t": "person",
-"n": "Muhammad Sufyan Vohra",
-"sub": "Taylor's University",
-"url": "https://orcid.org/0000-0002-0518-9346",
-"c": "MY"
-},
-{
-"k": "org:taylor-s-university",
-"t": "academic",
-"n": "Taylor's University",
-"sub": "",
-"url": "",
-"c": "MY"
-},
-{
-"k": "person:eng-hwa-wong",
-"t": "person",
-"n": "Eng Hwa Wong",
-"sub": "Taylor's University",
-"url": "https://orcid.org/0000-0001-9322-772X",
-"c": "MY"
-},
-{
-"k": "org:taylors-university",
-"t": "funder",
-"n": "Taylor’s University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-34122341",
 "t": "paper",
 "n": "Central Regulation of PCOS: Abnormal Neuronal-Reproductive-Metabolic Circuits in PCOS Path",
-"sub": "Frontiers in Endocrinology 2021 · cited 175",
+"sub": "Frontiers in Endocrinology 2021 · cited 178",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34122341",
 "c": ""
 },
@@ -5088,66 +5104,10 @@
 "c": "CN"
 },
 {
-"k": "paper:pmid-37661745",
-"t": "paper",
-"n": "Obesity and psychological distress",
-"sub": "Philosophical Transactions of the Royal Society B Biological Sciences 2023 · cited 164",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37661745",
-"c": ""
-},
-{
-"k": "person:andrew-steptoe",
-"t": "person",
-"n": "Andrew Steptoe",
-"sub": "University College London",
-"url": "https://orcid.org/0000-0001-7808-4943",
-"c": "GB"
-},
-{
-"k": "person:philipp-frank",
-"t": "person",
-"n": "Philipp Frank",
-"sub": "University College London",
-"url": "https://orcid.org/0000-0001-8824-8673",
-"c": "GB"
-},
-{
-"k": "paper:pmid-38264286",
-"t": "paper",
-"n": "Obesity and its impact on female reproductive health: unraveling the connections",
-"sub": "Frontiers in Endocrinology 2024 · cited 164",
-"url": "https://pubmed.ncbi.nlm.nih.gov/38264286",
-"c": ""
-},
-{
-"k": "person:lei-zheng",
-"t": "person",
-"n": "Lei Zheng",
-"sub": "Xingtai People's Hospital",
-"url": "https://orcid.org/0009-0003-9788-7284",
-"c": "CN"
-},
-{
-"k": "org:xingtai-people-s-hospital",
-"t": "hospital",
-"n": "Xingtai People's Hospital",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:pengpeng-pu",
-"t": "person",
-"n": "Pengpeng Pu",
-"sub": "Xingtai People's Hospital",
-"url": "",
-"c": "CN"
-},
-{
 "k": "paper:pmid-34341568",
 "t": "paper",
 "n": "Leptin brain entry via a tanycytic LepR–EGFR shuttle controls lipid metabolism and pancrea",
-"sub": "Nature Metabolism 2021 · cited 163",
+"sub": "Nature Metabolism 2021 · cited 176",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34341568",
 "c": ""
 },
@@ -5184,58 +5144,66 @@
 "c": ""
 },
 {
-"k": "paper:pmid-32709420",
+"k": "paper:pmid-38264286",
 "t": "paper",
-"n": "The role of oxidative stress in cardiovascular disease caused by social isolation and lone",
-"sub": "Redox Biology 2020 · cited 160",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32709420",
+"n": "Obesity and its impact on female reproductive health: unraveling the connections",
+"sub": "Frontiers in Endocrinology 2024 · cited 176",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38264286",
 "c": ""
 },
 {
-"k": "person:huige-li",
+"k": "person:lei-zheng",
 "t": "person",
-"n": "Huige Li",
-"sub": "University Medical Center of the Johannes Gutenberg University Mainz",
-"url": "https://orcid.org/0000-0003-3458-7391",
-"c": "DE"
+"n": "Lei Zheng",
+"sub": "Xingtai People's Hospital",
+"url": "https://orcid.org/0009-0003-9788-7284",
+"c": "CN"
 },
 {
-"k": "org:university-medical-center-of-the-johannes-gutenberg-universi",
+"k": "org:xingtai-people-s-hospital",
 "t": "hospital",
-"n": "University Medical Center of the Johannes Gutenberg University Mainz",
+"n": "Xingtai People's Hospital",
 "sub": "",
 "url": "",
-"c": "DE"
+"c": "CN"
 },
 {
-"k": "person:ning-xia",
+"k": "person:pengpeng-pu",
 "t": "person",
-"n": "Ning Xia",
-"sub": "University Medical Center of the Johannes Gutenberg University Mainz",
-"url": "https://orcid.org/0000-0002-5553-1752",
-"c": "DE"
+"n": "Pengpeng Pu",
+"sub": "Xingtai People's Hospital",
+"url": "",
+"c": "CN"
 },
 {
-"k": "org:deutsche-forschungsgemeinschaft",
-"t": "funder",
-"n": "Deutsche Forschungsgemeinschaft",
-"sub": "",
-"url": "",
+"k": "paper:pmid-37661745",
+"t": "paper",
+"n": "Obesity and psychological distress",
+"sub": "Philosophical Transactions of the Royal Society B Biological Sciences 2023 · cited 169",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37661745",
 "c": ""
 },
 {
-"k": "org:universitatsmedizin-der-johannes-gutenberg-universitat-mainz",
-"t": "funder",
-"n": "Universitätsmedizin der Johannes Gutenberg-Universität Mainz",
-"sub": "",
-"url": "",
-"c": ""
+"k": "person:andrew-steptoe",
+"t": "person",
+"n": "Andrew Steptoe",
+"sub": "University College London",
+"url": "https://orcid.org/0000-0001-7808-4943",
+"c": "GB"
+},
+{
+"k": "person:philipp-frank",
+"t": "person",
+"n": "Philipp Frank",
+"sub": "University College London",
+"url": "https://orcid.org/0000-0001-8824-8673",
+"c": "GB"
 },
 {
 "k": "paper:pmid-36252357",
 "t": "paper",
 "n": "Estrogen as a key regulator of energy homeostasis and metabolic health",
-"sub": "Biomedicine & Pharmacotherapy 2022 · cited 158",
+"sub": "Biomedicine & Pharmacotherapy 2022 · cited 168",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36252357",
 "c": ""
 },
@@ -5288,10 +5256,58 @@
 "c": ""
 },
 {
+"k": "paper:pmid-32709420",
+"t": "paper",
+"n": "The role of oxidative stress in cardiovascular disease caused by social isolation and lone",
+"sub": "Redox Biology 2020 · cited 162",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32709420",
+"c": ""
+},
+{
+"k": "person:huige-li",
+"t": "person",
+"n": "Huige Li",
+"sub": "University Medical Center of the Johannes Gutenberg University Mainz",
+"url": "https://orcid.org/0000-0003-3458-7391",
+"c": "DE"
+},
+{
+"k": "org:university-medical-center-of-the-johannes-gutenberg-universi",
+"t": "hospital",
+"n": "University Medical Center of the Johannes Gutenberg University Mainz",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "person:ning-xia",
+"t": "person",
+"n": "Ning Xia",
+"sub": "University Medical Center of the Johannes Gutenberg University Mainz",
+"url": "https://orcid.org/0000-0002-5553-1752",
+"c": "DE"
+},
+{
+"k": "org:deutsche-forschungsgemeinschaft",
+"t": "funder",
+"n": "Deutsche Forschungsgemeinschaft",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:universitatsmedizin-der-johannes-gutenberg-universitat-mainz",
+"t": "funder",
+"n": "Universitätsmedizin der Johannes Gutenberg-Universität Mainz",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-35879462",
 "t": "paper",
 "n": "Acts of appetite: neural circuits governing the appetitive, consummatory, and terminating ",
-"sub": "Nature Metabolism 2022 · cited 155",
+"sub": "Nature Metabolism 2022 · cited 159",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35879462",
 "c": ""
 },
@@ -5336,10 +5352,58 @@
 "c": ""
 },
 {
+"k": "paper:pmid-33329193",
+"t": "paper",
+"n": "Western Diet: Implications for Brain Function and Behavior",
+"sub": "Frontiers in Psychology 2020 · cited 155",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33329193",
+"c": ""
+},
+{
+"k": "person:isabel-lopez-taboada",
+"t": "person",
+"n": "Isabel López-Taboada",
+"sub": "Universidad de Oviedo",
+"url": "https://orcid.org/0000-0003-2839-6521",
+"c": "ES"
+},
+{
+"k": "org:universidad-de-oviedo",
+"t": "academic",
+"n": "Universidad de Oviedo",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "person:nelida-m-conejo",
+"t": "person",
+"n": "Nélida M. Conejo",
+"sub": "Universidad de Oviedo",
+"url": "https://orcid.org/0000-0003-4749-5453",
+"c": "ES"
+},
+{
+"k": "org:ministerio-de-economia-y-competitividad",
+"t": "funder",
+"n": "Ministerio de Economía y Competitividad",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:ministerio-de-asuntos-economicos-y-transformacion-digital-go",
+"t": "funder",
+"n": "Ministerio de Asuntos Económicos y Transformación Digital, Gobierno de España",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-38935778",
 "t": "paper",
 "n": "GLP-1 increases preingestive satiation via hypothalamic circuits in mice and humans",
-"sub": "Science 2024 · cited 150",
+"sub": "Science 2024 · cited 153",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38935778",
 "c": ""
 },
@@ -5424,94 +5488,6 @@
 "c": ""
 },
 {
-"k": "paper:pmid-33329193",
-"t": "paper",
-"n": "Western Diet: Implications for Brain Function and Behavior",
-"sub": "Frontiers in Psychology 2020 · cited 148",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33329193",
-"c": ""
-},
-{
-"k": "person:isabel-lopez-taboada",
-"t": "person",
-"n": "Isabel López-Taboada",
-"sub": "Universidad de Oviedo",
-"url": "https://orcid.org/0000-0003-2839-6521",
-"c": "ES"
-},
-{
-"k": "org:universidad-de-oviedo",
-"t": "academic",
-"n": "Universidad de Oviedo",
-"sub": "",
-"url": "",
-"c": "ES"
-},
-{
-"k": "person:nelida-m-conejo",
-"t": "person",
-"n": "Nélida M. Conejo",
-"sub": "Universidad de Oviedo",
-"url": "https://orcid.org/0000-0003-4749-5453",
-"c": "ES"
-},
-{
-"k": "org:ministerio-de-economia-y-competitividad",
-"t": "funder",
-"n": "Ministerio de Economía y Competitividad",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:ministerio-de-asuntos-economicos-y-transformacion-digital-go",
-"t": "funder",
-"n": "Ministerio de Asuntos Económicos y Transformación Digital, Gobierno de España",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-36465655",
-"t": "paper",
-"n": "Childhood obesity and central precocious puberty",
-"sub": "Frontiers in Endocrinology 2022 · cited 146",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36465655",
-"c": ""
-},
-{
-"k": "person:li-shi",
-"t": "person",
-"n": "Li Shi",
-"sub": "Shanghai University of Traditional Chinese Medicine",
-"url": "https://orcid.org/0000-0002-4162-7876",
-"c": "CN"
-},
-{
-"k": "org:shanghai-university-of-traditional-chinese-medicine",
-"t": "academic",
-"n": "Shanghai University of Traditional Chinese Medicine",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "org:longhua-hospital-shanghai-university-of-traditional-chinese",
-"t": "hospital",
-"n": "Longhua Hospital Shanghai University of Traditional Chinese Medicine",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:li-zhang",
-"t": "person",
-"n": "Li Zhang",
-"sub": "Shanghai University of Traditional Chinese Medicine",
-"url": "",
-"c": "CN"
-},
-{
 "k": "person:j-a-m-j-l-janssen",
 "t": "person",
 "n": "J. A. M. J. L. Janssen",
@@ -5523,7 +5499,7 @@
 "k": "paper:pmid-35897769",
 "t": "paper",
 "n": "Adipose Tissue Dysfunction and Obesity-Related Male Hypogonadism",
-"sub": "International Journal of Molecular Sciences 2022 · cited 140",
+"sub": "International Journal of Molecular Sciences 2022 · cited 148",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35897769",
 "c": ""
 },
@@ -5568,43 +5544,67 @@
 "c": ""
 },
 {
-"k": "paper:pmid-33668705",
+"k": "paper:pmid-36465655",
 "t": "paper",
-"n": "Circadian Rhythms of the Hypothalamus: From Function to Physiology",
-"sub": "Clocks & Sleep 2021 · cited 138",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33668705",
+"n": "Childhood obesity and central precocious puberty",
+"sub": "Frontiers in Endocrinology 2022 · cited 148",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36465655",
 "c": ""
 },
 {
-"k": "person:rachel-van-drunen",
+"k": "person:li-shi",
 "t": "person",
-"n": "Rachel Van Drunen",
-"sub": "The University of Texas MD Anderson Cancer Center",
-"url": "https://orcid.org/0000-0001-7438-1801",
-"c": "US"
+"n": "Li Shi",
+"sub": "Shanghai University of Traditional Chinese Medicine",
+"url": "https://orcid.org/0000-0002-4162-7876",
+"c": "CN"
 },
 {
-"k": "org:the-university-of-texas-md-anderson-cancer-center",
-"t": "hospital",
-"n": "The University of Texas MD Anderson Cancer Center",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:brown-foundation-institute-of-molecular-medicine-for-the-pre",
+"k": "org:shanghai-university-of-traditional-chinese-medicine",
 "t": "academic",
-"n": "Brown Foundation Institute of Molecular Medicine for the Prevention of Human Diseases",
+"n": "Shanghai University of Traditional Chinese Medicine",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:longhua-hospital-shanghai-university-of-traditional-chinese",
+"t": "hospital",
+"n": "Longhua Hospital Shanghai University of Traditional Chinese Medicine",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:li-zhang",
+"t": "person",
+"n": "Li Zhang",
+"sub": "Shanghai University of Traditional Chinese Medicine",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:khalida-itriyeva",
+"t": "person",
+"n": "Khalida Itriyeva",
+"sub": "Northwell Health",
+"url": "https://orcid.org/0000-0001-6156-3884",
+"c": "US"
+},
+{
+"k": "org:northwell-health",
+"t": "hospital",
+"n": "Northwell Health",
 "sub": "",
 "url": "",
 "c": "US"
 },
 {
-"k": "person:kristin-l-eckelmahan",
-"t": "person",
-"n": "Kristin L Eckel‐Mahan",
-"sub": "The University of Texas MD Anderson Cancer Center",
-"url": "https://orcid.org/0000-0001-8201-1675",
+"k": "org:hofstra-university",
+"t": "academic",
+"n": "Hofstra University",
+"sub": "",
+"url": "",
 "c": "US"
 }
 ],
@@ -6058,6 +6058,11 @@
 "a": "org:alexander-von-humboldt-stiftung",
 "b": "paper:pmid-33571454",
 "r": "funded"
+},
+{
+"a": "org:alfred-health",
+"b": "trial:nct07266324",
+"r": "site_of"
 },
 {
 "a": "org:ann-and-robert-h-lurie-children-s-hospital",
@@ -7030,6 +7035,11 @@
 "r": "site_of"
 },
 {
+"a": "org:morgan-stanley-children-s-hospital-of-newyork-presbyterian",
+"b": "trial:nct05322096",
+"r": "site_of"
+},
+{
 "a": "org:multicare-institute-for-research-innovation",
 "b": "trial:nct05098509",
 "r": "site_of"
@@ -7091,11 +7101,6 @@
 },
 {
 "a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
-"b": "paper:pmid-33668705",
-"r": "funded"
-},
-{
-"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
 "b": "paper:pmid-35879462",
 "r": "funded"
 },
@@ -7146,11 +7151,6 @@
 },
 {
 "a": "org:national-institutes-of-health",
-"b": "paper:pmid-33668705",
-"r": "funded"
-},
-{
-"a": "org:national-institutes-of-health",
 "b": "paper:pmid-33961804",
 "r": "funded"
 },
@@ -7187,11 +7187,6 @@
 {
 "a": "org:national-key-research-and-development-program-of-china",
 "b": "paper:pmid-41392177",
-"r": "funded"
-},
-{
-"a": "org:national-natural-science-foundation-of-china",
-"b": "paper:pmid-32080264",
 "r": "funded"
 },
 {
@@ -7242,11 +7237,6 @@
 {
 "a": "org:natural-science-foundation-of-jiangsu-province",
 "b": "paper:pmid-36139760",
-"r": "funded"
-},
-{
-"a": "org:natural-science-foundation-of-liaoning-province",
-"b": "paper:pmid-32080264",
 "r": "funded"
 },
 {
@@ -7313,6 +7303,11 @@
 "a": "org:novo-nordisk-fonden",
 "b": "paper:pmid-32955435",
 "r": "funded"
+},
+{
+"a": "org:nyu-langone-hospital-long-island",
+"b": "trial:nct05322096",
+"r": "site_of"
 },
 {
 "a": "org:peking-university",
@@ -7545,6 +7540,11 @@
 "r": "site_of"
 },
 {
+"a": "org:robert-wood-johnson-university-hospital",
+"b": "trial:nct05541003",
+"r": "site_of"
+},
+{
 "a": "org:rural-and-environment-science-and-analytical-services-divisi",
 "b": "paper:pmid-32246887",
 "r": "funded"
@@ -7770,6 +7770,11 @@
 "r": "site_of"
 },
 {
+"a": "org:suburban-research",
+"b": "trial:nct05879614",
+"r": "site_of"
+},
+{
 "a": "org:sunrise-clinical-research",
 "b": "trial:nct00148486",
 "r": "site_of"
@@ -7862,6 +7867,11 @@
 {
 "a": "org:uf-shands-children-s-hospital",
 "b": "trial:nct07197034",
+"r": "site_of"
+},
+{
+"a": "org:uncommon-cures",
+"b": "trial:nct05879614",
 "r": "site_of"
 },
 {
@@ -8675,6 +8685,16 @@
 "r": "authored"
 },
 {
+"a": "person:elizabeth-roof",
+"b": "org:vanderbilt-university",
+"r": "affiliated"
+},
+{
+"a": "person:elizabeth-roof",
+"b": "paper:pmid-36633570",
+"r": "authored"
+},
+{
 "a": "person:emma-j-glasson",
 "b": "org:the-kids-research-institute-australia",
 "r": "affiliated"
@@ -9255,6 +9275,16 @@
 "r": "authored"
 },
 {
+"a": "person:khalida-itriyeva",
+"b": "org:hofstra-university",
+"r": "affiliated"
+},
+{
+"a": "person:khalida-itriyeva",
+"b": "org:northwell-health",
+"r": "affiliated"
+},
+{
 "a": "person:kim-huynh",
 "b": "org:copenhagen-university-hospital",
 "r": "affiliated"
@@ -9322,21 +9352,6 @@
 {
 "a": "person:kristian-leisegang",
 "b": "paper:pmid-32399992",
-"r": "authored"
-},
-{
-"a": "person:kristin-l-eckelmahan",
-"b": "org:brown-foundation-institute-of-molecular-medicine-for-the-pre",
-"r": "affiliated"
-},
-{
-"a": "person:kristin-l-eckelmahan",
-"b": "org:the-university-of-texas-md-anderson-cancer-center",
-"r": "affiliated"
-},
-{
-"a": "person:kristin-l-eckelmahan",
-"b": "paper:pmid-33668705",
 "r": "authored"
 },
 {
@@ -9562,16 +9577,6 @@
 {
 "a": "person:manon-duquenne",
 "b": "paper:pmid-34341568",
-"r": "authored"
-},
-{
-"a": "person:maowei-yang",
-"b": "org:first-hospital-of-china-medical-university",
-"r": "affiliated"
-},
-{
-"a": "person:maowei-yang",
-"b": "paper:pmid-32080264",
 "r": "authored"
 },
 {
@@ -9892,21 +9897,6 @@
 {
 "a": "person:qian-zhang",
 "b": "paper:pmid-33571454",
-"r": "authored"
-},
-{
-"a": "person:rachel-van-drunen",
-"b": "org:brown-foundation-institute-of-molecular-medicine-for-the-pre",
-"r": "affiliated"
-},
-{
-"a": "person:rachel-van-drunen",
-"b": "org:the-university-of-texas-md-anderson-cancer-center",
-"r": "affiliated"
-},
-{
-"a": "person:rachel-van-drunen",
-"b": "paper:pmid-33668705",
 "r": "authored"
 },
 {
@@ -10392,16 +10382,6 @@
 {
 "a": "person:wei-wang",
 "b": "paper:pmid-36139760",
-"r": "authored"
-},
-{
-"a": "person:wei-zhao",
-"b": "org:fourth-affiliated-hospital-of-china-medical-university",
-"r": "affiliated"
-},
-{
-"a": "person:wei-zhao",
-"b": "paper:pmid-32080264",
 "r": "authored"
 },
 {
