@@ -1,6 +1,6 @@
 {
 "assetId": "vtp300",
-"updated": "2026-11-08",
+"updated": "2026-11-09",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 42,
@@ -2419,7 +2419,7 @@
 "k": "paper:pmid-36727674",
 "t": "paper",
 "n": "AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty li",
-"sub": "Hepatology 2023 · cited 2868",
+"sub": "Hepatology 2023 · cited 2871",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36727674",
 "c": ""
 },
@@ -2547,7 +2547,7 @@
 "k": "paper:pmid-32252338",
 "t": "paper",
 "n": "Evidence that Vitamin D Supplementation Could Reduce Risk of Influenza and COVID-19 Infect",
-"sub": "Nutrients 2020 · cited 2120",
+"sub": "Nutrients 2020 · cited 2122",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32252338",
 "c": ""
 },
@@ -2691,7 +2691,7 @@
 "k": "paper:pmid-35738290",
 "t": "paper",
 "n": "Global, regional, and national burden of hepatitis B, 1990–2019: a systematic analysis for",
-"sub": "The Lancet. Gastroenterology & hepatology 2022 · cited 863",
+"sub": "The Lancet. Gastroenterology & hepatology 2022 · cited 864",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35738290",
 "c": ""
 },
@@ -2947,7 +2947,7 @@
 "k": "paper:pmid-32102898",
 "t": "paper",
 "n": "Hepatitis B Virus: Advances in Prevention, Diagnosis, and Therapy",
-"sub": "Clinical Microbiology Reviews 2020 · cited 608",
+"sub": "Clinical Microbiology Reviews 2020 · cited 609",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32102898",
 "c": ""
 },
@@ -3043,7 +3043,7 @@
 "k": "paper:pmid-37759956",
 "t": "paper",
 "n": "Oxidative Stress in Liver Pathophysiology and Disease",
-"sub": "Antioxidants 2023 · cited 596",
+"sub": "Antioxidants 2023 · cited 597",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37759956",
 "c": ""
 },
@@ -3803,7 +3803,7 @@
 "k": "paper:pmid-39722614",
 "t": "paper",
 "n": "Hepatocellular carcinoma: updates on epidemiology, surveillance, diagnosis and treatment",
-"sub": "Clinical and Molecular Hepatology 2024 · cited 358",
+"sub": "Clinical and Molecular Hepatology 2024 · cited 359",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39722614",
 "c": ""
 },
@@ -3883,7 +3883,7 @@
 "k": "paper:pmid-36263666",
 "t": "paper",
 "n": "2022 KLCA-NCC Korea practice guidelines for the management of hepatocellular carcinoma",
-"sub": "Clinical and Molecular Hepatology 2022 · cited 352",
+"sub": "Clinical and Molecular Hepatology 2022 · cited 353",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36263666",
 "c": ""
 },
@@ -3896,9 +3896,25 @@
 "c": ""
 },
 {
-"k": "org:national-cancer-center",
+"k": "org:exelixis",
 "t": "funder",
-"n": "National Cancer Center",
+"n": "Exelixis",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:samsung-medison",
+"t": "funder",
+"n": "Samsung Medison",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:guerbet",
+"t": "funder",
+"n": "Guerbet",
 "sub": "",
 "url": "",
 "c": ""
@@ -5088,6 +5104,11 @@
 "r": "funded"
 },
 {
+"a": "org:exelixis",
+"b": "paper:pmid-36263666",
+"r": "funded"
+},
+{
 "a": "org:falk-foundation",
 "b": "paper:pmid-40348683",
 "r": "funded"
@@ -5270,6 +5291,11 @@
 {
 "a": "org:guangzhou-medical-university",
 "b": "paper:pmid-32217650",
+"r": "funded"
+},
+{
+"a": "org:guerbet",
+"b": "paper:pmid-36263666",
 "r": "funded"
 },
 {
@@ -5498,11 +5524,6 @@
 "r": "site_of"
 },
 {
-"a": "org:national-cancer-center",
-"b": "paper:pmid-36263666",
-"r": "funded"
-},
-{
 "a": "org:national-cancer-institute",
 "b": "paper:pmid-32319693",
 "r": "funded"
@@ -5698,6 +5719,11 @@
 "r": "funded"
 },
 {
+"a": "org:roche",
+"b": "paper:pmid-36263666",
+"r": "funded"
+},
+{
 "a": "org:royal-prince-alfred-hospital",
 "b": "trial:nct04535544",
 "r": "site_of"
@@ -5706,6 +5732,11 @@
 "a": "org:ruikang-hospital-affiliated-to-guangxi-university-of-chinese",
 "b": "trial:nct07245953",
 "r": "site_of"
+},
+{
+"a": "org:samsung-medison",
+"b": "paper:pmid-36263666",
+"r": "funded"
 },
 {
 "a": "org:sanofi",
