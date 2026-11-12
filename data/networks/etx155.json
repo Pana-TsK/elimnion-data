@@ -1,6 +1,6 @@
 {
 "assetId": "etx155",
-"updated": "2026-11-11",
+"updated": "2026-11-12",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 25,
@@ -1944,6 +1944,30 @@
 "c": "AU"
 },
 {
+"k": "org:murdoch-children-s-research-institute",
+"t": "funder",
+"n": "Murdoch Children's Research Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:royal-children-s-hospital-foundation",
+"t": "funder",
+"n": "Royal Children's Hospital Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:rmit-university",
+"t": "funder",
+"n": "RMIT University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-34530725",
 "t": "paper",
 "n": "Current neurologic treatment and emerging therapies in CDKL5 deficiency disorder",
@@ -2824,36 +2848,36 @@
 "c": "IT"
 },
 {
-"k": "paper:pmid-34544833",
+"k": "paper:pmid-35939908",
 "t": "paper",
-"n": "CDKL5 Deficiency Augments Inhibitory Input into the Dentate Gyrus That Can Be Reversed by ",
-"sub": "Journal of Neuroscience 2021 · cited 32",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34544833",
+"n": "Quality of life beyond diagnosis in intellectual disability – Latent profiling",
+"sub": "Research in Developmental Disabilities 2022 · cited 33",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35939908",
 "c": ""
 },
 {
-"k": "person:shuang-hao",
-"t": "person",
-"n": "Shuang Hao",
-"sub": "Baylor College of Medicine",
-"url": "https://orcid.org/0000-0001-9977-5620",
-"c": "US"
-},
-{
-"k": "org:baylor-college-of-medicine",
-"t": "academic",
-"n": "Baylor College of Medicine",
+"k": "org:rett-syndrome-association-of-australia",
+"t": "funder",
+"n": "Rett Syndrome Association of Australia",
 "sub": "",
 "url": "",
-"c": "US"
+"c": ""
 },
 {
-"k": "person:jianrong-tang",
-"t": "person",
-"n": "Jianrong Tang",
-"sub": "Baylor College of Medicine",
-"url": "https://orcid.org/0000-0001-5664-2692",
-"c": "US"
+"k": "org:austin-peay-state-university",
+"t": "funder",
+"n": "Austin Peay State University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:department-of-health-state-government-of-victoria",
+"t": "funder",
+"n": "Department of Health, State Government of Victoria",
+"sub": "",
+"url": "",
+"c": ""
 },
 {
 "k": "paper:pmid-35503717",
@@ -3304,54 +3328,6 @@
 "c": "IT"
 },
 {
-"k": "paper:pmid-31932770",
-"t": "paper",
-"n": "Exome sequencing in schizophrenia-affected parent–offspring trios reveals risk conferred b",
-"sub": "Nature Neuroscience 2020 · cited 170",
-"url": "https://pubmed.ncbi.nlm.nih.gov/31932770",
-"c": ""
-},
-{
-"k": "person:daniel-p-howrigan",
-"t": "person",
-"n": "Daniel P. Howrigan",
-"sub": "Broad Institute",
-"url": "https://orcid.org/0000-0002-7721-4838",
-"c": "US"
-},
-{
-"k": "org:broad-institute",
-"t": "foundation",
-"n": "Broad Institute",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:massachusetts-general-hospital",
-"t": "hospital",
-"n": "Massachusetts General Hospital",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:benjamin-m-neale",
-"t": "person",
-"n": "Benjamin M. Neale",
-"sub": "Broad Institute",
-"url": "https://orcid.org/0000-0003-1513-6077",
-"c": "US"
-},
-{
-"k": "org:stanley-center-for-psychiatric-research-broad-institute",
-"t": "funder",
-"n": "Stanley Center for Psychiatric Research, Broad Institute",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-39237642",
 "t": "paper",
 "n": "Developmental and epileptic encephalopathies",
@@ -3411,7 +3387,7 @@
 "k": "paper:pmid-31981099",
 "t": "paper",
 "n": "From Genetic Testing to Precision Medicine in Epilepsy",
-"sub": "Neurotherapeutics 2020 · cited 157",
+"sub": "Neurotherapeutics 2020 · cited 158",
 "url": "https://pubmed.ncbi.nlm.nih.gov/31981099",
 "c": ""
 },
@@ -4190,6 +4166,22 @@
 "sub": "Fundación Síndrome de Dravet",
 "url": "https://orcid.org/0000-0001-7779-7626",
 "c": "ES"
+},
+{
+"k": "paper:pmid-34412058",
+"t": "paper",
+"n": "Antisense Oligonucleotide Therapy for Neurodevelopmental Disorders",
+"sub": "Developmental Neuroscience 2021 · cited 97",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34412058",
+"c": ""
+},
+{
+"k": "person:sophie-f-hill",
+"t": "person",
+"n": "Sophie F. Hill",
+"sub": "University of Michigan",
+"url": "https://orcid.org/0000-0002-8331-9812",
+"c": "US"
 }
 ],
 "edges": [
@@ -4484,6 +4476,11 @@
 "r": "site_of"
 },
 {
+"a": "org:austin-peay-state-university",
+"b": "paper:pmid-35939908",
+"r": "funded"
+},
+{
 "a": "org:australian-government",
 "b": "paper:pmid-36808730",
 "r": "funded"
@@ -4522,11 +4519,6 @@
 "a": "org:bright-minds-biosciences",
 "b": "trial:nct06401538",
 "r": "sponsors"
-},
-{
-"a": "org:broad-institute",
-"b": "paper:pmid-31932770",
-"r": "funded"
 },
 {
 "a": "org:buerger-center-for-advanced-pediatric-care-children-s-hospit",
@@ -4709,6 +4701,11 @@
 "r": "site_of"
 },
 {
+"a": "org:department-of-health-state-government-of-victoria",
+"b": "paper:pmid-35939908",
+"r": "funded"
+},
+{
 "a": "org:dietmar-hopp-stiftung",
 "b": "paper:pmid-34114611",
 "r": "funded"
@@ -4851,11 +4848,6 @@
 {
 "a": "org:eunice-kennedy-shriver-national-institute-of-child-health-an",
 "b": "paper:pmid-34530725",
-"r": "funded"
-},
-{
-"a": "org:eunice-kennedy-shriver-national-institute-of-child-health-an",
-"b": "paper:pmid-34544833",
 "r": "funded"
 },
 {
@@ -5165,12 +5157,12 @@
 },
 {
 "a": "org:loulou-foundation",
-"b": "paper:pmid-34544833",
+"b": "paper:pmid-34651584",
 "r": "funded"
 },
 {
 "a": "org:loulou-foundation",
-"b": "paper:pmid-34651584",
+"b": "paper:pmid-35997111",
 "r": "funded"
 },
 {
@@ -5242,6 +5234,11 @@
 "a": "org:multicare-health-system-mary-bridge-pediatrics-tacoma",
 "b": "trial:nct04912856",
 "r": "site_of"
+},
+{
+"a": "org:murdoch-children-s-research-institute",
+"b": "paper:pmid-35997111",
+"r": "funded"
 },
 {
 "a": "org:national-alliance-for-research-on-schizophrenia-and-depressi",
@@ -5330,11 +5327,6 @@
 },
 {
 "a": "org:national-institute-of-mental-health",
-"b": "paper:pmid-31932770",
-"r": "funded"
-},
-{
-"a": "org:national-institute-of-mental-health",
 "b": "paper:pmid-32547374",
 "r": "funded"
 },
@@ -5355,12 +5347,12 @@
 },
 {
 "a": "org:national-institute-of-neurological-disorders-and-stroke",
-"b": "paper:pmid-34530725",
+"b": "paper:pmid-34412058",
 "r": "funded"
 },
 {
 "a": "org:national-institute-of-neurological-disorders-and-stroke",
-"b": "paper:pmid-34544833",
+"b": "paper:pmid-34530725",
 "r": "funded"
 },
 {
@@ -5659,6 +5651,16 @@
 "r": "site_of"
 },
 {
+"a": "org:rett-syndrome-association-of-australia",
+"b": "paper:pmid-35939908",
+"r": "funded"
+},
+{
+"a": "org:rmit-university",
+"b": "paper:pmid-35997111",
+"r": "funded"
+},
+{
 "a": "org:robert-debre-university-hospital",
 "b": "trial:nct07227857",
 "r": "site_of"
@@ -5667,6 +5669,11 @@
 "a": "org:royal-brisbane-and-womans-hospital",
 "b": "trial:nct06401538",
 "r": "site_of"
+},
+{
+"a": "org:royal-children-s-hospital-foundation",
+"b": "paper:pmid-35997111",
+"r": "funded"
 },
 {
 "a": "org:science-and-technology-commission-of-shanghai-municipality",
@@ -5712,11 +5719,6 @@
 "a": "org:stanford-university-stanford-school-of-medicine-pulmonary-an",
 "b": "trial:nct06908226",
 "r": "site_of"
-},
-{
-"a": "org:stanley-center-for-psychiatric-research-broad-institute",
-"b": "paper:pmid-31932770",
-"r": "funded"
 },
 {
 "a": "org:state-government-of-victoria",
@@ -5785,12 +5787,12 @@
 },
 {
 "a": "org:u-s-department-of-health-and-human-services",
-"b": "paper:pmid-31932770",
+"b": "paper:pmid-33888873",
 "r": "funded"
 },
 {
 "a": "org:u-s-department-of-health-and-human-services",
-"b": "paper:pmid-33888873",
+"b": "paper:pmid-35939908",
 "r": "funded"
 },
 {
@@ -5867,6 +5869,11 @@
 "a": "org:university-of-california-los-angeles-ucla-david-geffen-schoo",
 "b": "trial:nct06908226",
 "r": "site_of"
+},
+{
+"a": "org:university-of-california-san-diego",
+"b": "paper:pmid-35435735",
+"r": "funded"
 },
 {
 "a": "org:university-of-california-san-francisco",
@@ -6279,21 +6286,6 @@
 "r": "authored"
 },
 {
-"a": "person:benjamin-m-neale",
-"b": "org:broad-institute",
-"r": "affiliated"
-},
-{
-"a": "person:benjamin-m-neale",
-"b": "org:massachusetts-general-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:benjamin-m-neale",
-"b": "paper:pmid-31932770",
-"r": "authored"
-},
-{
 "a": "person:berge-arakel-minassian",
 "b": "org:the-university-of-texas-southwestern-medical-center",
 "r": "affiliated"
@@ -6431,21 +6423,6 @@
 {
 "a": "person:daniel-j-friedman",
 "b": "paper:pmid-33538404",
-"r": "authored"
-},
-{
-"a": "person:daniel-p-howrigan",
-"b": "org:broad-institute",
-"r": "affiliated"
-},
-{
-"a": "person:daniel-p-howrigan",
-"b": "org:massachusetts-general-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:daniel-p-howrigan",
-"b": "paper:pmid-31932770",
 "r": "authored"
 },
 {
@@ -6774,6 +6751,11 @@
 "r": "authored"
 },
 {
+"a": "person:helen-leonard",
+"b": "paper:pmid-35939908",
+"r": "authored"
+},
+{
 "a": "person:hongtao-wang",
 "b": "org:center-for-excellence-in-brain-science-and-intelligence-tech",
 "r": "affiliated"
@@ -6899,18 +6881,8 @@
 "r": "authored"
 },
 {
-"a": "person:jianrong-tang",
-"b": "org:baylor-college-of-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:jianrong-tang",
-"b": "org:texas-children-s-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:jianrong-tang",
-"b": "paper:pmid-34544833",
+"a": "person:jenny-anne-downs",
+"b": "paper:pmid-35939908",
 "r": "authored"
 },
 {
@@ -7221,6 +7193,11 @@
 {
 "a": "person:miriam-h-meisler",
 "b": "paper:pmid-31943325",
+"r": "authored"
+},
+{
+"a": "person:miriam-h-meisler",
+"b": "paper:pmid-34412058",
 "r": "authored"
 },
 {
@@ -7549,21 +7526,6 @@
 "r": "authored"
 },
 {
-"a": "person:shuang-hao",
-"b": "org:baylor-college-of-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:shuang-hao",
-"b": "org:texas-children-s-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:shuang-hao",
-"b": "paper:pmid-34544833",
-"r": "authored"
-},
-{
 "a": "person:sila-k-ultanir",
 "b": "org:the-francis-crick-institute",
 "r": "affiliated"
@@ -7581,6 +7543,16 @@
 {
 "a": "person:simona-lattanzi",
 "b": "paper:pmid-33754312",
+"r": "authored"
+},
+{
+"a": "person:sophie-f-hill",
+"b": "org:university-of-michigan",
+"r": "affiliated"
+},
+{
+"a": "person:sophie-f-hill",
+"b": "paper:pmid-34412058",
 "r": "authored"
 },
 {

@@ -1,6 +1,6 @@
 {
 "assetId": "ngn101",
-"updated": "2026-11-11",
+"updated": "2026-11-12",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 7,
@@ -1008,17 +1008,25 @@
 "c": ""
 },
 {
-"k": "org:academy-of-medical-sciences",
+"k": "org:uk-research-and-innovation",
 "t": "funder",
-"n": "Academy of Medical Sciences",
+"n": "UK Research and Innovation",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:academy-of-finland",
+"k": "org:national-institute-for-health-and-care-research",
 "t": "funder",
-"n": "Academy of Finland",
+"n": "National Institute for Health and Care Research",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:academy-of-medical-sciences",
+"t": "funder",
+"n": "Academy of Medical Sciences",
 "sub": "",
 "url": "",
 "c": ""
@@ -1219,14 +1227,6 @@
 "k": "org:batten-disease-family-association",
 "t": "funder",
 "n": "Batten Disease Family Association",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-institute-for-health-and-care-research",
-"t": "funder",
-"n": "National Institute for Health and Care Research",
 "sub": "",
 "url": "",
 "c": ""
@@ -2488,22 +2488,6 @@
 "c": "DE"
 },
 {
-"k": "paper:pmid-37131734",
-"t": "paper",
-"n": "Granulins rescue inflammation, lysosome dysfunction, lipofuscin, and neuropathology in a m",
-"sub": "Cell Reports 2024 · cited 51",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37131734",
-"c": ""
-},
-{
-"k": "person:jessica-t-root",
-"t": "person",
-"n": "Jessica T. Root",
-"sub": "Emory University",
-"url": "https://orcid.org/0000-0002-9150-9579",
-"c": "US"
-},
-{
 "k": "paper:pmid-36865171",
 "t": "paper",
 "n": "Multi-modal proteomic characterization of lysosomal function and proteostasis in progranul",
@@ -3230,6 +3214,38 @@
 "sub": "",
 "url": "",
 "c": ""
+},
+{
+"k": "paper:pmid-36347423",
+"t": "paper",
+"n": "Cathepsin D: Analysis of its potential role as an amyloid beta degrading protease",
+"sub": "Neurobiology of Disease 2022 · cited 34",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36347423",
+"c": ""
+},
+{
+"k": "person:lisa-gallwitz",
+"t": "person",
+"n": "Lisa Gallwitz",
+"sub": "Christian-Albrechts-Universität zu Kiel",
+"url": "https://orcid.org/0000-0002-1265-1391",
+"c": "DE"
+},
+{
+"k": "person:paul-saftig",
+"t": "person",
+"n": "Paul Säftig",
+"sub": "Christian-Albrechts-Universität zu Kiel",
+"url": "https://orcid.org/0000-0003-2637-7052",
+"c": "DE"
+},
+{
+"k": "org:center-for-information-technology",
+"t": "funder",
+"n": "Center for Information Technology",
+"sub": "",
+"url": "",
+"c": ""
 }
 ],
 "edges": [
@@ -3299,11 +3315,6 @@
 "r": "tested_in"
 },
 {
-"a": "org:academy-of-finland",
-"b": "paper:pmid-42744861",
-"r": "funded"
-},
-{
 "a": "org:academy-of-medical-sciences",
 "b": "paper:pmid-42744861",
 "r": "funded"
@@ -3339,11 +3350,6 @@
 "r": "funded"
 },
 {
-"a": "org:alzheimer-s-drug-discovery-foundation",
-"b": "paper:pmid-37131734",
-"r": "funded"
-},
-{
 "a": "org:amicus-therapeutics",
 "b": "paper:pmid-33010819",
 "r": "funded"
@@ -3356,11 +3362,6 @@
 {
 "a": "org:association-for-frontotemporal-degeneration",
 "b": "paper:pmid-33028409",
-"r": "funded"
-},
-{
-"a": "org:association-for-frontotemporal-degeneration",
-"b": "paper:pmid-37131734",
 "r": "funded"
 },
 {
@@ -3499,11 +3500,6 @@
 "r": "funded"
 },
 {
-"a": "org:brightfocus-foundation",
-"b": "paper:pmid-37131734",
-"r": "funded"
-},
-{
 "a": "org:british-heart-foundation",
 "b": "paper:pmid-34130600",
 "r": "funded"
@@ -3526,6 +3522,11 @@
 {
 "a": "org:canadian-institutes-of-health-research",
 "b": "paper:pmid-33764477",
+"r": "funded"
+},
+{
+"a": "org:canadian-institutes-of-health-research",
+"b": "paper:pmid-36347423",
 "r": "funded"
 },
 {
@@ -3576,6 +3577,11 @@
 {
 "a": "org:canterbury-medical-research-foundation",
 "b": "paper:pmid-40181626",
+"r": "funded"
+},
+{
+"a": "org:center-for-information-technology",
+"b": "paper:pmid-36347423",
 "r": "funded"
 },
 {
@@ -3674,6 +3680,11 @@
 "r": "funded"
 },
 {
+"a": "org:deutsche-forschungsgemeinschaft",
+"b": "paper:pmid-36347423",
+"r": "funded"
+},
+{
 "a": "org:dipartimenti-di-eccellenza",
 "b": "paper:pmid-34382076",
 "r": "funded"
@@ -3731,11 +3742,6 @@
 {
 "a": "org:fondazione-telethon",
 "b": "paper:pmid-40346285",
-"r": "funded"
-},
-{
-"a": "org:fondazione-telethon",
-"b": "paper:pmid-42744861",
 "r": "funded"
 },
 {
@@ -3856,6 +3862,11 @@
 {
 "a": "org:national-institute-for-health-and-care-research",
 "b": "paper:pmid-38141358",
+"r": "funded"
+},
+{
+"a": "org:national-institute-for-health-and-care-research",
+"b": "paper:pmid-42744861",
 "r": "funded"
 },
 {
@@ -4104,6 +4115,11 @@
 "r": "funded"
 },
 {
+"a": "org:uk-research-and-innovation",
+"b": "paper:pmid-42744861",
+"r": "funded"
+},
+{
 "a": "org:uke-universitatsklinikum-hamburg-eppendorf",
 "b": "trial:nct07882290",
 "r": "site_of"
@@ -4196,11 +4212,6 @@
 {
 "a": "org:yale-university",
 "b": "paper:pmid-35358180",
-"r": "funded"
-},
-{
-"a": "org:yale-university",
-"b": "paper:pmid-37131734",
 "r": "funded"
 },
 {
@@ -4764,16 +4775,6 @@
 "r": "authored"
 },
 {
-"a": "person:jessica-t-root",
-"b": "org:emory-university",
-"r": "affiliated"
-},
-{
-"a": "person:jessica-t-root",
-"b": "paper:pmid-37131734",
-"r": "authored"
-},
-{
 "a": "person:jian-gao",
 "b": "org:xuzhou-medical-college",
 "r": "affiliated"
@@ -4976,6 +4977,16 @@
 {
 "a": "person:ling-hao",
 "b": "paper:pmid-36865171",
+"r": "authored"
+},
+{
+"a": "person:lisa-gallwitz",
+"b": "org:christian-albrechts-universitat-zu-kiel",
+"r": "affiliated"
+},
+{
+"a": "person:lisa-gallwitz",
+"b": "paper:pmid-36347423",
 "r": "authored"
 },
 {
@@ -5319,6 +5330,16 @@
 "r": "investigator"
 },
 {
+"a": "person:paul-saftig",
+"b": "org:christian-albrechts-universitat-zu-kiel",
+"r": "affiliated"
+},
+{
+"a": "person:paul-saftig",
+"b": "paper:pmid-36347423",
+"r": "authored"
+},
+{
 "a": "person:philippe-huber",
 "b": "org:centre-national-de-la-recherche-scientifique",
 "r": "affiliated"
@@ -5656,11 +5677,6 @@
 {
 "a": "person:thomas-l-kukar",
 "b": "paper:pmid-33028409",
-"r": "authored"
-},
-{
-"a": "person:thomas-l-kukar",
-"b": "paper:pmid-37131734",
 "r": "authored"
 },
 {
