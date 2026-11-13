@@ -1,6 +1,6 @@
 {
 "assetId": "ves001",
-"updated": "2026-11-12",
+"updated": "2026-11-13",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 42,
@@ -16,6 +16,46 @@
 "c": ""
 },
 {
+"k": "trial:nct06226064",
+"t": "trial",
+"n": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of VE",
+"sub": "P1 · completed · 2023-2024",
+"url": "https://clinicaltrials.gov/study/NCT06226064",
+"c": ""
+},
+{
+"k": "org:vesper-biotechnologies-aps",
+"t": "company",
+"n": "Vesper Biotechnologies ApS",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:vesper-bio",
+"t": "company",
+"n": "Vesper Bio",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:mads-kjolby",
+"t": "person",
+"n": "Mads Kjolby",
+"sub": "principal investigator · Vesper Bio",
+"url": "",
+"c": ""
+},
+{
+"k": "org:center-for-human-drug-research",
+"t": "company",
+"n": "Center for Human Drug Research",
+"sub": "",
+"url": "",
+"c": "Netherlands"
+},
+{
 "k": "trial:nct06705192",
 "t": "trial",
 "n": "Study in Asymptomatic GRN-FTD Patients to Investigate the Safety, Tolerability, Pharmacoki",
@@ -27,14 +67,6 @@
 "k": "org:mads-kjolby",
 "t": "company",
 "n": "Mads Kjolby",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:vesper-bio",
-"t": "company",
-"n": "Vesper Bio",
 "sub": "",
 "url": "",
 "c": ""
@@ -62,38 +94,6 @@
 "sub": "",
 "url": "",
 "c": "United Kingdom"
-},
-{
-"k": "trial:nct06226064",
-"t": "trial",
-"n": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of VE",
-"sub": "P1 · completed · 2023-2024",
-"url": "https://clinicaltrials.gov/study/NCT06226064",
-"c": ""
-},
-{
-"k": "org:vesper-biotechnologies-aps",
-"t": "company",
-"n": "Vesper Biotechnologies ApS",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:mads-kjolby",
-"t": "person",
-"n": "Mads Kjolby",
-"sub": "principal investigator · Vesper Bio",
-"url": "",
-"c": ""
-},
-{
-"k": "org:center-for-human-drug-research",
-"t": "company",
-"n": "Center for Human Drug Research",
-"sub": "",
-"url": "",
-"c": "Netherlands"
 },
 {
 "k": "trial:nct07221344",
@@ -592,14 +592,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07885917",
-"t": "trial",
-"n": "Long-Term Safety and Tolerability of Nizubaglustat in Participants With Rare Lysosomal Dis",
-"sub": "P2/P3 · not_yet_recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07885917",
-"c": ""
-},
-{
 "k": "trial:nct07399704",
 "t": "trial",
 "n": "A Study to Evaluate the Safety and Efficacy of Nizubaglustat (AZ-3102) in Patients With GM",
@@ -630,6 +622,14 @@
 "sub": "",
 "url": "",
 "c": "Brazil"
+},
+{
+"k": "trial:nct07885917",
+"t": "trial",
+"n": "Long-Term Safety and Tolerability of Nizubaglustat in Participants With Rare Lysosomal Dis",
+"sub": "P2/P3 · not_yet_recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07885917",
+"c": ""
 },
 {
 "k": "trial:nct04046991",
@@ -808,6 +808,46 @@
 "c": ""
 },
 {
+"k": "trial:nct05456503",
+"t": "trial",
+"n": "PET Imaging Tau Accumulation in FTLD and Atypical Alzheimer's Using [18F]-PI-2620",
+"sub": "P3 · recruiting · 2022-2028",
+"url": "https://clinicaltrials.gov/study/NCT05456503",
+"c": ""
+},
+{
+"k": "org:national-institutes-of-health-nih",
+"t": "funder",
+"n": "National Institutes of Health (NIH)",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:jeffrey-s-phillips",
+"t": "person",
+"n": "Jeffrey S Phillips",
+"sub": "principal investigator · University of Pennsylvania",
+"url": "",
+"c": ""
+},
+{
+"k": "org:perelman-center-for-advance-medicine",
+"t": "company",
+"n": "Perelman Center for Advance Medicine",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:18f-pi-2620",
+"t": "drug",
+"n": "[18F]-PI-2620",
+"sub": "University of Pennsylvania",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct04374136",
 "t": "trial",
 "n": "A Phase 3 Study to Evaluate Efficacy and Safety of AL001 in Frontotemporal Dementia (INFRO",
@@ -908,46 +948,6 @@
 "t": "drug",
 "n": "Part 2 - AL001",
 "sub": "Alector Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05456503",
-"t": "trial",
-"n": "PET Imaging Tau Accumulation in FTLD and Atypical Alzheimer's Using [18F]-PI-2620",
-"sub": "P3 · recruiting · 2022-2028",
-"url": "https://clinicaltrials.gov/study/NCT05456503",
-"c": ""
-},
-{
-"k": "org:national-institutes-of-health-nih",
-"t": "funder",
-"n": "National Institutes of Health (NIH)",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:jeffrey-s-phillips",
-"t": "person",
-"n": "Jeffrey S Phillips",
-"sub": "principal investigator · University of Pennsylvania",
-"url": "",
-"c": ""
-},
-{
-"k": "org:perelman-center-for-advance-medicine",
-"t": "company",
-"n": "Perelman Center for Advance Medicine",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:18f-pi-2620",
-"t": "drug",
-"n": "[18F]-PI-2620",
-"sub": "University of Pennsylvania",
 "url": "",
 "c": ""
 },
@@ -1560,62 +1560,6 @@
 "c": ""
 },
 {
-"k": "trial:nct04576793",
-"t": "trial",
-"n": "Longitudinal Imaging of Microglial Activation in Different Clinical Variants of Alzheimer'",
-"sub": "P2 · recruiting · 2020-2027",
-"url": "https://clinicaltrials.gov/study/NCT04576793",
-"c": ""
-},
-{
-"k": "org:columbia-university",
-"t": "academic",
-"n": "Columbia University",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "person:patrick-j-lao",
-"t": "person",
-"n": "Patrick J. Lao",
-"sub": "principal investigator · Columbia University",
-"url": "",
-"c": ""
-},
-{
-"k": "org:columbia-university-irving-medical-center",
-"t": "hospital",
-"n": "Columbia University Irving Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:11c-er176",
-"t": "drug",
-"n": "11C-ER176",
-"sub": "Columbia University",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:18f-mk6240",
-"t": "drug",
-"n": "18F-MK6240",
-"sub": "Columbia University",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:18f-florbetaben",
-"t": "drug",
-"n": "18F-Florbetaben",
-"sub": "Columbia University",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07033481",
 "t": "trial",
 "n": "Clinical Study of Neflamapimod in Patients With Primary Progressive Aphasia",
@@ -1643,6 +1587,14 @@
 "k": "org:northwestern-memorial-hospital",
 "t": "hospital",
 "n": "Northwestern Memorial Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:columbia-university",
+"t": "academic",
+"n": "Columbia University",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -1684,6 +1636,54 @@
 "t": "drug",
 "n": "Neflamapimod",
 "sub": "EIP Pharma Inc",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04576793",
+"t": "trial",
+"n": "Longitudinal Imaging of Microglial Activation in Different Clinical Variants of Alzheimer'",
+"sub": "P2 · recruiting · 2020-2027",
+"url": "https://clinicaltrials.gov/study/NCT04576793",
+"c": ""
+},
+{
+"k": "person:patrick-j-lao",
+"t": "person",
+"n": "Patrick J. Lao",
+"sub": "principal investigator · Columbia University",
+"url": "",
+"c": ""
+},
+{
+"k": "org:columbia-university-irving-medical-center",
+"t": "hospital",
+"n": "Columbia University Irving Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:11c-er176",
+"t": "drug",
+"n": "11C-ER176",
+"sub": "Columbia University",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:18f-mk6240",
+"t": "drug",
+"n": "18F-MK6240",
+"sub": "Columbia University",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:18f-florbetaben",
+"t": "drug",
+"n": "18F-Florbetaben",
+"sub": "Columbia University",
 "url": "",
 "c": ""
 },
@@ -1936,94 +1936,6 @@
 "c": "Canada"
 },
 {
-"k": "trial:nct05163288",
-"t": "trial",
-"n": "A Pivotal Study of N-Acetyl-L-Leucine on Niemann-Pick Disease Type C",
-"sub": "P3 · recruiting · 2022-2030",
-"url": "https://clinicaltrials.gov/study/NCT05163288",
-"c": ""
-},
-{
-"k": "org:intrabio",
-"t": "company",
-"n": "IntraBio Inc",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:the-royal-melbourne-hospital",
-"t": "hospital",
-"n": "The Royal Melbourne Hospital",
-"sub": "",
-"url": "",
-"c": "Australia"
-},
-{
-"k": "org:first-faculty-of-medicine-charles-university-hospital-prague",
-"t": "hospital",
-"n": "First Faculty of Medicine, Charles University Hospital Prague",
-"sub": "",
-"url": "",
-"c": "Czechia"
-},
-{
-"k": "org:university-of-giessen",
-"t": "academic",
-"n": "University of Giessen",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:university-of-hamburg",
-"t": "academic",
-"n": "University of Hamburg",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:sphincs-institute-of-clinical-science-in-lysosomal-storage-d",
-"t": "hospital",
-"n": "SphinCS - Institute of Clinical Science in Lysosomal Storage Disorders",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:ludwig-maximilian-university-of-munich",
-"t": "academic",
-"n": "Ludwig Maximilian University of Munich",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:university-hospital-munster",
-"t": "hospital",
-"n": "University Hospital Münster",
-"sub": "",
-"url": "",
-"c": "Germany"
-},
-{
-"k": "org:comenius-university-in-bratislva",
-"t": "academic",
-"n": "Comenius University in Bratislva",
-"sub": "",
-"url": "",
-"c": "Slovakia"
-},
-{
-"k": "drug:n-acetyl-l-leucine",
-"t": "drug",
-"n": "N-Acetyl-L-Leucine",
-"sub": "IntraBio Inc",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct04993755",
 "t": "trial",
 "n": "A Phase 2a Study of TPN-101 in Patients With C9ORF72 ALS/FTD",
@@ -2116,6 +2028,94 @@
 "t": "drug",
 "n": "TPN-101",
 "sub": "Transposon Therapeutics, Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05163288",
+"t": "trial",
+"n": "A Pivotal Study of N-Acetyl-L-Leucine on Niemann-Pick Disease Type C",
+"sub": "P3 · recruiting · 2022-2030",
+"url": "https://clinicaltrials.gov/study/NCT05163288",
+"c": ""
+},
+{
+"k": "org:intrabio",
+"t": "company",
+"n": "IntraBio Inc",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:the-royal-melbourne-hospital",
+"t": "hospital",
+"n": "The Royal Melbourne Hospital",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "org:first-faculty-of-medicine-charles-university-hospital-prague",
+"t": "hospital",
+"n": "First Faculty of Medicine, Charles University Hospital Prague",
+"sub": "",
+"url": "",
+"c": "Czechia"
+},
+{
+"k": "org:university-of-giessen",
+"t": "academic",
+"n": "University of Giessen",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
+"k": "org:university-of-hamburg",
+"t": "academic",
+"n": "University of Hamburg",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
+"k": "org:sphincs-institute-of-clinical-science-in-lysosomal-storage-d",
+"t": "hospital",
+"n": "SphinCS - Institute of Clinical Science in Lysosomal Storage Disorders",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
+"k": "org:ludwig-maximilian-university-of-munich",
+"t": "academic",
+"n": "Ludwig Maximilian University of Munich",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
+"k": "org:university-hospital-munster",
+"t": "hospital",
+"n": "University Hospital Münster",
+"sub": "",
+"url": "",
+"c": "Germany"
+},
+{
+"k": "org:comenius-university-in-bratislva",
+"t": "academic",
+"n": "Comenius University in Bratislva",
+"sub": "",
+"url": "",
+"c": "Slovakia"
+},
+{
+"k": "drug:n-acetyl-l-leucine",
+"t": "drug",
+"n": "N-Acetyl-L-Leucine",
+"sub": "IntraBio Inc",
 "url": "",
 "c": ""
 },
@@ -2683,7 +2683,7 @@
 "k": "paper:pmid-37735487",
 "t": "paper",
 "n": "Microglia in neurodegenerative diseases: mechanism and potential therapeutic targets",
-"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1792",
+"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1811",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37735487",
 "c": ""
 },
@@ -2739,7 +2739,7 @@
 "k": "paper:pmid-32333900",
 "t": "paper",
 "n": "Blood phosphorylated tau 181 as a biomarker for Alzheimer's disease: a diagnostic performa",
-"sub": "The Lancet Neurology 2020 · cited 1402",
+"sub": "The Lancet Neurology 2020 · cited 1406",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32333900",
 "c": ""
 },
@@ -2803,7 +2803,7 @@
 "k": "paper:pmid-32526057",
 "t": "paper",
 "n": "Amyotrophic lateral sclerosis: a clinical review",
-"sub": "European Journal of Neurology 2020 · cited 1333",
+"sub": "European Journal of Neurology 2020 · cited 1343",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32526057",
 "c": ""
 },
@@ -2875,7 +2875,7 @@
 "k": "paper:pmid-34418401",
 "t": "paper",
 "n": "Plasma phosphorylated tau 217 and phosphorylated tau 181 as biomarkers in Alzheimer's dise",
-"sub": "The Lancet Neurology 2021 · cited 648",
+"sub": "The Lancet Neurology 2021 · cited 652",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34418401",
 "c": ""
 },
@@ -2923,7 +2923,7 @@
 "k": "paper:pmid-35197626",
 "t": "paper",
 "n": "TDP-43 represses cryptic exon inclusion in the FTD–ALS gene UNC13A",
-"sub": "Nature 2022 · cited 600",
+"sub": "Nature 2022 · cited 607",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35197626",
 "c": ""
 },
@@ -2995,7 +2995,7 @@
 "k": "paper:pmid-34099648",
 "t": "paper",
 "n": "A multicentre validation study of the diagnostic value of plasma neurofilament light",
-"sub": "Nature Communications 2021 · cited 575",
+"sub": "Nature Communications 2021 · cited 577",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34099648",
 "c": ""
 },
@@ -3064,10 +3064,74 @@
 "c": ""
 },
 {
+"k": "paper:pmid-34313331",
+"t": "paper",
+"n": "Mini-Mental State Examination (MMSE) for the early detection of dementia in people with mi",
+"sub": "Cochrane Database of Systematic Reviews 2021 · cited 576",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34313331",
+"c": ""
+},
+{
+"k": "person:ingrid-arevalo-rodriguez",
+"t": "person",
+"n": "Ingrid Arévalo-Rodríguez",
+"sub": "Centro de Investigación Biomédica en Red",
+"url": "https://orcid.org/0000-0002-7326-4504",
+"c": "ES"
+},
+{
+"k": "org:centro-de-investigacion-biomedica-en-red",
+"t": "academic",
+"n": "Centro de Investigación Biomédica en Red",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "org:instituto-ramon-y-cajal-de-investigacion-sanitaria",
+"t": "hospital",
+"n": "Instituto Ramón y Cajal de Investigación Sanitaria",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "person:sarah-j-cullum",
+"t": "person",
+"n": "Sarah J. Cullum",
+"sub": "University of Auckland",
+"url": "https://orcid.org/0000-0003-0785-9101",
+"c": "NZ"
+},
+{
+"k": "org:university-of-auckland",
+"t": "academic",
+"n": "University of Auckland",
+"sub": "",
+"url": "",
+"c": "NZ"
+},
+{
+"k": "org:american-academy-of-neurology",
+"t": "funder",
+"n": "American Academy of Neurology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:universitat-autonoma-de-barcelona",
+"t": "funder",
+"n": "Universitat Autònoma de Barcelona",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-35197628",
 "t": "paper",
 "n": "TDP-43 loss and ALS-risk SNPs drive mis-splicing and depletion of UNC13A",
-"sub": "Nature 2022 · cited 571",
+"sub": "Nature 2022 · cited 575",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35197628",
 "c": ""
 },
@@ -3155,7 +3219,7 @@
 "k": "paper:pmid-32296178",
 "t": "paper",
 "n": "LRP1 is a master regulator of tau uptake and spread",
-"sub": "Nature 2020 · cited 562",
+"sub": "Nature 2020 · cited 567",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32296178",
 "c": ""
 },
@@ -3219,7 +3283,7 @@
 "k": "paper:pmid-36361631",
 "t": "paper",
 "n": "Phosphorylated Tau in Alzheimer’s Disease and Other Tauopathies",
-"sub": "International Journal of Molecular Sciences 2022 · cited 557",
+"sub": "International Journal of Molecular Sciences 2022 · cited 560",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36361631",
 "c": ""
 },
@@ -3264,74 +3328,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-34313331",
-"t": "paper",
-"n": "Mini-Mental State Examination (MMSE) for the early detection of dementia in people with mi",
-"sub": "Cochrane Database of Systematic Reviews 2021 · cited 539",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34313331",
-"c": ""
-},
-{
-"k": "person:ingrid-arevalo-rodriguez",
-"t": "person",
-"n": "Ingrid Arévalo-Rodríguez",
-"sub": "Centro de Investigación Biomédica en Red",
-"url": "https://orcid.org/0000-0002-7326-4504",
-"c": "ES"
-},
-{
-"k": "org:centro-de-investigacion-biomedica-en-red",
-"t": "academic",
-"n": "Centro de Investigación Biomédica en Red",
-"sub": "",
-"url": "",
-"c": "ES"
-},
-{
-"k": "org:instituto-ramon-y-cajal-de-investigacion-sanitaria",
-"t": "hospital",
-"n": "Instituto Ramón y Cajal de Investigación Sanitaria",
-"sub": "",
-"url": "",
-"c": "ES"
-},
-{
-"k": "person:sarah-j-cullum",
-"t": "person",
-"n": "Sarah J. Cullum",
-"sub": "University of Auckland",
-"url": "https://orcid.org/0000-0003-0785-9101",
-"c": "NZ"
-},
-{
-"k": "org:university-of-auckland",
-"t": "academic",
-"n": "University of Auckland",
-"sub": "",
-"url": "",
-"c": "NZ"
-},
-{
-"k": "org:american-academy-of-neurology",
-"t": "funder",
-"n": "American Academy of Neurology",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:universitat-autonoma-de-barcelona",
-"t": "funder",
-"n": "Universitat Autònoma de Barcelona",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-38609644",
 "t": "paper",
 "n": "Neurofilaments as biomarkers in neurological disorders — towards clinical application",
-"sub": "Nature Reviews Neurology 2024 · cited 522",
+"sub": "Nature Reviews Neurology 2024 · cited 527",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38609644",
 "c": ""
 },
@@ -3395,7 +3395,7 @@
 "k": "paper:pmid-39107446",
 "t": "paper",
 "n": "Mechanisms of autophagy–lysosome dysfunction in neurodegenerative diseases",
-"sub": "Nature Reviews Molecular Cell Biology 2024 · cited 468",
+"sub": "Nature Reviews Molecular Cell Biology 2024 · cited 475",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39107446",
 "c": ""
 },
@@ -3483,7 +3483,7 @@
 "k": "paper:pmid-32048886",
 "t": "paper",
 "n": "Organelle-specific autophagy in inflammatory diseases: a potential therapeutic target unde",
-"sub": "Autophagy 2020 · cited 455",
+"sub": "Autophagy 2020 · cited 459",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32048886",
 "c": ""
 },
@@ -3547,7 +3547,7 @@
 "k": "paper:pmid-33971031",
 "t": "paper",
 "n": "Recent developments of HDAC inhibitors: Emerging indications and novel molecules",
-"sub": "British Journal of Clinical Pharmacology 2021 · cited 455",
+"sub": "British Journal of Clinical Pharmacology 2021 · cited 456",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33971031",
 "c": ""
 },
@@ -3619,7 +3619,7 @@
 "k": "paper:pmid-33051572",
 "t": "paper",
 "n": "The role of TDP-43 propagation in neurodegenerative diseases: integrating insights from cl",
-"sub": "Experimental & Molecular Medicine 2020 · cited 442",
+"sub": "Experimental & Molecular Medicine 2020 · cited 445",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33051572",
 "c": ""
 },
@@ -3712,34 +3712,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-33033486",
-"t": "paper",
-"n": "Behavioral and Psychological Effects of Coronavirus Disease-19 Quarantine in Patients With",
-"sub": "Frontiers in Psychiatry 2020 · cited 380",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33033486",
-"c": ""
-},
-{
-"k": "person:annachiara-cagnin",
-"t": "person",
-"n": "Annachiara Cagnin",
-"sub": "University of Padua",
-"url": "",
-"c": "IT"
-},
-{
-"k": "org:university-of-padua",
-"t": "academic",
-"n": "University of Padua",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
 "k": "paper:pmid-33722990",
 "t": "paper",
 "n": "National Institute of Neurological Disorders and Stroke Consensus Diagnostic Criteria for ",
-"sub": "Neurology 2021 · cited 380",
+"sub": "Neurology 2021 · cited 381",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33722990",
 "c": ""
 },
@@ -3776,10 +3752,34 @@
 "c": ""
 },
 {
+"k": "paper:pmid-33033486",
+"t": "paper",
+"n": "Behavioral and Psychological Effects of Coronavirus Disease-19 Quarantine in Patients With",
+"sub": "Frontiers in Psychiatry 2020 · cited 380",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33033486",
+"c": ""
+},
+{
+"k": "person:annachiara-cagnin",
+"t": "person",
+"n": "Annachiara Cagnin",
+"sub": "University of Padua",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:university-of-padua",
+"t": "academic",
+"n": "University of Padua",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
 "k": "paper:pmid-35063084",
 "t": "paper",
 "n": "Tau interactome maps synaptic and mitochondrial processes associated with neurodegeneratio",
-"sub": "Cell 2022 · cited 361",
+"sub": "Cell 2022 · cited 363",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35063084",
 "c": ""
 },
@@ -3904,42 +3904,10 @@
 "c": ""
 },
 {
-"k": "paper:doi-10-3390-data8060095",
-"t": "paper",
-"n": "A Dataset of Scalp EEG Recordings of Alzheimer’s Disease, Frontotemporal Dementia and Heal",
-"sub": "Data 2023 · cited 348",
-"url": "https://doi.org/10.3390/data8060095",
-"c": ""
-},
-{
-"k": "org:university-of-ioannina",
-"t": "academic",
-"n": "University of Ioannina",
-"sub": "",
-"url": "",
-"c": "GR"
-},
-{
-"k": "person:alexandros-t-tzallas",
-"t": "person",
-"n": "Alexandros T. Tzallas",
-"sub": "University of Ioannina",
-"url": "https://orcid.org/0000-0001-9043-1290",
-"c": "GR"
-},
-{
-"k": "org:european-regional-development-fund",
-"t": "funder",
-"n": "European Regional Development Fund",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-34739333",
 "t": "paper",
 "n": "Ubiquitination of G3BP1 mediates stress granule disassembly in a context-specific manner",
-"sub": "Science 2021 · cited 346",
+"sub": "Science 2021 · cited 349",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34739333",
 "c": ""
 },
@@ -3976,6 +3944,38 @@
 "c": "US"
 },
 {
+"k": "paper:doi-10-3390-data8060095",
+"t": "paper",
+"n": "A Dataset of Scalp EEG Recordings of Alzheimer’s Disease, Frontotemporal Dementia and Heal",
+"sub": "Data 2023 · cited 348",
+"url": "https://doi.org/10.3390/data8060095",
+"c": ""
+},
+{
+"k": "org:university-of-ioannina",
+"t": "academic",
+"n": "University of Ioannina",
+"sub": "",
+"url": "",
+"c": "GR"
+},
+{
+"k": "person:alexandros-t-tzallas",
+"t": "person",
+"n": "Alexandros T. Tzallas",
+"sub": "University of Ioannina",
+"url": "https://orcid.org/0000-0001-9043-1290",
+"c": "GR"
+},
+{
+"k": "org:european-regional-development-fund",
+"t": "funder",
+"n": "European Regional Development Fund",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-33446423",
 "t": "paper",
 "n": "FUS and TDP-43 Phases in Health and Disease",
@@ -4003,7 +4003,7 @@
 "k": "paper:pmid-32129844",
 "t": "paper",
 "n": "Recommendations to distinguish behavioural variant frontotemporal dementia from psychiatri",
-"sub": "Brain 2020 · cited 337",
+"sub": "Brain 2020 · cited 340",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32129844",
 "c": ""
 },
@@ -4099,7 +4099,7 @@
 "k": "paper:pmid-32483373",
 "t": "paper",
 "n": "C9orf72 suppresses systemic and neural inflammation induced by gut bacteria",
-"sub": "Nature 2020 · cited 324",
+"sub": "Nature 2020 · cited 325",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32483373",
 "c": ""
 },
@@ -4155,7 +4155,7 @@
 "k": "paper:pmid-32814898",
 "t": "paper",
 "n": "C9orf72 in myeloid cells suppresses STING-induced inflammation",
-"sub": "Nature 2020 · cited 307",
+"sub": "Nature 2020 · cited 308",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32814898",
 "c": ""
 },
@@ -4227,7 +4227,7 @@
 "k": "paper:pmid-34215308",
 "t": "paper",
 "n": "Mammalian/mechanistic target of rapamycin (mTOR) complexes in neurodegeneration",
-"sub": "Molecular Neurodegeneration 2021 · cited 305",
+"sub": "Molecular Neurodegeneration 2021 · cited 307",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34215308",
 "c": ""
 },
@@ -4267,7 +4267,7 @@
 "k": "paper:pmid-34672693",
 "t": "paper",
 "n": "Impact of neurodegenerative diseases on human adult hippocampal neurogenesis",
-"sub": "Science 2021 · cited 293",
+"sub": "Science 2021 · cited 295",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34672693",
 "c": ""
 },
@@ -4339,7 +4339,7 @@
 "k": "paper:pmid-35075293",
 "t": "paper",
 "n": "Antisense oligonucleotide silencing of FUS expression as a therapeutic approach in amyotro",
-"sub": "Nature Medicine 2022 · cited 292",
+"sub": "Nature Medicine 2022 · cited 294",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35075293",
 "c": ""
 },
@@ -4387,7 +4387,7 @@
 "k": "paper:pmid-32273329",
 "t": "paper",
 "n": "Serum neuronal exosomes predict and differentiate Parkinson’s disease from atypical parkin",
-"sub": "Journal of Neurology Neurosurgery & Psychiatry 2020 · cited 289",
+"sub": "Journal of Neurology Neurosurgery & Psychiatry 2020 · cited 292",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32273329",
 "c": ""
 },
@@ -4443,7 +4443,7 @@
 "k": "paper:pmid-34239129",
 "t": "paper",
 "n": "Genomic atlas of the proteome from brain, CSF and plasma prioritizes proteins implicated i",
-"sub": "Nature Neuroscience 2021 · cited 289",
+"sub": "Nature Neuroscience 2021 · cited 290",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34239129",
 "c": ""
 },
@@ -4483,7 +4483,7 @@
 "k": "paper:pmid-33654312",
 "t": "paper",
 "n": "Triad of TDP43 control in neurodegeneration: autoregulation, localization and aggregation",
-"sub": "Nature reviews. Neuroscience 2021 · cited 286",
+"sub": "Nature reviews. Neuroscience 2021 · cited 289",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33654312",
 "c": ""
 },
@@ -4520,36 +4520,28 @@
 "c": ""
 },
 {
-"k": "paper:pmid-34485280",
+"k": "paper:pmid-39014245",
 "t": "paper",
-"n": "The Ageing Brain: Molecular and Cellular Basis of Neurodegeneration",
-"sub": "Frontiers in Cell and Developmental Biology 2021 · cited 274",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34485280",
+"n": "Cellular and pathological functions of tau",
+"sub": "Nature Reviews Molecular Cell Biology 2024 · cited 276",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39014245",
 "c": ""
 },
 {
-"k": "person:shofiul-azam",
+"k": "person:celeste-parra-bravo",
 "t": "person",
-"n": "Shofiul Azam",
-"sub": "Konkuk University",
-"url": "https://orcid.org/0000-0003-4707-3488",
-"c": "KR"
+"n": "Celeste Parra Bravo",
+"sub": "Cornell University",
+"url": "https://orcid.org/0000-0001-9781-8922",
+"c": "US"
 },
 {
-"k": "org:konkuk-university",
+"k": "org:cornell-university",
 "t": "academic",
-"n": "Konkuk University",
+"n": "Cornell University",
 "sub": "",
 "url": "",
-"c": "KR"
-},
-{
-"k": "person:dongkug-choi",
-"t": "person",
-"n": "Dong‐Kug Choi",
-"sub": "Konkuk University",
-"url": "https://orcid.org/0000-0001-7041-1524",
-"c": "KR"
+"c": "US"
 }
 ],
 "edges": [
@@ -6325,22 +6317,12 @@
 },
 {
 "a": "org:national-research-foundation",
-"b": "paper:pmid-34485280",
-"r": "funded"
-},
-{
-"a": "org:national-research-foundation",
 "b": "paper:pmid-42875454",
 "r": "funded"
 },
 {
 "a": "org:national-research-foundation-of-korea",
 "b": "paper:pmid-33051572",
-"r": "funded"
-},
-{
-"a": "org:national-research-foundation-of-korea",
-"b": "paper:pmid-34485280",
 "r": "funded"
 },
 {
@@ -7334,6 +7316,21 @@
 "r": "authored"
 },
 {
+"a": "person:celeste-parra-bravo",
+"b": "org:cornell-university",
+"r": "affiliated"
+},
+{
+"a": "person:celeste-parra-bravo",
+"b": "org:weill-cornell-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:celeste-parra-bravo",
+"b": "paper:pmid-39014245",
+"r": "authored"
+},
+{
 "a": "person:chao-gao",
 "b": "org:ruijin-hospital",
 "r": "affiliated"
@@ -7457,16 +7454,6 @@
 "a": "person:david-zhu",
 "b": "trial:nct05331144",
 "r": "investigator"
-},
-{
-"a": "person:dongkug-choi",
-"b": "org:konkuk-university",
-"r": "affiliated"
-},
-{
-"a": "person:dongkug-choi",
-"b": "paper:pmid-34485280",
-"r": "authored"
 },
 {
 "a": "person:douglas-i-katz",
@@ -7850,12 +7837,22 @@
 },
 {
 "a": "person:li-gan",
+"b": "org:cornell-university",
+"r": "affiliated"
+},
+{
+"a": "person:li-gan",
 "b": "org:weill-cornell-medicine",
 "r": "affiliated"
 },
 {
 "a": "person:li-gan",
 "b": "paper:pmid-35063084",
+"r": "authored"
+},
+{
+"a": "person:li-gan",
+"b": "paper:pmid-39014245",
 "r": "authored"
 },
 {
@@ -8302,16 +8299,6 @@
 "a": "person:shengdi-chen-ph-d",
 "b": "trial:nct07638813",
 "r": "investigator"
-},
-{
-"a": "person:shofiul-azam",
-"b": "org:konkuk-university",
-"r": "affiliated"
-},
-{
-"a": "person:shofiul-azam",
-"b": "paper:pmid-34485280",
-"r": "authored"
 },
 {
 "a": "person:simon-ducharme",

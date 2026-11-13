@@ -1,6 +1,6 @@
 {
 "assetId": "bt101",
-"updated": "2026-11-12",
+"updated": "2026-11-13",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 13,
@@ -12,6 +12,54 @@
 "t": "asset",
 "n": "BT-101",
 "sub": "osteogenesis imperfecta",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06632418",
+"t": "trial",
+"n": "Evaluating an rhPDGF-BB-enhanced Collagen Plug for Perianal Fistula Healing",
+"sub": "P2 · completed · 2024-2026",
+"url": "https://clinicaltrials.gov/study/NCT06632418",
+"c": ""
+},
+{
+"k": "org:aimal-khan",
+"t": "academic",
+"n": "Aimal Khan",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:lynch-regenerative-medicine",
+"t": "academic",
+"n": "Lynch Regenerative Medicine",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:vanderbilt-university-medical-center",
+"t": "hospital",
+"n": "Vanderbilt University Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "person:alexander-t-hawkins",
+"t": "person",
+"n": "Alexander T Hawkins",
+"sub": "principal investigator · Vanderbilt University Medical Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:rhpdgf-bb",
+"t": "drug",
+"n": "RhPDGF-BB",
+"sub": "Aimal Khan",
 "url": "",
 "c": ""
 },
@@ -384,54 +432,6 @@
 "c": "China"
 },
 {
-"k": "trial:nct06632418",
-"t": "trial",
-"n": "Evaluating an rhPDGF-BB-enhanced Collagen Plug for Perianal Fistula Healing",
-"sub": "P2 · completed · 2024-2026",
-"url": "https://clinicaltrials.gov/study/NCT06632418",
-"c": ""
-},
-{
-"k": "org:alexander-hawkins",
-"t": "academic",
-"n": "Alexander Hawkins",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:lynch-regenerative-medicine",
-"t": "academic",
-"n": "Lynch Regenerative Medicine",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:vanderbilt-university-medical-center",
-"t": "hospital",
-"n": "Vanderbilt University Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "person:alexander-t-hawkins",
-"t": "person",
-"n": "Alexander T Hawkins",
-"sub": "principal investigator · Vanderbilt University Medical Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:rhpdgf-bb",
-"t": "drug",
-"n": "RhPDGF-BB",
-"sub": "Alexander Hawkins",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07366086",
 "t": "trial",
 "n": "Pediatric Safety Follow-up Study of Prior Treatment With Romosozumab for Osteogenesis Impe",
@@ -779,7 +779,7 @@
 "k": "paper:pmid-30060258",
 "t": "paper",
 "n": "Concepts and Controversies in Haemostasis and Thrombosis Associated with Liver Disease: Pr",
-"sub": "Thrombosis and Haemostasis 2018 · cited 185",
+"sub": "Thrombosis and Haemostasis 2018 · cited 192",
 "url": "https://pubmed.ncbi.nlm.nih.gov/30060258",
 "c": ""
 },
@@ -843,7 +843,7 @@
 "k": "paper:pmid-28814489",
 "t": "paper",
 "n": "Right ventricular outflow tract stent versus BT shunt palliation in Tetralogy of Fallot",
-"sub": "Heart 2017 · cited 75",
+"sub": "Heart 2017 · cited 77",
 "url": "https://pubmed.ncbi.nlm.nih.gov/28814489",
 "c": ""
 },
@@ -995,7 +995,7 @@
 "k": "paper:pmid-35951347",
 "t": "paper",
 "n": "Psychological therapies for temporomandibular disorders (TMDs)",
-"sub": "Cochrane Database of Systematic Reviews 2022 · cited 63",
+"sub": "Cochrane Database of Systematic Reviews 2022 · cited 66",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35951347",
 "c": ""
 },
@@ -1155,7 +1155,7 @@
 "k": "paper:pmid-30429889",
 "t": "paper",
 "n": "Theranostic pretargeted radioimmunotherapy of internalizing solid tumor antigens in human ",
-"sub": "Theranostics 2018 · cited 41",
+"sub": "Theranostics 2018 · cited 43",
 "url": "https://pubmed.ncbi.nlm.nih.gov/30429889",
 "c": ""
 },
@@ -1467,7 +1467,7 @@
 "k": "paper:doi-10-48550-arxiv-2204-04306",
 "t": "paper",
 "n": "MMTAfrica: Multilingual Machine Translation for African Languages",
-"sub": "arXiv (Cornell University) 2022 · cited 24",
+"sub": "arXiv (Cornell University) 2022 · cited 25",
 "url": "https://doi.org/10.48550/arxiv.2204.04306",
 "c": ""
 },
@@ -1510,6 +1510,46 @@
 "sub": "",
 "url": "",
 "c": "DE"
+},
+{
+"k": "paper:pmid-37594195",
+"t": "paper",
+"n": "Clinical outcomes using a 3D printed tandem-needle-template and the EMBRACE-II planning ai",
+"sub": "Acta Oncologica 2023 · cited 23",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37594195",
+"c": ""
+},
+{
+"k": "person:anne-cobussen",
+"t": "person",
+"n": "Anne Cobussen",
+"sub": "Aarhus University Hospital",
+"url": "",
+"c": "DK"
+},
+{
+"k": "org:aarhus-university-hospital",
+"t": "hospital",
+"n": "Aarhus University Hospital",
+"sub": "",
+"url": "",
+"c": "DK"
+},
+{
+"k": "org:maastro-clinic",
+"t": "hospital",
+"n": "Maastro Clinic",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "person:jacob-christian-lindegaard",
+"t": "person",
+"n": "Jacob Christian Lindegaard",
+"sub": "Aarhus University Hospital",
+"url": "https://orcid.org/0000-0003-2426-7255",
+"c": "DK"
 },
 {
 "k": "paper:pmid-28600140",
@@ -1622,46 +1662,6 @@
 "sub": "",
 "url": "",
 "c": ""
-},
-{
-"k": "paper:pmid-37594195",
-"t": "paper",
-"n": "Clinical outcomes using a 3D printed tandem-needle-template and the EMBRACE-II planning ai",
-"sub": "Acta Oncologica 2023 · cited 20",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37594195",
-"c": ""
-},
-{
-"k": "person:anne-cobussen",
-"t": "person",
-"n": "Anne Cobussen",
-"sub": "Aarhus University Hospital",
-"url": "",
-"c": "DK"
-},
-{
-"k": "org:aarhus-university-hospital",
-"t": "hospital",
-"n": "Aarhus University Hospital",
-"sub": "",
-"url": "",
-"c": "DK"
-},
-{
-"k": "org:maastro-clinic",
-"t": "hospital",
-"n": "Maastro Clinic",
-"sub": "",
-"url": "",
-"c": "NL"
-},
-{
-"k": "person:jacob-christian-lindegaard",
-"t": "person",
-"n": "Jacob Christian Lindegaard",
-"sub": "Aarhus University Hospital",
-"url": "https://orcid.org/0000-0003-2426-7255",
-"c": "DK"
 },
 {
 "k": "paper:pmid-29260390",
@@ -1931,7 +1931,7 @@
 "k": "paper:pmid-32621590",
 "t": "paper",
 "n": "Management of Endocrine Disease: Osteogenesis imperfecta: an update on clinical features a",
-"sub": "European Journal of Endocrinology 2020 · cited 315",
+"sub": "European Journal of Endocrinology 2020 · cited 317",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32621590",
 "c": ""
 },
@@ -1995,7 +1995,7 @@
 "k": "paper:pmid-33371306",
 "t": "paper",
 "n": "Clinical Application of Bone Marrow Mesenchymal Stem/Stromal Cells to Repair Skeletal Tiss",
-"sub": "International Journal of Molecular Sciences 2020 · cited 286",
+"sub": "International Journal of Molecular Sciences 2020 · cited 288",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33371306",
 "c": ""
 },
@@ -2048,42 +2048,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-34007986",
-"t": "paper",
-"n": "Osteogenesis Imperfecta: Mechanisms and Signaling Pathways Connecting Classical and Rare O",
-"sub": "Endocrine Reviews 2021 · cited 185",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34007986",
-"c": ""
-},
-{
-"k": "person:milena-jovanovic",
-"t": "person",
-"n": "Milena Jovanovic",
-"sub": "National Institutes of Health",
-"url": "https://orcid.org/0000-0002-6583-6904",
-"c": "US"
-},
-{
-"k": "org:national-institutes-of-health",
-"t": "funder",
-"n": "National Institutes of Health",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:joan-c-marini",
-"t": "person",
-"n": "Joan C. Marini",
-"sub": "National Institutes of Health",
-"url": "https://orcid.org/0000-0002-3685-0950",
-"c": "US"
-},
-{
 "k": "paper:pmid-38437764",
 "t": "paper",
 "n": "Type 1 collagen: Synthesis, structure and key functions in bone mineralization",
-"sub": "Differentiation 2024 · cited 185",
+"sub": "Differentiation 2024 · cited 187",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38437764",
 "c": ""
 },
@@ -2144,10 +2112,42 @@
 "c": ""
 },
 {
+"k": "paper:pmid-34007986",
+"t": "paper",
+"n": "Osteogenesis Imperfecta: Mechanisms and Signaling Pathways Connecting Classical and Rare O",
+"sub": "Endocrine Reviews 2021 · cited 186",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34007986",
+"c": ""
+},
+{
+"k": "person:milena-jovanovic",
+"t": "person",
+"n": "Milena Jovanovic",
+"sub": "National Institutes of Health",
+"url": "https://orcid.org/0000-0002-6583-6904",
+"c": "US"
+},
+{
+"k": "org:national-institutes-of-health",
+"t": "funder",
+"n": "National Institutes of Health",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:joan-c-marini",
+"t": "person",
+"n": "Joan C. Marini",
+"sub": "National Institutes of Health",
+"url": "https://orcid.org/0000-0002-3685-0950",
+"c": "US"
+},
+{
 "k": "paper:pmid-33484578",
 "t": "paper",
 "n": "Skeletal Biology and Disease Modeling in Zebrafish",
-"sub": "Journal of Bone and Mineral Research 2020 · cited 176",
+"sub": "Journal of Bone and Mineral Research 2020 · cited 177",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33484578",
 "c": ""
 },
@@ -2291,7 +2291,7 @@
 "k": "paper:pmid-35982318",
 "t": "paper",
 "n": "Role of Wnt signaling and sclerostin in bone and as therapeutic targets in skeletal disord",
-"sub": "Osteoporosis International 2022 · cited 160",
+"sub": "Osteoporosis International 2022 · cited 161",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35982318",
 "c": ""
 },
@@ -2323,7 +2323,7 @@
 "k": "paper:pmid-36776395",
 "t": "paper",
 "n": "The immunomodulatory role of matrix metalloproteinases in colitis-associated cancer",
-"sub": "Frontiers in Immunology 2023 · cited 151",
+"sub": "Frontiers in Immunology 2023 · cited 157",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36776395",
 "c": ""
 },
@@ -2403,7 +2403,7 @@
 "k": "paper:pmid-34893625",
 "t": "paper",
 "n": "Type-I collagen produced by distinct fibroblast lineages reveals specific function during ",
-"sub": "Nature Communications 2021 · cited 142",
+"sub": "Nature Communications 2021 · cited 144",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34893625",
 "c": ""
 },
@@ -2451,7 +2451,7 @@
 "k": "paper:pmid-32797291",
 "t": "paper",
 "n": "Osteogenesis imperfecta—pathophysiology and therapeutic options",
-"sub": "Molecular and Cellular Pediatrics 2020 · cited 129",
+"sub": "Molecular and Cellular Pediatrics 2020 · cited 130",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32797291",
 "c": ""
 },
@@ -2499,7 +2499,7 @@
 "k": "paper:pmid-34068551",
 "t": "paper",
 "n": "Current Overview of Osteogenesis Imperfecta",
-"sub": "Medicina 2021 · cited 125",
+"sub": "Medicina 2021 · cited 128",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34068551",
 "c": ""
 },
@@ -2619,7 +2619,7 @@
 "k": "paper:pmid-35113812",
 "t": "paper",
 "n": "Targeting TGF-β for treatment of osteogenesis imperfecta",
-"sub": "Journal of Clinical Investigation 2022 · cited 105",
+"sub": "Journal of Clinical Investigation 2022 · cited 107",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35113812",
 "c": ""
 },
@@ -2675,7 +2675,7 @@
 "k": "paper:pmid-35371003",
 "t": "paper",
 "n": "Mesenchymal Stromal Cells for Enhancing Hematopoietic Engraftment and Treatment of Graft-V",
-"sub": "Frontiers in Immunology 2022 · cited 94",
+"sub": "Frontiers in Immunology 2022 · cited 95",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35371003",
 "c": ""
 },
@@ -2835,7 +2835,7 @@
 "k": "paper:pmid-32093703",
 "t": "paper",
 "n": "Expert panel consensus recommendations for diagnosis and treatment of secondary osteoporos",
-"sub": "Pediatric Rheumatology 2020 · cited 91",
+"sub": "Pediatric Rheumatology 2020 · cited 92",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32093703",
 "c": ""
 },
@@ -2979,7 +2979,7 @@
 "k": "paper:pmid-39127989",
 "t": "paper",
 "n": "Update on the Genetics of Osteogenesis Imperfecta",
-"sub": "Calcified Tissue International 2024 · cited 87",
+"sub": "Calcified Tissue International 2024 · cited 88",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39127989",
 "c": ""
 },
@@ -2987,7 +2987,7 @@
 "k": "paper:pmid-40255675",
 "t": "paper",
 "n": "Research Progress of Bone Grafting: A Comprehensive Review",
-"sub": "International Journal of Nanomedicine 2025 · cited 84",
+"sub": "International Journal of Nanomedicine 2025 · cited 86",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40255675",
 "c": ""
 },
@@ -3035,7 +3035,7 @@
 "k": "paper:pmid-36497201",
 "t": "paper",
 "n": "Osteometabolism: Metabolic Alterations in Bone Pathologies",
-"sub": "Cells 2022 · cited 82",
+"sub": "Cells 2022 · cited 84",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36497201",
 "c": ""
 },
@@ -3144,6 +3144,62 @@
 "c": ""
 },
 {
+"k": "paper:pmid-38315213",
+"t": "paper",
+"n": "Preclinical Rodent Models for Human Bone Disease, Including a Focus on Cortical Bone",
+"sub": "Endocrine Reviews 2024 · cited 70",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38315213",
+"c": ""
+},
+{
+"k": "person:natalie-y-y-koh",
+"t": "person",
+"n": "Natalie Y Y Koh",
+"sub": "The University of Melbourne",
+"url": "https://orcid.org/0009-0007-6339-2207",
+"c": "AU"
+},
+{
+"k": "org:the-university-of-melbourne",
+"t": "academic",
+"n": "The University of Melbourne",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "org:st-vincent-s-hospital-melbourne",
+"t": "hospital",
+"n": "St Vincent's Hospital Melbourne",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "person:natalie-a-sims",
+"t": "person",
+"n": "Natalie A. Sims",
+"sub": "The University of Melbourne",
+"url": "https://orcid.org/0000-0003-1421-8468",
+"c": "AU"
+},
+{
+"k": "org:university-of-melbourne",
+"t": "funder",
+"n": "University of Melbourne",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:australian-research-council",
+"t": "funder",
+"n": "Australian Research Council",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-39337587",
 "t": "paper",
 "n": "Regulation of Skeletal Development and Maintenance by Runx2 and Sp7",
@@ -3216,62 +3272,6 @@
 "c": "NL"
 },
 {
-"k": "paper:pmid-38315213",
-"t": "paper",
-"n": "Preclinical Rodent Models for Human Bone Disease, Including a Focus on Cortical Bone",
-"sub": "Endocrine Reviews 2024 · cited 68",
-"url": "https://pubmed.ncbi.nlm.nih.gov/38315213",
-"c": ""
-},
-{
-"k": "person:natalie-y-y-koh",
-"t": "person",
-"n": "Natalie Y Y Koh",
-"sub": "The University of Melbourne",
-"url": "https://orcid.org/0009-0007-6339-2207",
-"c": "AU"
-},
-{
-"k": "org:the-university-of-melbourne",
-"t": "academic",
-"n": "The University of Melbourne",
-"sub": "",
-"url": "",
-"c": "AU"
-},
-{
-"k": "org:st-vincent-s-hospital-melbourne",
-"t": "hospital",
-"n": "St Vincent's Hospital Melbourne",
-"sub": "",
-"url": "",
-"c": "AU"
-},
-{
-"k": "person:natalie-a-sims",
-"t": "person",
-"n": "Natalie A. Sims",
-"sub": "The University of Melbourne",
-"url": "https://orcid.org/0000-0003-1421-8468",
-"c": "AU"
-},
-{
-"k": "org:university-of-melbourne",
-"t": "funder",
-"n": "University of Melbourne",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:australian-research-council",
-"t": "funder",
-"n": "Australian Research Council",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-35575034",
 "t": "paper",
 "n": "Dissecting the phenotypic variability of osteogenesis imperfecta",
@@ -3315,6 +3315,70 @@
 "k": "org:ministero-dellistruzione-delluniversita-e-della-ricerca",
 "t": "funder",
 "n": "Ministero dell’Istruzione, dell’Università e della Ricerca",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-35005101",
+"t": "paper",
+"n": "Bone hydration: How we can evaluate it, what can it tell us, and is it an effective therap",
+"sub": "Bone Reports 2021 · cited 63",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35005101",
+"c": ""
+},
+{
+"k": "person:rachel-kathleen-surowiec",
+"t": "person",
+"n": "Rachel Kathleen Surowiec",
+"sub": "Indiana University School of Medicine",
+"url": "https://orcid.org/0000-0001-7614-4412",
+"c": "US"
+},
+{
+"k": "org:indiana-university-school-of-medicine",
+"t": "academic",
+"n": "Indiana University School of Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:indiana-university-purdue-university-indianapolis",
+"t": "academic",
+"n": "Indiana University – Purdue University Indianapolis",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:joseph-michael-wallace",
+"t": "person",
+"n": "Joseph Michael Wallace",
+"sub": "Indiana University – Purdue University Indianapolis",
+"url": "https://orcid.org/0000-0001-6077-8058",
+"c": "US"
+},
+{
+"k": "org:national-science-foundation",
+"t": "funder",
+"n": "National Science Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:u-s-department-of-veterans-affairs",
+"t": "funder",
+"n": "U.S. Department of Veterans Affairs",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:biomedical-laboratory-research-and-development-va-office-of",
+"t": "funder",
+"n": "Biomedical Laboratory Research and Development, VA Office of Research and Development",
 "sub": "",
 "url": "",
 "c": ""
@@ -3387,70 +3451,6 @@
 "k": "org:akademie-ved-ceske-republiky",
 "t": "funder",
 "n": "Akademie Věd České Republiky",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-35005101",
-"t": "paper",
-"n": "Bone hydration: How we can evaluate it, what can it tell us, and is it an effective therap",
-"sub": "Bone Reports 2021 · cited 62",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35005101",
-"c": ""
-},
-{
-"k": "person:rachel-kathleen-surowiec",
-"t": "person",
-"n": "Rachel Kathleen Surowiec",
-"sub": "Indiana University School of Medicine",
-"url": "https://orcid.org/0000-0001-7614-4412",
-"c": "US"
-},
-{
-"k": "org:indiana-university-school-of-medicine",
-"t": "academic",
-"n": "Indiana University School of Medicine",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:indiana-university-purdue-university-indianapolis",
-"t": "academic",
-"n": "Indiana University – Purdue University Indianapolis",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:joseph-michael-wallace",
-"t": "person",
-"n": "Joseph Michael Wallace",
-"sub": "Indiana University – Purdue University Indianapolis",
-"url": "https://orcid.org/0000-0001-6077-8058",
-"c": "US"
-},
-{
-"k": "org:national-science-foundation",
-"t": "funder",
-"n": "National Science Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:u-s-department-of-veterans-affairs",
-"t": "funder",
-"n": "U.S. Department of Veterans Affairs",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:biomedical-laboratory-research-and-development-va-office-of",
-"t": "funder",
-"n": "Biomedical Laboratory Research and Development, VA Office of Research and Development",
 "sub": "",
 "url": "",
 "c": ""
@@ -3608,6 +3608,54 @@
 "c": "GB"
 },
 {
+"k": "paper:pmid-33463067",
+"t": "paper",
+"n": "Reiterative infusions of MSCs improve pediatric osteogenesis imperfecta eliciting a pro‐os",
+"sub": "Clinical and Translational Medicine 2021 · cited 55",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33463067",
+"c": ""
+},
+{
+"k": "person:arantza-infante",
+"t": "person",
+"n": "Arantza Infante",
+"sub": "BioCruces Health research Institute",
+"url": "https://orcid.org/0000-0002-1625-2865",
+"c": "ES"
+},
+{
+"k": "org:biocruces-health-research-institute",
+"t": "foundation",
+"n": "BioCruces Health research Institute",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "org:hospital-de-cruces",
+"t": "hospital",
+"n": "Hospital de Cruces",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "person:clara-i-rodriguez",
+"t": "person",
+"n": "Clara I. Rodríguez",
+"sub": "BioCruces Health research Institute",
+"url": "https://orcid.org/0000-0002-6749-6288",
+"c": "ES"
+},
+{
+"k": "org:instituto-de-salud-carlos-iii",
+"t": "funder",
+"n": "Instituto de Salud Carlos III",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-36209938",
 "t": "paper",
 "n": "Should we offer prenatal exome sequencing for intrauterine growth restriction or short lon",
@@ -3667,54 +3715,6 @@
 "k": "org:irving-medical-center-columbia-university",
 "t": "funder",
 "n": "Irving Medical Center, Columbia University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-33463067",
-"t": "paper",
-"n": "Reiterative infusions of MSCs improve pediatric osteogenesis imperfecta eliciting a pro‐os",
-"sub": "Clinical and Translational Medicine 2021 · cited 54",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33463067",
-"c": ""
-},
-{
-"k": "person:arantza-infante",
-"t": "person",
-"n": "Arantza Infante",
-"sub": "BioCruces Health research Institute",
-"url": "https://orcid.org/0000-0002-1625-2865",
-"c": "ES"
-},
-{
-"k": "org:biocruces-health-research-institute",
-"t": "foundation",
-"n": "BioCruces Health research Institute",
-"sub": "",
-"url": "",
-"c": "ES"
-},
-{
-"k": "org:hospital-de-cruces",
-"t": "hospital",
-"n": "Hospital de Cruces",
-"sub": "",
-"url": "",
-"c": "ES"
-},
-{
-"k": "person:clara-i-rodriguez",
-"t": "person",
-"n": "Clara I. Rodríguez",
-"sub": "BioCruces Health research Institute",
-"url": "https://orcid.org/0000-0002-6749-6288",
-"c": "ES"
-},
-{
-"k": "org:instituto-de-salud-carlos-iii",
-"t": "funder",
-"n": "Instituto de Salud Carlos III",
 "sub": "",
 "url": "",
 "c": ""
@@ -3837,19 +3837,19 @@
 "r": "funded"
 },
 {
-"a": "org:akademie-ved-ceske-republiky",
-"b": "paper:pmid-33882302",
-"r": "funded"
-},
-{
-"a": "org:alexander-hawkins",
+"a": "org:aimal-khan",
 "b": "drug:rhpdgf-bb",
 "r": "develops"
 },
 {
-"a": "org:alexander-hawkins",
+"a": "org:aimal-khan",
 "b": "trial:nct06632418",
 "r": "sponsors"
+},
+{
+"a": "org:akademie-ved-ceske-republiky",
+"b": "paper:pmid-33882302",
+"r": "funded"
 },
 {
 "a": "org:alexion-pharmaceuticals",

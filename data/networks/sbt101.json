@@ -1,6 +1,6 @@
 {
 "assetId": "sbt101",
-"updated": "2026-11-12",
+"updated": "2026-11-13",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 8,
@@ -240,11 +240,11 @@
 "c": ""
 },
 {
-"k": "trial:nct05146284",
+"k": "trial:nct05200104",
 "t": "trial",
-"n": "Study to Assess PXL770 in Subjects With Adrenomyeloneuropathy (AMN) Form of X-linked Adren",
+"n": "Study to Assess PXL065 in Subjects With Adrenomyeloneuropathy (AMN) Form of X-linked Adren",
 "sub": "P2 · withdrawn · 2023-2024",
-"url": "https://clinicaltrials.gov/study/NCT05146284",
+"url": "https://clinicaltrials.gov/study/NCT05200104",
 "c": ""
 },
 {
@@ -256,25 +256,25 @@
 "c": ""
 },
 {
-"k": "drug:pxl770",
+"k": "drug:pxl065",
 "t": "drug",
-"n": "PXL770",
+"n": "PXL065",
 "sub": "Poxel SA",
 "url": "",
 "c": ""
 },
 {
-"k": "trial:nct05200104",
+"k": "trial:nct05146284",
 "t": "trial",
-"n": "Study to Assess PXL065 in Subjects With Adrenomyeloneuropathy (AMN) Form of X-linked Adren",
+"n": "Study to Assess PXL770 in Subjects With Adrenomyeloneuropathy (AMN) Form of X-linked Adren",
 "sub": "P2 · withdrawn · 2023-2024",
-"url": "https://clinicaltrials.gov/study/NCT05200104",
+"url": "https://clinicaltrials.gov/study/NCT05146284",
 "c": ""
 },
 {
-"k": "drug:pxl065",
+"k": "drug:pxl770",
 "t": "drug",
-"n": "PXL065",
+"n": "PXL770",
 "sub": "Poxel SA",
 "url": "",
 "c": ""
@@ -744,6 +744,46 @@
 "c": ""
 },
 {
+"k": "paper:pmid-38034003",
+"t": "paper",
+"n": "X-linked adrenoleukodystrophy and primary adrenal insufficiency",
+"sub": "Frontiers in Endocrinology 2023 · cited 35",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38034003",
+"c": ""
+},
+{
+"k": "person:marco-cappa",
+"t": "person",
+"n": "Marco Cappa",
+"sub": "Bambino Gesù Children's Hospital",
+"url": "https://orcid.org/0000-0001-5647-7519",
+"c": "IT"
+},
+{
+"k": "org:bambino-gesu-children-s-hospital",
+"t": "hospital",
+"n": "Bambino Gesù Children's Hospital",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:istituti-di-ricovero-e-cura-a-carattere-scientifico",
+"t": "hospital",
+"n": "Istituti di Ricovero e Cura a Carattere Scientifico",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:carla-bizzarri",
+"t": "person",
+"n": "Carla Bizzarri",
+"sub": "Bambino Gesù Children's Hospital",
+"url": "https://orcid.org/0000-0002-5616-9185",
+"c": "IT"
+},
+{
 "k": "paper:pmid-37683329",
 "t": "paper",
 "n": "Biomarker-based risk prediction for the onset of neuroinflammation in X-linked adrenoleuko",
@@ -779,7 +819,7 @@
 "k": "paper:pmid-36698902",
 "t": "paper",
 "n": "Newborn screening for X-linked adrenoleukodystrophy in Italy: Diagnostic algorithm and dis",
-"sub": "Frontiers in Neurology 2023 · cited 32",
+"sub": "Frontiers in Neurology 2023 · cited 33",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36698902",
 "c": ""
 },
@@ -822,46 +862,6 @@
 "sub": "",
 "url": "",
 "c": ""
-},
-{
-"k": "paper:pmid-38034003",
-"t": "paper",
-"n": "X-linked adrenoleukodystrophy and primary adrenal insufficiency",
-"sub": "Frontiers in Endocrinology 2023 · cited 32",
-"url": "https://pubmed.ncbi.nlm.nih.gov/38034003",
-"c": ""
-},
-{
-"k": "person:marco-cappa",
-"t": "person",
-"n": "Marco Cappa",
-"sub": "Bambino Gesù Children's Hospital",
-"url": "https://orcid.org/0000-0001-5647-7519",
-"c": "IT"
-},
-{
-"k": "org:bambino-gesu-children-s-hospital",
-"t": "hospital",
-"n": "Bambino Gesù Children's Hospital",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "org:istituti-di-ricovero-e-cura-a-carattere-scientifico",
-"t": "hospital",
-"n": "Istituti di Ricovero e Cura a Carattere Scientifico",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "person:carla-bizzarri",
-"t": "person",
-"n": "Carla Bizzarri",
-"sub": "Bambino Gesù Children's Hospital",
-"url": "https://orcid.org/0000-0002-5616-9185",
-"c": "IT"
 },
 {
 "k": "paper:pmid-34560537",
@@ -907,6 +907,62 @@
 "k": "org:health-and-medical-research-fund",
 "t": "funder",
 "n": "Health and Medical Research Fund",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36046390",
+"t": "paper",
+"n": "High Incidence of Null Variants Identified from Newborn Screening of X-Linked Adrenoleukod",
+"sub": "Molecular Genetics and Metabolism Reports 2022 · cited 30",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36046390",
+"c": ""
+},
+{
+"k": "person:huian-chen",
+"t": "person",
+"n": "Hui‐An Chen",
+"sub": "National Taiwan University Hospital",
+"url": "https://orcid.org/0000-0003-3786-9191",
+"c": "TW"
+},
+{
+"k": "org:national-taiwan-university-hospital",
+"t": "hospital",
+"n": "National Taiwan University Hospital",
+"sub": "",
+"url": "",
+"c": "TW"
+},
+{
+"k": "org:kaohsiung-veterans-general-hospital",
+"t": "hospital",
+"n": "Kaohsiung Veterans General Hospital",
+"sub": "",
+"url": "",
+"c": "TW"
+},
+{
+"k": "person:yinhsiu-chien",
+"t": "person",
+"n": "Yin‐Hsiu Chien",
+"sub": "National Taiwan University Hospital",
+"url": "https://orcid.org/0000-0001-8802-5728",
+"c": "TW"
+},
+{
+"k": "org:ministry-of-health-and-welfare",
+"t": "funder",
+"n": "Ministry of Health and Welfare",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:health-promotion-administration-ministry-of-health-and-welfa",
+"t": "funder",
+"n": "Health Promotion Administration, Ministry of Health and Welfare",
 "sub": "",
 "url": "",
 "c": ""
@@ -971,62 +1027,6 @@
 "k": "org:european-regional-development-fund",
 "t": "funder",
 "n": "European Regional Development Fund",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-36046390",
-"t": "paper",
-"n": "High Incidence of Null Variants Identified from Newborn Screening of X-Linked Adrenoleukod",
-"sub": "Molecular Genetics and Metabolism Reports 2022 · cited 26",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36046390",
-"c": ""
-},
-{
-"k": "person:huian-chen",
-"t": "person",
-"n": "Hui‐An Chen",
-"sub": "National Taiwan University Hospital",
-"url": "https://orcid.org/0000-0003-3786-9191",
-"c": "TW"
-},
-{
-"k": "org:national-taiwan-university-hospital",
-"t": "hospital",
-"n": "National Taiwan University Hospital",
-"sub": "",
-"url": "",
-"c": "TW"
-},
-{
-"k": "org:kaohsiung-veterans-general-hospital",
-"t": "hospital",
-"n": "Kaohsiung Veterans General Hospital",
-"sub": "",
-"url": "",
-"c": "TW"
-},
-{
-"k": "person:yinhsiu-chien",
-"t": "person",
-"n": "Yin‐Hsiu Chien",
-"sub": "National Taiwan University Hospital",
-"url": "https://orcid.org/0000-0001-8802-5728",
-"c": "TW"
-},
-{
-"k": "org:ministry-of-health-and-welfare",
-"t": "funder",
-"n": "Ministry of Health and Welfare",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:health-promotion-administration-ministry-of-health-and-welfa",
-"t": "funder",
-"n": "Health Promotion Administration, Ministry of Health and Welfare",
 "sub": "",
 "url": "",
 "c": ""
@@ -1107,7 +1107,7 @@
 "k": "paper:pmid-34105176",
 "t": "paper",
 "n": "Cognitive Functions in Adult‐Onset Phenotypes of X‐Linked Adrenoleukodystrophy",
-"sub": "Annals of Neurology 2021 · cited 17",
+"sub": "Annals of Neurology 2021 · cited 19",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34105176",
 "c": ""
 },
@@ -1331,7 +1331,7 @@
 "k": "paper:pmid-36207570",
 "t": "paper",
 "n": "Targeted Brain Delivery of Dendrimer-4-Phenylbutyrate Ameliorates Neurological Deficits in",
-"sub": "Neurotherapeutics 2022 · cited 11",
+"sub": "Neurotherapeutics 2022 · cited 12",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36207570",
 "c": ""
 },
