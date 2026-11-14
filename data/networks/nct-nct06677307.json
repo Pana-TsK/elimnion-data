@@ -1,6 +1,6 @@
 {
 "assetId": "nct-nct06677307",
-"updated": "2026-11-13",
+"updated": "2026-11-14",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 28
@@ -61,6 +61,62 @@
 "sub": "",
 "url": "",
 "c": "New Zealand"
+},
+{
+"k": "trial:nct07850076",
+"t": "trial",
+"n": "A Trial Evaluating the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Effic",
+"sub": "P1/P2 · recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07850076",
+"c": ""
+},
+{
+"k": "org:crispr-therapeutics",
+"t": "company",
+"n": "CRISPR Therapeutics",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ctx460",
+"t": "drug",
+"n": "CTX460",
+"sub": "CRISPR Therapeutics",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07227207",
+"t": "trial",
+"n": "A Study of TSRA-196 in Adults With PiZZ Alpha-1 Antitrypsin Deficiency (AATD)",
+"sub": "P1/P2 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07227207",
+"c": ""
+},
+{
+"k": "org:tessera-therapeutics",
+"t": "company",
+"n": "Tessera Therapeutics, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:clinical-study-center",
+"t": "hospital",
+"n": "Clinical Study Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:tsra-196",
+"t": "drug",
+"n": "TSRA-196",
+"sub": "Tessera Therapeutics, Inc.",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct06165341",
@@ -163,38 +219,6 @@
 "t": "drug",
 "n": "Fazirsiran",
 "sub": "Takeda",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07227207",
-"t": "trial",
-"n": "A Study of TSRA-196 in Adults With PiZZ Alpha-1 Antitrypsin Deficiency (AATD)",
-"sub": "P1/P2 · recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07227207",
-"c": ""
-},
-{
-"k": "org:tessera-therapeutics",
-"t": "company",
-"n": "Tessera Therapeutics, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:clinical-study-center",
-"t": "hospital",
-"n": "Clinical Study Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:tsra-196",
-"t": "drug",
-"n": "TSRA-196",
-"sub": "Tessera Therapeutics, Inc.",
 "url": "",
 "c": ""
 },
@@ -459,30 +483,6 @@
 "t": "drug",
 "n": "BEAM-302",
 "sub": "Beam Therapeutics Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07850076",
-"t": "trial",
-"n": "A Trial Evaluating the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Effic",
-"sub": "P1/P2 · not_yet_recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07850076",
-"c": ""
-},
-{
-"k": "org:crispr-therapeutics",
-"t": "company",
-"n": "CRISPR Therapeutics",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:ctx460",
-"t": "drug",
-"n": "CTX460",
-"sub": "CRISPR Therapeutics",
 "url": "",
 "c": ""
 },
@@ -2508,6 +2508,11 @@
 {
 "a": "org:st-vincent-s-hospital-melbourne",
 "b": "trial:nct06677307",
+"r": "site_of"
+},
+{
+"a": "org:st-vincent-s-hospital-melbourne",
+"b": "trial:nct07850076",
 "r": "site_of"
 },
 {
