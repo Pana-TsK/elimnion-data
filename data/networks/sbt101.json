@@ -1,10 +1,10 @@
 {
 "assetId": "sbt101",
-"updated": "2026-11-15",
+"updated": "2026-11-16",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 8,
-"papers": 43
+"papers": 44
 },
 "nodes": [
 {
@@ -512,10 +512,42 @@
 "c": ""
 },
 {
+"k": "paper:doi-10-1097-01-ccm-0000910016-91215-63",
+"t": "paper",
+"n": "1072: IMPLEMENTATION OF AN SBT PROTOCOL TO REDUCE UNPLANNED EXTUBATIONS AND MECHANICAL VEN",
+"sub": "Critical Care Medicine 2022 · cited 0",
+"url": "https://doi.org/10.1097/01.ccm.0000910016.91215.63",
+"c": ""
+},
+{
+"k": "person:johhny-phillips",
+"t": "person",
+"n": "Johhny Phillips",
+"sub": "Medical University of South Carolina",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:medical-university-of-south-carolina",
+"t": "academic",
+"n": "Medical University of South Carolina",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:alice-a-walz",
+"t": "person",
+"n": "Alice A. Walz",
+"sub": "Medical University of South Carolina",
+"url": "https://orcid.org/0000-0003-2182-6867",
+"c": "US"
+},
+{
 "k": "paper:pmid-33900394",
 "t": "paper",
 "n": "Positive Predictive Value of Myelin Oligodendrocyte Glycoprotein Autoantibody Testing",
-"sub": "JAMA Neurology 2021 · cited 249",
+"sub": "JAMA Neurology 2021 · cited 253",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33900394",
 "c": ""
 },
@@ -563,7 +595,7 @@
 "k": "paper:pmid-33753741",
 "t": "paper",
 "n": "Neurofilament light chain as a potential biomarker for monitoring neurodegeneration in X-l",
-"sub": "Nature Communications 2021 · cited 70",
+"sub": "Nature Communications 2021 · cited 71",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33753741",
 "c": ""
 },
@@ -1064,34 +1096,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-34105176",
-"t": "paper",
-"n": "Cognitive Functions in Adult‐Onset Phenotypes of X‐Linked Adrenoleukodystrophy",
-"sub": "Annals of Neurology 2021 · cited 19",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34105176",
-"c": ""
-},
-{
-"k": "person:lisa-schafer",
-"t": "person",
-"n": "Lisa Schäfer",
-"sub": "University Hospital Leipzig",
-"url": "https://orcid.org/0000-0002-9714-9682",
-"c": "DE"
-},
-{
-"k": "org:bundesministerium-fur-bildung-und-forschung",
-"t": "funder",
-"n": "Bundesministerium für Bildung und Forschung",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-35983253",
 "t": "paper",
 "n": "ABCD1 Gene Mutations: Mechanisms and Management of Adrenomyeloneuropathy",
-"sub": "The Application of Clinical Genetics 2022 · cited 19",
+"sub": "The Application of Clinical Genetics 2022 · cited 20",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35983253",
 "c": ""
 },
@@ -1118,6 +1126,30 @@
 "sub": "University of Miami",
 "url": "https://orcid.org/0000-0003-4033-266X",
 "c": "US"
+},
+{
+"k": "paper:pmid-34105176",
+"t": "paper",
+"n": "Cognitive Functions in Adult‐Onset Phenotypes of X‐Linked Adrenoleukodystrophy",
+"sub": "Annals of Neurology 2021 · cited 19",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34105176",
+"c": ""
+},
+{
+"k": "person:lisa-schafer",
+"t": "person",
+"n": "Lisa Schäfer",
+"sub": "University Hospital Leipzig",
+"url": "https://orcid.org/0000-0002-9714-9682",
+"c": "DE"
+},
+{
+"k": "org:bundesministerium-fur-bildung-und-forschung",
+"t": "funder",
+"n": "Bundesministerium für Bildung und Forschung",
+"sub": "",
+"url": "",
+"c": ""
 },
 {
 "k": "paper:pmid-35510808",
@@ -2746,6 +2778,11 @@
 "r": "funded"
 },
 {
+"a": "paper:doi-10-1097-01-ccm-0000910016-91215-63",
+"b": "asset:sbt101",
+"r": "cites_asset"
+},
+{
 "a": "paper:doi-10-1212-wnl-98-18-supplement-1714",
 "b": "asset:sbt101",
 "r": "cites_asset"
@@ -2793,6 +2830,16 @@
 {
 "a": "person:ali-s-fatemi",
 "b": "paper:pmid-36207570",
+"r": "authored"
+},
+{
+"a": "person:alice-a-walz",
+"b": "org:medical-university-of-south-carolina",
+"r": "affiliated"
+},
+{
+"a": "person:alice-a-walz",
+"b": "paper:doi-10-1097-01-ccm-0000910016-91215-63",
 "r": "authored"
 },
 {
@@ -3188,6 +3235,16 @@
 {
 "a": "person:johannes-berger",
 "b": "paper:pmid-37683329",
+"r": "authored"
+},
+{
+"a": "person:johhny-phillips",
+"b": "org:medical-university-of-south-carolina",
+"r": "affiliated"
+},
+{
+"a": "person:johhny-phillips",
+"b": "paper:doi-10-1097-01-ccm-0000910016-91215-63",
 "r": "authored"
 },
 {
