@@ -1,10 +1,10 @@
 {
 "assetId": "anxv",
-"updated": "2026-11-16",
+"updated": "2026-11-17",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 69,
-"papers": 71
+"papers": 96
 },
 "nodes": [
 {
@@ -16,11 +16,11 @@
 "c": ""
 },
 {
-"k": "trial:nct05532735",
+"k": "trial:nct04850339",
 "t": "trial",
-"n": "Safety and Proof of Concept Study of ANXV (Annexin A5) in Patients With Retinal Vein Occlu",
-"sub": "P2 · completed · 2022-2024",
-"url": "https://clinicaltrials.gov/study/NCT05532735",
+"n": "First in Human Study of ANXV (Recombinant Human Annexin A5) in Healthy Volunteers",
+"sub": "P1 · completed · 2020-2021",
+"url": "https://clinicaltrials.gov/study/NCT04850339",
 "c": ""
 },
 {
@@ -40,6 +40,22 @@
 "c": ""
 },
 {
+"k": "trial:nct07259928",
+"t": "trial",
+"n": "Safety and Proof of Concept Study of ANXV (Annexin A5) in Patients With Diabetic Retinopat",
+"sub": "P2 · recruiting · 2025-2026",
+"url": "https://clinicaltrials.gov/study/NCT07259928",
+"c": ""
+},
+{
+"k": "trial:nct05532735",
+"t": "trial",
+"n": "Safety and Proof of Concept Study of ANXV (Annexin A5) in Patients With Retinal Vein Occlu",
+"sub": "P2 · completed · 2022-2024",
+"url": "https://clinicaltrials.gov/study/NCT05532735",
+"c": ""
+},
+{
 "k": "org:cumberland-valley-retina-consultants",
 "t": "company",
 "n": "Cumberland Valley Retina Consultants",
@@ -54,22 +70,6 @@
 "sub": "",
 "url": "",
 "c": "United States"
-},
-{
-"k": "trial:nct07259928",
-"t": "trial",
-"n": "Safety and Proof of Concept Study of ANXV (Annexin A5) in Patients With Diabetic Retinopat",
-"sub": "P2 · recruiting · 2025-2026",
-"url": "https://clinicaltrials.gov/study/NCT07259928",
-"c": ""
-},
-{
-"k": "trial:nct04850339",
-"t": "trial",
-"n": "First in Human Study of ANXV (Recombinant Human Annexin A5) in Healthy Volunteers",
-"sub": "P1 · completed · 2020-2021",
-"url": "https://clinicaltrials.gov/study/NCT04850339",
-"c": ""
 },
 {
 "k": "trial:nct07205887",
@@ -432,6 +432,30 @@
 "c": ""
 },
 {
+"k": "trial:nct04667897",
+"t": "trial",
+"n": "601 Versus Ranibizumab in Patients With Branch Retinal Vein Occlusion (BRVO)",
+"sub": "P2 · completed · 2021-2022",
+"url": "https://clinicaltrials.gov/study/NCT04667897",
+"c": ""
+},
+{
+"k": "person:hong-dai-bachelor",
+"t": "person",
+"n": "Hong Dai, Bachelor",
+"sub": "principal investigator · Beijing Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:ranibizuman",
+"t": "drug",
+"n": "Ranibizuman",
+"sub": "Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct04667910",
 "t": "trial",
 "n": "601 Versus Ranibizumab in Patients With Central Retinal Vein Occlusion (CRVO)",
@@ -452,30 +476,6 @@
 "t": "person",
 "n": "Xiao rong Li",
 "sub": "principal investigator · TianJing Medical University Eye Hospital",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:ranibizuman",
-"t": "drug",
-"n": "Ranibizuman",
-"sub": "Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct04667897",
-"t": "trial",
-"n": "601 Versus Ranibizumab in Patients With Branch Retinal Vein Occlusion (BRVO)",
-"sub": "P2 · completed · 2021-2022",
-"url": "https://clinicaltrials.gov/study/NCT04667897",
-"c": ""
-},
-{
-"k": "person:hong-dai-bachelor",
-"t": "person",
-"n": "Hong Dai, Bachelor",
-"sub": "principal investigator · Beijing Hospital",
 "url": "",
 "c": ""
 },
@@ -557,15 +557,15 @@
 "n": "University of California, Davis",
 "sub": "",
 "url": "",
-"c": ""
+"c": "US"
 },
 {
 "k": "person:susanna-s-park",
 "t": "person",
 "n": "Susanna S Park",
 "sub": "principal investigator · University of California, Davis",
-"url": "",
-"c": ""
+"url": "https://orcid.org/0000-0001-5911-6671",
+"c": "US"
 },
 {
 "k": "drug:autologous-bone-marrow-cd34-stem-cells",
@@ -1104,25 +1104,25 @@
 "c": ""
 },
 {
-"k": "trial:nct06321302",
+"k": "trial:nct04567550",
 "t": "trial",
-"n": "A Study to Test Whether BI 764524 Helps People With an Eye Condition Called Diabetic Retin",
-"sub": "P2 · recruiting · 2024-2027",
-"url": "https://clinicaltrials.gov/study/NCT06321302",
+"n": "RGX-314 Gene Therapy Administered in the Suprachoroidal Space for Participants With Diabet",
+"sub": "P2 · completed · 2020-2026",
+"url": "https://clinicaltrials.gov/study/NCT04567550",
 "c": ""
 },
 {
-"k": "org:boehringer-ingelheim",
+"k": "org:regenxbio",
 "t": "company",
-"n": "Boehringer Ingelheim",
+"n": "REGENXBIO Inc.",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:associated-retina-consultants",
+"k": "org:california-retina-consultants",
 "t": "company",
-"n": "Associated Retina Consultants, Ltd.",
+"n": "California Retina Consultants",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -1136,34 +1136,34 @@
 "c": "United States"
 },
 {
-"k": "org:retina-associates-of-southern-california",
+"k": "org:northern-california-retina-vitreous-associates-medical-group",
 "t": "company",
-"n": "Retina Associates of Southern California",
+"n": "Northern California Retina Vitreous Associates Medical Group, Inc.",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "drug:bi-764524",
+"k": "org:southeast-retina-center-pc",
+"t": "company",
+"n": "Southeast Retina Center, PC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:abbv-rgx-314",
 "t": "drug",
-"n": "BI 764524",
-"sub": "Boehringer Ingelheim",
+"n": "ABBV-RGX-314",
+"sub": "AbbVie",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:sham-comparator-to-bi-764524",
+"k": "drug:topical-steroid",
 "t": "drug",
-"n": "Sham comparator to BI 764524",
-"sub": "Boehringer Ingelheim",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:aflibercept-us-only",
-"t": "drug",
-"n": "Aflibercept - US only",
-"sub": "Boehringer Ingelheim",
+"n": "Topical Steroid",
+"sub": "AbbVie",
 "url": "",
 "c": ""
 },
@@ -1208,6 +1208,22 @@
 "c": ""
 },
 {
+"k": "org:boehringer-ingelheim",
+"t": "company",
+"n": "Boehringer Ingelheim",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:retina-associates-of-southern-california",
+"t": "company",
+"n": "Retina Associates of Southern California",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "org:west-coast-retina-medical-group",
 "t": "company",
 "n": "West Coast Retina Medical Group, Inc.",
@@ -1224,44 +1240,52 @@
 "c": ""
 },
 {
+"k": "trial:nct06321302",
+"t": "trial",
+"n": "A Study to Test Whether BI 764524 Helps People With an Eye Condition Called Diabetic Retin",
+"sub": "P2 · recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06321302",
+"c": ""
+},
+{
+"k": "org:associated-retina-consultants",
+"t": "company",
+"n": "Associated Retina Consultants, Ltd.",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:bi-764524",
+"t": "drug",
+"n": "BI 764524",
+"sub": "Boehringer Ingelheim",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:sham-comparator-to-bi-764524",
+"t": "drug",
+"n": "Sham comparator to BI 764524",
+"sub": "Boehringer Ingelheim",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:aflibercept-us-only",
+"t": "drug",
+"n": "Aflibercept - US only",
+"sub": "Boehringer Ingelheim",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct05296447",
 "t": "trial",
 "n": "Long-Term Follow-Up Study of RGX-314 Administered in the Suprachoroidal Space for Particip",
 "sub": "P2 · active_not_recruiting · 2022-2031",
 "url": "https://clinicaltrials.gov/study/NCT05296447",
 "c": ""
-},
-{
-"k": "org:regenxbio",
-"t": "company",
-"n": "REGENXBIO Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:california-retina-consultants",
-"t": "company",
-"n": "California Retina Consultants",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:northern-california-retina-vitreous-associates-medical-group",
-"t": "company",
-"n": "Northern California Retina Vitreous Associates Medical Group Inc",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:southeast-retina-center-pc",
-"t": "company",
-"n": "Southeast Retina Center, PC",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "trial:nct07917338",
@@ -1363,14 +1387,6 @@
 "k": "drug:surabgene-lomparvovec",
 "t": "drug",
 "n": "Surabgene Lomparvovec",
-"sub": "AbbVie",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:topical-steroid",
-"t": "drug",
-"n": "Topical Steroid",
 "sub": "AbbVie",
 "url": "",
 "c": ""
@@ -1536,14 +1552,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07841899",
-"t": "trial",
-"n": "Phase 3 Study of Intravitreal OLN324 in Adults With Diabetic Macular Edema (DME) (OLN324-C",
-"sub": "P3 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07841899",
-"c": ""
-},
-{
 "k": "trial:nct06305416",
 "t": "trial",
 "n": "A Efficacy and Safety Study of Ranibizumab 10mg/ml Injection (Incepta) in Patients With Di",
@@ -1565,6 +1573,14 @@
 "n": "Niaz Abdur Rahman",
 "sub": "principal investigator · Managing Director, Bangladesh Eye Hospital & Institute",
 "url": "",
+"c": ""
+},
+{
+"k": "trial:nct07841899",
+"t": "trial",
+"n": "Phase 3 Study of Intravitreal OLN324 in Adults With Diabetic Macular Edema (DME) (OLN324-C",
+"sub": "P3 · not_yet_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07841899",
 "c": ""
 },
 {
@@ -1692,22 +1708,6 @@
 "t": "drug",
 "n": "Aflibercept IVT",
 "sub": "4D Molecular Therapeutics",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct04567550",
-"t": "trial",
-"n": "RGX-314 Gene Therapy Administered in the Suprachoroidal Space for Participants With Diabet",
-"sub": "P2 · active_not_recruiting · 2020-2026",
-"url": "https://clinicaltrials.gov/study/NCT04567550",
-"c": ""
-},
-{
-"k": "drug:abbv-rgx-314",
-"t": "drug",
-"n": "ABBV-RGX-314",
-"sub": "AbbVie",
 "url": "",
 "c": ""
 },
@@ -1888,22 +1888,6 @@
 "c": ""
 },
 {
-"k": "org:charleston-neuroscience-institute",
-"t": "academic",
-"n": "Charleston Neuroscience Institute",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:palmetto-retina-center",
-"t": "company",
-"n": "Palmetto Retina Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "trial:nct07235085",
 "t": "trial",
 "n": "A Study to Evaluate the Efficacy and Safety of OTX-TKI (Axitinib Implant) in Participants ",
@@ -1960,28 +1944,12 @@
 "c": "US"
 },
 {
-"k": "org:morningside-center-for-innovative-and-affordable-medicine",
-"t": "company",
-"n": "Morningside Center for Innovative and Affordable Medicine",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "person:andrew-hendrick",
 "t": "person",
 "n": "Andrew Hendrick",
 "sub": "principal investigator · Emory University",
 "url": "",
 "c": ""
-},
-{
-"k": "org:atlanta-va-medical-center",
-"t": "hospital",
-"n": "Atlanta VA Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
 },
 {
 "k": "drug:levodopa",
@@ -2008,60 +1976,12 @@
 "c": ""
 },
 {
-"k": "org:ministry-of-agriculture-malaysia",
-"t": "company",
-"n": "Ministry of Agriculture, Malaysia",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:quest-international-university-malaysia",
-"t": "academic",
-"n": "Quest International University, Malaysia.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:advanced-medical-and-dental-institute-amdi-universiti-sains",
-"t": "academic",
-"n": "Advanced Medical and Dental Institute (AMDI), Universiti Sains Malaysia",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:universiti-sains-malaysia",
-"t": "academic",
-"n": "Universiti Sains Malaysia",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:quest-international-university",
-"t": "academic",
-"n": "Quest International University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "person:aman-shah-abdul-majid-ph-d",
 "t": "person",
 "n": "Aman Shah Abdul Majid, Ph.D",
 "sub": "principal investigator · Quest International University",
 "url": "",
 "c": ""
-},
-{
-"k": "org:fifepoint-multispeciality-hospital-pvt",
-"t": "hospital",
-"n": "Fifepoint Multispeciality Hospital Pvt. Ltd.",
-"sub": "",
-"url": "",
-"c": "India"
 },
 {
 "k": "drug:nuvastatic",
@@ -2104,46 +2024,6 @@
 "c": ""
 },
 {
-"k": "org:retina-vitreous-assoc-medical-group",
-"t": "company",
-"n": "Retina- Vitreous Assoc Medical Group",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:premiere-practice-management",
-"t": "company",
-"n": "Premiere Practice Management LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:lundquist-inst-biomed-at-harbor",
-"t": "company",
-"n": "Lundquist Inst BioMed at Harbor",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:miramar-eye-specialists",
-"t": "company",
-"n": "Miramar Eye Specialists",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:advanced-research",
-"t": "company",
-"n": "Advanced Research LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "trial:nct06813274",
 "t": "trial",
 "n": "Multicenter RCT of Eye-Brain Imaging in Diabetes Neurovascular Coupling",
@@ -2158,30 +2038,6 @@
 "sub": "",
 "url": "",
 "c": ""
-},
-{
-"k": "org:hospital-of-chengdu-university-of-traditional-chinese-medici",
-"t": "hospital",
-"n": "Hospital of Chengdu University of Traditional Chinese Medicine",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:deyang-hospital-affiliated-to-chengdu-university-of-traditio",
-"t": "hospital",
-"n": "Deyang Hospital Affiliated to Chengdu University of Traditional Chinese Medicine",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:guangyuan-north-sichuan-diabetes-specialty-hospital",
-"t": "hospital",
-"n": "Guangyuan North Sichuan Diabetes Specialty Hospital",
-"sub": "",
-"url": "",
-"c": "China"
 },
 {
 "k": "drug:hypoglycemic-treatment",
@@ -2240,54 +2096,6 @@
 "c": ""
 },
 {
-"k": "org:blue-ocean-clinical-research-west",
-"t": "hospital",
-"n": "Blue Ocean Clinical Research West",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-retina-and-macula-associates",
-"t": "academic",
-"n": "University Retina and Macula Associates",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retina-consultants-of-minnesota",
-"t": "company",
-"n": "Retina Consultants of Minnesota",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:valley-retina-institute-pa",
-"t": "academic",
-"n": "Valley Retina Institute, PA",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:retinal-consultants-of-texas-san-antonio",
-"t": "company",
-"n": "Retinal Consultants of Texas - San Antonio",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:emmanuelli-research-and-development-center",
-"t": "company",
-"n": "Emmanuelli Research and Development Center, LLC",
-"sub": "",
-"url": "",
-"c": "Puerto Rico"
-},
-{
 "k": "drug:oxu-001",
 "t": "drug",
 "n": "OXU-001",
@@ -2320,100 +2128,12 @@
 "c": ""
 },
 {
-"k": "org:shandong-university-of-traditional-chinese-medicine-affiliat",
-"t": "hospital",
-"n": "Shandong University of Traditional Chinese Medicine Affiliated Eye Hospital",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "person:hongsheng-bi",
 "t": "person",
 "n": "Hongsheng Bi",
 "sub": "principal investigator · Shandong University of Traditional Chinese Medicine Affiliated Ey",
 "url": "",
 "c": ""
-},
-{
-"k": "org:xuancheng-people-s-hospital",
-"t": "hospital",
-"n": "Xuancheng People's Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:beijing-chaoyang-hospital",
-"t": "hospital",
-"n": "Beijing Chaoyang Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:the-first-affiliated-hospital-of-guangzhou-university-of-chi",
-"t": "hospital",
-"n": "The First Affiliated Hospital of Guangzhou University of Chinese Medicine",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:shenzhen-eye-hospital",
-"t": "hospital",
-"n": "Shenzhen Eye Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:zhuhai-people-s-hospital",
-"t": "hospital",
-"n": "Zhuhai People's Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:the-first-affiliated-hospital-of-guizhou-university-of-tradi",
-"t": "hospital",
-"n": "The First Affiliated Hospital of Guizhou University of Traditional Chinese Medicine",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:guizhou-provincial-people-s-hospital",
-"t": "hospital",
-"n": "Guizhou Provincial People's Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:shijiazhuang-people-s-hospital",
-"t": "hospital",
-"n": "Shijiazhuang People's Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:kaifeng-central-hospital",
-"t": "hospital",
-"n": "Kaifeng Central Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "org:luoyang-third-people-s-hospital",
-"t": "hospital",
-"n": "Luoyang Third People's Hospital",
-"sub": "",
-"url": "",
-"c": "China"
 },
 {
 "k": "drug:tntl",
@@ -2464,10 +2184,770 @@
 "c": "SE"
 },
 {
+"k": "paper:pmid-34631658",
+"t": "paper",
+"n": "Design and Synthesis of New Quinoxaline Derivatives as Potential Histone Deacetylase Inhib",
+"sub": "Frontiers in Chemistry 2021 · cited 74",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34631658",
+"c": ""
+},
+{
+"k": "person:chao-ma",
+"t": "person",
+"n": "Chao Ma",
+"sub": "Zhengzhou University",
+"url": "https://orcid.org/0000-0002-7724-0630",
+"c": "CN"
+},
+{
+"k": "person:mohammed-s-taghour",
+"t": "person",
+"n": "Mohammed S. Taghour",
+"sub": "Al-Azhar University",
+"url": "https://orcid.org/0000-0003-0630-709X",
+"c": "EG"
+},
+{
+"k": "org:al-azhar-university",
+"t": "academic",
+"n": "Al-Azhar University",
+"sub": "",
+"url": "",
+"c": "EG"
+},
+{
+"k": "person:ahmed-b-m-mehany",
+"t": "person",
+"n": "Ahmed B. M. Mehany",
+"sub": "Al-Azhar University",
+"url": "https://orcid.org/0000-0002-9913-5380",
+"c": "EG"
+},
+{
+"k": "person:ahmed-ali-al-karmalawy",
+"t": "person",
+"n": "Ahmed Ali Al-Karmalawy",
+"sub": "Horus University – Egypt",
+"url": "https://orcid.org/0000-0002-8173-6073",
+"c": "EG"
+},
+{
+"k": "org:horus-university-egypt",
+"t": "academic",
+"n": "Horus University – Egypt",
+"sub": "",
+"url": "",
+"c": "EG"
+},
+{
+"k": "paper:pmid-31632688",
+"t": "paper",
+"n": "Efficient engulfment of necroptotic and pyroptotic cells by nonprofessional and profession",
+"sub": "Cell Discovery 2019 · cited 35",
+"url": "https://pubmed.ncbi.nlm.nih.gov/31632688",
+"c": ""
+},
+{
+"k": "person:jiongcong-lu",
+"t": "person",
+"n": "Jiongcong Lu",
+"sub": "Xiamen University",
+"url": "https://orcid.org/0009-0007-5693-7125",
+"c": "CN"
+},
+{
+"k": "org:xiamen-university",
+"t": "academic",
+"n": "Xiamen University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:jiahuai-han",
+"t": "person",
+"n": "Jiahuai Han",
+"sub": "Xiamen University",
+"url": "https://orcid.org/0000-0001-5592-4487",
+"c": "CN"
+},
+{
+"k": "org:national-natural-science-foundation-of-china",
+"t": "funder",
+"n": "National Natural Science Foundation of China",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-key-research-and-development-program-of-china",
+"t": "funder",
+"n": "National Key Research and Development Program of China",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-28579961",
+"t": "paper",
+"n": "Characterization of Annexin V Fusion with the Superfolder GFP in Liposomes Binding and Apo",
+"sub": "Frontiers in Physiology 2017 · cited 35",
+"url": "https://pubmed.ncbi.nlm.nih.gov/28579961",
+"c": ""
+},
+{
+"k": "person:abdul-qader-abbady",
+"t": "person",
+"n": "Abdul Qader Abbady",
+"sub": "Atomic Energy Commission of Syria",
+"url": "https://orcid.org/0000-0002-3898-5269",
+"c": "SY"
+},
+{
+"k": "org:atomic-energy-commission-of-syria",
+"t": "academic",
+"n": "Atomic Energy Commission of Syria",
+"sub": "",
+"url": "",
+"c": "SY"
+},
+{
+"k": "person:hossam-murad",
+"t": "person",
+"n": "Hossam Murad",
+"sub": "Atomic Energy Commission of Syria",
+"url": "https://orcid.org/0000-0003-2980-7759",
+"c": "SY"
+},
+{
+"k": "paper:pmid-35870569",
+"t": "paper",
+"n": "Nano-sponge-like liposomes remove cholesterol crystals for antiatherosclerosis",
+"sub": "Journal of Controlled Release 2022 · cited 34",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35870569",
+"c": ""
+},
+{
+"k": "person:fanglin-gong",
+"t": "person",
+"n": "Fanglin Gong",
+"sub": "China Pharmaceutical University",
+"url": "https://orcid.org/0009-0003-4776-9351",
+"c": "CN"
+},
+{
+"k": "org:china-pharmaceutical-university",
+"t": "academic",
+"n": "China Pharmaceutical University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:state-key-laboratory-of-natural-medicine",
+"t": "academic",
+"n": "State Key Laboratory of Natural Medicine",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:qing-zhang",
+"t": "person",
+"n": "Qing Zhang",
+"sub": "Nanjing Drum Tower Hospital",
+"url": "https://orcid.org/0000-0002-2173-6362",
+"c": "CN"
+},
+{
+"k": "person:mei-dong",
+"t": "person",
+"n": "Mei Dong",
+"sub": "Nanjing University of Chinese Medicine",
+"url": "https://orcid.org/0000-0002-3515-4662",
+"c": "CN"
+},
+{
+"k": "person:zhigui-su",
+"t": "person",
+"n": "Zhigui Su",
+"sub": "China Pharmaceutical University",
+"url": "https://orcid.org/0000-0002-9087-0418",
+"c": "CN"
+},
+{
+"k": "paper:doi-10-1016-j-sajb-2021-08-006",
+"t": "paper",
+"n": "Isolation of cytotoxic active compounds from Reichardia tingitana with investigation of ap",
+"sub": "South African Journal of Botany 2021 · cited 26",
+"url": "https://doi.org/10.1016/j.sajb.2021.08.006",
+"c": ""
+},
+{
+"k": "person:ahmed-a-zaki",
+"t": "person",
+"n": "Ahmed A. Zaki",
+"sub": "Mansoura University",
+"url": "https://orcid.org/0000-0001-5462-6971",
+"c": "EG"
+},
+{
+"k": "org:mansoura-university",
+"t": "academic",
+"n": "Mansoura University",
+"sub": "",
+"url": "",
+"c": "EG"
+},
+{
+"k": "person:ahmed-a-ashour",
+"t": "person",
+"n": "Ahmed A. Ashour",
+"sub": "Mansoura University",
+"url": "https://orcid.org/0000-0003-4081-0369",
+"c": "EG"
+},
+{
+"k": "paper:pmid-39411143",
+"t": "paper",
+"n": "Inhibition of ATM or ATR in combination with hypo-fractionated radiotherapy leads to a dif",
+"sub": "Frontiers in Oncology 2024 · cited 15",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39411143",
+"c": ""
+},
+{
+"k": "person:julia-meidenbauer",
+"t": "person",
+"n": "Julia Meidenbauer",
+"sub": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:friedrich-alexander-universitat-erlangen-nurnberg",
+"t": "academic",
+"n": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:universitatsklinikum-erlangen",
+"t": "hospital",
+"n": "Universitätsklinikum Erlangen",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "person:tina-jost",
+"t": "person",
+"n": "Tina Jost",
+"sub": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+"url": "https://orcid.org/0000-0001-8767-3774",
+"c": "DE"
+},
+{
+"k": "paper:pmid-34974077",
+"t": "paper",
+"n": "(−)-α-Bisabolol as a protective agent against epithelial renal cytotoxicity induced by amp",
+"sub": "Life Sciences 2021 · cited 8",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34974077",
+"c": ""
+},
+{
+"k": "person:emanuel-paula-magalhaes",
+"t": "person",
+"n": "Emanuel Paula Magalhães",
+"sub": "Universidade Federal do Ceará",
+"url": "https://orcid.org/0000-0002-8041-7935",
+"c": "BR"
+},
+{
+"k": "org:universidade-federal-do-ceara",
+"t": "academic",
+"n": "Universidade Federal do Ceará",
+"sub": "",
+"url": "",
+"c": "BR"
+},
+{
+"k": "person:alice-maria-costa-martins",
+"t": "person",
+"n": "Alice Maria Costa Martins",
+"sub": "Universidade Federal do Ceará",
+"url": "https://orcid.org/0000-0001-8160-2027",
+"c": "BR"
+},
+{
+"k": "paper:pmid-33604692",
+"t": "paper",
+"n": "Secretion of Recombinant Human Annexin V in Fusion with the Super Folder GFP for Labelling",
+"sub": "The Journal of Membrane Biology 2021 · cited 8",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33604692",
+"c": ""
+},
+{
+"k": "person:aya-twair",
+"t": "person",
+"n": "Aya Twair",
+"sub": "Atomic Energy Commission of Syria",
+"url": "https://orcid.org/0000-0002-6320-9755",
+"c": "SY"
+},
+{
+"k": "paper:pmid-40727082",
+"t": "paper",
+"n": "Collagen binding properties separate two functionally distinct subpopulations of milk extr",
+"sub": "Materials Today Bio 2025 · cited 7",
+"url": "https://pubmed.ncbi.nlm.nih.gov/40727082",
+"c": ""
+},
+{
+"k": "person:peng-wang",
+"t": "person",
+"n": "Peng Wang",
+"sub": "Radboud University Nijmegen",
+"url": "https://orcid.org/0000-0003-4972-1231",
+"c": "NL"
+},
+{
+"k": "org:radboud-university-nijmegen",
+"t": "academic",
+"n": "Radboud University Nijmegen",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "org:radboud-university-medical-center",
+"t": "hospital",
+"n": "Radboud University Medical Center",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "person:jeroen-j-j-p-van-den-beucken",
+"t": "person",
+"n": "Jeroen J.J.P. van den Beucken",
+"sub": "Radboud University Nijmegen",
+"url": "https://orcid.org/0000-0002-0301-1966",
+"c": "NL"
+},
+{
+"k": "person:fons-a-j-van-de-loo",
+"t": "person",
+"n": "Fons A. J. van de Loo",
+"sub": "Radboud University Nijmegen",
+"url": "https://orcid.org/0000-0002-5851-099X",
+"c": "NL"
+},
+{
+"k": "paper:pmid-38102468",
+"t": "paper",
+"n": "“In House” assays for the quantification of Annexin V and its autoantibodies in patients w",
+"sub": "Scientific Reports 2023 · cited 6",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38102468",
+"c": ""
+},
+{
+"k": "paper:pmid-27552568",
+"t": "paper",
+"n": "Concomitant measurements of serum annexin A5 levels and hematological indices as markers i",
+"sub": "International Journal of Cardiology 2016 · cited 6",
+"url": "https://pubmed.ncbi.nlm.nih.gov/27552568",
+"c": ""
+},
+{
+"k": "person:adil-hassan-alhusseiny",
+"t": "person",
+"n": "Adil Hassan Alhusseiny",
+"sub": "University of Diyala",
+"url": "https://orcid.org/0000-0003-0917-7112",
+"c": "IQ"
+},
+{
+"k": "person:saad-ahmed-ali-jadoo",
+"t": "person",
+"n": "Saad Ahmed Ali Jadoo",
+"sub": "National University of Malaysia",
+"url": "https://orcid.org/0000-0003-4901-1264",
+"c": "MY"
+},
+{
+"k": "paper:pmid-30555130",
+"t": "paper",
+"n": "Microparticles from Endothelial Cells and Immune Cells in Patients with Takayasu Arteritis",
+"sub": "Journal of Atherosclerosis and Thrombosis 2018 · cited 5",
+"url": "https://pubmed.ncbi.nlm.nih.gov/30555130",
+"c": ""
+},
+{
+"k": "person:xuesen-cheng",
+"t": "person",
+"n": "Xuesen Cheng",
+"sub": "Chinese Academy of Medical Sciences & Peking Union Medical College",
+"url": "https://orcid.org/0000-0002-0678-4411",
+"c": "CN"
+},
+{
+"k": "org:chinese-academy-of-medical-sciences-peking-union-medical-col",
+"t": "academic",
+"n": "Chinese Academy of Medical Sciences & Peking Union Medical College",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:fu-wai-hospital",
+"t": "hospital",
+"n": "Fu Wai Hospital",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:aimin-dang",
+"t": "person",
+"n": "Aimin Dang",
+"sub": "Chinese Academy of Medical Sciences & Peking Union Medical College",
+"url": "https://orcid.org/0000-0001-6168-6323",
+"c": "CN"
+},
+{
+"k": "person:tong-zhao",
+"t": "person",
+"n": "Tong Zhao",
+"sub": "Chinese Academy of Sciences",
+"url": "https://orcid.org/0000-0002-2169-6268",
+"c": "CN"
+},
+{
+"k": "org:chinese-academy-of-sciences",
+"t": "funder",
+"n": "Chinese Academy of Sciences",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "paper:pmid-34874835",
+"t": "paper",
+"n": "Human herpesvirus infections and circulating microvesicles expressing galectin-3 binding p",
+"sub": "Clinical and Experimental Rheumatology 2022 · cited 4",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34874835",
+"c": ""
+},
+{
+"k": "person:niclas-stefan-rasmussen",
+"t": "person",
+"n": "Niclas Stefan Rasmussen",
+"sub": "Copenhagen University Hospital",
+"url": "",
+"c": "DK"
+},
+{
+"k": "org:copenhagen-university-hospital",
+"t": "hospital",
+"n": "Copenhagen University Hospital",
+"sub": "",
+"url": "",
+"c": "DK"
+},
+{
+"k": "org:rigshospitalet",
+"t": "hospital",
+"n": "Rigshospitalet",
+"sub": "",
+"url": "",
+"c": "DK"
+},
+{
+"k": "person:christoffer-tandrup-nielsen",
+"t": "person",
+"n": "Christoffer Tandrup Nielsen",
+"sub": "Copenhagen University Hospital",
+"url": "https://orcid.org/0000-0001-7550-2994",
+"c": "DK"
+},
+{
+"k": "paper:pmid-40002844",
+"t": "paper",
+"n": "Development of PowerMag System II for Isolation of Circulating Tumor Cells with Improved P",
+"sub": "Biomedicines 2025 · cited 2",
+"url": "https://pubmed.ncbi.nlm.nih.gov/40002844",
+"c": ""
+},
+{
+"k": "person:cheng-rou-ho",
+"t": "person",
+"n": "Cheng-Rou Ho",
+"sub": "Chang Gung University",
+"url": "",
+"c": "TW"
+},
+{
+"k": "org:chang-gung-university",
+"t": "academic",
+"n": "Chang Gung University",
+"sub": "",
+"url": "",
+"c": "TW"
+},
+{
+"k": "person:sum-fu-chiang",
+"t": "person",
+"n": "Sum-Fu Chiang",
+"sub": "Chang Gung University",
+"url": "https://orcid.org/0000-0001-8753-0239",
+"c": "TW"
+},
+{
+"k": "org:chang-gung-memorial-hospital",
+"t": "hospital",
+"n": "Chang Gung Memorial Hospital",
+"sub": "",
+"url": "",
+"c": "TW"
+},
+{
+"k": "person:chingping-tseng",
+"t": "person",
+"n": "Ching‐Ping Tseng",
+"sub": "Chang Gung University",
+"url": "https://orcid.org/0000-0002-2587-210X",
+"c": "TW"
+},
+{
+"k": "paper:doi-10-1158-1538-7445-am2025-831",
+"t": "paper",
+"n": "Abstract 831: CPT1A inhibition sensitizes diffuse large B-cell lymphoma to venetoclax trea",
+"sub": "Cancer Research 2025 · cited 2",
+"url": "https://doi.org/10.1158/1538-7445.am2025-831",
+"c": ""
+},
+{
+"k": "person:sophia-steinlein",
+"t": "person",
+"n": "Sophia Steinlein",
+"sub": "Dr. Margarete Fischer-Bosch-Institute of Clinical Pharmacology",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:dr-margarete-fischer-bosch-institute-of-clinical-pharmacolog",
+"t": "academic",
+"n": "Dr. Margarete Fischer-Bosch-Institute of Clinical Pharmacology",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "person:claudia-kalla",
+"t": "person",
+"n": "Claudia Kalla",
+"sub": "Dr. Margarete Fischer-Bosch-Institute of Clinical Pharmacology",
+"url": "",
+"c": "DE"
+},
+{
+"k": "paper:doi-10-1158-1078-0432-c-6521751",
+"t": "paper",
+"n": "Data from The Immune Signature of CD8+CCR7+ T Cells in the Peripheral Circulation Associat",
+"sub": " 2023 · cited 1",
+"url": "https://doi.org/10.1158/1078-0432.c.6521751",
+"c": ""
+},
+{
+"k": "paper:doi-10-1136-annrheumdis-2017-eular-5003",
+"t": "paper",
+"n": "AB0135 Plasmatic and urinary endothelial microparticles are increased in patients with lup",
+"sub": "Annals of the Rheumatic Diseases 2017 · cited 0",
+"url": "https://doi.org/10.1136/annrheumdis-2017-eular.5003",
+"c": ""
+},
+{
+"k": "person:f-miranda",
+"t": "person",
+"n": "F. Miranda",
+"sub": "Sapienza University of Rome",
+"url": "https://orcid.org/0009-0005-4472-9826",
+"c": "IT"
+},
+{
+"k": "org:sapienza-university-of-rome",
+"t": "academic",
+"n": "Sapienza University of Rome",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:fabrizio-conti",
+"t": "person",
+"n": "Fabrizio Conti",
+"sub": "Sapienza University of Rome",
+"url": "https://orcid.org/0000-0002-1897-049X",
+"c": "IT"
+},
+{
+"k": "paper:oa-w3029996863",
+"t": "paper",
+"n": "Abstract 19924: AnxV- Endothelial Microparticles Are Significantly Increased in Active Tak",
+"sub": "Circulation 2017 · cited 0",
+"url": "https://openalex.org/W3029996863",
+"c": ""
+},
+{
+"k": "paper:oa-w3162727554",
+"t": "paper",
+"n": "A new approach in treating neonatal hypoxic-ischaemic and infection sensitised hypoxic-isc",
+"sub": "UCL Discovery (University College London) 2021 · cited 0",
+"url": "https://openalex.org/W3162727554",
+"c": ""
+},
+{
+"k": "paper:doi-10-4049-jimmunol-200-supp-174-7",
+"t": "paper",
+"n": "Depletion of Dead Cells from Primary Tissue in 6 Minutes",
+"sub": "The Journal of Immunology 2018 · cited 0",
+"url": "https://doi.org/10.4049/jimmunol.200.supp.174.7",
+"c": ""
+},
+{
+"k": "person:neil-macdonald",
+"t": "person",
+"n": "Neil MacDonald",
+"sub": "Stemcell Technologies",
+"url": "",
+"c": "CA"
+},
+{
+"k": "org:stemcell-technologies",
+"t": "company",
+"n": "Stemcell Technologies",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "person:allen-c-eaves",
+"t": "person",
+"n": "Allen C. Eaves",
+"sub": "BC Cancer Agency",
+"url": "",
+"c": "CA"
+},
+{
+"k": "paper:doi-10-1055-s-0044-1801666",
+"t": "paper",
+"n": "Investigation of antibody-induced Fc-gamma-RIIA-mediated procoagulant platelet formation i",
+"sub": "Hämostaseologie 2025 · cited 0",
+"url": "https://doi.org/10.1055/s-0044-1801666",
+"c": ""
+},
+{
+"k": "person:a-welker",
+"t": "person",
+"n": "A Welker",
+"sub": "Universitätsklinikum Tübingen",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:universitatsklinikum-tubingen",
+"t": "hospital",
+"n": "Universitätsklinikum Tübingen",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:university-of-tubingen",
+"t": "academic",
+"n": "University of Tübingen",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "person:t-bakchoul",
+"t": "person",
+"n": "T Bakchoul",
+"sub": "Universitätsklinikum Tübingen",
+"url": "",
+"c": "DE"
+},
+{
+"k": "paper:doi-10-1200-jco-2025-43-16-suppl-e15016",
+"t": "paper",
+"n": "Preclinical in vitro and in vivo evaluation of novel ANXV-chemo protein drug conjugate aga",
+"sub": "Journal of Clinical Oncology 2025 · cited 0",
+"url": "https://doi.org/10.1200/jco.2025.43.16_suppl.e15016",
+"c": ""
+},
+{
+"k": "person:anna-g-frostegard",
+"t": "person",
+"n": "Anna G. Frostegård",
+"sub": "Annexin Pharmaceuticals (Sweden)",
+"url": "",
+"c": "SE"
+},
+{
+"k": "paper:doi-10-1101-2025-10-23-684193",
+"t": "paper",
+"n": "High-throughput discovery of a [4+3] dearomative cycloaddition enables dual photochemical-",
+"sub": "bioRxiv (Cold Spring Harbor Laboratory) 2025 · cited 0",
+"url": "https://doi.org/10.1101/2025.10.23.684193",
+"c": ""
+},
+{
+"k": "person:samuel-d-griggs",
+"t": "person",
+"n": "Samuel D. Griggs",
+"sub": "Rosalind Franklin Institute",
+"url": "https://orcid.org/0000-0001-7385-2640",
+"c": "GB"
+},
+{
+"k": "org:rosalind-franklin-institute",
+"t": "academic",
+"n": "Rosalind Franklin Institute",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:benjamin-g-davis",
+"t": "person",
+"n": "Benjamin G. Davis",
+"sub": "Rosalind Franklin Institute",
+"url": "https://orcid.org/0000-0002-5056-407X",
+"c": "GB"
+},
+{
+"k": "paper:doi-10-1136-jitc-2025-sitc2025-0988",
+"t": "paper",
+"n": "988 Preclinical anti-tumor activity of a phosphatidylserine targeting annexin A5 protein d",
+"sub": "Journal for ImmunoTherapy of Cancer 2025 · cited 0",
+"url": "https://doi.org/10.1136/jitc-2025-sitc2025.0988",
+"c": ""
+},
+{
+"k": "person:alexis-woodward",
+"t": "person",
+"n": "Alexis Woodward",
+"sub": "Annexin Pharmaceuticals (Sweden)",
+"url": "",
+"c": "SE"
+},
+{
 "k": "paper:pmid-34029721",
 "t": "paper",
 "n": "Venous overload choroidopathy: A hypothetical framework for central serous chorioretinopat",
-"sub": "Progress in Retinal and Eye Research 2021 · cited 394",
+"sub": "Progress in Retinal and Eye Research 2021 · cited 405",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34029721",
 "c": ""
 },
@@ -2480,14 +2960,6 @@
 "c": "US"
 },
 {
-"k": "org:vitreous-retina-macula-consultants-of-new-york",
-"t": "hospital",
-"n": "Vitreous Retina Macula Consultants of New York",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
 "k": "person:peter-m-maloca",
 "t": "person",
 "n": "Peter M. Maloca",
@@ -2496,26 +2968,10 @@
 "c": "CH"
 },
 {
-"k": "org:institute-of-molecular-and-clinical-ophthalmology-basel",
-"t": "foundation",
-"n": "Institute of Molecular and Clinical Ophthalmology Basel",
-"sub": "",
-"url": "",
-"c": "CH"
-},
-{
-"k": "org:macula-foundation",
-"t": "funder",
-"n": "Macula Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-33308475",
 "t": "paper",
 "n": "Retinal vascular occlusions",
-"sub": "The Lancet 2020 · cited 336",
+"sub": "The Lancet 2020 · cited 354",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33308475",
 "c": ""
 },
@@ -2528,14 +2984,6 @@
 "c": "US"
 },
 {
-"k": "org:pennsylvania-state-university",
-"t": "academic",
-"n": "Pennsylvania State University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
 "k": "org:national-eye-institute",
 "t": "funder",
 "n": "National Eye Institute",
@@ -2544,34 +2992,10 @@
 "c": ""
 },
 {
-"k": "org:national-institute-of-neurological-disorders-and-stroke",
-"t": "funder",
-"n": "National Institute of Neurological Disorders and Stroke",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-institute-of-biomedical-imaging-and-bioengineering",
-"t": "funder",
-"n": "National Institute of Biomedical Imaging and Bioengineering",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-center-for-research-resources",
-"t": "funder",
-"n": "National Center for Research Resources",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-33049983",
 "t": "paper",
 "n": "Pericyte-Endothelial Interactions in the Retinal Microvasculature",
-"sub": "International Journal of Molecular Sciences 2020 · cited 239",
+"sub": "International Journal of Molecular Sciences 2020 · cited 245",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33049983",
 "c": ""
 },
@@ -2581,14 +3005,6 @@
 "n": "Huang Hu",
 "sub": "University of Missouri",
 "url": "https://orcid.org/0000-0003-2843-0320",
-"c": "US"
-},
-{
-"k": "org:university-of-missouri",
-"t": "academic",
-"n": "University of Missouri",
-"sub": "",
-"url": "",
 "c": "US"
 },
 {
@@ -2608,90 +3024,10 @@
 "c": "NZ"
 },
 {
-"k": "org:springer-nature-new-zealand",
-"t": "company",
-"n": "Springer Nature (New Zealand)",
-"sub": "",
-"url": "",
-"c": "NZ"
-},
-{
-"k": "paper:pmid-33946803",
-"t": "paper",
-"n": "Anti-VEGF-Resistant Retinal Diseases: A Review of the Latest Treatment Options",
-"sub": "Cells 2021 · cited 186",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33946803",
-"c": ""
-},
-{
-"k": "person:josh-o-wallsh",
-"t": "person",
-"n": "Josh O. Wallsh",
-"sub": "Albany Medical College",
-"url": "https://orcid.org/0000-0002-1669-8939",
-"c": "US"
-},
-{
-"k": "org:albany-medical-college",
-"t": "hospital",
-"n": "Albany Medical College",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:ron-p-gallemore",
-"t": "person",
-"n": "Ron P. Gallemore",
-"sub": "Retina Macula Institute",
-"url": "https://orcid.org/0000-0002-6116-6026",
-"c": "US"
-},
-{
-"k": "org:retina-macula-institute",
-"t": "hospital",
-"n": "Retina Macula Institute",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "paper:pmid-32620843",
-"t": "paper",
-"n": "Paracentral acute middle maculopathy and acute macular neuroretinopathy following SARS-CoV",
-"sub": "Eye 2020 · cited 176",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32620843",
-"c": ""
-},
-{
-"k": "person:jonathan-virgo",
-"t": "person",
-"n": "Jonathan Virgo",
-"sub": "St Thomas' Hospital",
-"url": "https://orcid.org/0000-0002-9335-2261",
-"c": "GB"
-},
-{
-"k": "org:st-thomas-hospital",
-"t": "hospital",
-"n": "St Thomas' Hospital",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "person:moin-d-mohamed",
-"t": "person",
-"n": "Moin D. Mohamed",
-"sub": "St Thomas' Hospital",
-"url": "",
-"c": "GB"
-},
-{
 "k": "paper:pmid-35645034",
 "t": "paper",
 "n": "Thrombophilia testing: A British Society for Haematology guideline",
-"sub": "British Journal of Haematology 2022 · cited 174",
+"sub": "British Journal of Haematology 2022 · cited 192",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35645034",
 "c": ""
 },
@@ -2728,18 +3064,122 @@
 "c": "GB"
 },
 {
-"k": "org:british-society-for-haematology",
-"t": "funder",
-"n": "British Society for Haematology",
+"k": "paper:pmid-33946803",
+"t": "paper",
+"n": "Anti-VEGF-Resistant Retinal Diseases: A Review of the Latest Treatment Options",
+"sub": "Cells 2021 · cited 189",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33946803",
+"c": ""
+},
+{
+"k": "person:josh-o-wallsh",
+"t": "person",
+"n": "Josh O. Wallsh",
+"sub": "Albany Medical College",
+"url": "https://orcid.org/0000-0002-1669-8939",
+"c": "US"
+},
+{
+"k": "person:ron-p-gallemore",
+"t": "person",
+"n": "Ron P. Gallemore",
+"sub": "Retina Macula Institute",
+"url": "https://orcid.org/0000-0002-6116-6026",
+"c": "US"
+},
+{
+"k": "paper:pmid-32620843",
+"t": "paper",
+"n": "Paracentral acute middle maculopathy and acute macular neuroretinopathy following SARS-CoV",
+"sub": "Eye 2020 · cited 183",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32620843",
+"c": ""
+},
+{
+"k": "person:jonathan-virgo",
+"t": "person",
+"n": "Jonathan Virgo",
+"sub": "St Thomas' Hospital",
+"url": "https://orcid.org/0000-0002-9335-2261",
+"c": "GB"
+},
+{
+"k": "org:st-thomas-hospital",
+"t": "hospital",
+"n": "St Thomas' Hospital",
 "sub": "",
 "url": "",
+"c": "GB"
+},
+{
+"k": "person:moin-d-mohamed",
+"t": "person",
+"n": "Moin D. Mohamed",
+"sub": "St Thomas' Hospital",
+"url": "",
+"c": "GB"
+},
+{
+"k": "paper:pmid-38605088",
+"t": "paper",
+"n": "OCTDL: Optical Coherence Tomography Dataset for Image-Based Deep Learning Methods",
+"sub": "Scientific Data 2024 · cited 179",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38605088",
 "c": ""
+},
+{
+"k": "person:mikhail-kulyabin",
+"t": "person",
+"n": "Mikhail Kulyabin",
+"sub": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+"url": "https://orcid.org/0009-0007-0440-030X",
+"c": "DE"
+},
+{
+"k": "person:andreas-maier",
+"t": "person",
+"n": "Andreas Maier",
+"sub": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+"url": "https://orcid.org/0000-0002-9550-5284",
+"c": "DE"
+},
+{
+"k": "paper:pmid-33595466",
+"t": "paper",
+"n": "Neovascular glaucoma - A review",
+"sub": "Indian Journal of Ophthalmology 2021 · cited 178",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33595466",
+"c": ""
+},
+{
+"k": "person:sirisha-senthil",
+"t": "person",
+"n": "Sirisha Senthil",
+"sub": "L V Prasad Eye Institute",
+"url": "https://orcid.org/0000-0003-1748-8850",
+"c": "IN"
+},
+{
+"k": "org:l-v-prasad-eye-institute",
+"t": "foundation",
+"n": "L V Prasad Eye Institute",
+"sub": "",
+"url": "",
+"c": "IN"
+},
+{
+"k": "person:lingam-vijaya",
+"t": "person",
+"n": "Lingam Vijaya",
+"sub": "Sankara Nethralaya",
+"url": "",
+"c": "IN"
 },
 {
 "k": "paper:pmid-35503220",
 "t": "paper",
 "n": "Artificial Intelligence for Screening of Multiple Retinal and Optic Nerve Diseases",
-"sub": "JAMA Network Open 2022 · cited 173",
+"sub": "JAMA Network Open 2022 · cited 178",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35503220",
 "c": ""
 },
@@ -2776,98 +3216,10 @@
 "c": "CN"
 },
 {
-"k": "org:beijing-municipal-science-and-technology-commission",
-"t": "funder",
-"n": "Beijing Municipal Science and Technology Commission",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-38605088",
-"t": "paper",
-"n": "OCTDL: Optical Coherence Tomography Dataset for Image-Based Deep Learning Methods",
-"sub": "Scientific Data 2024 · cited 171",
-"url": "https://pubmed.ncbi.nlm.nih.gov/38605088",
-"c": ""
-},
-{
-"k": "person:mikhail-kulyabin",
-"t": "person",
-"n": "Mikhail Kulyabin",
-"sub": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
-"url": "https://orcid.org/0009-0007-0440-030X",
-"c": "DE"
-},
-{
-"k": "org:friedrich-alexander-universitat-erlangen-nurnberg",
-"t": "academic",
-"n": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
-"sub": "",
-"url": "",
-"c": "DE"
-},
-{
-"k": "person:andreas-maier",
-"t": "person",
-"n": "Andreas Maier",
-"sub": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
-"url": "https://orcid.org/0000-0002-9550-5284",
-"c": "DE"
-},
-{
-"k": "paper:pmid-33595466",
-"t": "paper",
-"n": "Neovascular glaucoma - A review",
-"sub": "Indian Journal of Ophthalmology 2021 · cited 166",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33595466",
-"c": ""
-},
-{
-"k": "person:sirisha-senthil",
-"t": "person",
-"n": "Sirisha Senthil",
-"sub": "L V Prasad Eye Institute",
-"url": "https://orcid.org/0000-0003-1748-8850",
-"c": "IN"
-},
-{
-"k": "org:l-v-prasad-eye-institute",
-"t": "foundation",
-"n": "L V Prasad Eye Institute",
-"sub": "",
-"url": "",
-"c": "IN"
-},
-{
-"k": "person:lingam-vijaya",
-"t": "person",
-"n": "Lingam Vijaya",
-"sub": "Sankara Nethralaya",
-"url": "",
-"c": "IN"
-},
-{
-"k": "org:sankara-nethralaya",
-"t": "hospital",
-"n": "Sankara Nethralaya",
-"sub": "",
-"url": "",
-"c": "IN"
-},
-{
-"k": "org:hyderabad-eye-research-foundation",
-"t": "funder",
-"n": "Hyderabad Eye Research Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-32971697",
 "t": "paper",
 "n": "Retinal vein occlusion in COVID-19: A novel entity",
-"sub": "Indian Journal of Ophthalmology 2020 · cited 156",
+"sub": "Indian Journal of Ophthalmology 2020 · cited 165",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32971697",
 "c": ""
 },
@@ -2899,7 +3251,7 @@
 "k": "paper:pmid-32712135",
 "t": "paper",
 "n": "Plexus-specific retinal vascular anatomy and pathologies as seen by projection-resolved op",
-"sub": "Progress in Retinal and Eye Research 2020 · cited 155",
+"sub": "Progress in Retinal and Eye Research 2020 · cited 158",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32712135",
 "c": ""
 },
@@ -2928,146 +3280,10 @@
 "c": "US"
 },
 {
-"k": "paper:pmid-33248215",
-"t": "paper",
-"n": "Sustained suppression of VEGF for treatment of retinal/choroidal vascular diseases",
-"sub": "Progress in Retinal and Eye Research 2020 · cited 134",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33248215",
-"c": ""
-},
-{
-"k": "person:peter-a-campochiaro",
-"t": "person",
-"n": "Peter A. Campochiaro",
-"sub": "Johns Hopkins University",
-"url": "https://orcid.org/0000-0003-2531-8229",
-"c": "US"
-},
-{
-"k": "org:johns-hopkins-university",
-"t": "academic",
-"n": "Johns Hopkins University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:johns-hopkins-medicine",
-"t": "hospital",
-"n": "Johns Hopkins Medicine",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:anam-akhlaq",
-"t": "person",
-"n": "Anam Akhlaq",
-"sub": "Johns Hopkins University",
-"url": "https://orcid.org/0000-0001-7718-5478",
-"c": "US"
-},
-{
-"k": "org:research-to-prevent-blindness",
-"t": "funder",
-"n": "Research to Prevent Blindness",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-34945256",
-"t": "paper",
-"n": "Uveitis and Other Ocular Complications Following COVID-19 Vaccination",
-"sub": "Journal of Clinical Medicine 2021 · cited 134",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34945256",
-"c": ""
-},
-{
-"k": "person:elena-bolletta",
-"t": "person",
-"n": "Elena Bolletta",
-"sub": "Azienda Sanitaria Unità Locale di Reggio Emilia",
-"url": "https://orcid.org/0000-0003-0292-0153",
-"c": "IT"
-},
-{
-"k": "org:azienda-sanitaria-unita-locale-di-reggio-emilia",
-"t": "hospital",
-"n": "Azienda Sanitaria Unità Locale di Reggio Emilia",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "person:luca-cimino",
-"t": "person",
-"n": "Luca Cimino",
-"sub": "University of Modena and Reggio Emilia",
-"url": "https://orcid.org/0000-0001-7956-9950",
-"c": "IT"
-},
-{
-"k": "org:university-of-modena-and-reggio-emilia",
-"t": "academic",
-"n": "University of Modena and Reggio Emilia",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "paper:pmid-33471572",
-"t": "paper",
-"n": "Faricimab: an investigational agent targeting the Tie-2/angiopoietin pathway and VEGF-A fo",
-"sub": "Expert Opinion on Investigational Drugs 2021 · cited 132",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33471572",
-"c": ""
-},
-{
-"k": "person:massimo-nicolo",
-"t": "person",
-"n": "Massimo Nicolò",
-"sub": "Ospedale Policlinico San Martino",
-"url": "https://orcid.org/0000-0002-7824-3091",
-"c": "IT"
-},
-{
-"k": "org:ospedale-policlinico-san-martino",
-"t": "hospital",
-"n": "Ospedale Policlinico San Martino",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "org:university-of-genoa",
-"t": "academic",
-"n": "University of Genoa",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "person:lorenzo-ferro-desideri",
-"t": "person",
-"n": "Lorenzo Ferro Desideri",
-"sub": "University of Genoa",
-"url": "https://orcid.org/0000-0003-0715-6369",
-"c": "IT"
-},
-{
-"k": "person:carlo-enrico-traverso",
-"t": "person",
-"n": "Carlo Enrico Traverso",
-"sub": "Ospedale Policlinico San Martino",
-"url": "https://orcid.org/0000-0002-0510-6651",
-"c": "IT"
-},
-{
 "k": "paper:pmid-36912792",
 "t": "paper",
 "n": "Update on Retinal Vein Occlusion",
-"sub": "Asia-Pacific Journal of Ophthalmology 2023 · cited 131",
+"sub": "Asia-Pacific Journal of Ophthalmology 2023 · cited 140",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36912792",
 "c": ""
 },
@@ -3144,18 +3360,154 @@
 "c": "AU"
 },
 {
-"k": "org:the-university-of-sydney",
-"t": "academic",
-"n": "The University of Sydney",
+"k": "paper:pmid-35301458",
+"t": "paper",
+"n": "Retinal vein occlusion (RVO) guideline: executive summary",
+"sub": "Eye 2022 · cited 139",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35301458",
+"c": ""
+},
+{
+"k": "person:luke-nicholson",
+"t": "person",
+"n": "Luke Nicholson",
+"sub": "Moorfields Eye Hospital",
+"url": "https://orcid.org/0000-0001-6685-4402",
+"c": "GB"
+},
+{
+"k": "org:moorfields-eye-hospital",
+"t": "hospital",
+"n": "Moorfields Eye Hospital",
 "sub": "",
 "url": "",
-"c": "AU"
+"c": "GB"
+},
+{
+"k": "person:sobha-sivaprasad",
+"t": "person",
+"n": "Sobha Sivaprasad",
+"sub": "Moorfields Eye Hospital",
+"url": "https://orcid.org/0000-0001-8952-0659",
+"c": "GB"
+},
+{
+"k": "paper:pmid-33248215",
+"t": "paper",
+"n": "Sustained suppression of VEGF for treatment of retinal/choroidal vascular diseases",
+"sub": "Progress in Retinal and Eye Research 2020 · cited 138",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33248215",
+"c": ""
+},
+{
+"k": "person:peter-a-campochiaro",
+"t": "person",
+"n": "Peter A. Campochiaro",
+"sub": "Johns Hopkins University",
+"url": "https://orcid.org/0000-0003-2531-8229",
+"c": "US"
+},
+{
+"k": "org:johns-hopkins-university",
+"t": "academic",
+"n": "Johns Hopkins University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:johns-hopkins-medicine",
+"t": "hospital",
+"n": "Johns Hopkins Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:anam-akhlaq",
+"t": "person",
+"n": "Anam Akhlaq",
+"sub": "Johns Hopkins University",
+"url": "https://orcid.org/0000-0001-7718-5478",
+"c": "US"
+},
+{
+"k": "org:research-to-prevent-blindness",
+"t": "funder",
+"n": "Research to Prevent Blindness",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32010879",
+"t": "paper",
+"n": "Ultra-widefield retinal imaging: an update on recent advances",
+"sub": "Therapeutic Advances in Ophthalmology 2020 · cited 135",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32010879",
+"c": ""
+},
+{
+"k": "person:samir-n-patel",
+"t": "person",
+"n": "SAMIR N. PATEL",
+"sub": "Thomas Jefferson University",
+"url": "https://orcid.org/0000-0002-3050-9129",
+"c": "US"
+},
+{
+"k": "org:thomas-jefferson-university",
+"t": "academic",
+"n": "Thomas Jefferson University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:michael-a-klufas",
+"t": "person",
+"n": "Michael A. Klufas",
+"sub": "Thomas Jefferson University",
+"url": "https://orcid.org/0000-0001-9539-7837",
+"c": "US"
+},
+{
+"k": "paper:pmid-34945256",
+"t": "paper",
+"n": "Uveitis and Other Ocular Complications Following COVID-19 Vaccination",
+"sub": "Journal of Clinical Medicine 2021 · cited 135",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34945256",
+"c": ""
+},
+{
+"k": "person:elena-bolletta",
+"t": "person",
+"n": "Elena Bolletta",
+"sub": "Azienda Sanitaria Unità Locale di Reggio Emilia",
+"url": "https://orcid.org/0000-0003-0292-0153",
+"c": "IT"
+},
+{
+"k": "org:azienda-sanitaria-unita-locale-di-reggio-emilia",
+"t": "hospital",
+"n": "Azienda Sanitaria Unità Locale di Reggio Emilia",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:luca-cimino",
+"t": "person",
+"n": "Luca Cimino",
+"sub": "University of Modena and Reggio Emilia",
+"url": "https://orcid.org/0000-0001-7956-9950",
+"c": "IT"
 },
 {
 "k": "paper:pmid-32358156",
 "t": "paper",
 "n": "Ocular Manifestations in Rheumatoid Arthritis, Connective Tissue Disease, and Vasculitis: ",
-"sub": "The Journal of Rheumatology 2020 · cited 127",
+"sub": "The Journal of Rheumatology 2020 · cited 134",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32358156",
 "c": ""
 },
@@ -3192,42 +3544,58 @@
 "c": "CA"
 },
 {
-"k": "paper:pmid-35301458",
+"k": "paper:pmid-33471572",
 "t": "paper",
-"n": "Retinal vein occlusion (RVO) guideline: executive summary",
-"sub": "Eye 2022 · cited 126",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35301458",
+"n": "Faricimab: an investigational agent targeting the Tie-2/angiopoietin pathway and VEGF-A fo",
+"sub": "Expert Opinion on Investigational Drugs 2021 · cited 134",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33471572",
 "c": ""
 },
 {
-"k": "person:luke-nicholson",
+"k": "person:massimo-nicolo",
 "t": "person",
-"n": "Luke Nicholson",
-"sub": "Moorfields Eye Hospital",
-"url": "https://orcid.org/0000-0001-6685-4402",
-"c": "GB"
+"n": "Massimo Nicolò",
+"sub": "Ospedale Policlinico San Martino",
+"url": "https://orcid.org/0000-0002-7824-3091",
+"c": "IT"
 },
 {
-"k": "org:moorfields-eye-hospital",
+"k": "org:ospedale-policlinico-san-martino",
 "t": "hospital",
-"n": "Moorfields Eye Hospital",
+"n": "Ospedale Policlinico San Martino",
 "sub": "",
 "url": "",
-"c": "GB"
+"c": "IT"
 },
 {
-"k": "person:sobha-sivaprasad",
+"k": "org:university-of-genoa",
+"t": "academic",
+"n": "University of Genoa",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:lorenzo-ferro-desideri",
 "t": "person",
-"n": "Sobha Sivaprasad",
-"sub": "Moorfields Eye Hospital",
-"url": "https://orcid.org/0000-0001-8952-0659",
-"c": "GB"
+"n": "Lorenzo Ferro Desideri",
+"sub": "University of Genoa",
+"url": "https://orcid.org/0000-0003-0715-6369",
+"c": "IT"
+},
+{
+"k": "person:carlo-enrico-traverso",
+"t": "person",
+"n": "Carlo Enrico Traverso",
+"sub": "Ospedale Policlinico San Martino",
+"url": "https://orcid.org/0000-0002-0510-6651",
+"c": "IT"
 },
 {
 "k": "paper:pmid-32092363",
 "t": "paper",
 "n": "Cystoid macular edema related to cataract surgery and topical prostaglandin analogs: Mecha",
-"sub": "Survey of Ophthalmology 2020 · cited 124",
+"sub": "Survey of Ophthalmology 2020 · cited 129",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32092363",
 "c": ""
 },
@@ -3240,27 +3608,11 @@
 "c": "HU"
 },
 {
-"k": "org:semmelweis-university",
-"t": "academic",
-"n": "Semmelweis University",
-"sub": "",
-"url": "",
-"c": "HU"
-},
-{
 "k": "person:makoto-aihara",
 "t": "person",
 "n": "Makoto Aihara",
 "sub": "The University of Tokyo",
 "url": "https://orcid.org/0000-0001-6810-0583",
-"c": "JP"
-},
-{
-"k": "org:the-university-of-tokyo",
-"t": "academic",
-"n": "The University of Tokyo",
-"sub": "",
-"url": "",
 "c": "JP"
 },
 {
@@ -3280,52 +3632,44 @@
 "c": ""
 },
 {
-"k": "org:bausch-and-lomb",
-"t": "funder",
-"n": "Bausch and Lomb",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:santen",
-"t": "funder",
-"n": "Santen",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32010879",
+"k": "paper:pmid-33121094",
 "t": "paper",
-"n": "Ultra-widefield retinal imaging: an update on recent advances",
-"sub": "Therapeutic Advances in Ophthalmology 2020 · cited 120",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32010879",
+"n": "Cytokines and Pathogenesis of Central Retinal Vein Occlusion",
+"sub": "Journal of Clinical Medicine 2020 · cited 119",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33121094",
 "c": ""
 },
 {
-"k": "person:samir-n-patel",
+"k": "person:hidetaka-noma",
 "t": "person",
-"n": "SAMIR N. PATEL",
-"sub": "Thomas Jefferson University",
-"url": "https://orcid.org/0000-0002-3050-9129",
-"c": "US"
+"n": "Hidetaka Noma",
+"sub": "Tokyo Medical University",
+"url": "https://orcid.org/0000-0001-6925-3063",
+"c": "JP"
 },
 {
-"k": "org:thomas-jefferson-university",
+"k": "org:tokyo-medical-university",
 "t": "academic",
-"n": "Thomas Jefferson University",
+"n": "Tokyo Medical University",
 "sub": "",
 "url": "",
-"c": "US"
+"c": "JP"
 },
 {
-"k": "person:michael-a-klufas",
+"k": "org:tokyo-medical-university-hachioji-medical-center",
+"t": "hospital",
+"n": "Tokyo Medical University Hachioji Medical Center",
+"sub": "",
+"url": "",
+"c": "JP"
+},
+{
+"k": "person:masahiko-shimura",
 "t": "person",
-"n": "Michael A. Klufas",
-"sub": "Thomas Jefferson University",
-"url": "https://orcid.org/0000-0001-9539-7837",
-"c": "US"
+"n": "Masahiko Shimura",
+"sub": "Tokyo Medical University",
+"url": "https://orcid.org/0000-0001-5456-6374",
+"c": "JP"
 },
 {
 "k": "paper:pmid-34181446",
@@ -3363,7 +3707,7 @@
 "k": "paper:pmid-32001821",
 "t": "paper",
 "n": "Use of biomaterials for sustained delivery of anti-VEGF to treat retinal diseases",
-"sub": "Eye 2020 · cited 116",
+"sub": "Eye 2020 · cited 117",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32001821",
 "c": ""
 },
@@ -3432,66 +3776,34 @@
 "c": "SG"
 },
 {
-"k": "org:institute-of-molecular-and-cell-biology",
-"t": "funder",
-"n": "Institute of Molecular and Cell Biology",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:lee-kong-chian-school-of-medicine-nanyang-technological-univ",
-"t": "funder",
-"n": "Lee Kong Chian School of Medicine, Nanyang Technological University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-33121094",
+"k": "paper:pmid-38674173",
 "t": "paper",
-"n": "Cytokines and Pathogenesis of Central Retinal Vein Occlusion",
-"sub": "Journal of Clinical Medicine 2020 · cited 116",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33121094",
+"n": "Artificial Intelligence (AI) for Early Diagnosis of Retinal Diseases",
+"sub": "Medicina 2024 · cited 117",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38674173",
 "c": ""
 },
 {
-"k": "person:hidetaka-noma",
+"k": "person:uday-pratap-singh-parmar",
 "t": "person",
-"n": "Hidetaka Noma",
-"sub": "Tokyo Medical University",
-"url": "https://orcid.org/0000-0001-6925-3063",
-"c": "JP"
+"n": "Uday Pratap Singh Parmar",
+"sub": "Government Medical College and Hospital",
+"url": "https://orcid.org/0009-0007-6746-5127",
+"c": "IN"
 },
 {
-"k": "org:tokyo-medical-university",
-"t": "academic",
-"n": "Tokyo Medical University",
-"sub": "",
-"url": "",
-"c": "JP"
-},
-{
-"k": "org:tokyo-medical-university-hachioji-medical-center",
-"t": "hospital",
-"n": "Tokyo Medical University Hachioji Medical Center",
-"sub": "",
-"url": "",
-"c": "JP"
-},
-{
-"k": "person:masahiko-shimura",
+"k": "person:marco-zeppieri",
 "t": "person",
-"n": "Masahiko Shimura",
-"sub": "Tokyo Medical University",
-"url": "https://orcid.org/0000-0001-5456-6374",
-"c": "JP"
+"n": "Marco Zeppieri",
+"sub": "Ospedale Santa Maria della Misericordia di Udine",
+"url": "https://orcid.org/0000-0003-0999-5545",
+"c": "IT"
 },
 {
 "k": "paper:pmid-33120696",
 "t": "paper",
 "n": "Central retinal vein occlusion with COVID-19 infection as the presumptive etiology",
-"sub": "Indian Journal of Ophthalmology 2020 · cited 110",
+"sub": "Indian Journal of Ophthalmology 2020 · cited 115",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33120696",
 "c": ""
 },
@@ -3528,98 +3840,10 @@
 "c": "IN"
 },
 {
-"k": "paper:pmid-38280653",
-"t": "paper",
-"n": "Efficacy and Safety of Faricimab for Macular Edema due to Retinal Vein Occlusion",
-"sub": "Ophthalmology 2024 · cited 103",
-"url": "https://pubmed.ncbi.nlm.nih.gov/38280653",
-"c": ""
-},
-{
-"k": "person:ramin-tadayoni",
-"t": "person",
-"n": "Ramin Tadayoni",
-"sub": "Université Paris Cité",
-"url": "https://orcid.org/0000-0001-5616-3579",
-"c": "FR"
-},
-{
-"k": "org:universite-paris-cite",
-"t": "academic",
-"n": "Université Paris Cité",
-"sub": "",
-"url": "",
-"c": "FR"
-},
-{
-"k": "org:hopital-lariboisiere",
-"t": "hospital",
-"n": "Hôpital Lariboisière",
-"sub": "",
-"url": "",
-"c": "FR"
-},
-{
-"k": "person:young-hee-yoon",
-"t": "person",
-"n": "Young Hee Yoon",
-"sub": "Asan Medical Center",
-"url": "https://orcid.org/0000-0002-2849-7528",
-"c": "KR"
-},
-{
-"k": "org:asan-medical-center",
-"t": "hospital",
-"n": "Asan Medical Center",
-"sub": "",
-"url": "",
-"c": "KR"
-},
-{
-"k": "org:university-of-ulsan",
-"t": "academic",
-"n": "University of Ulsan",
-"sub": "",
-"url": "",
-"c": "KR"
-},
-{
-"k": "org:roche",
-"t": "funder",
-"n": "Roche",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:f-hoffmann-la-roche",
-"t": "funder",
-"n": "F. Hoffmann-La Roche",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:japan-society-for-the-promotion-of-science",
-"t": "funder",
-"n": "Japan Society for the Promotion of Science",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32976055",
-"t": "paper",
-"n": "Impending Central Retinal Vein Occlusion in a Patient with Coronavirus Disease 2019 (COVID",
-"sub": "Ocular Immunology and Inflammation 2020 · cited 102",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32976055",
-"c": ""
-},
-{
 "k": "paper:pmid-31977663",
 "t": "paper",
 "n": "Retinal Vascular Signs and Cerebrovascular Diseases",
-"sub": "Journal of Neuro-Ophthalmology 2020 · cited 97",
+"sub": "Journal of Neuro-Ophthalmology 2020 · cited 108",
 "url": "https://pubmed.ncbi.nlm.nih.gov/31977663",
 "c": ""
 },
@@ -3656,10 +3880,58 @@
 "c": "SG"
 },
 {
+"k": "paper:pmid-32976055",
+"t": "paper",
+"n": "Impending Central Retinal Vein Occlusion in a Patient with Coronavirus Disease 2019 (COVID",
+"sub": "Ocular Immunology and Inflammation 2020 · cited 107",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32976055",
+"c": ""
+},
+{
+"k": "paper:pmid-38280653",
+"t": "paper",
+"n": "Efficacy and Safety of Faricimab for Macular Edema due to Retinal Vein Occlusion",
+"sub": "Ophthalmology 2024 · cited 106",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38280653",
+"c": ""
+},
+{
+"k": "person:ramin-tadayoni",
+"t": "person",
+"n": "Ramin Tadayoni",
+"sub": "Université Paris Cité",
+"url": "https://orcid.org/0000-0001-5616-3579",
+"c": "FR"
+},
+{
+"k": "person:young-hee-yoon",
+"t": "person",
+"n": "Young Hee Yoon",
+"sub": "Asan Medical Center",
+"url": "https://orcid.org/0000-0002-2849-7528",
+"c": "KR"
+},
+{
+"k": "org:roche",
+"t": "funder",
+"n": "Roche",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:japan-society-for-the-promotion-of-science",
+"t": "funder",
+"n": "Japan Society for the Promotion of Science",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-33713810",
 "t": "paper",
 "n": "Photocoagulation for retinal vein occlusion",
-"sub": "Progress in Retinal and Eye Research 2021 · cited 97",
+"sub": "Progress in Retinal and Eye Research 2021 · cited 104",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33713810",
 "c": ""
 },
@@ -3672,162 +3944,10 @@
 "c": "US"
 },
 {
-"k": "org:university-of-iowa",
-"t": "academic",
-"n": "University of Iowa",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "paper:pmid-38674173",
-"t": "paper",
-"n": "Artificial Intelligence (AI) for Early Diagnosis of Retinal Diseases",
-"sub": "Medicina 2024 · cited 95",
-"url": "https://pubmed.ncbi.nlm.nih.gov/38674173",
-"c": ""
-},
-{
-"k": "person:uday-pratap-singh-parmar",
-"t": "person",
-"n": "Uday Pratap Singh Parmar",
-"sub": "Government Medical College and Hospital",
-"url": "https://orcid.org/0009-0007-6746-5127",
-"c": "IN"
-},
-{
-"k": "org:government-medical-college-and-hospital",
-"t": "hospital",
-"n": "Government Medical College and Hospital",
-"sub": "",
-"url": "",
-"c": "IN"
-},
-{
-"k": "person:marco-zeppieri",
-"t": "person",
-"n": "Marco Zeppieri",
-"sub": "Ospedale Santa Maria della Misericordia di Udine",
-"url": "https://orcid.org/0000-0003-0999-5545",
-"c": "IT"
-},
-{
-"k": "org:ospedale-santa-maria-della-misericordia-di-udine",
-"t": "hospital",
-"n": "Ospedale Santa Maria della Misericordia di Udine",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "paper:pmid-33116072",
-"t": "paper",
-"n": "Bilateral Central Retinal Vein Occlusion in a 40-Year-Old Man with Severe Coronavirus Dise",
-"sub": "American Journal of Case Reports 2020 · cited 93",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33116072",
-"c": ""
-},
-{
-"k": "person:waqar-haider-gaba",
-"t": "person",
-"n": "Waqar Haider Gaba",
-"sub": "Shaikh Khalifa Medical City",
-"url": "https://orcid.org/0000-0002-5581-3901",
-"c": "AE"
-},
-{
-"k": "org:shaikh-khalifa-medical-city",
-"t": "hospital",
-"n": "Shaikh Khalifa Medical City",
-"sub": "",
-"url": "",
-"c": "AE"
-},
-{
-"k": "person:habibullah-eatamadi",
-"t": "person",
-"n": "Habibullah Eatamadi",
-"sub": "Shaikh Khalifa Medical City",
-"url": "",
-"c": "AE"
-},
-{
-"k": "paper:pmid-33225111",
-"t": "paper",
-"n": "Central retinal vein occlusion in a young healthy COVID-19 patient: A case report",
-"sub": "American Journal of Ophthalmology Case Reports 2020 · cited 93",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33225111",
-"c": ""
-},
-{
-"k": "person:tal-yahalomi",
-"t": "person",
-"n": "Tal Yahalomi",
-"sub": "Ben-Gurion University of the Negev",
-"url": "https://orcid.org/0000-0002-6833-6198",
-"c": "IL"
-},
-{
-"k": "org:ben-gurion-university-of-the-negev",
-"t": "academic",
-"n": "Ben-Gurion University of the Negev",
-"sub": "",
-"url": "",
-"c": "IL"
-},
-{
-"k": "person:yuval-pessach",
-"t": "person",
-"n": "Yuval Pessach",
-"sub": "Ben-Gurion University of the Negev",
-"url": "",
-"c": "IL"
-},
-{
-"k": "paper:pmid-33630781",
-"t": "paper",
-"n": "Peripapillary Hyper-reflective Ovoid Mass-like Structure (PHOMS): An Optical Coherence Tom",
-"sub": "Journal of Neuro-Ophthalmology 2021 · cited 93",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33630781",
-"c": ""
-},
-{
-"k": "person:j-alexander-fraser",
-"t": "person",
-"n": "J. Alexander Fraser",
-"sub": "University of Copenhagen",
-"url": "",
-"c": "DK"
-},
-{
-"k": "org:university-of-copenhagen",
-"t": "academic",
-"n": "University of Copenhagen",
-"sub": "",
-"url": "",
-"c": "DK"
-},
-{
-"k": "person:steffen-hamann",
-"t": "person",
-"n": "Steffen Hamann",
-"sub": "University of Copenhagen",
-"url": "https://orcid.org/0000-0003-4318-2716",
-"c": "DK"
-},
-{
-"k": "org:rigshospitalet",
-"t": "hospital",
-"n": "Rigshospitalet",
-"sub": "",
-"url": "",
-"c": "DK"
-},
-{
 "k": "paper:pmid-33971352",
 "t": "paper",
 "n": "Machine Learning Can Predict Anti–VEGF Treatment Demand in a Treat-and-Extend Regimen for ",
-"sub": "Ophthalmology Retina 2021 · cited 91",
+"sub": "Ophthalmology Retina 2021 · cited 98",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33971352",
 "c": ""
 },
@@ -3856,18 +3976,10 @@
 "c": "CH"
 },
 {
-"k": "org:horizon-2020",
-"t": "funder",
-"n": "Horizon 2020",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-37746113",
 "t": "paper",
 "n": "Faricimab: Transforming the Future of Macular Diseases Treatment - A Comprehensive Review ",
-"sub": "Drug Design Development and Therapy 2023 · cited 90",
+"sub": "Drug Design Development and Therapy 2023 · cited 98",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37746113",
 "c": ""
 },
@@ -3904,22 +4016,6 @@
 "c": "GB"
 },
 {
-"k": "org:william-harvey-hospital",
-"t": "hospital",
-"n": "William Harvey Hospital",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "org:east-kent-hospitals-university-nhs-foundation-trust",
-"t": "hospital",
-"n": "East Kent Hospitals University NHS Foundation Trust",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
 "k": "person:winfried-m-k-amoaku",
 "t": "person",
 "n": "Winfried M. K. Amoaku",
@@ -3928,42 +4024,130 @@
 "c": "GB"
 },
 {
-"k": "paper:pmid-32960319",
+"k": "paper:pmid-33116072",
 "t": "paper",
-"n": "Impact of COVID-19 on outpatient visits and intravitreal treatments in a referral retina u",
-"sub": "Graefe s Archive for Clinical and Experimental Ophthalmology 2020 · cited 87",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32960319",
+"n": "Bilateral Central Retinal Vein Occlusion in a 40-Year-Old Man with Severe Coronavirus Dise",
+"sub": "American Journal of Case Reports 2020 · cited 96",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33116072",
 "c": ""
 },
 {
-"k": "person:enrico-borrelli",
+"k": "person:waqar-haider-gaba",
 "t": "person",
-"n": "Enrico Borrelli",
-"sub": "IRCCS Ospedale San Raffaele",
-"url": "https://orcid.org/0000-0003-2815-5031",
-"c": "IT"
+"n": "Waqar Haider Gaba",
+"sub": "Shaikh Khalifa Medical City",
+"url": "https://orcid.org/0000-0002-5581-3901",
+"c": "AE"
 },
 {
-"k": "org:irccs-ospedale-san-raffaele",
+"k": "org:shaikh-khalifa-medical-city",
 "t": "hospital",
-"n": "IRCCS Ospedale San Raffaele",
+"n": "Shaikh Khalifa Medical City",
 "sub": "",
 "url": "",
-"c": "IT"
+"c": "AE"
 },
 {
-"k": "person:giuseppe-querques",
+"k": "person:habibullah-eatamadi",
 "t": "person",
-"n": "Giuseppe Querques",
-"sub": "IRCCS Ospedale San Raffaele",
-"url": "https://orcid.org/0000-0002-3292-9581",
-"c": "IT"
+"n": "Habibullah Eatamadi",
+"sub": "Shaikh Khalifa Medical City",
+"url": "",
+"c": "AE"
+},
+{
+"k": "paper:pmid-33630781",
+"t": "paper",
+"n": "Peripapillary Hyper-reflective Ovoid Mass-like Structure (PHOMS): An Optical Coherence Tom",
+"sub": "Journal of Neuro-Ophthalmology 2021 · cited 96",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33630781",
+"c": ""
+},
+{
+"k": "person:j-alexander-fraser",
+"t": "person",
+"n": "J. Alexander Fraser",
+"sub": "University of Copenhagen",
+"url": "",
+"c": "DK"
+},
+{
+"k": "org:university-of-copenhagen",
+"t": "academic",
+"n": "University of Copenhagen",
+"sub": "",
+"url": "",
+"c": "DK"
+},
+{
+"k": "person:steffen-hamann",
+"t": "person",
+"n": "Steffen Hamann",
+"sub": "University of Copenhagen",
+"url": "https://orcid.org/0000-0003-4318-2716",
+"c": "DK"
+},
+{
+"k": "paper:pmid-33225111",
+"t": "paper",
+"n": "Central retinal vein occlusion in a young healthy COVID-19 patient: A case report",
+"sub": "American Journal of Ophthalmology Case Reports 2020 · cited 95",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33225111",
+"c": ""
+},
+{
+"k": "person:tal-yahalomi",
+"t": "person",
+"n": "Tal Yahalomi",
+"sub": "Ben-Gurion University of the Negev",
+"url": "https://orcid.org/0000-0002-6833-6198",
+"c": "IL"
+},
+{
+"k": "org:ben-gurion-university-of-the-negev",
+"t": "academic",
+"n": "Ben-Gurion University of the Negev",
+"sub": "",
+"url": "",
+"c": "IL"
+},
+{
+"k": "person:yuval-pessach",
+"t": "person",
+"n": "Yuval Pessach",
+"sub": "Ben-Gurion University of the Negev",
+"url": "",
+"c": "IL"
+},
+{
+"k": "paper:pmid-37631054",
+"t": "paper",
+"n": "Intravitreal Anti-Vascular Endothelial Growth Factor Therapies for Retinal Disorders",
+"sub": "Pharmaceuticals 2023 · cited 93",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37631054",
+"c": ""
+},
+{
+"k": "person:abraham-hang",
+"t": "person",
+"n": "Abraham Hang",
+"sub": "University of California Davis Medical Center",
+"url": "https://orcid.org/0000-0001-5911-6671",
+"c": "US"
+},
+{
+"k": "org:university-of-california-davis-medical-center",
+"t": "hospital",
+"n": "University of California Davis Medical Center",
+"sub": "",
+"url": "",
+"c": "US"
 },
 {
 "k": "paper:pmid-33275949",
 "t": "paper",
 "n": "Causes of blindness and vision impairment in 2020 and trends over 30 years, and prevalence",
-"sub": "The Lancet Global Health 2020 · cited 3652",
+"sub": "The Lancet Global Health 2020 · cited 4111",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33275949",
 "c": ""
 },
@@ -3976,42 +4160,10 @@
 "c": "US"
 },
 {
-"k": "org:university-of-washington",
-"t": "academic",
-"n": "University of Washington",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:u-s-department-of-veterans-affairs",
-"t": "funder",
-"n": "U.S. Department of Veterans Affairs",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:bill-and-melinda-gates-foundation",
-"t": "funder",
-"n": "Bill and Melinda Gates Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:fight-for-sight",
-"t": "funder",
-"n": "Fight for Sight",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-33940045",
 "t": "paper",
 "n": "Global Prevalence of Diabetic Retinopathy and Projection of Burden through 2045",
-"sub": "Ophthalmology 2021 · cited 2733",
+"sub": "Ophthalmology 2021 · cited 2964",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33940045",
 "c": ""
 },
@@ -4043,7 +4195,7 @@
 "k": "paper:pmid-35021057",
 "t": "paper",
 "n": "Inflammation in obesity, diabetes, and related disorders",
-"sub": "Immunity 2022 · cited 2269",
+"sub": "Immunity 2022 · cited 2374",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35021057",
 "c": ""
 },
@@ -4056,44 +4208,12 @@
 "c": "US"
 },
 {
-"k": "org:university-of-california-san-diego",
-"t": "academic",
-"n": "University of California San Diego",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
 "k": "person:marc-yves-donath",
 "t": "person",
 "n": "Marc Yves Donath",
 "sub": "University of Basel",
 "url": "https://orcid.org/0000-0002-3143-5045",
 "c": "CH"
-},
-{
-"k": "org:university-of-basel",
-"t": "academic",
-"n": "University of Basel",
-"sub": "",
-"url": "",
-"c": "CH"
-},
-{
-"k": "org:university-hospital-of-basel",
-"t": "hospital",
-"n": "University Hospital of Basel",
-"sub": "",
-"url": "",
-"c": "CH"
-},
-{
-"k": "org:schweizerischer-nationalfonds-zur-forderung-der-wissenschaft",
-"t": "funder",
-"n": "Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung",
-"sub": "",
-"url": "",
-"c": ""
 },
 {
 "k": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
@@ -4107,7 +4227,7 @@
 "k": "paper:pmid-32398868",
 "t": "paper",
 "n": "Genetics of diabetes mellitus and diabetes complications",
-"sub": "Nature Reviews Nephrology 2020 · cited 2027",
+"sub": "Nature Reviews Nephrology 2020 · cited 2191",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32398868",
 "c": ""
 },
@@ -4128,14 +4248,6 @@
 "c": "US"
 },
 {
-"k": "org:boston-children-s-hospital",
-"t": "hospital",
-"n": "Boston Children's Hospital",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
 "k": "person:jose-c-florez",
 "t": "person",
 "n": "José C. Florez",
@@ -4144,18 +4256,10 @@
 "c": "US"
 },
 {
-"k": "org:harvard-university",
-"t": "academic",
-"n": "Harvard University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
 "k": "paper:pmid-37709773",
 "t": "paper",
 "n": "Endoplasmic reticulum stress: molecular mechanism and therapeutic targets",
-"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1170",
+"sub": "Signal Transduction and Targeted Therapy 2023 · cited 1210",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37709773",
 "c": ""
 },
@@ -4200,26 +4304,10 @@
 "c": "CN"
 },
 {
-"k": "org:national-natural-science-foundation-of-china",
-"t": "funder",
-"n": "National Natural Science Foundation of China",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-key-research-and-development-program-of-china",
-"t": "funder",
-"n": "National Key Research and Development Program of China",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-33248932",
 "t": "paper",
 "n": "Oxidative stress and diabetic retinopathy: Molecular mechanisms, pathogenetic role and the",
-"sub": "Redox Biology 2020 · cited 1165",
+"sub": "Redox Biology 2020 · cited 1209",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33248932",
 "c": ""
 },
@@ -4232,14 +4320,6 @@
 "c": "CN"
 },
 {
-"k": "org:shenzhen-university",
-"t": "academic",
-"n": "Shenzhen University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
 "k": "person:chunxue-yang",
 "t": "person",
 "n": "Chunxue Yang",
@@ -4248,26 +4328,10 @@
 "c": "HK"
 },
 {
-"k": "org:university-of-hong-kong",
-"t": "academic",
-"n": "University of Hong Kong",
-"sub": "",
-"url": "",
-"c": "HK"
-},
-{
-"k": "org:special-project-for-research-and-development-in-key-areas-of",
-"t": "funder",
-"n": "Special Project for Research and Development in Key areas of Guangdong Province",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-33828217",
 "t": "paper",
 "n": "Diagnostic accuracy of deep learning in medical imaging: a systematic review and meta-anal",
-"sub": "npj Digital Medicine 2021 · cited 1067",
+"sub": "npj Digital Medicine 2021 · cited 1208",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33828217",
 "c": ""
 },
@@ -4304,18 +4368,10 @@
 "c": ""
 },
 {
-"k": "org:nihr-imperial-biomedical-research-centre",
-"t": "funder",
-"n": "NIHR Imperial Biomedical Research Centre",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:doi-10-1109-access-2020-2980942",
 "t": "paper",
 "n": "Analysis of Dimensionality Reduction Techniques on Big Data",
-"sub": "IEEE Access 2020 · cited 941",
+"sub": "IEEE Access 2020 · cited 1032",
 "url": "https://doi.org/10.1109/access.2020.2980942",
 "c": ""
 },
@@ -4355,7 +4411,7 @@
 "k": "paper:pmid-37857245",
 "t": "paper",
 "n": "Diabetes mellitus: Classification, mediators, and complications; A gate to identify potent",
-"sub": "Biomedicine & Pharmacotherapy 2023 · cited 838",
+"sub": "Biomedicine & Pharmacotherapy 2023 · cited 963",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37857245",
 "c": ""
 },
@@ -4365,14 +4421,6 @@
 "n": "Samar A. Antar",
 "sub": "Horus University – Egypt",
 "url": "https://orcid.org/0000-0002-1223-3579",
-"c": "EG"
-},
-{
-"k": "org:horus-university-egypt",
-"t": "academic",
-"n": "Horus University – Egypt",
-"sub": "",
-"url": "",
 "c": "EG"
 },
 {
@@ -4392,28 +4440,12 @@
 "c": "EG"
 },
 {
-"k": "org:mansoura-university",
-"t": "academic",
-"n": "Mansoura University",
-"sub": "",
-"url": "",
-"c": "EG"
-},
-{
 "k": "org:dongguk-university",
 "t": "academic",
 "n": "Dongguk University",
 "sub": "",
 "url": "",
 "c": "KR"
-},
-{
-"k": "person:ahmed-ali-al-karmalawy",
-"t": "person",
-"n": "Ahmed Ali Al-Karmalawy",
-"sub": "Horus University – Egypt",
-"url": "https://orcid.org/0000-0002-8173-6073",
-"c": "EG"
 },
 {
 "k": "org:ahram-canadian-university",
@@ -4456,10 +4488,42 @@
 "c": ""
 },
 {
+"k": "paper:doi-10-1145-3313831-3376718",
+"t": "paper",
+"n": "A Human-Centered Evaluation of a Deep Learning System Deployed in Clinics for the Detectio",
+"sub": "CHI Conference on Human Factors in Computing Systems 2020 · cited 849",
+"url": "https://doi.org/10.1145/3313831.3376718",
+"c": ""
+},
+{
+"k": "person:emma-beede",
+"t": "person",
+"n": "Emma Beede",
+"sub": "Google (United States)",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:google-united-states",
+"t": "company",
+"n": "Google (United States)",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:laura-vardoulakis",
+"t": "person",
+"n": "Laura Vardoulakis",
+"sub": "Google (United States)",
+"url": "https://orcid.org/0009-0009-9818-9334",
+"c": "US"
+},
+{
 "k": "paper:pmid-32113513",
 "t": "paper",
 "n": "Screening for diabetic retinopathy: new perspectives and challenges",
-"sub": "The Lancet Diabetes & Endocrinology 2020 · cited 741",
+"sub": "The Lancet Diabetes & Endocrinology 2020 · cited 798",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32113513",
 "c": ""
 },
@@ -4507,7 +4571,7 @@
 "k": "paper:pmid-32898686",
 "t": "paper",
 "n": "Digital technology, tele-medicine and artificial intelligence in ophthalmology: A global p",
-"sub": "Progress in Retinal and Eye Research 2020 · cited 704",
+"sub": "Progress in Retinal and Eye Research 2020 · cited 756",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32898686",
 "c": ""
 },
@@ -4536,20 +4600,20 @@
 "c": "GB"
 },
 {
+"k": "person:daniel-shu-wei-ting",
+"t": "person",
+"n": "Daniel Shu Wei Ting",
+"sub": "SingHealth",
+"url": "https://orcid.org/0000-0003-2264-7174",
+"c": "SG"
+},
+{
 "k": "org:singhealth",
 "t": "hospital",
 "n": "SingHealth",
 "sub": "",
 "url": "",
 "c": "SG"
-},
-{
-"k": "person:daniel-shu-wei-ting",
-"t": "person",
-"n": "Daniel Shu Wei Ting",
-"sub": "University of Nottingham",
-"url": "https://orcid.org/0000-0003-2264-7174",
-"c": "GB"
 },
 {
 "k": "org:verily-life-sciences",
@@ -4568,98 +4632,10 @@
 "c": ""
 },
 {
-"k": "paper:doi-10-1145-3313831-3376718",
-"t": "paper",
-"n": "A Human-Centered Evaluation of a Deep Learning System Deployed in Clinics for the Detectio",
-"sub": "CHI Conference on Human Factors in Computing Systems 2020 · cited 702",
-"url": "https://doi.org/10.1145/3313831.3376718",
-"c": ""
-},
-{
-"k": "person:emma-beede",
-"t": "person",
-"n": "Emma Beede",
-"sub": "Google (United States)",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:google-united-states",
-"t": "company",
-"n": "Google (United States)",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:laura-vardoulakis",
-"t": "person",
-"n": "Laura Vardoulakis",
-"sub": "Google (United States)",
-"url": "https://orcid.org/0009-0009-9818-9334",
-"c": "US"
-},
-{
-"k": "paper:pmid-33469209",
-"t": "paper",
-"n": "Current understanding of the molecular and cellular pathology of diabetic retinopathy",
-"sub": "Nature Reviews Endocrinology 2021 · cited 699",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33469209",
-"c": ""
-},
-{
-"k": "person:david-a-antonetti",
-"t": "person",
-"n": "David A. Antonetti",
-"sub": "University of Michigan",
-"url": "https://orcid.org/0000-0003-1130-6577",
-"c": "US"
-},
-{
-"k": "org:university-of-michigan",
-"t": "academic",
-"n": "University of Michigan",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:michigan-medicine",
-"t": "hospital",
-"n": "Michigan Medicine",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:alan-w-stitt",
-"t": "person",
-"n": "Alan W. Stitt",
-"sub": "Queen's University Belfast",
-"url": "https://orcid.org/0000-0002-8647-9918",
-"c": "GB"
-},
-{
-"k": "org:queen-s-university-belfast",
-"t": "academic",
-"n": "Queen's University Belfast",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "org:national-heart-lung-and-blood-institute",
-"t": "funder",
-"n": "National Heart, Lung, and Blood Institute",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-34050158",
 "t": "paper",
 "n": "A deep learning system for detecting diabetic retinopathy across the disease spectrum",
-"sub": "Nature Communications 2021 · cited 678",
+"sub": "Nature Communications 2021 · cited 737",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34050158",
 "c": ""
 },
@@ -4736,10 +4712,66 @@
 "c": ""
 },
 {
+"k": "paper:pmid-33469209",
+"t": "paper",
+"n": "Current understanding of the molecular and cellular pathology of diabetic retinopathy",
+"sub": "Nature Reviews Endocrinology 2021 · cited 731",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33469209",
+"c": ""
+},
+{
+"k": "person:david-a-antonetti",
+"t": "person",
+"n": "David A. Antonetti",
+"sub": "University of Michigan",
+"url": "https://orcid.org/0000-0003-1130-6577",
+"c": "US"
+},
+{
+"k": "org:university-of-michigan",
+"t": "academic",
+"n": "University of Michigan",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:michigan-medicine",
+"t": "hospital",
+"n": "Michigan Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:alan-w-stitt",
+"t": "person",
+"n": "Alan W. Stitt",
+"sub": "Queen's University Belfast",
+"url": "https://orcid.org/0000-0002-8647-9918",
+"c": "GB"
+},
+{
+"k": "org:queen-s-university-belfast",
+"t": "academic",
+"n": "Queen's University Belfast",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:national-heart-lung-and-blood-institute",
+"t": "funder",
+"n": "National Heart, Lung, and Blood Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-37623239",
 "t": "paper",
 "n": "Oxidative Stress in Type 2 Diabetes: Impacts from Pathogenesis to Lifestyle Modifications",
-"sub": "Current Issues in Molecular Biology 2023 · cited 672",
+"sub": "Current Issues in Molecular Biology 2023 · cited 722",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37623239",
 "c": ""
 },
@@ -4768,50 +4800,10 @@
 "c": "IT"
 },
 {
-"k": "paper:pmid-36389728",
-"t": "paper",
-"n": "ROS-triggered endothelial cell death mechanisms: Focus on pyroptosis, parthanatos, and fer",
-"sub": "Frontiers in Immunology 2022 · cited 603",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36389728",
-"c": ""
-},
-{
-"k": "person:dongdong-zheng",
-"t": "person",
-"n": "Dongdong Zheng",
-"sub": "Jilin University",
-"url": "https://orcid.org/0000-0001-6189-9046",
-"c": "CN"
-},
-{
-"k": "org:jilin-university",
-"t": "academic",
-"n": "Jilin University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "org:second-affiliated-hospital-of-jilin-university",
-"t": "hospital",
-"n": "Second Affiliated Hospital of Jilin University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:kexiang-liu",
-"t": "person",
-"n": "Kexiang Liu",
-"sub": "Jilin University",
-"url": "https://orcid.org/0000-0002-9350-4499",
-"c": "CN"
-},
-{
 "k": "paper:pmid-36699020",
 "t": "paper",
 "n": "Diabetic retinopathy: Looking forward to 2030",
-"sub": "Frontiers in Endocrinology 2023 · cited 599",
+"sub": "Frontiers in Endocrinology 2023 · cited 656",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36699020",
 "c": ""
 },
@@ -4827,7 +4819,7 @@
 "k": "paper:doi-10-1016-j-imu-2020-100377",
 "t": "paper",
 "n": "Diabetic retinopathy detection through deep learning techniques: A review",
-"sub": "Informatics in Medicine Unlocked 2020 · cited 577",
+"sub": "Informatics in Medicine Unlocked 2020 · cited 650",
 "url": "https://doi.org/10.1016/j.imu.2020.100377",
 "c": ""
 },
@@ -4856,82 +4848,10 @@
 "c": "SA"
 },
 {
-"k": "paper:pmid-35963508",
-"t": "paper",
-"n": "American Association of Clinical Endocrinology Clinical Practice Guideline: Developing a D",
-"sub": "Endocrine Practice 2022 · cited 574",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35963508",
-"c": ""
-},
-{
-"k": "person:lawrence-blonde",
-"t": "person",
-"n": "Lawrence Blonde",
-"sub": "Ochsner Health System",
-"url": "https://orcid.org/0000-0003-0492-6698",
-"c": "US"
-},
-{
-"k": "org:ochsner-health-system",
-"t": "hospital",
-"n": "Ochsner Health System",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:sandra-l-weber",
-"t": "person",
-"n": "Sandra L. Weber",
-"sub": "Prisma Health",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:prisma-health",
-"t": "hospital",
-"n": "Prisma Health",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:university-of-south-carolina",
-"t": "academic",
-"n": "University of South Carolina",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:american-diabetes-association",
-"t": "funder",
-"n": "American Diabetes Association",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:eli-lilly-and-company",
-"t": "funder",
-"n": "Eli Lilly and Company",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:sanofi",
-"t": "funder",
-"n": "Sanofi",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-36866156",
 "t": "paper",
 "n": "Diabetic retinopathy as the leading cause of blindness and early predictor of cascading co",
-"sub": "The EPMA Journal 2023 · cited 560",
+"sub": "The EPMA Journal 2023 · cited 621",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36866156",
 "c": ""
 },
@@ -5000,10 +4920,122 @@
 "c": ""
 },
 {
+"k": "paper:pmid-35963508",
+"t": "paper",
+"n": "American Association of Clinical Endocrinology Clinical Practice Guideline: Developing a D",
+"sub": "Endocrine Practice 2022 · cited 618",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35963508",
+"c": ""
+},
+{
+"k": "person:lawrence-blonde",
+"t": "person",
+"n": "Lawrence Blonde",
+"sub": "Ochsner Health System",
+"url": "https://orcid.org/0000-0003-0492-6698",
+"c": "US"
+},
+{
+"k": "org:ochsner-health-system",
+"t": "hospital",
+"n": "Ochsner Health System",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:sandra-l-weber",
+"t": "person",
+"n": "Sandra L. Weber",
+"sub": "Prisma Health",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:prisma-health",
+"t": "hospital",
+"n": "Prisma Health",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:university-of-south-carolina",
+"t": "academic",
+"n": "University of South Carolina",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:american-diabetes-association",
+"t": "funder",
+"n": "American Diabetes Association",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:eli-lilly-and-company",
+"t": "funder",
+"n": "Eli Lilly and Company",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:sanofi",
+"t": "funder",
+"n": "Sanofi",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36389728",
+"t": "paper",
+"n": "ROS-triggered endothelial cell death mechanisms: Focus on pyroptosis, parthanatos, and fer",
+"sub": "Frontiers in Immunology 2022 · cited 617",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36389728",
+"c": ""
+},
+{
+"k": "person:dongdong-zheng",
+"t": "person",
+"n": "Dongdong Zheng",
+"sub": "Jilin University",
+"url": "https://orcid.org/0000-0001-6189-9046",
+"c": "CN"
+},
+{
+"k": "org:jilin-university",
+"t": "academic",
+"n": "Jilin University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:second-affiliated-hospital-of-jilin-university",
+"t": "hospital",
+"n": "Second Affiliated Hospital of Jilin University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:kexiang-liu",
+"t": "person",
+"n": "Kexiang Liu",
+"sub": "Jilin University",
+"url": "https://orcid.org/0000-0002-9350-4499",
+"c": "CN"
+},
+{
 "k": "paper:pmid-35085503",
 "t": "paper",
 "n": "Efficacy, durability, and safety of intravitreal faricimab with extended dosing up to ever",
-"sub": "The Lancet 2022 · cited 553",
+"sub": "The Lancet 2022 · cited 574",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35085503",
 "c": ""
 },
@@ -5024,10 +5056,42 @@
 "c": "US"
 },
 {
+"k": "paper:pmid-39940862",
+"t": "paper",
+"n": "Type 2 Diabetes Mellitus: New Pathogenetic Mechanisms, Treatment and the Most Important Co",
+"sub": "International Journal of Molecular Sciences 2025 · cited 559",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39940862",
+"c": ""
+},
+{
+"k": "person:ewelina-mynarska",
+"t": "person",
+"n": "Ewelina Młynarska",
+"sub": "Medical University of Lodz",
+"url": "https://orcid.org/0000-0002-6799-4746",
+"c": "PL"
+},
+{
+"k": "org:medical-university-of-lodz",
+"t": "academic",
+"n": "Medical University of Lodz",
+"sub": "",
+"url": "",
+"c": "PL"
+},
+{
+"k": "person:beata-franczyk",
+"t": "person",
+"n": "Beata Franczyk",
+"sub": "Medical University of Lodz",
+"url": "https://orcid.org/0000-0003-4060-8822",
+"c": "PL"
+},
+{
 "k": "paper:pmid-33316144",
 "t": "paper",
 "n": "Update in the epidemiology, risk factors, screening, and treatment of diabetic retinopathy",
-"sub": "Journal of Diabetes Investigation 2020 · cited 512",
+"sub": "Journal of Diabetes Investigation 2020 · cited 556",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33316144",
 "c": ""
 },
@@ -5067,7 +5131,7 @@
 "k": "paper:pmid-33169099",
 "t": "paper",
 "n": "Deep learning and medical image processing for coronavirus (COVID-19) pandemic: A survey",
-"sub": "Sustainable Cities and Society 2020 · cited 499",
+"sub": "Sustainable Cities and Society 2020 · cited 534",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33169099",
 "c": ""
 },
@@ -5128,10 +5192,74 @@
 "c": ""
 },
 {
+"k": "paper:pmid-33885365",
+"t": "paper",
+"n": "Role of Artificial Intelligence Applications in Real-Life Clinical Practice: Systematic Re",
+"sub": "Journal of Medical Internet Research 2021 · cited 528",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33885365",
+"c": ""
+},
+{
+"k": "person:jiamin-yin",
+"t": "person",
+"n": "Jiamin Yin",
+"sub": "National University of Singapore",
+"url": "https://orcid.org/0000-0002-7596-2453",
+"c": "SG"
+},
+{
+"k": "person:hockhai-teo",
+"t": "person",
+"n": "Hock‐Hai Teo",
+"sub": "National University of Singapore",
+"url": "https://orcid.org/0000-0003-2463-7842",
+"c": "SG"
+},
+{
+"k": "paper:pmid-34076095",
+"t": "paper",
+"n": "Prevalência de diabetes mellitus e suas complicações e caracterização das lacunas na atenç",
+"sub": "Cadernos de Saúde Pública 2021 · cited 514",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34076095",
+"c": ""
+},
+{
+"k": "person:jessica-muzy",
+"t": "person",
+"n": "Jéssica Muzy",
+"sub": "Escola Nacional de Saúde Pública Sergio Arouca",
+"url": "https://orcid.org/0000-0003-2526-2317",
+"c": "BR"
+},
+{
+"k": "org:escola-nacional-de-saude-publica-sergio-arouca",
+"t": "academic",
+"n": "Escola Nacional de Saúde Pública Sergio Arouca",
+"sub": "",
+"url": "",
+"c": "BR"
+},
+{
+"k": "org:fundacao-oswaldo-cruz",
+"t": "academic",
+"n": "Fundação Oswaldo Cruz",
+"sub": "",
+"url": "",
+"c": "BR"
+},
+{
+"k": "person:joyce-mendes-de-andrade-schramm",
+"t": "person",
+"n": "Joyce Mendes de Andrade Schramm",
+"sub": "Escola Nacional de Saúde Pública Sergio Arouca",
+"url": "https://orcid.org/0000-0003-1064-7484",
+"c": "BR"
+},
+{
 "k": "paper:pmid-32426469",
 "t": "paper",
 "n": "Wireless smart contact lens for diabetic diagnosis and therapy",
-"sub": "Science Advances 2020 · cited 494",
+"sub": "Science Advances 2020 · cited 512",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32426469",
 "c": ""
 },
@@ -5176,34 +5304,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-33885365",
-"t": "paper",
-"n": "Role of Artificial Intelligence Applications in Real-Life Clinical Practice: Systematic Re",
-"sub": "Journal of Medical Internet Research 2021 · cited 480",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33885365",
-"c": ""
-},
-{
-"k": "person:jiamin-yin",
-"t": "person",
-"n": "Jiamin Yin",
-"sub": "National University of Singapore",
-"url": "https://orcid.org/0000-0002-7596-2453",
-"c": "SG"
-},
-{
-"k": "person:hockhai-teo",
-"t": "person",
-"n": "Hock‐Hai Teo",
-"sub": "National University of Singapore",
-"url": "https://orcid.org/0000-0003-2463-7842",
-"c": "SG"
-},
-{
 "k": "paper:pmid-33240272",
 "t": "paper",
 "n": "The Role of Inflammation in Diabetic Retinopathy",
-"sub": "Frontiers in Immunology 2020 · cited 476",
+"sub": "Frontiers in Immunology 2020 · cited 511",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33240272",
 "c": ""
 },
@@ -5232,42 +5336,58 @@
 "c": "GB"
 },
 {
-"k": "paper:pmid-39940862",
+"k": "paper:pmid-40434108",
 "t": "paper",
-"n": "Type 2 Diabetes Mellitus: New Pathogenetic Mechanisms, Treatment and the Most Important Co",
-"sub": "International Journal of Molecular Sciences 2025 · cited 471",
-"url": "https://pubmed.ncbi.nlm.nih.gov/39940862",
+"n": "Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD) in People With Diabetes: ",
+"sub": "Diabetes Care 2025 · cited 489",
+"url": "https://pubmed.ncbi.nlm.nih.gov/40434108",
 "c": ""
 },
 {
-"k": "person:ewelina-mynarska",
+"k": "person:kenneth-j-cusi",
 "t": "person",
-"n": "Ewelina Młynarska",
-"sub": "Medical University of Lodz",
-"url": "https://orcid.org/0000-0002-6799-4746",
-"c": "PL"
+"n": "Kenneth J. Cusi",
+"sub": "University of Florida Health",
+"url": "https://orcid.org/0000-0002-8629-418X",
+"c": "US"
 },
 {
-"k": "org:medical-university-of-lodz",
+"k": "org:university-of-florida-health",
 "t": "academic",
-"n": "Medical University of Lodz",
+"n": "University of Florida Health",
 "sub": "",
 "url": "",
-"c": "PL"
+"c": "US"
 },
 {
-"k": "person:beata-franczyk",
+"k": "org:university-of-florida",
+"t": "academic",
+"n": "University of Florida",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:mandeep-singh-bajaj",
 "t": "person",
-"n": "Beata Franczyk",
-"sub": "Medical University of Lodz",
-"url": "https://orcid.org/0000-0003-4060-8822",
-"c": "PL"
+"n": "Mandeep Singh Bajaj",
+"sub": "Baylor College of Medicine",
+"url": "https://orcid.org/0000-0001-7263-5425",
+"c": "US"
+},
+{
+"k": "org:baylor-college-of-medicine",
+"t": "academic",
+"n": "Baylor College of Medicine",
+"sub": "",
+"url": "",
+"c": "US"
 },
 {
 "k": "paper:pmid-35011044",
 "t": "paper",
 "n": "Gut Microbiota and Complications of Type-2 Diabetes",
-"sub": "Nutrients 2021 · cited 470",
+"sub": "Nutrients 2021 · cited 485",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35011044",
 "c": ""
 },
@@ -5320,58 +5440,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-40434108",
-"t": "paper",
-"n": "Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD) in People With Diabetes: ",
-"sub": "Diabetes Care 2025 · cited 465",
-"url": "https://pubmed.ncbi.nlm.nih.gov/40434108",
-"c": ""
-},
-{
-"k": "person:kenneth-j-cusi",
-"t": "person",
-"n": "Kenneth J. Cusi",
-"sub": "University of Florida Health",
-"url": "https://orcid.org/0000-0002-8629-418X",
-"c": "US"
-},
-{
-"k": "org:university-of-florida-health",
-"t": "academic",
-"n": "University of Florida Health",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:university-of-florida",
-"t": "academic",
-"n": "University of Florida",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:mandeep-singh-bajaj",
-"t": "person",
-"n": "Mandeep Singh Bajaj",
-"sub": "Baylor College of Medicine",
-"url": "https://orcid.org/0000-0001-7263-5425",
-"c": "US"
-},
-{
-"k": "org:baylor-college-of-medicine",
-"t": "academic",
-"n": "Baylor College of Medicine",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
 "k": "paper:pmid-37077883",
 "t": "paper",
 "n": "Diabetes prediction using machine learning and explainable AI techniques",
-"sub": "Healthcare Technology Letters 2022 · cited 416",
+"sub": "Healthcare Technology Letters 2022 · cited 478",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37077883",
 "c": ""
 },
@@ -5400,66 +5472,10 @@
 "c": "BD"
 },
 {
-"k": "paper:pmid-32915731",
-"t": "paper",
-"n": "CABNet: Category Attention Block for Imbalanced Diabetic Retinopathy Grading",
-"sub": "IEEE Transactions on Medical Imaging 2020 · cited 410",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32915731",
-"c": ""
-},
-{
-"k": "person:along-he",
-"t": "person",
-"n": "Along He",
-"sub": "Nankai University",
-"url": "https://orcid.org/0000-0003-1356-8757",
-"c": "CN"
-},
-{
-"k": "org:nankai-university",
-"t": "academic",
-"n": "Nankai University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:huazhu-fu",
-"t": "person",
-"n": "Huazhu Fu",
-"sub": "Inception Institute of Artificial Intelligence",
-"url": "https://orcid.org/0000-0002-9702-5524",
-"c": "AE"
-},
-{
-"k": "org:inception-institute-of-artificial-intelligence",
-"t": "academic",
-"n": "Inception Institute of Artificial Intelligence",
-"sub": "",
-"url": "",
-"c": "AE"
-},
-{
-"k": "org:chinese-academy-of-sciences",
-"t": "funder",
-"n": "Chinese Academy of Sciences",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:natural-science-foundation-of-tianjin-city",
-"t": "funder",
-"n": "Natural Science Foundation of Tianjin City",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-34305810",
 "t": "paper",
 "n": "Safety of Semaglutide",
-"sub": "Frontiers in Endocrinology 2021 · cited 403",
+"sub": "Frontiers in Endocrinology 2021 · cited 470",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34305810",
 "c": ""
 },
@@ -5496,113 +5512,97 @@
 "c": ""
 },
 {
-"k": "paper:pmid-32574761",
+"k": "paper:pmid-32915731",
 "t": "paper",
-"n": "HAWK and HARRIER",
-"sub": "Ophthalmology 2020 · cited 395",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32574761",
+"n": "CABNet: Category Attention Block for Imbalanced Diabetic Retinopathy Grading",
+"sub": "IEEE Transactions on Medical Imaging 2020 · cited 434",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32915731",
 "c": ""
 },
 {
-"k": "person:pravin-u-dugel",
+"k": "person:along-he",
 "t": "person",
-"n": "Pravin U. Dugel",
-"sub": "Retinal Consultants of Arizona",
-"url": "",
-"c": "US"
+"n": "Along He",
+"sub": "Nankai University",
+"url": "https://orcid.org/0000-0003-1356-8757",
+"c": "CN"
 },
 {
-"k": "org:retinal-consultants-of-arizona",
-"t": "hospital",
-"n": "Retinal Consultants of Arizona",
+"k": "org:nankai-university",
+"t": "academic",
+"n": "Nankai University",
 "sub": "",
 "url": "",
-"c": "US"
+"c": "CN"
 },
 {
-"k": "person:frank-gerhard-holz",
+"k": "person:huazhu-fu",
 "t": "person",
-"n": "Frank Gerhard Holz",
-"sub": "University of Bonn",
-"url": "https://orcid.org/0000-0001-8019-9272",
-"c": "DE"
+"n": "Huazhu Fu",
+"sub": "Inception Institute of Artificial Intelligence",
+"url": "https://orcid.org/0000-0002-9702-5524",
+"c": "AE"
 },
 {
-"k": "org:heidelberg-engineering",
+"k": "org:inception-institute-of-artificial-intelligence",
+"t": "academic",
+"n": "Inception Institute of Artificial Intelligence",
+"sub": "",
+"url": "",
+"c": "AE"
+},
+{
+"k": "org:natural-science-foundation-of-tianjin-city",
 "t": "funder",
-"n": "Heidelberg Engineering",
+"n": "Natural Science Foundation of Tianjin City",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:novartis-pharma",
-"t": "funder",
-"n": "Novartis Pharma",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-32053581",
+"k": "paper:pmid-34376678",
 "t": "paper",
-"n": "Trends in Incidence of Type 1 and Type 2 Diabetes Among Youths — Selected Counties and Ind",
-"sub": "MMWR Morbidity and Mortality Weekly Report 2020 · cited 387",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32053581",
+"n": "Automatic detection of 39 fundus diseases and conditions in retinal photographs using deep",
+"sub": "Nature Communications 2021 · cited 429",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34376678",
 "c": ""
 },
 {
-"k": "person:jasmin-divers",
+"k": "person:lingping-cen",
 "t": "person",
-"n": "Jasmin Divers",
-"sub": "NYU Grossman Long Island School of Medicine",
-"url": "https://orcid.org/0000-0003-0120-7620",
-"c": "US"
+"n": "Ling‐Ping Cen",
+"sub": "Chinese University of Hong Kong",
+"url": "https://orcid.org/0000-0003-3876-0606",
+"c": "HK"
 },
 {
-"k": "org:nyu-grossman-long-island-school-of-medicine",
+"k": "org:shantou-university",
 "t": "academic",
-"n": "NYU Grossman Long Island School of Medicine",
+"n": "Shantou University",
 "sub": "",
 "url": "",
-"c": "US"
+"c": "CN"
 },
 {
-"k": "org:new-york-university",
-"t": "academic",
-"n": "New York University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:lynne-e-wagenknecht",
+"k": "person:mingzhi-zhang",
 "t": "person",
-"n": "Lynne E. Wagenknecht",
-"sub": "Wake Forest University Health Sciences",
-"url": "https://orcid.org/0000-0002-9980-0889",
-"c": "US"
+"n": "Mingzhi Zhang",
+"sub": "Chinese University of Hong Kong",
+"url": "https://orcid.org/0000-0001-9032-7274",
+"c": "HK"
 },
 {
-"k": "org:wake-forest-university-health-sciences",
-"t": "foundation",
-"n": "Wake Forest University Health Sciences",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:wake-forest-university",
-"t": "academic",
-"n": "Wake Forest University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:national-center-for-chronic-disease-prevention-and-health-pr",
+"k": "org:li-ka-shing-foundation",
 "t": "funder",
-"n": "National Center for Chronic Disease Prevention and Health Promotion",
+"n": "Li Ka Shing Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:joint-shantou-international-eye-center",
+"t": "funder",
+"n": "Joint Shantou International Eye Center",
 "sub": "",
 "url": "",
 "c": ""
@@ -6610,16 +6610,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:advanced-medical-and-dental-institute-amdi-universiti-sains",
-"b": "trial:nct04552600",
-"r": "collaborates"
-},
-{
-"a": "org:advanced-research",
-"b": "trial:nct04278417",
-"r": "site_of"
-},
-{
 "a": "org:aerie-pharmaceuticals",
 "b": "drug:ar-1105-cf1",
 "r": "develops"
@@ -6637,6 +6627,11 @@
 {
 "a": "org:agency-for-science-technology-and-research",
 "b": "paper:pmid-32001821",
+"r": "funded"
+},
+{
+"a": "org:al-azhar-university",
+"b": "paper:pmid-34631658",
 "r": "funded"
 },
 {
@@ -6695,9 +6690,14 @@
 "r": "site_of"
 },
 {
-"a": "org:atlanta-va-medical-center",
-"b": "trial:nct07444892",
-"r": "site_of"
+"a": "org:atomic-energy-commission-of-syria",
+"b": "paper:pmid-28579961",
+"r": "funded"
+},
+{
+"a": "org:atomic-energy-commission-of-syria",
+"b": "paper:pmid-38102468",
+"r": "funded"
 },
 {
 "a": "org:barnet-dulaney-perkins-eye-center",
@@ -6713,11 +6713,6 @@
 "a": "org:barnet-dulaney-perkins-eye-center",
 "b": "trial:nct04740931",
 "r": "site_of"
-},
-{
-"a": "org:bausch-and-lomb",
-"b": "paper:pmid-32092363",
-"r": "funded"
 },
 {
 "a": "org:bayer",
@@ -6745,11 +6740,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:beijing-chaoyang-hospital",
-"b": "trial:nct06817265",
-"r": "site_of"
-},
-{
 "a": "org:beijing-hospital",
 "b": "trial:nct04667897",
 "r": "site_of"
@@ -6758,11 +6748,6 @@
 "a": "org:beijing-hospital",
 "b": "trial:nct05520177",
 "r": "site_of"
-},
-{
-"a": "org:beijing-municipal-science-and-technology-commission",
-"b": "paper:pmid-35503220",
-"r": "funded"
 },
 {
 "a": "org:beletalent-zhuhai-pharmaceutical",
@@ -6780,11 +6765,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:bill-and-melinda-gates-foundation",
-"b": "paper:pmid-33275949",
-"r": "funded"
-},
-{
 "a": "org:bioage-labs",
 "b": "drug:anti-vegf",
 "r": "develops"
@@ -6798,11 +6778,6 @@
 "a": "org:bioage-labs",
 "b": "trial:nct07812090",
 "r": "sponsors"
-},
-{
-"a": "org:blue-ocean-clinical-research-west",
-"b": "trial:nct05697809",
-"r": "site_of"
 },
 {
 "a": "org:boehringer-ingelheim",
@@ -6833,11 +6808,6 @@
 "a": "org:boehringer-ingelheim",
 "b": "trial:nct06962839",
 "r": "sponsors"
-},
-{
-"a": "org:british-society-for-haematology",
-"b": "paper:pmid-35645034",
-"r": "funded"
 },
 {
 "a": "org:california-eye-specialists-medical-group",
@@ -6905,11 +6875,6 @@
 "r": "site_of"
 },
 {
-"a": "org:charleston-neuroscience-institute",
-"b": "trial:nct05681884",
-"r": "site_of"
-},
-{
 "a": "org:chinese-academy-of-sciences",
 "b": "paper:pmid-32915731",
 "r": "funded"
@@ -6945,19 +6910,9 @@
 "r": "site_of"
 },
 {
-"a": "org:deyang-hospital-affiliated-to-chengdu-university-of-traditio",
-"b": "trial:nct06813274",
-"r": "site_of"
-},
-{
 "a": "org:eli-lilly-and-company",
 "b": "paper:pmid-35963508",
 "r": "funded"
-},
-{
-"a": "org:emmanuelli-research-and-development-center",
-"b": "trial:nct05697809",
-"r": "site_of"
 },
 {
 "a": "org:emory-university",
@@ -7015,21 +6970,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:f-hoffmann-la-roche",
-"b": "paper:pmid-38280653",
-"r": "funded"
-},
-{
-"a": "org:fifepoint-multispeciality-hospital-pvt",
-"b": "trial:nct04552600",
-"r": "site_of"
-},
-{
-"a": "org:fight-for-sight",
-"b": "paper:pmid-33275949",
-"r": "funded"
-},
-{
 "a": "org:florida-eye-associates",
 "b": "trial:nct04740905",
 "r": "site_of"
@@ -7048,6 +6988,11 @@
 "a": "org:florida-retina-consultants",
 "b": "trial:nct06790784",
 "r": "site_of"
+},
+{
+"a": "org:friedrich-alexander-universitat-erlangen-nurnberg",
+"b": "paper:pmid-39411143",
+"r": "funded"
 },
 {
 "a": "org:genentech",
@@ -7083,21 +7028,6 @@
 "a": "org:greater-houston-retina-research",
 "b": "trial:nct05681884",
 "r": "sponsors"
-},
-{
-"a": "org:guangyuan-north-sichuan-diabetes-specialty-hospital",
-"b": "trial:nct06813274",
-"r": "site_of"
-},
-{
-"a": "org:guizhou-provincial-people-s-hospital",
-"b": "trial:nct06817265",
-"r": "site_of"
-},
-{
-"a": "org:heidelberg-engineering",
-"b": "paper:pmid-32574761",
-"r": "funded"
 },
 {
 "a": "org:hejiang-ye",
@@ -7160,21 +7090,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:horizon-2020",
-"b": "paper:pmid-33971352",
-"r": "funded"
-},
-{
-"a": "org:hospital-of-chengdu-university-of-traditional-chinese-medici",
-"b": "trial:nct06813274",
-"r": "site_of"
-},
-{
-"a": "org:hyderabad-eye-research-foundation",
-"b": "paper:pmid-33595466",
-"r": "funded"
-},
-{
 "a": "org:incepta-pharmaceuticals",
 "b": "drug:lucentis",
 "r": "develops"
@@ -7191,11 +7106,6 @@
 },
 {
 "a": "org:institute-of-materials-research-and-engineering",
-"b": "paper:pmid-32001821",
-"r": "funded"
-},
-{
-"a": "org:institute-of-molecular-and-cell-biology",
 "b": "paper:pmid-32001821",
 "r": "funded"
 },
@@ -7255,9 +7165,9 @@
 "r": "funded"
 },
 {
-"a": "org:kaifeng-central-hospital",
-"b": "trial:nct06817265",
-"r": "site_of"
+"a": "org:joint-shantou-international-eye-center",
+"b": "paper:pmid-34376678",
+"r": "funded"
 },
 {
 "a": "org:khadija-ahmed-mhrose-glal",
@@ -7305,8 +7215,8 @@
 "r": "funded"
 },
 {
-"a": "org:lee-kong-chian-school-of-medicine-nanyang-technological-univ",
-"b": "paper:pmid-32001821",
+"a": "org:li-ka-shing-foundation",
+"b": "paper:pmid-34376678",
 "r": "funded"
 },
 {
@@ -7318,21 +7228,6 @@
 "a": "org:loma-linda-university",
 "b": "trial:nct06790784",
 "r": "site_of"
-},
-{
-"a": "org:lundquist-inst-biomed-at-harbor",
-"b": "trial:nct04278417",
-"r": "site_of"
-},
-{
-"a": "org:luoyang-third-people-s-hospital",
-"b": "trial:nct06817265",
-"r": "site_of"
-},
-{
-"a": "org:macula-foundation",
-"b": "paper:pmid-34029721",
-"r": "funded"
 },
 {
 "a": "org:medical-research-council",
@@ -7375,11 +7270,6 @@
 "r": "site_of"
 },
 {
-"a": "org:ministry-of-agriculture-malaysia",
-"b": "trial:nct04552600",
-"r": "collaborates"
-},
-{
 "a": "org:ministry-of-science-and-ict-south-korea",
 "b": "paper:pmid-32426469",
 "r": "funded"
@@ -7395,11 +7285,6 @@
 "r": "funded"
 },
 {
-"a": "org:miramar-eye-specialists",
-"b": "trial:nct04278417",
-"r": "site_of"
-},
-{
 "a": "org:modesto-ca",
 "b": "trial:nct05919693",
 "r": "site_of"
@@ -7410,11 +7295,6 @@
 "r": "site_of"
 },
 {
-"a": "org:morningside-center-for-innovative-and-affordable-medicine",
-"b": "trial:nct07444892",
-"r": "collaborates"
-},
-{
 "a": "org:mountain-view-california",
 "b": "trial:nct06664502",
 "r": "site_of"
@@ -7423,16 +7303,6 @@
 "a": "org:mountain-view-california",
 "b": "trial:nct07205887",
 "r": "site_of"
-},
-{
-"a": "org:national-center-for-chronic-disease-prevention-and-health-pr",
-"b": "paper:pmid-32053581",
-"r": "funded"
-},
-{
-"a": "org:national-center-for-research-resources",
-"b": "paper:pmid-33308475",
-"r": "funded"
 },
 {
 "a": "org:national-eye-institute",
@@ -7495,16 +7365,6 @@
 "r": "funded"
 },
 {
-"a": "org:national-institute-of-biomedical-imaging-and-bioengineering",
-"b": "paper:pmid-33308475",
-"r": "funded"
-},
-{
-"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
-"b": "paper:pmid-32053581",
-"r": "funded"
-},
-{
 "a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
 "b": "paper:pmid-32398868",
 "r": "funded"
@@ -7512,11 +7372,6 @@
 {
 "a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
 "b": "paper:pmid-35021057",
-"r": "funded"
-},
-{
-"a": "org:national-institute-of-neurological-disorders-and-stroke",
-"b": "paper:pmid-33308475",
 "r": "funded"
 },
 {
@@ -7536,7 +7391,22 @@
 },
 {
 "a": "org:national-key-research-and-development-program-of-china",
+"b": "paper:pmid-31632688",
+"r": "funded"
+},
+{
+"a": "org:national-key-research-and-development-program-of-china",
 "b": "paper:pmid-37709773",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-30555130",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-31632688",
 "r": "funded"
 },
 {
@@ -7547,6 +7417,11 @@
 {
 "a": "org:national-natural-science-foundation-of-china",
 "b": "paper:pmid-34050158",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-34376678",
 "r": "funded"
 },
 {
@@ -7605,11 +7480,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:nihr-imperial-biomedical-research-centre",
-"b": "paper:pmid-33828217",
-"r": "funded"
-},
-{
 "a": "org:northern-california-retina-vitreous-associates",
 "b": "trial:nct04592419",
 "r": "site_of"
@@ -7636,11 +7506,6 @@
 },
 {
 "a": "org:novartis",
-"b": "paper:pmid-32574761",
-"r": "funded"
-},
-{
-"a": "org:novartis",
 "b": "paper:pmid-33971352",
 "r": "funded"
 },
@@ -7663,11 +7528,6 @@
 "a": "org:novartis-investigative-site",
 "b": "trial:nct04264819",
 "r": "site_of"
-},
-{
-"a": "org:novartis-pharma",
-"b": "paper:pmid-32574761",
-"r": "funded"
 },
 {
 "a": "org:novartis-pharmaceuticals",
@@ -7810,11 +7670,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:palmetto-retina-center",
-"b": "trial:nct05681884",
-"r": "site_of"
-},
-{
 "a": "org:perfuse-therapeutics",
 "b": "drug:per-001-intravitreal-implant-high",
 "r": "develops"
@@ -7865,11 +7720,6 @@
 "r": "funded"
 },
 {
-"a": "org:premiere-practice-management",
-"b": "trial:nct04278417",
-"r": "site_of"
-},
-{
 "a": "org:qlaris-bio",
 "b": "drug:qls-111-ophthalmic-solution",
 "r": "develops"
@@ -7878,11 +7728,6 @@
 "a": "org:qlaris-bio",
 "b": "trial:nct07354477",
 "r": "sponsors"
-},
-{
-"a": "org:quest-international-university-malaysia",
-"b": "trial:nct04552600",
-"r": "collaborates"
 },
 {
 "a": "org:rand-eye-institute",
@@ -7952,11 +7797,6 @@
 {
 "a": "org:retina-associates-sw",
 "b": "trial:nct06270836",
-"r": "site_of"
-},
-{
-"a": "org:retina-consultants-of-minnesota",
-"b": "trial:nct05697809",
 "r": "site_of"
 },
 {
@@ -8055,11 +7895,6 @@
 "r": "site_of"
 },
 {
-"a": "org:retina-vitreous-assoc-medical-group",
-"b": "trial:nct04278417",
-"r": "site_of"
-},
-{
 "a": "org:retina-vitreous-associates",
 "b": "trial:nct03739593",
 "r": "site_of"
@@ -8112,11 +7947,6 @@
 {
 "a": "org:retinal-consultants-medical-group",
 "b": "trial:nct06962839",
-"r": "site_of"
-},
-{
-"a": "org:retinal-consultants-of-texas-san-antonio",
-"b": "trial:nct05697809",
 "r": "site_of"
 },
 {
@@ -8306,22 +8136,7 @@
 },
 {
 "a": "org:sanofi",
-"b": "paper:pmid-32574761",
-"r": "funded"
-},
-{
-"a": "org:sanofi",
 "b": "paper:pmid-35963508",
-"r": "funded"
-},
-{
-"a": "org:santen",
-"b": "paper:pmid-32092363",
-"r": "funded"
-},
-{
-"a": "org:schweizerischer-nationalfonds-zur-forderung-der-wissenschaft",
-"b": "paper:pmid-35021057",
 "r": "funded"
 },
 {
@@ -8375,14 +8190,9 @@
 "r": "sponsors"
 },
 {
-"a": "org:shenzhen-eye-hospital",
-"b": "trial:nct06817265",
-"r": "site_of"
-},
-{
-"a": "org:shijiazhuang-people-s-hospital",
-"b": "trial:nct06817265",
-"r": "site_of"
+"a": "org:shantou-university",
+"b": "paper:pmid-34376678",
+"r": "funded"
 },
 {
 "a": "org:sierra-eye-associates",
@@ -8408,11 +8218,6 @@
 "a": "org:southeast-retina-center-pc",
 "b": "trial:nct05296447",
 "r": "site_of"
-},
-{
-"a": "org:special-project-for-research-and-development-in-key-areas-of",
-"b": "paper:pmid-33248932",
-"r": "funded"
 },
 {
 "a": "org:sunshine-guojian-pharmaceutical-shanghai",
@@ -8470,16 +8275,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:the-first-affiliated-hospital-of-guangzhou-university-of-chi",
-"b": "trial:nct06817265",
-"r": "site_of"
-},
-{
-"a": "org:the-first-affiliated-hospital-of-guizhou-university-of-tradi",
-"b": "trial:nct06817265",
-"r": "site_of"
-},
-{
 "a": "org:the-retina-partners",
 "b": "trial:nct04503551",
 "r": "site_of"
@@ -8508,16 +8303,6 @@
 "a": "org:tianjing-medical-university-eye-hospital",
 "b": "trial:nct04667910",
 "r": "site_of"
-},
-{
-"a": "org:u-s-department-of-veterans-affairs",
-"b": "paper:pmid-33275949",
-"r": "funded"
-},
-{
-"a": "org:universiti-sains-malaysia",
-"b": "trial:nct04552600",
-"r": "collaborates"
 },
 {
 "a": "org:university-of-aberdeen",
@@ -8560,16 +8345,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:university-retina-and-macula-associates",
-"b": "trial:nct05697809",
-"r": "site_of"
-},
-{
-"a": "org:valley-retina-institute-pa",
-"b": "trial:nct05697809",
-"r": "site_of"
-},
-{
 "a": "org:vantage-biosciences",
 "b": "drug:vx-01",
 "r": "develops"
@@ -8585,11 +8360,6 @@
 "r": "funded"
 },
 {
-"a": "org:wake-forest-university",
-"b": "paper:pmid-32053581",
-"r": "funded"
-},
-{
 "a": "org:west-coast-retina-medical-group",
 "b": "trial:nct06790784",
 "r": "site_of"
@@ -8600,19 +8370,214 @@
 "r": "site_of"
 },
 {
-"a": "org:xuancheng-people-s-hospital",
-"b": "trial:nct06817265",
-"r": "site_of"
+"a": "paper:doi-10-1016-j-sajb-2021-08-006",
+"b": "asset:anxv",
+"r": "cites_asset"
 },
 {
-"a": "org:zhuhai-people-s-hospital",
-"b": "trial:nct06817265",
-"r": "site_of"
+"a": "paper:doi-10-1055-s-0044-1801666",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1101-2025-10-23-684193",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1136-annrheumdis-2017-eular-5003",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1136-jitc-2025-sitc2025-0988",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1158-1078-0432-c-6521751",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1158-1538-7445-am2025-831",
+"b": "asset:anxv",
+"r": "cites_asset"
 },
 {
 "a": "paper:doi-10-1200-jco-2024-42-16-suppl-e15024",
 "b": "asset:anxv",
 "r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1200-jco-2025-43-16-suppl-e15016",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-4049-jimmunol-200-supp-174-7",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:oa-w3029996863",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:oa-w3162727554",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-27552568",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-28579961",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-30555130",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-31632688",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-33604692",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-34631658",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-34874835",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-34974077",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-35870569",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-38102468",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-39411143",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-40002844",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-40727082",
+"b": "asset:anxv",
+"r": "cites_asset"
+},
+{
+"a": "person:a-welker",
+"b": "org:universitatsklinikum-tubingen",
+"r": "affiliated"
+},
+{
+"a": "person:a-welker",
+"b": "org:university-of-tubingen",
+"r": "affiliated"
+},
+{
+"a": "person:a-welker",
+"b": "paper:doi-10-1055-s-0044-1801666",
+"r": "authored"
+},
+{
+"a": "person:abdul-qader-abbady",
+"b": "org:atomic-energy-commission-of-syria",
+"r": "affiliated"
+},
+{
+"a": "person:abdul-qader-abbady",
+"b": "paper:pmid-28579961",
+"r": "authored"
+},
+{
+"a": "person:abdul-qader-abbady",
+"b": "paper:pmid-33604692",
+"r": "authored"
+},
+{
+"a": "person:abdul-qader-abbady",
+"b": "paper:pmid-38102468",
+"r": "authored"
+},
+{
+"a": "person:abraham-hang",
+"b": "org:university-of-california-davis",
+"r": "affiliated"
+},
+{
+"a": "person:abraham-hang",
+"b": "org:university-of-california-davis-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:abraham-hang",
+"b": "paper:pmid-37631054",
+"r": "authored"
+},
+{
+"a": "person:adil-hassan-alhusseiny",
+"b": "paper:pmid-27552568",
+"r": "authored"
+},
+{
+"a": "person:ahmed-a-ashour",
+"b": "org:horus-university-egypt",
+"r": "affiliated"
+},
+{
+"a": "person:ahmed-a-ashour",
+"b": "org:mansoura-university",
+"r": "affiliated"
+},
+{
+"a": "person:ahmed-a-ashour",
+"b": "paper:doi-10-1016-j-sajb-2021-08-006",
+"r": "authored"
+},
+{
+"a": "person:ahmed-a-zaki",
+"b": "org:horus-university-egypt",
+"r": "affiliated"
+},
+{
+"a": "person:ahmed-a-zaki",
+"b": "org:mansoura-university",
+"r": "affiliated"
+},
+{
+"a": "person:ahmed-a-zaki",
+"b": "paper:doi-10-1016-j-sajb-2021-08-006",
+"r": "authored"
 },
 {
 "a": "person:ahmed-ali-al-karmalawy",
@@ -8626,7 +8591,27 @@
 },
 {
 "a": "person:ahmed-ali-al-karmalawy",
+"b": "paper:doi-10-1016-j-sajb-2021-08-006",
+"r": "authored"
+},
+{
+"a": "person:ahmed-ali-al-karmalawy",
+"b": "paper:pmid-34631658",
+"r": "authored"
+},
+{
+"a": "person:ahmed-ali-al-karmalawy",
 "b": "paper:pmid-37857245",
+"r": "authored"
+},
+{
+"a": "person:ahmed-b-m-mehany",
+"b": "org:al-azhar-university",
+"r": "affiliated"
+},
+{
+"a": "person:ahmed-b-m-mehany",
+"b": "paper:pmid-34631658",
 "r": "authored"
 },
 {
@@ -8645,6 +8630,21 @@
 "r": "authored"
 },
 {
+"a": "person:aimin-dang",
+"b": "org:chinese-academy-of-medical-sciences-peking-union-medical-col",
+"r": "affiliated"
+},
+{
+"a": "person:aimin-dang",
+"b": "org:fu-wai-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:aimin-dang",
+"b": "paper:pmid-30555130",
+"r": "authored"
+},
+{
 "a": "person:alan-w-stitt",
 "b": "org:queen-s-university-belfast",
 "r": "affiliated"
@@ -8653,11 +8653,6 @@
 "a": "person:alan-w-stitt",
 "b": "paper:pmid-33469209",
 "r": "authored"
-},
-{
-"a": "person:alessandro-invernizzi",
-"b": "org:the-university-of-sydney",
-"r": "affiliated"
 },
 {
 "a": "person:alessandro-invernizzi",
@@ -8685,6 +8680,21 @@
 "r": "authored"
 },
 {
+"a": "person:alexis-anne-woodward",
+"b": "paper:doi-10-1200-jco-2025-43-16-suppl-e15016",
+"r": "authored"
+},
+{
+"a": "person:alexis-woodward",
+"b": "org:annexin-pharmaceuticals-sweden",
+"r": "affiliated"
+},
+{
+"a": "person:alexis-woodward",
+"b": "paper:doi-10-1136-jitc-2025-sitc2025-0988",
+"r": "authored"
+},
+{
 "a": "person:alfredo-caturano",
 "b": "org:university-of-campania-luigi-vanvitelli",
 "r": "affiliated"
@@ -8692,6 +8702,26 @@
 {
 "a": "person:alfredo-caturano",
 "b": "paper:pmid-37623239",
+"r": "authored"
+},
+{
+"a": "person:alice-maria-costa-martins",
+"b": "org:universidade-federal-do-ceara",
+"r": "affiliated"
+},
+{
+"a": "person:alice-maria-costa-martins",
+"b": "paper:pmid-34974077",
+"r": "authored"
+},
+{
+"a": "person:allen-c-eaves",
+"b": "org:stemcell-technologies",
+"r": "affiliated"
+},
+{
+"a": "person:allen-c-eaves",
+"b": "paper:doi-10-4049-jimmunol-200-supp-174-7",
 "r": "authored"
 },
 {
@@ -8713,11 +8743,6 @@
 "a": "person:along-he",
 "b": "paper:pmid-32915731",
 "r": "authored"
-},
-{
-"a": "person:aman-shah-abdul-majid-ph-d",
-"b": "org:quest-international-university",
-"r": "affiliated"
 },
 {
 "a": "person:aman-shah-abdul-majid-ph-d",
@@ -8790,6 +8815,21 @@
 "r": "investigator"
 },
 {
+"a": "person:anna-g-frostegard",
+"b": "org:annexin-pharmaceuticals-sweden",
+"r": "affiliated"
+},
+{
+"a": "person:anna-g-frostegard",
+"b": "paper:doi-10-1136-jitc-2025-sitc2025-0988",
+"r": "authored"
+},
+{
+"a": "person:anna-g-frostegard",
+"b": "paper:doi-10-1200-jco-2025-43-16-suppl-e15016",
+"r": "authored"
+},
+{
 "a": "person:ara-wardkes-darzi",
 "b": "org:imperial-college-london",
 "r": "affiliated"
@@ -8797,6 +8837,16 @@
 {
 "a": "person:ara-wardkes-darzi",
 "b": "paper:pmid-33828217",
+"r": "authored"
+},
+{
+"a": "person:aya-twair",
+"b": "org:atomic-energy-commission-of-syria",
+"r": "affiliated"
+},
+{
+"a": "person:aya-twair",
+"b": "paper:pmid-33604692",
 "r": "authored"
 },
 {
@@ -8817,6 +8867,16 @@
 {
 "a": "person:beata-franczyk",
 "b": "paper:pmid-39940862",
+"r": "authored"
+},
+{
+"a": "person:benjamin-g-davis",
+"b": "org:rosalind-franklin-institute",
+"r": "affiliated"
+},
+{
+"a": "person:benjamin-g-davis",
+"b": "paper:doi-10-1101-2025-10-23-684193",
 "r": "authored"
 },
 {
@@ -8855,6 +8915,11 @@
 "r": "authored"
 },
 {
+"a": "person:chao-ma",
+"b": "paper:pmid-34631658",
+"r": "authored"
+},
+{
 "a": "person:charles-c-wykoff",
 "b": "org:houston-methodist",
 "r": "affiliated"
@@ -8880,6 +8945,31 @@
 "r": "investigator"
 },
 {
+"a": "person:cheng-rou-ho",
+"b": "org:chang-gung-university",
+"r": "affiliated"
+},
+{
+"a": "person:cheng-rou-ho",
+"b": "paper:pmid-40002844",
+"r": "authored"
+},
+{
+"a": "person:chingping-tseng",
+"b": "org:chang-gung-memorial-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:chingping-tseng",
+"b": "org:chang-gung-university",
+"r": "affiliated"
+},
+{
+"a": "person:chingping-tseng",
+"b": "paper:pmid-40002844",
+"r": "authored"
+},
+{
 "a": "person:chingyu-cheng",
 "b": "org:national-university-of-singapore",
 "r": "affiliated"
@@ -8895,13 +8985,33 @@
 "r": "authored"
 },
 {
-"a": "person:chunxue-yang",
-"b": "org:university-of-hong-kong",
+"a": "person:christoffer-tandrup-nielsen",
+"b": "org:copenhagen-university-hospital",
 "r": "affiliated"
+},
+{
+"a": "person:christoffer-tandrup-nielsen",
+"b": "org:rigshospitalet",
+"r": "affiliated"
+},
+{
+"a": "person:christoffer-tandrup-nielsen",
+"b": "paper:pmid-34874835",
+"r": "authored"
 },
 {
 "a": "person:chunxue-yang",
 "b": "paper:pmid-33248932",
+"r": "authored"
+},
+{
+"a": "person:claudia-kalla",
+"b": "org:dr-margarete-fischer-bosch-institute-of-clinical-pharmacolog",
+"r": "affiliated"
+},
+{
+"a": "person:claudia-kalla",
+"b": "paper:doi-10-1158-1538-7445-am2025-831",
 "r": "authored"
 },
 {
@@ -8916,23 +9026,18 @@
 },
 {
 "a": "person:daniel-shu-wei-ting",
-"b": "org:singhealth",
+"b": "org:national-university-of-singapore",
 "r": "affiliated"
 },
 {
 "a": "person:daniel-shu-wei-ting",
-"b": "org:university-of-nottingham",
+"b": "org:singhealth",
 "r": "affiliated"
 },
 {
 "a": "person:daniel-shu-wei-ting",
 "b": "paper:pmid-32898686",
 "r": "authored"
-},
-{
-"a": "person:darren-shu-jeng-ting",
-"b": "org:singhealth",
-"r": "affiliated"
 },
 {
 "a": "person:darren-shu-jeng-ting",
@@ -9020,6 +9125,16 @@
 "r": "authored"
 },
 {
+"a": "person:emanuel-paula-magalhaes",
+"b": "org:universidade-federal-do-ceara",
+"r": "affiliated"
+},
+{
+"a": "person:emanuel-paula-magalhaes",
+"b": "paper:pmid-34974077",
+"r": "authored"
+},
+{
 "a": "person:emily-y-chew",
 "b": "org:national-institutes-of-health-nih",
 "r": "affiliated"
@@ -9040,16 +9155,6 @@
 "r": "authored"
 },
 {
-"a": "person:enrico-borrelli",
-"b": "org:irccs-ospedale-san-raffaele",
-"r": "affiliated"
-},
-{
-"a": "person:enrico-borrelli",
-"b": "paper:pmid-32960319",
-"r": "authored"
-},
-{
 "a": "person:ewelina-mynarska",
 "b": "org:medical-university-of-lodz",
 "r": "affiliated"
@@ -9060,6 +9165,41 @@
 "r": "authored"
 },
 {
+"a": "person:f-miranda",
+"b": "org:sapienza-university-of-rome",
+"r": "affiliated"
+},
+{
+"a": "person:f-miranda",
+"b": "paper:doi-10-1136-annrheumdis-2017-eular-5003",
+"r": "authored"
+},
+{
+"a": "person:fabrizio-conti",
+"b": "org:sapienza-university-of-rome",
+"r": "affiliated"
+},
+{
+"a": "person:fabrizio-conti",
+"b": "paper:doi-10-1136-annrheumdis-2017-eular-5003",
+"r": "authored"
+},
+{
+"a": "person:fanglin-gong",
+"b": "org:china-pharmaceutical-university",
+"r": "affiliated"
+},
+{
+"a": "person:fanglin-gong",
+"b": "org:state-key-laboratory-of-natural-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:fanglin-gong",
+"b": "paper:pmid-35870569",
+"r": "authored"
+},
+{
 "a": "person:ferdinando-carlo-sasso",
 "b": "org:university-of-campania-luigi-vanvitelli",
 "r": "affiliated"
@@ -9067,6 +9207,21 @@
 {
 "a": "person:ferdinando-carlo-sasso",
 "b": "paper:pmid-37623239",
+"r": "authored"
+},
+{
+"a": "person:fons-a-j-van-de-loo",
+"b": "org:radboud-university-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:fons-a-j-van-de-loo",
+"b": "org:radboud-university-nijmegen",
+"r": "affiliated"
+},
+{
+"a": "person:fons-a-j-van-de-loo",
+"b": "paper:pmid-40727082",
 "r": "authored"
 },
 {
@@ -9115,16 +9270,6 @@
 "r": "authored"
 },
 {
-"a": "person:frank-gerhard-holz",
-"b": "org:university-of-bonn",
-"r": "affiliated"
-},
-{
-"a": "person:frank-gerhard-holz",
-"b": "paper:pmid-32574761",
-"r": "authored"
-},
-{
 "a": "person:friedrich-asmus",
 "b": "org:oxular",
 "r": "affiliated"
@@ -9133,11 +9278,6 @@
 "a": "person:friedrich-asmus",
 "b": "trial:nct05697809",
 "r": "investigator"
-},
-{
-"a": "person:gabor-hollo",
-"b": "org:semmelweis-university",
-"r": "affiliated"
 },
 {
 "a": "person:gabor-hollo",
@@ -9192,16 +9332,6 @@
 {
 "a": "person:giovanni-staurenghi",
 "b": "paper:pmid-36912792",
-"r": "authored"
-},
-{
-"a": "person:giuseppe-querques",
-"b": "org:irccs-ospedale-san-raffaele",
-"r": "affiliated"
-},
-{
-"a": "person:giuseppe-querques",
-"b": "paper:pmid-32960319",
 "r": "authored"
 },
 {
@@ -9266,18 +9396,23 @@
 },
 {
 "a": "person:hongsheng-bi",
-"b": "org:shandong-university-of-traditional-chinese-medicine-affiliat",
-"r": "affiliated"
-},
-{
-"a": "person:hongsheng-bi",
 "b": "trial:nct06817265",
 "r": "investigator"
 },
 {
-"a": "person:huang-hu",
-"b": "org:university-of-missouri",
+"a": "person:hossam-murad",
+"b": "org:atomic-energy-commission-of-syria",
 "r": "affiliated"
+},
+{
+"a": "person:hossam-murad",
+"b": "paper:pmid-28579961",
+"r": "authored"
+},
+{
+"a": "person:hossam-murad",
+"b": "paper:pmid-38102468",
+"r": "authored"
 },
 {
 "a": "person:huang-hu",
@@ -9303,11 +9438,6 @@
 "a": "person:hutan-ashrafian",
 "b": "paper:pmid-33828217",
 "r": "authored"
-},
-{
-"a": "person:ingrid-ursula-scott",
-"b": "org:pennsylvania-state-university",
-"r": "affiliated"
 },
 {
 "a": "person:ingrid-ursula-scott",
@@ -9356,11 +9486,6 @@
 },
 {
 "a": "person:jaimie-d-steinmetz",
-"b": "org:university-of-washington",
-"r": "affiliated"
-},
-{
-"a": "person:jaimie-d-steinmetz",
 "b": "paper:pmid-33275949",
 "r": "authored"
 },
@@ -9380,21 +9505,6 @@
 "r": "authored"
 },
 {
-"a": "person:jasmin-divers",
-"b": "org:new-york-university",
-"r": "affiliated"
-},
-{
-"a": "person:jasmin-divers",
-"b": "org:nyu-grossman-long-island-school-of-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:jasmin-divers",
-"b": "paper:pmid-32053581",
-"r": "authored"
-},
-{
 "a": "person:jay-umed-sheth",
 "b": "org:surya-hospitals",
 "r": "affiliated"
@@ -9402,6 +9512,36 @@
 {
 "a": "person:jay-umed-sheth",
 "b": "paper:pmid-32971697",
+"r": "authored"
+},
+{
+"a": "person:jeroen-j-j-p-van-den-beucken",
+"b": "org:radboud-university-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:jeroen-j-j-p-van-den-beucken",
+"b": "org:radboud-university-nijmegen",
+"r": "affiliated"
+},
+{
+"a": "person:jeroen-j-j-p-van-den-beucken",
+"b": "paper:pmid-40727082",
+"r": "authored"
+},
+{
+"a": "person:jessica-muzy",
+"b": "org:escola-nacional-de-saude-publica-sergio-arouca",
+"r": "affiliated"
+},
+{
+"a": "person:jessica-muzy",
+"b": "org:fundacao-oswaldo-cruz",
+"r": "affiliated"
+},
+{
+"a": "person:jessica-muzy",
+"b": "paper:pmid-34076095",
 "r": "authored"
 },
 {
@@ -9415,6 +9555,16 @@
 "r": "authored"
 },
 {
+"a": "person:jiahuai-han",
+"b": "org:xiamen-university",
+"r": "affiliated"
+},
+{
+"a": "person:jiahuai-han",
+"b": "paper:pmid-31632688",
+"r": "authored"
+},
+{
 "a": "person:jiamin-yin",
 "b": "org:national-university-of-singapore",
 "r": "affiliated"
@@ -9425,9 +9575,14 @@
 "r": "authored"
 },
 {
-"a": "person:joanne-b-cole",
-"b": "org:boston-children-s-hospital",
+"a": "person:jiongcong-lu",
+"b": "org:xiamen-university",
 "r": "affiliated"
+},
+{
+"a": "person:jiongcong-lu",
+"b": "paper:pmid-31632688",
+"r": "authored"
 },
 {
 "a": "person:joanne-b-cole",
@@ -9466,22 +9621,42 @@
 },
 {
 "a": "person:jose-c-florez",
-"b": "org:harvard-university",
-"r": "affiliated"
-},
-{
-"a": "person:jose-c-florez",
 "b": "paper:pmid-32398868",
 "r": "authored"
 },
 {
 "a": "person:josh-o-wallsh",
-"b": "org:albany-medical-college",
+"b": "paper:pmid-33946803",
+"r": "authored"
+},
+{
+"a": "person:joyce-mendes-de-andrade-schramm",
+"b": "org:escola-nacional-de-saude-publica-sergio-arouca",
 "r": "affiliated"
 },
 {
-"a": "person:josh-o-wallsh",
-"b": "paper:pmid-33946803",
+"a": "person:joyce-mendes-de-andrade-schramm",
+"b": "org:fundacao-oswaldo-cruz",
+"r": "affiliated"
+},
+{
+"a": "person:joyce-mendes-de-andrade-schramm",
+"b": "paper:pmid-34076095",
+"r": "authored"
+},
+{
+"a": "person:julia-meidenbauer",
+"b": "org:friedrich-alexander-universitat-erlangen-nurnberg",
+"r": "affiliated"
+},
+{
+"a": "person:julia-meidenbauer",
+"b": "org:universitatsklinikum-erlangen",
+"r": "affiliated"
+},
+{
+"a": "person:julia-meidenbauer",
+"b": "paper:pmid-39411143",
 "r": "authored"
 },
 {
@@ -9606,12 +9781,22 @@
 },
 {
 "a": "person:lingam-vijaya",
-"b": "org:sankara-nethralaya",
+"b": "paper:pmid-33595466",
+"r": "authored"
+},
+{
+"a": "person:lingping-cen",
+"b": "org:chinese-university-of-hong-kong",
 "r": "affiliated"
 },
 {
-"a": "person:lingam-vijaya",
-"b": "paper:pmid-33595466",
+"a": "person:lingping-cen",
+"b": "org:shantou-university",
+"r": "affiliated"
+},
+{
+"a": "person:lingping-cen",
+"b": "paper:pmid-34376678",
 "r": "authored"
 },
 {
@@ -9626,27 +9811,12 @@
 },
 {
 "a": "person:lorenzo-motta",
-"b": "org:east-kent-hospitals-university-nhs-foundation-trust",
-"r": "affiliated"
-},
-{
-"a": "person:lorenzo-motta",
-"b": "org:william-harvey-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:lorenzo-motta",
 "b": "paper:pmid-37746113",
 "r": "authored"
 },
 {
 "a": "person:luca-cimino",
 "b": "org:azienda-sanitaria-unita-locale-di-reggio-emilia",
-"r": "affiliated"
-},
-{
-"a": "person:luca-cimino",
-"b": "org:university-of-modena-and-reggio-emilia",
 "r": "affiliated"
 },
 {
@@ -9665,26 +9835,6 @@
 "r": "authored"
 },
 {
-"a": "person:lynne-e-wagenknecht",
-"b": "org:wake-forest-university",
-"r": "affiliated"
-},
-{
-"a": "person:lynne-e-wagenknecht",
-"b": "org:wake-forest-university-health-sciences",
-"r": "affiliated"
-},
-{
-"a": "person:lynne-e-wagenknecht",
-"b": "paper:pmid-32053581",
-"r": "authored"
-},
-{
-"a": "person:makoto-aihara",
-"b": "org:the-university-of-tokyo",
-"r": "affiliated"
-},
-{
 "a": "person:makoto-aihara",
 "b": "paper:pmid-32092363",
 "r": "authored"
@@ -9698,16 +9848,6 @@
 "a": "person:mandeep-singh-bajaj",
 "b": "paper:pmid-40434108",
 "r": "authored"
-},
-{
-"a": "person:marc-yves-donath",
-"b": "org:university-hospital-of-basel",
-"r": "affiliated"
-},
-{
-"a": "person:marc-yves-donath",
-"b": "org:university-of-basel",
-"r": "affiliated"
 },
 {
 "a": "person:marc-yves-donath",
@@ -9728,11 +9868,6 @@
 "a": "person:marco-nassisi",
 "b": "paper:pmid-36912792",
 "r": "authored"
-},
-{
-"a": "person:marco-zeppieri",
-"b": "org:ospedale-santa-maria-della-misericordia-di-udine",
-"r": "affiliated"
 },
 {
 "a": "person:marco-zeppieri",
@@ -9805,11 +9940,6 @@
 "r": "authored"
 },
 {
-"a": "person:matt-shirley",
-"b": "org:springer-nature-new-zealand",
-"r": "affiliated"
-},
-{
 "a": "person:matthew-turk",
 "b": "org:st-joseph-s-health-care",
 "r": "affiliated"
@@ -9847,6 +9977,11 @@
 {
 "a": "person:md-jalil-piran",
 "b": "paper:pmid-33169099",
+"r": "authored"
+},
+{
+"a": "person:mei-dong",
+"b": "paper:pmid-35870569",
 "r": "authored"
 },
 {
@@ -9905,6 +10040,21 @@
 "r": "authored"
 },
 {
+"a": "person:mingzhi-zhang",
+"b": "org:chinese-university-of-hong-kong",
+"r": "affiliated"
+},
+{
+"a": "person:mingzhi-zhang",
+"b": "org:shantou-university",
+"r": "affiliated"
+},
+{
+"a": "person:mingzhi-zhang",
+"b": "paper:pmid-34376678",
+"r": "authored"
+},
+{
 "a": "person:mirela-delibegovic",
 "b": "org:university-of-aberdeen",
 "r": "affiliated"
@@ -9912,6 +10062,16 @@
 {
 "a": "person:mirela-delibegovic",
 "b": "paper:pmid-33240272",
+"r": "authored"
+},
+{
+"a": "person:mohammed-s-taghour",
+"b": "org:al-azhar-university",
+"r": "affiliated"
+},
+{
+"a": "person:mohammed-s-taghour",
+"b": "paper:pmid-34631658",
 "r": "authored"
 },
 {
@@ -9925,9 +10085,34 @@
 "r": "authored"
 },
 {
+"a": "person:neil-macdonald",
+"b": "org:stemcell-technologies",
+"r": "affiliated"
+},
+{
+"a": "person:neil-macdonald",
+"b": "paper:doi-10-4049-jimmunol-200-supp-174-7",
+"r": "authored"
+},
+{
 "a": "person:niaz-abdur-rahman",
 "b": "trial:nct06305416",
 "r": "investigator"
+},
+{
+"a": "person:niclas-stefan-rasmussen",
+"b": "org:copenhagen-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:niclas-stefan-rasmussen",
+"b": "org:rigshospitalet",
+"r": "affiliated"
+},
+{
+"a": "person:niclas-stefan-rasmussen",
+"b": "paper:pmid-34874835",
+"r": "authored"
 },
 {
 "a": "person:oana-camelia-iatcu",
@@ -9985,6 +10170,21 @@
 "r": "investigator"
 },
 {
+"a": "person:peng-wang",
+"b": "org:radboud-university-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:peng-wang",
+"b": "org:radboud-university-nijmegen",
+"r": "affiliated"
+},
+{
+"a": "person:peng-wang",
+"b": "paper:pmid-40727082",
+"r": "authored"
+},
+{
 "a": "person:peter-a-campochiaro",
 "b": "org:johns-hopkins-medicine",
 "r": "affiliated"
@@ -10001,11 +10201,6 @@
 },
 {
 "a": "person:peter-m-maloca",
-"b": "org:institute-of-molecular-and-clinical-ophthalmology-basel",
-"r": "affiliated"
-},
-{
-"a": "person:peter-m-maloca",
 "b": "paper:pmid-34029721",
 "r": "authored"
 },
@@ -10015,19 +10210,9 @@
 "r": "investigator"
 },
 {
-"a": "person:pravin-u-dugel",
-"b": "org:retinal-consultants-of-arizona",
-"r": "affiliated"
-},
-{
-"a": "person:pravin-u-dugel",
-"b": "paper:pmid-32574761",
+"a": "person:qing-zhang",
+"b": "paper:pmid-35870569",
 "r": "authored"
-},
-{
-"a": "person:qingzheng-kang",
-"b": "org:shenzhen-university",
-"r": "affiliated"
 },
 {
 "a": "person:qingzheng-kang",
@@ -10058,16 +10243,6 @@
 "a": "person:rafael-simo",
 "b": "paper:pmid-32113513",
 "r": "authored"
-},
-{
-"a": "person:ramin-tadayoni",
-"b": "org:hopital-lariboisiere",
-"r": "affiliated"
-},
-{
-"a": "person:ramin-tadayoni",
-"b": "org:universite-paris-cite",
-"r": "affiliated"
 },
 {
 "a": "person:ramin-tadayoni",
@@ -10106,11 +10281,6 @@
 },
 {
 "a": "person:richard-f-spaide",
-"b": "org:vitreous-retina-macula-consultants-of-new-york",
-"r": "affiliated"
-},
-{
-"a": "person:richard-f-spaide",
 "b": "paper:pmid-34029721",
 "r": "authored"
 },
@@ -10136,12 +10306,12 @@
 },
 {
 "a": "person:ron-p-gallemore",
-"b": "org:retina-macula-institute",
-"r": "affiliated"
+"b": "paper:pmid-33946803",
+"r": "authored"
 },
 {
-"a": "person:ron-p-gallemore",
-"b": "paper:pmid-33946803",
+"a": "person:saad-ahmed-ali-jadoo",
+"b": "paper:pmid-27552568",
 "r": "authored"
 },
 {
@@ -10172,6 +10342,16 @@
 {
 "a": "person:samir-n-patel",
 "b": "paper:pmid-32010879",
+"r": "authored"
+},
+{
+"a": "person:samuel-d-griggs",
+"b": "org:rosalind-franklin-institute",
+"r": "affiliated"
+},
+{
+"a": "person:samuel-d-griggs",
+"b": "paper:doi-10-1101-2025-10-23-684193",
 "r": "authored"
 },
 {
@@ -10256,12 +10436,17 @@
 },
 {
 "a": "person:sohan-singh-hayreh",
-"b": "org:university-of-iowa",
+"b": "paper:pmid-33713810",
+"r": "authored"
+},
+{
+"a": "person:sophia-steinlein",
+"b": "org:dr-margarete-fischer-bosch-institute-of-clinical-pharmacolog",
 "r": "affiliated"
 },
 {
-"a": "person:sohan-singh-hayreh",
-"b": "paper:pmid-33713810",
+"a": "person:sophia-steinlein",
+"b": "paper:doi-10-1158-1538-7445-am2025-831",
 "r": "authored"
 },
 {
@@ -10300,6 +10485,21 @@
 "r": "investigator"
 },
 {
+"a": "person:sum-fu-chiang",
+"b": "org:chang-gung-memorial-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:sum-fu-chiang",
+"b": "org:chang-gung-university",
+"r": "affiliated"
+},
+{
+"a": "person:sum-fu-chiang",
+"b": "paper:pmid-40002844",
+"r": "authored"
+},
+{
 "a": "person:sundaram-natarajan",
 "b": "org:aditya-jyot-eye-hospital",
 "r": "affiliated"
@@ -10331,6 +10531,16 @@
 },
 {
 "a": "person:susanna-s-park",
+"b": "org:university-of-california-davis-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:susanna-s-park",
+"b": "paper:pmid-37631054",
+"r": "authored"
+},
+{
+"a": "person:susanna-s-park",
 "b": "trial:nct03981549",
 "r": "investigator"
 },
@@ -10355,6 +10565,21 @@
 "r": "authored"
 },
 {
+"a": "person:t-bakchoul",
+"b": "org:universitatsklinikum-tubingen",
+"r": "affiliated"
+},
+{
+"a": "person:t-bakchoul",
+"b": "org:university-of-tubingen",
+"r": "affiliated"
+},
+{
+"a": "person:t-bakchoul",
+"b": "paper:doi-10-1055-s-0044-1801666",
+"r": "authored"
+},
+{
 "a": "person:tal-yahalomi",
 "b": "org:ben-gurion-university-of-the-negev",
 "r": "affiliated"
@@ -10373,11 +10598,6 @@
 "a": "person:thar-baker",
 "b": "paper:doi-10-1109-access-2020-2980942",
 "r": "authored"
-},
-{
-"a": "person:theresa-v-rohm",
-"b": "org:university-of-california-san-diego",
-"r": "affiliated"
 },
 {
 "a": "person:theresa-v-rohm",
@@ -10450,6 +10670,31 @@
 "r": "authored"
 },
 {
+"a": "person:tina-jost",
+"b": "org:friedrich-alexander-universitat-erlangen-nurnberg",
+"r": "affiliated"
+},
+{
+"a": "person:tina-jost",
+"b": "org:universitatsklinikum-erlangen",
+"r": "affiliated"
+},
+{
+"a": "person:tina-jost",
+"b": "paper:pmid-39411143",
+"r": "authored"
+},
+{
+"a": "person:tong-zhao",
+"b": "org:chinese-academy-of-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:tong-zhao",
+"b": "paper:pmid-30555130",
+"r": "authored"
+},
+{
 "a": "person:tristan-t-hormel",
 "b": "org:oregon-health-science-university",
 "r": "affiliated"
@@ -10473,11 +10718,6 @@
 "a": "person:tyler-hyungtaek-rim",
 "b": "paper:pmid-31977663",
 "r": "authored"
-},
-{
-"a": "person:uday-pratap-singh-parmar",
-"b": "org:government-medical-college-and-hospital",
-"r": "affiliated"
 },
 {
 "a": "person:uday-pratap-singh-parmar",
@@ -10640,14 +10880,24 @@
 "r": "authored"
 },
 {
-"a": "person:young-hee-yoon",
-"b": "org:asan-medical-center",
+"a": "person:xuesen-cheng",
+"b": "org:chinese-academy-of-medical-sciences-peking-union-medical-col",
 "r": "affiliated"
 },
 {
-"a": "person:young-hee-yoon",
-"b": "org:university-of-ulsan",
+"a": "person:xuesen-cheng",
+"b": "org:fu-wai-hospital",
 "r": "affiliated"
+},
+{
+"a": "person:xuesen-cheng",
+"b": "paper:oa-w3029996863",
+"r": "authored"
+},
+{
+"a": "person:xuesen-cheng",
+"b": "paper:pmid-30555130",
+"r": "authored"
 },
 {
 "a": "person:young-hee-yoon",
@@ -10677,6 +10927,21 @@
 {
 "a": "person:zhen-ling-teo",
 "b": "paper:pmid-33940045",
+"r": "authored"
+},
+{
+"a": "person:zhigui-su",
+"b": "org:china-pharmaceutical-university",
+"r": "affiliated"
+},
+{
+"a": "person:zhigui-su",
+"b": "org:state-key-laboratory-of-natural-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:zhigui-su",
+"b": "paper:pmid-35870569",
 "r": "authored"
 }
 ]

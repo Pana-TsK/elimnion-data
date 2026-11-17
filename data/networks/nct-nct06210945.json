@@ -1,6 +1,6 @@
 {
 "assetId": "nct-nct06210945",
-"updated": "2026-11-16",
+"updated": "2026-11-17",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 45
@@ -63,30 +63,6 @@
 "c": "Israel"
 },
 {
-"k": "trial:nct06025851",
-"t": "trial",
-"n": "Intravenous Doses of CM-101 as a Treatment for Medical Conditions Involving Inflammatory a",
-"sub": "P1 · completed · 2017-2018",
-"url": "https://clinicaltrials.gov/study/NCT06025851",
-"c": ""
-},
-{
-"k": "org:tel-aviv-sourasky-medical-center",
-"t": "hospital",
-"n": "Tel-Aviv Sourasky Medical Center",
-"sub": "",
-"url": "",
-"c": "Israel"
-},
-{
-"k": "person:jacob-atsmon",
-"t": "person",
-"n": "Jacob Atsmon",
-"sub": "principal investigator · Tel-Aviv Sourasky Medical Center",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct06210945",
 "t": "trial",
 "n": "Study to Evaluate the Safety, Tolerability, and Activity of CM-101 in Patients With System",
@@ -119,11 +95,91 @@
 "c": ""
 },
 {
+"k": "org:tel-aviv-sourasky-medical-center",
+"t": "hospital",
+"n": "Tel Aviv Sourasky Medical Center",
+"sub": "",
+"url": "",
+"c": "Israel"
+},
+{
+"k": "trial:nct06025851",
+"t": "trial",
+"n": "Intravenous Doses of CM-101 as a Treatment for Medical Conditions Involving Inflammatory a",
+"sub": "P1 · completed · 2017-2018",
+"url": "https://clinicaltrials.gov/study/NCT06025851",
+"c": ""
+},
+{
+"k": "person:jacob-atsmon",
+"t": "person",
+"n": "Jacob Atsmon",
+"sub": "principal investigator · Tel-Aviv Sourasky Medical Center",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct05824156",
 "t": "trial",
 "n": "CM-101 in NASH Patients - The SPLASH Study",
 "sub": "P2 · completed · 2021-2022",
 "url": "https://clinicaltrials.gov/study/NCT05824156",
+"c": ""
+},
+{
+"k": "trial:nct05029336",
+"t": "trial",
+"n": "Autologous Stem Cell Transplant (ASCT) for Autoimmune Diseases",
+"sub": "P2 · recruiting · 2026-2031",
+"url": "https://clinicaltrials.gov/study/NCT05029336",
+"c": ""
+},
+{
+"k": "org:stephan-grupp-md-phd",
+"t": "academic",
+"n": "Stephan Grupp MD PhD",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:children-s-hospital-of-philadelphia",
+"t": "hospital",
+"n": "Children's Hospital of Philadelphia",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "person:caitlin-elgarten",
+"t": "person",
+"n": "Caitlin Elgarten",
+"sub": "principal investigator · Children's Hospital of Philadelphia",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:depletion-of-cd3-cd19-in-an-autologous-stem-cell-transplant",
+"t": "drug",
+"n": "Depletion of CD3/CD19 in an autologous stem cell transplant",
+"sub": "Stephan Grupp MD PhD",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05925803",
+"t": "trial",
+"n": "Determine Effectiveness of Anifrolumab In SYstemic Sclerosis (DAISY)",
+"sub": "P3 · active_not_recruiting · 2023-2028",
+"url": "https://clinicaltrials.gov/study/NCT05925803",
+"c": ""
+},
+{
+"k": "org:astrazeneca",
+"t": "company",
+"n": "AstraZeneca",
+"sub": "",
+"url": "",
 "c": ""
 },
 {
@@ -247,30 +303,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07691970",
-"t": "trial",
-"n": "Rollover Study for Participants Who Have Completed a Previous Clinical Study With Anifrolu",
-"sub": "P3 · recruiting · 2026-2032",
-"url": "https://clinicaltrials.gov/study/NCT07691970",
-"c": ""
-},
-{
-"k": "org:astrazeneca",
-"t": "company",
-"n": "AstraZeneca",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:anifrolumab",
-"t": "drug",
-"n": "Anifrolumab",
-"sub": "AstraZeneca",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07295847",
 "t": "trial",
 "n": "A Study of AZD0120 in Autoimmune Diseases",
@@ -295,26 +327,18 @@
 "c": ""
 },
 {
-"k": "trial:nct07925619",
+"k": "trial:nct07691970",
 "t": "trial",
-"n": "Efficacy and Safety Study of L608 in Patients With Systemic Sclerosis-associated Digital U",
-"sub": "P2 · not_yet_recruiting · 2027-2028",
-"url": "https://clinicaltrials.gov/study/NCT07925619",
+"n": "Rollover Study for Participants Who Have Completed a Previous Clinical Study With Anifrolu",
+"sub": "P3 · recruiting · 2026-2032",
+"url": "https://clinicaltrials.gov/study/NCT07691970",
 "c": ""
 },
 {
-"k": "org:pharmosa-biopharm",
-"t": "company",
-"n": "Pharmosa Biopharm Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:l608",
+"k": "drug:anifrolumab",
 "t": "drug",
-"n": "L608",
-"sub": "Pharmosa Biopharm Inc.",
+"n": "Anifrolumab",
+"sub": "AstraZeneca",
 "url": "",
 "c": ""
 },
@@ -419,6 +443,30 @@
 "t": "drug",
 "n": "Ianalumab",
 "sub": "Novartis Pharmaceuticals",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07925619",
+"t": "trial",
+"n": "Efficacy and Safety Study of L608 in Patients With Systemic Sclerosis-associated Digital U",
+"sub": "P2 · not_yet_recruiting · 2027-2028",
+"url": "https://clinicaltrials.gov/study/NCT07925619",
+"c": ""
+},
+{
+"k": "org:pharmosa-biopharm",
+"t": "company",
+"n": "Pharmosa Biopharm Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:l608",
+"t": "drug",
+"n": "L608",
+"sub": "Pharmosa Biopharm Inc.",
 "url": "",
 "c": ""
 },
@@ -743,6 +791,54 @@
 "c": ""
 },
 {
+"k": "trial:nct07734012",
+"t": "trial",
+"n": "Mycophenolate After Stem Cell Transplant for Systemic Sclerosis",
+"sub": "P2 · not_yet_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07734012",
+"c": ""
+},
+{
+"k": "org:ottawa-hospital-research-institute",
+"t": "hospital",
+"n": "Ottawa Hospital Research Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:the-ottawa-hospital-academic-medical-organization-tohamo-inn",
+"t": "hospital",
+"n": "The Ottawa Hospital Academic Medical Organization (TOHAMO) Innovation Fund Grant.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:the-ottawa-hospital",
+"t": "hospital",
+"n": "The Ottawa Hospital",
+"sub": "",
+"url": "",
+"c": "Canada"
+},
+{
+"k": "person:nancy-maltez",
+"t": "person",
+"n": "Nancy Maltez",
+"sub": "principal investigator · The Ottawa Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:mycophenolate-mofetil",
+"t": "drug",
+"n": "Mycophenolate Mofetil",
+"sub": "Ottawa Hospital Research Institute",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07473154",
 "t": "trial",
 "n": "Controlling Hyperactive Immunity With Long-lived Lymphocytes",
@@ -847,142 +943,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07734012",
-"t": "trial",
-"n": "Mycophenolate After Stem Cell Transplant for Systemic Sclerosis",
-"sub": "P2 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07734012",
-"c": ""
-},
-{
-"k": "org:ottawa-hospital-research-institute",
-"t": "hospital",
-"n": "Ottawa Hospital Research Institute",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:the-ottawa-hospital-academic-medical-organization-tohamo-inn",
-"t": "hospital",
-"n": "The Ottawa Hospital Academic Medical Organization (TOHAMO) Innovation Fund Grant.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:the-ottawa-hospital",
-"t": "hospital",
-"n": "The Ottawa Hospital",
-"sub": "",
-"url": "",
-"c": "Canada"
-},
-{
-"k": "person:nancy-maltez",
-"t": "person",
-"n": "Nancy Maltez",
-"sub": "principal investigator · The Ottawa Hospital",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:mycophenolate-mofetil",
-"t": "drug",
-"n": "Mycophenolate Mofetil",
-"sub": "Ottawa Hospital Research Institute",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06655155",
-"t": "trial",
-"n": "A Study to Assess the Efficacy and Safety of Efgartigimod PH20 SC in Adults With Systemic ",
-"sub": "P2 · active_not_recruiting · 2024-2027",
-"url": "https://clinicaltrials.gov/study/NCT06655155",
-"c": ""
-},
-{
-"k": "org:argenx",
-"t": "company",
-"n": "argenx",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:arizona-arthritis-and-rheumatology-associates",
-"t": "company",
-"n": "Arizona Arthritis and Rheumatology Associates",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:ucla-ronald-reagan-university-of-california-los-angeles-medi",
-"t": "hospital",
-"n": "UCLA Ronald Reagan University of California Los Angeles Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-illinois-health-outpatient-care-center",
-"t": "hospital",
-"n": "University of Illinois Health Outpatient Care Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:delricht-research",
-"t": "company",
-"n": "DelRicht Research, LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:johns-hopkins-asthma-and-allergy-center",
-"t": "company",
-"n": "Johns Hopkins Asthma and Allergy Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:thomas-jefferson-university",
-"t": "academic",
-"n": "Thomas Jefferson University",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-michigan-hospital",
-"t": "hospital",
-"n": "University of Michigan Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:perelman-center-for-advanced-medicine",
-"t": "company",
-"n": "Perelman Center for Advanced Medicine",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:aprillus-asistencia-e-investigacion",
-"t": "company",
-"n": "Aprillus Asistencia e Investigacion",
-"sub": "",
-"url": "",
-"c": "Argentina"
-},
-{
 "k": "trial:nct06328777",
 "t": "trial",
 "n": "RESET-SSc: An Open-Label Study to Evaluate the Safety and Efficacy of CABA-201, a CD19-CAR",
@@ -1077,6 +1037,94 @@
 "sub": "Cabaletta Bio",
 "url": "",
 "c": ""
+},
+{
+"k": "trial:nct06655155",
+"t": "trial",
+"n": "A Study to Assess the Efficacy and Safety of Efgartigimod PH20 SC in Adults With Systemic ",
+"sub": "P2 · active_not_recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06655155",
+"c": ""
+},
+{
+"k": "org:argenx",
+"t": "company",
+"n": "argenx",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:arizona-arthritis-and-rheumatology-associates",
+"t": "company",
+"n": "Arizona Arthritis and Rheumatology Associates",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ucla-ronald-reagan-university-of-california-los-angeles-medi",
+"t": "hospital",
+"n": "UCLA Ronald Reagan University of California Los Angeles Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-illinois-health-outpatient-care-center",
+"t": "hospital",
+"n": "University of Illinois Health Outpatient Care Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:delricht-research",
+"t": "company",
+"n": "DelRicht Research, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:johns-hopkins-asthma-and-allergy-center",
+"t": "company",
+"n": "Johns Hopkins Asthma and Allergy Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:thomas-jefferson-university",
+"t": "academic",
+"n": "Thomas Jefferson University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-michigan-hospital",
+"t": "hospital",
+"n": "University of Michigan Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:perelman-center-for-advanced-medicine",
+"t": "company",
+"n": "Perelman Center for Advanced Medicine",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:aprillus-asistencia-e-investigacion",
+"t": "company",
+"n": "Aprillus Asistencia e Investigacion",
+"sub": "",
+"url": "",
+"c": "Argentina"
 },
 {
 "k": "trial:nct07493395",
@@ -1503,94 +1551,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06954597",
-"t": "trial",
-"n": "Safety and Tolerability of TOP-N53 Applied on Digital Ulcers in Patients With Systemic Scl",
-"sub": "P2 · recruiting · 2025-2026",
-"url": "https://clinicaltrials.gov/study/NCT06954597",
-"c": ""
-},
-{
-"k": "org:topadur-pharma",
-"t": "company",
-"n": "Topadur Pharma AG",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:bioskin",
-"t": "company",
-"n": "Bioskin GmbH",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:centre-hospitalier-universitaire-de-bordeaux-service-de-rhum",
-"t": "hospital",
-"n": "Centre Hospitalier Universitaire de Bordeaux, Service de Rhumatologie",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chu-grenoble-alpes",
-"t": "hospital",
-"n": "CHU Grenoble Alpes",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:chru-lille-hopital-claude-huriez-rue-michel-polonosvski",
-"t": "hospital",
-"n": "CHRU Lille, Hôpital Claude Huriez, Rue Michel Polonosvski",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:hopital-cochin",
-"t": "hospital",
-"n": "Hôpital Cochin",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:reha-rheinfelden-salinenstrasse-98",
-"t": "company",
-"n": "Reha Rheinfelden, Salinenstrasse 98",
-"sub": "",
-"url": "",
-"c": "Switzerland"
-},
-{
-"k": "org:universitatsspital-zurich-klinik-fur-rheumatologie-ramistras",
-"t": "hospital",
-"n": "Universitätsspital Zürich, Klinik für Rheumatologie, Rämistrasse 100",
-"sub": "",
-"url": "",
-"c": "Switzerland"
-},
-{
-"k": "drug:top-n53",
-"t": "drug",
-"n": "TOP-N53",
-"sub": "Topadur Pharma AG",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:sildenafil",
-"t": "drug",
-"n": "Sildenafil",
-"sub": "Topadur Pharma AG",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07782450",
 "t": "trial",
 "n": "A Study to Learn About a Medicine Called PF-08154225 in Participants With Autoimmune Disea",
@@ -1679,6 +1639,94 @@
 "c": ""
 },
 {
+"k": "trial:nct06954597",
+"t": "trial",
+"n": "Safety and Tolerability of TOP-N53 Applied on Digital Ulcers in Patients With Systemic Scl",
+"sub": "P2 · recruiting · 2025-2026",
+"url": "https://clinicaltrials.gov/study/NCT06954597",
+"c": ""
+},
+{
+"k": "org:topadur-pharma",
+"t": "company",
+"n": "Topadur Pharma AG",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:bioskin",
+"t": "company",
+"n": "Bioskin GmbH",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:centre-hospitalier-universitaire-de-bordeaux-service-de-rhum",
+"t": "hospital",
+"n": "Centre Hospitalier Universitaire de Bordeaux, Service de Rhumatologie",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chu-grenoble-alpes",
+"t": "hospital",
+"n": "CHU Grenoble Alpes",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:chru-lille-hopital-claude-huriez-rue-michel-polonosvski",
+"t": "hospital",
+"n": "CHRU Lille, Hôpital Claude Huriez, Rue Michel Polonosvski",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:hopital-cochin",
+"t": "hospital",
+"n": "Hôpital Cochin",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:reha-rheinfelden-salinenstrasse-98",
+"t": "company",
+"n": "Reha Rheinfelden, Salinenstrasse 98",
+"sub": "",
+"url": "",
+"c": "Switzerland"
+},
+{
+"k": "org:universitatsspital-zurich-klinik-fur-rheumatologie-ramistras",
+"t": "hospital",
+"n": "Universitätsspital Zürich, Klinik für Rheumatologie, Rämistrasse 100",
+"sub": "",
+"url": "",
+"c": "Switzerland"
+},
+{
+"k": "drug:top-n53",
+"t": "drug",
+"n": "TOP-N53",
+"sub": "Topadur Pharma AG",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:sildenafil",
+"t": "drug",
+"n": "Sildenafil",
+"sub": "Topadur Pharma AG",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct05149768",
 "t": "trial",
 "n": "Open Label Extension Study of Brentuximab Vedotin in Early dcSSc",
@@ -1700,14 +1748,6 @@
 "n": "Brentuximab vedotin",
 "sub": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Josep",
 "url": "",
-"c": ""
-},
-{
-"k": "trial:nct05925803",
-"t": "trial",
-"n": "Determine Effectiveness of Anifrolumab In SYstemic Sclerosis (DAISY)",
-"sub": "P3 · active_not_recruiting · 2023-2028",
-"url": "https://clinicaltrials.gov/study/NCT05925803",
 "c": ""
 },
 {
@@ -1911,22 +1951,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06828042",
-"t": "trial",
-"n": "Safety and Efficacy of Universal CD19-targeting CAR-γδT Cells in Refractory Autoimmune Dis",
-"sub": "P1/P2 · recruiting · 2025-2027",
-"url": "https://clinicaltrials.gov/study/NCT06828042",
-"c": ""
-},
-{
-"k": "drug:anti-cd19-car-t-cell-therapy",
-"t": "drug",
-"n": "anti-CD19 CAR T cell therapy",
-"sub": "Peking University Third Hospital",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct05270668",
 "t": "trial",
 "n": "Phase 2 Safety and Efficacy Study of Tulisokibart (MK-7240/PRA023) in Subjects With System",
@@ -1957,6 +1981,46 @@
 "sub": "Prometheus Biosciences, Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",
 "url": "",
 "c": ""
+},
+{
+"k": "trial:nct06828042",
+"t": "trial",
+"n": "Safety and Efficacy of Universal CD19-targeting CAR-γδT Cells in Refractory Autoimmune Dis",
+"sub": "P1/P2 · recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT06828042",
+"c": ""
+},
+{
+"k": "drug:anti-cd19-car-t-cell-therapy",
+"t": "drug",
+"n": "anti-CD19 CAR T cell therapy",
+"sub": "Peking University Third Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07827742",
+"t": "trial",
+"n": "Rituximab vs Placebo for Maintenance in Systemic Sclerosis - Interstitial Lung Disease",
+"sub": "P2 · not_yet_recruiting · 2026-2031",
+"url": "https://clinicaltrials.gov/study/NCT07827742",
+"c": ""
+},
+{
+"k": "org:ap-hp-hopital-cochin-27-rue-du-faubourg-saint-jacques-75014",
+"t": "hospital",
+"n": "AP-HP - Hôpital Cochin 27 Rue du Faubourg Saint Jacques 75014 France",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:cochin-hospital",
+"t": "hospital",
+"n": "Cochin Hospital",
+"sub": "",
+"url": "",
+"c": "France"
 },
 {
 "k": "trial:nct07335562",
@@ -2037,30 +2101,6 @@
 "sub": "Juno Therapeutics, Inc., a Bristol-Myers Squibb Company",
 "url": "",
 "c": ""
-},
-{
-"k": "trial:nct07827742",
-"t": "trial",
-"n": "Rituximab vs Placebo for Maintenance in Systemic Sclerosis - Interstitial Lung Disease",
-"sub": "P2 · not_yet_recruiting · 2026-2031",
-"url": "https://clinicaltrials.gov/study/NCT07827742",
-"c": ""
-},
-{
-"k": "org:ap-hp-hopital-cochin-27-rue-du-faubourg-saint-jacques-75014",
-"t": "hospital",
-"n": "AP-HP - Hôpital Cochin 27 Rue du Faubourg Saint Jacques 75014 France",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:cochin-hospital",
-"t": "hospital",
-"n": "Cochin Hospital",
-"sub": "",
-"url": "",
-"c": "France"
 },
 {
 "k": "trial:nct07821398",
@@ -2317,38 +2357,6 @@
 "sub": "Novartis Pharmaceuticals",
 "url": "",
 "c": ""
-},
-{
-"k": "trial:nct07800871",
-"t": "trial",
-"n": "FT839 in Autoimmune Diseases",
-"sub": "P1/P2 · recruiting · 2026-2040",
-"url": "https://clinicaltrials.gov/study/NCT07800871",
-"c": ""
-},
-{
-"k": "org:fate-therapeutics",
-"t": "company",
-"n": "Fate Therapeutics",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:providence-medical-foundation",
-"t": "foundation",
-"n": "Providence Medical Foundation",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:ft839",
-"t": "drug",
-"n": "FT839",
-"sub": "Fate Therapeutics",
-"url": "",
-"c": ""
 }
 ],
 "edges": [
@@ -2538,6 +2546,16 @@
 "r": "tested_in"
 },
 {
+"a": "drug:depletion-of-cd3-cd19-in-an-autologous-stem-cell-transplant",
+"b": "asset:nct-nct06210945",
+"r": "competes"
+},
+{
+"a": "drug:depletion-of-cd3-cd19-in-an-autologous-stem-cell-transplant",
+"b": "trial:nct05029336",
+"r": "tested_in"
+},
+{
 "a": "drug:fapi-tracer",
 "b": "asset:nct-nct06210945",
 "r": "competes"
@@ -2570,16 +2588,6 @@
 {
 "a": "drug:fludarabine-phosphate",
 "b": "trial:nct06434363",
-"r": "tested_in"
-},
-{
-"a": "drug:ft839",
-"b": "asset:nct-nct06210945",
-"r": "competes"
-},
-{
-"a": "drug:ft839",
-"b": "trial:nct07800871",
 "r": "tested_in"
 },
 {
@@ -3103,6 +3111,11 @@
 "r": "sponsors"
 },
 {
+"a": "org:children-s-hospital-of-philadelphia",
+"b": "trial:nct05029336",
+"r": "site_of"
+},
+{
 "a": "org:chru-lille",
 "b": "trial:nct07493395",
 "r": "site_of"
@@ -3221,16 +3234,6 @@
 "a": "org:encompassc-site-in-phoenix-az",
 "b": "trial:nct07287670",
 "r": "site_of"
-},
-{
-"a": "org:fate-therapeutics",
-"b": "drug:ft839",
-"r": "develops"
-},
-{
-"a": "org:fate-therapeutics",
-"b": "trial:nct07800871",
-"r": "sponsors"
 },
 {
 "a": "org:fl-medical-clinic-orlando-health",
@@ -3803,11 +3806,6 @@
 "r": "sponsors"
 },
 {
-"a": "org:providence-medical-foundation",
-"b": "trial:nct07800871",
-"r": "site_of"
-},
-{
 "a": "org:quell-therapeutics",
 "b": "drug:qel-005",
 "r": "develops"
@@ -3876,6 +3874,16 @@
 "a": "org:stanford-university-school-of-medicine",
 "b": "trial:nct07497087",
 "r": "site_of"
+},
+{
+"a": "org:stephan-grupp-md-phd",
+"b": "drug:depletion-of-cd3-cd19-in-an-autologous-stem-cell-transplant",
+"r": "develops"
+},
+{
+"a": "org:stephan-grupp-md-phd",
+"b": "trial:nct05029336",
+"r": "sponsors"
 },
 {
 "a": "org:sutter-health-network",
@@ -4220,6 +4228,16 @@
 {
 "a": "person:bristol-myers-squibb",
 "b": "trial:nct07335562",
+"r": "investigator"
+},
+{
+"a": "person:caitlin-elgarten",
+"b": "org:children-s-hospital-of-philadelphia",
+"r": "affiliated"
+},
+{
+"a": "person:caitlin-elgarten",
+"b": "trial:nct05029336",
 "r": "investigator"
 },
 {

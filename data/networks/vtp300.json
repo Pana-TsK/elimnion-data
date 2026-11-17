@@ -1,6 +1,6 @@
 {
 "assetId": "vtp300",
-"updated": "2026-11-16",
+"updated": "2026-11-17",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 42,
@@ -328,11 +328,11 @@
 "c": ""
 },
 {
-"k": "trial:nct06537414",
+"k": "trial:nct06497504",
 "t": "trial",
-"n": "A Study of Sequential Therapy With Daplusiran/Tomligisiran (DAP/TOM) Followed by Bepirovir",
-"sub": "P2 · active_not_recruiting · 2024-2030",
-"url": "https://clinicaltrials.gov/study/NCT06537414",
+"n": "Study of Bepirovirsen in Participants Living With Human Immunodeficiency Virus and Chronic",
+"sub": "P2 · active_not_recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06497504",
 "c": ""
 },
 {
@@ -352,14 +352,6 @@
 "c": "United States"
 },
 {
-"k": "drug:daplusiran-tomligisiran",
-"t": "drug",
-"n": "Daplusiran/Tomligisiran",
-"sub": "GlaxoSmithKline",
-"url": "",
-"c": ""
-},
-{
 "k": "drug:bepirovirsen",
 "t": "drug",
 "n": "Bepirovirsen",
@@ -368,11 +360,27 @@
 "c": ""
 },
 {
-"k": "trial:nct06497504",
+"k": "trial:nct06537414",
 "t": "trial",
-"n": "Study of Bepirovirsen in Participants Living With Human Immunodeficiency Virus and Chronic",
-"sub": "P2 · active_not_recruiting · 2024-2027",
-"url": "https://clinicaltrials.gov/study/NCT06497504",
+"n": "A Study of Sequential Therapy With Daplusiran/Tomligisiran (DAP/TOM) Followed by Bepirovir",
+"sub": "P2 · active_not_recruiting · 2024-2030",
+"url": "https://clinicaltrials.gov/study/NCT06537414",
+"c": ""
+},
+{
+"k": "drug:daplusiran-tomligisiran",
+"t": "drug",
+"n": "Daplusiran/Tomligisiran",
+"sub": "GlaxoSmithKline",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct04954859",
+"t": "trial",
+"n": "Long-term Follow-up Study to Evaluate Durability of Treatment Response in Previous Bepirov",
+"sub": "P2 · active_not_recruiting · 2021-2029",
+"url": "https://clinicaltrials.gov/study/NCT04954859",
 "c": ""
 },
 {
@@ -396,126 +404,6 @@
 "t": "drug",
 "n": "HT-101 + HT-102",
 "sub": "Suzhou HepaThera Biotech Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct04954859",
-"t": "trial",
-"n": "Long-term Follow-up Study to Evaluate Durability of Treatment Response in Previous Bepirov",
-"sub": "P2 · active_not_recruiting · 2021-2029",
-"url": "https://clinicaltrials.gov/study/NCT04954859",
-"c": ""
-},
-{
-"k": "trial:nct07654283",
-"t": "trial",
-"n": "Study of AHB-137 in Chronic Hepatitis B (CHB) Participants in North America and Europe Reg",
-"sub": "P2 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07654283",
-"c": ""
-},
-{
-"k": "org:ausperbio-therapeutics",
-"t": "company",
-"n": "AusperBio Therapeutics Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:audrey-lau",
-"t": "person",
-"n": "Audrey Lau",
-"sub": "study director · AusperBio Therapeutics Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "org:stanford-university-school-of-medicine",
-"t": "academic",
-"n": "Stanford University School of Medicine",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:institute-of-human-virology",
-"t": "academic",
-"n": "Institute of Human Virology",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:nyu-langone-health",
-"t": "hospital",
-"n": "NYU Langone Health",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:texas-liver-institute",
-"t": "academic",
-"n": "Texas Liver Institute",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-calgary",
-"t": "academic",
-"n": "University of Calgary",
-"sub": "",
-"url": "",
-"c": "Canada"
-},
-{
-"k": "org:toronto-general-hospital",
-"t": "hospital",
-"n": "Toronto General Hospital",
-"sub": "",
-"url": "",
-"c": "Canada"
-},
-{
-"k": "org:hopital-beaujon",
-"t": "hospital",
-"n": "Hôpital Beaujon",
-"sub": "",
-"url": "",
-"c": "France"
-},
-{
-"k": "org:clinica-mangiagalli",
-"t": "hospital",
-"n": "Clinica Mangiagalli",
-"sub": "",
-"url": "",
-"c": "Italy"
-},
-{
-"k": "org:vall-d-hebron-hospital",
-"t": "hospital",
-"n": "Vall d'Hebron Hospital",
-"sub": "",
-"url": "",
-"c": "Spain"
-},
-{
-"k": "org:king-s-college-hospital",
-"t": "hospital",
-"n": "King's College Hospital",
-"sub": "",
-"url": "",
-"c": "United Kingdom"
-},
-{
-"k": "drug:ahb-137",
-"t": "drug",
-"n": "AHB-137",
-"sub": "AusperBio Therapeutics Inc.",
 "url": "",
 "c": ""
 },
@@ -662,6 +550,118 @@
 "sub": "",
 "url": "",
 "c": "China"
+},
+{
+"k": "trial:nct07654283",
+"t": "trial",
+"n": "Study of AHB-137 in Chronic Hepatitis B (CHB) Participants in North America and Europe Reg",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07654283",
+"c": ""
+},
+{
+"k": "org:ausperbio-therapeutics",
+"t": "company",
+"n": "AusperBio Therapeutics Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:audrey-lau",
+"t": "person",
+"n": "Audrey Lau",
+"sub": "study director · AusperBio Therapeutics Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "org:stanford-university-school-of-medicine",
+"t": "academic",
+"n": "Stanford University School of Medicine",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:institute-of-human-virology",
+"t": "academic",
+"n": "Institute of Human Virology",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:nyu-langone-health",
+"t": "hospital",
+"n": "NYU Langone Health",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:texas-liver-institute",
+"t": "academic",
+"n": "Texas Liver Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-calgary",
+"t": "academic",
+"n": "University of Calgary",
+"sub": "",
+"url": "",
+"c": "Canada"
+},
+{
+"k": "org:toronto-general-hospital",
+"t": "hospital",
+"n": "Toronto General Hospital",
+"sub": "",
+"url": "",
+"c": "Canada"
+},
+{
+"k": "org:hopital-beaujon",
+"t": "hospital",
+"n": "Hôpital Beaujon",
+"sub": "",
+"url": "",
+"c": "France"
+},
+{
+"k": "org:clinica-mangiagalli",
+"t": "hospital",
+"n": "Clinica Mangiagalli",
+"sub": "",
+"url": "",
+"c": "Italy"
+},
+{
+"k": "org:vall-d-hebron-hospital",
+"t": "hospital",
+"n": "Vall d'Hebron Hospital",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "org:king-s-college-hospital",
+"t": "hospital",
+"n": "King's College Hospital",
+"sub": "",
+"url": "",
+"c": "United Kingdom"
+},
+{
+"k": "drug:ahb-137",
+"t": "drug",
+"n": "AHB-137",
+"sub": "AusperBio Therapeutics Inc.",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct07897448",
@@ -1488,11 +1488,11 @@
 "c": ""
 },
 {
-"k": "trial:nct07364448",
+"k": "trial:nct07417553",
 "t": "trial",
-"n": "A Study to Evaluate the Safety of Hydronidone Capsules in Patients With Liver Fibrosis",
+"n": "A Study of Hydronidone Capsules in Patients With Chronic Hepatitis B Virus-Related Liver F",
 "sub": "P2 · completed · 2026-2026",
-"url": "https://clinicaltrials.gov/study/NCT07364448",
+"url": "https://clinicaltrials.gov/study/NCT07417553",
 "c": ""
 },
 {
@@ -1504,9 +1504,9 @@
 "c": ""
 },
 {
-"k": "org:jilin-university-first-hospital",
+"k": "org:chongqing-medical-university-second-affiliated-hospital",
 "t": "hospital",
-"n": "Jilin University First Hospital",
+"n": "Chongqing Medical University Second Affiliated Hospital",
 "sub": "",
 "url": "",
 "c": "China"
@@ -1520,17 +1520,17 @@
 "c": ""
 },
 {
-"k": "trial:nct07417553",
+"k": "trial:nct07364448",
 "t": "trial",
-"n": "A Study of Hydronidone Capsules in Patients With Chronic Hepatitis B Virus-Related Liver F",
+"n": "A Study to Evaluate the Safety of Hydronidone Capsules in Patients With Liver Fibrosis",
 "sub": "P2 · completed · 2026-2026",
-"url": "https://clinicaltrials.gov/study/NCT07417553",
+"url": "https://clinicaltrials.gov/study/NCT07364448",
 "c": ""
 },
 {
-"k": "org:chongqing-medical-university-second-affiliated-hospital",
+"k": "org:jilin-university-first-hospital",
 "t": "hospital",
-"n": "Chongqing Medical University Second Affiliated Hospital",
+"n": "Jilin University First Hospital",
 "sub": "",
 "url": "",
 "c": "China"
@@ -1608,30 +1608,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07069569",
-"t": "trial",
-"n": "A Multicenter Study of AHB-137 Injection Combined With Other Hepatitis B Drugs",
-"sub": "P2 · recruiting · 2025-2028",
-"url": "https://clinicaltrials.gov/study/NCT07069569",
-"c": ""
-},
-{
-"k": "org:beijing-friendship-hospital",
-"t": "hospital",
-"n": "Beijing Friendship Hospital",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:hepatitis-b-vaccine",
-"t": "drug",
-"n": "Hepatitis B Vaccine",
-"sub": "Ausper Biopharma Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07635186",
 "t": "trial",
 "n": "A Study to Evaluate AHB-137 Injection in Treatment-naïve Participants With Chronic Hepatit",
@@ -1660,6 +1636,30 @@
 "t": "person",
 "n": "Peng Hu",
 "sub": "principal investigator · The Second Affiliated Hospital of Chongqing Medical University",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07069569",
+"t": "trial",
+"n": "A Multicenter Study of AHB-137 Injection Combined With Other Hepatitis B Drugs",
+"sub": "P2 · recruiting · 2025-2028",
+"url": "https://clinicaltrials.gov/study/NCT07069569",
+"c": ""
+},
+{
+"k": "org:beijing-friendship-hospital",
+"t": "hospital",
+"n": "Beijing Friendship Hospital",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "drug:hepatitis-b-vaccine",
+"t": "drug",
+"n": "Hepatitis B Vaccine",
+"sub": "Ausper Biopharma Co., Ltd.",
 "url": "",
 "c": ""
 },
@@ -1883,7 +1883,7 @@
 "k": "paper:pmid-38972484",
 "t": "paper",
 "n": "Phase Ib/IIa randomized study of heterologous ChAdOx1-HBV/MVA-HBV therapeutic vaccination ",
-"sub": "Journal of Hepatology 2024 · cited 59",
+"sub": "Journal of Hepatology 2024 · cited 64",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38972484",
 "c": ""
 },
@@ -1931,7 +1931,7 @@
 "k": "paper:pmid-36808695",
 "t": "paper",
 "n": "HBV cure—The light at the end of the tunnel?",
-"sub": "Liver International 2023 · cited 3",
+"sub": "Liver International 2023 · cited 4",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36808695",
 "c": ""
 },
@@ -1992,10 +1992,34 @@
 "c": "GB"
 },
 {
+"k": "paper:doi-10-1016-s0168-8278-24-00472-0",
+"t": "paper",
+"n": "OS-031 Imdusiran (AB-729) administered every 8 weeks for 24 weeks followed by the immunoth",
+"sub": "Journal of Hepatology 2024 · cited 10",
+"url": "https://doi.org/10.1016/s0168-8278(24)00472-0",
+"c": ""
+},
+{
+"k": "person:kosh-agarwal",
+"t": "person",
+"n": "Kosh Agarwal",
+"sub": "",
+"url": "https://orcid.org/0000-0002-4754-828X",
+"c": ""
+},
+{
+"k": "person:karen-sims",
+"t": "person",
+"n": "Karen Sims",
+"sub": "",
+"url": "https://orcid.org/0000-0002-4824-494X",
+"c": ""
+},
+{
 "k": "paper:doi-10-5380-rsa-v18i4-54252",
 "t": "paper",
 "n": "BIOTECHNICAL POTENTIAL OF PASPALUM SUBMITTED TO SIMPLE SUPERPHOSPHATE DOSES AND MOISTURE C",
-"sub": "Scientia Agraria 2017 · cited 8",
+"sub": "Scientia Agraria 2017 · cited 9",
 "url": "https://doi.org/10.5380/rsa.v18i4.54252",
 "c": ""
 },
@@ -2030,30 +2054,6 @@
 "sub": "",
 "url": "",
 "c": "BR"
-},
-{
-"k": "paper:doi-10-1016-s0168-8278-24-00472-0",
-"t": "paper",
-"n": "OS-031 Imdusiran (AB-729) administered every 8 weeks for 24 weeks followed by the immunoth",
-"sub": "Journal of Hepatology 2024 · cited 8",
-"url": "https://doi.org/10.1016/s0168-8278(24)00472-0",
-"c": ""
-},
-{
-"k": "person:kosh-agarwal",
-"t": "person",
-"n": "Kosh Agarwal",
-"sub": "",
-"url": "https://orcid.org/0000-0002-4754-828X",
-"c": ""
-},
-{
-"k": "person:karen-sims",
-"t": "person",
-"n": "Karen Sims",
-"sub": "",
-"url": "https://orcid.org/0000-0002-4824-494X",
-"c": ""
 },
 {
 "k": "paper:doi-10-3788-aos231014",
@@ -2109,6 +2109,38 @@
 "n": "Claudio I. Meier",
 "sub": "University of Memphis",
 "url": "https://orcid.org/0000-0002-5918-6001",
+"c": "US"
+},
+{
+"k": "paper:doi-10-1149-ma2017-02-4-223",
+"t": "paper",
+"n": "(Invited) Lithium-Ion Transport in Ncm Oxides: Effect of Crystallographic Evolution during",
+"sub": "ECS Meeting Abstracts 2017 · cited 4",
+"url": "https://doi.org/10.1149/ma2017-02/4/223",
+"c": ""
+},
+{
+"k": "person:koffi-p-c-yao",
+"t": "person",
+"n": "Koffi P. C. Yao",
+"sub": "Argonne National Laboratory",
+"url": "https://orcid.org/0000-0003-4310-4347",
+"c": "US"
+},
+{
+"k": "org:argonne-national-laboratory",
+"t": "academic",
+"n": "Argonne National Laboratory",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:daniel-p-abraham",
+"t": "person",
+"n": "Daniel P. Abraham",
+"sub": "Argonne National Laboratory",
+"url": "https://orcid.org/0000-0003-0402-9620",
 "c": "US"
 },
 {
@@ -2168,6 +2200,30 @@
 "c": ""
 },
 {
+"k": "paper:doi-10-1016-s0168-8278-24-02240-2",
+"t": "paper",
+"n": "WED-375 VTP-300 immunotherapeutic, plus low dose PD-1 inhibitor, nivolumab, continues to s",
+"sub": "Journal of Hepatology 2024 · cited 2",
+"url": "https://doi.org/10.1016/s0168-8278(24)02240-2",
+"c": ""
+},
+{
+"k": "person:dereck-r-tait",
+"t": "person",
+"n": "Dereck R. Tait",
+"sub": "",
+"url": "https://orcid.org/0000-0002-8683-238X",
+"c": ""
+},
+{
+"k": "person:pisit-tangkijvanich",
+"t": "person",
+"n": "Pisit Tangkijvanich",
+"sub": "",
+"url": "https://orcid.org/0000-0002-2926-8671",
+"c": ""
+},
+{
 "k": "paper:pmid-26882043",
 "t": "paper",
 "n": "Maximum renal responses to renin inhibition in healthy study participants: VTP-27999 versu",
@@ -2206,38 +2262,6 @@
 "sub": "",
 "url": "",
 "c": ""
-},
-{
-"k": "paper:doi-10-1149-ma2017-02-4-223",
-"t": "paper",
-"n": "(Invited) Lithium-Ion Transport in Ncm Oxides: Effect of Crystallographic Evolution during",
-"sub": "ECS Meeting Abstracts 2017 · cited 1",
-"url": "https://doi.org/10.1149/ma2017-02/4/223",
-"c": ""
-},
-{
-"k": "person:koffi-p-c-yao",
-"t": "person",
-"n": "Koffi P. C. Yao",
-"sub": "Argonne National Laboratory",
-"url": "https://orcid.org/0000-0003-4310-4347",
-"c": "US"
-},
-{
-"k": "org:argonne-national-laboratory",
-"t": "academic",
-"n": "Argonne National Laboratory",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:daniel-p-abraham",
-"t": "person",
-"n": "Daniel P. Abraham",
-"sub": "Argonne National Laboratory",
-"url": "https://orcid.org/0000-0003-0402-9620",
-"c": "US"
 },
 {
 "k": "paper:pmid-27027379",
@@ -2285,30 +2309,6 @@
 "n": "Ivoney Gontijo",
 "sub": "",
 "url": "https://orcid.org/0000-0002-4251-4689",
-"c": ""
-},
-{
-"k": "paper:doi-10-1016-s0168-8278-24-02240-2",
-"t": "paper",
-"n": "WED-375 VTP-300 immunotherapeutic, plus low dose PD-1 inhibitor, nivolumab, continues to s",
-"sub": "Journal of Hepatology 2024 · cited 0",
-"url": "https://doi.org/10.1016/s0168-8278(24)02240-2",
-"c": ""
-},
-{
-"k": "person:dereck-r-tait",
-"t": "person",
-"n": "Dereck R. Tait",
-"sub": "",
-"url": "https://orcid.org/0000-0002-8683-238X",
-"c": ""
-},
-{
-"k": "person:pisit-tangkijvanich",
-"t": "person",
-"n": "Pisit Tangkijvanich",
-"sub": "",
-"url": "https://orcid.org/0000-0002-2926-8671",
 "c": ""
 },
 {
@@ -2363,7 +2363,7 @@
 "k": "paper:pmid-36727674",
 "t": "paper",
 "n": "AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty li",
-"sub": "Hepatology 2023 · cited 3033",
+"sub": "Hepatology 2023 · cited 3213",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36727674",
 "c": ""
 },
@@ -2435,7 +2435,7 @@
 "k": "paper:pmid-32319693",
 "t": "paper",
 "n": "Epidemiology of Hepatocellular Carcinoma",
-"sub": "Hepatology 2020 · cited 2356",
+"sub": "Hepatology 2020 · cited 2470",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32319693",
 "c": ""
 },
@@ -2491,7 +2491,7 @@
 "k": "paper:pmid-31981519",
 "t": "paper",
 "n": "The global, regional, and national burden of cirrhosis by cause in 195 countries and terri",
-"sub": "The Lancet. Gastroenterology & hepatology 2020 · cited 1874",
+"sub": "The Lancet. Gastroenterology & hepatology 2020 · cited 2072",
 "url": "https://pubmed.ncbi.nlm.nih.gov/31981519",
 "c": ""
 },
@@ -2539,7 +2539,7 @@
 "k": "paper:pmid-36977794",
 "t": "paper",
 "n": "Global epidemiology of cirrhosis — aetiology, trends and predictions",
-"sub": "Nature Reviews Gastroenterology & Hepatology 2023 · cited 991",
+"sub": "Nature Reviews Gastroenterology & Hepatology 2023 · cited 1075",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36977794",
 "c": ""
 },
@@ -2587,7 +2587,7 @@
 "k": "paper:pmid-35738290",
 "t": "paper",
 "n": "Global, regional, and national burden of hepatitis B, 1990–2019: a systematic analysis for",
-"sub": "The Lancet. Gastroenterology & hepatology 2022 · cited 944",
+"sub": "The Lancet. Gastroenterology & hepatology 2022 · cited 1003",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35738290",
 "c": ""
 },
@@ -2619,7 +2619,7 @@
 "k": "paper:pmid-32043613",
 "t": "paper",
 "n": "Changes in the Global Burden of Chronic Liver Diseases From 2012 to 2017: The Growing Impa",
-"sub": "Hepatology 2020 · cited 820",
+"sub": "Hepatology 2020 · cited 855",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32043613",
 "c": ""
 },
@@ -2656,10 +2656,34 @@
 "c": "US"
 },
 {
+"k": "paper:pmid-31939529",
+"t": "paper",
+"n": "Chronic Kidney Disease",
+"sub": "Revista da Associação Médica Brasileira 2020 · cited 752",
+"url": "https://pubmed.ncbi.nlm.nih.gov/31939529",
+"c": ""
+},
+{
+"k": "person:adriano-luiz-ammirati",
+"t": "person",
+"n": "Adriano Luiz Ammirati",
+"sub": "Universidade Federal de São Paulo",
+"url": "https://orcid.org/0000-0001-7185-2081",
+"c": "BR"
+},
+{
+"k": "org:universidade-federal-de-sao-paulo",
+"t": "academic",
+"n": "Universidade Federal de São Paulo",
+"sub": "",
+"url": "",
+"c": "BR"
+},
+{
 "k": "paper:pmid-37024566",
 "t": "paper",
 "n": "Global burden of hepatitis B virus: current status, missed opportunities and a call for ac",
-"sub": "Nature Reviews Gastroenterology & Hepatology 2023 · cited 707",
+"sub": "Nature Reviews Gastroenterology & Hepatology 2023 · cited 749",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37024566",
 "c": ""
 },
@@ -2715,16 +2739,16 @@
 "k": "paper:pmid-34863359",
 "t": "paper",
 "n": "The EASL–Lancet Liver Commission: protecting the next generation of Europeans against live",
-"sub": "The Lancet 2021 · cited 698",
+"sub": "The Lancet 2021 · cited 738",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34863359",
 "c": ""
 },
 {
 "k": "person:tom-h-karlsen",
 "t": "person",
-"n": "Tom H Karlsen",
+"n": "Tom H. Karlsen",
 "sub": "Oslo University Hospital",
-"url": "",
+"url": "https://orcid.org/0000-0002-8289-9931",
 "c": "NO"
 },
 {
@@ -2784,138 +2808,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-36774930",
-"t": "paper",
-"n": "Hepatitis B",
-"sub": "The Lancet 2023 · cited 654",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36774930",
-"c": ""
-},
-{
-"k": "person:wenjuei-jeng",
-"t": "person",
-"n": "Wen‐Juei Jeng",
-"sub": "Chang Gung University",
-"url": "https://orcid.org/0000-0002-3706-1259",
-"c": "TW"
-},
-{
-"k": "org:chang-gung-university",
-"t": "academic",
-"n": "Chang Gung University",
-"sub": "",
-"url": "",
-"c": "TW"
-},
-{
-"k": "org:chang-gung-memorial-hospital",
-"t": "hospital",
-"n": "Chang Gung Memorial Hospital",
-"sub": "",
-"url": "",
-"c": "TW"
-},
-{
-"k": "person:anna-suk-fong-lok",
-"t": "person",
-"n": "Anna Suk-Fong Lok",
-"sub": "University of Michigan",
-"url": "https://orcid.org/0000-0002-5811-6845",
-"c": "US"
-},
-{
-"k": "org:university-of-michigan",
-"t": "academic",
-"n": "University of Michigan",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:michigan-medicine",
-"t": "hospital",
-"n": "Michigan Medicine",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "paper:pmid-32102898",
-"t": "paper",
-"n": "Hepatitis B Virus: Advances in Prevention, Diagnosis, and Therapy",
-"sub": "Clinical Microbiology Reviews 2020 · cited 632",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32102898",
-"c": ""
-},
-{
-"k": "person:geoffrey-m-dusheiko",
-"t": "person",
-"n": "Geoffrey M Dusheiko",
-"sub": "King's College Hospital",
-"url": "https://orcid.org/0000-0002-9579-4469",
-"c": "GB"
-},
-{
-"k": "org:university-college-london",
-"t": "academic",
-"n": "University College London",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "paper:pmid-40348683",
-"t": "paper",
-"n": "EASL Clinical Practice Guidelines on the management of hepatitis B virus infection",
-"sub": "Journal of Hepatology 2025 · cited 632",
-"url": "https://pubmed.ncbi.nlm.nih.gov/40348683",
-"c": ""
-},
-{
-"k": "person:markus-cornberg",
-"t": "person",
-"n": "Markus Cornberg",
-"sub": "",
-"url": "https://orcid.org/0000-0002-9141-8001",
-"c": ""
-},
-{
-"k": "person:francesco-paolo-russo",
-"t": "person",
-"n": "Francesco Paolo Russo",
-"sub": "",
-"url": "https://orcid.org/0000-0003-4127-8941",
-"c": ""
-},
-{
-"k": "org:falk-foundation",
-"t": "funder",
-"n": "Falk Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:astrazeneca",
-"t": "funder",
-"n": "AstraZeneca",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:gilead-sciences",
-"t": "funder",
-"n": "Gilead Sciences",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-37759956",
 "t": "paper",
 "n": "Oxidative Stress in Liver Pathophysiology and Disease",
-"sub": "Antioxidants 2023 · cited 627",
+"sub": "Antioxidants 2023 · cited 695",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37759956",
 "c": ""
 },
@@ -2968,10 +2864,162 @@
 "c": ""
 },
 {
+"k": "paper:pmid-36774930",
+"t": "paper",
+"n": "Hepatitis B",
+"sub": "The Lancet 2023 · cited 685",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36774930",
+"c": ""
+},
+{
+"k": "person:wenjuei-jeng",
+"t": "person",
+"n": "Wen‐Juei Jeng",
+"sub": "Chang Gung University",
+"url": "https://orcid.org/0000-0002-3706-1259",
+"c": "TW"
+},
+{
+"k": "org:chang-gung-university",
+"t": "academic",
+"n": "Chang Gung University",
+"sub": "",
+"url": "",
+"c": "TW"
+},
+{
+"k": "org:chang-gung-memorial-hospital",
+"t": "hospital",
+"n": "Chang Gung Memorial Hospital",
+"sub": "",
+"url": "",
+"c": "TW"
+},
+{
+"k": "person:anna-suk-fong-lok",
+"t": "person",
+"n": "Anna Suk-Fong Lok",
+"sub": "University of Michigan",
+"url": "https://orcid.org/0000-0002-5811-6845",
+"c": "US"
+},
+{
+"k": "org:university-of-michigan",
+"t": "academic",
+"n": "University of Michigan",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:michigan-medicine",
+"t": "hospital",
+"n": "Michigan Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-34136143",
+"t": "paper",
+"n": "Global Epidemiology of Chronic Liver Disease",
+"sub": "Clinical Liver Disease 2021 · cited 683",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34136143",
+"c": ""
+},
+{
+"k": "person:shantan-cheemerla",
+"t": "person",
+"n": "Shantan Cheemerla",
+"sub": "Baylor College of Medicine",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:maya-balakrishnan",
+"t": "person",
+"n": "Maya Balakrishnan",
+"sub": "Baylor College of Medicine",
+"url": "https://orcid.org/0000-0002-5196-7284",
+"c": "US"
+},
+{
+"k": "paper:pmid-40348683",
+"t": "paper",
+"n": "EASL Clinical Practice Guidelines on the management of hepatitis B virus infection",
+"sub": "Journal of Hepatology 2025 · cited 680",
+"url": "https://pubmed.ncbi.nlm.nih.gov/40348683",
+"c": ""
+},
+{
+"k": "person:markus-cornberg",
+"t": "person",
+"n": "Markus Cornberg",
+"sub": "",
+"url": "https://orcid.org/0000-0002-9141-8001",
+"c": ""
+},
+{
+"k": "person:francesco-paolo-russo",
+"t": "person",
+"n": "Francesco Paolo Russo",
+"sub": "",
+"url": "https://orcid.org/0000-0003-4127-8941",
+"c": ""
+},
+{
+"k": "org:falk-foundation",
+"t": "funder",
+"n": "Falk Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:astrazeneca",
+"t": "funder",
+"n": "AstraZeneca",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:gilead-sciences",
+"t": "funder",
+"n": "Gilead Sciences",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32102898",
+"t": "paper",
+"n": "Hepatitis B Virus: Advances in Prevention, Diagnosis, and Therapy",
+"sub": "Clinical Microbiology Reviews 2020 · cited 652",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32102898",
+"c": ""
+},
+{
+"k": "person:geoffrey-m-dusheiko",
+"t": "person",
+"n": "Geoffrey M Dusheiko",
+"sub": "King's College Hospital",
+"url": "https://orcid.org/0000-0002-9579-4469",
+"c": "GB"
+},
+{
+"k": "org:university-college-london",
+"t": "academic",
+"n": "University College London",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
 "k": "paper:pmid-32531342",
 "t": "paper",
 "n": "Nonalcoholic Steatohepatitis Is the Most Rapidly Increasing Indication for Liver Transplan",
-"sub": "Clinical Gastroenterology and Hepatology 2020 · cited 625",
+"sub": "Clinical Gastroenterology and Hepatology 2020 · cited 646",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32531342",
 "c": ""
 },
@@ -3008,58 +3056,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-34136143",
-"t": "paper",
-"n": "Global Epidemiology of Chronic Liver Disease",
-"sub": "Clinical Liver Disease 2021 · cited 623",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34136143",
-"c": ""
-},
-{
-"k": "person:shantan-cheemerla",
-"t": "person",
-"n": "Shantan Cheemerla",
-"sub": "Baylor College of Medicine",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:maya-balakrishnan",
-"t": "person",
-"n": "Maya Balakrishnan",
-"sub": "Baylor College of Medicine",
-"url": "https://orcid.org/0000-0002-5196-7284",
-"c": "US"
-},
-{
-"k": "paper:pmid-31939529",
-"t": "paper",
-"n": "Chronic Kidney Disease",
-"sub": "Revista da Associação Médica Brasileira 2020 · cited 597",
-"url": "https://pubmed.ncbi.nlm.nih.gov/31939529",
-"c": ""
-},
-{
-"k": "person:adriano-luiz-ammirati",
-"t": "person",
-"n": "Adriano Luiz Ammirati",
-"sub": "Universidade Federal de São Paulo",
-"url": "https://orcid.org/0000-0001-7185-2081",
-"c": "BR"
-},
-{
-"k": "org:universidade-federal-de-sao-paulo",
-"t": "academic",
-"n": "Universidade Federal de São Paulo",
-"sub": "",
-"url": "",
-"c": "BR"
-},
-{
 "k": "paper:pmid-31936320",
 "t": "paper",
 "n": "Chronic and Acute Toxicities of Aflatoxins: Mechanisms of Action",
-"sub": "International Journal of Environmental Research and Public Health 2020 · cited 594",
+"sub": "International Journal of Environmental Research and Public Health 2020 · cited 628",
 "url": "https://pubmed.ncbi.nlm.nih.gov/31936320",
 "c": ""
 },
@@ -3083,7 +3083,7 @@
 "k": "paper:pmid-37121527",
 "t": "paper",
 "n": "The Global Burden of Liver Disease",
-"sub": "Clinical Gastroenterology and Hepatology 2023 · cited 576",
+"sub": "Clinical Gastroenterology and Hepatology 2023 · cited 606",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37121527",
 "c": ""
 },
@@ -3107,7 +3107,7 @@
 "k": "paper:pmid-34002067",
 "t": "paper",
 "n": "Immunobiology and pathogenesis of hepatitis B virus infection",
-"sub": "Nature reviews. Immunology 2021 · cited 565",
+"sub": "Nature reviews. Immunology 2021 · cited 591",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34002067",
 "c": ""
 },
@@ -3144,10 +3144,18 @@
 "c": "IT"
 },
 {
+"k": "paper:pmid-32511106",
+"t": "paper",
+"n": "The ASAM National Practice Guideline for the Treatment of Opioid Use Disorder: 2020 Focuse",
+"sub": "Journal of Addiction Medicine 2020 · cited 563",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32511106",
+"c": ""
+},
+{
 "k": "paper:pmid-32278005",
 "t": "paper",
 "n": "Non-alcoholic fatty liver diseases in patients with COVID-19: A retrospective study",
-"sub": "Journal of Hepatology 2020 · cited 540",
+"sub": "Journal of Hepatology 2020 · cited 554",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32278005",
 "c": ""
 },
@@ -3192,50 +3200,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-32515681",
-"t": "paper",
-"n": "Update to the Society of Radiologists in Ultrasound Liver Elastography Consensus Statement",
-"sub": "Radiology 2020 · cited 503",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32515681",
-"c": ""
-},
-{
-"k": "person:richard-g-barr",
-"t": "person",
-"n": "Richard G. Barr",
-"sub": "University of Calgary",
-"url": "https://orcid.org/0000-0001-8021-0072",
-"c": "CA"
-},
-{
-"k": "org:university-of-rochester-medicine",
-"t": "hospital",
-"n": "University of Rochester Medicine",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:giovanna-ferraioli",
-"t": "person",
-"n": "Giovanna Ferraioli",
-"sub": "University of Calgary",
-"url": "https://orcid.org/0000-0002-6344-697X",
-"c": "CA"
-},
-{
-"k": "org:university-of-pavia",
-"t": "academic",
-"n": "University of Pavia",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
 "k": "paper:pmid-32203680",
 "t": "paper",
 "n": "COVID-19 and the liver: little cause for concern",
-"sub": "The Lancet. Gastroenterology & hepatology 2020 · cited 497",
+"sub": "The Lancet. Gastroenterology & hepatology 2020 · cited 540",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32203680",
 "c": ""
 },
@@ -3272,18 +3240,50 @@
 "c": "GB"
 },
 {
-"k": "paper:pmid-32511106",
+"k": "paper:pmid-32515681",
 "t": "paper",
-"n": "The ASAM National Practice Guideline for the Treatment of Opioid Use Disorder: 2020 Focuse",
-"sub": "Journal of Addiction Medicine 2020 · cited 480",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32511106",
+"n": "Update to the Society of Radiologists in Ultrasound Liver Elastography Consensus Statement",
+"sub": "Radiology 2020 · cited 526",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32515681",
 "c": ""
+},
+{
+"k": "person:richard-g-barr",
+"t": "person",
+"n": "Richard G. Barr",
+"sub": "University of Calgary",
+"url": "https://orcid.org/0000-0001-8021-0072",
+"c": "CA"
+},
+{
+"k": "org:university-of-rochester-medicine",
+"t": "hospital",
+"n": "University of Rochester Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:giovanna-ferraioli",
+"t": "person",
+"n": "Giovanna Ferraioli",
+"sub": "University of Calgary",
+"url": "https://orcid.org/0000-0002-6344-697X",
+"c": "CA"
+},
+{
+"k": "org:university-of-pavia",
+"t": "academic",
+"n": "University of Pavia",
+"sub": "",
+"url": "",
+"c": "IT"
 },
 {
 "k": "paper:pmid-36083140",
 "t": "paper",
 "n": "AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma",
-"sub": "Hepatology 2022 · cited 477",
+"sub": "Hepatology 2022 · cited 491",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36083140",
 "c": ""
 },
@@ -3331,7 +3331,7 @@
 "k": "paper:pmid-32866519",
 "t": "paper",
 "n": "Hepatitis B virus biology and life cycle",
-"sub": "Antiviral Research 2020 · cited 429",
+"sub": "Antiviral Research 2020 · cited 449",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32866519",
 "c": ""
 },
@@ -3408,82 +3408,34 @@
 "c": ""
 },
 {
-"k": "paper:pmid-32707225",
+"k": "paper:pmid-32754945",
 "t": "paper",
-"n": "aMAP risk score predicts hepatocellular carcinoma development in patients with chronic hep",
-"sub": "Journal of Hepatology 2020 · cited 409",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32707225",
+"n": "Systemic racism, chronic health inequities, and COVID ‐19: A syndemic in the making?",
+"sub": "American Journal of Human Biology 2020 · cited 434",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32754945",
 "c": ""
 },
 {
-"k": "person:rong-fan",
+"k": "person:clarence-c-gravlee",
 "t": "person",
-"n": "Rong Fan",
-"sub": "Nanfang Hospital",
-"url": "https://orcid.org/0000-0002-5922-483X",
-"c": "CN"
+"n": "Clarence C. Gravlee",
+"sub": "University of Florida",
+"url": "https://orcid.org/0000-0002-0913-2320",
+"c": "US"
 },
 {
-"k": "org:southern-medical-university",
+"k": "org:university-of-florida",
 "t": "academic",
-"n": "Southern Medical University",
+"n": "University of Florida",
 "sub": "",
 "url": "",
-"c": "CN"
-},
-{
-"k": "person:philip-james-johnson",
-"t": "person",
-"n": "Philip James Johnson",
-"sub": "University of Liverpool",
-"url": "https://orcid.org/0000-0003-1404-0209",
-"c": "GB"
-},
-{
-"k": "org:university-of-liverpool",
-"t": "academic",
-"n": "University of Liverpool",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "person:pietro-lampertico",
-"t": "person",
-"n": "Pietro Lampertico",
-"sub": "University of Milan",
-"url": "https://orcid.org/0000-0002-1026-7476",
-"c": "IT"
-},
-{
-"k": "org:university-of-milan",
-"t": "academic",
-"n": "University of Milan",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "org:fondazione-irccs-ca-granda-ospedale-maggiore-policlinico",
-"t": "hospital",
-"n": "Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "org:pfizer",
-"t": "funder",
-"n": "Pfizer",
-"sub": "",
-"url": "",
-"c": ""
+"c": "US"
 },
 {
 "k": "paper:pmid-39722614",
 "t": "paper",
 "n": "Hepatocellular carcinoma: updates on epidemiology, surveillance, diagnosis and treatment",
-"sub": "Clinical and Molecular Hepatology 2024 · cited 403",
+"sub": "Clinical and Molecular Hepatology 2024 · cited 426",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39722614",
 "c": ""
 },
@@ -3560,122 +3512,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-37541393",
-"t": "paper",
-"n": "Can we use old NAFLD data under the new MASLD definition?",
-"sub": "Journal of Hepatology 2023 · cited 398",
-"url": "https://pubmed.ncbi.nlm.nih.gov/37541393",
-"c": ""
-},
-{
-"k": "person:sherlot-juan-song",
-"t": "person",
-"n": "Sherlot Juan Song",
-"sub": "Chinese University of Hong Kong",
-"url": "https://orcid.org/0009-0004-9291-7437",
-"c": "HK"
-},
-{
-"k": "org:chinese-university-of-hong-kong",
-"t": "academic",
-"n": "Chinese University of Hong Kong",
-"sub": "",
-"url": "",
-"c": "HK"
-},
-{
-"k": "person:terry-cheukfung-yip",
-"t": "person",
-"n": "Terry Cheuk‐Fung Yip",
-"sub": "Chinese University of Hong Kong",
-"url": "https://orcid.org/0000-0002-1819-2464",
-"c": "HK"
-},
-{
-"k": "paper:pmid-32754945",
-"t": "paper",
-"n": "Systemic racism, chronic health inequities, and COVID ‐19: A syndemic in the making?",
-"sub": "American Journal of Human Biology 2020 · cited 397",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32754945",
-"c": ""
-},
-{
-"k": "person:clarence-c-gravlee",
-"t": "person",
-"n": "Clarence C. Gravlee",
-"sub": "University of Florida",
-"url": "https://orcid.org/0000-0002-0913-2320",
-"c": "US"
-},
-{
-"k": "org:university-of-florida",
-"t": "academic",
-"n": "University of Florida",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "paper:pmid-36891718",
-"t": "paper",
-"n": "[Guidelines for the prevention and treatment of chronic hepatitis B (version 2022)].",
-"sub": "PubMed Central 2022 · cited 391",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36891718",
-"c": ""
-},
-{
-"k": "paper:pmid-32379894",
-"t": "paper",
-"n": "Association between ABO blood groups and risk of SARS‐CoV‐2 pneumonia",
-"sub": "British Journal of Haematology 2020 · cited 388",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32379894",
-"c": ""
-},
-{
-"k": "person:juyi-li",
-"t": "person",
-"n": "Juyi Li",
-"sub": "Central Hospital of Wuhan",
-"url": "https://orcid.org/0000-0002-5141-4655",
-"c": "CN"
-},
-{
-"k": "org:central-hospital-of-wuhan",
-"t": "hospital",
-"n": "Central Hospital of Wuhan",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "org:huazhong-university-of-science-and-technology",
-"t": "academic",
-"n": "Huazhong University of Science and Technology",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:aiping-deng",
-"t": "person",
-"n": "Aiping Deng",
-"sub": "Central Hospital of Wuhan",
-"url": "https://orcid.org/0000-0003-2119-7570",
-"c": "CN"
-},
-{
-"k": "person:ming-yang",
-"t": "person",
-"n": "Ming Yang",
-"sub": "Central Hospital of Wuhan",
-"url": "https://orcid.org/0000-0002-2795-6884",
-"c": "CN"
-},
-{
 "k": "paper:pmid-36764320",
 "t": "paper",
 "n": "Global reporting of progress towards elimination of hepatitis B and hepatitis C",
-"sub": "The Lancet. Gastroenterology & hepatology 2023 · cited 387",
+"sub": "The Lancet. Gastroenterology & hepatology 2023 · cited 416",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36764320",
 "c": ""
 },
@@ -3720,10 +3560,258 @@
 "c": ""
 },
 {
+"k": "paper:pmid-32707225",
+"t": "paper",
+"n": "aMAP risk score predicts hepatocellular carcinoma development in patients with chronic hep",
+"sub": "Journal of Hepatology 2020 · cited 415",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32707225",
+"c": ""
+},
+{
+"k": "person:rong-fan",
+"t": "person",
+"n": "Rong Fan",
+"sub": "Nanfang Hospital",
+"url": "https://orcid.org/0000-0002-5922-483X",
+"c": "CN"
+},
+{
+"k": "org:southern-medical-university",
+"t": "academic",
+"n": "Southern Medical University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:philip-james-johnson",
+"t": "person",
+"n": "Philip James Johnson",
+"sub": "University of Liverpool",
+"url": "https://orcid.org/0000-0003-1404-0209",
+"c": "GB"
+},
+{
+"k": "org:university-of-liverpool",
+"t": "academic",
+"n": "University of Liverpool",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:pietro-lampertico",
+"t": "person",
+"n": "Pietro Lampertico",
+"sub": "University of Milan",
+"url": "https://orcid.org/0000-0002-1026-7476",
+"c": "IT"
+},
+{
+"k": "org:university-of-milan",
+"t": "academic",
+"n": "University of Milan",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:fondazione-irccs-ca-granda-ospedale-maggiore-policlinico",
+"t": "hospital",
+"n": "Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:pfizer",
+"t": "funder",
+"n": "Pfizer",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32379894",
+"t": "paper",
+"n": "Association between ABO blood groups and risk of SARS‐CoV‐2 pneumonia",
+"sub": "British Journal of Haematology 2020 · cited 409",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32379894",
+"c": ""
+},
+{
+"k": "person:juyi-li",
+"t": "person",
+"n": "Juyi Li",
+"sub": "Central Hospital of Wuhan",
+"url": "https://orcid.org/0000-0002-5141-4655",
+"c": "CN"
+},
+{
+"k": "org:central-hospital-of-wuhan",
+"t": "hospital",
+"n": "Central Hospital of Wuhan",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:huazhong-university-of-science-and-technology",
+"t": "academic",
+"n": "Huazhong University of Science and Technology",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:aiping-deng",
+"t": "person",
+"n": "Aiping Deng",
+"sub": "Central Hospital of Wuhan",
+"url": "https://orcid.org/0000-0003-2119-7570",
+"c": "CN"
+},
+{
+"k": "person:ming-yang",
+"t": "person",
+"n": "Ming Yang",
+"sub": "Central Hospital of Wuhan",
+"url": "https://orcid.org/0000-0002-2795-6884",
+"c": "CN"
+},
+{
+"k": "paper:pmid-37541393",
+"t": "paper",
+"n": "Can we use old NAFLD data under the new MASLD definition?",
+"sub": "Journal of Hepatology 2023 · cited 409",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37541393",
+"c": ""
+},
+{
+"k": "person:sherlot-juan-song",
+"t": "person",
+"n": "Sherlot Juan Song",
+"sub": "Chinese University of Hong Kong",
+"url": "https://orcid.org/0009-0004-9291-7437",
+"c": "HK"
+},
+{
+"k": "org:chinese-university-of-hong-kong",
+"t": "academic",
+"n": "Chinese University of Hong Kong",
+"sub": "",
+"url": "",
+"c": "HK"
+},
+{
+"k": "person:terry-cheukfung-yip",
+"t": "person",
+"n": "Terry Cheuk‐Fung Yip",
+"sub": "Chinese University of Hong Kong",
+"url": "https://orcid.org/0000-0002-1819-2464",
+"c": "HK"
+},
+{
+"k": "paper:pmid-36891718",
+"t": "paper",
+"n": "[Guidelines for the prevention and treatment of chronic hepatitis B (version 2022)].",
+"sub": "PubMed Central 2022 · cited 405",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36891718",
+"c": ""
+},
+{
+"k": "paper:pmid-37719965",
+"t": "paper",
+"n": "Guidelines for the Prevention and Treatment of Chronic Hepatitis B (version 2022)",
+"sub": "Journal of Clinical and Translational Hepatology 2023 · cited 401",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37719965",
+"c": ""
+},
+{
+"k": "person:hong-you",
+"t": "person",
+"n": "Hong You",
+"sub": "Capital Medical University",
+"url": "https://orcid.org/0000-0001-9409-1158",
+"c": "CN"
+},
+{
+"k": "org:capital-medical-university",
+"t": "academic",
+"n": "Capital Medical University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:fusheng-wang",
+"t": "person",
+"n": "Fu‐Sheng Wang",
+"sub": "Chinese PLA General Hospital",
+"url": "https://orcid.org/0000-0002-8043-6685",
+"c": "CN"
+},
+{
+"k": "person:taisheng-li",
+"t": "person",
+"n": "Taisheng Li",
+"sub": "Chinese Academy of Medical Sciences & Peking Union Medical College",
+"url": "https://orcid.org/0000-0002-7050-5675",
+"c": "CN"
+},
+{
+"k": "org:chinese-academy-of-medical-sciences-peking-union-medical-col",
+"t": "academic",
+"n": "Chinese Academy of Medical Sciences & Peking Union Medical College",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:peking-union-medical-college-hospital",
+"t": "hospital",
+"n": "Peking Union Medical College Hospital",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:xiaoyuan-xu",
+"t": "person",
+"n": "Xiaoyuan Xu",
+"sub": "Peking University First Hospital",
+"url": "https://orcid.org/0000-0002-1759-4330",
+"c": "CN"
+},
+{
+"k": "person:hui-zhuang",
+"t": "person",
+"n": "Hui Zhuang",
+"sub": "Peking University",
+"url": "https://orcid.org/0009-0002-0081-4322",
+"c": "CN"
+},
+{
+"k": "org:central-south-university",
+"t": "funder",
+"n": "Central South University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:fudan-university",
+"t": "funder",
+"n": "Fudan University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-31912792",
 "t": "paper",
 "n": "Marginal zone lymphomas: ESMO Clinical Practice Guidelines for diagnosis, treatment and fo",
-"sub": "Annals of Oncology 2020 · cited 377",
+"sub": "Annals of Oncology 2020 · cited 397",
 "url": "https://pubmed.ncbi.nlm.nih.gov/31912792",
 "c": ""
 },
@@ -3795,7 +3883,7 @@
 "k": "paper:pmid-42618020",
 "t": "paper",
 "n": "2022 KLCA-NCC Korea practice guidelines for the management of hepatocellular carcinoma",
-"sub": "Clinical and Molecular Hepatology 2022 · cited 375",
+"sub": "Clinical and Molecular Hepatology 2022 · cited 389",
 "url": "https://pubmed.ncbi.nlm.nih.gov/42618020",
 "c": ""
 },
@@ -3832,100 +3920,36 @@
 "c": ""
 },
 {
-"k": "paper:pmid-35899384",
+"k": "paper:pmid-32266987",
 "t": "paper",
-"n": "AASLD practice guidance on drug, herbal, and dietary supplement–induced liver injury",
-"sub": "Hepatology 2022 · cited 358",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35899384",
+"n": "Corticosteroid treatment of patients with coronavirus disease 2019 ( COVID ‐19)",
+"sub": "The Medical Journal of Australia 2020 · cited 383",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32266987",
 "c": ""
 },
 {
-"k": "person:robert-j-fontana",
+"k": "person:lei-zha",
 "t": "person",
-"n": "Robert J. Fontana",
-"sub": "University of Michigan",
-"url": "https://orcid.org/0000-0001-9161-5892",
-"c": "US"
-},
-{
-"k": "person:victor-j-navarro",
-"t": "person",
-"n": "Victor J. Navarro",
-"sub": "Einstein Healthcare Network",
-"url": "https://orcid.org/0000-0002-8428-8528",
-"c": "US"
-},
-{
-"k": "org:einstein-healthcare-network",
-"t": "hospital",
-"n": "Einstein Healthcare Network",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:alexion-pharmaceuticals",
-"t": "funder",
-"n": "Alexion Pharmaceuticals",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-35319165",
-"t": "paper",
-"n": "Changing epidemiology of hepatocellular carcinoma in Asia",
-"sub": "Liver International 2022 · cited 357",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35319165",
-"c": ""
-},
-{
-"k": "person:chenhao-zhang",
-"t": "person",
-"n": "Chenhao Zhang",
-"sub": "Fudan University",
-"url": "https://orcid.org/0009-0004-4476-1132",
+"n": "Lei Zha",
+"sub": "Xi’an Jiaotong-Liverpool University",
+"url": "https://orcid.org/0000-0003-4897-0703",
 "c": "CN"
 },
 {
-"k": "org:fudan-university",
+"k": "org:xian-jiaotong-liverpool-university",
 "t": "academic",
-"n": "Fudan University",
+"n": "Xi’an Jiaotong-Liverpool University",
 "sub": "",
 "url": "",
 "c": "CN"
 },
 {
-"k": "org:zhongshan-hospital",
-"t": "hospital",
-"n": "Zhongshan Hospital",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:qiang-gao",
+"k": "person:elmer-villanueva",
 "t": "person",
-"n": "Qiang Gao",
-"sub": "Shanghai Medical College of Fudan University",
-"url": "https://orcid.org/0000-0002-6695-9906",
-"c": "CN"
-},
-{
-"k": "org:shanghai-medical-college-of-fudan-university",
-"t": "academic",
-"n": "Shanghai Medical College of Fudan University",
-"sub": "",
+"n": "Elmer Villanueva",
+"sub": "Xi’an Jiaotong-Liverpool University",
 "url": "",
 "c": "CN"
-},
-{
-"k": "org:national-natural-science-foundation-of-china",
-"t": "funder",
-"n": "National Natural Science Foundation of China",
-"sub": "",
-"url": "",
-"c": ""
 }
 ],
 "edges": [
@@ -4535,11 +4559,6 @@
 "r": "funded"
 },
 {
-"a": "org:alexion-pharmaceuticals",
-"b": "paper:pmid-35899384",
-"r": "funded"
-},
-{
 "a": "org:aligos-investigational-site",
 "b": "trial:nct06963710",
 "r": "site_of"
@@ -4563,11 +4582,6 @@
 "a": "org:aligos-therapeutics",
 "b": "trial:nct06963710",
 "r": "sponsors"
-},
-{
-"a": "org:american-association-for-the-study-of-liver-diseases",
-"b": "paper:pmid-35899384",
-"r": "funded"
 },
 {
 "a": "org:american-association-for-the-study-of-liver-diseases",
@@ -4895,6 +4909,16 @@
 "r": "funded"
 },
 {
+"a": "org:capital-medical-university",
+"b": "paper:pmid-37719965",
+"r": "funded"
+},
+{
+"a": "org:central-south-university",
+"b": "paper:pmid-37719965",
+"r": "funded"
+},
+{
 "a": "org:centres-de-recerca-de-catalunya",
 "b": "paper:pmid-34863359",
 "r": "funded"
@@ -5125,6 +5149,11 @@
 "r": "sponsors"
 },
 {
+"a": "org:fudan-university",
+"b": "paper:pmid-37719965",
+"r": "funded"
+},
+{
 "a": "org:fujian-shengdi-pharmaceutical",
 "b": "drug:hrs-5635",
 "r": "develops"
@@ -5147,11 +5176,6 @@
 {
 "a": "org:gilead-sciences",
 "b": "paper:pmid-32707225",
-"r": "funded"
-},
-{
-"a": "org:gilead-sciences",
-"b": "paper:pmid-35899384",
 "r": "funded"
 },
 {
@@ -5560,11 +5584,6 @@
 "r": "funded"
 },
 {
-"a": "org:national-natural-science-foundation-of-china",
-"b": "paper:pmid-35319165",
-"r": "funded"
-},
-{
 "a": "org:national-taiwan-university-hospital",
 "b": "trial:nct05343481",
 "r": "site_of"
@@ -5612,6 +5631,11 @@
 {
 "a": "org:parker-institute-for-cancer-immunotherapy",
 "b": "paper:pmid-39722614",
+"r": "funded"
+},
+{
+"a": "org:peking-university-first-hospital",
+"b": "paper:pmid-37719965",
 "r": "funded"
 },
 {
@@ -6320,21 +6344,6 @@
 "r": "authored"
 },
 {
-"a": "person:chenhao-zhang",
-"b": "org:fudan-university",
-"r": "affiliated"
-},
-{
-"a": "person:chenhao-zhang",
-"b": "org:zhongshan-hospital",
-"r": "affiliated"
-},
-{
-"a": "person:chenhao-zhang",
-"b": "paper:pmid-35319165",
-"r": "authored"
-},
-{
 "a": "person:christopher-l-bowlus",
 "b": "org:uc-davis-health",
 "r": "affiliated"
@@ -6495,6 +6504,16 @@
 "r": "authored"
 },
 {
+"a": "person:elmer-villanueva",
+"b": "org:xian-jiaotong-liverpool-university",
+"r": "affiliated"
+},
+{
+"a": "person:elmer-villanueva",
+"b": "paper:pmid-32266987",
+"r": "authored"
+},
+{
 "a": "person:emanuele-zucca",
 "b": "org:university-hospital-of-bern",
 "r": "affiliated"
@@ -6542,6 +6561,16 @@
 {
 "a": "person:fuqiang-cui",
 "b": "paper:pmid-36764320",
+"r": "authored"
+},
+{
+"a": "person:fusheng-wang",
+"b": "org:chinese-pla-general-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:fusheng-wang",
+"b": "paper:pmid-37719965",
 "r": "authored"
 },
 {
@@ -6648,6 +6677,31 @@
 "a": "person:hong-ren-mm",
 "b": "trial:nct07852091",
 "r": "investigator"
+},
+{
+"a": "person:hong-you",
+"b": "org:beijing-friendship-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:hong-you",
+"b": "org:capital-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:hong-you",
+"b": "paper:pmid-37719965",
+"r": "authored"
+},
+{
+"a": "person:hui-zhuang",
+"b": "org:peking-university",
+"r": "affiliated"
+},
+{
+"a": "person:hui-zhuang",
+"b": "paper:pmid-37719965",
+"r": "authored"
 },
 {
 "a": "person:ivoney-gontijo",
@@ -6817,6 +6871,16 @@
 {
 "a": "person:kostas-pantopoulos",
 "b": "paper:pmid-37759956",
+"r": "authored"
+},
+{
+"a": "person:lei-zha",
+"b": "org:xian-jiaotong-liverpool-university",
+"r": "affiliated"
+},
+{
+"a": "person:lei-zha",
+"b": "paper:pmid-32266987",
 "r": "authored"
 },
 {
@@ -7070,21 +7134,6 @@
 "r": "authored"
 },
 {
-"a": "person:qiang-gao",
-"b": "org:fudan-university",
-"r": "affiliated"
-},
-{
-"a": "person:qiang-gao",
-"b": "org:shanghai-medical-college-of-fudan-university",
-"r": "affiliated"
-},
-{
-"a": "person:qiang-gao",
-"b": "paper:pmid-35319165",
-"r": "authored"
-},
-{
 "a": "person:renisson-neponuceno-de-araujo-filho",
 "b": "org:universidade-federal-de-pernambuco",
 "r": "affiliated"
@@ -7107,21 +7156,6 @@
 {
 "a": "person:richard-g-barr",
 "b": "paper:pmid-32515681",
-"r": "authored"
-},
-{
-"a": "person:robert-j-fontana",
-"b": "org:michigan-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:robert-j-fontana",
-"b": "org:university-of-michigan",
-"r": "affiliated"
-},
-{
-"a": "person:robert-j-fontana",
-"b": "paper:pmid-35899384",
 "r": "authored"
 },
 {
@@ -7220,6 +7254,21 @@
 "r": "authored"
 },
 {
+"a": "person:taisheng-li",
+"b": "org:chinese-academy-of-medical-sciences-peking-union-medical-col",
+"r": "affiliated"
+},
+{
+"a": "person:taisheng-li",
+"b": "org:peking-union-medical-college-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:taisheng-li",
+"b": "paper:pmid-37719965",
+"r": "authored"
+},
+{
 "a": "person:terry-cheukfung-yip",
 "b": "org:chinese-university-of-hong-kong",
 "r": "affiliated"
@@ -7275,16 +7324,6 @@
 "r": "authored"
 },
 {
-"a": "person:victor-j-navarro",
-"b": "org:einstein-healthcare-network",
-"r": "affiliated"
-},
-{
-"a": "person:victor-j-navarro",
-"b": "paper:pmid-35899384",
-"r": "authored"
-},
-{
 "a": "person:wenjuei-jeng",
 "b": "org:chang-gung-memorial-hospital",
 "r": "affiliated"
@@ -7323,6 +7362,16 @@
 "a": "person:xiaofei-chen",
 "b": "trial:nct04749368",
 "r": "investigator"
+},
+{
+"a": "person:xiaoyuan-xu",
+"b": "org:peking-university-first-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:xiaoyuan-xu",
+"b": "paper:pmid-37719965",
+"r": "authored"
 },
 {
 "a": "person:yan-wang",

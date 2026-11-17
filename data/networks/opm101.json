@@ -1,6 +1,6 @@
 {
 "assetId": "opm101",
-"updated": "2026-11-16",
+"updated": "2026-11-17",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 41,
@@ -32,35 +32,11 @@
 "c": ""
 },
 {
-"k": "trial:nct07845487",
+"k": "trial:nct06430801",
 "t": "trial",
-"n": "A Trial to Investigate PALI-2108 Versus Placebo in Participants With Moderately to Severel",
-"sub": "P2 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07845487",
-"c": ""
-},
-{
-"k": "org:palisade-bio",
-"t": "company",
-"n": "Palisade Bio",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:pali-2108",
-"t": "drug",
-"n": "PALI-2108",
-"sub": "Palisade Bio",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07463183",
-"t": "trial",
-"n": "A Study to Evaluate Efficacy and Safety of MK-8690 in Participants With Moderately to Seve",
-"sub": "P2 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07463183",
+"n": "A Study to Evaluate the Efficacy and Safety of Tulisokibart (MK-7240) in Participants With",
+"sub": "P3 · recruiting · 2024-2029",
+"url": "https://clinicaltrials.gov/study/NCT06430801",
 "c": ""
 },
 {
@@ -72,10 +48,50 @@
 "c": ""
 },
 {
-"k": "drug:mk-8690",
+"k": "drug:iv-tulisokibart",
 "t": "drug",
-"n": "MK-8690",
+"n": "IV Tulisokibart",
 "sub": "Merck Sharp & Dohme LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:sc-tulisokibart",
+"t": "drug",
+"n": "SC Tulisokibart",
+"sub": "Merck Sharp & Dohme LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07753850",
+"t": "trial",
+"n": "A Study of SL-325 in Crohn's Disease Patients",
+"sub": "P2 · recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07753850",
+"c": ""
+},
+{
+"k": "org:shattuck-labs",
+"t": "company",
+"n": "Shattuck Labs, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:clinical-trial-site",
+"t": "hospital",
+"n": "Clinical Trial Site",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:sl-325",
+"t": "drug",
+"n": "SL-325",
+"sub": "Shattuck Labs, Inc.",
 "url": "",
 "c": ""
 },
@@ -192,34 +208,18 @@
 "c": ""
 },
 {
-"k": "trial:nct07753850",
+"k": "trial:nct07463183",
 "t": "trial",
-"n": "A Study of SL-325 in Crohn's Disease Patients",
-"sub": "P2 · recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07753850",
+"n": "A Study to Evaluate Efficacy and Safety of MK-8690 in Participants With Moderately to Seve",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07463183",
 "c": ""
 },
 {
-"k": "org:shattuck-labs",
-"t": "company",
-"n": "Shattuck Labs, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:clinical-trial-site",
-"t": "hospital",
-"n": "Clinical Trial Site",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:sl-325",
+"k": "drug:mk-8690",
 "t": "drug",
-"n": "SL-325",
-"sub": "Shattuck Labs, Inc.",
+"n": "MK-8690",
+"sub": "Merck Sharp & Dohme LLC",
 "url": "",
 "c": ""
 },
@@ -328,6 +328,30 @@
 "c": ""
 },
 {
+"k": "trial:nct07845487",
+"t": "trial",
+"n": "A Trial to Investigate PALI-2108 Versus Placebo in Participants With Moderately to Severel",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07845487",
+"c": ""
+},
+{
+"k": "org:palisade-bio",
+"t": "company",
+"n": "Palisade Bio",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:pali-2108",
+"t": "drug",
+"n": "PALI-2108",
+"sub": "Palisade Bio",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct06651281",
 "t": "trial",
 "n": "Extension Study of Long-term Safety and Efficacy of Tulisokibart in Participants With Croh",
@@ -340,30 +364,6 @@
 "t": "drug",
 "n": "Tulisokibart",
 "sub": "Merck Sharp & Dohme LLC",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07928700",
-"t": "trial",
-"n": "Phase 2 Study of pH Gastrilex™ (Enteric-Coated Amorphous Calcium Carbonate Capsules) in Mo",
-"sub": "P2 · completed · 2023-2026",
-"url": "https://clinicaltrials.gov/study/NCT07928700",
-"c": ""
-},
-{
-"k": "org:soroka-university-medical-center",
-"t": "hospital",
-"n": "Soroka University Medical Center",
-"sub": "",
-"url": "",
-"c": "Israel"
-},
-{
-"k": "drug:ph-gastrilex",
-"t": "drug",
-"n": "PH Gastrilex",
-"sub": "Soroka University Medical Center",
 "url": "",
 "c": ""
 },
@@ -392,26 +392,58 @@
 "c": ""
 },
 {
-"k": "trial:nct06430801",
+"k": "trial:nct07928700",
 "t": "trial",
-"n": "A Study to Evaluate the Efficacy and Safety of Tulisokibart (MK-7240) in Participants With",
-"sub": "P3 · recruiting · 2024-2029",
-"url": "https://clinicaltrials.gov/study/NCT06430801",
+"n": "Phase 2 Study of pH Gastrilex™ (Enteric-Coated Amorphous Calcium Carbonate Capsules) in Mo",
+"sub": "P2 · completed · 2023-2026",
+"url": "https://clinicaltrials.gov/study/NCT07928700",
 "c": ""
 },
 {
-"k": "drug:iv-tulisokibart",
+"k": "org:soroka-university-medical-center",
+"t": "hospital",
+"n": "Soroka University Medical Center",
+"sub": "",
+"url": "",
+"c": "Israel"
+},
+{
+"k": "drug:ph-gastrilex",
 "t": "drug",
-"n": "IV Tulisokibart",
-"sub": "Merck Sharp & Dohme LLC",
+"n": "PH Gastrilex",
+"sub": "Soroka University Medical Center",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:sc-tulisokibart",
+"k": "trial:nct07820046",
+"t": "trial",
+"n": "Nitazoxanide as Adjunct Therapy in Mild-to-Moderate Ulcerative Colitis",
+"sub": "P2/P3 · recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07820046",
+"c": ""
+},
+{
+"k": "org:tanta-university",
+"t": "academic",
+"n": "Tanta University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:tanta-university-hospital",
+"t": "hospital",
+"n": "Tanta university hospital",
+"sub": "",
+"url": "",
+"c": "Egypt"
+},
+{
+"k": "drug:nitazoxanide",
 "t": "drug",
-"n": "SC Tulisokibart",
-"sub": "Merck Sharp & Dohme LLC",
+"n": "Nitazoxanide",
+"sub": "Tanta University",
 "url": "",
 "c": ""
 },
@@ -452,38 +484,6 @@
 "t": "drug",
 "n": "SPY003",
 "sub": "Spyre Therapeutics, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07820046",
-"t": "trial",
-"n": "Nitazoxanide as Adjunct Therapy in Mild-to-Moderate Ulcerative Colitis",
-"sub": "P2/P3 · recruiting · 2026-2027",
-"url": "https://clinicaltrials.gov/study/NCT07820046",
-"c": ""
-},
-{
-"k": "org:tanta-university",
-"t": "academic",
-"n": "Tanta University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:tanta-university-hospital",
-"t": "hospital",
-"n": "Tanta university hospital",
-"sub": "",
-"url": "",
-"c": "Egypt"
-},
-{
-"k": "drug:nitazoxanide",
-"t": "drug",
-"n": "Nitazoxanide",
-"sub": "Tanta University",
 "url": "",
 "c": ""
 },
@@ -656,102 +656,6 @@
 "c": ""
 },
 {
-"k": "trial:nct04033445",
-"t": "trial",
-"n": "A Study of Guselkumab in Participants With Moderately to Severely Active Ulcerative Coliti",
-"sub": "P2/P3 · active_not_recruiting · 2019-2027",
-"url": "https://clinicaltrials.gov/study/NCT04033445",
-"c": ""
-},
-{
-"k": "org:janssen-research-development",
-"t": "company",
-"n": "Janssen Research & Development, LLC",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:om-research",
-"t": "company",
-"n": "Om Research LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:ucla",
-"t": "company",
-"n": "UCLA",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:peak-gastroenterology-associates-1",
-"t": "company",
-"n": "Peak Gastroenterology Associates 1",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:florida-research-network",
-"t": "company",
-"n": "Florida Research Network, LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-florida-health-jacksonville",
-"t": "hospital",
-"n": "University of Florida Health Jacksonville",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:harmony-medical-research-institute",
-"t": "academic",
-"n": "Harmony Medical Research Institute, Inc.",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:uf-health-jacksonville-gastroenterology-emerson",
-"t": "hospital",
-"n": "UF Health Jacksonville Gastroenterology Emerson",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:columbus-clinical-services",
-"t": "hospital",
-"n": "Columbus Clinical Services LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:vista-health-research",
-"t": "hospital",
-"n": "Vista Health Research, LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:guselkumab",
-"t": "drug",
-"n": "Guselkumab",
-"sub": "Janssen Research & Development, LLC",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07415044",
 "t": "trial",
 "n": "LY4268989 in Adults With Moderately to Severely Active Ulcerative Colitis",
@@ -792,6 +696,14 @@
 "c": "United States"
 },
 {
+"k": "org:om-research",
+"t": "company",
+"n": "Om Research LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "org:advanced-research-institute-denver",
 "t": "academic",
 "n": "Advanced Research Institute - Denver",
@@ -820,6 +732,118 @@
 "t": "drug",
 "n": "LY4268989",
 "sub": "Eli Lilly and Company",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05242471",
+"t": "trial",
+"n": "A Study of Combination Therapy With Guselkumab and Golimumab in Participants With Moderate",
+"sub": "P2 · active_not_recruiting · 2022-2029",
+"url": "https://clinicaltrials.gov/study/NCT05242471",
+"c": ""
+},
+{
+"k": "org:janssen-research-development",
+"t": "company",
+"n": "Janssen Research & Development, LLC",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-alabama-liver-center",
+"t": "academic",
+"n": "University of Alabama Liver Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:del-sol-research-management",
+"t": "company",
+"n": "Del Sol Research Management, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:moore-clinical-trials",
+"t": "hospital",
+"n": "Moore Clinical Trials, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:valley-gastroenterology-medical-group",
+"t": "company",
+"n": "Valley Gastroenterology Medical Group",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:southern-california-research-center",
+"t": "company",
+"n": "Southern California Research Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:desert-gastroenterology-associates",
+"t": "company",
+"n": "Desert Gastroenterology Associates",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cedars-sinai-medical-center",
+"t": "hospital",
+"n": "Cedars Sinai Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ucla",
+"t": "company",
+"n": "UCLA",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:hoag-memorial-hospital",
+"t": "hospital",
+"n": "Hoag Memorial Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:guselkumab",
+"t": "drug",
+"n": "Guselkumab",
+"sub": "Janssen Research & Development, LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:golimumab",
+"t": "drug",
+"n": "Golimumab",
+"sub": "Janssen Research & Development, LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:jnj-78934804",
+"t": "drug",
+"n": "JNJ-78934804",
+"sub": "Janssen Research & Development, LLC",
 "url": "",
 "c": ""
 },
@@ -928,11 +952,75 @@
 "c": ""
 },
 {
-"k": "trial:nct06937099",
+"k": "trial:nct04033445",
 "t": "trial",
-"n": "Mirikizumab and Tirzepatide Administered in Adult Participants With Moderately to Severely",
+"n": "A Study of Guselkumab in Participants With Moderately to Severely Active Ulcerative Coliti",
+"sub": "P2/P3 · active_not_recruiting · 2019-2027",
+"url": "https://clinicaltrials.gov/study/NCT04033445",
+"c": ""
+},
+{
+"k": "org:peak-gastroenterology-associates-1",
+"t": "company",
+"n": "Peak Gastroenterology Associates 1",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:florida-research-network",
+"t": "company",
+"n": "Florida Research Network, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-florida-health-jacksonville",
+"t": "hospital",
+"n": "University of Florida Health Jacksonville",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:harmony-medical-research-institute",
+"t": "academic",
+"n": "Harmony Medical Research Institute, Inc.",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:uf-health-jacksonville-gastroenterology-emerson",
+"t": "hospital",
+"n": "UF Health Jacksonville Gastroenterology Emerson",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:columbus-clinical-services",
+"t": "hospital",
+"n": "Columbus Clinical Services LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:vista-health-research",
+"t": "hospital",
+"n": "Vista Health Research, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct06937086",
+"t": "trial",
+"n": "Mirikizumab Administered at the Same Time as Tirzepatide in Adult Participants With Modera",
 "sub": "P3 · recruiting · 2025-2028",
-"url": "https://clinicaltrials.gov/study/NCT06937099",
+"url": "https://clinicaltrials.gov/study/NCT06937086",
 "c": ""
 },
 {
@@ -947,14 +1035,6 @@
 "k": "org:smart-cures-clinical-research",
 "t": "hospital",
 "n": "Smart Cures Clinical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:cedars-sinai-medical-center",
-"t": "hospital",
-"n": "Cedars-Sinai Medical Center",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -1024,6 +1104,102 @@
 "c": ""
 },
 {
+"k": "trial:nct07186101",
+"t": "trial",
+"n": "LY4268989 (MORF-057) Co-Administered With Mirikizumab in Adults With Moderately to Severel",
+"sub": "P2 · recruiting · 2025-2029",
+"url": "https://clinicaltrials.gov/study/NCT07186101",
+"c": ""
+},
+{
+"k": "org:clinnova-research-anaheim",
+"t": "company",
+"n": "Clinnova Research - Anaheim",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:neoclinical-research",
+"t": "hospital",
+"n": "NeoClinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:encore-borland-groover-clinical-research",
+"t": "hospital",
+"n": "Encore Borland-Groover Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:clinical-research-of-osceola",
+"t": "hospital",
+"n": "Clinical Research of Osceola",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:alliance-medical-research",
+"t": "foundation",
+"n": "Alliance Medical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct05242484",
+"t": "trial",
+"n": "A Study of Combination Therapy With Guselkumab and Golimumab in Participants With Moderate",
+"sub": "P2 · active_not_recruiting · 2022-2029",
+"url": "https://clinicaltrials.gov/study/NCT05242484",
+"c": ""
+},
+{
+"k": "org:university-of-california-san-francisco",
+"t": "academic",
+"n": "University of California San Francisco",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-colorado",
+"t": "academic",
+"n": "University of Colorado",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:yale-university",
+"t": "academic",
+"n": "Yale University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:medstar-georgetown-university-hospital",
+"t": "hospital",
+"n": "MedStar Georgetown University Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct06937099",
+"t": "trial",
+"n": "Mirikizumab and Tirzepatide Administered in Adult Participants With Moderately to Severely",
+"sub": "P3 · recruiting · 2025-2028",
+"url": "https://clinicaltrials.gov/study/NCT06937099",
+"c": ""
+},
+{
 "k": "trial:nct06226883",
 "t": "trial",
 "n": "A Phase 2 Study to Evaluate MORF-057 in Adults With Moderately to Severely Active Crohn's ",
@@ -1059,14 +1235,6 @@
 "k": "org:peak-gastroenterology-associates-colorado-springs",
 "t": "company",
 "n": "Peak Gastroenterology Associates - Colorado Springs",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:clinical-research-of-osceola",
-"t": "hospital",
-"n": "Clinical Research of Osceola",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -1128,174 +1296,6 @@
 "c": ""
 },
 {
-"k": "trial:nct05242484",
-"t": "trial",
-"n": "A Study of Combination Therapy With Guselkumab and Golimumab in Participants With Moderate",
-"sub": "P2 · active_not_recruiting · 2022-2029",
-"url": "https://clinicaltrials.gov/study/NCT05242484",
-"c": ""
-},
-{
-"k": "org:valley-gastroenterology-medical-group",
-"t": "company",
-"n": "Valley Gastroenterology Medical Group",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:southern-california-research-center",
-"t": "company",
-"n": "Southern California Research Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-california-san-francisco",
-"t": "academic",
-"n": "University of California San Francisco",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-colorado",
-"t": "academic",
-"n": "University of Colorado",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:yale-university",
-"t": "academic",
-"n": "Yale University",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:medstar-georgetown-university-hospital",
-"t": "hospital",
-"n": "MedStar Georgetown University Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:golimumab",
-"t": "drug",
-"n": "Golimumab",
-"sub": "Janssen Research & Development, LLC",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:jnj-78934804",
-"t": "drug",
-"n": "JNJ-78934804",
-"sub": "Janssen Research & Development, LLC",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06937086",
-"t": "trial",
-"n": "Mirikizumab Administered at the Same Time as Tirzepatide in Adult Participants With Modera",
-"sub": "P3 · recruiting · 2025-2028",
-"url": "https://clinicaltrials.gov/study/NCT06937086",
-"c": ""
-},
-{
-"k": "trial:nct05242471",
-"t": "trial",
-"n": "A Study of Combination Therapy With Guselkumab and Golimumab in Participants With Moderate",
-"sub": "P2 · active_not_recruiting · 2022-2029",
-"url": "https://clinicaltrials.gov/study/NCT05242471",
-"c": ""
-},
-{
-"k": "org:university-of-alabama-liver-center",
-"t": "academic",
-"n": "University of Alabama Liver Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:del-sol-research-management",
-"t": "company",
-"n": "Del Sol Research Management, LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:moore-clinical-trials",
-"t": "hospital",
-"n": "Moore Clinical Trials, LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:desert-gastroenterology-associates",
-"t": "company",
-"n": "Desert Gastroenterology Associates",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:hoag-memorial-hospital",
-"t": "hospital",
-"n": "Hoag Memorial Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "trial:nct07186101",
-"t": "trial",
-"n": "LY4268989 (MORF-057) Co-Administered With Mirikizumab in Adults With Moderately to Severel",
-"sub": "P2 · recruiting · 2025-2029",
-"url": "https://clinicaltrials.gov/study/NCT07186101",
-"c": ""
-},
-{
-"k": "org:clinnova-research-anaheim",
-"t": "company",
-"n": "Clinnova Research - Anaheim",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:neoclinical-research",
-"t": "hospital",
-"n": "NeoClinical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:encore-borland-groover-clinical-research",
-"t": "hospital",
-"n": "Encore Borland-Groover Clinical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:alliance-medical-research",
-"t": "foundation",
-"n": "Alliance Medical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "trial:nct05528510",
 "t": "trial",
 "n": "A Study of Guselkumab Therapy in Participants With Moderately to Severely Active Ulcerativ",
@@ -1328,6 +1328,294 @@
 "c": "United States"
 },
 {
+"k": "trial:nct06663332",
+"t": "trial",
+"n": "A Long-term Extension (LTE) Study of Guselkumab in Pediatric Participants",
+"sub": "P3 · recruiting · 2024-2032",
+"url": "https://clinicaltrials.gov/study/NCT06663332",
+"c": ""
+},
+{
+"k": "org:emory-university",
+"t": "academic",
+"n": "Emory University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:children-s-center-for-digestive-healthcare",
+"t": "hospital",
+"n": "Children's Center for Digestive Healthcare",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:riley-hospital-for-children",
+"t": "hospital",
+"n": "Riley Hospital for Children",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cincinnati-children-s-hospital-medical-center",
+"t": "hospital",
+"n": "Cincinnati Children's Hospital Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cook-childrens-medical-center",
+"t": "hospital",
+"n": "Cook Childrens Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-utah",
+"t": "academic",
+"n": "University of Utah",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:instituto-caici",
+"t": "academic",
+"n": "Instituto Caici",
+"sub": "",
+"url": "",
+"c": "Argentina"
+},
+{
+"k": "org:the-kids-research-institute-australia-on-behalf-of-the-centr",
+"t": "hospital",
+"n": "The Kids Research Institute Australia on behalf of the Centre for Child Health Research",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "org:mater-hospital-brisbane-inflammatory-bowel-diseases",
+"t": "hospital",
+"n": "Mater Hospital Brisbane Inflammatory Bowel Diseases",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "org:the-children-s-hospital-at-westmead",
+"t": "hospital",
+"n": "The Children's Hospital at Westmead",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "trial:nct05092269",
+"t": "trial",
+"n": "A Long-term Extension Study of Ustekinumab in Pediatric Participants",
+"sub": "P3 · active_not_recruiting · 2021-2028",
+"url": "https://clinicaltrials.gov/study/NCT05092269",
+"c": ""
+},
+{
+"k": "org:mount-sinai",
+"t": "company",
+"n": "Mount Sinai",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:levine-childrens-at-atrium-health",
+"t": "hospital",
+"n": "Levine Childrens at Atrium Health",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:pediatric-specialists-of-virginia",
+"t": "company",
+"n": "Pediatric Specialists Of Virginia",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:stat-research-s-a",
+"t": "company",
+"n": "STAT Research S A",
+"sub": "",
+"url": "",
+"c": "Argentina"
+},
+{
+"k": "org:hospital-de-ninos-de-cordoba",
+"t": "hospital",
+"n": "Hospital de Ninos de Cordoba",
+"sub": "",
+"url": "",
+"c": "Argentina"
+},
+{
+"k": "org:centro-de-investigaciones-medicas-tucuman",
+"t": "company",
+"n": "Centro de Investigaciones Medicas Tucuman",
+"sub": "",
+"url": "",
+"c": "Argentina"
+},
+{
+"k": "org:huderf",
+"t": "company",
+"n": "Huderf",
+"sub": "",
+"url": "",
+"c": "Belgium"
+},
+{
+"k": "org:cliniques-universitaires-saint-luc",
+"t": "hospital",
+"n": "Cliniques Universitaires Saint Luc",
+"sub": "",
+"url": "",
+"c": "Belgium"
+},
+{
+"k": "org:uz-gent",
+"t": "hospital",
+"n": "UZ Gent",
+"sub": "",
+"url": "",
+"c": "Belgium"
+},
+{
+"k": "drug:ustekinumab",
+"t": "drug",
+"n": "Ustekinumab",
+"sub": "Janssen Research & Development, LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05923073",
+"t": "trial",
+"n": "A Study of Guselkumab in Pediatric Participants With Moderately to Severely Active Crohn's",
+"sub": "P3 · recruiting · 2024-2028",
+"url": "https://clinicaltrials.gov/study/NCT05923073",
+"c": ""
+},
+{
+"k": "org:connecticut-children-s-medical-center",
+"t": "hospital",
+"n": "Connecticut Children's Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:children-s-center-for-digestive-health-care",
+"t": "hospital",
+"n": "Children's Center for Digestive Health Care",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:boston-childrens-hospital",
+"t": "hospital",
+"n": "Boston Childrens Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:goryeb-children-s-hospital",
+"t": "hospital",
+"n": "Goryeb Children's Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:weill-cornell-medical-college-judith-jaffe-multiple-sclerosi",
+"t": "academic",
+"n": "Weill Cornell Medical College - Judith Jaffe Multiple Sclerosis Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:icahn-school-of-medicine-at-mount-sinai",
+"t": "academic",
+"n": "Icahn School of Medicine at Mount Sinai",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct07499232",
+"t": "trial",
+"n": "A Study of Guselkumab Versus Risankizumab in Participants With Moderately to Severely Acti",
+"sub": "P3 · recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07499232",
+"c": ""
+},
+{
+"k": "org:digestive-health-specialists-of-the-southeast",
+"t": "hospital",
+"n": "Digestive Health Specialists of the Southeast",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:east-view-medical-research",
+"t": "company",
+"n": "East View Medical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:united-gastroenterologists",
+"t": "company",
+"n": "United Gastroenterologists",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:tlc-clinical-research",
+"t": "hospital",
+"n": "TLC Clinical Research Inc",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:gastrointestinal-bioscience",
+"t": "company",
+"n": "GastroIntestinal Bioscience",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:risankizumab",
+"t": "drug",
+"n": "Risankizumab",
+"sub": "Janssen Research & Development, LLC",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07196748",
 "t": "trial",
 "n": "A Protocol of Icotrokinra Therapy in Adult and Adolescent Participants With Moderately to ",
@@ -1352,22 +1640,6 @@
 "c": "United States"
 },
 {
-"k": "org:tlc-clinical-research",
-"t": "hospital",
-"n": "TLC Clinical Research Inc",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:gastrointestinal-bioscience",
-"t": "company",
-"n": "GastroIntestinal Bioscience",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:om-research-2",
 "t": "company",
 "n": "Om Research LLC 2",
@@ -1384,27 +1656,11 @@
 "c": ""
 },
 {
-"k": "trial:nct07196722",
+"k": "trial:nct07577856",
 "t": "trial",
-"n": "A Study of Icotrokinra in Participants With Moderately to Severely Active Crohn's Disease",
-"sub": "P2/P3 · recruiting · 2025-2032",
-"url": "https://clinicaltrials.gov/study/NCT07196722",
-"c": ""
-},
-{
-"k": "org:alliance-research-institute-canoga-park",
-"t": "foundation",
-"n": "Alliance Research Institute, LLC - Canoga Park",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "trial:nct07577843",
-"t": "trial",
-"n": "A Study of JNJ-78934804 in Participants With Moderately to Severely Active Crohn's Disease",
+"n": "A Study of JNJ-78934804 in Participants With Moderately to Severely Active Ulcerative Coli",
 "sub": "P3 · recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07577843",
+"url": "https://clinicaltrials.gov/study/NCT07577856",
 "c": ""
 },
 {
@@ -1446,110 +1702,6 @@
 "sub": "",
 "url": "",
 "c": "United States"
-},
-{
-"k": "trial:nct06260163",
-"t": "trial",
-"n": "A Study of Guselkumab in Pediatric Participants With Moderately to Severely Active Ulcerat",
-"sub": "P3 · active_not_recruiting · 2024-2027",
-"url": "https://clinicaltrials.gov/study/NCT06260163",
-"c": ""
-},
-{
-"k": "org:children-s-hospital-oakland",
-"t": "hospital",
-"n": "Children's Hospital Oakland",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:riley-hospital-for-children",
-"t": "hospital",
-"n": "Riley Hospital for Children",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:nyu-langone-health",
-"t": "hospital",
-"n": "NYU Langone Health",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:the-kids-research-institute-australia-on-behalf-of-the-centr",
-"t": "hospital",
-"n": "The Kids Research Institute Australia on behalf of the Centre for Child Health Research",
-"sub": "",
-"url": "",
-"c": "Australia"
-},
-{
-"k": "org:mater-hospital-brisbane-inflammatory-bowel-diseases",
-"t": "hospital",
-"n": "Mater Hospital Brisbane Inflammatory Bowel Diseases",
-"sub": "",
-"url": "",
-"c": "Australia"
-},
-{
-"k": "org:the-children-s-hospital-at-westmead",
-"t": "hospital",
-"n": "The Children's Hospital at Westmead",
-"sub": "",
-"url": "",
-"c": "Australia"
-},
-{
-"k": "org:chu-charleroi-chimay",
-"t": "hospital",
-"n": "CHU Charleroi Chimay",
-"sub": "",
-"url": "",
-"c": "Belgium"
-},
-{
-"k": "org:uz-gent",
-"t": "hospital",
-"n": "UZ Gent",
-"sub": "",
-"url": "",
-"c": "Belgium"
-},
-{
-"k": "org:uz-brussel",
-"t": "hospital",
-"n": "UZ Brussel",
-"sub": "",
-"url": "",
-"c": "Belgium"
-},
-{
-"k": "org:uz-leuven",
-"t": "hospital",
-"n": "UZ Leuven",
-"sub": "",
-"url": "",
-"c": "Belgium"
-},
-{
-"k": "drug:guselkumab-subcutaneous",
-"t": "drug",
-"n": "Guselkumab Subcutaneous",
-"sub": "Janssen Research & Development, LLC",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:guselkumab-intravenous",
-"t": "drug",
-"n": "Guselkumab Intravenous",
-"sub": "Janssen Research & Development, LLC",
-"url": "",
-"c": ""
 },
 {
 "k": "trial:nct06408935",
@@ -1640,91 +1792,11 @@
 "c": "Belgium"
 },
 {
-"k": "trial:nct05092269",
+"k": "trial:nct07577843",
 "t": "trial",
-"n": "A Long-term Extension Study of Ustekinumab in Pediatric Participants",
-"sub": "P3 · active_not_recruiting · 2021-2028",
-"url": "https://clinicaltrials.gov/study/NCT05092269",
-"c": ""
-},
-{
-"k": "org:children-s-center-for-digestive-healthcare",
-"t": "hospital",
-"n": "Children's Center For Digestive Healthcare, Llc",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:mount-sinai",
-"t": "company",
-"n": "Mount Sinai",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:levine-childrens-at-atrium-health",
-"t": "hospital",
-"n": "Levine Childrens at Atrium Health",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:pediatric-specialists-of-virginia",
-"t": "company",
-"n": "Pediatric Specialists Of Virginia",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:stat-research-s-a",
-"t": "company",
-"n": "STAT Research S A",
-"sub": "",
-"url": "",
-"c": "Argentina"
-},
-{
-"k": "org:hospital-de-ninos-de-cordoba",
-"t": "hospital",
-"n": "Hospital de Ninos de Cordoba",
-"sub": "",
-"url": "",
-"c": "Argentina"
-},
-{
-"k": "org:centro-de-investigaciones-medicas-tucuman",
-"t": "company",
-"n": "Centro de Investigaciones Medicas Tucuman",
-"sub": "",
-"url": "",
-"c": "Argentina"
-},
-{
-"k": "org:huderf",
-"t": "company",
-"n": "Huderf",
-"sub": "",
-"url": "",
-"c": "Belgium"
-},
-{
-"k": "org:cliniques-universitaires-saint-luc",
-"t": "hospital",
-"n": "Cliniques Universitaires Saint Luc",
-"sub": "",
-"url": "",
-"c": "Belgium"
-},
-{
-"k": "drug:ustekinumab",
-"t": "drug",
-"n": "Ustekinumab",
-"sub": "Janssen Research & Development, LLC",
-"url": "",
+"n": "A Study of JNJ-78934804 in Participants With Moderately to Severely Active Crohn's Disease",
+"sub": "P3 · recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07577843",
 "c": ""
 },
 {
@@ -1755,6 +1827,14 @@
 "k": "org:brigham-and-women-s-hospital",
 "t": "hospital",
 "n": "Brigham and Women's Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:nyu-langone-health",
+"t": "hospital",
+"n": "NYU Langone Health",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -1840,227 +1920,83 @@
 "c": ""
 },
 {
-"k": "trial:nct06663332",
+"k": "trial:nct06260163",
 "t": "trial",
-"n": "A Long-term Extension (LTE) Study of Guselkumab in Pediatric Participants",
-"sub": "P3 · recruiting · 2024-2032",
-"url": "https://clinicaltrials.gov/study/NCT06663332",
+"n": "A Study of Guselkumab in Pediatric Participants With Moderately to Severely Active Ulcerat",
+"sub": "P3 · active_not_recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06260163",
 "c": ""
 },
 {
-"k": "org:emory-university",
-"t": "academic",
-"n": "Emory University",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:cincinnati-children-s-hospital-medical-center",
+"k": "org:children-s-hospital-oakland",
 "t": "hospital",
-"n": "Cincinnati Children's Hospital Medical Center",
+"n": "Children's Hospital Oakland",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "org:cook-childrens-medical-center",
+"k": "org:chu-charleroi-chimay",
 "t": "hospital",
-"n": "Cook Childrens Medical Center",
+"n": "CHU Charleroi Chimay",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": "Belgium"
 },
 {
-"k": "org:university-of-utah",
-"t": "academic",
-"n": "University of Utah",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:instituto-caici",
-"t": "academic",
-"n": "Instituto Caici",
-"sub": "",
-"url": "",
-"c": "Argentina"
-},
-{
-"k": "trial:nct05923073",
-"t": "trial",
-"n": "A Study of Guselkumab in Pediatric Participants With Moderately to Severely Active Crohn's",
-"sub": "P3 · recruiting · 2024-2028",
-"url": "https://clinicaltrials.gov/study/NCT05923073",
-"c": ""
-},
-{
-"k": "org:connecticut-children-s-medical-center",
+"k": "org:uz-brussel",
 "t": "hospital",
-"n": "Connecticut Children's Medical Center",
+"n": "UZ Brussel",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": "Belgium"
 },
 {
-"k": "org:children-s-center-for-digestive-health-care",
+"k": "org:uz-leuven",
 "t": "hospital",
-"n": "Children's Center for Digestive Health Care",
+"n": "UZ Leuven",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": "Belgium"
 },
 {
-"k": "org:boston-childrens-hospital",
-"t": "hospital",
-"n": "Boston Childrens Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:goryeb-children-s-hospital",
-"t": "hospital",
-"n": "Goryeb Children's Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:weill-cornell-medical-college-judith-jaffe-multiple-sclerosi",
-"t": "academic",
-"n": "Weill Cornell Medical College - Judith Jaffe Multiple Sclerosis Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:icahn-school-of-medicine-at-mount-sinai",
-"t": "academic",
-"n": "Icahn School of Medicine at Mount Sinai",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "trial:nct07577856",
-"t": "trial",
-"n": "A Study of JNJ-78934804 in Participants With Moderately to Severely Active Ulcerative Coli",
-"sub": "P3 · recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07577856",
-"c": ""
-},
-{
-"k": "trial:nct07499232",
-"t": "trial",
-"n": "A Study of Guselkumab Versus Risankizumab in Participants With Moderately to Severely Acti",
-"sub": "P3 · recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07499232",
-"c": ""
-},
-{
-"k": "org:digestive-health-specialists-of-the-southeast",
-"t": "hospital",
-"n": "Digestive Health Specialists of the Southeast",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:east-view-medical-research",
-"t": "company",
-"n": "East View Medical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:united-gastroenterologists",
-"t": "company",
-"n": "United Gastroenterologists",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:risankizumab",
+"k": "drug:guselkumab-subcutaneous",
 "t": "drug",
-"n": "Risankizumab",
+"n": "Guselkumab Subcutaneous",
 "sub": "Janssen Research & Development, LLC",
 "url": "",
 "c": ""
 },
 {
-"k": "trial:nct07501078",
+"k": "drug:guselkumab-intravenous",
+"t": "drug",
+"n": "Guselkumab Intravenous",
+"sub": "Janssen Research & Development, LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07196722",
 "t": "trial",
-"n": "Aquamin® for Prevention of Ulcerative Colitis J-Pouch-associate Intestinal Inflammation",
-"sub": "P2 · recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07501078",
+"n": "A Study of Icotrokinra in Participants With Moderately to Severely Active Crohn's Disease",
+"sub": "P2/P3 · recruiting · 2025-2032",
+"url": "https://clinicaltrials.gov/study/NCT07196722",
 "c": ""
 },
 {
-"k": "org:muhammad-n-aslam-md",
-"t": "academic",
-"n": "Muhammad N Aslam, MD",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:crohn-s-and-colitis-foundation",
+"k": "org:alliance-research-institute-canoga-park",
 "t": "foundation",
-"n": "Crohn's and Colitis Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:university-of-michigan",
-"t": "academic",
-"n": "University of Michigan",
+"n": "Alliance Research Institute, LLC - Canoga Park",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "person:muhammad-n-aslam",
-"t": "person",
-"n": "Muhammad N Aslam",
-"sub": "principal investigator · University of Michigan",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:aquamin",
-"t": "drug",
-"n": "Aquamin",
-"sub": "Muhammad N Aslam, MD",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06975722",
+"k": "trial:nct05837897",
 "t": "trial",
-"n": "A Study to Investigate the Efficacy and Safety of Brivekimig in Adult Participants With Ul",
-"sub": "P2 · active_not_recruiting · 2025-2029",
-"url": "https://clinicaltrials.gov/study/NCT06975722",
-"c": ""
-},
-{
-"k": "drug:sar442970",
-"t": "drug",
-"n": "SAR442970",
-"sub": "Sanofi",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06233461",
-"t": "trial",
-"n": "A Study on the Safety of TAK-279 and Whether it Can Reduce Inflammation in the Bowel of Pa",
-"sub": "P2 · recruiting · 2024-2027",
-"url": "https://clinicaltrials.gov/study/NCT06233461",
+"n": "A Study of Vedolizumab in Adult Participants With Moderate to Severe Crohn's Disease",
+"sub": "P3 · recruiting · 2023-2031",
+"url": "https://clinicaltrials.gov/study/NCT05837897",
 "c": ""
 },
 {
@@ -2069,86 +2005,6 @@
 "n": "Takeda",
 "sub": "",
 "url": "",
-"c": ""
-},
-{
-"k": "org:uci-health",
-"t": "hospital",
-"n": "UCI Health",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:west-central-gastroenterology-llp-d-b-a-gastro-florida",
-"t": "company",
-"n": "West Central Gastroenterology, LLP, d/b/a/ Gastro Florida",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:auzmer-research",
-"t": "company",
-"n": "Auzmer Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:wellness-clinical-research",
-"t": "hospital",
-"n": "Wellness Clinical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:adventhealth-florida-hospital-medical-group",
-"t": "hospital",
-"n": "AdventHealth (Florida Hospital) Medical Group",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:usf-health-morsani-center-for-advanced-healthcare",
-"t": "hospital",
-"n": "USF Health Morsani Center for Advanced Healthcare",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:emory-university-hospital-the-emory-clinic",
-"t": "hospital",
-"n": "Emory University Hospital, The Emory Clinic",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:atlanta-center-for-gastroenterology-p-c",
-"t": "company",
-"n": "Atlanta Center For Gastroenterology, P.C.",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:tak-279",
-"t": "drug",
-"n": "TAK-279",
-"sub": "Takeda",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05837897",
-"t": "trial",
-"n": "A Study of Vedolizumab in Adult Participants With Moderate to Severe Crohn's Disease",
-"sub": "P3 · recruiting · 2023-2031",
-"url": "https://clinicaltrials.gov/study/NCT05837897",
 "c": ""
 },
 {
@@ -2240,6 +2096,150 @@
 "c": ""
 },
 {
+"k": "trial:nct07501078",
+"t": "trial",
+"n": "Aquamin® for Prevention of Ulcerative Colitis J-Pouch-associate Intestinal Inflammation",
+"sub": "P2 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07501078",
+"c": ""
+},
+{
+"k": "org:muhammad-n-aslam-md",
+"t": "academic",
+"n": "Muhammad N Aslam, MD",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:crohn-s-and-colitis-foundation",
+"t": "foundation",
+"n": "Crohn's and Colitis Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-michigan",
+"t": "academic",
+"n": "University of Michigan",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "person:muhammad-n-aslam",
+"t": "person",
+"n": "Muhammad N Aslam",
+"sub": "principal investigator · University of Michigan",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:aquamin",
+"t": "drug",
+"n": "Aquamin",
+"sub": "Muhammad N Aslam, MD",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06975722",
+"t": "trial",
+"n": "A Study to Investigate the Efficacy and Safety of Brivekimig in Adult Participants With Ul",
+"sub": "P2 · active_not_recruiting · 2025-2029",
+"url": "https://clinicaltrials.gov/study/NCT06975722",
+"c": ""
+},
+{
+"k": "drug:sar442970",
+"t": "drug",
+"n": "SAR442970",
+"sub": "Sanofi",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06233461",
+"t": "trial",
+"n": "A Study on the Safety of TAK-279 and Whether it Can Reduce Inflammation in the Bowel of Pa",
+"sub": "P2 · recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06233461",
+"c": ""
+},
+{
+"k": "org:uci-health",
+"t": "hospital",
+"n": "UCI Health",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:west-central-gastroenterology-llp-d-b-a-gastro-florida",
+"t": "company",
+"n": "West Central Gastroenterology, LLP, d/b/a/ Gastro Florida",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:auzmer-research",
+"t": "company",
+"n": "Auzmer Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:wellness-clinical-research",
+"t": "hospital",
+"n": "Wellness Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:adventhealth-florida-hospital-medical-group",
+"t": "hospital",
+"n": "AdventHealth (Florida Hospital) Medical Group",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:usf-health-morsani-center-for-advanced-healthcare",
+"t": "hospital",
+"n": "USF Health Morsani Center for Advanced Healthcare",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:emory-university-hospital-the-emory-clinic",
+"t": "hospital",
+"n": "Emory University Hospital, The Emory Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:atlanta-center-for-gastroenterology-p-c",
+"t": "company",
+"n": "Atlanta Center For Gastroenterology, P.C.",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:tak-279",
+"t": "drug",
+"n": "TAK-279",
+"sub": "Takeda",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct06958536",
 "t": "trial",
 "n": "A Study to Investigate Efficacy and Safety of Brivekimig in Participants With Crohn's Dise",
@@ -2307,7 +2307,7 @@
 "k": "paper:doi-10-31635-ccschem-020-202000537",
 "t": "paper",
 "n": "Ultrathin Metal–Organic Framework Nanosheets-Derived Yolk–Shell Ni 0.85 Se@NC with Rich Se",
-"sub": "CCS Chemistry 2020 · cited 38",
+"sub": "CCS Chemistry 2020 · cited 43",
 "url": "https://doi.org/10.31635/ccschem.020.202000537",
 "c": ""
 },
@@ -2347,7 +2347,7 @@
 "k": "paper:pmid-40800872",
 "t": "paper",
 "n": "Measuring the neurodevelopmental trajectory of excitatory-inhibitory balance via visual ga",
-"sub": "Imaging Neuroscience 2025 · cited 18",
+"sub": "Imaging Neuroscience 2025 · cited 19",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40800872",
 "c": ""
 },
@@ -2443,7 +2443,7 @@
 "k": "paper:doi-10-3329-bjb-v50i1-52679",
 "t": "paper",
 "n": "Genetic diversity analysis of sweet potato [Ipomoea batatas (L.) Lam.] germplasms through ",
-"sub": "Bangladesh Journal of Botany 2021 · cited 4",
+"sub": "Bangladesh Journal of Botany 2021 · cited 5",
 "url": "https://doi.org/10.3329/bjb.v50i1.52679",
 "c": ""
 },
@@ -2595,7 +2595,7 @@
 "k": "paper:pmid-33359090",
 "t": "paper",
 "n": "STRIDE-II: An Update on the Selecting Therapeutic Targets in Inflammatory Bowel Disease (S",
-"sub": "Gastroenterology 2021 · cited 3156",
+"sub": "Gastroenterology 2021 · cited 3313",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33359090",
 "c": ""
 },
@@ -2675,7 +2675,7 @@
 "k": "paper:pmid-36727674",
 "t": "paper",
 "n": "AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty li",
-"sub": "Hepatology 2023 · cited 3033",
+"sub": "Hepatology 2023 · cited 3213",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36727674",
 "c": ""
 },
@@ -2739,7 +2739,7 @@
 "k": "paper:pmid-34784344",
 "t": "paper",
 "n": "Multivariable association discovery in population-scale meta-omics studies",
-"sub": "PLoS Computational Biology 2021 · cited 2861",
+"sub": "PLoS Computational Biology 2021 · cited 2938",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34784344",
 "c": ""
 },
@@ -2803,7 +2803,7 @@
 "k": "paper:doi-10-1001-jama-2021-6238",
 "t": "paper",
 "n": "Screening for Colorectal Cancer: US Preventive Services Task Force Recommendation Statemen",
-"sub": "JAMA 2021 · cited 2219",
+"sub": "JAMA 2021 · cited 2347",
 "url": "https://doi.org/10.1001/jama.2021.6238",
 "c": ""
 },
@@ -2859,7 +2859,7 @@
 "k": "paper:pmid-32076145",
 "t": "paper",
 "n": "Gut microbiota-derived metabolites as key actors in inflammatory bowel disease",
-"sub": "Nature Reviews Gastroenterology & Hepatology 2020 · cited 2170",
+"sub": "Nature Reviews Gastroenterology & Hepatology 2020 · cited 2222",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32076145",
 "c": ""
 },
@@ -2907,7 +2907,7 @@
 "k": "paper:pmid-33139627",
 "t": "paper",
 "n": "The Influence of Probiotics on the Firmicutes/Bacteroidetes Ratio in the Treatment of Obes",
-"sub": "Microorganisms 2020 · cited 2024",
+"sub": "Microorganisms 2020 · cited 2097",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33139627",
 "c": ""
 },
@@ -2955,7 +2955,7 @@
 "k": "paper:pmid-32913180",
 "t": "paper",
 "n": "Ulcerative colitis",
-"sub": "Nature Reviews Disease Primers 2020 · cited 1858",
+"sub": "Nature Reviews Disease Primers 2020 · cited 1939",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32913180",
 "c": ""
 },
@@ -2995,7 +2995,7 @@
 "k": "paper:pmid-37505311",
 "t": "paper",
 "n": "Gut microbiota, intestinal permeability, and systemic inflammation: a narrative review",
-"sub": "Internal and Emergency Medicine 2023 · cited 1633",
+"sub": "Internal and Emergency Medicine 2023 · cited 1728",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37505311",
 "c": ""
 },
@@ -3043,7 +3043,7 @@
 "k": "paper:pmid-33033392",
 "t": "paper",
 "n": "The four epidemiological stages in the global evolution of inflammatory bowel disease",
-"sub": "Nature Reviews Gastroenterology & Hepatology 2020 · cited 1480",
+"sub": "Nature Reviews Gastroenterology & Hepatology 2020 · cited 1560",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33033392",
 "c": ""
 },
@@ -3075,7 +3075,7 @@
 "k": "paper:pmid-37432351",
 "t": "paper",
 "n": "Short-Chain Fatty-Acid-Producing Bacteria: Key Components of the Human Gut Microbiota",
-"sub": "Nutrients 2023 · cited 1418",
+"sub": "Nutrients 2023 · cited 1500",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37432351",
 "c": ""
 },
@@ -3104,34 +3104,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-33382932",
-"t": "paper",
-"n": "Pathophysiology of Inflammatory Bowel Diseases",
-"sub": "New England Journal of Medicine 2020 · cited 1368",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33382932",
-"c": ""
-},
-{
-"k": "person:john-t-chang",
-"t": "person",
-"n": "John T. Chang",
-"sub": "University of California San Diego",
-"url": "https://orcid.org/0000-0003-0873-6218",
-"c": "US"
-},
-{
-"k": "org:va-san-diego-healthcare-system",
-"t": "hospital",
-"n": "VA San Diego Healthcare System",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
 "k": "paper:pmid-35566252",
 "t": "paper",
 "n": "Flavonoids as Potential Anti-Inflammatory Molecules: A Review",
-"sub": "Molecules 2022 · cited 1293",
+"sub": "Molecules 2022 · cited 1451",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35566252",
 "c": ""
 },
@@ -3184,10 +3160,34 @@
 "c": ""
 },
 {
+"k": "paper:pmid-33382932",
+"t": "paper",
+"n": "Pathophysiology of Inflammatory Bowel Diseases",
+"sub": "New England Journal of Medicine 2020 · cited 1420",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33382932",
+"c": ""
+},
+{
+"k": "person:john-t-chang",
+"t": "person",
+"n": "John T. Chang",
+"sub": "University of California San Diego",
+"url": "https://orcid.org/0000-0003-0873-6218",
+"c": "US"
+},
+{
+"k": "org:va-san-diego-healthcare-system",
+"t": "hospital",
+"n": "VA San Diego Healthcare System",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
 "k": "paper:doi-10-1093-ecco-jcc-jjab178",
 "t": "paper",
 "n": "ECCO Guidelines on Therapeutics in Ulcerative Colitis: Medical Treatment",
-"sub": "Journal of Crohn s and Colitis 2021 · cited 1247",
+"sub": "Journal of Crohn s and Colitis 2021 · cited 1298",
 "url": "https://doi.org/10.1093/ecco-jcc/jjab178",
 "c": ""
 },
@@ -3259,7 +3259,7 @@
 "k": "paper:pmid-32242028",
 "t": "paper",
 "n": "Crohn’s disease",
-"sub": "Nature Reviews Disease Primers 2020 · cited 1176",
+"sub": "Nature Reviews Disease Primers 2020 · cited 1255",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32242028",
 "c": ""
 },
@@ -3307,7 +3307,7 @@
 "k": "paper:pmid-36270658",
 "t": "paper",
 "n": "ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update",
-"sub": "Annals of the Rheumatic Diseases 2022 · cited 1155",
+"sub": "Annals of the Rheumatic Diseases 2022 · cited 1243",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36270658",
 "c": ""
 },
@@ -3347,7 +3347,7 @@
 "k": "paper:pmid-33076307",
 "t": "paper",
 "n": "Gut Microbiota and Immune System Interactions",
-"sub": "Microorganisms 2020 · cited 1141",
+"sub": "Microorganisms 2020 · cited 1211",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33076307",
 "c": ""
 },
@@ -3376,10 +3376,42 @@
 "c": "US"
 },
 {
+"k": "paper:pmid-33846604",
+"t": "paper",
+"n": "Does the epithelial barrier hypothesis explain the increase in allergy, autoimmunity and o",
+"sub": "Nature reviews. Immunology 2021 · cited 1134",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33846604",
+"c": ""
+},
+{
+"k": "person:cezmi-a-akdis",
+"t": "person",
+"n": "Cezmi A. Akdiş",
+"sub": "University of Zurich",
+"url": "https://orcid.org/0000-0001-8020-019X",
+"c": "CH"
+},
+{
+"k": "org:university-of-zurich",
+"t": "academic",
+"n": "University of Zurich",
+"sub": "",
+"url": "",
+"c": "CH"
+},
+{
+"k": "org:ck-care",
+"t": "hospital",
+"n": "CK-CARE",
+"sub": "",
+"url": "",
+"c": "CH"
+},
+{
 "k": "paper:pmid-36635386",
 "t": "paper",
 "n": "Genomic atlas of the plasma metabolome prioritizes metabolites implicated in human disease",
-"sub": "Nature Genetics 2023 · cited 1102",
+"sub": "Nature Genetics 2023 · cited 1115",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36635386",
 "c": ""
 },
@@ -3440,42 +3472,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-33846604",
-"t": "paper",
-"n": "Does the epithelial barrier hypothesis explain the increase in allergy, autoimmunity and o",
-"sub": "Nature reviews. Immunology 2021 · cited 1090",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33846604",
-"c": ""
-},
-{
-"k": "person:cezmi-a-akdis",
-"t": "person",
-"n": "Cezmi A. Akdiş",
-"sub": "University of Zurich",
-"url": "https://orcid.org/0000-0001-8020-019X",
-"c": "CH"
-},
-{
-"k": "org:university-of-zurich",
-"t": "academic",
-"n": "University of Zurich",
-"sub": "",
-"url": "",
-"c": "CH"
-},
-{
-"k": "org:ck-care",
-"t": "hospital",
-"n": "CK-CARE",
-"sub": "",
-"url": "",
-"c": "CH"
-},
-{
 "k": "paper:pmid-33315591",
 "t": "paper",
 "n": "ACG Clinical Guideline: Management of Irritable Bowel Syndrome",
-"sub": "The American Journal of Gastroenterology 2020 · cited 1000",
+"sub": "The American Journal of Gastroenterology 2020 · cited 1080",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33315591",
 "c": ""
 },
@@ -3512,58 +3512,10 @@
 "c": "US"
 },
 {
-"k": "paper:pmid-34358489",
-"t": "paper",
-"n": "Extraintestinal Manifestations of Inflammatory Bowel Disease: Current Concepts, Treatment,",
-"sub": "Gastroenterology 2021 · cited 974",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34358489",
-"c": ""
-},
-{
-"k": "person:gerhard-rogler",
-"t": "person",
-"n": "Gerhard Rogler",
-"sub": "University Hospital Zurich",
-"url": "https://orcid.org/0000-0002-1733-9188",
-"c": "CH"
-},
-{
-"k": "org:university-hospital-zurich",
-"t": "hospital",
-"n": "University Hospital Zurich",
-"sub": "",
-"url": "",
-"c": "CH"
-},
-{
-"k": "person:david-t-rubin",
-"t": "person",
-"n": "David T. Rubin",
-"sub": "University of Chicago",
-"url": "https://orcid.org/0000-0001-5647-1723",
-"c": "US"
-},
-{
-"k": "org:university-of-chicago-medical-center",
-"t": "hospital",
-"n": "University of Chicago Medical Center",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:novartis",
-"t": "funder",
-"n": "Novartis",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-35011465",
 "t": "paper",
 "n": "Role of Phenolic Compounds in Human Disease: Current Knowledge and Future Prospects",
-"sub": "Molecules 2021 · cited 959",
+"sub": "Molecules 2021 · cited 1058",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35011465",
 "c": ""
 },
@@ -3616,10 +3568,58 @@
 "c": "BD"
 },
 {
+"k": "paper:pmid-34358489",
+"t": "paper",
+"n": "Extraintestinal Manifestations of Inflammatory Bowel Disease: Current Concepts, Treatment,",
+"sub": "Gastroenterology 2021 · cited 1047",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34358489",
+"c": ""
+},
+{
+"k": "person:gerhard-rogler",
+"t": "person",
+"n": "Gerhard Rogler",
+"sub": "University Hospital Zurich",
+"url": "https://orcid.org/0000-0002-1733-9188",
+"c": "CH"
+},
+{
+"k": "org:university-hospital-zurich",
+"t": "hospital",
+"n": "University Hospital Zurich",
+"sub": "",
+"url": "",
+"c": "CH"
+},
+{
+"k": "person:david-t-rubin",
+"t": "person",
+"n": "David T. Rubin",
+"sub": "University of Chicago",
+"url": "https://orcid.org/0000-0001-5647-1723",
+"c": "US"
+},
+{
+"k": "org:university-of-chicago-medical-center",
+"t": "hospital",
+"n": "University of Chicago Medical Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:novartis",
+"t": "funder",
+"n": "Novartis",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-34754179",
 "t": "paper",
 "n": "Anti-Inflammatory Effects of Curcumin in the Inflammatory Diseases: Status, Limitations an",
-"sub": "Drug Design Development and Therapy 2021 · cited 935",
+"sub": "Drug Design Development and Therapy 2021 · cited 1006",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34754179",
 "c": ""
 },
@@ -3680,42 +3680,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-34757143",
-"t": "paper",
-"n": "Colorectal Cancer in Inflammatory Bowel Disease: Mechanisms and Management",
-"sub": "Gastroenterology 2021 · cited 930",
-"url": "https://pubmed.ncbi.nlm.nih.gov/34757143",
-"c": ""
-},
-{
-"k": "person:shailja-c-shah",
-"t": "person",
-"n": "Shailja C. Shah",
-"sub": "University of California San Diego",
-"url": "https://orcid.org/0000-0002-2049-9959",
-"c": "US"
-},
-{
-"k": "person:steven-h-itzkowitz",
-"t": "person",
-"n": "Steven H. Itzkowitz",
-"sub": "Icahn School of Medicine at Mount Sinai",
-"url": "https://orcid.org/0000-0002-0436-5416",
-"c": "US"
-},
-{
-"k": "org:u-s-department-of-veterans-affairs",
-"t": "funder",
-"n": "U.S. Department of Veterans Affairs",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-33049223",
 "t": "paper",
 "n": "Irritable bowel syndrome",
-"sub": "The Lancet 2020 · cited 930",
+"sub": "The Lancet 2020 · cited 1005",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33049223",
 "c": ""
 },
@@ -3752,10 +3720,42 @@
 "c": "US"
 },
 {
+"k": "paper:pmid-34757143",
+"t": "paper",
+"n": "Colorectal Cancer in Inflammatory Bowel Disease: Mechanisms and Management",
+"sub": "Gastroenterology 2021 · cited 974",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34757143",
+"c": ""
+},
+{
+"k": "person:shailja-c-shah",
+"t": "person",
+"n": "Shailja C. Shah",
+"sub": "University of California San Diego",
+"url": "https://orcid.org/0000-0002-2049-9959",
+"c": "US"
+},
+{
+"k": "person:steven-h-itzkowitz",
+"t": "person",
+"n": "Steven H. Itzkowitz",
+"sub": "Icahn School of Medicine at Mount Sinai",
+"url": "https://orcid.org/0000-0002-0436-5416",
+"c": "US"
+},
+{
+"k": "org:u-s-department-of-veterans-affairs",
+"t": "funder",
+"n": "U.S. Department of Veterans Affairs",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-34935363",
 "t": "paper",
 "n": "Analysis of Microplastics in Human Feces Reveals a Correlation between Fecal Microplastics",
-"sub": "Environmental Science & Technology 2021 · cited 922",
+"sub": "Environmental Science & Technology 2021 · cited 957",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34935363",
 "c": ""
 },
@@ -3824,50 +3824,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-35271802",
-"t": "paper",
-"n": "Gut microbiota-derived bile acids in intestinal immunity, inflammation, and tumorigenesis",
-"sub": "Cell Host & Microbe 2022 · cited 913",
-"url": "https://pubmed.ncbi.nlm.nih.gov/35271802",
-"c": ""
-},
-{
-"k": "person:jie-cai",
-"t": "person",
-"n": "Jie Cai",
-"sub": "National Cancer Institute",
-"url": "https://orcid.org/0000-0002-4224-1721",
-"c": "US"
-},
-{
-"k": "org:national-cancer-institute",
-"t": "funder",
-"n": "National Cancer Institute",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:center-for-cancer-research",
-"t": "academic",
-"n": "Center for Cancer Research",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:frank-j-gonzalez",
-"t": "person",
-"n": "Frank J. Gonzalez",
-"sub": "National Institutes of Health",
-"url": "https://orcid.org/0000-0002-7990-2140",
-"c": "US"
-},
-{
 "k": "paper:pmid-31910984",
 "t": "paper",
 "n": "The microbiome and inflammatory bowel disease",
-"sub": "Journal of Allergy and Clinical Immunology 2020 · cited 889",
+"sub": "Journal of Allergy and Clinical Immunology 2020 · cited 941",
 "url": "https://pubmed.ncbi.nlm.nih.gov/31910984",
 "c": ""
 },
@@ -3907,7 +3867,7 @@
 "k": "paper:pmid-32191340",
 "t": "paper",
 "n": "COVID-19 pandemic: perspectives on an unfolding crisis",
-"sub": "British journal of surgery 2020 · cited 883",
+"sub": "British journal of surgery 2020 · cited 927",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32191340",
 "c": ""
 },
@@ -3944,26 +3904,10 @@
 "c": "ES"
 },
 {
-"k": "paper:pmid-32358325",
-"t": "paper",
-"n": "Diagnosis and Treatment Protocol for Novel Coronavirus Pneumonia (Trial Version 7)",
-"sub": "Chinese Medical Journal 2020 · cited 865",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32358325",
-"c": ""
-},
-{
-"k": "person:pei-fang-wei",
-"t": "person",
-"n": "Pei-Fang Wei",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-36225386",
 "t": "paper",
 "n": "Human gut microbiota in health and disease: Unveiling the relationship",
-"sub": "Frontiers in Microbiology 2022 · cited 863",
+"sub": "Frontiers in Microbiology 2022 · cited 924",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36225386",
 "c": ""
 },
@@ -4024,10 +3968,66 @@
 "c": ""
 },
 {
+"k": "paper:pmid-35271802",
+"t": "paper",
+"n": "Gut microbiota-derived bile acids in intestinal immunity, inflammation, and tumorigenesis",
+"sub": "Cell Host & Microbe 2022 · cited 923",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35271802",
+"c": ""
+},
+{
+"k": "person:jie-cai",
+"t": "person",
+"n": "Jie Cai",
+"sub": "National Cancer Institute",
+"url": "https://orcid.org/0000-0002-4224-1721",
+"c": "US"
+},
+{
+"k": "org:national-cancer-institute",
+"t": "funder",
+"n": "National Cancer Institute",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:center-for-cancer-research",
+"t": "academic",
+"n": "Center for Cancer Research",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:frank-j-gonzalez",
+"t": "person",
+"n": "Frank J. Gonzalez",
+"sub": "National Institutes of Health",
+"url": "https://orcid.org/0000-0002-7990-2140",
+"c": "US"
+},
+{
+"k": "paper:pmid-32358325",
+"t": "paper",
+"n": "Diagnosis and Treatment Protocol for Novel Coronavirus Pneumonia (Trial Version 7)",
+"sub": "Chinese Medical Journal 2020 · cited 911",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32358325",
+"c": ""
+},
+{
+"k": "person:pei-fang-wei",
+"t": "person",
+"n": "Pei-Fang Wei",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-33813134",
 "t": "paper",
 "n": "Short chain fatty acids and its producing organisms: An overlooked therapy for IBD?",
-"sub": "EBioMedicine 2021 · cited 850",
+"sub": "EBioMedicine 2021 · cited 884",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33813134",
 "c": ""
 },
@@ -4096,10 +4096,98 @@
 "c": ""
 },
 {
+"k": "paper:pmid-34988090",
+"t": "paper",
+"n": "Treatment of Inflammatory Bowel Disease: A Comprehensive Review",
+"sub": "Frontiers in Medicine 2021 · cited 878",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34988090",
+"c": ""
+},
+{
+"k": "person:zhaobei-cai",
+"t": "person",
+"n": "Zhaobei Cai",
+"sub": "Jilin University",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:jilin-university",
+"t": "academic",
+"n": "Jilin University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:second-affiliated-hospital-of-jilin-university",
+"t": "hospital",
+"n": "Second Affiliated Hospital of Jilin University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:jiannan-li",
+"t": "person",
+"n": "Jiannan Li",
+"sub": "Jilin University",
+"url": "https://orcid.org/0000-0001-9744-7666",
+"c": "CN"
+},
+{
+"k": "org:people-s-government-of-jilin-province",
+"t": "funder",
+"n": "People's Government of Jilin Province",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:jilin-scientific-and-technological-development-program",
+"t": "funder",
+"n": "Jilin Scientific and Technological Development Program",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33721557",
+"t": "paper",
+"n": "Prevalence of symptoms of anxiety and depression in patients with inflammatory bowel disea",
+"sub": "The Lancet. Gastroenterology & hepatology 2021 · cited 870",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33721557",
+"c": ""
+},
+{
+"k": "person:brigida-barberio",
+"t": "person",
+"n": "Brigida Barberio",
+"sub": "University of Padua",
+"url": "https://orcid.org/0000-0002-3164-8243",
+"c": "IT"
+},
+{
+"k": "org:university-of-padua",
+"t": "academic",
+"n": "University of Padua",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:azienda-ospedale-universita-padova",
+"t": "hospital",
+"n": "Azienda Ospedale - Università Padova",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
 "k": "paper:pmid-37563310",
 "t": "paper",
 "n": "Genetics of circulating inflammatory proteins identifies drivers of immune-mediated diseas",
-"sub": "Nature Immunology 2023 · cited 849",
+"sub": "Nature Immunology 2023 · cited 867",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37563310",
 "c": ""
 },
@@ -4160,74 +4248,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-33721557",
-"t": "paper",
-"n": "Prevalence of symptoms of anxiety and depression in patients with inflammatory bowel disea",
-"sub": "The Lancet. Gastroenterology & hepatology 2021 · cited 829",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33721557",
-"c": ""
-},
-{
-"k": "person:brigida-barberio",
-"t": "person",
-"n": "Brigida Barberio",
-"sub": "University of Padua",
-"url": "https://orcid.org/0000-0002-3164-8243",
-"c": "IT"
-},
-{
-"k": "org:university-of-padua",
-"t": "academic",
-"n": "University of Padua",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "org:azienda-ospedale-universita-padova",
-"t": "hospital",
-"n": "Azienda Ospedale - Università Padova",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "paper:pmid-32005980",
-"t": "paper",
-"n": "Host–microbiota interactions in inflammatory bowel disease",
-"sub": "Nature reviews. Immunology 2020 · cited 827",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32005980",
-"c": ""
-},
-{
-"k": "person:roberta-caruso",
-"t": "person",
-"n": "Roberta Caruso",
-"sub": "University of Michigan",
-"url": "https://orcid.org/0000-0002-9891-0082",
-"c": "US"
-},
-{
-"k": "org:michigan-medicine",
-"t": "hospital",
-"n": "Michigan Medicine",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:gabriel-nunez",
-"t": "person",
-"n": "Gabriel Núñez",
-"sub": "University of Michigan",
-"url": "https://orcid.org/0000-0002-6529-2695",
-"c": "US"
-},
-{
 "k": "paper:pmid-33086688",
 "t": "paper",
 "n": "The Gut Microbiota and Inflammation: An Overview",
-"sub": "International Journal of Environmental Research and Public Health 2020 · cited 827",
+"sub": "International Journal of Environmental Research and Public Health 2020 · cited 866",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33086688",
 "c": ""
 },
@@ -4995,11 +5019,6 @@
 },
 {
 "a": "org:canadian-institutes-of-health-research",
-"b": "paper:pmid-32005980",
-"r": "funded"
-},
-{
-"a": "org:canadian-institutes-of-health-research",
 "b": "paper:pmid-33033392",
 "r": "funded"
 },
@@ -5197,11 +5216,6 @@
 "a": "org:cotton-o-neil-digestive-health-center",
 "b": "trial:nct07483099",
 "r": "site_of"
-},
-{
-"a": "org:crohn-s-and-colitis-foundation",
-"b": "paper:pmid-32005980",
-"r": "funded"
 },
 {
 "a": "org:crohn-s-and-colitis-foundation",
@@ -5829,6 +5843,16 @@
 "r": "funded"
 },
 {
+"a": "org:jilin-scientific-and-technological-development-program",
+"b": "paper:pmid-34988090",
+"r": "funded"
+},
+{
+"a": "org:jilin-university",
+"b": "paper:pmid-34988090",
+"r": "funded"
+},
+{
 "a": "org:johns-hopkins-university",
 "b": "drug:n-acetylglucosamine",
 "r": "develops"
@@ -6109,6 +6133,11 @@
 "r": "funded"
 },
 {
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-34988090",
+"r": "funded"
+},
+{
 "a": "org:national-science-foundation",
 "b": "paper:pmid-34784344",
 "r": "funded"
@@ -6317,6 +6346,11 @@
 "a": "org:peking-university-third-hospital",
 "b": "trial:nct05837897",
 "r": "site_of"
+},
+{
+"a": "org:people-s-government-of-jilin-province",
+"b": "paper:pmid-34988090",
+"r": "funded"
 },
 {
 "a": "org:pfizer",
@@ -7284,21 +7318,6 @@
 "r": "authored"
 },
 {
-"a": "person:gabriel-nunez",
-"b": "org:michigan-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:gabriel-nunez",
-"b": "org:university-of-michigan",
-"r": "affiliated"
-},
-{
-"a": "person:gabriel-nunez",
-"b": "paper:pmid-32005980",
-"r": "authored"
-},
-{
 "a": "person:gerhard-rogler",
 "b": "org:university-hospital-zurich",
 "r": "affiliated"
@@ -7446,6 +7465,21 @@
 {
 "a": "person:ji-youn-yoo",
 "b": "paper:pmid-33076307",
+"r": "authored"
+},
+{
+"a": "person:jiannan-li",
+"b": "org:jilin-university",
+"r": "affiliated"
+},
+{
+"a": "person:jiannan-li",
+"b": "org:second-affiliated-hospital-of-jilin-university",
+"r": "affiliated"
+},
+{
+"a": "person:jiannan-li",
+"b": "paper:pmid-34988090",
 "r": "authored"
 },
 {
@@ -7774,21 +7808,6 @@
 "r": "authored"
 },
 {
-"a": "person:roberta-caruso",
-"b": "org:michigan-medicine",
-"r": "affiliated"
-},
-{
-"a": "person:roberta-caruso",
-"b": "org:university-of-michigan",
-"r": "affiliated"
-},
-{
-"a": "person:roberta-caruso",
-"b": "paper:pmid-32005980",
-"r": "authored"
-},
-{
 "a": "person:rohit-seth-loomba",
 "b": "org:university-of-california-san-diego",
 "r": "affiliated"
@@ -8051,6 +8070,21 @@
 {
 "a": "person:zehua-yan",
 "b": "paper:pmid-34935363",
+"r": "authored"
+},
+{
+"a": "person:zhaobei-cai",
+"b": "org:jilin-university",
+"r": "affiliated"
+},
+{
+"a": "person:zhaobei-cai",
+"b": "org:second-affiliated-hospital-of-jilin-university",
+"r": "affiliated"
+},
+{
+"a": "person:zhaobei-cai",
+"b": "paper:pmid-34988090",
 "r": "authored"
 },
 {

@@ -1,10 +1,10 @@
 {
 "assetId": "abs101",
-"updated": "2026-11-16",
+"updated": "2026-11-17",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 40,
-"papers": 3
+"papers": 63
 },
 "nodes": [
 {
@@ -16,35 +16,11 @@
 "c": ""
 },
 {
-"k": "trial:nct07845487",
+"k": "trial:nct06430801",
 "t": "trial",
-"n": "A Trial to Investigate PALI-2108 Versus Placebo in Participants With Moderately to Severel",
-"sub": "P2 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07845487",
-"c": ""
-},
-{
-"k": "org:palisade-bio",
-"t": "company",
-"n": "Palisade Bio",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:pali-2108",
-"t": "drug",
-"n": "PALI-2108",
-"sub": "Palisade Bio",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07463183",
-"t": "trial",
-"n": "A Study to Evaluate Efficacy and Safety of MK-8690 in Participants With Moderately to Seve",
-"sub": "P2 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07463183",
+"n": "A Study to Evaluate the Efficacy and Safety of Tulisokibart (MK-7240) in Participants With",
+"sub": "P3 · recruiting · 2024-2029",
+"url": "https://clinicaltrials.gov/study/NCT06430801",
 "c": ""
 },
 {
@@ -56,10 +32,50 @@
 "c": ""
 },
 {
-"k": "drug:mk-8690",
+"k": "drug:iv-tulisokibart",
 "t": "drug",
-"n": "MK-8690",
+"n": "IV Tulisokibart",
 "sub": "Merck Sharp & Dohme LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:sc-tulisokibart",
+"t": "drug",
+"n": "SC Tulisokibart",
+"sub": "Merck Sharp & Dohme LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07753850",
+"t": "trial",
+"n": "A Study of SL-325 in Crohn's Disease Patients",
+"sub": "P2 · recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07753850",
+"c": ""
+},
+{
+"k": "org:shattuck-labs",
+"t": "company",
+"n": "Shattuck Labs, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:clinical-trial-site",
+"t": "hospital",
+"n": "Clinical Trial Site",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:sl-325",
+"t": "drug",
+"n": "SL-325",
+"sub": "Shattuck Labs, Inc.",
 "url": "",
 "c": ""
 },
@@ -176,34 +192,18 @@
 "c": ""
 },
 {
-"k": "trial:nct07753850",
+"k": "trial:nct07463183",
 "t": "trial",
-"n": "A Study of SL-325 in Crohn's Disease Patients",
-"sub": "P2 · recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07753850",
+"n": "A Study to Evaluate Efficacy and Safety of MK-8690 in Participants With Moderately to Seve",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07463183",
 "c": ""
 },
 {
-"k": "org:shattuck-labs",
-"t": "company",
-"n": "Shattuck Labs, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:clinical-trial-site",
-"t": "hospital",
-"n": "Clinical Trial Site",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:sl-325",
+"k": "drug:mk-8690",
 "t": "drug",
-"n": "SL-325",
-"sub": "Shattuck Labs, Inc.",
+"n": "MK-8690",
+"sub": "Merck Sharp & Dohme LLC",
 "url": "",
 "c": ""
 },
@@ -312,6 +312,30 @@
 "c": ""
 },
 {
+"k": "trial:nct07845487",
+"t": "trial",
+"n": "A Trial to Investigate PALI-2108 Versus Placebo in Participants With Moderately to Severel",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07845487",
+"c": ""
+},
+{
+"k": "org:palisade-bio",
+"t": "company",
+"n": "Palisade Bio",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:pali-2108",
+"t": "drug",
+"n": "PALI-2108",
+"sub": "Palisade Bio",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct06651281",
 "t": "trial",
 "n": "Extension Study of Long-term Safety and Efficacy of Tulisokibart in Participants With Croh",
@@ -324,30 +348,6 @@
 "t": "drug",
 "n": "Tulisokibart",
 "sub": "Merck Sharp & Dohme LLC",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07928700",
-"t": "trial",
-"n": "Phase 2 Study of pH Gastrilex™ (Enteric-Coated Amorphous Calcium Carbonate Capsules) in Mo",
-"sub": "P2 · completed · 2023-2026",
-"url": "https://clinicaltrials.gov/study/NCT07928700",
-"c": ""
-},
-{
-"k": "org:soroka-university-medical-center",
-"t": "hospital",
-"n": "Soroka University Medical Center",
-"sub": "",
-"url": "",
-"c": "Israel"
-},
-{
-"k": "drug:ph-gastrilex",
-"t": "drug",
-"n": "PH Gastrilex",
-"sub": "Soroka University Medical Center",
 "url": "",
 "c": ""
 },
@@ -376,26 +376,58 @@
 "c": ""
 },
 {
-"k": "trial:nct06430801",
+"k": "trial:nct07928700",
 "t": "trial",
-"n": "A Study to Evaluate the Efficacy and Safety of Tulisokibart (MK-7240) in Participants With",
-"sub": "P3 · recruiting · 2024-2029",
-"url": "https://clinicaltrials.gov/study/NCT06430801",
+"n": "Phase 2 Study of pH Gastrilex™ (Enteric-Coated Amorphous Calcium Carbonate Capsules) in Mo",
+"sub": "P2 · completed · 2023-2026",
+"url": "https://clinicaltrials.gov/study/NCT07928700",
 "c": ""
 },
 {
-"k": "drug:iv-tulisokibart",
+"k": "org:soroka-university-medical-center",
+"t": "hospital",
+"n": "Soroka University Medical Center",
+"sub": "",
+"url": "",
+"c": "Israel"
+},
+{
+"k": "drug:ph-gastrilex",
 "t": "drug",
-"n": "IV Tulisokibart",
-"sub": "Merck Sharp & Dohme LLC",
+"n": "PH Gastrilex",
+"sub": "Soroka University Medical Center",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:sc-tulisokibart",
+"k": "trial:nct07820046",
+"t": "trial",
+"n": "Nitazoxanide as Adjunct Therapy in Mild-to-Moderate Ulcerative Colitis",
+"sub": "P2/P3 · recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07820046",
+"c": ""
+},
+{
+"k": "org:tanta-university",
+"t": "academic",
+"n": "Tanta University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:tanta-university-hospital",
+"t": "hospital",
+"n": "Tanta university hospital",
+"sub": "",
+"url": "",
+"c": "Egypt"
+},
+{
+"k": "drug:nitazoxanide",
 "t": "drug",
-"n": "SC Tulisokibart",
-"sub": "Merck Sharp & Dohme LLC",
+"n": "Nitazoxanide",
+"sub": "Tanta University",
 "url": "",
 "c": ""
 },
@@ -436,38 +468,6 @@
 "t": "drug",
 "n": "SPY003",
 "sub": "Spyre Therapeutics, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07820046",
-"t": "trial",
-"n": "Nitazoxanide as Adjunct Therapy in Mild-to-Moderate Ulcerative Colitis",
-"sub": "P2/P3 · recruiting · 2026-2027",
-"url": "https://clinicaltrials.gov/study/NCT07820046",
-"c": ""
-},
-{
-"k": "org:tanta-university",
-"t": "academic",
-"n": "Tanta University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:tanta-university-hospital",
-"t": "hospital",
-"n": "Tanta university hospital",
-"sub": "",
-"url": "",
-"c": "Egypt"
-},
-{
-"k": "drug:nitazoxanide",
-"t": "drug",
-"n": "Nitazoxanide",
-"sub": "Tanta University",
 "url": "",
 "c": ""
 },
@@ -640,102 +640,6 @@
 "c": ""
 },
 {
-"k": "trial:nct04033445",
-"t": "trial",
-"n": "A Study of Guselkumab in Participants With Moderately to Severely Active Ulcerative Coliti",
-"sub": "P2/P3 · active_not_recruiting · 2019-2027",
-"url": "https://clinicaltrials.gov/study/NCT04033445",
-"c": ""
-},
-{
-"k": "org:janssen-research-development",
-"t": "company",
-"n": "Janssen Research & Development, LLC",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:om-research",
-"t": "company",
-"n": "Om Research LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:ucla",
-"t": "company",
-"n": "UCLA",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:peak-gastroenterology-associates-1",
-"t": "company",
-"n": "Peak Gastroenterology Associates 1",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:florida-research-network",
-"t": "company",
-"n": "Florida Research Network, LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-florida-health-jacksonville",
-"t": "hospital",
-"n": "University of Florida Health Jacksonville",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:harmony-medical-research-institute",
-"t": "academic",
-"n": "Harmony Medical Research Institute, Inc.",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:uf-health-jacksonville-gastroenterology-emerson",
-"t": "hospital",
-"n": "UF Health Jacksonville Gastroenterology Emerson",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:columbus-clinical-services",
-"t": "hospital",
-"n": "Columbus Clinical Services LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:vista-health-research",
-"t": "hospital",
-"n": "Vista Health Research, LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:guselkumab",
-"t": "drug",
-"n": "Guselkumab",
-"sub": "Janssen Research & Development, LLC",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07415044",
 "t": "trial",
 "n": "LY4268989 in Adults With Moderately to Severely Active Ulcerative Colitis",
@@ -776,6 +680,14 @@
 "c": "United States"
 },
 {
+"k": "org:om-research",
+"t": "company",
+"n": "Om Research LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "org:advanced-research-institute-denver",
 "t": "academic",
 "n": "Advanced Research Institute - Denver",
@@ -804,6 +716,118 @@
 "t": "drug",
 "n": "LY4268989",
 "sub": "Eli Lilly and Company",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05242471",
+"t": "trial",
+"n": "A Study of Combination Therapy With Guselkumab and Golimumab in Participants With Moderate",
+"sub": "P2 · active_not_recruiting · 2022-2029",
+"url": "https://clinicaltrials.gov/study/NCT05242471",
+"c": ""
+},
+{
+"k": "org:janssen-research-development",
+"t": "company",
+"n": "Janssen Research & Development, LLC",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-alabama-liver-center",
+"t": "academic",
+"n": "University of Alabama Liver Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:del-sol-research-management",
+"t": "company",
+"n": "Del Sol Research Management, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:moore-clinical-trials",
+"t": "hospital",
+"n": "Moore Clinical Trials, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:valley-gastroenterology-medical-group",
+"t": "company",
+"n": "Valley Gastroenterology Medical Group",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:southern-california-research-center",
+"t": "company",
+"n": "Southern California Research Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:desert-gastroenterology-associates",
+"t": "company",
+"n": "Desert Gastroenterology Associates",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cedars-sinai-medical-center",
+"t": "hospital",
+"n": "Cedars Sinai Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:ucla",
+"t": "company",
+"n": "UCLA",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:hoag-memorial-hospital",
+"t": "hospital",
+"n": "Hoag Memorial Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:guselkumab",
+"t": "drug",
+"n": "Guselkumab",
+"sub": "Janssen Research & Development, LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:golimumab",
+"t": "drug",
+"n": "Golimumab",
+"sub": "Janssen Research & Development, LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:jnj-78934804",
+"t": "drug",
+"n": "JNJ-78934804",
+"sub": "Janssen Research & Development, LLC",
 "url": "",
 "c": ""
 },
@@ -912,11 +936,75 @@
 "c": ""
 },
 {
-"k": "trial:nct06937099",
+"k": "trial:nct04033445",
 "t": "trial",
-"n": "Mirikizumab and Tirzepatide Administered in Adult Participants With Moderately to Severely",
+"n": "A Study of Guselkumab in Participants With Moderately to Severely Active Ulcerative Coliti",
+"sub": "P2/P3 · active_not_recruiting · 2019-2027",
+"url": "https://clinicaltrials.gov/study/NCT04033445",
+"c": ""
+},
+{
+"k": "org:peak-gastroenterology-associates-1",
+"t": "company",
+"n": "Peak Gastroenterology Associates 1",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:florida-research-network",
+"t": "company",
+"n": "Florida Research Network, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-florida-health-jacksonville",
+"t": "hospital",
+"n": "University of Florida Health Jacksonville",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:harmony-medical-research-institute",
+"t": "academic",
+"n": "Harmony Medical Research Institute, Inc.",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:uf-health-jacksonville-gastroenterology-emerson",
+"t": "hospital",
+"n": "UF Health Jacksonville Gastroenterology Emerson",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:columbus-clinical-services",
+"t": "hospital",
+"n": "Columbus Clinical Services LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:vista-health-research",
+"t": "hospital",
+"n": "Vista Health Research, LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct06937086",
+"t": "trial",
+"n": "Mirikizumab Administered at the Same Time as Tirzepatide in Adult Participants With Modera",
 "sub": "P3 · recruiting · 2025-2028",
-"url": "https://clinicaltrials.gov/study/NCT06937099",
+"url": "https://clinicaltrials.gov/study/NCT06937086",
 "c": ""
 },
 {
@@ -931,14 +1019,6 @@
 "k": "org:smart-cures-clinical-research",
 "t": "hospital",
 "n": "Smart Cures Clinical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:cedars-sinai-medical-center",
-"t": "hospital",
-"n": "Cedars-Sinai Medical Center",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -1008,6 +1088,102 @@
 "c": ""
 },
 {
+"k": "trial:nct07186101",
+"t": "trial",
+"n": "LY4268989 (MORF-057) Co-Administered With Mirikizumab in Adults With Moderately to Severel",
+"sub": "P2 · recruiting · 2025-2029",
+"url": "https://clinicaltrials.gov/study/NCT07186101",
+"c": ""
+},
+{
+"k": "org:clinnova-research-anaheim",
+"t": "company",
+"n": "Clinnova Research - Anaheim",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:neoclinical-research",
+"t": "hospital",
+"n": "NeoClinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:encore-borland-groover-clinical-research",
+"t": "hospital",
+"n": "Encore Borland-Groover Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:clinical-research-of-osceola",
+"t": "hospital",
+"n": "Clinical Research of Osceola",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:alliance-medical-research",
+"t": "foundation",
+"n": "Alliance Medical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct05242484",
+"t": "trial",
+"n": "A Study of Combination Therapy With Guselkumab and Golimumab in Participants With Moderate",
+"sub": "P2 · active_not_recruiting · 2022-2029",
+"url": "https://clinicaltrials.gov/study/NCT05242484",
+"c": ""
+},
+{
+"k": "org:university-of-california-san-francisco",
+"t": "academic",
+"n": "University of California San Francisco",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-colorado",
+"t": "academic",
+"n": "University of Colorado",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:yale-university",
+"t": "academic",
+"n": "Yale University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:medstar-georgetown-university-hospital",
+"t": "hospital",
+"n": "MedStar Georgetown University Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct06937099",
+"t": "trial",
+"n": "Mirikizumab and Tirzepatide Administered in Adult Participants With Moderately to Severely",
+"sub": "P3 · recruiting · 2025-2028",
+"url": "https://clinicaltrials.gov/study/NCT06937099",
+"c": ""
+},
+{
 "k": "trial:nct06226883",
 "t": "trial",
 "n": "A Phase 2 Study to Evaluate MORF-057 in Adults With Moderately to Severely Active Crohn's ",
@@ -1043,14 +1219,6 @@
 "k": "org:peak-gastroenterology-associates-colorado-springs",
 "t": "company",
 "n": "Peak Gastroenterology Associates - Colorado Springs",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:clinical-research-of-osceola",
-"t": "hospital",
-"n": "Clinical Research of Osceola",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -1112,174 +1280,6 @@
 "c": ""
 },
 {
-"k": "trial:nct05242484",
-"t": "trial",
-"n": "A Study of Combination Therapy With Guselkumab and Golimumab in Participants With Moderate",
-"sub": "P2 · active_not_recruiting · 2022-2029",
-"url": "https://clinicaltrials.gov/study/NCT05242484",
-"c": ""
-},
-{
-"k": "org:valley-gastroenterology-medical-group",
-"t": "company",
-"n": "Valley Gastroenterology Medical Group",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:southern-california-research-center",
-"t": "company",
-"n": "Southern California Research Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-california-san-francisco",
-"t": "academic",
-"n": "University of California San Francisco",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-colorado",
-"t": "academic",
-"n": "University of Colorado",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:yale-university",
-"t": "academic",
-"n": "Yale University",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:medstar-georgetown-university-hospital",
-"t": "hospital",
-"n": "MedStar Georgetown University Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:golimumab",
-"t": "drug",
-"n": "Golimumab",
-"sub": "Janssen Research & Development, LLC",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:jnj-78934804",
-"t": "drug",
-"n": "JNJ-78934804",
-"sub": "Janssen Research & Development, LLC",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06937086",
-"t": "trial",
-"n": "Mirikizumab Administered at the Same Time as Tirzepatide in Adult Participants With Modera",
-"sub": "P3 · recruiting · 2025-2028",
-"url": "https://clinicaltrials.gov/study/NCT06937086",
-"c": ""
-},
-{
-"k": "trial:nct05242471",
-"t": "trial",
-"n": "A Study of Combination Therapy With Guselkumab and Golimumab in Participants With Moderate",
-"sub": "P2 · active_not_recruiting · 2022-2029",
-"url": "https://clinicaltrials.gov/study/NCT05242471",
-"c": ""
-},
-{
-"k": "org:university-of-alabama-liver-center",
-"t": "academic",
-"n": "University of Alabama Liver Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:del-sol-research-management",
-"t": "company",
-"n": "Del Sol Research Management, LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:moore-clinical-trials",
-"t": "hospital",
-"n": "Moore Clinical Trials, LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:desert-gastroenterology-associates",
-"t": "company",
-"n": "Desert Gastroenterology Associates",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:hoag-memorial-hospital",
-"t": "hospital",
-"n": "Hoag Memorial Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "trial:nct07186101",
-"t": "trial",
-"n": "LY4268989 (MORF-057) Co-Administered With Mirikizumab in Adults With Moderately to Severel",
-"sub": "P2 · recruiting · 2025-2029",
-"url": "https://clinicaltrials.gov/study/NCT07186101",
-"c": ""
-},
-{
-"k": "org:clinnova-research-anaheim",
-"t": "company",
-"n": "Clinnova Research - Anaheim",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:neoclinical-research",
-"t": "hospital",
-"n": "NeoClinical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:encore-borland-groover-clinical-research",
-"t": "hospital",
-"n": "Encore Borland-Groover Clinical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:alliance-medical-research",
-"t": "foundation",
-"n": "Alliance Medical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "trial:nct05528510",
 "t": "trial",
 "n": "A Study of Guselkumab Therapy in Participants With Moderately to Severely Active Ulcerativ",
@@ -1312,6 +1312,294 @@
 "c": "United States"
 },
 {
+"k": "trial:nct06663332",
+"t": "trial",
+"n": "A Long-term Extension (LTE) Study of Guselkumab in Pediatric Participants",
+"sub": "P3 · recruiting · 2024-2032",
+"url": "https://clinicaltrials.gov/study/NCT06663332",
+"c": ""
+},
+{
+"k": "org:emory-university",
+"t": "academic",
+"n": "Emory University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:children-s-center-for-digestive-healthcare",
+"t": "hospital",
+"n": "Children's Center for Digestive Healthcare",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:riley-hospital-for-children",
+"t": "hospital",
+"n": "Riley Hospital for Children",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cincinnati-children-s-hospital-medical-center",
+"t": "hospital",
+"n": "Cincinnati Children's Hospital Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:cook-childrens-medical-center",
+"t": "hospital",
+"n": "Cook Childrens Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-utah",
+"t": "academic",
+"n": "University of Utah",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:instituto-caici",
+"t": "academic",
+"n": "Instituto Caici",
+"sub": "",
+"url": "",
+"c": "Argentina"
+},
+{
+"k": "org:the-kids-research-institute-australia-on-behalf-of-the-centr",
+"t": "hospital",
+"n": "The Kids Research Institute Australia on behalf of the Centre for Child Health Research",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "org:mater-hospital-brisbane-inflammatory-bowel-diseases",
+"t": "hospital",
+"n": "Mater Hospital Brisbane Inflammatory Bowel Diseases",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "org:the-children-s-hospital-at-westmead",
+"t": "hospital",
+"n": "The Children's Hospital at Westmead",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "trial:nct05092269",
+"t": "trial",
+"n": "A Long-term Extension Study of Ustekinumab in Pediatric Participants",
+"sub": "P3 · active_not_recruiting · 2021-2028",
+"url": "https://clinicaltrials.gov/study/NCT05092269",
+"c": ""
+},
+{
+"k": "org:mount-sinai",
+"t": "company",
+"n": "Mount Sinai",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:levine-childrens-at-atrium-health",
+"t": "hospital",
+"n": "Levine Childrens at Atrium Health",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:pediatric-specialists-of-virginia",
+"t": "company",
+"n": "Pediatric Specialists Of Virginia",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:stat-research-s-a",
+"t": "company",
+"n": "STAT Research S A",
+"sub": "",
+"url": "",
+"c": "Argentina"
+},
+{
+"k": "org:hospital-de-ninos-de-cordoba",
+"t": "hospital",
+"n": "Hospital de Ninos de Cordoba",
+"sub": "",
+"url": "",
+"c": "Argentina"
+},
+{
+"k": "org:centro-de-investigaciones-medicas-tucuman",
+"t": "company",
+"n": "Centro de Investigaciones Medicas Tucuman",
+"sub": "",
+"url": "",
+"c": "Argentina"
+},
+{
+"k": "org:huderf",
+"t": "company",
+"n": "Huderf",
+"sub": "",
+"url": "",
+"c": "Belgium"
+},
+{
+"k": "org:cliniques-universitaires-saint-luc",
+"t": "hospital",
+"n": "Cliniques Universitaires Saint Luc",
+"sub": "",
+"url": "",
+"c": "Belgium"
+},
+{
+"k": "org:uz-gent",
+"t": "hospital",
+"n": "UZ Gent",
+"sub": "",
+"url": "",
+"c": "Belgium"
+},
+{
+"k": "drug:ustekinumab",
+"t": "drug",
+"n": "Ustekinumab",
+"sub": "Janssen Research & Development, LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct05923073",
+"t": "trial",
+"n": "A Study of Guselkumab in Pediatric Participants With Moderately to Severely Active Crohn's",
+"sub": "P3 · recruiting · 2024-2028",
+"url": "https://clinicaltrials.gov/study/NCT05923073",
+"c": ""
+},
+{
+"k": "org:connecticut-children-s-medical-center",
+"t": "hospital",
+"n": "Connecticut Children's Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:children-s-center-for-digestive-health-care",
+"t": "hospital",
+"n": "Children's Center for Digestive Health Care",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:boston-childrens-hospital",
+"t": "hospital",
+"n": "Boston Childrens Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:goryeb-children-s-hospital",
+"t": "hospital",
+"n": "Goryeb Children's Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:weill-cornell-medical-college-judith-jaffe-multiple-sclerosi",
+"t": "academic",
+"n": "Weill Cornell Medical College - Judith Jaffe Multiple Sclerosis Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:icahn-school-of-medicine-at-mount-sinai",
+"t": "academic",
+"n": "Icahn School of Medicine at Mount Sinai",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "trial:nct07499232",
+"t": "trial",
+"n": "A Study of Guselkumab Versus Risankizumab in Participants With Moderately to Severely Acti",
+"sub": "P3 · recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07499232",
+"c": ""
+},
+{
+"k": "org:digestive-health-specialists-of-the-southeast",
+"t": "hospital",
+"n": "Digestive Health Specialists of the Southeast",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:east-view-medical-research",
+"t": "company",
+"n": "East View Medical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:united-gastroenterologists",
+"t": "company",
+"n": "United Gastroenterologists",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:tlc-clinical-research",
+"t": "hospital",
+"n": "TLC Clinical Research Inc",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:gastrointestinal-bioscience",
+"t": "company",
+"n": "GastroIntestinal Bioscience",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:risankizumab",
+"t": "drug",
+"n": "Risankizumab",
+"sub": "Janssen Research & Development, LLC",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct07196748",
 "t": "trial",
 "n": "A Protocol of Icotrokinra Therapy in Adult and Adolescent Participants With Moderately to ",
@@ -1336,22 +1624,6 @@
 "c": "United States"
 },
 {
-"k": "org:tlc-clinical-research",
-"t": "hospital",
-"n": "TLC Clinical Research Inc",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:gastrointestinal-bioscience",
-"t": "company",
-"n": "GastroIntestinal Bioscience",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:om-research-2",
 "t": "company",
 "n": "Om Research LLC 2",
@@ -1368,27 +1640,11 @@
 "c": ""
 },
 {
-"k": "trial:nct07196722",
+"k": "trial:nct07577856",
 "t": "trial",
-"n": "A Study of Icotrokinra in Participants With Moderately to Severely Active Crohn's Disease",
-"sub": "P2/P3 · recruiting · 2025-2032",
-"url": "https://clinicaltrials.gov/study/NCT07196722",
-"c": ""
-},
-{
-"k": "org:alliance-research-institute-canoga-park",
-"t": "foundation",
-"n": "Alliance Research Institute, LLC - Canoga Park",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "trial:nct07577843",
-"t": "trial",
-"n": "A Study of JNJ-78934804 in Participants With Moderately to Severely Active Crohn's Disease",
+"n": "A Study of JNJ-78934804 in Participants With Moderately to Severely Active Ulcerative Coli",
 "sub": "P3 · recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07577843",
+"url": "https://clinicaltrials.gov/study/NCT07577856",
 "c": ""
 },
 {
@@ -1430,110 +1686,6 @@
 "sub": "",
 "url": "",
 "c": "United States"
-},
-{
-"k": "trial:nct06260163",
-"t": "trial",
-"n": "A Study of Guselkumab in Pediatric Participants With Moderately to Severely Active Ulcerat",
-"sub": "P3 · active_not_recruiting · 2024-2027",
-"url": "https://clinicaltrials.gov/study/NCT06260163",
-"c": ""
-},
-{
-"k": "org:children-s-hospital-oakland",
-"t": "hospital",
-"n": "Children's Hospital Oakland",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:riley-hospital-for-children",
-"t": "hospital",
-"n": "Riley Hospital for Children",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:nyu-langone-health",
-"t": "hospital",
-"n": "NYU Langone Health",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:the-kids-research-institute-australia-on-behalf-of-the-centr",
-"t": "hospital",
-"n": "The Kids Research Institute Australia on behalf of the Centre for Child Health Research",
-"sub": "",
-"url": "",
-"c": "Australia"
-},
-{
-"k": "org:mater-hospital-brisbane-inflammatory-bowel-diseases",
-"t": "hospital",
-"n": "Mater Hospital Brisbane Inflammatory Bowel Diseases",
-"sub": "",
-"url": "",
-"c": "Australia"
-},
-{
-"k": "org:the-children-s-hospital-at-westmead",
-"t": "hospital",
-"n": "The Children's Hospital at Westmead",
-"sub": "",
-"url": "",
-"c": "Australia"
-},
-{
-"k": "org:chu-charleroi-chimay",
-"t": "hospital",
-"n": "CHU Charleroi Chimay",
-"sub": "",
-"url": "",
-"c": "Belgium"
-},
-{
-"k": "org:uz-gent",
-"t": "hospital",
-"n": "UZ Gent",
-"sub": "",
-"url": "",
-"c": "Belgium"
-},
-{
-"k": "org:uz-brussel",
-"t": "hospital",
-"n": "UZ Brussel",
-"sub": "",
-"url": "",
-"c": "Belgium"
-},
-{
-"k": "org:uz-leuven",
-"t": "hospital",
-"n": "UZ Leuven",
-"sub": "",
-"url": "",
-"c": "Belgium"
-},
-{
-"k": "drug:guselkumab-subcutaneous",
-"t": "drug",
-"n": "Guselkumab Subcutaneous",
-"sub": "Janssen Research & Development, LLC",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:guselkumab-intravenous",
-"t": "drug",
-"n": "Guselkumab Intravenous",
-"sub": "Janssen Research & Development, LLC",
-"url": "",
-"c": ""
 },
 {
 "k": "trial:nct06408935",
@@ -1624,91 +1776,11 @@
 "c": "Belgium"
 },
 {
-"k": "trial:nct05092269",
+"k": "trial:nct07577843",
 "t": "trial",
-"n": "A Long-term Extension Study of Ustekinumab in Pediatric Participants",
-"sub": "P3 · active_not_recruiting · 2021-2028",
-"url": "https://clinicaltrials.gov/study/NCT05092269",
-"c": ""
-},
-{
-"k": "org:children-s-center-for-digestive-healthcare",
-"t": "hospital",
-"n": "Children's Center For Digestive Healthcare, Llc",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:mount-sinai",
-"t": "company",
-"n": "Mount Sinai",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:levine-childrens-at-atrium-health",
-"t": "hospital",
-"n": "Levine Childrens at Atrium Health",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:pediatric-specialists-of-virginia",
-"t": "company",
-"n": "Pediatric Specialists Of Virginia",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:stat-research-s-a",
-"t": "company",
-"n": "STAT Research S A",
-"sub": "",
-"url": "",
-"c": "Argentina"
-},
-{
-"k": "org:hospital-de-ninos-de-cordoba",
-"t": "hospital",
-"n": "Hospital de Ninos de Cordoba",
-"sub": "",
-"url": "",
-"c": "Argentina"
-},
-{
-"k": "org:centro-de-investigaciones-medicas-tucuman",
-"t": "company",
-"n": "Centro de Investigaciones Medicas Tucuman",
-"sub": "",
-"url": "",
-"c": "Argentina"
-},
-{
-"k": "org:huderf",
-"t": "company",
-"n": "Huderf",
-"sub": "",
-"url": "",
-"c": "Belgium"
-},
-{
-"k": "org:cliniques-universitaires-saint-luc",
-"t": "hospital",
-"n": "Cliniques Universitaires Saint Luc",
-"sub": "",
-"url": "",
-"c": "Belgium"
-},
-{
-"k": "drug:ustekinumab",
-"t": "drug",
-"n": "Ustekinumab",
-"sub": "Janssen Research & Development, LLC",
-"url": "",
+"n": "A Study of JNJ-78934804 in Participants With Moderately to Severely Active Crohn's Disease",
+"sub": "P3 · recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07577843",
 "c": ""
 },
 {
@@ -1739,6 +1811,14 @@
 "k": "org:brigham-and-women-s-hospital",
 "t": "hospital",
 "n": "Brigham and Women's Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:nyu-langone-health",
+"t": "hospital",
+"n": "NYU Langone Health",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -1824,227 +1904,83 @@
 "c": ""
 },
 {
-"k": "trial:nct06663332",
+"k": "trial:nct06260163",
 "t": "trial",
-"n": "A Long-term Extension (LTE) Study of Guselkumab in Pediatric Participants",
-"sub": "P3 · recruiting · 2024-2032",
-"url": "https://clinicaltrials.gov/study/NCT06663332",
+"n": "A Study of Guselkumab in Pediatric Participants With Moderately to Severely Active Ulcerat",
+"sub": "P3 · active_not_recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06260163",
 "c": ""
 },
 {
-"k": "org:emory-university",
-"t": "academic",
-"n": "Emory University",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:cincinnati-children-s-hospital-medical-center",
+"k": "org:children-s-hospital-oakland",
 "t": "hospital",
-"n": "Cincinnati Children's Hospital Medical Center",
+"n": "Children's Hospital Oakland",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "org:cook-childrens-medical-center",
+"k": "org:chu-charleroi-chimay",
 "t": "hospital",
-"n": "Cook Childrens Medical Center",
+"n": "CHU Charleroi Chimay",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": "Belgium"
 },
 {
-"k": "org:university-of-utah",
-"t": "academic",
-"n": "University of Utah",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:instituto-caici",
-"t": "academic",
-"n": "Instituto Caici",
-"sub": "",
-"url": "",
-"c": "Argentina"
-},
-{
-"k": "trial:nct05923073",
-"t": "trial",
-"n": "A Study of Guselkumab in Pediatric Participants With Moderately to Severely Active Crohn's",
-"sub": "P3 · recruiting · 2024-2028",
-"url": "https://clinicaltrials.gov/study/NCT05923073",
-"c": ""
-},
-{
-"k": "org:connecticut-children-s-medical-center",
+"k": "org:uz-brussel",
 "t": "hospital",
-"n": "Connecticut Children's Medical Center",
+"n": "UZ Brussel",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": "Belgium"
 },
 {
-"k": "org:children-s-center-for-digestive-health-care",
+"k": "org:uz-leuven",
 "t": "hospital",
-"n": "Children's Center for Digestive Health Care",
+"n": "UZ Leuven",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": "Belgium"
 },
 {
-"k": "org:boston-childrens-hospital",
-"t": "hospital",
-"n": "Boston Childrens Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:goryeb-children-s-hospital",
-"t": "hospital",
-"n": "Goryeb Children's Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:weill-cornell-medical-college-judith-jaffe-multiple-sclerosi",
-"t": "academic",
-"n": "Weill Cornell Medical College - Judith Jaffe Multiple Sclerosis Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:icahn-school-of-medicine-at-mount-sinai",
-"t": "academic",
-"n": "Icahn School of Medicine at Mount Sinai",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "trial:nct07577856",
-"t": "trial",
-"n": "A Study of JNJ-78934804 in Participants With Moderately to Severely Active Ulcerative Coli",
-"sub": "P3 · recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07577856",
-"c": ""
-},
-{
-"k": "trial:nct07499232",
-"t": "trial",
-"n": "A Study of Guselkumab Versus Risankizumab in Participants With Moderately to Severely Acti",
-"sub": "P3 · recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07499232",
-"c": ""
-},
-{
-"k": "org:digestive-health-specialists-of-the-southeast",
-"t": "hospital",
-"n": "Digestive Health Specialists of the Southeast",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:east-view-medical-research",
-"t": "company",
-"n": "East View Medical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:united-gastroenterologists",
-"t": "company",
-"n": "United Gastroenterologists",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:risankizumab",
+"k": "drug:guselkumab-subcutaneous",
 "t": "drug",
-"n": "Risankizumab",
+"n": "Guselkumab Subcutaneous",
 "sub": "Janssen Research & Development, LLC",
 "url": "",
 "c": ""
 },
 {
-"k": "trial:nct07501078",
+"k": "drug:guselkumab-intravenous",
+"t": "drug",
+"n": "Guselkumab Intravenous",
+"sub": "Janssen Research & Development, LLC",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07196722",
 "t": "trial",
-"n": "Aquamin® for Prevention of Ulcerative Colitis J-Pouch-associate Intestinal Inflammation",
-"sub": "P2 · recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07501078",
+"n": "A Study of Icotrokinra in Participants With Moderately to Severely Active Crohn's Disease",
+"sub": "P2/P3 · recruiting · 2025-2032",
+"url": "https://clinicaltrials.gov/study/NCT07196722",
 "c": ""
 },
 {
-"k": "org:muhammad-n-aslam-md",
-"t": "academic",
-"n": "Muhammad N Aslam, MD",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:crohn-s-and-colitis-foundation",
+"k": "org:alliance-research-institute-canoga-park",
 "t": "foundation",
-"n": "Crohn's and Colitis Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:university-of-michigan",
-"t": "academic",
-"n": "University of Michigan",
+"n": "Alliance Research Institute, LLC - Canoga Park",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "person:muhammad-n-aslam",
-"t": "person",
-"n": "Muhammad N Aslam",
-"sub": "principal investigator · University of Michigan",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:aquamin",
-"t": "drug",
-"n": "Aquamin",
-"sub": "Muhammad N Aslam, MD",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06975722",
+"k": "trial:nct05837897",
 "t": "trial",
-"n": "A Study to Investigate the Efficacy and Safety of Brivekimig in Adult Participants With Ul",
-"sub": "P2 · active_not_recruiting · 2025-2029",
-"url": "https://clinicaltrials.gov/study/NCT06975722",
-"c": ""
-},
-{
-"k": "drug:sar442970",
-"t": "drug",
-"n": "SAR442970",
-"sub": "Sanofi",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct06233461",
-"t": "trial",
-"n": "A Study on the Safety of TAK-279 and Whether it Can Reduce Inflammation in the Bowel of Pa",
-"sub": "P2 · recruiting · 2024-2027",
-"url": "https://clinicaltrials.gov/study/NCT06233461",
+"n": "A Study of Vedolizumab in Adult Participants With Moderate to Severe Crohn's Disease",
+"sub": "P3 · recruiting · 2023-2031",
+"url": "https://clinicaltrials.gov/study/NCT05837897",
 "c": ""
 },
 {
@@ -2053,86 +1989,6 @@
 "n": "Takeda",
 "sub": "",
 "url": "",
-"c": ""
-},
-{
-"k": "org:uci-health",
-"t": "hospital",
-"n": "UCI Health",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:west-central-gastroenterology-llp-d-b-a-gastro-florida",
-"t": "company",
-"n": "West Central Gastroenterology, LLP, d/b/a/ Gastro Florida",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:auzmer-research",
-"t": "company",
-"n": "Auzmer Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:wellness-clinical-research",
-"t": "hospital",
-"n": "Wellness Clinical Research",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:adventhealth-florida-hospital-medical-group",
-"t": "hospital",
-"n": "AdventHealth (Florida Hospital) Medical Group",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:usf-health-morsani-center-for-advanced-healthcare",
-"t": "hospital",
-"n": "USF Health Morsani Center for Advanced Healthcare",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:emory-university-hospital-the-emory-clinic",
-"t": "hospital",
-"n": "Emory University Hospital, The Emory Clinic",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:atlanta-center-for-gastroenterology-p-c",
-"t": "company",
-"n": "Atlanta Center For Gastroenterology, P.C.",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:tak-279",
-"t": "drug",
-"n": "TAK-279",
-"sub": "Takeda",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct05837897",
-"t": "trial",
-"n": "A Study of Vedolizumab in Adult Participants With Moderate to Severe Crohn's Disease",
-"sub": "P3 · recruiting · 2023-2031",
-"url": "https://clinicaltrials.gov/study/NCT05837897",
 "c": ""
 },
 {
@@ -2219,6 +2075,150 @@
 "k": "drug:vedolizumab-iv",
 "t": "drug",
 "n": "Vedolizumab IV",
+"sub": "Takeda",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07501078",
+"t": "trial",
+"n": "Aquamin® for Prevention of Ulcerative Colitis J-Pouch-associate Intestinal Inflammation",
+"sub": "P2 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07501078",
+"c": ""
+},
+{
+"k": "org:muhammad-n-aslam-md",
+"t": "academic",
+"n": "Muhammad N Aslam, MD",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:crohn-s-and-colitis-foundation",
+"t": "foundation",
+"n": "Crohn's and Colitis Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-michigan",
+"t": "academic",
+"n": "University of Michigan",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "person:muhammad-n-aslam",
+"t": "person",
+"n": "Muhammad N Aslam",
+"sub": "principal investigator · University of Michigan",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:aquamin",
+"t": "drug",
+"n": "Aquamin",
+"sub": "Muhammad N Aslam, MD",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06975722",
+"t": "trial",
+"n": "A Study to Investigate the Efficacy and Safety of Brivekimig in Adult Participants With Ul",
+"sub": "P2 · active_not_recruiting · 2025-2029",
+"url": "https://clinicaltrials.gov/study/NCT06975722",
+"c": ""
+},
+{
+"k": "drug:sar442970",
+"t": "drug",
+"n": "SAR442970",
+"sub": "Sanofi",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06233461",
+"t": "trial",
+"n": "A Study on the Safety of TAK-279 and Whether it Can Reduce Inflammation in the Bowel of Pa",
+"sub": "P2 · recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06233461",
+"c": ""
+},
+{
+"k": "org:uci-health",
+"t": "hospital",
+"n": "UCI Health",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:west-central-gastroenterology-llp-d-b-a-gastro-florida",
+"t": "company",
+"n": "West Central Gastroenterology, LLP, d/b/a/ Gastro Florida",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:auzmer-research",
+"t": "company",
+"n": "Auzmer Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:wellness-clinical-research",
+"t": "hospital",
+"n": "Wellness Clinical Research",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:adventhealth-florida-hospital-medical-group",
+"t": "hospital",
+"n": "AdventHealth (Florida Hospital) Medical Group",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:usf-health-morsani-center-for-advanced-healthcare",
+"t": "hospital",
+"n": "USF Health Morsani Center for Advanced Healthcare",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:emory-university-hospital-the-emory-clinic",
+"t": "hospital",
+"n": "Emory University Hospital, The Emory Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:atlanta-center-for-gastroenterology-p-c",
+"t": "company",
+"n": "Atlanta Center For Gastroenterology, P.C.",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:tak-279",
+"t": "drug",
+"n": "TAK-279",
 "sub": "Takeda",
 "url": "",
 "c": ""
@@ -2350,6 +2350,2694 @@
 "sub": "Faculdade de Ciências Médicas da Santa Casa de São Paulo",
 "url": "",
 "c": "BR"
+},
+{
+"k": "paper:pmid-28768844",
+"t": "paper",
+"n": "Prognostic relevance of MOG antibodies in children with an acquired demyelinating syndrome",
+"sub": "Neurology 2017 · cited 361",
+"url": "https://pubmed.ncbi.nlm.nih.gov/28768844",
+"c": ""
+},
+{
+"k": "person:eva-maria-hennes",
+"t": "person",
+"n": "Eva-Maria Hennes",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:kevin-m-rostasy",
+"t": "person",
+"n": "Kevin M. Rostasy",
+"sub": "",
+"url": "https://orcid.org/0000-0002-2180-5321",
+"c": ""
+},
+{
+"k": "paper:doi-10-1016-j-seppur-2022-122450",
+"t": "paper",
+"n": "Improved degradation of tetracycline by Cu-doped MIL-101(Fe) in a coupled photocatalytic a",
+"sub": "Separation and Purification Technology 2022 · cited 109",
+"url": "https://doi.org/10.1016/j.seppur.2022.122450",
+"c": ""
+},
+{
+"k": "person:lili-ma",
+"t": "person",
+"n": "Lili Ma",
+"sub": "Southwest Petroleum University",
+"url": "https://orcid.org/0000-0003-4067-861X",
+"c": "CN"
+},
+{
+"k": "org:southwest-petroleum-university",
+"t": "academic",
+"n": "Southwest Petroleum University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:sichuan-university",
+"t": "academic",
+"n": "Sichuan University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:yucheng-liu",
+"t": "person",
+"n": "Yucheng Liu",
+"sub": "Southwest Petroleum University",
+"url": "https://orcid.org/0000-0003-3810-8730",
+"c": "CN"
+},
+{
+"k": "person:bo-lai",
+"t": "person",
+"n": "Bo Lai",
+"sub": "Sichuan University",
+"url": "https://orcid.org/0000-0002-7105-1345",
+"c": "CN"
+},
+{
+"k": "org:china-postdoctoral-science-foundation",
+"t": "funder",
+"n": "China Postdoctoral Science Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-key-research-and-development-program-of-china",
+"t": "funder",
+"n": "National Key Research and Development Program of China",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-1007-s00521-018-3358-8",
+"t": "paper",
+"n": "A hybrid deep learning neural approach for emotion recognition from facial expressions for",
+"sub": "Neural Computing and Applications 2018 · cited 94",
+"url": "https://doi.org/10.1007/s00521-018-3358-8",
+"c": ""
+},
+{
+"k": "person:ariel-ruiz-garcia",
+"t": "person",
+"n": "Ariel Ruiz-Garcia",
+"sub": "Coventry University",
+"url": "https://orcid.org/0000-0002-2066-9217",
+"c": "GB"
+},
+{
+"k": "org:coventry-university",
+"t": "academic",
+"n": "Coventry University",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:vasile-palade",
+"t": "person",
+"n": "Vasile Palade",
+"sub": "Coventry University",
+"url": "https://orcid.org/0000-0002-6768-8394",
+"c": "GB"
+},
+{
+"k": "paper:doi-10-31635-ccschem-020-202000509",
+"t": "paper",
+"n": "Adaptive Chirality of an Achiral Cage: Chirality Transfer, Induction, and Circularly Polar",
+"sub": "CCS Chemistry 2020 · cited 86",
+"url": "https://doi.org/10.31635/ccschem.020.202000509",
+"c": ""
+},
+{
+"k": "person:lin-cheng",
+"t": "person",
+"n": "Lin Cheng",
+"sub": "Northwest University",
+"url": "https://orcid.org/0000-0001-6186-357X",
+"c": "CN"
+},
+{
+"k": "org:northwest-university",
+"t": "academic",
+"n": "Northwest University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:liping-cao",
+"t": "person",
+"n": "Liping Cao",
+"sub": "Northwest University",
+"url": "https://orcid.org/0000-0002-1747-6107",
+"c": "CN"
+},
+{
+"k": "org:state-key-laboratory-of-luminescent-materials-and-devices",
+"t": "academic",
+"n": "State Key Laboratory of Luminescent Materials and Devices",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "paper:pmid-30567665",
+"t": "paper",
+"n": "Solid-phase microextraction of antibiotics from fish muscle by using MIL-101(Cr)NH2-polyac",
+"sub": "Analytica Chimica Acta 2018 · cited 85",
+"url": "https://pubmed.ncbi.nlm.nih.gov/30567665",
+"c": ""
+},
+{
+"k": "person:sandip-mondal",
+"t": "person",
+"n": "Sandip Mondal",
+"sub": "Sun Yat-sen University",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:sun-yat-sen-university",
+"t": "academic",
+"n": "Sun Yat-sen University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:jianqiao-xu",
+"t": "person",
+"n": "Jianqiao Xu",
+"sub": "Sun Yat-sen University",
+"url": "https://orcid.org/0000-0002-1003-2589",
+"c": "CN"
+},
+{
+"k": "person:gangfeng-ouyang",
+"t": "person",
+"n": "Gangfeng Ouyang",
+"sub": "Sun Yat-sen University",
+"url": "https://orcid.org/0000-0002-0797-6036",
+"c": "CN"
+},
+{
+"k": "org:national-natural-science-foundation-of-china",
+"t": "funder",
+"n": "National Natural Science Foundation of China",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:natural-science-foundation-of-guangdong-province",
+"t": "funder",
+"n": "Natural Science Foundation of Guangdong Province",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-1016-j-snb-2017-10-124",
+"t": "paper",
+"n": "A facile fluorescent probe with a large Stokes shift for sequentially detecting copper and",
+"sub": "Sensors and Actuators B Chemical 2017 · cited 80",
+"url": "https://doi.org/10.1016/j.snb.2017.10.124",
+"c": ""
+},
+{
+"k": "person:huan-wang",
+"t": "person",
+"n": "Huan Wang",
+"sub": "Northwest University",
+"url": "https://orcid.org/0000-0002-4100-5030",
+"c": "CN"
+},
+{
+"k": "org:key-laboratory-of-synthetic-and-natural-functional-molecular",
+"t": "academic",
+"n": "Key Laboratory of Synthetic and Natural Functional Molecular Chemistry, Ministry of Educat",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:yuan-guo",
+"t": "person",
+"n": "Yuan Guo",
+"sub": "Northwest University",
+"url": "https://orcid.org/0000-0003-2081-7264",
+"c": "CN"
+},
+{
+"k": "paper:pmid-33895641",
+"t": "paper",
+"n": "A method for the analysis of 121 multi-class environmental chemicals in urine by high-perf",
+"sub": "Journal of Chromatography A 2021 · cited 64",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33895641",
+"c": ""
+},
+{
+"k": "person:hongkai-zhu",
+"t": "person",
+"n": "Hongkai Zhu",
+"sub": "New York University",
+"url": "https://orcid.org/0000-0002-4411-7716",
+"c": "US"
+},
+{
+"k": "org:new-york-university",
+"t": "academic",
+"n": "New York University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:kurunthachalam-kannan",
+"t": "person",
+"n": "Kurunthachalam Kannan",
+"sub": "New York University",
+"url": "https://orcid.org/0000-0002-1926-7456",
+"c": "US"
+},
+{
+"k": "org:national-institute-of-environmental-health-sciences",
+"t": "funder",
+"n": "National Institute of Environmental Health Sciences",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-1016-j-molliq-2020-112955",
+"t": "paper",
+"n": "Liquid-liquid extraction of cobalt(II) and zinc(II) from aqueous solutions using novel ion",
+"sub": "Journal of Molecular Liquids 2020 · cited 62",
+"url": "https://doi.org/10.1016/j.molliq.2020.112955",
+"c": ""
+},
+{
+"k": "person:aneta-ukomska",
+"t": "person",
+"n": "Aneta Łukomska",
+"sub": "Łukasiewicz Research Network - Industrial Chemistry Institute",
+"url": "https://orcid.org/0000-0002-3923-765X",
+"c": "PL"
+},
+{
+"k": "org:ukasiewicz-research-network-industrial-chemistry-institute",
+"t": "academic",
+"n": "Łukasiewicz Research Network - Industrial Chemistry Institute",
+"sub": "",
+"url": "",
+"c": "PL"
+},
+{
+"k": "person:urszula-domanska",
+"t": "person",
+"n": "Urszula Domańska",
+"sub": "Łukasiewicz Research Network - Industrial Chemistry Institute",
+"url": "https://orcid.org/0000-0001-5034-5873",
+"c": "PL"
+},
+{
+"k": "org:university-of-kwazulu-natal",
+"t": "academic",
+"n": "University of KwaZulu-Natal",
+"sub": "",
+"url": "",
+"c": "ZA"
+},
+{
+"k": "org:siec-badawcza-ukasiewicz",
+"t": "funder",
+"n": "Sieć Badawczą Łukasiewicz",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-1016-j-molliq-2021-117694",
+"t": "paper",
+"n": "Separation of cobalt, lithium and nickel from the “black mass” of waste Li-ion batteries b",
+"sub": "Journal of Molecular Liquids 2021 · cited 59",
+"url": "https://doi.org/10.1016/j.molliq.2021.117694",
+"c": ""
+},
+{
+"k": "paper:pmid-29217423",
+"t": "paper",
+"n": "Pre-transplant AT 1 R antibodies correlate with early allograft rejection",
+"sub": "Transplant Immunology 2017 · cited 56",
+"url": "https://pubmed.ncbi.nlm.nih.gov/29217423",
+"c": ""
+},
+{
+"k": "person:alison-j-gareau",
+"t": "person",
+"n": "Alison J. Gareau",
+"sub": "Izaak Walton Killam Health Centre",
+"url": "https://orcid.org/0000-0001-6766-7166",
+"c": "CA"
+},
+{
+"k": "org:izaak-walton-killam-health-centre",
+"t": "hospital",
+"n": "Izaak Walton Killam Health Centre",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "person:peter-w-nickerson",
+"t": "person",
+"n": "Peter W. Nickerson",
+"sub": "Shared Health",
+"url": "https://orcid.org/0000-0002-7393-7799",
+"c": "CA"
+},
+{
+"k": "org:shared-health",
+"t": "hospital",
+"n": "Shared Health",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "org:university-of-manitoba",
+"t": "academic",
+"n": "University of Manitoba",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "org:canadian-institutes-of-health-research",
+"t": "funder",
+"n": "Canadian Institutes of Health Research",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-27321794",
+"t": "paper",
+"n": "Fundamentals of Anesthesiology for Spaceflight",
+"sub": "Journal of Cardiothoracic and Vascular Anesthesia 2016 · cited 55",
+"url": "https://pubmed.ncbi.nlm.nih.gov/27321794",
+"c": ""
+},
+{
+"k": "person:matthieu-komorowski",
+"t": "person",
+"n": "Matthieu Komorowski",
+"sub": "Imperial College Healthcare NHS Trust",
+"url": "https://orcid.org/0000-0003-0559-5747",
+"c": "GB"
+},
+{
+"k": "org:imperial-college-healthcare-nhs-trust",
+"t": "hospital",
+"n": "Imperial College Healthcare NHS Trust",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:charing-cross-hospital",
+"t": "hospital",
+"n": "Charing Cross Hospital",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:andrew-w-kirkpatrick",
+"t": "person",
+"n": "Andrew W. Kirkpatrick",
+"sub": "Alberta Health Services",
+"url": "https://orcid.org/0000-0002-1692-5919",
+"c": "CA"
+},
+{
+"k": "org:alberta-health-services",
+"t": "hospital",
+"n": "Alberta Health Services",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "org:university-of-calgary",
+"t": "academic",
+"n": "University of Calgary",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "org:engineering-and-physical-sciences-research-council",
+"t": "funder",
+"n": "Engineering and Physical Sciences Research Council",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-3390-w14091436",
+"t": "paper",
+"n": "Flow Cytometry as a Rapid Alternative to Quantify Small Microplastics in Environmental Wat",
+"sub": "Water 2022 · cited 52",
+"url": "https://doi.org/10.3390/w14091436",
+"c": ""
+},
+{
+"k": "person:yuet-tung-tse",
+"t": "person",
+"n": "Yuet-Tung Tse",
+"sub": "Hong Kong Metropolitan University",
+"url": "https://orcid.org/0000-0003-3245-3963",
+"c": "HK"
+},
+{
+"k": "org:hong-kong-metropolitan-university",
+"t": "academic",
+"n": "Hong Kong Metropolitan University",
+"sub": "",
+"url": "",
+"c": "HK"
+},
+{
+"k": "person:hoishing-lo",
+"t": "person",
+"n": "Hoi‐Shing Lo",
+"sub": "Stockholm University",
+"url": "https://orcid.org/0000-0002-9613-0218",
+"c": "SE"
+},
+{
+"k": "org:stockholm-university",
+"t": "academic",
+"n": "Stockholm University",
+"sub": "",
+"url": "",
+"c": "SE"
+},
+{
+"k": "person:sidney-man-ngai-chan",
+"t": "person",
+"n": "Sidney Man-Ngai Chan",
+"sub": "Hong Kong Metropolitan University",
+"url": "",
+"c": "HK"
+},
+{
+"k": "person:eric-tung-po-sze",
+"t": "person",
+"n": "Eric Tung-Po Sze",
+"sub": "Hong Kong Metropolitan University",
+"url": "https://orcid.org/0000-0001-6197-0893",
+"c": "HK"
+},
+{
+"k": "org:university-grants-committee",
+"t": "funder",
+"n": "University Grants Committee",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32313928",
+"t": "paper",
+"n": "A Randomized Dose-Escalating Phase I Trial of a Replication-Deficient Lymphocytic Choriome",
+"sub": "The Journal of Infectious Diseases 2020 · cited 42",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32313928",
+"c": ""
+},
+{
+"k": "person:michael-g-schwendinger",
+"t": "person",
+"n": "Michael G. Schwendinger",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:anders-e-lilja",
+"t": "person",
+"n": "Anders E Lilja",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:osterreichische-forschungsforderungsgesellschaft",
+"t": "funder",
+"n": "Österreichische Forschungsförderungsgesellschaft",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:universita-di-bologna",
+"t": "funder",
+"n": "Università di Bologna",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-1016-j-matchemphys-2018-11-020",
+"t": "paper",
+"n": "Electronic properties of Poly(1,6-heptadiynes) electrospun fibrous non-woven mat",
+"sub": "Materials Chemistry and Physics 2018 · cited 40",
+"url": "https://doi.org/10.1016/j.matchemphys.2018.11.020",
+"c": ""
+},
+{
+"k": "person:raviprakash-magisetty",
+"t": "person",
+"n": "RaviPrakash Magisetty",
+"sub": "Defence Institute of Advanced Technology",
+"url": "https://orcid.org/0000-0001-7194-6205",
+"c": "IN"
+},
+{
+"k": "org:defence-institute-of-advanced-technology",
+"t": "academic",
+"n": "Defence Institute of Advanced Technology",
+"sub": "",
+"url": "",
+"c": "IN"
+},
+{
+"k": "org:ministry-of-defence",
+"t": "funder",
+"n": "Ministry of Defence",
+"sub": "",
+"url": "",
+"c": "IN"
+},
+{
+"k": "person:balasubramanian-kandasubramanian",
+"t": "person",
+"n": "Balasubramanian Kandasubramanian",
+"sub": "Defence Institute of Advanced Technology",
+"url": "https://orcid.org/0000-0003-4257-8807",
+"c": "IN"
+},
+{
+"k": "person:raja-shunmugam",
+"t": "person",
+"n": "Raja Shunmugam",
+"sub": "Indian Institute of Science Education and Research Kolkata",
+"url": "https://orcid.org/0000-0002-0221-127X",
+"c": "IN"
+},
+{
+"k": "org:indian-institute-of-science-education-and-research-kolkata",
+"t": "academic",
+"n": "Indian Institute of Science Education and Research Kolkata",
+"sub": "",
+"url": "",
+"c": "IN"
+},
+{
+"k": "org:division-of-materials-research",
+"t": "funder",
+"n": "Division of Materials Research",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-27821812",
+"t": "paper",
+"n": "Karyotypic complexity rather than chromosome 8 abnormalities aggravates the outcome of chr",
+"sub": "Oncotarget 2016 · cited 36",
+"url": "https://pubmed.ncbi.nlm.nih.gov/27821812",
+"c": ""
+},
+{
+"k": "person:gonzalo-blanco",
+"t": "person",
+"n": "Gonzalo Blanco",
+"sub": "Universitat Pompeu Fabra",
+"url": "https://orcid.org/0000-0001-6557-3764",
+"c": "ES"
+},
+{
+"k": "org:universitat-pompeu-fabra",
+"t": "academic",
+"n": "Universitat Pompeu Fabra",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "org:hospital-del-mar",
+"t": "hospital",
+"n": "Hospital Del Mar",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "person:blanca-espinet",
+"t": "person",
+"n": "Blanca Espinet",
+"sub": "Hospital Del Mar",
+"url": "https://orcid.org/0000-0002-4294-8145",
+"c": "ES"
+},
+{
+"k": "org:municipal-institute-for-medical-research",
+"t": "hospital",
+"n": "Municipal Institute for Medical Research",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "org:cancerfonden",
+"t": "funder",
+"n": "Cancerfonden",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:generalitat-de-catalunya",
+"t": "funder",
+"n": "Generalitat de Catalunya",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:ministerio-de-economia-y-competitividad",
+"t": "funder",
+"n": "Ministerio de Economía y Competitividad",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:vetenskapsradet",
+"t": "funder",
+"n": "Vetenskapsrådet",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-29037679",
+"t": "paper",
+"n": "Development of spectrophotometric method for iron determination in fortified wheat and mai",
+"sub": "Food Chemistry 2017 · cited 36",
+"url": "https://pubmed.ncbi.nlm.nih.gov/29037679",
+"c": ""
+},
+{
+"k": "person:ana-flavia-de-oliveira-e-silva",
+"t": "person",
+"n": "Ana Flávia de Oliveira e Silva",
+"sub": "Federal University of São João del-Rei",
+"url": "",
+"c": "BR"
+},
+{
+"k": "org:federal-university-of-sao-joao-del-rei",
+"t": "academic",
+"n": "Federal University of São João del-Rei",
+"sub": "",
+"url": "",
+"c": "BR"
+},
+{
+"k": "person:frank-pereira-de-andrade",
+"t": "person",
+"n": "Frank Pereira de Andrade",
+"sub": "Federal University of São João del-Rei",
+"url": "https://orcid.org/0000-0002-1547-6592",
+"c": "BR"
+},
+{
+"k": "org:conselho-nacional-de-desenvolvimento-cientifico-e-tecnologic",
+"t": "funder",
+"n": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:fundacao-de-amparo-a-pesquisa-do-estado-de-minas-gerais",
+"t": "funder",
+"n": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:ministerio-da-ciencia-e-tecnologia",
+"t": "funder",
+"n": "Ministério da Ciência e Tecnologia",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:universidade-federal-de-sao-joao-del-rei",
+"t": "funder",
+"n": "Universidade Federal de São João del-Rei",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-1016-j-snb-2021-130399",
+"t": "paper",
+"n": "An immune-scaffold relying biosensor for simultaneous detection of nitrofurazone and furaz",
+"sub": "Sensors and Actuators B Chemical 2021 · cited 33",
+"url": "https://doi.org/10.1016/j.snb.2021.130399",
+"c": ""
+},
+{
+"k": "person:xuechi-yin",
+"t": "person",
+"n": "Xuechi Yin",
+"sub": "Northwest A&F University",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:northwest-a-f-university",
+"t": "academic",
+"n": "Northwest A&F University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:daohong-zhang",
+"t": "person",
+"n": "Daohong Zhang",
+"sub": "Northwest A&F University",
+"url": "https://orcid.org/0000-0003-2989-9761",
+"c": "CN"
+},
+{
+"k": "paper:doi-10-3390-agronomy10091368",
+"t": "paper",
+"n": "Disease Resistant Citrus Breeding Using Newly Developed High Resolution Melting and CAPS P",
+"sub": "Agronomy 2020 · cited 32",
+"url": "https://doi.org/10.3390/agronomy10091368",
+"c": ""
+},
+{
+"k": "person:carmen-arlotta",
+"t": "person",
+"n": "Carmen Arlotta",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:marco-caruso",
+"t": "person",
+"n": "Marco Caruso",
+"sub": "",
+"url": "https://orcid.org/0000-0001-9068-4490",
+"c": ""
+},
+{
+"k": "paper:doi-10-1016-j-est-2020-101561",
+"t": "paper",
+"n": "Failure mode analysis of lithium ion batteries operated for low Earth orbit CubeSat applic",
+"sub": "Journal of Energy Storage 2020 · cited 30",
+"url": "https://doi.org/10.1016/j.est.2020.101561",
+"c": ""
+},
+{
+"k": "person:riley-cook",
+"t": "person",
+"n": "Riley Cook",
+"sub": "Dalhousie University",
+"url": "https://orcid.org/0000-0003-0743-9406",
+"c": "CA"
+},
+{
+"k": "org:dalhousie-university",
+"t": "academic",
+"n": "Dalhousie University",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "person:kevin-paul-plucknett",
+"t": "person",
+"n": "Kevin Paul Plucknett",
+"sub": "Dalhousie University",
+"url": "https://orcid.org/0000-0003-0134-2267",
+"c": "CA"
+},
+{
+"k": "paper:doi-10-1137-21m1424408",
+"t": "paper",
+"n": "On the Condition Number of the Shifted Real Ginibre Ensemble",
+"sub": "SIAM Journal on Matrix Analysis and Applications 2022 · cited 29",
+"url": "https://doi.org/10.1137/21m1424408",
+"c": ""
+},
+{
+"k": "person:giorgio-cipolloni",
+"t": "person",
+"n": "Giorgio Cipolloni",
+"sub": "",
+"url": "https://orcid.org/0000-0002-4901-7992",
+"c": ""
+},
+{
+"k": "person:dominik-schroder",
+"t": "person",
+"n": "Dominik Schröder",
+"sub": "",
+"url": "https://orcid.org/0000-0002-2904-1856",
+"c": ""
+},
+{
+"k": "org:walter-haefner-stiftung",
+"t": "funder",
+"n": "Walter Haefner Stiftung",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:eth-zurich-foundation",
+"t": "funder",
+"n": "ETH Zürich Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-1007-s11664-018-6452-x",
+"t": "paper",
+"n": "Dielectric, Hydrophobic Investigation of ABS/NiFe2O4 Nanocomposites Fabricated by Atomized",
+"sub": "Journal of Electronic Materials 2018 · cited 26",
+"url": "https://doi.org/10.1007/s11664-018-6452-x",
+"c": ""
+},
+{
+"k": "paper:doi-10-1117-12-2269507",
+"t": "paper",
+"n": "Experimental comparison of photogrammetry for additive manufactured parts with and without",
+"sub": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
+"url": "https://doi.org/10.1117/12.2269507",
+"c": ""
+},
+{
+"k": "person:danny-sims-waterhouse",
+"t": "person",
+"n": "Danny Sims-Waterhouse",
+"sub": "University of Nottingham",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:university-of-nottingham",
+"t": "academic",
+"n": "University of Nottingham",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:richard-leach",
+"t": "person",
+"n": "Richard Leach",
+"sub": "University of Nottingham",
+"url": "https://orcid.org/0000-0001-5777-067X",
+"c": "GB"
+},
+{
+"k": "paper:doi-10-1016-j-dyepig-2023-111289",
+"t": "paper",
+"n": "Highly efficient sequential light-harvesting system constructed by macrocycle-based nanopa",
+"sub": "Dyes and Pigments 2023 · cited 23",
+"url": "https://doi.org/10.1016/j.dyepig.2023.111289",
+"c": ""
+},
+{
+"k": "person:tangxin-xiao",
+"t": "person",
+"n": "Tangxin Xiao",
+"sub": "Changzhou University",
+"url": "https://orcid.org/0000-0002-2864-9587",
+"c": "CN"
+},
+{
+"k": "org:changzhou-university",
+"t": "academic",
+"n": "Changzhou University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:xiaoqiang-sun",
+"t": "person",
+"n": "Xiaoqiang Sun",
+"sub": "Changzhou University",
+"url": "https://orcid.org/0000-0002-2769-2815",
+"c": "CN"
+},
+{
+"k": "paper:pmid-32692074",
+"t": "paper",
+"n": "The Artificial Bowel Sphincter in the Treatment of Fecal Incontinence, Long-term Complicat",
+"sub": "Diseases of the Colon & Rectum 2020 · cited 23",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32692074",
+"c": ""
+},
+{
+"k": "person:aart-a-van-der-wilt",
+"t": "person",
+"n": "Aart A. van der Wilt",
+"sub": "Maastricht University Medical Centre",
+"url": "https://orcid.org/0000-0002-9163-0803",
+"c": "NL"
+},
+{
+"k": "org:maastricht-university-medical-centre",
+"t": "hospital",
+"n": "Maastricht University Medical Centre",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "person:jarno-melenhorst",
+"t": "person",
+"n": "Jarno Melenhorst",
+"sub": "Maastricht University Medical Centre",
+"url": "https://orcid.org/0000-0002-1495-4003",
+"c": "NL"
+},
+{
+"k": "paper:pmid-33359090",
+"t": "paper",
+"n": "STRIDE-II: An Update on the Selecting Therapeutic Targets in Inflammatory Bowel Disease (S",
+"sub": "Gastroenterology 2021 · cited 3313",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33359090",
+"c": ""
+},
+{
+"k": "person:dan-turner",
+"t": "person",
+"n": "Dan Turner",
+"sub": "Hebrew University of Jerusalem",
+"url": "https://orcid.org/0000-0001-5160-868X",
+"c": "IL"
+},
+{
+"k": "org:hebrew-university-of-jerusalem",
+"t": "academic",
+"n": "Hebrew University of Jerusalem",
+"sub": "",
+"url": "",
+"c": "IL"
+},
+{
+"k": "org:shaare-zedek-medical-center",
+"t": "hospital",
+"n": "Shaare Zedek Medical Center",
+"sub": "",
+"url": "",
+"c": "IL"
+},
+{
+"k": "person:axel-u-dignass",
+"t": "person",
+"n": "Axel U Dignass",
+"sub": "Goethe University Frankfurt",
+"url": "https://orcid.org/0000-0002-9724-054X",
+"c": "DE"
+},
+{
+"k": "org:goethe-university-frankfurt",
+"t": "academic",
+"n": "Goethe University Frankfurt",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:agaplesion-markus-hospital",
+"t": "hospital",
+"n": "Agaplesion Markus Hospital",
+"sub": "",
+"url": "",
+"c": "DE"
+},
+{
+"k": "org:falk-foundation",
+"t": "funder",
+"n": "Falk Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:amgen",
+"t": "funder",
+"n": "Amgen",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:bristol-myers-squibb",
+"t": "funder",
+"n": "Bristol-Myers Squibb",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36727674",
+"t": "paper",
+"n": "AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty li",
+"sub": "Hepatology 2023 · cited 3213",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36727674",
+"c": ""
+},
+{
+"k": "person:mary-eugenia-rinella",
+"t": "person",
+"n": "Mary Eugenia Rinella",
+"sub": "University of Chicago",
+"url": "https://orcid.org/0000-0003-0620-9705",
+"c": "US"
+},
+{
+"k": "org:university-of-chicago",
+"t": "academic",
+"n": "University of Chicago",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:rohit-seth-loomba",
+"t": "person",
+"n": "Rohit Seth Loomba",
+"sub": "University of California San Diego",
+"url": "https://orcid.org/0000-0002-4845-9991",
+"c": "US"
+},
+{
+"k": "org:university-of-california-san-diego",
+"t": "academic",
+"n": "University of California San Diego",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:american-association-for-the-study-of-liver-diseases",
+"t": "funder",
+"n": "American Association for the Study of Liver Diseases",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:ngm-biopharmaceuticals",
+"t": "funder",
+"n": "NGM Biopharmaceuticals",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:novo-nordisk",
+"t": "funder",
+"n": "Novo Nordisk",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34784344",
+"t": "paper",
+"n": "Multivariable association discovery in population-scale meta-omics studies",
+"sub": "PLoS Computational Biology 2021 · cited 2938",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34784344",
+"c": ""
+},
+{
+"k": "person:himel-mallick",
+"t": "person",
+"n": "Himel Mallick",
+"sub": "Broad Institute",
+"url": "https://orcid.org/0000-0003-4956-2429",
+"c": "US"
+},
+{
+"k": "org:broad-institute",
+"t": "foundation",
+"n": "Broad Institute",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:harvard-university",
+"t": "academic",
+"n": "Harvard University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:curtis-huttenhower",
+"t": "person",
+"n": "Curtis Huttenhower",
+"sub": "Broad Institute",
+"url": "https://orcid.org/0000-0002-1110-0096",
+"c": "US"
+},
+{
+"k": "org:national-science-foundation",
+"t": "funder",
+"n": "National Science Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institutes-of-health",
+"t": "funder",
+"n": "National Institutes of Health",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:national-human-genome-research-institute",
+"t": "funder",
+"n": "National Human Genome Research Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-1001-jama-2021-6238",
+"t": "paper",
+"n": "Screening for Colorectal Cancer: US Preventive Services Task Force Recommendation Statemen",
+"sub": "JAMA 2021 · cited 2347",
+"url": "https://doi.org/10.1001/jama.2021.6238",
+"c": ""
+},
+{
+"k": "person:us-preventive-services-task-force",
+"t": "person",
+"n": "US Preventive Services Task Force",
+"sub": "Northwell Health",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:northwell-health",
+"t": "hospital",
+"n": "Northwell Health",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:feinstein-institute-for-medical-research",
+"t": "academic",
+"n": "Feinstein Institute for Medical Research",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:karina-w-davidson",
+"t": "person",
+"n": "Karina W. Davidson",
+"sub": "Northwell Health",
+"url": "https://orcid.org/0000-0002-9162-477X",
+"c": "US"
+},
+{
+"k": "person:john-b-wong",
+"t": "person",
+"n": "John B. Wong",
+"sub": "Tufts University",
+"url": "https://orcid.org/0000-0003-4203-9010",
+"c": "US"
+},
+{
+"k": "org:tufts-university",
+"t": "academic",
+"n": "Tufts University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-32076145",
+"t": "paper",
+"n": "Gut microbiota-derived metabolites as key actors in inflammatory bowel disease",
+"sub": "Nature Reviews Gastroenterology & Hepatology 2020 · cited 2222",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32076145",
+"c": ""
+},
+{
+"k": "person:aonghus-lavelle",
+"t": "person",
+"n": "Aonghus Lavelle",
+"sub": "Inserm",
+"url": "https://orcid.org/0000-0002-4461-8596",
+"c": "FR"
+},
+{
+"k": "org:inserm",
+"t": "funder",
+"n": "Inserm",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "org:sorbonne-universite",
+"t": "academic",
+"n": "Sorbonne Université",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:harry-sokol",
+"t": "person",
+"n": "Harry Sokol",
+"sub": "Inserm",
+"url": "https://orcid.org/0000-0002-2914-1822",
+"c": "FR"
+},
+{
+"k": "org:agroparistech",
+"t": "academic",
+"n": "AgroParisTech",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "paper:pmid-33139627",
+"t": "paper",
+"n": "The Influence of Probiotics on the Firmicutes/Bacteroidetes Ratio in the Treatment of Obes",
+"sub": "Microorganisms 2020 · cited 2097",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33139627",
+"c": ""
+},
+{
+"k": "person:spase-stojanov",
+"t": "person",
+"n": "Spase Stojanov",
+"sub": "University of Ljubljana",
+"url": "https://orcid.org/0000-0001-8172-8009",
+"c": "SI"
+},
+{
+"k": "org:university-of-ljubljana",
+"t": "academic",
+"n": "University of Ljubljana",
+"sub": "",
+"url": "",
+"c": "SI"
+},
+{
+"k": "org:jozef-stefan-institute",
+"t": "academic",
+"n": "Jožef Stefan Institute",
+"sub": "",
+"url": "",
+"c": "SI"
+},
+{
+"k": "person:borut-strukelj",
+"t": "person",
+"n": "Borut Štrukelj",
+"sub": "University of Ljubljana",
+"url": "",
+"c": "SI"
+},
+{
+"k": "org:javna-agencija-za-raziskovalno-dejavnost-rs",
+"t": "funder",
+"n": "Javna Agencija za Raziskovalno Dejavnost RS",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32913180",
+"t": "paper",
+"n": "Ulcerative colitis",
+"sub": "Nature Reviews Disease Primers 2020 · cited 1939",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32913180",
+"c": ""
+},
+{
+"k": "person:taku-kobayashi",
+"t": "person",
+"n": "Taku Kobayashi",
+"sub": "Kitasato Institute Hospital",
+"url": "https://orcid.org/0000-0002-2073-4234",
+"c": "JP"
+},
+{
+"k": "org:kitasato-institute-hospital",
+"t": "hospital",
+"n": "Kitasato Institute Hospital",
+"sub": "",
+"url": "",
+"c": "JP"
+},
+{
+"k": "org:kitasato-university",
+"t": "academic",
+"n": "Kitasato University",
+"sub": "",
+"url": "",
+"c": "JP"
+},
+{
+"k": "person:toshifumi-hibi",
+"t": "person",
+"n": "Toshifumi Hibi∥",
+"sub": "Kitasato Institute Hospital",
+"url": "https://orcid.org/0000-0002-6256-1204",
+"c": "JP"
+},
+{
+"k": "paper:pmid-37505311",
+"t": "paper",
+"n": "Gut microbiota, intestinal permeability, and systemic inflammation: a narrative review",
+"sub": "Internal and Emergency Medicine 2023 · cited 1728",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37505311",
+"c": ""
+},
+{
+"k": "person:federica-di-vincenzo",
+"t": "person",
+"n": "Federica Di Vincenzo",
+"sub": "Università Cattolica del Sacro Cuore",
+"url": "https://orcid.org/0000-0002-5347-7641",
+"c": "IT"
+},
+{
+"k": "org:universita-cattolica-del-sacro-cuore",
+"t": "academic",
+"n": "Università Cattolica del Sacro Cuore",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:agostino-gemelli-university-polyclinic",
+"t": "hospital",
+"n": "Agostino Gemelli University Polyclinic",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:franco-scaldaferri",
+"t": "person",
+"n": "Franco Scaldaferri",
+"sub": "Università Cattolica del Sacro Cuore",
+"url": "https://orcid.org/0000-0001-8334-7541",
+"c": "IT"
+},
+{
+"k": "org:fondazione-roma",
+"t": "funder",
+"n": "Fondazione Roma",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33033392",
+"t": "paper",
+"n": "The four epidemiological stages in the global evolution of inflammatory bowel disease",
+"sub": "Nature Reviews Gastroenterology & Hepatology 2020 · cited 1560",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33033392",
+"c": ""
+},
+{
+"k": "person:gilaad-g-kaplan",
+"t": "person",
+"n": "Gilaad G. Kaplan",
+"sub": "University of Calgary",
+"url": "https://orcid.org/0000-0003-2719-0556",
+"c": "CA"
+},
+{
+"k": "person:joseph-w-windsor",
+"t": "person",
+"n": "Joseph W. Windsor",
+"sub": "University of Calgary",
+"url": "https://orcid.org/0000-0002-7539-9103",
+"c": "CA"
+},
+{
+"k": "paper:pmid-37432351",
+"t": "paper",
+"n": "Short-Chain Fatty-Acid-Producing Bacteria: Key Components of the Human Gut Microbiota",
+"sub": "Nutrients 2023 · cited 1500",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37432351",
+"c": ""
+},
+{
+"k": "person:william-g-fusco",
+"t": "person",
+"n": "William G. Fusco",
+"sub": "Università Cattolica del Sacro Cuore",
+"url": "https://orcid.org/0009-0002-1412-4517",
+"c": "IT"
+},
+{
+"k": "person:gianluca-ianiro",
+"t": "person",
+"n": "Gianluca Ianiro",
+"sub": "Università Cattolica del Sacro Cuore",
+"url": "https://orcid.org/0000-0002-8318-0515",
+"c": "IT"
+},
+{
+"k": "org:ministero-della-salute",
+"t": "funder",
+"n": "Ministero della Salute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-35566252",
+"t": "paper",
+"n": "Flavonoids as Potential Anti-Inflammatory Molecules: A Review",
+"sub": "Molecules 2022 · cited 1451",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35566252",
+"c": ""
+},
+{
+"k": "person:jameel-mohammed-al-khayri",
+"t": "person",
+"n": "Jameel Mohammed Al-Khayri",
+"sub": "King Faisal University",
+"url": "https://orcid.org/0000-0001-9507-0201",
+"c": "SA"
+},
+{
+"k": "org:king-faisal-university",
+"t": "academic",
+"n": "King Faisal University",
+"sub": "",
+"url": "",
+"c": "SA"
+},
+{
+"k": "person:praveen-nagella",
+"t": "person",
+"n": "Praveen Nagella",
+"sub": "Christ University",
+"url": "https://orcid.org/0000-0001-6971-0527",
+"c": "IN"
+},
+{
+"k": "org:christ-university",
+"t": "academic",
+"n": "Christ University",
+"sub": "",
+"url": "",
+"c": "IN"
+},
+{
+"k": "person:muneera-qassim-al-mssallem",
+"t": "person",
+"n": "Muneera Qassim Al-Mssallem",
+"sub": "King Faisal University",
+"url": "https://orcid.org/0000-0002-7313-5403",
+"c": "SA"
+},
+{
+"k": "org:deanship-of-scientific-research-king-faisal-university",
+"t": "funder",
+"n": "Deanship of Scientific Research, King Faisal University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33382932",
+"t": "paper",
+"n": "Pathophysiology of Inflammatory Bowel Diseases",
+"sub": "New England Journal of Medicine 2020 · cited 1420",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33382932",
+"c": ""
+},
+{
+"k": "person:john-t-chang",
+"t": "person",
+"n": "John T. Chang",
+"sub": "University of California San Diego",
+"url": "https://orcid.org/0000-0003-0873-6218",
+"c": "US"
+},
+{
+"k": "org:va-san-diego-healthcare-system",
+"t": "hospital",
+"n": "VA San Diego Healthcare System",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:doi-10-1093-ecco-jcc-jjab178",
+"t": "paper",
+"n": "ECCO Guidelines on Therapeutics in Ulcerative Colitis: Medical Treatment",
+"sub": "Journal of Crohn s and Colitis 2021 · cited 1298",
+"url": "https://doi.org/10.1093/ecco-jcc/jjab178",
+"c": ""
+},
+{
+"k": "person:tim-raine",
+"t": "person",
+"n": "Tim Raine",
+"sub": "Cambridge University Hospitals NHS Foundation Trust",
+"url": "https://orcid.org/0000-0002-5855-9873",
+"c": "GB"
+},
+{
+"k": "org:cambridge-university-hospitals-nhs-foundation-trust",
+"t": "hospital",
+"n": "Cambridge University Hospitals NHS Foundation Trust",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:addenbrooke-s-hospital",
+"t": "hospital",
+"n": "Addenbrooke's Hospital",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:glen-a-doherty",
+"t": "person",
+"n": "Glen A. Doherty",
+"sub": "St. Vincent's University Hospital",
+"url": "https://orcid.org/0000-0003-4384-5049",
+"c": "IE"
+},
+{
+"k": "org:st-vincent-s-university-hospital",
+"t": "hospital",
+"n": "St. Vincent's University Hospital",
+"sub": "",
+"url": "",
+"c": "IE"
+},
+{
+"k": "org:european-society-of-coloproctology",
+"t": "funder",
+"n": "European Society of Coloproctology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:european-crohn-s-and-colitis-organisation",
+"t": "funder",
+"n": "European Crohn's and Colitis Organisation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institute-for-health-and-care-research",
+"t": "funder",
+"n": "National Institute for Health and Care Research",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32242028",
+"t": "paper",
+"n": "Crohn’s disease",
+"sub": "Nature Reviews Disease Primers 2020 · cited 1255",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32242028",
+"c": ""
+},
+{
+"k": "person:giulia-roda",
+"t": "person",
+"n": "Giulia Roda",
+"sub": "IRCCS Humanitas Research Hospital",
+"url": "https://orcid.org/0000-0001-8205-6523",
+"c": "IT"
+},
+{
+"k": "org:irccs-humanitas-research-hospital",
+"t": "hospital",
+"n": "IRCCS Humanitas Research Hospital",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:silvio-danese",
+"t": "person",
+"n": "Silvio Danese",
+"sub": "Humanitas University",
+"url": "https://orcid.org/0000-0001-7341-1351",
+"c": "IT"
+},
+{
+"k": "org:humanitas-university",
+"t": "academic",
+"n": "Humanitas University",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:wellcome-trust",
+"t": "funder",
+"n": "Wellcome Trust",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36270658",
+"t": "paper",
+"n": "ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update",
+"sub": "Annals of the Rheumatic Diseases 2022 · cited 1243",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36270658",
+"c": ""
+},
+{
+"k": "person:sofia-ramiro",
+"t": "person",
+"n": "Sofía Ramiro",
+"sub": "Leiden University Medical Center",
+"url": "https://orcid.org/0000-0002-8899-9087",
+"c": "NL"
+},
+{
+"k": "org:leiden-university-medical-center",
+"t": "hospital",
+"n": "Leiden University Medical Center",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "org:zuyderland-medisch-centrum",
+"t": "hospital",
+"n": "Zuyderland Medisch Centrum",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "org:assessment-of-spondyloarthritis-international-society",
+"t": "funder",
+"n": "Assessment of SpondyloArthritis international Society",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33076307",
+"t": "paper",
+"n": "Gut Microbiota and Immune System Interactions",
+"sub": "Microorganisms 2020 · cited 1211",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33076307",
+"c": ""
+},
+{
+"k": "person:ji-youn-yoo",
+"t": "person",
+"n": "Ji Youn Yoo",
+"sub": "University of South Florida",
+"url": "https://orcid.org/0000-0001-9528-0815",
+"c": "US"
+},
+{
+"k": "org:university-of-south-florida",
+"t": "academic",
+"n": "University of South Florida",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:daniel-ian-mcskimming",
+"t": "person",
+"n": "Daniel Ian McSkimming",
+"sub": "University of South Florida",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-33846604",
+"t": "paper",
+"n": "Does the epithelial barrier hypothesis explain the increase in allergy, autoimmunity and o",
+"sub": "Nature reviews. Immunology 2021 · cited 1134",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33846604",
+"c": ""
+},
+{
+"k": "person:cezmi-a-akdis",
+"t": "person",
+"n": "Cezmi A. Akdiş",
+"sub": "University of Zurich",
+"url": "https://orcid.org/0000-0001-8020-019X",
+"c": "CH"
+},
+{
+"k": "org:university-of-zurich",
+"t": "academic",
+"n": "University of Zurich",
+"sub": "",
+"url": "",
+"c": "CH"
+},
+{
+"k": "org:ck-care",
+"t": "hospital",
+"n": "CK-CARE",
+"sub": "",
+"url": "",
+"c": "CH"
+},
+{
+"k": "paper:pmid-36635386",
+"t": "paper",
+"n": "Genomic atlas of the plasma metabolome prioritizes metabolites implicated in human disease",
+"sub": "Nature Genetics 2023 · cited 1115",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36635386",
+"c": ""
+},
+{
+"k": "person:yiheng-chen",
+"t": "person",
+"n": "Yiheng Chen",
+"sub": "Jewish General Hospital",
+"url": "https://orcid.org/0000-0002-7662-9441",
+"c": "CA"
+},
+{
+"k": "org:jewish-general-hospital",
+"t": "hospital",
+"n": "Jewish General Hospital",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "org:lady-davis-institute-for-medical-research",
+"t": "academic",
+"n": "Lady Davis Institute for Medical Research",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "person:john-brent-richards",
+"t": "person",
+"n": "John Brent Richards",
+"sub": "King's College London",
+"url": "https://orcid.org/0000-0002-3746-9086",
+"c": "GB"
+},
+{
+"k": "org:king-s-college-london",
+"t": "academic",
+"n": "King's College London",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:glaxosmithkline",
+"t": "funder",
+"n": "GlaxoSmithKline",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:biogen",
+"t": "funder",
+"n": "Biogen",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33315591",
+"t": "paper",
+"n": "ACG Clinical Guideline: Management of Irritable Bowel Syndrome",
+"sub": "The American Journal of Gastroenterology 2020 · cited 1080",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33315591",
+"c": ""
+},
+{
+"k": "person:brian-e-lacy",
+"t": "person",
+"n": "Brian E. Lacy",
+"sub": "Mayo Clinic",
+"url": "https://orcid.org/0000-0003-4121-7970",
+"c": "US"
+},
+{
+"k": "org:mayo-clinic-in-florida",
+"t": "hospital",
+"n": "Mayo Clinic in Florida",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:baha-moshiree",
+"t": "person",
+"n": "Baha Moshiree",
+"sub": "University of North Carolina at Charlotte",
+"url": "https://orcid.org/0000-0003-4986-7134",
+"c": "US"
+},
+{
+"k": "org:university-of-north-carolina-at-charlotte",
+"t": "academic",
+"n": "University of North Carolina at Charlotte",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-35011465",
+"t": "paper",
+"n": "Role of Phenolic Compounds in Human Disease: Current Knowledge and Future Prospects",
+"sub": "Molecules 2021 · cited 1058",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35011465",
+"c": ""
+},
+{
+"k": "person:md-mominur-rahman",
+"t": "person",
+"n": "Md. Mominur Rahman",
+"sub": "Daffodil International University",
+"url": "https://orcid.org/0000-0003-2357-283X",
+"c": "BD"
+},
+{
+"k": "org:daffodil-international-university",
+"t": "academic",
+"n": "Daffodil International University",
+"sub": "",
+"url": "",
+"c": "BD"
+},
+{
+"k": "person:talha-bin-emran",
+"t": "person",
+"n": "Talha Bin Emran",
+"sub": "BGC Trust University Bangladesh",
+"url": "https://orcid.org/0000-0003-3188-2272",
+"c": "BD"
+},
+{
+"k": "org:bgc-trust-university-bangladesh",
+"t": "academic",
+"n": "BGC Trust University Bangladesh",
+"sub": "",
+"url": "",
+"c": "BD"
+},
+{
+"k": "person:md-sahab-uddin",
+"t": "person",
+"n": "Md. Sahab Uddin",
+"sub": "Southeast University",
+"url": "https://orcid.org/0000-0002-0805-7840",
+"c": "BD"
+},
+{
+"k": "org:southeast-university",
+"t": "academic",
+"n": "Southeast University",
+"sub": "",
+"url": "",
+"c": "BD"
+},
+{
+"k": "paper:pmid-34358489",
+"t": "paper",
+"n": "Extraintestinal Manifestations of Inflammatory Bowel Disease: Current Concepts, Treatment,",
+"sub": "Gastroenterology 2021 · cited 1047",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34358489",
+"c": ""
+},
+{
+"k": "person:gerhard-rogler",
+"t": "person",
+"n": "Gerhard Rogler",
+"sub": "University Hospital Zurich",
+"url": "https://orcid.org/0000-0002-1733-9188",
+"c": "CH"
+},
+{
+"k": "org:university-hospital-zurich",
+"t": "hospital",
+"n": "University Hospital Zurich",
+"sub": "",
+"url": "",
+"c": "CH"
+},
+{
+"k": "person:david-t-rubin",
+"t": "person",
+"n": "David T. Rubin",
+"sub": "University of Chicago",
+"url": "https://orcid.org/0000-0001-5647-1723",
+"c": "US"
+},
+{
+"k": "org:university-of-chicago-medical-center",
+"t": "hospital",
+"n": "University of Chicago Medical Center",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:novartis",
+"t": "funder",
+"n": "Novartis",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34754179",
+"t": "paper",
+"n": "Anti-Inflammatory Effects of Curcumin in the Inflammatory Diseases: Status, Limitations an",
+"sub": "Drug Design Development and Therapy 2021 · cited 1006",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34754179",
+"c": ""
+},
+{
+"k": "person:ying-peng",
+"t": "person",
+"n": "Ying Peng",
+"sub": "Chengdu University of Traditional Chinese Medicine",
+"url": "https://orcid.org/0000-0003-4924-1430",
+"c": "CN"
+},
+{
+"k": "org:chengdu-university-of-traditional-chinese-medicine",
+"t": "academic",
+"n": "Chengdu University of Traditional Chinese Medicine",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:zhimin-chen",
+"t": "person",
+"n": "Zhimin Chen",
+"sub": "Chengdu University of Traditional Chinese Medicine",
+"url": "https://orcid.org/0000-0001-7208-9540",
+"c": "CN"
+},
+{
+"k": "person:runchun-xu",
+"t": "person",
+"n": "Runchun Xu",
+"sub": "Chengdu University of Traditional Chinese Medicine",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:jiangxi-university-of-traditional-chinese-medicine",
+"t": "funder",
+"n": "Jiangxi University of Traditional Chinese Medicine",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:chengdu-university",
+"t": "funder",
+"n": "Chengdu University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33049223",
+"t": "paper",
+"n": "Irritable bowel syndrome",
+"sub": "The Lancet 2020 · cited 1005",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33049223",
+"c": ""
+},
+{
+"k": "person:alexander-charles-ford",
+"t": "person",
+"n": "Alexander Charles Ford",
+"sub": "University of Leeds",
+"url": "https://orcid.org/0000-0001-6371-4359",
+"c": "GB"
+},
+{
+"k": "org:university-of-leeds",
+"t": "academic",
+"n": "University of Leeds",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:st-james-s-university-hospital",
+"t": "hospital",
+"n": "St James's University Hospital",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:michael-camilleri",
+"t": "person",
+"n": "Michael Camilleri",
+"sub": "Mayo Clinic",
+"url": "https://orcid.org/0000-0001-6472-7514",
+"c": "US"
+},
+{
+"k": "paper:pmid-34757143",
+"t": "paper",
+"n": "Colorectal Cancer in Inflammatory Bowel Disease: Mechanisms and Management",
+"sub": "Gastroenterology 2021 · cited 974",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34757143",
+"c": ""
+},
+{
+"k": "person:shailja-c-shah",
+"t": "person",
+"n": "Shailja C. Shah",
+"sub": "University of California San Diego",
+"url": "https://orcid.org/0000-0002-2049-9959",
+"c": "US"
+},
+{
+"k": "person:steven-h-itzkowitz",
+"t": "person",
+"n": "Steven H. Itzkowitz",
+"sub": "Icahn School of Medicine at Mount Sinai",
+"url": "https://orcid.org/0000-0002-0436-5416",
+"c": "US"
+},
+{
+"k": "org:u-s-department-of-veterans-affairs",
+"t": "funder",
+"n": "U.S. Department of Veterans Affairs",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34935363",
+"t": "paper",
+"n": "Analysis of Microplastics in Human Feces Reveals a Correlation between Fecal Microplastics",
+"sub": "Environmental Science & Technology 2021 · cited 957",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34935363",
+"c": ""
+},
+{
+"k": "person:zehua-yan",
+"t": "person",
+"n": "Zehua Yan",
+"sub": "State Key Laboratory of Pollution Control and Resource Reuse",
+"url": "https://orcid.org/0000-0002-8176-4832",
+"c": "CN"
+},
+{
+"k": "org:state-key-laboratory-of-pollution-control-and-resource-reuse",
+"t": "academic",
+"n": "State Key Laboratory of Pollution Control and Resource Reuse",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:nanjing-university",
+"t": "academic",
+"n": "Nanjing University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:faming-zhang",
+"t": "person",
+"n": "Faming Zhang",
+"sub": "Second Affiliated Hospital of Nanjing Medical University",
+"url": "https://orcid.org/0000-0003-4157-1144",
+"c": "CN"
+},
+{
+"k": "org:second-affiliated-hospital-of-nanjing-medical-university",
+"t": "hospital",
+"n": "Second Affiliated Hospital of Nanjing Medical University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:nanjing-medical-university",
+"t": "academic",
+"n": "Nanjing Medical University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:yan-zhang",
+"t": "person",
+"n": "Yan Zhang",
+"sub": "State Key Laboratory of Pollution Control and Resource Reuse",
+"url": "https://orcid.org/0000-0002-4762-6639",
+"c": "CN"
+},
+{
+"k": "paper:pmid-31910984",
+"t": "paper",
+"n": "The microbiome and inflammatory bowel disease",
+"sub": "Journal of Allergy and Clinical Immunology 2020 · cited 941",
+"url": "https://pubmed.ncbi.nlm.nih.gov/31910984",
+"c": ""
+},
+{
+"k": "person:kerri-l-glassner",
+"t": "person",
+"n": "Kerri L. Glassner",
+"sub": "Houston Methodist",
+"url": "https://orcid.org/0000-0002-5059-0470",
+"c": "US"
+},
+{
+"k": "org:houston-methodist",
+"t": "hospital",
+"n": "Houston Methodist",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:eamonn-m-m-quigley",
+"t": "person",
+"n": "Eamonn M.M. Quigley",
+"sub": "Houston Methodist",
+"url": "https://orcid.org/0000-0003-4151-7180",
+"c": "US"
+},
+{
+"k": "org:university-of-california",
+"t": "funder",
+"n": "University of California",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-32191340",
+"t": "paper",
+"n": "COVID-19 pandemic: perspectives on an unfolding crisis",
+"sub": "British journal of surgery 2020 · cited 927",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32191340",
+"c": ""
+},
+{
+"k": "person:antonino-spinelli",
+"t": "person",
+"n": "Antonino Spinelli",
+"sub": "Humanitas University",
+"url": "https://orcid.org/0000-0002-1493-1768",
+"c": "IT"
+},
+{
+"k": "person:gianluca-pellino",
+"t": "person",
+"n": "Gianluca Pellino",
+"sub": "University of Campania \"Luigi Vanvitelli\"",
+"url": "https://orcid.org/0000-0002-8322-6421",
+"c": "IT"
+},
+{
+"k": "org:university-of-campania-luigi-vanvitelli",
+"t": "academic",
+"n": "University of Campania \"Luigi Vanvitelli\"",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:vall-d-hebron-hospital-universitari",
+"t": "hospital",
+"n": "Vall d'Hebron Hospital Universitari",
+"sub": "",
+"url": "",
+"c": "ES"
+},
+{
+"k": "paper:pmid-36225386",
+"t": "paper",
+"n": "Human gut microbiota in health and disease: Unveiling the relationship",
+"sub": "Frontiers in Microbiology 2022 · cited 924",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36225386",
+"c": ""
+},
+{
+"k": "person:muhammad-afzaal",
+"t": "person",
+"n": "Muhammad Afzaal",
+"sub": "Government College University, Faisalabad",
+"url": "https://orcid.org/0000-0001-9047-9075",
+"c": "PK"
+},
+{
+"k": "org:government-college-university-faisalabad",
+"t": "academic",
+"n": "Government College University, Faisalabad",
+"sub": "",
+"url": "",
+"c": "PK"
+},
+{
+"k": "person:claudia-terezia-socol",
+"t": "person",
+"n": "Claudia Terezia Socol",
+"sub": "University of Oradea",
+"url": "https://orcid.org/0000-0001-6553-479X",
+"c": "RO"
+},
+{
+"k": "org:university-of-oradea",
+"t": "academic",
+"n": "University of Oradea",
+"sub": "",
+"url": "",
+"c": "RO"
+},
+{
+"k": "person:rana-muhammad-aadil",
+"t": "person",
+"n": "Rana Muhammad Aadil",
+"sub": "University of Agriculture Faisalabad",
+"url": "https://orcid.org/0000-0002-0185-0096",
+"c": "PK"
+},
+{
+"k": "org:university-of-agriculture-faisalabad",
+"t": "academic",
+"n": "University of Agriculture Faisalabad",
+"sub": "",
+"url": "",
+"c": "PK"
+},
+{
+"k": "org:government-college-university-lahore",
+"t": "funder",
+"n": "Government College University, Lahore",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-35271802",
+"t": "paper",
+"n": "Gut microbiota-derived bile acids in intestinal immunity, inflammation, and tumorigenesis",
+"sub": "Cell Host & Microbe 2022 · cited 923",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35271802",
+"c": ""
+},
+{
+"k": "person:jie-cai",
+"t": "person",
+"n": "Jie Cai",
+"sub": "National Cancer Institute",
+"url": "https://orcid.org/0000-0002-4224-1721",
+"c": "US"
+},
+{
+"k": "org:national-cancer-institute",
+"t": "funder",
+"n": "National Cancer Institute",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:center-for-cancer-research",
+"t": "academic",
+"n": "Center for Cancer Research",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:frank-j-gonzalez",
+"t": "person",
+"n": "Frank J. Gonzalez",
+"sub": "National Institutes of Health",
+"url": "https://orcid.org/0000-0002-7990-2140",
+"c": "US"
+},
+{
+"k": "paper:pmid-32358325",
+"t": "paper",
+"n": "Diagnosis and Treatment Protocol for Novel Coronavirus Pneumonia (Trial Version 7)",
+"sub": "Chinese Medical Journal 2020 · cited 911",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32358325",
+"c": ""
+},
+{
+"k": "person:pei-fang-wei",
+"t": "person",
+"n": "Pei-Fang Wei",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33813134",
+"t": "paper",
+"n": "Short chain fatty acids and its producing organisms: An overlooked therapy for IBD?",
+"sub": "EBioMedicine 2021 · cited 884",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33813134",
+"c": ""
+},
+{
+"k": "person:s-deleu",
+"t": "person",
+"n": "S Deleu",
+"sub": "KU Leuven",
+"url": "https://orcid.org/0000-0001-8596-2783",
+"c": "BE"
+},
+{
+"k": "org:ku-leuven",
+"t": "academic",
+"n": "KU Leuven",
+"sub": "",
+"url": "",
+"c": "BE"
+},
+{
+"k": "person:severine-vermeire",
+"t": "person",
+"n": "Séverine Vermeire",
+"sub": "Universitair Ziekenhuis Leuven",
+"url": "https://orcid.org/0000-0001-9942-3019",
+"c": "BE"
+},
+{
+"k": "org:universitair-ziekenhuis-leuven",
+"t": "hospital",
+"n": "Universitair Ziekenhuis Leuven",
+"sub": "",
+"url": "",
+"c": "BE"
+},
+{
+"k": "org:fonds-wetenschappelijk-onderzoek",
+"t": "funder",
+"n": "Fonds Wetenschappelijk Onderzoek",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:vlaams-instituut-voor-biotechnologie",
+"t": "funder",
+"n": "Vlaams Instituut voor Biotechnologie",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:servier",
+"t": "funder",
+"n": "Servier",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:vlaamse-regering",
+"t": "funder",
+"n": "Vlaamse regering",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34988090",
+"t": "paper",
+"n": "Treatment of Inflammatory Bowel Disease: A Comprehensive Review",
+"sub": "Frontiers in Medicine 2021 · cited 878",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34988090",
+"c": ""
+},
+{
+"k": "person:zhaobei-cai",
+"t": "person",
+"n": "Zhaobei Cai",
+"sub": "Jilin University",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:jilin-university",
+"t": "academic",
+"n": "Jilin University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:second-affiliated-hospital-of-jilin-university",
+"t": "hospital",
+"n": "Second Affiliated Hospital of Jilin University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:jiannan-li",
+"t": "person",
+"n": "Jiannan Li",
+"sub": "Jilin University",
+"url": "https://orcid.org/0000-0001-9744-7666",
+"c": "CN"
+},
+{
+"k": "org:people-s-government-of-jilin-province",
+"t": "funder",
+"n": "People's Government of Jilin Province",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:jilin-scientific-and-technological-development-program",
+"t": "funder",
+"n": "Jilin Scientific and Technological Development Program",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33721557",
+"t": "paper",
+"n": "Prevalence of symptoms of anxiety and depression in patients with inflammatory bowel disea",
+"sub": "The Lancet. Gastroenterology & hepatology 2021 · cited 870",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33721557",
+"c": ""
+},
+{
+"k": "person:brigida-barberio",
+"t": "person",
+"n": "Brigida Barberio",
+"sub": "University of Padua",
+"url": "https://orcid.org/0000-0002-3164-8243",
+"c": "IT"
+},
+{
+"k": "org:university-of-padua",
+"t": "academic",
+"n": "University of Padua",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "org:azienda-ospedale-universita-padova",
+"t": "hospital",
+"n": "Azienda Ospedale - Università Padova",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "paper:pmid-37563310",
+"t": "paper",
+"n": "Genetics of circulating inflammatory proteins identifies drivers of immune-mediated diseas",
+"sub": "Nature Immunology 2023 · cited 867",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37563310",
+"c": ""
+},
+{
+"k": "person:jing-hua-zhao",
+"t": "person",
+"n": "Jing Hua Zhao",
+"sub": "University of Cambridge",
+"url": "https://orcid.org/0000-0003-4930-3582",
+"c": "GB"
+},
+{
+"k": "org:university-of-cambridge",
+"t": "academic",
+"n": "University of Cambridge",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:adam-s-butterworth",
+"t": "person",
+"n": "Adam S. Butterworth",
+"sub": "University of Cambridge",
+"url": "https://orcid.org/0000-0002-6915-9015",
+"c": "GB"
+},
+{
+"k": "org:british-heart-foundation",
+"t": "foundation",
+"n": "British Heart Foundation",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:james-e-peters",
+"t": "person",
+"n": "James E. Peters",
+"sub": "University of Cambridge",
+"url": "https://orcid.org/0000-0002-9415-3440",
+"c": "GB"
+},
+{
+"k": "org:stanley-medical-research-institute",
+"t": "funder",
+"n": "Stanley Medical Research Institute",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:nhs-blood-and-transplant",
+"t": "funder",
+"n": "NHS Blood and Transplant",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33086688",
+"t": "paper",
+"n": "The Gut Microbiota and Inflammation: An Overview",
+"sub": "International Journal of Environmental Research and Public Health 2020 · cited 866",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33086688",
+"c": ""
+},
+{
+"k": "person:zahraa-al-bander",
+"t": "person",
+"n": "Zahraa Al Bander",
+"sub": "Monash University",
+"url": "",
+"c": "AU"
+},
+{
+"k": "org:monash-university",
+"t": "academic",
+"n": "Monash University",
+"sub": "",
+"url": "",
+"c": "AU"
+},
+{
+"k": "person:negar-naderpoor",
+"t": "person",
+"n": "Negar Naderpoor",
+"sub": "Monash University",
+"url": "https://orcid.org/0000-0002-1738-3189",
+"c": "AU"
+},
+{
+"k": "org:medical-research-council",
+"t": "funder",
+"n": "Medical Research Council",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-health-and-medical-research-council",
+"t": "funder",
+"n": "National Health and Medical Research Council",
+"sub": "",
+"url": "",
+"c": ""
 }
 ],
 "edges": [
@@ -2889,6 +5577,16 @@
 "r": "site_of"
 },
 {
+"a": "org:american-association-for-the-study-of-liver-diseases",
+"b": "paper:pmid-36727674",
+"r": "funded"
+},
+{
+"a": "org:amgen",
+"b": "paper:pmid-33359090",
+"r": "funded"
+},
+{
 "a": "org:antelope-valley-eye-care-ophthalmologist",
 "b": "trial:nct03950232",
 "r": "site_of"
@@ -2899,9 +5597,24 @@
 "r": "collaborates"
 },
 {
+"a": "org:assessment-of-spondyloarthritis-international-society",
+"b": "paper:pmid-36270658",
+"r": "funded"
+},
+{
 "a": "org:astrazeneca",
 "b": "drug:azd7798",
 "r": "develops"
+},
+{
+"a": "org:astrazeneca",
+"b": "paper:pmid-34358489",
+"r": "funded"
+},
+{
+"a": "org:astrazeneca",
+"b": "paper:pmid-36635386",
+"r": "funded"
 },
 {
 "a": "org:astrazeneca",
@@ -2959,6 +5672,11 @@
 "r": "site_of"
 },
 {
+"a": "org:biogen",
+"b": "paper:pmid-36635386",
+"r": "funded"
+},
+{
 "a": "org:biopharma-informatic",
 "b": "trial:nct07186101",
 "r": "site_of"
@@ -3004,6 +5722,21 @@
 "r": "site_of"
 },
 {
+"a": "org:bristol-myers-squibb",
+"b": "paper:pmid-33359090",
+"r": "funded"
+},
+{
+"a": "org:bristol-myers-squibb",
+"b": "paper:pmid-34358489",
+"r": "funded"
+},
+{
+"a": "org:bristol-myers-squibb",
+"b": "paper:pmid-36727674",
+"r": "funded"
+},
+{
 "a": "org:bvl-clinical-research",
 "b": "trial:nct05668013",
 "r": "site_of"
@@ -3017,6 +5750,21 @@
 "a": "org:california-medical-research-associates",
 "b": "trial:nct06937099",
 "r": "site_of"
+},
+{
+"a": "org:canadian-institutes-of-health-research",
+"b": "paper:pmid-29217423",
+"r": "funded"
+},
+{
+"a": "org:canadian-institutes-of-health-research",
+"b": "paper:pmid-33033392",
+"r": "funded"
+},
+{
+"a": "org:cancerfonden",
+"b": "paper:pmid-27821812",
+"r": "funded"
 },
 {
 "a": "org:cedars-sinai-medical-center",
@@ -3059,6 +5807,16 @@
 "r": "site_of"
 },
 {
+"a": "org:chengdu-university",
+"b": "paper:pmid-34754179",
+"r": "funded"
+},
+{
+"a": "org:chengdu-university-of-traditional-chinese-medicine",
+"b": "paper:pmid-34754179",
+"r": "funded"
+},
+{
 "a": "org:children-s-center-for-digestive-health-care",
 "b": "trial:nct05923073",
 "r": "site_of"
@@ -3077,6 +5835,16 @@
 "a": "org:children-s-hospital-oakland",
 "b": "trial:nct06260163",
 "r": "site_of"
+},
+{
+"a": "org:china-postdoctoral-science-foundation",
+"b": "paper:doi-10-1016-j-seppur-2022-122450",
+"r": "funded"
+},
+{
+"a": "org:china-postdoctoral-science-foundation",
+"b": "paper:pmid-34754179",
+"r": "funded"
 },
 {
 "a": "org:chu-charleroi-chimay",
@@ -3179,6 +5947,11 @@
 "r": "site_of"
 },
 {
+"a": "org:conselho-nacional-de-desenvolvimento-cientifico-e-tecnologic",
+"b": "paper:pmid-29037679",
+"r": "funded"
+},
+{
 "a": "org:cook-childrens-medical-center",
 "b": "trial:nct06663332",
 "r": "site_of"
@@ -3194,9 +5967,24 @@
 "r": "site_of"
 },
 {
+"a": "org:coventry-university",
+"b": "paper:doi-10-1007-s00521-018-3358-8",
+"r": "funded"
+},
+{
+"a": "org:crohn-s-and-colitis-foundation",
+"b": "paper:pmid-34784344",
+"r": "funded"
+},
+{
 "a": "org:crohn-s-and-colitis-foundation",
 "b": "trial:nct07501078",
 "r": "collaborates"
+},
+{
+"a": "org:deanship-of-scientific-research-king-faisal-university",
+"b": "paper:pmid-35566252",
+"r": "funded"
 },
 {
 "a": "org:del-sol-research-management",
@@ -3239,6 +6027,11 @@
 "r": "site_of"
 },
 {
+"a": "org:division-of-materials-research",
+"b": "paper:doi-10-1016-j-matchemphys-2018-11-020",
+"r": "funded"
+},
+{
 "a": "org:east-view-medical-research",
 "b": "trial:nct07499232",
 "r": "site_of"
@@ -3272,6 +6065,16 @@
 "a": "org:eli-lilly-and-company",
 "b": "drug:tirzepatide",
 "r": "develops"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "paper:pmid-33359090",
+"r": "funded"
+},
+{
+"a": "org:eli-lilly-and-company",
+"b": "paper:pmid-36635386",
+"r": "funded"
 },
 {
 "a": "org:eli-lilly-and-company",
@@ -3344,6 +6147,31 @@
 "r": "site_of"
 },
 {
+"a": "org:engineering-and-physical-sciences-research-council",
+"b": "paper:doi-10-1117-12-2269507",
+"r": "funded"
+},
+{
+"a": "org:engineering-and-physical-sciences-research-council",
+"b": "paper:pmid-27321794",
+"r": "funded"
+},
+{
+"a": "org:eth-zurich-foundation",
+"b": "paper:doi-10-1137-21m1424408",
+"r": "funded"
+},
+{
+"a": "org:european-crohn-s-and-colitis-organisation",
+"b": "paper:doi-10-1093-ecco-jcc-jjab178",
+"r": "funded"
+},
+{
+"a": "org:european-society-of-coloproctology",
+"b": "paper:doi-10-1093-ecco-jcc-jjab178",
+"r": "funded"
+},
+{
 "a": "org:ezy-medical-research",
 "b": "trial:nct07483073",
 "r": "site_of"
@@ -3352,6 +6180,11 @@
 "a": "org:ezy-medical-research",
 "b": "trial:nct07483099",
 "r": "site_of"
+},
+{
+"a": "org:falk-foundation",
+"b": "paper:pmid-33359090",
+"r": "funded"
 },
 {
 "a": "org:fiona-stanley-hospital",
@@ -3389,9 +6222,29 @@
 "r": "site_of"
 },
 {
+"a": "org:fondazione-roma",
+"b": "paper:pmid-37432351",
+"r": "funded"
+},
+{
+"a": "org:fondazione-roma",
+"b": "paper:pmid-37505311",
+"r": "funded"
+},
+{
+"a": "org:fonds-wetenschappelijk-onderzoek",
+"b": "paper:pmid-33813134",
+"r": "funded"
+},
+{
 "a": "org:fukuoka-university-hospital",
 "b": "trial:nct07913347",
 "r": "site_of"
+},
+{
+"a": "org:fundacao-de-amparo-a-pesquisa-do-estado-de-minas-gerais",
+"b": "paper:pmid-29037679",
+"r": "funded"
 },
 {
 "a": "org:gastro-care-institute",
@@ -3489,6 +6342,11 @@
 "r": "site_of"
 },
 {
+"a": "org:generalitat-de-catalunya",
+"b": "paper:pmid-27821812",
+"r": "funded"
+},
+{
 "a": "org:gi-pros",
 "b": "trial:nct06233461",
 "r": "site_of"
@@ -3509,6 +6367,16 @@
 "r": "site_of"
 },
 {
+"a": "org:glaxosmithkline",
+"b": "paper:pmid-36635386",
+"r": "funded"
+},
+{
+"a": "org:glaxosmithkline",
+"b": "paper:pmid-37563310",
+"r": "funded"
+},
+{
 "a": "org:gmc-clinical-research",
 "b": "trial:nct07415044",
 "r": "site_of"
@@ -3517,6 +6385,11 @@
 "a": "org:goryeb-children-s-hospital",
 "b": "trial:nct05923073",
 "r": "site_of"
+},
+{
+"a": "org:government-college-university-lahore",
+"b": "paper:pmid-36225386",
+"r": "funded"
 },
 {
 "a": "org:guangzhou-first-people-s-hospital",
@@ -3729,6 +6602,26 @@
 "r": "site_of"
 },
 {
+"a": "org:javna-agencija-za-raziskovalno-dejavnost-rs",
+"b": "paper:pmid-33139627",
+"r": "funded"
+},
+{
+"a": "org:jiangxi-university-of-traditional-chinese-medicine",
+"b": "paper:pmid-34754179",
+"r": "funded"
+},
+{
+"a": "org:jilin-scientific-and-technological-development-program",
+"b": "paper:pmid-34988090",
+"r": "funded"
+},
+{
+"a": "org:jilin-university",
+"b": "paper:pmid-34988090",
+"r": "funded"
+},
+{
 "a": "org:johns-hopkins-university",
 "b": "drug:n-acetylglucosamine",
 "r": "develops"
@@ -3859,6 +6752,11 @@
 "r": "site_of"
 },
 {
+"a": "org:medical-research-council",
+"b": "paper:pmid-33086688",
+"r": "funded"
+},
+{
 "a": "org:medical-university-of-south-carolina",
 "b": "trial:nct06408935",
 "r": "site_of"
@@ -3924,6 +6822,21 @@
 "r": "sponsors"
 },
 {
+"a": "org:ministerio-da-ciencia-e-tecnologia",
+"b": "paper:pmid-29037679",
+"r": "funded"
+},
+{
+"a": "org:ministerio-de-economia-y-competitividad",
+"b": "paper:pmid-27821812",
+"r": "funded"
+},
+{
+"a": "org:ministero-della-salute",
+"b": "paper:pmid-37432351",
+"r": "funded"
+},
+{
 "a": "org:moore-clinical-trials",
 "b": "trial:nct05242471",
 "r": "site_of"
@@ -3954,9 +6867,84 @@
 "r": "sponsors"
 },
 {
+"a": "org:national-cancer-institute",
+"b": "paper:pmid-35271802",
+"r": "funded"
+},
+{
+"a": "org:national-health-and-medical-research-council",
+"b": "paper:pmid-33086688",
+"r": "funded"
+},
+{
+"a": "org:national-human-genome-research-institute",
+"b": "paper:pmid-34784344",
+"r": "funded"
+},
+{
+"a": "org:national-institute-for-health-and-care-research",
+"b": "paper:doi-10-1093-ecco-jcc-jjab178",
+"r": "funded"
+},
+{
+"a": "org:national-institute-for-health-and-care-research",
+"b": "paper:pmid-36270658",
+"r": "funded"
+},
+{
 "a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
 "b": "trial:nct07225998",
 "r": "collaborates"
+},
+{
+"a": "org:national-institute-of-environmental-health-sciences",
+"b": "paper:pmid-33895641",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-34784344",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-35271802",
+"r": "funded"
+},
+{
+"a": "org:national-key-research-and-development-program-of-china",
+"b": "paper:doi-10-1016-j-seppur-2022-122450",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:doi-10-1016-j-snb-2017-10-124",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-30567665",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-34935363",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-34988090",
+"r": "funded"
+},
+{
+"a": "org:national-science-foundation",
+"b": "paper:pmid-34784344",
+"r": "funded"
+},
+{
+"a": "org:natural-science-foundation-of-guangdong-province",
+"b": "paper:pmid-30567665",
+"r": "funded"
 },
 {
 "a": "org:neoclinical-research",
@@ -3964,9 +6952,29 @@
 "r": "site_of"
 },
 {
+"a": "org:ngm-biopharmaceuticals",
+"b": "paper:pmid-36727674",
+"r": "funded"
+},
+{
+"a": "org:nhs-blood-and-transplant",
+"b": "paper:pmid-37563310",
+"r": "funded"
+},
+{
 "a": "org:northern-hospital",
 "b": "trial:nct06408935",
 "r": "site_of"
+},
+{
+"a": "org:novartis",
+"b": "paper:pmid-34358489",
+"r": "funded"
+},
+{
+"a": "org:novo-nordisk",
+"b": "paper:pmid-36727674",
+"r": "funded"
 },
 {
 "a": "org:nyu-langone-health",
@@ -4064,6 +7072,11 @@
 "r": "site_of"
 },
 {
+"a": "org:osterreichische-forschungsforderungsgesellschaft",
+"b": "paper:pmid-32313928",
+"r": "funded"
+},
+{
 "a": "org:palisade-bio",
 "b": "drug:pali-2108",
 "r": "develops"
@@ -4139,9 +7152,19 @@
 "r": "site_of"
 },
 {
+"a": "org:people-s-government-of-jilin-province",
+"b": "paper:pmid-34988090",
+"r": "funded"
+},
+{
 "a": "org:pfizer",
 "b": "drug:etrasimod",
 "r": "develops"
+},
+{
+"a": "org:pfizer",
+"b": "paper:pmid-34358489",
+"r": "funded"
 },
 {
 "a": "org:pfizer",
@@ -4259,6 +7282,11 @@
 "r": "site_of"
 },
 {
+"a": "org:servier",
+"b": "paper:pmid-33813134",
+"r": "funded"
+},
+{
 "a": "org:shattuck-labs",
 "b": "drug:sl-325",
 "r": "develops"
@@ -4267,6 +7295,11 @@
 "a": "org:shattuck-labs",
 "b": "trial:nct07753850",
 "r": "sponsors"
+},
+{
+"a": "org:siec-badawcza-ukasiewicz",
+"b": "paper:doi-10-1016-j-molliq-2020-112955",
+"r": "funded"
 },
 {
 "a": "org:smart-cures-clinical-research",
@@ -4342,6 +7375,11 @@
 "a": "org:spyre-therapeutics",
 "b": "trial:nct07652294",
 "r": "sponsors"
+},
+{
+"a": "org:stanley-medical-research-institute",
+"b": "paper:pmid-37563310",
+"r": "funded"
 },
 {
 "a": "org:stat-research-s-a",
@@ -4479,6 +7517,11 @@
 "r": "site_of"
 },
 {
+"a": "org:u-s-department-of-veterans-affairs",
+"b": "paper:pmid-34757143",
+"r": "funded"
+},
+{
 "a": "org:uci-health",
 "b": "trial:nct06233461",
 "r": "site_of"
@@ -4529,9 +7572,34 @@
 "r": "site_of"
 },
 {
+"a": "org:universidade-federal-de-sao-joao-del-rei",
+"b": "paper:pmid-29037679",
+"r": "funded"
+},
+{
+"a": "org:universita-cattolica-del-sacro-cuore",
+"b": "paper:pmid-37505311",
+"r": "funded"
+},
+{
+"a": "org:universita-di-bologna",
+"b": "paper:pmid-32313928",
+"r": "funded"
+},
+{
+"a": "org:university-grants-committee",
+"b": "paper:doi-10-3390-w14091436",
+"r": "funded"
+},
+{
 "a": "org:university-of-alabama-liver-center",
 "b": "trial:nct05242471",
 "r": "site_of"
+},
+{
+"a": "org:university-of-california",
+"b": "paper:pmid-31910984",
+"r": "funded"
 },
 {
 "a": "org:university-of-california-san-francisco",
@@ -4614,6 +7682,11 @@
 "r": "site_of"
 },
 {
+"a": "org:vetenskapsradet",
+"b": "paper:pmid-27821812",
+"r": "funded"
+},
+{
 "a": "org:vista-health-research",
 "b": "trial:nct04033445",
 "r": "site_of"
@@ -4622,6 +7695,21 @@
 "a": "org:vista-health-research",
 "b": "trial:nct05528510",
 "r": "site_of"
+},
+{
+"a": "org:vlaams-instituut-voor-biotechnologie",
+"b": "paper:pmid-33813134",
+"r": "funded"
+},
+{
+"a": "org:vlaamse-regering",
+"b": "paper:pmid-33813134",
+"r": "funded"
+},
+{
+"a": "org:walter-haefner-stiftung",
+"b": "paper:doi-10-1137-21m1424408",
+"r": "funded"
 },
 {
 "a": "org:washington-university-school-of-medicine",
@@ -4637,6 +7725,16 @@
 "a": "org:weill-cornell-medical-college-judith-jaffe-multiple-sclerosi",
 "b": "trial:nct05923073",
 "r": "site_of"
+},
+{
+"a": "org:wellcome-trust",
+"b": "paper:pmid-32242028",
+"r": "funded"
+},
+{
+"a": "org:wellcome-trust",
+"b": "paper:pmid-37563310",
+"r": "funded"
 },
 {
 "a": "org:wellness-clinical-research",
@@ -4659,7 +7757,102 @@
 "r": "site_of"
 },
 {
+"a": "paper:doi-10-1007-s00521-018-3358-8",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1007-s11664-018-6452-x",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1016-j-dyepig-2023-111289",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1016-j-est-2020-101561",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1016-j-matchemphys-2018-11-020",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1016-j-molliq-2020-112955",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1016-j-molliq-2021-117694",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1016-j-seppur-2022-122450",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1016-j-snb-2017-10-124",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1016-j-snb-2021-130399",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
 "a": "paper:doi-10-1093-ecco-jcc-jjaf231-461",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1117-12-2269507",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-1137-21m1424408",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-31635-ccschem-020-202000509",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-3390-agronomy10091368",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:doi-10-3390-w14091436",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-27321794",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-27821812",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-28768844",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-29037679",
 "b": "asset:abs101",
 "r": "cites_asset"
 },
@@ -4669,9 +7862,294 @@
 "r": "cites_asset"
 },
 {
+"a": "paper:pmid-29217423",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-30567665",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-32313928",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-32692074",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
+"a": "paper:pmid-33895641",
+"b": "asset:abs101",
+"r": "cites_asset"
+},
+{
 "a": "paper:pmid-34052837",
 "b": "asset:abs101",
 "r": "cites_asset"
+},
+{
+"a": "person:aart-a-van-der-wilt",
+"b": "org:maastricht-university-medical-centre",
+"r": "affiliated"
+},
+{
+"a": "person:aart-a-van-der-wilt",
+"b": "paper:pmid-32692074",
+"r": "authored"
+},
+{
+"a": "person:adam-s-butterworth",
+"b": "org:british-heart-foundation",
+"r": "affiliated"
+},
+{
+"a": "person:adam-s-butterworth",
+"b": "org:university-of-cambridge",
+"r": "affiliated"
+},
+{
+"a": "person:adam-s-butterworth",
+"b": "paper:pmid-37563310",
+"r": "authored"
+},
+{
+"a": "person:alexander-charles-ford",
+"b": "org:st-james-s-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:alexander-charles-ford",
+"b": "org:university-of-leeds",
+"r": "affiliated"
+},
+{
+"a": "person:alexander-charles-ford",
+"b": "paper:pmid-33049223",
+"r": "authored"
+},
+{
+"a": "person:alexander-charles-ford",
+"b": "paper:pmid-33721557",
+"r": "authored"
+},
+{
+"a": "person:alison-j-gareau",
+"b": "org:izaak-walton-killam-health-centre",
+"r": "affiliated"
+},
+{
+"a": "person:alison-j-gareau",
+"b": "paper:pmid-29217423",
+"r": "authored"
+},
+{
+"a": "person:ana-flavia-de-oliveira-e-silva",
+"b": "org:federal-university-of-sao-joao-del-rei",
+"r": "affiliated"
+},
+{
+"a": "person:ana-flavia-de-oliveira-e-silva",
+"b": "paper:pmid-29037679",
+"r": "authored"
+},
+{
+"a": "person:anders-e-lilja",
+"b": "paper:pmid-32313928",
+"r": "authored"
+},
+{
+"a": "person:andrew-w-kirkpatrick",
+"b": "org:alberta-health-services",
+"r": "affiliated"
+},
+{
+"a": "person:andrew-w-kirkpatrick",
+"b": "org:university-of-calgary",
+"r": "affiliated"
+},
+{
+"a": "person:andrew-w-kirkpatrick",
+"b": "paper:pmid-27321794",
+"r": "authored"
+},
+{
+"a": "person:aneta-ukomska",
+"b": "org:ukasiewicz-research-network-industrial-chemistry-institute",
+"r": "affiliated"
+},
+{
+"a": "person:aneta-ukomska",
+"b": "paper:doi-10-1016-j-molliq-2020-112955",
+"r": "authored"
+},
+{
+"a": "person:aneta-ukomska",
+"b": "paper:doi-10-1016-j-molliq-2021-117694",
+"r": "authored"
+},
+{
+"a": "person:antonino-spinelli",
+"b": "org:humanitas-university",
+"r": "affiliated"
+},
+{
+"a": "person:antonino-spinelli",
+"b": "org:irccs-humanitas-research-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:antonino-spinelli",
+"b": "paper:pmid-32191340",
+"r": "authored"
+},
+{
+"a": "person:aonghus-lavelle",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:aonghus-lavelle",
+"b": "org:sorbonne-universite",
+"r": "affiliated"
+},
+{
+"a": "person:aonghus-lavelle",
+"b": "paper:pmid-32076145",
+"r": "authored"
+},
+{
+"a": "person:ariel-ruiz-garcia",
+"b": "org:coventry-university",
+"r": "affiliated"
+},
+{
+"a": "person:ariel-ruiz-garcia",
+"b": "paper:doi-10-1007-s00521-018-3358-8",
+"r": "authored"
+},
+{
+"a": "person:axel-u-dignass",
+"b": "org:agaplesion-markus-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:axel-u-dignass",
+"b": "org:goethe-university-frankfurt",
+"r": "affiliated"
+},
+{
+"a": "person:axel-u-dignass",
+"b": "paper:pmid-33359090",
+"r": "authored"
+},
+{
+"a": "person:baha-moshiree",
+"b": "org:university-of-north-carolina-at-charlotte",
+"r": "affiliated"
+},
+{
+"a": "person:baha-moshiree",
+"b": "paper:pmid-33315591",
+"r": "authored"
+},
+{
+"a": "person:balasubramanian-kandasubramanian",
+"b": "org:defence-institute-of-advanced-technology",
+"r": "affiliated"
+},
+{
+"a": "person:balasubramanian-kandasubramanian",
+"b": "org:ministry-of-defence",
+"r": "affiliated"
+},
+{
+"a": "person:balasubramanian-kandasubramanian",
+"b": "paper:doi-10-1007-s11664-018-6452-x",
+"r": "authored"
+},
+{
+"a": "person:balasubramanian-kandasubramanian",
+"b": "paper:doi-10-1016-j-matchemphys-2018-11-020",
+"r": "authored"
+},
+{
+"a": "person:blanca-espinet",
+"b": "org:hospital-del-mar",
+"r": "affiliated"
+},
+{
+"a": "person:blanca-espinet",
+"b": "org:municipal-institute-for-medical-research",
+"r": "affiliated"
+},
+{
+"a": "person:blanca-espinet",
+"b": "paper:pmid-27821812",
+"r": "authored"
+},
+{
+"a": "person:bo-lai",
+"b": "org:sichuan-university",
+"r": "affiliated"
+},
+{
+"a": "person:bo-lai",
+"b": "paper:doi-10-1016-j-seppur-2022-122450",
+"r": "authored"
+},
+{
+"a": "person:borut-strukelj",
+"b": "org:jozef-stefan-institute",
+"r": "affiliated"
+},
+{
+"a": "person:borut-strukelj",
+"b": "org:university-of-ljubljana",
+"r": "affiliated"
+},
+{
+"a": "person:borut-strukelj",
+"b": "paper:pmid-33139627",
+"r": "authored"
+},
+{
+"a": "person:brian-e-lacy",
+"b": "org:mayo-clinic",
+"r": "affiliated"
+},
+{
+"a": "person:brian-e-lacy",
+"b": "org:mayo-clinic-in-florida",
+"r": "affiliated"
+},
+{
+"a": "person:brian-e-lacy",
+"b": "paper:pmid-33315591",
+"r": "authored"
+},
+{
+"a": "person:brigida-barberio",
+"b": "org:azienda-ospedale-universita-padova",
+"r": "affiliated"
+},
+{
+"a": "person:brigida-barberio",
+"b": "org:university-of-padua",
+"r": "affiliated"
+},
+{
+"a": "person:brigida-barberio",
+"b": "paper:pmid-33721557",
+"r": "authored"
+},
+{
+"a": "person:carmen-arlotta",
+"b": "paper:doi-10-3390-agronomy10091368",
+"r": "authored"
 },
 {
 "a": "person:casper-steenholdt",
@@ -4689,6 +8167,106 @@
 "r": "authored"
 },
 {
+"a": "person:cezmi-a-akdis",
+"b": "org:ck-care",
+"r": "affiliated"
+},
+{
+"a": "person:cezmi-a-akdis",
+"b": "org:university-of-zurich",
+"r": "affiliated"
+},
+{
+"a": "person:cezmi-a-akdis",
+"b": "paper:pmid-33846604",
+"r": "authored"
+},
+{
+"a": "person:claudia-terezia-socol",
+"b": "org:university-of-oradea",
+"r": "affiliated"
+},
+{
+"a": "person:claudia-terezia-socol",
+"b": "paper:pmid-36225386",
+"r": "authored"
+},
+{
+"a": "person:curtis-huttenhower",
+"b": "org:broad-institute",
+"r": "affiliated"
+},
+{
+"a": "person:curtis-huttenhower",
+"b": "org:harvard-university",
+"r": "affiliated"
+},
+{
+"a": "person:curtis-huttenhower",
+"b": "paper:pmid-34784344",
+"r": "authored"
+},
+{
+"a": "person:dan-turner",
+"b": "org:hebrew-university-of-jerusalem",
+"r": "affiliated"
+},
+{
+"a": "person:dan-turner",
+"b": "org:shaare-zedek-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:dan-turner",
+"b": "paper:pmid-33359090",
+"r": "authored"
+},
+{
+"a": "person:daniel-ian-mcskimming",
+"b": "org:university-of-south-florida",
+"r": "affiliated"
+},
+{
+"a": "person:daniel-ian-mcskimming",
+"b": "paper:pmid-33076307",
+"r": "authored"
+},
+{
+"a": "person:danny-sims-waterhouse",
+"b": "org:university-of-nottingham",
+"r": "affiliated"
+},
+{
+"a": "person:danny-sims-waterhouse",
+"b": "paper:doi-10-1117-12-2269507",
+"r": "authored"
+},
+{
+"a": "person:daohong-zhang",
+"b": "org:northwest-a-f-university",
+"r": "affiliated"
+},
+{
+"a": "person:daohong-zhang",
+"b": "paper:doi-10-1016-j-snb-2021-130399",
+"r": "authored"
+},
+{
+"a": "person:david-t-rubin",
+"b": "org:university-of-chicago",
+"r": "affiliated"
+},
+{
+"a": "person:david-t-rubin",
+"b": "org:university-of-chicago-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:david-t-rubin",
+"b": "paper:pmid-34358489",
+"r": "authored"
+},
+{
 "a": "person:ditte-vangsbjerg-mogensen",
 "b": "org:copenhagen-university-hospital",
 "r": "affiliated"
@@ -4701,6 +8279,116 @@
 {
 "a": "person:ditte-vangsbjerg-mogensen",
 "b": "paper:pmid-29145599",
+"r": "authored"
+},
+{
+"a": "person:dominik-schroder",
+"b": "paper:doi-10-1137-21m1424408",
+"r": "authored"
+},
+{
+"a": "person:eamonn-m-m-quigley",
+"b": "org:houston-methodist",
+"r": "affiliated"
+},
+{
+"a": "person:eamonn-m-m-quigley",
+"b": "paper:pmid-31910984",
+"r": "authored"
+},
+{
+"a": "person:eric-tung-po-sze",
+"b": "org:hong-kong-metropolitan-university",
+"r": "affiliated"
+},
+{
+"a": "person:eric-tung-po-sze",
+"b": "paper:doi-10-3390-w14091436",
+"r": "authored"
+},
+{
+"a": "person:eva-maria-hennes",
+"b": "paper:pmid-28768844",
+"r": "authored"
+},
+{
+"a": "person:faming-zhang",
+"b": "org:nanjing-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:faming-zhang",
+"b": "org:second-affiliated-hospital-of-nanjing-medical-university",
+"r": "affiliated"
+},
+{
+"a": "person:faming-zhang",
+"b": "paper:pmid-34935363",
+"r": "authored"
+},
+{
+"a": "person:federica-di-vincenzo",
+"b": "org:agostino-gemelli-university-polyclinic",
+"r": "affiliated"
+},
+{
+"a": "person:federica-di-vincenzo",
+"b": "org:universita-cattolica-del-sacro-cuore",
+"r": "affiliated"
+},
+{
+"a": "person:federica-di-vincenzo",
+"b": "paper:pmid-37505311",
+"r": "authored"
+},
+{
+"a": "person:franco-scaldaferri",
+"b": "org:agostino-gemelli-university-polyclinic",
+"r": "affiliated"
+},
+{
+"a": "person:franco-scaldaferri",
+"b": "org:universita-cattolica-del-sacro-cuore",
+"r": "affiliated"
+},
+{
+"a": "person:franco-scaldaferri",
+"b": "paper:pmid-37505311",
+"r": "authored"
+},
+{
+"a": "person:frank-j-gonzalez",
+"b": "org:national-cancer-institute",
+"r": "affiliated"
+},
+{
+"a": "person:frank-j-gonzalez",
+"b": "org:national-institutes-of-health",
+"r": "affiliated"
+},
+{
+"a": "person:frank-j-gonzalez",
+"b": "paper:pmid-35271802",
+"r": "authored"
+},
+{
+"a": "person:frank-pereira-de-andrade",
+"b": "org:federal-university-of-sao-joao-del-rei",
+"r": "affiliated"
+},
+{
+"a": "person:frank-pereira-de-andrade",
+"b": "paper:pmid-29037679",
+"r": "authored"
+},
+{
+"a": "person:gangfeng-ouyang",
+"b": "org:sun-yat-sen-university",
+"r": "affiliated"
+},
+{
+"a": "person:gangfeng-ouyang",
+"b": "paper:pmid-30567665",
 "r": "authored"
 },
 {
@@ -4716,6 +8404,256 @@
 {
 "a": "person:gerhard-carl-hildebrandt",
 "b": "paper:pmid-34052837",
+"r": "authored"
+},
+{
+"a": "person:gerhard-rogler",
+"b": "org:university-hospital-zurich",
+"r": "affiliated"
+},
+{
+"a": "person:gerhard-rogler",
+"b": "paper:pmid-34358489",
+"r": "authored"
+},
+{
+"a": "person:gianluca-ianiro",
+"b": "org:agostino-gemelli-university-polyclinic",
+"r": "affiliated"
+},
+{
+"a": "person:gianluca-ianiro",
+"b": "org:universita-cattolica-del-sacro-cuore",
+"r": "affiliated"
+},
+{
+"a": "person:gianluca-ianiro",
+"b": "paper:pmid-37432351",
+"r": "authored"
+},
+{
+"a": "person:gianluca-pellino",
+"b": "org:university-of-campania-luigi-vanvitelli",
+"r": "affiliated"
+},
+{
+"a": "person:gianluca-pellino",
+"b": "org:vall-d-hebron-hospital-universitari",
+"r": "affiliated"
+},
+{
+"a": "person:gianluca-pellino",
+"b": "paper:pmid-32191340",
+"r": "authored"
+},
+{
+"a": "person:gilaad-g-kaplan",
+"b": "org:university-of-calgary",
+"r": "affiliated"
+},
+{
+"a": "person:gilaad-g-kaplan",
+"b": "paper:pmid-33033392",
+"r": "authored"
+},
+{
+"a": "person:giorgio-cipolloni",
+"b": "paper:doi-10-1137-21m1424408",
+"r": "authored"
+},
+{
+"a": "person:giulia-roda",
+"b": "org:irccs-humanitas-research-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:giulia-roda",
+"b": "paper:pmid-32242028",
+"r": "authored"
+},
+{
+"a": "person:glen-a-doherty",
+"b": "org:st-vincent-s-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:glen-a-doherty",
+"b": "paper:doi-10-1093-ecco-jcc-jjab178",
+"r": "authored"
+},
+{
+"a": "person:gonzalo-blanco",
+"b": "org:hospital-del-mar",
+"r": "affiliated"
+},
+{
+"a": "person:gonzalo-blanco",
+"b": "org:universitat-pompeu-fabra",
+"r": "affiliated"
+},
+{
+"a": "person:gonzalo-blanco",
+"b": "paper:pmid-27821812",
+"r": "authored"
+},
+{
+"a": "person:harry-sokol",
+"b": "org:agroparistech",
+"r": "affiliated"
+},
+{
+"a": "person:harry-sokol",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:harry-sokol",
+"b": "paper:pmid-32076145",
+"r": "authored"
+},
+{
+"a": "person:himel-mallick",
+"b": "org:broad-institute",
+"r": "affiliated"
+},
+{
+"a": "person:himel-mallick",
+"b": "org:harvard-university",
+"r": "affiliated"
+},
+{
+"a": "person:himel-mallick",
+"b": "paper:pmid-34784344",
+"r": "authored"
+},
+{
+"a": "person:hoishing-lo",
+"b": "org:stockholm-university",
+"r": "affiliated"
+},
+{
+"a": "person:hoishing-lo",
+"b": "paper:doi-10-3390-w14091436",
+"r": "authored"
+},
+{
+"a": "person:hongkai-zhu",
+"b": "org:new-york-university",
+"r": "affiliated"
+},
+{
+"a": "person:hongkai-zhu",
+"b": "paper:pmid-33895641",
+"r": "authored"
+},
+{
+"a": "person:huan-wang",
+"b": "org:key-laboratory-of-synthetic-and-natural-functional-molecular",
+"r": "affiliated"
+},
+{
+"a": "person:huan-wang",
+"b": "org:northwest-university",
+"r": "affiliated"
+},
+{
+"a": "person:huan-wang",
+"b": "paper:doi-10-1016-j-snb-2017-10-124",
+"r": "authored"
+},
+{
+"a": "person:jameel-mohammed-al-khayri",
+"b": "org:king-faisal-university",
+"r": "affiliated"
+},
+{
+"a": "person:jameel-mohammed-al-khayri",
+"b": "paper:pmid-35566252",
+"r": "authored"
+},
+{
+"a": "person:james-e-peters",
+"b": "org:british-heart-foundation",
+"r": "affiliated"
+},
+{
+"a": "person:james-e-peters",
+"b": "org:university-of-cambridge",
+"r": "affiliated"
+},
+{
+"a": "person:james-e-peters",
+"b": "paper:pmid-37563310",
+"r": "authored"
+},
+{
+"a": "person:jarno-melenhorst",
+"b": "org:maastricht-university-medical-centre",
+"r": "affiliated"
+},
+{
+"a": "person:jarno-melenhorst",
+"b": "paper:pmid-32692074",
+"r": "authored"
+},
+{
+"a": "person:ji-youn-yoo",
+"b": "org:university-of-south-florida",
+"r": "affiliated"
+},
+{
+"a": "person:ji-youn-yoo",
+"b": "paper:pmid-33076307",
+"r": "authored"
+},
+{
+"a": "person:jiannan-li",
+"b": "org:jilin-university",
+"r": "affiliated"
+},
+{
+"a": "person:jiannan-li",
+"b": "org:second-affiliated-hospital-of-jilin-university",
+"r": "affiliated"
+},
+{
+"a": "person:jiannan-li",
+"b": "paper:pmid-34988090",
+"r": "authored"
+},
+{
+"a": "person:jianqiao-xu",
+"b": "org:sun-yat-sen-university",
+"r": "affiliated"
+},
+{
+"a": "person:jianqiao-xu",
+"b": "paper:pmid-30567665",
+"r": "authored"
+},
+{
+"a": "person:jie-cai",
+"b": "org:center-for-cancer-research",
+"r": "affiliated"
+},
+{
+"a": "person:jie-cai",
+"b": "org:national-cancer-institute",
+"r": "affiliated"
+},
+{
+"a": "person:jie-cai",
+"b": "paper:pmid-35271802",
+"r": "authored"
+},
+{
+"a": "person:jing-hua-zhao",
+"b": "org:university-of-cambridge",
+"r": "affiliated"
+},
+{
+"a": "person:jing-hua-zhao",
+"b": "paper:pmid-37563310",
 "r": "authored"
 },
 {
@@ -4729,6 +8667,221 @@
 "r": "investigator"
 },
 {
+"a": "person:john-b-wong",
+"b": "org:tufts-university",
+"r": "affiliated"
+},
+{
+"a": "person:john-b-wong",
+"b": "paper:doi-10-1001-jama-2021-6238",
+"r": "authored"
+},
+{
+"a": "person:john-brent-richards",
+"b": "org:jewish-general-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:john-brent-richards",
+"b": "org:king-s-college-london",
+"r": "affiliated"
+},
+{
+"a": "person:john-brent-richards",
+"b": "paper:pmid-36635386",
+"r": "authored"
+},
+{
+"a": "person:john-t-chang",
+"b": "org:university-of-california-san-diego",
+"r": "affiliated"
+},
+{
+"a": "person:john-t-chang",
+"b": "org:va-san-diego-healthcare-system",
+"r": "affiliated"
+},
+{
+"a": "person:john-t-chang",
+"b": "paper:pmid-33382932",
+"r": "authored"
+},
+{
+"a": "person:joseph-w-windsor",
+"b": "org:university-of-calgary",
+"r": "affiliated"
+},
+{
+"a": "person:joseph-w-windsor",
+"b": "paper:pmid-33033392",
+"r": "authored"
+},
+{
+"a": "person:karina-w-davidson",
+"b": "org:feinstein-institute-for-medical-research",
+"r": "affiliated"
+},
+{
+"a": "person:karina-w-davidson",
+"b": "org:northwell-health",
+"r": "affiliated"
+},
+{
+"a": "person:karina-w-davidson",
+"b": "paper:doi-10-1001-jama-2021-6238",
+"r": "authored"
+},
+{
+"a": "person:kerri-l-glassner",
+"b": "org:houston-methodist",
+"r": "affiliated"
+},
+{
+"a": "person:kerri-l-glassner",
+"b": "paper:pmid-31910984",
+"r": "authored"
+},
+{
+"a": "person:kevin-m-rostasy",
+"b": "paper:pmid-28768844",
+"r": "authored"
+},
+{
+"a": "person:kevin-paul-plucknett",
+"b": "org:dalhousie-university",
+"r": "affiliated"
+},
+{
+"a": "person:kevin-paul-plucknett",
+"b": "paper:doi-10-1016-j-est-2020-101561",
+"r": "authored"
+},
+{
+"a": "person:kurunthachalam-kannan",
+"b": "org:new-york-university",
+"r": "affiliated"
+},
+{
+"a": "person:kurunthachalam-kannan",
+"b": "paper:pmid-33895641",
+"r": "authored"
+},
+{
+"a": "person:lili-ma",
+"b": "org:sichuan-university",
+"r": "affiliated"
+},
+{
+"a": "person:lili-ma",
+"b": "org:southwest-petroleum-university",
+"r": "affiliated"
+},
+{
+"a": "person:lili-ma",
+"b": "paper:doi-10-1016-j-seppur-2022-122450",
+"r": "authored"
+},
+{
+"a": "person:lin-cheng",
+"b": "org:northwest-university",
+"r": "affiliated"
+},
+{
+"a": "person:lin-cheng",
+"b": "paper:doi-10-31635-ccschem-020-202000509",
+"r": "authored"
+},
+{
+"a": "person:liping-cao",
+"b": "org:northwest-university",
+"r": "affiliated"
+},
+{
+"a": "person:liping-cao",
+"b": "org:state-key-laboratory-of-luminescent-materials-and-devices",
+"r": "affiliated"
+},
+{
+"a": "person:liping-cao",
+"b": "paper:doi-10-31635-ccschem-020-202000509",
+"r": "authored"
+},
+{
+"a": "person:marco-caruso",
+"b": "paper:doi-10-3390-agronomy10091368",
+"r": "authored"
+},
+{
+"a": "person:mary-eugenia-rinella",
+"b": "org:university-of-chicago",
+"r": "affiliated"
+},
+{
+"a": "person:mary-eugenia-rinella",
+"b": "paper:pmid-36727674",
+"r": "authored"
+},
+{
+"a": "person:matthieu-komorowski",
+"b": "org:charing-cross-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:matthieu-komorowski",
+"b": "org:imperial-college-healthcare-nhs-trust",
+"r": "affiliated"
+},
+{
+"a": "person:matthieu-komorowski",
+"b": "paper:pmid-27321794",
+"r": "authored"
+},
+{
+"a": "person:md-mominur-rahman",
+"b": "org:daffodil-international-university",
+"r": "affiliated"
+},
+{
+"a": "person:md-mominur-rahman",
+"b": "paper:pmid-35011465",
+"r": "authored"
+},
+{
+"a": "person:md-sahab-uddin",
+"b": "org:southeast-university",
+"r": "affiliated"
+},
+{
+"a": "person:md-sahab-uddin",
+"b": "paper:pmid-35011465",
+"r": "authored"
+},
+{
+"a": "person:michael-camilleri",
+"b": "org:mayo-clinic",
+"r": "affiliated"
+},
+{
+"a": "person:michael-camilleri",
+"b": "paper:pmid-33049223",
+"r": "authored"
+},
+{
+"a": "person:michael-g-schwendinger",
+"b": "paper:pmid-32313928",
+"r": "authored"
+},
+{
+"a": "person:muhammad-afzaal",
+"b": "org:government-college-university-faisalabad",
+"r": "affiliated"
+},
+{
+"a": "person:muhammad-afzaal",
+"b": "paper:pmid-36225386",
+"r": "authored"
+},
+{
 "a": "person:muhammad-n-aslam",
 "b": "org:university-of-michigan",
 "r": "affiliated"
@@ -4737,6 +8890,96 @@
 "a": "person:muhammad-n-aslam",
 "b": "trial:nct07501078",
 "r": "investigator"
+},
+{
+"a": "person:muneera-qassim-al-mssallem",
+"b": "org:king-faisal-university",
+"r": "affiliated"
+},
+{
+"a": "person:muneera-qassim-al-mssallem",
+"b": "paper:pmid-35566252",
+"r": "authored"
+},
+{
+"a": "person:negar-naderpoor",
+"b": "org:monash-university",
+"r": "affiliated"
+},
+{
+"a": "person:negar-naderpoor",
+"b": "paper:pmid-33086688",
+"r": "authored"
+},
+{
+"a": "person:pei-fang-wei",
+"b": "paper:pmid-32358325",
+"r": "authored"
+},
+{
+"a": "person:peter-w-nickerson",
+"b": "org:shared-health",
+"r": "affiliated"
+},
+{
+"a": "person:peter-w-nickerson",
+"b": "org:university-of-manitoba",
+"r": "affiliated"
+},
+{
+"a": "person:peter-w-nickerson",
+"b": "paper:pmid-29217423",
+"r": "authored"
+},
+{
+"a": "person:praveen-nagella",
+"b": "org:christ-university",
+"r": "affiliated"
+},
+{
+"a": "person:praveen-nagella",
+"b": "paper:pmid-35566252",
+"r": "authored"
+},
+{
+"a": "person:raja-shunmugam",
+"b": "org:indian-institute-of-science-education-and-research-kolkata",
+"r": "affiliated"
+},
+{
+"a": "person:raja-shunmugam",
+"b": "paper:doi-10-1016-j-matchemphys-2018-11-020",
+"r": "authored"
+},
+{
+"a": "person:rana-muhammad-aadil",
+"b": "org:university-of-agriculture-faisalabad",
+"r": "affiliated"
+},
+{
+"a": "person:rana-muhammad-aadil",
+"b": "paper:pmid-36225386",
+"r": "authored"
+},
+{
+"a": "person:raviprakash-magisetty",
+"b": "org:defence-institute-of-advanced-technology",
+"r": "affiliated"
+},
+{
+"a": "person:raviprakash-magisetty",
+"b": "org:ministry-of-defence",
+"r": "affiliated"
+},
+{
+"a": "person:raviprakash-magisetty",
+"b": "paper:doi-10-1007-s11664-018-6452-x",
+"r": "authored"
+},
+{
+"a": "person:raviprakash-magisetty",
+"b": "paper:doi-10-1016-j-matchemphys-2018-11-020",
+"r": "authored"
 },
 {
 "a": "person:reena-kumari",
@@ -4754,6 +8997,196 @@
 "r": "authored"
 },
 {
+"a": "person:richard-leach",
+"b": "org:university-of-nottingham",
+"r": "affiliated"
+},
+{
+"a": "person:richard-leach",
+"b": "paper:doi-10-1117-12-2269507",
+"r": "authored"
+},
+{
+"a": "person:riley-cook",
+"b": "org:dalhousie-university",
+"r": "affiliated"
+},
+{
+"a": "person:riley-cook",
+"b": "paper:doi-10-1016-j-est-2020-101561",
+"r": "authored"
+},
+{
+"a": "person:rohit-seth-loomba",
+"b": "org:university-of-california-san-diego",
+"r": "affiliated"
+},
+{
+"a": "person:rohit-seth-loomba",
+"b": "paper:pmid-36727674",
+"r": "authored"
+},
+{
+"a": "person:runchun-xu",
+"b": "org:chengdu-university-of-traditional-chinese-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:runchun-xu",
+"b": "paper:pmid-34754179",
+"r": "authored"
+},
+{
+"a": "person:s-deleu",
+"b": "org:ku-leuven",
+"r": "affiliated"
+},
+{
+"a": "person:s-deleu",
+"b": "paper:pmid-33813134",
+"r": "authored"
+},
+{
+"a": "person:sandip-mondal",
+"b": "org:sun-yat-sen-university",
+"r": "affiliated"
+},
+{
+"a": "person:sandip-mondal",
+"b": "paper:pmid-30567665",
+"r": "authored"
+},
+{
+"a": "person:severine-vermeire",
+"b": "org:ku-leuven",
+"r": "affiliated"
+},
+{
+"a": "person:severine-vermeire",
+"b": "org:universitair-ziekenhuis-leuven",
+"r": "affiliated"
+},
+{
+"a": "person:severine-vermeire",
+"b": "paper:pmid-33813134",
+"r": "authored"
+},
+{
+"a": "person:shailja-c-shah",
+"b": "org:university-of-california-san-diego",
+"r": "affiliated"
+},
+{
+"a": "person:shailja-c-shah",
+"b": "org:va-san-diego-healthcare-system",
+"r": "affiliated"
+},
+{
+"a": "person:shailja-c-shah",
+"b": "paper:pmid-34757143",
+"r": "authored"
+},
+{
+"a": "person:sidney-man-ngai-chan",
+"b": "org:hong-kong-metropolitan-university",
+"r": "affiliated"
+},
+{
+"a": "person:sidney-man-ngai-chan",
+"b": "paper:doi-10-3390-w14091436",
+"r": "authored"
+},
+{
+"a": "person:silvio-danese",
+"b": "org:humanitas-university",
+"r": "affiliated"
+},
+{
+"a": "person:silvio-danese",
+"b": "org:irccs-humanitas-research-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:silvio-danese",
+"b": "paper:pmid-32242028",
+"r": "authored"
+},
+{
+"a": "person:sofia-ramiro",
+"b": "org:leiden-university-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:sofia-ramiro",
+"b": "org:zuyderland-medisch-centrum",
+"r": "affiliated"
+},
+{
+"a": "person:sofia-ramiro",
+"b": "paper:pmid-36270658",
+"r": "authored"
+},
+{
+"a": "person:spase-stojanov",
+"b": "org:jozef-stefan-institute",
+"r": "affiliated"
+},
+{
+"a": "person:spase-stojanov",
+"b": "org:university-of-ljubljana",
+"r": "affiliated"
+},
+{
+"a": "person:spase-stojanov",
+"b": "paper:pmid-33139627",
+"r": "authored"
+},
+{
+"a": "person:steven-h-itzkowitz",
+"b": "org:icahn-school-of-medicine-at-mount-sinai",
+"r": "affiliated"
+},
+{
+"a": "person:steven-h-itzkowitz",
+"b": "paper:pmid-34757143",
+"r": "authored"
+},
+{
+"a": "person:taku-kobayashi",
+"b": "org:kitasato-institute-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:taku-kobayashi",
+"b": "org:kitasato-university",
+"r": "affiliated"
+},
+{
+"a": "person:taku-kobayashi",
+"b": "paper:pmid-32913180",
+"r": "authored"
+},
+{
+"a": "person:talha-bin-emran",
+"b": "org:bgc-trust-university-bangladesh",
+"r": "affiliated"
+},
+{
+"a": "person:talha-bin-emran",
+"b": "paper:pmid-35011465",
+"r": "authored"
+},
+{
+"a": "person:tangxin-xiao",
+"b": "org:changzhou-university",
+"r": "affiliated"
+},
+{
+"a": "person:tangxin-xiao",
+"b": "paper:doi-10-1016-j-dyepig-2023-111289",
+"r": "authored"
+},
+{
 "a": "person:thiago-da-silva-cornelio",
 "b": "org:faculdade-de-ciencias-medicas-da-santa-casa-de-sao-paulo",
 "r": "affiliated"
@@ -4764,6 +9197,81 @@
 "r": "authored"
 },
 {
+"a": "person:tim-raine",
+"b": "org:addenbrooke-s-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:tim-raine",
+"b": "org:cambridge-university-hospitals-nhs-foundation-trust",
+"r": "affiliated"
+},
+{
+"a": "person:tim-raine",
+"b": "paper:doi-10-1093-ecco-jcc-jjab178",
+"r": "authored"
+},
+{
+"a": "person:toshifumi-hibi",
+"b": "org:kitasato-institute-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:toshifumi-hibi",
+"b": "org:kitasato-university",
+"r": "affiliated"
+},
+{
+"a": "person:toshifumi-hibi",
+"b": "paper:pmid-32913180",
+"r": "authored"
+},
+{
+"a": "person:urszula-domanska",
+"b": "org:ukasiewicz-research-network-industrial-chemistry-institute",
+"r": "affiliated"
+},
+{
+"a": "person:urszula-domanska",
+"b": "org:university-of-kwazulu-natal",
+"r": "affiliated"
+},
+{
+"a": "person:urszula-domanska",
+"b": "paper:doi-10-1016-j-molliq-2020-112955",
+"r": "authored"
+},
+{
+"a": "person:urszula-domanska",
+"b": "paper:doi-10-1016-j-molliq-2021-117694",
+"r": "authored"
+},
+{
+"a": "person:us-preventive-services-task-force",
+"b": "org:feinstein-institute-for-medical-research",
+"r": "affiliated"
+},
+{
+"a": "person:us-preventive-services-task-force",
+"b": "org:northwell-health",
+"r": "affiliated"
+},
+{
+"a": "person:us-preventive-services-task-force",
+"b": "paper:doi-10-1001-jama-2021-6238",
+"r": "authored"
+},
+{
+"a": "person:vasile-palade",
+"b": "org:coventry-university",
+"r": "affiliated"
+},
+{
+"a": "person:vasile-palade",
+"b": "paper:doi-10-1007-s00521-018-3358-8",
+"r": "authored"
+},
+{
 "a": "person:w-rodrigues-de-freitas-junior",
 "b": "org:faculdade-de-ciencias-medicas-da-santa-casa-de-sao-paulo",
 "r": "affiliated"
@@ -4771,6 +9279,166 @@
 {
 "a": "person:w-rodrigues-de-freitas-junior",
 "b": "paper:doi-10-1093-ecco-jcc-jjaf231-461",
+"r": "authored"
+},
+{
+"a": "person:william-g-fusco",
+"b": "org:agostino-gemelli-university-polyclinic",
+"r": "affiliated"
+},
+{
+"a": "person:william-g-fusco",
+"b": "org:universita-cattolica-del-sacro-cuore",
+"r": "affiliated"
+},
+{
+"a": "person:william-g-fusco",
+"b": "paper:pmid-37432351",
+"r": "authored"
+},
+{
+"a": "person:xiaoqiang-sun",
+"b": "org:changzhou-university",
+"r": "affiliated"
+},
+{
+"a": "person:xiaoqiang-sun",
+"b": "paper:doi-10-1016-j-dyepig-2023-111289",
+"r": "authored"
+},
+{
+"a": "person:xuechi-yin",
+"b": "org:northwest-a-f-university",
+"r": "affiliated"
+},
+{
+"a": "person:xuechi-yin",
+"b": "paper:doi-10-1016-j-snb-2021-130399",
+"r": "authored"
+},
+{
+"a": "person:yan-zhang",
+"b": "org:nanjing-university",
+"r": "affiliated"
+},
+{
+"a": "person:yan-zhang",
+"b": "org:state-key-laboratory-of-pollution-control-and-resource-reuse",
+"r": "affiliated"
+},
+{
+"a": "person:yan-zhang",
+"b": "paper:pmid-34935363",
+"r": "authored"
+},
+{
+"a": "person:yiheng-chen",
+"b": "org:jewish-general-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:yiheng-chen",
+"b": "org:lady-davis-institute-for-medical-research",
+"r": "affiliated"
+},
+{
+"a": "person:yiheng-chen",
+"b": "paper:pmid-36635386",
+"r": "authored"
+},
+{
+"a": "person:ying-peng",
+"b": "org:chengdu-university-of-traditional-chinese-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:ying-peng",
+"b": "paper:pmid-34754179",
+"r": "authored"
+},
+{
+"a": "person:yuan-guo",
+"b": "org:key-laboratory-of-synthetic-and-natural-functional-molecular",
+"r": "affiliated"
+},
+{
+"a": "person:yuan-guo",
+"b": "org:northwest-university",
+"r": "affiliated"
+},
+{
+"a": "person:yuan-guo",
+"b": "paper:doi-10-1016-j-snb-2017-10-124",
+"r": "authored"
+},
+{
+"a": "person:yucheng-liu",
+"b": "org:southwest-petroleum-university",
+"r": "affiliated"
+},
+{
+"a": "person:yucheng-liu",
+"b": "paper:doi-10-1016-j-seppur-2022-122450",
+"r": "authored"
+},
+{
+"a": "person:yuet-tung-tse",
+"b": "org:hong-kong-metropolitan-university",
+"r": "affiliated"
+},
+{
+"a": "person:yuet-tung-tse",
+"b": "paper:doi-10-3390-w14091436",
+"r": "authored"
+},
+{
+"a": "person:zahraa-al-bander",
+"b": "org:monash-university",
+"r": "affiliated"
+},
+{
+"a": "person:zahraa-al-bander",
+"b": "paper:pmid-33086688",
+"r": "authored"
+},
+{
+"a": "person:zehua-yan",
+"b": "org:nanjing-university",
+"r": "affiliated"
+},
+{
+"a": "person:zehua-yan",
+"b": "org:state-key-laboratory-of-pollution-control-and-resource-reuse",
+"r": "affiliated"
+},
+{
+"a": "person:zehua-yan",
+"b": "paper:pmid-34935363",
+"r": "authored"
+},
+{
+"a": "person:zhaobei-cai",
+"b": "org:jilin-university",
+"r": "affiliated"
+},
+{
+"a": "person:zhaobei-cai",
+"b": "org:second-affiliated-hospital-of-jilin-university",
+"r": "affiliated"
+},
+{
+"a": "person:zhaobei-cai",
+"b": "paper:pmid-34988090",
+"r": "authored"
+},
+{
+"a": "person:zhimin-chen",
+"b": "org:chengdu-university-of-traditional-chinese-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:zhimin-chen",
+"b": "paper:pmid-34754179",
 "r": "authored"
 }
 ]
