@@ -1,6 +1,6 @@
 {
 "assetId": "arina1",
-"updated": "2026-11-17",
+"updated": "2026-11-18",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 6,
@@ -15,6 +15,54 @@
 "sub": "Non-CF bronchiectasis",
 "url": "",
 "c": ""
+},
+{
+"k": "trial:nct03226431",
+"t": "trial",
+"n": "Use of ARINA-1 in an Intermediate Size Patient Population of Bilateral Lung Transplant Pat",
+"sub": "P1 · completed · 2017-2019",
+"url": "https://clinicaltrials.gov/study/NCT03226431",
+"c": ""
+},
+{
+"k": "org:duke-university",
+"t": "academic",
+"n": "Duke University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:duke-health",
+"t": "hospital",
+"n": "Duke Health",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:omar-mohamedaly",
+"t": "person",
+"n": "Omar Mohamedaly",
+"sub": "principal investigator · Duke Health",
+"url": "",
+"c": ""
+},
+{
+"k": "person:lorenzo-zaffiri",
+"t": "person",
+"n": "Lorenzo Zaffiri",
+"sub": "principal investigator · Duke Health",
+"url": "",
+"c": ""
+},
+{
+"k": "org:duke-university-medical-center",
+"t": "hospital",
+"n": "Duke University Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
 },
 {
 "k": "trial:nct05654922",
@@ -212,54 +260,6 @@
 "k": "org:inova-fairfax-hospital",
 "t": "hospital",
 "n": "Inova Fairfax Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "trial:nct03226431",
-"t": "trial",
-"n": "Use of ARINA-1 in an Intermediate Size Patient Population of Bilateral Lung Transplant Pat",
-"sub": "P1 · completed · 2017-2019",
-"url": "https://clinicaltrials.gov/study/NCT03226431",
-"c": ""
-},
-{
-"k": "org:duke-university",
-"t": "academic",
-"n": "Duke University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:duke-health",
-"t": "hospital",
-"n": "Duke Health",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:omar-mohamedaly",
-"t": "person",
-"n": "Omar Mohamedaly",
-"sub": "principal investigator · Duke Health",
-"url": "",
-"c": ""
-},
-{
-"k": "person:lorenzo-zaffiri",
-"t": "person",
-"n": "Lorenzo Zaffiri",
-"sub": "principal investigator · Duke Health",
-"url": "",
-"c": ""
-},
-{
-"k": "org:duke-university-medical-center",
-"t": "hospital",
-"n": "Duke University Medical Center",
 "sub": "",
 "url": "",
 "c": "United States"
@@ -897,42 +897,10 @@
 "c": "GB"
 },
 {
-"k": "paper:pmid-36809189",
-"t": "paper",
-"n": "Mucociliary clearance augmenting drugs block SARS-CoV-2 replication in human airway epithe",
-"sub": "American Journal of Physiology-Lung Cellular and Molecular Physiology 2023 · cited 8",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36809189",
-"c": ""
-},
-{
-"k": "person:javier-campos",
-"t": "person",
-"n": "Javier Campos",
-"sub": "University of Alabama at Birmingham",
-"url": "https://orcid.org/0000-0002-2693-0885",
-"c": "US"
-},
-{
-"k": "org:cystic-fibrosis-foundation",
-"t": "funder",
-"n": "Cystic Fibrosis Foundation",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-institute-of-general-medical-sciences",
-"t": "funder",
-"n": "National Institute of General Medical Sciences",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:doi-10-63544-ijss-v5i1-217",
 "t": "paper",
 "n": "The Impact of Educational Leadership Styles on Teacher Productivity: A Comprehensive Revie",
-"sub": "Inverge Journal of Social Sciences 2026 · cited 7",
+"sub": "Inverge Journal of Social Sciences 2026 · cited 8",
 "url": "https://doi.org/10.63544/ijss.v5i1.217",
 "c": ""
 },
@@ -967,6 +935,38 @@
 "sub": "",
 "url": "",
 "c": "PK"
+},
+{
+"k": "paper:pmid-36809189",
+"t": "paper",
+"n": "Mucociliary clearance augmenting drugs block SARS-CoV-2 replication in human airway epithe",
+"sub": "American Journal of Physiology-Lung Cellular and Molecular Physiology 2023 · cited 8",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36809189",
+"c": ""
+},
+{
+"k": "person:javier-campos",
+"t": "person",
+"n": "Javier Campos",
+"sub": "University of Alabama at Birmingham",
+"url": "https://orcid.org/0000-0002-2693-0885",
+"c": "US"
+},
+{
+"k": "org:cystic-fibrosis-foundation",
+"t": "funder",
+"n": "Cystic Fibrosis Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institute-of-general-medical-sciences",
+"t": "funder",
+"n": "National Institute of General Medical Sciences",
+"sub": "",
+"url": "",
+"c": ""
 },
 {
 "k": "paper:doi-10-18653-v1-2026-acl-long-1592",
@@ -1052,7 +1052,7 @@
 "k": "paper:oa-w2940317635",
 "t": "paper",
 "n": "Hubungan Lamanya Menjalani Hemodialisis dengan Status Zat Besi pada Penderita Gagal Ginjal",
-"sub": "UMS Library Center of Academic Activities (Universitas Surakarta) 2019 · cited 5",
+"sub": "UMS Library Center of Academic Activities (Universitas Muhammadiyah Surakarta) 2019 · cite",
 "url": "https://openalex.org/W2940317635",
 "c": ""
 },
@@ -1417,6 +1417,38 @@
 "c": "US"
 },
 {
+"k": "paper:pmid-38810005",
+"t": "paper",
+"n": "PROBAST Assessment of Machine Learning: Comment",
+"sub": "Anesthesiology 2024 · cited 2",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38810005",
+"c": ""
+},
+{
+"k": "person:elena-giovanna-bignami",
+"t": "person",
+"n": "Elena Giovanna Bignami",
+"sub": "University of Parma",
+"url": "https://orcid.org/0000-0001-9985-4126",
+"c": "IT"
+},
+{
+"k": "org:university-of-parma",
+"t": "academic",
+"n": "University of Parma",
+"sub": "",
+"url": "",
+"c": "IT"
+},
+{
+"k": "person:valentina-bellini",
+"t": "person",
+"n": "Valentina Bellini",
+"sub": "",
+"url": "https://orcid.org/0000-0001-7993-9026",
+"c": ""
+},
+{
 "k": "paper:doi-10-1093-mam-ozae044-913",
 "t": "paper",
 "n": "Newcomer’s Guide into Optimal Data Acquisition for Electron Ptychography",
@@ -1455,38 +1487,6 @@
 "sub": "Paul Scherrer Institute",
 "url": "https://orcid.org/0000-0002-0961-731X",
 "c": "CH"
-},
-{
-"k": "paper:pmid-38810005",
-"t": "paper",
-"n": "PROBAST Assessment of Machine Learning: Comment",
-"sub": "Anesthesiology 2024 · cited 2",
-"url": "https://pubmed.ncbi.nlm.nih.gov/38810005",
-"c": ""
-},
-{
-"k": "person:elena-giovanna-bignami",
-"t": "person",
-"n": "Elena Giovanna Bignami",
-"sub": "University of Parma",
-"url": "https://orcid.org/0000-0001-9985-4126",
-"c": "IT"
-},
-{
-"k": "org:university-of-parma",
-"t": "academic",
-"n": "University of Parma",
-"sub": "",
-"url": "",
-"c": "IT"
-},
-{
-"k": "person:valentina-bellini",
-"t": "person",
-"n": "Valentina Bellini",
-"sub": "",
-"url": "https://orcid.org/0000-0001-7993-9026",
-"c": ""
 },
 {
 "k": "paper:pmid-35001665",
@@ -1988,7 +1988,7 @@
 "k": "paper:pmid-40293759",
 "t": "paper",
 "n": "Non–Cystic Fibrosis Bronchiectasis in Adults: A Review",
-"sub": "JAMA 2025 · cited 60",
+"sub": "JAMA 2025 · cited 61",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40293759",
 "c": ""
 },
@@ -2228,7 +2228,7 @@
 "k": "paper:pmid-38729529",
 "t": "paper",
 "n": "Inhaled antibiotics: A promising drug delivery strategies for efficient treatment of lower",
-"sub": "Respiratory Medicine 2024 · cited 41",
+"sub": "Respiratory Medicine 2024 · cited 42",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38729529",
 "c": ""
 },
@@ -2881,62 +2881,6 @@
 "c": "US"
 },
 {
-"k": "paper:pmid-38849369",
-"t": "paper",
-"n": "Microbial community organization designates distinct pulmonary exacerbation types and pred",
-"sub": "Nature Communications 2024 · cited 25",
-"url": "https://pubmed.ncbi.nlm.nih.gov/38849369",
-"c": ""
-},
-{
-"k": "person:stefanie-widder-a",
-"t": "person",
-"n": "Stefanie Widder A",
-"sub": "Medical University of Vienna",
-"url": "https://orcid.org/0000-0003-0733-5666",
-"c": "AT"
-},
-{
-"k": "org:medical-university-of-vienna",
-"t": "academic",
-"n": "Medical University of Vienna",
-"sub": "",
-"url": "",
-"c": "AT"
-},
-{
-"k": "person:john-j-lipuma",
-"t": "person",
-"n": "John J. LiPuma",
-"sub": "University of Michigan",
-"url": "https://orcid.org/0000-0003-4033-7794",
-"c": "US"
-},
-{
-"k": "org:university-of-michigan",
-"t": "academic",
-"n": "University of Michigan",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:michigan-medicine",
-"t": "hospital",
-"n": "Michigan Medicine",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:austrian-science-fund",
-"t": "funder",
-"n": "Austrian Science Fund",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-33108111",
 "t": "paper",
 "n": "Nutrition and Markers of Disease Severity in Patients With Bronchiectasis",
@@ -3132,6 +3076,62 @@
 "k": "org:medical-research-council",
 "t": "funder",
 "n": "Medical Research Council",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-38849369",
+"t": "paper",
+"n": "Microbial community organization designates distinct pulmonary exacerbation types and pred",
+"sub": "Nature Communications 2024 · cited 25",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38849369",
+"c": ""
+},
+{
+"k": "person:stefanie-widder-a",
+"t": "person",
+"n": "Stefanie Widder A",
+"sub": "Medical University of Vienna",
+"url": "https://orcid.org/0000-0003-0733-5666",
+"c": "AT"
+},
+{
+"k": "org:medical-university-of-vienna",
+"t": "academic",
+"n": "Medical University of Vienna",
+"sub": "",
+"url": "",
+"c": "AT"
+},
+{
+"k": "person:john-j-lipuma",
+"t": "person",
+"n": "John J. LiPuma",
+"sub": "University of Michigan",
+"url": "https://orcid.org/0000-0003-4033-7794",
+"c": "US"
+},
+{
+"k": "org:university-of-michigan",
+"t": "academic",
+"n": "University of Michigan",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:michigan-medicine",
+"t": "hospital",
+"n": "Michigan Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:austrian-science-fund",
+"t": "funder",
+"n": "Austrian Science Fund",
 "sub": "",
 "url": "",
 "c": ""

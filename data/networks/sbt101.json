@@ -1,6 +1,6 @@
 {
 "assetId": "sbt101",
-"updated": "2026-11-17",
+"updated": "2026-11-18",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 8,
@@ -240,11 +240,11 @@
 "c": ""
 },
 {
-"k": "trial:nct05146284",
+"k": "trial:nct05200104",
 "t": "trial",
-"n": "Study to Assess PXL770 in Subjects With Adrenomyeloneuropathy (AMN) Form of X-linked Adren",
+"n": "Study to Assess PXL065 in Subjects With Adrenomyeloneuropathy (AMN) Form of X-linked Adren",
 "sub": "P2 · withdrawn · 2023-2024",
-"url": "https://clinicaltrials.gov/study/NCT05146284",
+"url": "https://clinicaltrials.gov/study/NCT05200104",
 "c": ""
 },
 {
@@ -256,25 +256,25 @@
 "c": ""
 },
 {
-"k": "drug:pxl770",
+"k": "drug:pxl065",
 "t": "drug",
-"n": "PXL770",
+"n": "PXL065",
 "sub": "Poxel SA",
 "url": "",
 "c": ""
 },
 {
-"k": "trial:nct05200104",
+"k": "trial:nct05146284",
 "t": "trial",
-"n": "Study to Assess PXL065 in Subjects With Adrenomyeloneuropathy (AMN) Form of X-linked Adren",
+"n": "Study to Assess PXL770 in Subjects With Adrenomyeloneuropathy (AMN) Form of X-linked Adren",
 "sub": "P2 · withdrawn · 2023-2024",
-"url": "https://clinicaltrials.gov/study/NCT05200104",
+"url": "https://clinicaltrials.gov/study/NCT05146284",
 "c": ""
 },
 {
-"k": "drug:pxl065",
+"k": "drug:pxl770",
 "t": "drug",
-"n": "PXL065",
+"n": "PXL770",
 "sub": "Poxel SA",
 "url": "",
 "c": ""
@@ -1219,14 +1219,22 @@
 "k": "person:alexandra-b-kornbluh",
 "t": "person",
 "n": "Alexandra B. Kornbluh",
-"sub": "Kennedy Krieger Institute",
+"sub": "Children's National",
 "url": "https://orcid.org/0000-0002-7880-918X",
 "c": "US"
 },
 {
-"k": "org:children-s-hospital-of-philadelphia",
+"k": "org:children-s-national",
 "t": "hospital",
-"n": "Children's Hospital of Philadelphia",
+"n": "Children's National",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:george-washington-university",
+"t": "academic",
+"n": "George Washington University",
 "sub": "",
 "url": "",
 "c": "US"
@@ -1235,9 +1243,9 @@
 "k": "person:jennifer-l-orthmannmurphy",
 "t": "person",
 "n": "Jennifer L. Orthmann‐Murphy",
-"sub": "Kennedy Krieger Institute",
+"sub": "",
 "url": "https://orcid.org/0000-0002-2909-1722",
-"c": "US"
+"c": ""
 },
 {
 "k": "paper:pmid-35479665",
@@ -1317,22 +1325,6 @@
 "n": "Wei‐Liang Chen",
 "sub": "Children's National",
 "url": "https://orcid.org/0000-0003-2581-1996",
-"c": "US"
-},
-{
-"k": "org:children-s-national",
-"t": "hospital",
-"n": "Children's National",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:george-washington-university",
-"t": "academic",
-"n": "George Washington University",
-"sub": "",
-"url": "",
 "c": "US"
 },
 {
@@ -1979,7 +1971,7 @@
 "k": "paper:pmid-40400408",
 "t": "paper",
 "n": "Nervonic acid, a long chain monounsaturated fatty acid, improves mitochondrial function in",
-"sub": "British Journal of Pharmacology 2025 · cited 6",
+"sub": "British Journal of Pharmacology 2025 · cited 7",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40400408",
 "c": ""
 },
@@ -2804,12 +2796,12 @@
 },
 {
 "a": "person:alexandra-b-kornbluh",
-"b": "org:children-s-hospital-of-philadelphia",
+"b": "org:children-s-national",
 "r": "affiliated"
 },
 {
 "a": "person:alexandra-b-kornbluh",
-"b": "org:kennedy-krieger-institute",
+"b": "org:george-washington-university",
 "r": "affiliated"
 },
 {
@@ -3206,16 +3198,6 @@
 "a": "person:jennifer-l-keller",
 "b": "paper:pmid-34796974",
 "r": "authored"
-},
-{
-"a": "person:jennifer-l-orthmannmurphy",
-"b": "org:children-s-hospital-of-philadelphia",
-"r": "affiliated"
-},
-{
-"a": "person:jennifer-l-orthmannmurphy",
-"b": "org:kennedy-krieger-institute",
-"r": "affiliated"
 },
 {
 "a": "person:jennifer-l-orthmannmurphy",
