@@ -1,9 +1,10 @@
 {
 "assetId": "nct-nct04771416",
-"updated": "2026-11-18",
+"updated": "2026-11-19",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
-"trials": 3
+"trials": 3,
+"papers": 1
 },
 "nodes": [
 {
@@ -173,6 +174,38 @@
 "sub": "Polaryx Therapeutics, Inc.",
 "url": "",
 "c": ""
+},
+{
+"k": "paper:doi-10-1016-j-ymgme-2021-11-204",
+"t": "paper",
+"n": "A phase 1/2 open-label, multicenter, dose ranging and confirmatory study to assess the saf",
+"sub": "Molecular Genetics and Metabolism 2022 · cited 0",
+"url": "https://doi.org/10.1016/j.ymgme.2021.11.204",
+"c": ""
+},
+{
+"k": "person:eric-james-mallack",
+"t": "person",
+"n": "Eric James Mallack",
+"sub": "Weill Cornell Medicine",
+"url": "https://orcid.org/0000-0002-2678-8807",
+"c": "US"
+},
+{
+"k": "org:weill-cornell-medicine",
+"t": "academic",
+"n": "Weill Cornell Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:dawn-elizabeth-mcneil",
+"t": "person",
+"n": "Dawn Elizabeth McNeil",
+"sub": "",
+"url": "",
+"c": ""
 }
 ],
 "edges": [
@@ -275,6 +308,26 @@
 "a": "org:university-of-utah-school-of-medicine",
 "b": "trial:nct04771416",
 "r": "site_of"
+},
+{
+"a": "paper:doi-10-1016-j-ymgme-2021-11-204",
+"b": "asset:nct-nct04771416",
+"r": "cites_asset"
+},
+{
+"a": "person:dawn-elizabeth-mcneil",
+"b": "paper:doi-10-1016-j-ymgme-2021-11-204",
+"r": "authored"
+},
+{
+"a": "person:eric-james-mallack",
+"b": "org:weill-cornell-medicine",
+"r": "affiliated"
+},
+{
+"a": "person:eric-james-mallack",
+"b": "paper:doi-10-1016-j-ymgme-2021-11-204",
+"r": "authored"
 },
 {
 "a": "person:joanne-kurtzberg",

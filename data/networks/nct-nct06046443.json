@@ -1,9 +1,9 @@
 {
 "assetId": "nct-nct06046443",
-"updated": "2026-11-18",
+"updated": "2026-11-19",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
-"trials": 17
+"trials": 18
 },
 "nodes": [
 {
@@ -173,6 +173,38 @@
 "sub": "",
 "url": "",
 "c": "United Kingdom"
+},
+{
+"k": "trial:nct07946796",
+"t": "trial",
+"n": "Semaglutide Effects on Sperm Concentration in Overweight Infertile Men",
+"sub": "P2 · not_yet_recruiting · 2027-2029",
+"url": "https://clinicaltrials.gov/study/NCT07946796",
+"c": ""
+},
+{
+"k": "org:copenhagen-university-hospital-at-herlev",
+"t": "hospital",
+"n": "Copenhagen University Hospital at Herlev",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:division-of-translational-endocrinology-department-of-endocr",
+"t": "hospital",
+"n": "Division of Translational Endocrinology, Department of Endocrinology and Internal Medicine",
+"sub": "",
+"url": "",
+"c": "Denmark"
+},
+{
+"k": "drug:semaglutide",
+"t": "drug",
+"n": "Semaglutide",
+"sub": "Copenhagen University Hospital at Herlev",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct06299891",
@@ -1092,6 +1124,16 @@
 "r": "tested_in"
 },
 {
+"a": "drug:semaglutide",
+"b": "asset:nct-nct06046443",
+"r": "competes"
+},
+{
+"a": "drug:semaglutide",
+"b": "trial:nct07946796",
+"r": "tested_in"
+},
+{
 "a": "drug:semaglutide-weekly",
 "b": "asset:nct-nct06046443",
 "r": "competes"
@@ -1327,8 +1369,23 @@
 "r": "site_of"
 },
 {
+"a": "org:copenhagen-university-hospital-at-herlev",
+"b": "drug:semaglutide",
+"r": "develops"
+},
+{
+"a": "org:copenhagen-university-hospital-at-herlev",
+"b": "trial:nct07946796",
+"r": "sponsors"
+},
+{
 "a": "org:departement-de-pediatrie-dijon-university-hospital",
 "b": "trial:nct07845994",
+"r": "site_of"
+},
+{
+"a": "org:division-of-translational-endocrinology-department-of-endocr",
+"b": "trial:nct07946796",
 "r": "site_of"
 },
 {

@@ -1,10 +1,10 @@
 {
 "assetId": "aurase",
-"updated": "2026-11-18",
+"updated": "2026-11-19",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 24,
-"papers": 39
+"papers": 36
 },
 "nodes": [
 {
@@ -94,6 +94,70 @@
 "sub": "",
 "url": "",
 "c": "United Kingdom"
+},
+{
+"k": "trial:nct02577120",
+"t": "trial",
+"n": "Wound Healing Endpoint and Recurrence",
+"sub": "P1/P2 · completed · 2019-2025",
+"url": "https://clinicaltrials.gov/study/NCT02577120",
+"c": ""
+},
+{
+"k": "org:sashwati-roy",
+"t": "academic",
+"n": "Sashwati Roy",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-pittsburgh",
+"t": "academic",
+"n": "University of Pittsburgh",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:sashwati-roy",
+"t": "person",
+"n": "Sashwati Roy",
+"sub": "principal investigator · University of Pittsburgh",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-pittsburgh-mckeesport-clinic",
+"t": "hospital",
+"n": "University of Pittsburgh / McKeesport Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-pittsburgh-mercy-clinic",
+"t": "hospital",
+"n": "University of Pittsburgh / Mercy Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:university-of-pittsburgh-passavant",
+"t": "academic",
+"n": "University of Pittsburgh / Passavant",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:vaseline-petroleum-jelly",
+"t": "drug",
+"n": "Vaseline Petroleum Jelly",
+"sub": "Sashwati Roy",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct06690177",
@@ -566,70 +630,6 @@
 "sub": "",
 "url": "",
 "c": "United States"
-},
-{
-"k": "trial:nct02577120",
-"t": "trial",
-"n": "Wound Healing Endpoint and Recurrence",
-"sub": "P1/P2 · active_not_recruiting · 2019-2034",
-"url": "https://clinicaltrials.gov/study/NCT02577120",
-"c": ""
-},
-{
-"k": "org:sashwati-roy",
-"t": "academic",
-"n": "Sashwati Roy",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:university-of-pittsburgh",
-"t": "academic",
-"n": "University of Pittsburgh",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:sashwati-roy",
-"t": "person",
-"n": "Sashwati Roy",
-"sub": "principal investigator · University of Pittsburgh",
-"url": "",
-"c": ""
-},
-{
-"k": "org:university-of-pittsburgh-mckeesport-clinic",
-"t": "hospital",
-"n": "University of Pittsburgh / McKeesport Clinic",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-pittsburgh-mercy-clinic",
-"t": "hospital",
-"n": "University of Pittsburgh / Mercy Clinic",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-pittsburgh-passavant",
-"t": "academic",
-"n": "University of Pittsburgh / Passavant",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:vaseline-petroleum-jelly",
-"t": "drug",
-"n": "Vaseline Petroleum Jelly",
-"sub": "Sashwati Roy",
-"url": "",
-"c": ""
 },
 {
 "k": "trial:nct07048054",
@@ -1160,82 +1160,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-39666902",
-"t": "paper",
-"n": "Proteolytic Enzymes and Wound Debridement: A Literature Review",
-"sub": "WOUNDS A Compendium of Clinical Research and Practice 2024 · cited 15",
-"url": "https://pubmed.ncbi.nlm.nih.gov/39666902",
-"c": ""
-},
-{
-"k": "person:evdoxia-mathioudaki",
-"t": "person",
-"n": "Evdoxia Mathioudaki",
-"sub": "National and Kapodistrian University of Athens",
-"url": "",
-"c": "GR"
-},
-{
-"k": "org:national-and-kapodistrian-university-of-athens",
-"t": "academic",
-"n": "National and Kapodistrian University of Athens",
-"sub": "",
-"url": "",
-"c": "GR"
-},
-{
-"k": "person:michail-christou-rallis",
-"t": "person",
-"n": "Michail Christou Rallis",
-"sub": "National and Kapodistrian University of Athens",
-"url": "https://orcid.org/0000-0002-3802-197X",
-"c": "GR"
-},
-{
-"k": "paper:doi-10-48550-arxiv-2610-06632",
-"t": "paper",
-"n": "AuraSE: Low-Hallucination Generative Speech Enhancement via Multimodal Flow Matching and I",
-"sub": "arXiv (Cornell University) 2026 · cited 0",
-"url": "https://doi.org/10.48550/arxiv.2610.06632",
-"c": ""
-},
-{
-"k": "person:yingda-shen",
-"t": "person",
-"n": "Yingda Shen",
-"sub": "Microsoft (United States)",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:microsoft-united-states",
-"t": "company",
-"n": "Microsoft (United States)",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:chinese-university-of-hong-kong-shenzhen",
-"t": "academic",
-"n": "Chinese University of Hong Kong, Shenzhen",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
-"k": "person:zhizheng-wu",
-"t": "person",
-"n": "Zhizheng Wu",
-"sub": "Chinese University of Hong Kong, Shenzhen",
-"url": "",
-"c": "CN"
-},
-{
 "k": "paper:pmid-34605781",
 "t": "paper",
 "n": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Sh",
-"sub": "Critical Care Medicine 2021 · cited 3606",
+"sub": "Critical Care Medicine 2021 · cited 3610",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34605781",
 "c": ""
 },
@@ -1315,7 +1243,7 @@
 "k": "paper:pmid-37756368",
 "t": "paper",
 "n": "Human Wound and Its Burden: Updated 2022 Compendium of Estimates",
-"sub": "Advances in Wound Care 2023 · cited 459",
+"sub": "Advances in Wound Care 2023 · cited 460",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37756368",
 "c": ""
 },
@@ -1435,7 +1363,7 @@
 "k": "paper:pmid-32590563",
 "t": "paper",
 "n": "Updated guidelines to reduce venous thromboembolism in trauma patients: A Western Trauma A",
-"sub": "The Journal of Trauma: Injury, Infection, and Critical Care 2020 · cited 318",
+"sub": "The Journal of Trauma: Injury, Infection, and Critical Care 2020 · cited 319",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32590563",
 "c": ""
 },
@@ -1539,7 +1467,7 @@
 "k": "paper:pmid-33897696",
 "t": "paper",
 "n": "Biofilm-Innate Immune Interface: Contribution to Chronic Wound Formation",
-"sub": "Frontiers in Immunology 2021 · cited 291",
+"sub": "Frontiers in Immunology 2021 · cited 292",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33897696",
 "c": ""
 },
@@ -1744,6 +1672,54 @@
 "c": ""
 },
 {
+"k": "paper:pmid-36123031",
+"t": "paper",
+"n": "Molecular Pathophysiology of Chronic Wounds: Current State and Future Directions",
+"sub": "Cold Spring Harbor Perspectives in Biology 2022 · cited 141",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36123031",
+"c": ""
+},
+{
+"k": "person:irena-pastar",
+"t": "person",
+"n": "Irena Pastar",
+"sub": "University of Miami",
+"url": "https://orcid.org/0000-0003-0197-6198",
+"c": "US"
+},
+{
+"k": "person:marjana-tomiccanic",
+"t": "person",
+"n": "Marjana Tomic‐Canic",
+"sub": "University of Miami",
+"url": "https://orcid.org/0000-0002-9341-0193",
+"c": "US"
+},
+{
+"k": "org:national-institutes-of-health",
+"t": "funder",
+"n": "National Institutes of Health",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institute-of-nursing-research",
+"t": "funder",
+"n": "National Institute of Nursing Research",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
+"t": "funder",
+"n": "National Institute of Diabetes and Digestive and Kidney Diseases",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
 "k": "paper:pmid-32092132",
 "t": "paper",
 "n": "Prognostic factors for VTE and bleeding in hospitalized medical patients: a systematic rev",
@@ -1787,54 +1763,6 @@
 "k": "org:centers-for-disease-control-and-prevention",
 "t": "funder",
 "n": "Centers for Disease Control and Prevention",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "paper:pmid-36123031",
-"t": "paper",
-"n": "Molecular Pathophysiology of Chronic Wounds: Current State and Future Directions",
-"sub": "Cold Spring Harbor Perspectives in Biology 2022 · cited 140",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36123031",
-"c": ""
-},
-{
-"k": "person:irena-pastar",
-"t": "person",
-"n": "Irena Pastar",
-"sub": "University of Miami",
-"url": "https://orcid.org/0000-0003-0197-6198",
-"c": "US"
-},
-{
-"k": "person:marjana-tomiccanic",
-"t": "person",
-"n": "Marjana Tomic‐Canic",
-"sub": "University of Miami",
-"url": "https://orcid.org/0000-0002-9341-0193",
-"c": "US"
-},
-{
-"k": "org:national-institutes-of-health",
-"t": "funder",
-"n": "National Institutes of Health",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-institute-of-nursing-research",
-"t": "funder",
-"n": "National Institute of Nursing Research",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
-"t": "funder",
-"n": "National Institute of Diabetes and Digestive and Kidney Diseases",
 "sub": "",
 "url": "",
 "c": ""
@@ -2091,7 +2019,7 @@
 "k": "paper:pmid-37711741",
 "t": "paper",
 "n": "Skin substitutes as treatment for chronic wounds: current and future directions",
-"sub": "Frontiers in Medicine 2023 · cited 112",
+"sub": "Frontiers in Medicine 2023 · cited 113",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37711741",
 "c": ""
 },
@@ -2195,7 +2123,7 @@
 "k": "paper:pmid-31898398",
 "t": "paper",
 "n": "Pain in persons with chronic venous leg ulcers: A systematic review and meta‐analysis",
-"sub": "International Wound Journal 2020 · cited 101",
+"sub": "International Wound Journal 2020 · cited 102",
 "url": "https://pubmed.ncbi.nlm.nih.gov/31898398",
 "c": ""
 },
@@ -2291,7 +2219,7 @@
 "k": "paper:doi-10-1016-j-engreg-2020-09-002",
 "t": "paper",
 "n": "Improved skin regeneration with acellular fish skin grafts",
-"sub": "Engineered Regeneration 2020 · cited 87",
+"sub": "Engineered Regeneration 2020 · cited 88",
 "url": "https://doi.org/10.1016/j.engreg.2020.09.002",
 "c": ""
 },
@@ -2323,7 +2251,7 @@
 "k": "paper:pmid-37376055",
 "t": "paper",
 "n": "Antimicrobial Biomaterials for Chronic Wound Care",
-"sub": "Pharmaceutics 2023 · cited 87",
+"sub": "Pharmaceutics 2023 · cited 88",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37376055",
 "c": ""
 },
@@ -2435,7 +2363,7 @@
 "k": "paper:pmid-32649293",
 "t": "paper",
 "n": "Phytochemical, ethanomedicinal and pharmacological applications of escin from Aesculus hip",
-"sub": "Journal of Basic and Clinical Physiology and Pharmacology 2020 · cited 84",
+"sub": "Journal of Basic and Clinical Physiology and Pharmacology 2020 · cited 85",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32649293",
 "c": ""
 },
@@ -3814,16 +3742,6 @@
 "r": "cites_asset"
 },
 {
-"a": "paper:doi-10-48550-arxiv-2610-06632",
-"b": "asset:aurase",
-"r": "cites_asset"
-},
-{
-"a": "paper:pmid-39666902",
-"b": "asset:aurase",
-"r": "cites_asset"
-},
-{
 "a": "person:adelina-gabriela-niculescu",
 "b": "org:universitatea-nationala-de-stiinta-si-tehnologie-politehnica",
 "r": "affiliated"
@@ -4131,16 +4049,6 @@
 {
 "a": "person:evan-lo",
 "b": "paper:doi-10-1016-j-engreg-2020-09-002",
-"r": "authored"
-},
-{
-"a": "person:evdoxia-mathioudaki",
-"b": "org:national-and-kapodistrian-university-of-athens",
-"r": "affiliated"
-},
-{
-"a": "person:evdoxia-mathioudaki",
-"b": "paper:pmid-39666902",
 "r": "authored"
 },
 {
@@ -4509,16 +4417,6 @@
 "r": "authored"
 },
 {
-"a": "person:michail-christou-rallis",
-"b": "org:national-and-kapodistrian-university-of-athens",
-"r": "affiliated"
-},
-{
-"a": "person:michail-christou-rallis",
-"b": "paper:pmid-39666902",
-"r": "authored"
-},
-{
 "a": "person:mitchell-m-levy",
 "b": "org:brown-university",
 "r": "affiliated"
@@ -4784,21 +4682,6 @@
 "r": "authored"
 },
 {
-"a": "person:yingda-shen",
-"b": "org:chinese-university-of-hong-kong-shenzhen",
-"r": "affiliated"
-},
-{
-"a": "person:yingda-shen",
-"b": "org:microsoft-united-states",
-"r": "affiliated"
-},
-{
-"a": "person:yingda-shen",
-"b": "paper:doi-10-48550-arxiv-2610-06632",
-"r": "authored"
-},
-{
 "a": "person:yuji-gao",
 "b": "org:institute-for-health-innovation-technology",
 "r": "affiliated"
@@ -4836,16 +4719,6 @@
 {
 "a": "person:zhiwen-joseph-lo",
 "b": "paper:pmid-32149471",
-"r": "authored"
-},
-{
-"a": "person:zhizheng-wu",
-"b": "org:chinese-university-of-hong-kong-shenzhen",
-"r": "affiliated"
-},
-{
-"a": "person:zhizheng-wu",
-"b": "paper:doi-10-48550-arxiv-2610-06632",
 "r": "authored"
 },
 {
