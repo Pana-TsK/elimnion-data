@@ -1,10 +1,10 @@
 {
 "assetId": "acumapimod",
-"updated": "2026-11-19",
+"updated": "2026-11-20",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 20,
-"papers": 38
+"papers": 40
 },
 "nodes": [
 {
@@ -16,11 +16,11 @@
 "c": ""
 },
 {
-"k": "trial:nct02926326",
+"k": "trial:nct03498170",
 "t": "trial",
-"n": "The Effect of Azithromycin on BCT197 Exposure in Healthy Male Volunteers",
-"sub": "P1 · completed · 2016-2016",
-"url": "https://clinicaltrials.gov/study/NCT02926326",
+"n": "The Effect of Itraconazole on BCT197 Exposure in Healthy Male Participants",
+"sub": "P1 · completed · 2018-2018",
+"url": "https://clinicaltrials.gov/study/NCT03498170",
 "c": ""
 },
 {
@@ -40,28 +40,28 @@
 "c": "GB"
 },
 {
-"k": "org:biokinetic-europe",
-"t": "company",
-"n": "BioKinetic Europe Ltd",
-"sub": "",
-"url": "",
-"c": "United Kingdom"
-},
-{
-"k": "trial:nct03498170",
-"t": "trial",
-"n": "The Effect of Itraconazole on BCT197 Exposure in Healthy Male Participants",
-"sub": "P1 · completed · 2018-2018",
-"url": "https://clinicaltrials.gov/study/NCT03498170",
-"c": ""
-},
-{
 "k": "org:inventiv-health-clinical-research-services",
 "t": "hospital",
 "n": "inVentiv Health Clinical Research Services LLC",
 "sub": "",
 "url": "",
 "c": "United States"
+},
+{
+"k": "trial:nct02926326",
+"t": "trial",
+"n": "The Effect of Azithromycin on BCT197 Exposure in Healthy Male Volunteers",
+"sub": "P1 · completed · 2016-2016",
+"url": "https://clinicaltrials.gov/study/NCT02926326",
+"c": ""
+},
+{
+"k": "org:biokinetic-europe",
+"t": "company",
+"n": "BioKinetic Europe Ltd",
+"sub": "",
+"url": "",
+"c": "United Kingdom"
 },
 {
 "k": "trial:nct04163536",
@@ -1040,30 +1040,6 @@
 "c": "GB"
 },
 {
-"k": "paper:pmid-33107218",
-"t": "paper",
-"n": "A Physiologically Based Pharmacokinetic Model to Predict Potential Drug–Drug Interactions ",
-"sub": "CPT Pharmacometrics & Systems Pharmacology 2020 · cited 4",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33107218",
-"c": ""
-},
-{
-"k": "person:alex-adusei-agyemang",
-"t": "person",
-"n": "Alex Adusei Agyemang",
-"sub": "Queen Mary University of London",
-"url": "https://orcid.org/0009-0003-9956-9175",
-"c": "GB"
-},
-{
-"k": "org:queen-mary-university-of-london",
-"t": "academic",
-"n": "Queen Mary University of London",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
 "k": "paper:doi-10-1164-ajrccm-2025-211-abstracts-a5237",
 "t": "paper",
 "n": "Acumapimod Significantly Reduces Key Inflammatory Biomarkers in Severe COPD Exacerbations ",
@@ -1096,10 +1072,34 @@
 "c": "GB"
 },
 {
+"k": "paper:pmid-33107218",
+"t": "paper",
+"n": "A Physiologically Based Pharmacokinetic Model to Predict Potential Drug–Drug Interactions ",
+"sub": "CPT Pharmacometrics & Systems Pharmacology 2020 · cited 4",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33107218",
+"c": ""
+},
+{
+"k": "person:alex-adusei-agyemang",
+"t": "person",
+"n": "Alex Adusei Agyemang",
+"sub": "Queen Mary University of London",
+"url": "https://orcid.org/0009-0003-9956-9175",
+"c": "GB"
+},
+{
+"k": "org:queen-mary-university-of-london",
+"t": "academic",
+"n": "Queen Mary University of London",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
 "k": "paper:pmid-33146552",
 "t": "paper",
 "n": "Global Initiative for the Diagnosis, Management, and Prevention of Chronic Obstructive Lun",
-"sub": "American Journal of Respiratory and Critical Care Medicine 2020 · cited 876",
+"sub": "American Journal of Respiratory and Critical Care Medicine 2021 · cited 877",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33146552",
 "c": ""
 },
@@ -1163,7 +1163,7 @@
 "k": "paper:pmid-34570991",
 "t": "paper",
 "n": "An Updated Definition and Severity Classification of Chronic Obstructive Pulmonary Disease",
-"sub": "American Journal of Respiratory and Critical Care Medicine 2021 · cited 506",
+"sub": "American Journal of Respiratory and Critical Care Medicine 2021 · cited 507",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34570991",
 "c": ""
 },
@@ -1243,7 +1243,7 @@
 "k": "paper:pmid-33893708",
 "t": "paper",
 "n": "Chronic obstructive pulmonary disease exacerbation fundamentals: Diagnosis, treatment, pre",
-"sub": "Respirology 2021 · cited 448",
+"sub": "Respirology 2021 · cited 450",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33893708",
 "c": ""
 },
@@ -1291,7 +1291,7 @@
 "k": "paper:pmid-33758801",
 "t": "paper",
 "n": "COPD and the risk of poor outcomes in COVID-19: A systematic review and meta-analysis",
-"sub": "EClinicalMedicine 2021 · cited 324",
+"sub": "EClinicalMedicine 2021 · cited 325",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33758801",
 "c": ""
 },
@@ -1339,7 +1339,7 @@
 "k": "paper:pmid-32396181",
 "t": "paper",
 "n": "Association Between Initiation of Pulmonary Rehabilitation After Hospitalization for COPD ",
-"sub": "JAMA 2020 · cited 318",
+"sub": "JAMA 2020 · cited 319",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32396181",
 "c": ""
 },
@@ -1451,7 +1451,7 @@
 "k": "paper:pmid-34302758",
 "t": "paper",
 "n": "Safety and efficacy of itepekimab in patients with moderate-to-severe COPD: a genetic asso",
-"sub": "The Lancet Respiratory Medicine 2021 · cited 254",
+"sub": "The Lancet Respiratory Medicine 2021 · cited 256",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34302758",
 "c": ""
 },
@@ -1608,42 +1608,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-32217784",
-"t": "paper",
-"n": "Acute exacerbations of chronic obstructive pulmonary disease: in search of diagnostic biom",
-"sub": "Thorax 2020 · cited 197",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32217784",
-"c": ""
-},
-{
-"k": "person:alexander-g-mathioudakis",
-"t": "person",
-"n": "Alexander G. Mathioudakis",
-"sub": "University of Manchester",
-"url": "https://orcid.org/0000-0002-4675-9616",
-"c": "GB"
-},
-{
-"k": "org:university-of-manchester",
-"t": "academic",
-"n": "University of Manchester",
-"sub": "",
-"url": "",
-"c": "GB"
-},
-{
-"k": "person:jrgen-vestbo",
-"t": "person",
-"n": "Jørgen Vestbo",
-"sub": "University of Manchester",
-"url": "https://orcid.org/0000-0001-6355-6362",
-"c": "GB"
-},
-{
 "k": "paper:pmid-37286219",
 "t": "paper",
 "n": "Pulmonary rehabilitation and physical interventions",
-"sub": "European Respiratory Review 2023 · cited 197",
+"sub": "European Respiratory Review 2023 · cited 199",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37286219",
 "c": ""
 },
@@ -1693,6 +1661,38 @@
 "n": "University of Edinburgh",
 "sub": "",
 "url": "",
+"c": "GB"
+},
+{
+"k": "paper:pmid-32217784",
+"t": "paper",
+"n": "Acute exacerbations of chronic obstructive pulmonary disease: in search of diagnostic biom",
+"sub": "Thorax 2020 · cited 197",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32217784",
+"c": ""
+},
+{
+"k": "person:alexander-g-mathioudakis",
+"t": "person",
+"n": "Alexander G. Mathioudakis",
+"sub": "University of Manchester",
+"url": "https://orcid.org/0000-0002-4675-9616",
+"c": "GB"
+},
+{
+"k": "org:university-of-manchester",
+"t": "academic",
+"n": "University of Manchester",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:jrgen-vestbo",
+"t": "person",
+"n": "Jørgen Vestbo",
+"sub": "University of Manchester",
+"url": "https://orcid.org/0000-0001-6355-6362",
 "c": "GB"
 },
 {
@@ -1867,7 +1867,7 @@
 "k": "paper:pmid-37056681",
 "t": "paper",
 "n": "The Effects and Pathogenesis of PM2.5 and Its Components on Chronic Obstructive Pulmonary ",
-"sub": "International Journal of COPD 2023 · cited 177",
+"sub": "International Journal of COPD 2023 · cited 179",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37056681",
 "c": ""
 },
@@ -1979,7 +1979,7 @@
 "k": "paper:pmid-33955840",
 "t": "paper",
 "n": "Acute Exacerbation of a Chronic Obstructive Pulmonary Disease Prediction System Using Wear",
-"sub": "JMIR mhealth and uhealth 2021 · cited 174",
+"sub": "JMIR mhealth and uhealth 2021 · cited 175",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33955840",
 "c": ""
 },
@@ -2147,7 +2147,7 @@
 "k": "paper:pmid-32178776",
 "t": "paper",
 "n": "The Acute COPD Exacerbation Prediction Tool (ACCEPT): a modelling study",
-"sub": "The Lancet Respiratory Medicine 2020 · cited 157",
+"sub": "The Lancet Respiratory Medicine 2020 · cited 158",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32178776",
 "c": ""
 },
@@ -2190,6 +2190,62 @@
 "sub": "",
 "url": "",
 "c": ""
+},
+{
+"k": "paper:pmid-33206945",
+"t": "paper",
+"n": "Chronic obstructive pulmonary disease and atrial fibrillation: an interdisciplinary perspe",
+"sub": "European Heart Journal 2020 · cited 158",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33206945",
+"c": ""
+},
+{
+"k": "person:sami-o-simons",
+"t": "person",
+"n": "Sami O. Simons",
+"sub": "Maastricht University Medical Centre",
+"url": "https://orcid.org/0000-0002-4296-5076",
+"c": "NL"
+},
+{
+"k": "org:maastricht-university-medical-centre",
+"t": "hospital",
+"n": "Maastricht University Medical Centre",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "org:maastricht-university",
+"t": "academic",
+"n": "Maastricht University",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "person:dominik-linz",
+"t": "person",
+"n": "Dominik Linz",
+"sub": "University of Copenhagen",
+"url": "https://orcid.org/0000-0003-4893-0824",
+"c": "DK"
+},
+{
+"k": "org:university-of-copenhagen",
+"t": "academic",
+"n": "University of Copenhagen",
+"sub": "",
+"url": "",
+"c": "DK"
+},
+{
+"k": "org:royal-adelaide-hospital",
+"t": "hospital",
+"n": "Royal Adelaide Hospital",
+"sub": "",
+"url": "",
+"c": "AU"
 },
 {
 "k": "paper:pmid-33090987",
@@ -2246,62 +2302,6 @@
 "sub": "",
 "url": "",
 "c": ""
-},
-{
-"k": "paper:pmid-33206945",
-"t": "paper",
-"n": "Chronic obstructive pulmonary disease and atrial fibrillation: an interdisciplinary perspe",
-"sub": "European Heart Journal 2020 · cited 157",
-"url": "https://pubmed.ncbi.nlm.nih.gov/33206945",
-"c": ""
-},
-{
-"k": "person:sami-o-simons",
-"t": "person",
-"n": "Sami O. Simons",
-"sub": "Maastricht University Medical Centre",
-"url": "https://orcid.org/0000-0002-4296-5076",
-"c": "NL"
-},
-{
-"k": "org:maastricht-university-medical-centre",
-"t": "hospital",
-"n": "Maastricht University Medical Centre",
-"sub": "",
-"url": "",
-"c": "NL"
-},
-{
-"k": "org:maastricht-university",
-"t": "academic",
-"n": "Maastricht University",
-"sub": "",
-"url": "",
-"c": "NL"
-},
-{
-"k": "person:dominik-linz",
-"t": "person",
-"n": "Dominik Linz",
-"sub": "University of Copenhagen",
-"url": "https://orcid.org/0000-0003-4893-0824",
-"c": "DK"
-},
-{
-"k": "org:university-of-copenhagen",
-"t": "academic",
-"n": "University of Copenhagen",
-"sub": "",
-"url": "",
-"c": "DK"
-},
-{
-"k": "org:royal-adelaide-hospital",
-"t": "hospital",
-"n": "Royal Adelaide Hospital",
-"sub": "",
-"url": "",
-"c": "AU"
 },
 {
 "k": "paper:pmid-33317579",
@@ -2435,7 +2435,7 @@
 "k": "paper:pmid-39657981",
 "t": "paper",
 "n": "High-Flow Nasal Oxygen vs Noninvasive Ventilation in Patients With Acute Respiratory Failu",
-"sub": "JAMA 2024 · cited 144",
+"sub": "JAMA 2024 · cited 146",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39657981",
 "c": ""
 },
@@ -2483,7 +2483,7 @@
 "k": "paper:pmid-38339210",
 "t": "paper",
 "n": "Mucus Structure, Viscoelastic Properties, and Composition in Chronic Respiratory Diseases",
-"sub": "International Journal of Molecular Sciences 2024 · cited 136",
+"sub": "International Journal of Molecular Sciences 2024 · cited 137",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38339210",
 "c": ""
 },

@@ -1,10 +1,10 @@
 {
 "assetId": "coch-aso",
-"updated": "2026-11-19",
+"updated": "2026-11-20",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 40,
-"papers": 35,
+"papers": 70,
 "grants": 6
 },
 "nodes": [
@@ -1246,7 +1246,7 @@
 "n": "Eye & ENT Hospital of Fudan University",
 "sub": "",
 "url": "",
-"c": ""
+"c": "CN"
 },
 {
 "k": "org:shanghai-zhongshan-hospital",
@@ -1782,7 +1782,7 @@
 "n": "Sound Pharmaceuticals, Incorporated",
 "sub": "",
 "url": "",
-"c": ""
+"c": "United States"
 },
 {
 "k": "org:university-of-arkansas-for-medical-sciences",
@@ -2446,7 +2446,7 @@
 "n": "University of Miami",
 "sub": "",
 "url": "",
-"c": ""
+"c": "United States"
 },
 {
 "k": "org:university-of-michigan",
@@ -2673,66 +2673,1194 @@
 "c": ""
 },
 {
-"k": "trial:nct01451853",
+"k": "trial:nct02779192",
 "t": "trial",
-"n": "SPI-1005 for Prevention and Treatment of Chemotherapy Induced Hearing Loss",
+"n": "A Phase 2b Study of SPI-1005 to Prevent Acute Noise Induced Hearing Loss",
 "sub": "P2 · withdrawn · 2026-2026",
-"url": "https://clinicaltrials.gov/study/NCT01451853",
-"c": ""
-},
-{
-"k": "org:va-puget-sound-health-care-system",
-"t": "funder",
-"n": "VA Puget Sound Health Care System",
-"sub": "",
-"url": "",
+"url": "https://clinicaltrials.gov/study/NCT02779192",
 "c": ""
 },
 {
 "k": "person:jonathan-kil",
 "t": "person",
 "n": "Jonathan Kil",
-"sub": "study director · Sound Pharmaceuticals, Inc.",
+"sub": "study chair · SOUND PHARMACEUTICALS, INC.",
 "url": "",
 "c": ""
 },
 {
-"k": "org:va-puget-sound-health-care",
+"k": "org:university-of-kansas-medical-center",
 "t": "hospital",
-"n": "VA Puget Sound Health Care",
+"n": "University of Kansas Medical Center",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "drug:spi-1005-low",
+"k": "org:musc",
+"t": "company",
+"n": "MUSC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:spi-1005",
 "t": "drug",
-"n": "SPI-1005 Low",
+"n": "SPI-1005",
 "sub": "Sound Pharmaceuticals, Incorporated",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:spi-1005-middle",
-"t": "drug",
-"n": "SPI-1005 Middle",
-"sub": "Sound Pharmaceuticals, Incorporated",
+"k": "paper:pmid-33421658",
+"t": "paper",
+"n": "On the pathophysiology of DFNA9: Effect of pathogenic variants in the COCH gene on inner e",
+"sub": "Hearing Research 2020 · cited 41",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33421658",
+"c": ""
+},
+{
+"k": "person:dorien-verdoodt",
+"t": "person",
+"n": "Dorien Verdoodt",
+"sub": "University of Antwerp",
+"url": "https://orcid.org/0000-0002-1661-9030",
+"c": "BE"
+},
+{
+"k": "org:university-of-antwerp",
+"t": "academic",
+"n": "University of Antwerp",
+"sub": "",
+"url": "",
+"c": "BE"
+},
+{
+"k": "person:vincent-van-rompaey",
+"t": "person",
+"n": "Vincent Van Rompaey",
+"sub": "University of Antwerp",
+"url": "https://orcid.org/0000-0003-0912-7780",
+"c": "BE"
+},
+{
+"k": "org:antwerp-university-hospital",
+"t": "hospital",
+"n": "Antwerp University Hospital",
+"sub": "",
+"url": "",
+"c": "BE"
+},
+{
+"k": "paper:pmid-32562050",
+"t": "paper",
+"n": "Novel loss-of-function mutations in COCH cause autosomal recessive nonsyndromic hearing lo",
+"sub": "Human Genetics 2020 · cited 23",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32562050",
+"c": ""
+},
+{
+"k": "person:kevin-t-a-booth",
+"t": "person",
+"n": "Kevin T. A. Booth",
+"sub": "University of Iowa",
+"url": "https://orcid.org/0000-0003-3061-3652",
+"c": "US"
+},
+{
+"k": "org:harvard-university",
+"t": "academic",
+"n": "Harvard University",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:hela-azaiez",
+"t": "person",
+"n": "Héla Azaiez",
+"sub": "University of Iowa",
+"url": "https://orcid.org/0000-0002-2863-6970",
+"c": "US"
+},
+{
+"k": "person:saima-riazuddin",
+"t": "person",
+"n": "Saima Riazuddin",
+"sub": "University of Maryland, Baltimore",
+"url": "https://orcid.org/0000-0002-8645-4761",
+"c": "US"
+},
+{
+"k": "org:university-of-maryland-baltimore",
+"t": "academic",
+"n": "University of Maryland, Baltimore",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "paper:pmid-34244442",
+"t": "paper",
+"n": "Ciliopathy genes are required for apical secretion of Cochlin, an otolith crystallization ",
+"sub": "Proceedings of the National Academy of Sciences 2021 · cited 18",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34244442",
+"c": ""
+},
+{
+"k": "person:eleni-leventea",
+"t": "person",
+"n": "Eleni Leventea",
+"sub": "University of Sheffield",
+"url": "",
+"c": "GB"
+},
+{
+"k": "org:university-of-sheffield",
+"t": "academic",
+"n": "University of Sheffield",
+"sub": "",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:fredericus-j-m-van-eeden",
+"t": "person",
+"n": "Fredericus J. M. van Eeden",
+"sub": "University of Sheffield",
+"url": "",
+"c": "GB"
+},
+{
+"k": "person:jarema-j-malicki",
+"t": "person",
+"n": "Jarema J. Malicki",
+"sub": "University of Sheffield",
+"url": "https://orcid.org/0000-0002-5947-8805",
+"c": "GB"
+},
+{
+"k": "org:research-councils-uk",
+"t": "funder",
+"n": "Research Councils UK",
+"sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:spi-1005-high",
-"t": "drug",
-"n": "SPI-1005 High",
-"sub": "Sound Pharmaceuticals, Incorporated",
+"k": "org:medical-research-council",
+"t": "funder",
+"n": "Medical Research Council",
+"sub": "",
 "url": "",
+"c": ""
+},
+{
+"k": "org:biotechnology-and-biological-sciences-research-council",
+"t": "funder",
+"n": "Biotechnology and Biological Sciences Research Council",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-35038006",
+"t": "paper",
+"n": "AudioGene: refining the natural history of KCNQ4, GSDME, WFS1, and COCH-associated hearing",
+"sub": "Human Genetics 2022 · cited 18",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35038006",
+"c": ""
+},
+{
+"k": "person:ryan-kendall-thorpe",
+"t": "person",
+"n": "Ryan Kendall Thorpe",
+"sub": "University of Iowa",
+"url": "https://orcid.org/0000-0002-8046-407X",
+"c": "US"
+},
+{
+"k": "person:richard-j-smith",
+"t": "person",
+"n": "Richard J. Smith",
+"sub": "University of Iowa",
+"url": "https://orcid.org/0000-0003-1201-6731",
+"c": "US"
+},
+{
+"k": "org:national-institute-of-environmental-health-sciences",
+"t": "funder",
+"n": "National Institute of Environmental Health Sciences",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34369417",
+"t": "paper",
+"n": "Genotype-Phenotype Correlation Study in a Large Series of Patients Carrying the p.Pro51Ser",
+"sub": "Ear and Hearing 2021 · cited 18",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34369417",
+"c": ""
+},
+{
+"k": "person:sebastien-p-f-janssensdevarebeke",
+"t": "person",
+"n": "Sebastien P. F. JanssensdeVarebeke",
+"sub": "University of Antwerp",
+"url": "https://orcid.org/0000-0002-1883-1799",
+"c": "BE"
+},
+{
+"k": "org:jessa-hospital",
+"t": "hospital",
+"n": "Jessa Hospital",
+"sub": "",
+"url": "",
+"c": "BE"
+},
+{
+"k": "org:universitair-ziekenhuis-brussel",
+"t": "hospital",
+"n": "Universitair Ziekenhuis Brussel",
+"sub": "",
+"url": "",
+"c": "BE"
+},
+{
+"k": "paper:pmid-35204720",
+"t": "paper",
+"n": "Genotype-Phenotype Correlations of Pathogenic COCH Variants in DFNA9: A HuGE Systematic Re",
+"sub": "Biomolecules 2022 · cited 16",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35204720",
+"c": ""
+},
+{
+"k": "person:sybren-m-m-robijn",
+"t": "person",
+"n": "Sybren M. M. Robijn",
+"sub": "Radboud University Nijmegen",
+"url": "https://orcid.org/0000-0001-5082-0005",
+"c": "NL"
+},
+{
+"k": "org:radboud-university-nijmegen",
+"t": "academic",
+"n": "Radboud University Nijmegen",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "person:ronald-j-e-pennings",
+"t": "person",
+"n": "Ronald J. E. Pennings",
+"sub": "Radboud University Nijmegen",
+"url": "https://orcid.org/0000-0001-5517-9683",
+"c": "NL"
+},
+{
+"k": "paper:pmid-33815940",
+"t": "paper",
+"n": "AON-based degradation of c.151C>T mutant COCH transcripts associated with dominantly inher",
+"sub": "Molecular Therapy — Nucleic Acids 2021 · cited 15",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33815940",
+"c": ""
+},
+{
+"k": "person:erik-de-vrieze",
+"t": "person",
+"n": "Erik de Vrieze",
+"sub": "Radboud University Nijmegen",
+"url": "https://orcid.org/0000-0003-3448-3269",
+"c": "NL"
+},
+{
+"k": "person:erwin-van-wijk",
+"t": "person",
+"n": "Erwin van Wijk",
+"sub": "Radboud University Nijmegen",
+"url": "https://orcid.org/0000-0002-5702-3460",
+"c": "NL"
+},
+{
+"k": "org:queen-elisabeth-medical-foundation",
+"t": "funder",
+"n": "Queen Elisabeth Medical Foundation",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:zonmw",
+"t": "funder",
+"n": "ZonMw",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:nederlandse-organisatie-voor-wetenschappelijk-onderzoek",
+"t": "funder",
+"n": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-34369416",
+"t": "paper",
+"n": "Genotype-phenotype Correlation Study in a Large Series of Patients Carrying the p.Pro51Ser",
+"sub": "Ear and Hearing 2021 · cited 14",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34369416",
+"c": ""
+},
+{
+"k": "paper:pmid-32939038",
+"t": "paper",
+"n": "Homozygote loss-of-function variants in the human COCH gene underlie hearing loss",
+"sub": "European Journal of Human Genetics 2020 · cited 13",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32939038",
+"c": ""
+},
+{
+"k": "person:nada-danialfarran",
+"t": "person",
+"n": "Nada Danial‐Farran",
+"sub": "Tel Aviv University",
+"url": "https://orcid.org/0000-0001-8092-3144",
+"c": "IL"
+},
+{
+"k": "org:tel-aviv-university",
+"t": "academic",
+"n": "Tel Aviv University",
+"sub": "",
+"url": "",
+"c": "IL"
+},
+{
+"k": "org:technion-israel-institute-of-technology",
+"t": "academic",
+"n": "Technion – Israel Institute of Technology",
+"sub": "",
+"url": "",
+"c": "IL"
+},
+{
+"k": "person:stavit-allon-shalev",
+"t": "person",
+"n": "Stavit Allon Shalev",
+"sub": "Technion – Israel Institute of Technology",
+"url": "https://orcid.org/0000-0002-1084-3066",
+"c": "IL"
+},
+{
+"k": "org:emek-medical-center",
+"t": "hospital",
+"n": "Emek Medical Center",
+"sub": "",
+"url": "",
+"c": "IL"
+},
+{
+"k": "org:foundation-for-the-national-institutes-of-health",
+"t": "funder",
+"n": "Foundation for the National Institutes of Health",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institutes-of-health",
+"t": "funder",
+"n": "National Institutes of Health",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36607747",
+"t": "paper",
+"n": "Accelerated Cognitive Decline Associated With Hearing Loss and Bilateral Vestibulopathy: I",
+"sub": "Ear and Hearing 2022 · cited 12",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36607747",
+"c": ""
+},
+{
+"k": "person:hanne-gommeren",
+"t": "person",
+"n": "Hanne Gommeren",
+"sub": "University of Antwerp",
+"url": "https://orcid.org/0000-0003-3369-8209",
+"c": "BE"
+},
+{
+"k": "org:fonds-wetenschappelijk-onderzoek",
+"t": "funder",
+"n": "Fonds Wetenschappelijk Onderzoek",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:universiteit-antwerpen",
+"t": "funder",
+"n": "Universiteit Antwerpen",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:faculty-of-medicine-and-health-university-of-sydney",
+"t": "funder",
+"n": "Faculty of Medicine and Health, University of Sydney",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-31998212",
+"t": "paper",
+"n": "Correlations Between Vestibular Function and Imaging of the Semicircular Canals in DFNA9 P",
+"sub": "Frontiers in Neurology 2020 · cited 12",
+"url": "https://pubmed.ncbi.nlm.nih.gov/31998212",
+"c": ""
+},
+{
+"k": "person:berina-ihtijarevic",
+"t": "person",
+"n": "Berina Ihtijarevic",
+"sub": "Antwerp University Hospital",
+"url": "https://orcid.org/0000-0002-6616-8186",
+"c": "BE"
+},
+{
+"k": "paper:doi-10-5152-b-ent-2022-21791",
+"t": "paper",
+"n": "Pathogenic Variants in the COCH Gene That Lead to Hearing Loss and Vestibular Deficit: Upd",
+"sub": "B-ENT 2022 · cited 9",
+"url": "https://doi.org/10.5152/b-ent.2022.21791",
+"c": ""
+},
+{
+"k": "paper:pmid-40088601",
+"t": "paper",
+"n": "Cochlear health in a cohort of cochlear implant users carrying the p.Pro51Ser variant in t",
+"sub": "Hearing Research 2025 · cited 8",
+"url": "https://pubmed.ncbi.nlm.nih.gov/40088601",
+"c": ""
+},
+{
+"k": "person:julie-moyaert",
+"t": "person",
+"n": "Julie Moyaert",
+"sub": "University of Antwerp",
+"url": "https://orcid.org/0000-0002-3383-5421",
+"c": "BE"
+},
+{
+"k": "person:dyan-ramekers",
+"t": "person",
+"n": "Dyan Ramekers",
+"sub": "University of Antwerp",
+"url": "https://orcid.org/0000-0002-1103-2767",
+"c": "BE"
+},
+{
+"k": "org:utrecht-university",
+"t": "academic",
+"n": "Utrecht University",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "person:marc-j-w-lammers",
+"t": "person",
+"n": "Marc J. W. Lammers",
+"sub": "University of Antwerp",
+"url": "https://orcid.org/0000-0001-9390-3863",
+"c": "BE"
+},
+{
+"k": "paper:pmid-32373054",
+"t": "paper",
+"n": "Making the Case for Research on Disease-Modifying Treatments to Tackle Post-lingual Progre",
+"sub": "Frontiers in Neurology 2020 · cited 6",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32373054",
+"c": ""
+},
+{
+"k": "org:vlaamse-regering",
+"t": "funder",
+"n": "Vlaamse regering",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33555744",
+"t": "paper",
+"n": "Attitudes of Potential Participants Towards Potential Gene Therapy Trials in Autosomal Dom",
+"sub": "Otology & Neurotology 2020 · cited 6",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33555744",
+"c": ""
+},
+{
+"k": "person:camille-levie",
+"t": "person",
+"n": "Camille Levie",
+"sub": "Antwerp University Hospital",
+"url": "",
+"c": "BE"
+},
+{
+"k": "person:olivier-m-vanderveken",
+"t": "person",
+"n": "Olivier M. Vanderveken",
+"sub": "Antwerp University Hospital",
+"url": "https://orcid.org/0000-0002-4088-4213",
+"c": "BE"
+},
+{
+"k": "person:vedat-topsakal",
+"t": "person",
+"n": "Vedat Topsakal",
+"sub": "Antwerp University Hospital",
+"url": "https://orcid.org/0000-0003-0416-4005",
+"c": "BE"
+},
+{
+"k": "person:guy-van-camp",
+"t": "person",
+"n": "Guy Van Camp",
+"sub": "University of Antwerp",
+"url": "https://orcid.org/0000-0001-5105-9000",
+"c": "BE"
+},
+{
+"k": "paper:pmid-38218018",
+"t": "paper",
+"n": "Rational design of a genomically humanized mouse model for dominantly inherited hearing lo",
+"sub": "Hearing Research 2023 · cited 5",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38218018",
+"c": ""
+},
+{
+"k": "org:yunnan-university-of-finance-and-economics",
+"t": "funder",
+"n": "Yunnan University of Finance and Economics",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-38167558",
+"t": "paper",
+"n": "Interaural and sex differences in the natural evolution of hearing levels in pre-symptomat",
+"sub": "Scientific Reports 2024 · cited 5",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38167558",
+"c": ""
+},
+{
+"k": "paper:pmid-37709329",
+"t": "paper",
+"n": "Evaluation of hearing levels and vestibular function and the impact on cognitive performan",
+"sub": "BMJ Open 2023 · cited 4",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37709329",
+"c": ""
+},
+{
+"k": "paper:pmid-38255649",
+"t": "paper",
+"n": "A Novel COCH p.D544Vfs*3 Variant Associated with DFNA9 Sensorineural Hearing Loss Causes P",
+"sub": "Life 2023 · cited 4",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38255649",
+"c": ""
+},
+{
+"k": "person:yingqiu-peng",
+"t": "person",
+"n": "Yingqiu Peng",
+"sub": "Fudan University",
+"url": "",
+"c": "CN"
+},
+{
+"k": "org:fudan-university",
+"t": "academic",
+"n": "Fudan University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:jian-li",
+"t": "person",
+"n": "Jian Li",
+"sub": "Children's Hospital of Fudan University",
+"url": "https://orcid.org/0000-0003-1551-412X",
+"c": "CN"
+},
+{
+"k": "org:children-s-hospital-of-fudan-university",
+"t": "hospital",
+"n": "Children's Hospital of Fudan University",
+"sub": "",
+"url": "",
+"c": "CN"
+},
+{
+"k": "person:yunfeng-wang",
+"t": "person",
+"n": "Yunfeng Wang",
+"sub": "Fudan University",
+"url": "https://orcid.org/0000-0001-7627-0929",
+"c": "CN"
+},
+{
+"k": "org:national-natural-science-foundation-of-china",
+"t": "funder",
+"n": "National Natural Science Foundation of China",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:science-and-technology-commission-of-shanghai-municipality",
+"t": "funder",
+"n": "Science and Technology Commission of Shanghai Municipality",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-39271588",
+"t": "paper",
+"n": "Evaluating cochlear implant outcomes in DFNA9 subjects: a comprehensive study on cerebral ",
+"sub": "European Archives of Oto-Rhino-Laryngology 2024 · cited 3",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39271588",
+"c": ""
+},
+{
+"k": "person:m-l-a-fehrmann",
+"t": "person",
+"n": "M. L. A. Fehrmann",
+"sub": "Radboud University Medical Center",
+"url": "https://orcid.org/0000-0002-6995-668X",
+"c": "NL"
+},
+{
+"k": "org:donders-institute-for-brain-cognition-and-behaviour",
+"t": "academic",
+"n": "Donders Institute for Brain, Cognition and Behaviour",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "person:wendy-j-huinck",
+"t": "person",
+"n": "Wendy J. Huinck",
+"sub": "Radboud University Medical Center",
+"url": "https://orcid.org/0000-0003-3479-4657",
+"c": "NL"
+},
+{
+"k": "org:cochlear",
+"t": "funder",
+"n": "Cochlear",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-39743754",
+"t": "paper",
+"n": "Vestibular Implant Surgery: How to Deal With Obstructed Semicircular Canals—A Diagnostic a",
+"sub": "Journal of Otolaryngology - Head and Neck Surgery 2025 · cited 3",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39743754",
+"c": ""
+},
+{
+"k": "person:raymond-van-de-berg",
+"t": "person",
+"n": "Raymond van de Berg",
+"sub": "Maastricht University Medical Centre",
+"url": "https://orcid.org/0000-0001-9734-8668",
+"c": "NL"
+},
+{
+"k": "org:maastricht-university-medical-centre",
+"t": "hospital",
+"n": "Maastricht University Medical Centre",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "org:maastricht-university",
+"t": "academic",
+"n": "Maastricht University",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "person:joost-j-a-stultiens",
+"t": "person",
+"n": "Joost J. A. Stultiens",
+"sub": "Maastricht University Medical Centre",
+"url": "https://orcid.org/0000-0003-3691-3912",
+"c": "NL"
+},
+{
+"k": "person:nils-guinand",
+"t": "person",
+"n": "Nils Guinand",
+"sub": "University of Geneva",
+"url": "https://orcid.org/0000-0001-6004-8768",
+"c": "CH"
+},
+{
+"k": "org:university-of-geneva",
+"t": "academic",
+"n": "University of Geneva",
+"sub": "",
+"url": "",
+"c": "CH"
+},
+{
+"k": "org:university-hospital-of-geneva",
+"t": "hospital",
+"n": "University Hospital of Geneva",
+"sub": "",
+"url": "",
+"c": "CH"
+},
+{
+"k": "org:stichting-de-weijerhorst",
+"t": "funder",
+"n": "Stichting De Weijerhorst",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:med-el-medical-electronics",
+"t": "funder",
+"n": "MED-EL Medical Electronics",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:stichting-het-heinsius-houbolt-fonds",
+"t": "funder",
+"n": "Stichting Het Heinsius-Houbolt Fonds",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-33710989",
+"t": "paper",
+"n": "A Novel COCH Mutation Affects the vWFA2 Domain and Leads to a Relatively Mild DFNA9 Phenot",
+"sub": "Otology & Neurotology 2020 · cited 3",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33710989",
+"c": ""
+},
+{
+"k": "person:jeroen-j-smits",
+"t": "person",
+"n": "Jeroen J. Smits",
+"sub": "Donders Institute for Brain, Cognition and Behaviour",
+"url": "https://orcid.org/0000-0002-4241-0900",
+"c": "NL"
+},
+{
+"k": "person:eline-van-beelen",
+"t": "person",
+"n": "Eline van Beelen",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:nicole-j-d-weegerink",
+"t": "person",
+"n": "Nicole J. D. Weegerink",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:jaap-oostrik",
+"t": "person",
+"n": "Jaap Oostrik",
+"sub": "",
+"url": "https://orcid.org/0000-0002-3980-4220",
+"c": ""
+},
+{
+"k": "person:patrick-l-m-huygen",
+"t": "person",
+"n": "Patrick L. M. Huygen",
+"sub": "",
+"url": "https://orcid.org/0000-0003-0141-0215",
+"c": ""
+},
+{
+"k": "person:andy-j-beynon",
+"t": "person",
+"n": "Andy J. Beynon",
+"sub": "",
+"url": "https://orcid.org/0000-0002-3191-6113",
+"c": ""
+},
+{
+"k": "person:cris-lanting",
+"t": "person",
+"n": "Cris Lanting",
+"sub": "Donders Institute for Brain, Cognition and Behaviour",
+"url": "https://orcid.org/0000-0001-9397-7766",
+"c": "NL"
+},
+{
+"k": "person:henricus-p-m-kunst",
+"t": "person",
+"n": "Henricus P. M. Kunst",
+"sub": "Radboud University Nijmegen",
+"url": "https://orcid.org/0000-0003-1162-6394",
+"c": "NL"
+},
+{
+"k": "org:radboud-institute-for-health-sciences",
+"t": "academic",
+"n": "Radboud Institute for Health Sciences",
+"sub": "",
+"url": "",
+"c": "NL"
+},
+{
+"k": "person:hannie-kremer",
+"t": "person",
+"n": "Hannie Kremer",
+"sub": "Radboud University Medical Center",
+"url": "https://orcid.org/0000-0002-0841-8693",
+"c": "NL"
+},
+{
+"k": "paper:pmid-35901072",
+"t": "paper",
+"n": "Involvement of cochlin binding to sulfated heparan sulfate/heparin in the pathophysiology ",
+"sub": "PLoS ONE 2022 · cited 3",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35901072",
+"c": ""
+},
+{
+"k": "person:tomoko-honda",
+"t": "person",
+"n": "Tomoko Honda",
+"sub": "The University of Tokyo",
+"url": "https://orcid.org/0000-0002-4496-3330",
+"c": "JP"
+},
+{
+"k": "org:the-university-of-tokyo",
+"t": "academic",
+"n": "The University of Tokyo",
+"sub": "",
+"url": "",
+"c": "JP"
+},
+{
+"k": "person:kazuo-yamamoto",
+"t": "person",
+"n": "Kazuo Yamamoto",
+"sub": "The University of Tokyo",
+"url": "https://orcid.org/0000-0001-7466-2443",
+"c": "JP"
+},
+{
+"k": "org:national-institute-of-advanced-industrial-science-and-techno",
+"t": "funder",
+"n": "National Institute of Advanced Industrial Science and Technology",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:japan-society-for-the-promotion-of-science",
+"t": "funder",
+"n": "Japan Society for the Promotion of Science",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-36001698",
+"t": "paper",
+"n": "Radiologic Features in Cochlear Implant Candidates: A Prospective Study Comparing Candidat",
+"sub": "Otology & Neurotology 2022 · cited 3",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36001698",
+"c": ""
+},
+{
+"k": "person:anneleen-beerten",
+"t": "person",
+"n": "Anneleen Beerten",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:helena-bosmans",
+"t": "person",
+"n": "Helena Bosmans",
+"sub": "Hasselt University",
+"url": "",
+"c": "BE"
+},
+{
+"k": "org:hasselt-university",
+"t": "academic",
+"n": "Hasselt University",
+"sub": "",
+"url": "",
+"c": "BE"
+},
+{
+"k": "person:meindert-lauwers",
+"t": "person",
+"n": "Meindert Lauwers",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:sebastien-janssens-de-varebeke",
+"t": "person",
+"n": "Sebastien Janssens de Varebeke",
+"sub": "Jessa Hospital",
+"url": "",
+"c": "BE"
+},
+{
+"k": "paper:pmid-33492061",
+"t": "paper",
+"n": "Predictive Sensitivity and Concordance of Machine-learning Tools for Diagnosing DFNA9 in a",
+"sub": "Otology & Neurotology 2021 · cited 1",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33492061",
+"c": ""
+},
+{
+"k": "person:mahadi-salah",
+"t": "person",
+"n": "Mahadi Salah",
+"sub": "Jessa Hospital",
+"url": "",
+"c": "BE"
+},
+{
+"k": "paper:pmid-35020687",
+"t": "paper",
+"n": "Does Vestibulo-Ocular Reflex (VOR) Gain Correlate With Radiological Findings in the Semi-C",
+"sub": "Otology & Neurotology 2022 · cited 1",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35020687",
+"c": ""
+},
+{
+"k": "paper:pmid-38398443",
+"t": "paper",
+"n": "The DizzyQuest Combined with Accelerometry: Daily Physical Activities and Limitations amon",
+"sub": "Journal of Clinical Medicine 2024 · cited 1",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38398443",
+"c": ""
+},
+{
+"k": "person:e-c-martin",
+"t": "person",
+"n": "E. C. Martin",
+"sub": "Maastricht University Medical Centre",
+"url": "https://orcid.org/0000-0001-5329-8427",
+"c": "NL"
+},
+{
+"k": "org:radboud-universiteit",
+"t": "funder",
+"n": "Radboud Universiteit",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:radboud-universitair-medisch-centrum",
+"t": "funder",
+"n": "Radboud Universitair Medisch Centrum",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-21608-svu-2023-152613-1216",
+"t": "paper",
+"n": "Mitigation of Diclofenac Sodium–Induced Hepatic Injury and Enteropathy in Rats by Vanillin",
+"sub": "SVU- International Journal of Veterinary Sciences 2023 · cited 0",
+"url": "https://doi.org/10.21608/svu.2023.152613.1216",
+"c": ""
+},
+{
+"k": "person:asmaa-wahaballah-basher",
+"t": "person",
+"n": "Asmaa Wahaballah basher",
+"sub": "South Valley University",
+"url": "",
+"c": "EG"
+},
+{
+"k": "org:south-valley-university",
+"t": "academic",
+"n": "South Valley University",
+"sub": "",
+"url": "",
+"c": "EG"
+},
+{
+"k": "person:abdellatif-seddek",
+"t": "person",
+"n": "Abdel‐latif Seddek",
+"sub": "South Valley University",
+"url": "https://orcid.org/0000-0001-7568-0352",
+"c": "EG"
+},
+{
+"k": "person:samy-a-f-morad",
+"t": "person",
+"n": "Samy A.F. Morad",
+"sub": "South Valley University",
+"url": "https://orcid.org/0000-0002-6932-9440",
+"c": "EG"
+},
+{
+"k": "paper:doi-10-24078-opto-2023-9-23701",
+"t": "paper",
+"n": "Cornea-onregelmatigheden bij een patiënt met DFNA9",
+"sub": "De Optometrist 2023 · cited 0",
+"url": "https://doi.org/10.24078/opto.2023.9.23701",
+"c": ""
+},
+{
+"k": "person:merel-oerlemans",
+"t": "person",
+"n": "Merel Oerlemans",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:doi-10-47671-tvg-76-06-2003036",
+"t": "paper",
+"n": "DFNA9: de meest voorkomende erfelijke vorm van progressief gehoorverlies en evenwichtsuitv",
+"sub": "Tijdschrift voor Geneeskunde 2020 · cited 0",
+"url": "https://doi.org/10.47671/tvg.76.06.2003036",
+"c": ""
+},
+{
+"k": "paper:pmid-39864432",
+"t": "paper",
+"n": "Early Deficits in Speech Perception in Carriers of the p.Pro51Ser Variant in the COCH Gene",
+"sub": "Audiology and Neurotology 2025 · cited 0",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39864432",
+"c": ""
+},
+{
+"k": "person:annick-gilles",
+"t": "person",
+"n": "Annick Gilles",
+"sub": "University of Antwerp",
+"url": "https://orcid.org/0000-0003-3669-6428",
+"c": "BE"
+},
+{
+"k": "paper:doi-10-63028-10067-2158550151162165141",
+"t": "paper",
+"n": "Evolution of hearing loss in the autosomal dominant disorder DFNA9 : from speech perceptio",
+"sub": " 2025 · cited 0",
+"url": "https://doi.org/10.63028/10067/2158550151162165141",
+"c": ""
+},
+{
+"k": "paper:oa-w7110559883",
+"t": "paper",
+"n": "Estudio de afectación cocleovestibular en pacientes con mutaciones en el gen COCH",
+"sub": "UCrea (University of Cantabria) 2025 · cited 0",
+"url": "https://openalex.org/W7110559883",
+"c": ""
+},
+{
+"k": "person:veiga-alonso-aida",
+"t": "person",
+"n": "Veiga Alonso, Aida",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "paper:pmid-42195045",
+"t": "paper",
+"n": "COCH-Related Hearing Loss in a French Cohort: Novel Variants and Genotype–Phenotype Correl",
+"sub": "Genes 2026 · cited 0",
+"url": "https://pubmed.ncbi.nlm.nih.gov/42195045",
+"c": ""
+},
+{
+"k": "person:ralyath-balogoun",
+"t": "person",
+"n": "Ralyath Balogoun",
+"sub": "Hôpital Necker-Enfants Malades",
+"url": "https://orcid.org/0000-0002-1704-577X",
+"c": "FR"
+},
+{
+"k": "org:assistance-publique-hopitaux-de-paris",
+"t": "hospital",
+"n": "Assistance Publique – Hôpitaux de Paris",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "person:sandrine-marlin",
+"t": "person",
+"n": "Sandrine Marlin",
+"sub": "Hôpital Necker-Enfants Malades",
+"url": "https://orcid.org/0000-0002-4115-9806",
+"c": "FR"
+},
+{
+"k": "org:inserm",
+"t": "funder",
+"n": "Inserm",
+"sub": "",
+"url": "",
+"c": "FR"
+},
+{
+"k": "paper:pmid-42259506",
+"t": "paper",
+"n": "Performance Results and Timing of Cochlear Implantation in Patients With DFNA9 (p.Pro51Ser",
+"sub": "Otology & Neurotology 2026 · cited 0",
+"url": "https://pubmed.ncbi.nlm.nih.gov/42259506",
 "c": ""
 },
 {
 "k": "paper:pmid-39096926",
 "t": "paper",
 "n": "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission",
-"sub": "The Lancet 2024 · cited 5063",
+"sub": "The Lancet 2024 · cited 5088",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39096926",
 "c": ""
 },
@@ -2788,7 +3916,7 @@
 "k": "paper:pmid-33714390",
 "t": "paper",
 "n": "Hearing loss prevalence and years lived with disability, 1990–2019: findings from the Glob",
-"sub": "The Lancet 2021 · cited 1430",
+"sub": "The Lancet 2021 · cited 1435",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33714390",
 "c": ""
 },
@@ -2844,7 +3972,7 @@
 "k": "paper:pmid-32151193",
 "t": "paper",
 "n": "Hearing Loss, Loneliness, and Social Isolation: A Systematic Review",
-"sub": "Otolaryngology 2020 · cited 869",
+"sub": "Otolaryngology 2020 · cited 872",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32151193",
 "c": ""
 },
@@ -2873,14 +4001,6 @@
 "c": "US"
 },
 {
-"k": "org:national-institutes-of-health",
-"t": "funder",
-"n": "National Institutes of Health",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "org:national-center-for-advancing-translational-sciences",
 "t": "funder",
 "n": "National Center for Advancing Translational Sciences",
@@ -2892,7 +4012,7 @@
 "k": "paper:pmid-33258894",
 "t": "paper",
 "n": "Hearing Loss in Children: A Review",
-"sub": "JAMA 2020 · cited 669",
+"sub": "JAMA 2020 · cited 670",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33258894",
 "c": ""
 },
@@ -2924,7 +4044,7 @@
 "k": "paper:pmid-32690752",
 "t": "paper",
 "n": "Public perceptions and experiences of social distancing and social isolation during the CO",
-"sub": "BMJ Open 2020 · cited 637",
+"sub": "BMJ Open 2020 · cited 639",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32690752",
 "c": ""
 },
@@ -2964,7 +4084,7 @@
 "k": "paper:pmid-35110333",
 "t": "paper",
 "n": "2022 American College of Rheumatology/European Alliance of Associations for Rheumatology c",
-"sub": "Annals of the Rheumatic Diseases 2022 · cited 588",
+"sub": "Annals of the Rheumatic Diseases 2022 · cited 590",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35110333",
 "c": ""
 },
@@ -3049,18 +4169,10 @@
 "c": ""
 },
 {
-"k": "org:harvard-university",
-"t": "funder",
-"n": "Harvard University",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
 "k": "paper:pmid-35273014",
 "t": "paper",
 "n": "Global, regional, and national burden of diseases and injuries for adults 70 years and old",
-"sub": "BMJ 2022 · cited 512",
+"sub": "BMJ 2022 · cited 513",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35273014",
 "c": ""
 },
@@ -3108,7 +4220,7 @@
 "k": "paper:pmid-32267799",
 "t": "paper",
 "n": "Clinical Practice Guideline: Ménière’s Disease",
-"sub": "Otolaryngology 2020 · cited 491",
+"sub": "Otolaryngology 2020 · cited 492",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32267799",
 "c": ""
 },
@@ -3148,7 +4260,7 @@
 "k": "paper:pmid-32554517",
 "t": "paper",
 "n": "Advocating for Children During the COVID-19 School Closures",
-"sub": "PEDIATRICS 2020 · cited 488",
+"sub": "PEDIATRICS 2020 · cited 489",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32554517",
 "c": ""
 },
@@ -3180,7 +4292,7 @@
 "k": "paper:pmid-32826080",
 "t": "paper",
 "n": "The Effects of Age-Related Hearing Loss on the Brain and Cognitive Function",
-"sub": "Trends in Neurosciences 2020 · cited 437",
+"sub": "Trends in Neurosciences 2020 · cited 439",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32826080",
 "c": ""
 },
@@ -3209,18 +4321,10 @@
 "c": "GB"
 },
 {
-"k": "org:biotechnology-and-biological-sciences-research-council",
-"t": "funder",
-"n": "Biotechnology and Biological Sciences Research Council",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-34777048",
 "t": "paper",
 "n": "Prevalence of Autism Spectrum Disorder and Co-morbidities in Children and Adolescents: A S",
-"sub": "Frontiers in Psychiatry 2021 · cited 431",
+"sub": "Frontiers in Psychiatry 2021 · cited 432",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34777048",
 "c": ""
 },
@@ -3241,14 +4345,6 @@
 "c": "NL"
 },
 {
-"k": "org:donders-institute-for-brain-cognition-and-behaviour",
-"t": "academic",
-"n": "Donders Institute for Brain, Cognition and Behaviour",
-"sub": "",
-"url": "",
-"c": "NL"
-},
-{
 "k": "org:servier",
 "t": "funder",
 "n": "Servier",
@@ -3260,7 +4356,7 @@
 "k": "paper:pmid-32871106",
 "t": "paper",
 "n": "How Can Hearing Loss Cause Dementia?",
-"sub": "Neuron 2020 · cited 423",
+"sub": "Neuron 2020 · cited 424",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32871106",
 "c": ""
 },
@@ -3364,7 +4460,7 @@
 "k": "paper:pmid-38280389",
 "t": "paper",
 "n": "AAV1-hOTOF gene therapy for autosomal recessive deafness 9: a single-arm trial",
-"sub": "The Lancet 2024 · cited 398",
+"sub": "The Lancet 2024 · cited 399",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38280389",
 "c": ""
 },
@@ -3385,14 +4481,6 @@
 "c": "CN"
 },
 {
-"k": "org:fudan-university",
-"t": "academic",
-"n": "Fudan University",
-"sub": "",
-"url": "",
-"c": "CN"
-},
-{
 "k": "person:yilai-shu",
 "t": "person",
 "n": "Yilai Shu",
@@ -3404,14 +4492,6 @@
 "k": "org:shanghai-municipal-health-commission",
 "t": "funder",
 "n": "Shanghai Municipal Health Commission",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-natural-science-foundation-of-china",
-"t": "funder",
-"n": "National Natural Science Foundation of China",
 "sub": "",
 "url": "",
 "c": ""
@@ -3500,7 +4580,7 @@
 "k": "paper:pmid-32699395",
 "t": "paper",
 "n": "Six reference-quality genomes reveal evolution of bat adaptations",
-"sub": "Nature 2020 · cited 385",
+"sub": "Nature 2020 · cited 386",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32699395",
 "c": ""
 },
@@ -3604,7 +4684,7 @@
 "k": "paper:pmid-32369519",
 "t": "paper",
 "n": "Cochlear implantation outcomes in adults: A scoping review",
-"sub": "PLoS ONE 2020 · cited 382",
+"sub": "PLoS ONE 2020 · cited 384",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32369519",
 "c": ""
 },
@@ -3668,7 +4748,7 @@
 "k": "paper:pmid-33910920",
 "t": "paper",
 "n": "Neurodevelopmental outcomes at age 5 among children born preterm: EPIPAGE-2 cohort study",
-"sub": "BMJ 2021 · cited 374",
+"sub": "BMJ 2021 · cited 376",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33910920",
 "c": ""
 },
@@ -3678,14 +4758,6 @@
 "n": "Véronique Pierrat",
 "sub": "Inserm",
 "url": "https://orcid.org/0000-0001-7435-5144",
-"c": "FR"
-},
-{
-"k": "org:inserm",
-"t": "funder",
-"n": "Inserm",
-"sub": "",
-"url": "",
 "c": "FR"
 },
 {
@@ -3737,50 +4809,10 @@
 "c": ""
 },
 {
-"k": "paper:pmid-36983347",
-"t": "paper",
-"n": "Noise-Induced Hearing Loss",
-"sub": "Journal of Clinical Medicine 2023 · cited 372",
-"url": "https://pubmed.ncbi.nlm.nih.gov/36983347",
-"c": ""
-},
-{
-"k": "person:nirvikalpa-natarajan",
-"t": "person",
-"n": "Nirvikalpa Natarajan",
-"sub": "Stanford Medicine",
-"url": "",
-"c": "US"
-},
-{
-"k": "org:stanford-medicine",
-"t": "hospital",
-"n": "Stanford Medicine",
-"sub": "",
-"url": "",
-"c": "US"
-},
-{
-"k": "person:konstantina-m-stankovic",
-"t": "person",
-"n": "Konstantina M. Stanković",
-"sub": "Stanford Medicine",
-"url": "https://orcid.org/0000-0003-0233-279X",
-"c": "US"
-},
-{
-"k": "org:fondation-bertarelli",
-"t": "funder",
-"n": "Fondation Bertarelli",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
 "k": "paper:pmid-33129267",
 "t": "paper",
 "n": "An overview of occupational noise-induced hearing loss among workers: epidemiology, pathog",
-"sub": "Environmental Health and Preventive Medicine 2020 · cited 371",
+"sub": "Environmental Health and Preventive Medicine 2020 · cited 374",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33129267",
 "c": ""
 },
@@ -3823,6 +4855,46 @@
 "sub": "",
 "url": "",
 "c": "TW"
+},
+{
+"k": "paper:pmid-36983347",
+"t": "paper",
+"n": "Noise-Induced Hearing Loss",
+"sub": "Journal of Clinical Medicine 2023 · cited 373",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36983347",
+"c": ""
+},
+{
+"k": "person:nirvikalpa-natarajan",
+"t": "person",
+"n": "Nirvikalpa Natarajan",
+"sub": "Stanford Medicine",
+"url": "",
+"c": "US"
+},
+{
+"k": "org:stanford-medicine",
+"t": "hospital",
+"n": "Stanford Medicine",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
+"k": "person:konstantina-m-stankovic",
+"t": "person",
+"n": "Konstantina M. Stanković",
+"sub": "Stanford Medicine",
+"url": "https://orcid.org/0000-0003-0233-279X",
+"c": "US"
+},
+{
+"k": "org:fondation-bertarelli",
+"t": "funder",
+"n": "Fondation Bertarelli",
+"sub": "",
+"url": "",
+"c": ""
 },
 {
 "k": "paper:pmid-35106964",
@@ -3897,18 +4969,10 @@
 "c": "EG"
 },
 {
-"k": "org:south-valley-university",
-"t": "academic",
-"n": "South Valley University",
-"sub": "",
-"url": "",
-"c": "EG"
-},
-{
 "k": "paper:pmid-32621590",
 "t": "paper",
 "n": "Management of Endocrine Disease: Osteogenesis imperfecta: an update on clinical features a",
-"sub": "European Journal of Endocrinology 2020 · cited 347",
+"sub": "European Journal of Endocrinology 2020 · cited 349",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32621590",
 "c": ""
 },
@@ -4036,7 +5100,7 @@
 "k": "paper:pmid-32105678",
 "t": "paper",
 "n": "Cytomegalovirus infection during pregnancy: state of the science",
-"sub": "American Journal of Obstetrics and Gynecology 2020 · cited 331",
+"sub": "American Journal of Obstetrics and Gynecology 2020 · cited 332",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32105678",
 "c": ""
 },
@@ -4084,7 +5148,7 @@
 "k": "paper:pmid-32294104",
 "t": "paper",
 "n": "Misophonia: Phenomenology, comorbidity and demographics in a large sample",
-"sub": "PLoS ONE 2020 · cited 317",
+"sub": "PLoS ONE 2020 · cited 318",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32294104",
 "c": ""
 },
@@ -4124,7 +5188,7 @@
 "k": "paper:pmid-36472590",
 "t": "paper",
 "n": "Progress and Challenges in Bacterial Meningitis: A Review",
-"sub": "JAMA 2022 · cited 316",
+"sub": "JAMA 2022 · cited 317",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36472590",
 "c": ""
 },
@@ -4188,7 +5252,7 @@
 "k": "paper:pmid-32203759",
 "t": "paper",
 "n": "Hearing and speech benefits of cochlear implantation in children: A review of the literatu",
-"sub": "International Journal of Pediatric Otorhinolaryngology 2020 · cited 304",
+"sub": "International Journal of Pediatric Otorhinolaryngology 2020 · cited 307",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32203759",
 "c": ""
 },
@@ -4231,14 +5295,6 @@
 "sub": "University of Toronto",
 "url": "https://orcid.org/0000-0002-2491-3125",
 "c": "CA"
-},
-{
-"k": "org:cochlear",
-"t": "funder",
-"n": "Cochlear",
-"sub": "",
-"url": "",
-"c": ""
 },
 {
 "k": "paper:pmid-35532912",
@@ -4825,33 +5881,13 @@
 "r": "tested_in"
 },
 {
-"a": "drug:spi-1005-high",
+"a": "drug:spi-1005",
 "b": "asset:coch-aso",
 "r": "competes"
 },
 {
-"a": "drug:spi-1005-high",
-"b": "trial:nct01451853",
-"r": "tested_in"
-},
-{
-"a": "drug:spi-1005-low",
-"b": "asset:coch-aso",
-"r": "competes"
-},
-{
-"a": "drug:spi-1005-low",
-"b": "trial:nct01451853",
-"r": "tested_in"
-},
-{
-"a": "drug:spi-1005-middle",
-"b": "asset:coch-aso",
-"r": "competes"
-},
-{
-"a": "drug:spi-1005-middle",
-"b": "trial:nct01451853",
+"a": "drug:spi-1005",
+"b": "trial:nct02779192",
 "r": "tested_in"
 },
 {
@@ -5022,6 +6058,11 @@
 {
 "a": "org:biotechnology-and-biological-sciences-research-council",
 "b": "paper:pmid-32826080",
+"r": "funded"
+},
+{
+"a": "org:biotechnology-and-biological-sciences-research-council",
+"b": "paper:pmid-34244442",
 "r": "funded"
 },
 {
@@ -5205,6 +6246,11 @@
 "r": "funded"
 },
 {
+"a": "org:cochlear",
+"b": "paper:pmid-39271588",
+"r": "funded"
+},
+{
 "a": "org:columbia-university-irving-medical-center",
 "b": "trial:nct05788536",
 "r": "site_of"
@@ -5320,6 +6366,11 @@
 "r": "sponsors"
 },
 {
+"a": "org:faculty-of-medicine-and-health-university-of-sydney",
+"b": "paper:pmid-36607747",
+"r": "funded"
+},
+{
 "a": "org:fakultni-nemocnice-v-motole",
 "b": "trial:nct05776459",
 "r": "site_of"
@@ -5350,6 +6401,41 @@
 "r": "site_of"
 },
 {
+"a": "org:fonds-wetenschappelijk-onderzoek",
+"b": "paper:pmid-32373054",
+"r": "funded"
+},
+{
+"a": "org:fonds-wetenschappelijk-onderzoek",
+"b": "paper:pmid-36607747",
+"r": "funded"
+},
+{
+"a": "org:fonds-wetenschappelijk-onderzoek",
+"b": "paper:pmid-37709329",
+"r": "funded"
+},
+{
+"a": "org:fonds-wetenschappelijk-onderzoek",
+"b": "paper:pmid-38218018",
+"r": "funded"
+},
+{
+"a": "org:fonds-wetenschappelijk-onderzoek",
+"b": "paper:pmid-39864432",
+"r": "funded"
+},
+{
+"a": "org:fonds-wetenschappelijk-onderzoek",
+"b": "paper:pmid-40088601",
+"r": "funded"
+},
+{
+"a": "org:foundation-fighting-blindness",
+"b": "paper:pmid-33815940",
+"r": "funded"
+},
+{
 "a": "org:foundation-fighting-blindness",
 "b": "trial:nct04355689",
 "r": "collaborates"
@@ -5358,6 +6444,11 @@
 "a": "org:foundation-fighting-blindness",
 "b": "trial:nct07710196",
 "r": "collaborates"
+},
+{
+"a": "org:foundation-for-the-national-institutes-of-health",
+"b": "paper:pmid-32939038",
+"r": "funded"
 },
 {
 "a": "org:fujita-health-university-hospital",
@@ -5513,6 +6604,11 @@
 "a": "org:japan-organization-for-occupational-health-and-safety-hokkai",
 "b": "trial:nct07722962",
 "r": "site_of"
+},
+{
+"a": "org:japan-society-for-the-promotion-of-science",
+"b": "paper:pmid-35901072",
+"r": "funded"
 },
 {
 "a": "org:johns-hopkins-comstock-center-for-public-health-research-and",
@@ -5735,6 +6831,11 @@
 "r": "collaborates"
 },
 {
+"a": "org:med-el-medical-electronics",
+"b": "paper:pmid-39743754",
+"r": "funded"
+},
+{
 "a": "org:medical-college-of-wisconsin",
 "b": "trial:nct05537220",
 "r": "collaborates"
@@ -5753,6 +6854,11 @@
 "a": "org:medical-college-of-wisconsin",
 "b": "trial:nct06859788",
 "r": "site_of"
+},
+{
+"a": "org:medical-research-council",
+"b": "paper:pmid-34244442",
+"r": "funded"
 },
 {
 "a": "org:medical-university-of-graz",
@@ -5812,6 +6918,11 @@
 {
 "a": "org:moorfields-eye-hospital",
 "b": "trial:nct06591793",
+"r": "site_of"
+},
+{
+"a": "org:musc",
+"b": "trial:nct02779192",
 "r": "site_of"
 },
 {
@@ -5905,6 +7016,16 @@
 "r": "funded"
 },
 {
+"a": "org:national-institute-of-advanced-industrial-science-and-techno",
+"b": "paper:pmid-35901072",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-environmental-health-sciences",
+"b": "paper:pmid-35038006",
+"r": "funded"
+},
+{
 "a": "org:national-institute-of-general-medical-sciences",
 "b": "paper:pmid-32621590",
 "r": "funded"
@@ -5921,7 +7042,22 @@
 },
 {
 "a": "org:national-institute-on-deafness-and-other-communication-disor",
+"b": "paper:pmid-32562050",
+"r": "funded"
+},
+{
+"a": "org:national-institute-on-deafness-and-other-communication-disor",
 "b": "paper:pmid-32690619",
+"r": "funded"
+},
+{
+"a": "org:national-institute-on-deafness-and-other-communication-disor",
+"b": "paper:pmid-32939038",
+"r": "funded"
+},
+{
+"a": "org:national-institute-on-deafness-and-other-communication-disor",
+"b": "paper:pmid-35038006",
 "r": "funded"
 },
 {
@@ -5942,6 +7078,11 @@
 {
 "a": "org:national-institutes-of-health",
 "b": "paper:pmid-32871106",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-32939038",
 "r": "funded"
 },
 {
@@ -5966,6 +7107,11 @@
 },
 {
 "a": "org:national-natural-science-foundation-of-china",
+"b": "paper:pmid-38255649",
+"r": "funded"
+},
+{
+"a": "org:national-natural-science-foundation-of-china",
 "b": "paper:pmid-38280389",
 "r": "funded"
 },
@@ -5978,6 +7124,11 @@
 "a": "org:national-taiwan-university-hospital",
 "b": "trial:nct05821959",
 "r": "site_of"
+},
+{
+"a": "org:nederlandse-organisatie-voor-wetenschappelijk-onderzoek",
+"b": "paper:pmid-33815940",
+"r": "funded"
 },
 {
 "a": "org:nemours-children-s-clinic",
@@ -6130,9 +7281,34 @@
 "r": "site_of"
 },
 {
+"a": "org:queen-elisabeth-medical-foundation",
+"b": "paper:pmid-32373054",
+"r": "funded"
+},
+{
+"a": "org:queen-elisabeth-medical-foundation",
+"b": "paper:pmid-33815940",
+"r": "funded"
+},
+{
+"a": "org:queen-elisabeth-medical-foundation",
+"b": "paper:pmid-38218018",
+"r": "funded"
+},
+{
 "a": "org:queensland-eye-institute",
 "b": "trial:nct04355689",
 "r": "site_of"
+},
+{
+"a": "org:radboud-universitair-medisch-centrum",
+"b": "paper:pmid-38398443",
+"r": "funded"
+},
+{
+"a": "org:radboud-universiteit",
+"b": "paper:pmid-38398443",
+"r": "funded"
 },
 {
 "a": "org:radboud-university-medical-center",
@@ -6168,6 +7344,11 @@
 "a": "org:regeneron-pharmaceuticals",
 "b": "trial:nct05788536",
 "r": "sponsors"
+},
+{
+"a": "org:research-councils-uk",
+"b": "paper:pmid-34244442",
+"r": "funded"
 },
 {
 "a": "org:retina-clinic-london",
@@ -6245,6 +7426,11 @@
 "r": "funded"
 },
 {
+"a": "org:science-and-technology-commission-of-shanghai-municipality",
+"b": "paper:pmid-38255649",
+"r": "funded"
+},
+{
 "a": "org:seattle-children-s-hospital",
 "b": "trial:nct05788536",
 "r": "site_of"
@@ -6316,22 +7502,17 @@
 },
 {
 "a": "org:sound-pharmaceuticals",
-"b": "drug:spi-1005-high",
+"b": "drug:spi-1005",
 "r": "develops"
 },
 {
 "a": "org:sound-pharmaceuticals",
-"b": "drug:spi-1005-low",
-"r": "develops"
+"b": "trial:nct02779192",
+"r": "site_of"
 },
 {
 "a": "org:sound-pharmaceuticals",
-"b": "drug:spi-1005-middle",
-"r": "develops"
-},
-{
-"a": "org:sound-pharmaceuticals",
-"b": "trial:nct01451853",
+"b": "trial:nct02779192",
 "r": "sponsors"
 },
 {
@@ -6362,6 +7543,16 @@
 {
 "a": "org:state-administration-of-foreign-experts-affairs",
 "b": "paper:pmid-33125712",
+"r": "funded"
+},
+{
+"a": "org:stichting-de-weijerhorst",
+"b": "paper:pmid-39743754",
+"r": "funded"
+},
+{
+"a": "org:stichting-het-heinsius-houbolt-fonds",
+"b": "paper:pmid-39743754",
 "r": "funded"
 },
 {
@@ -6478,6 +7669,26 @@
 "a": "org:universitatsklinik-fur-hals-nasen-und-ohrenkrankheiten",
 "b": "trial:nct05776459",
 "r": "site_of"
+},
+{
+"a": "org:universiteit-antwerpen",
+"b": "paper:pmid-32373054",
+"r": "funded"
+},
+{
+"a": "org:universiteit-antwerpen",
+"b": "paper:pmid-36607747",
+"r": "funded"
+},
+{
+"a": "org:universiteit-antwerpen",
+"b": "paper:pmid-37709329",
+"r": "funded"
+},
+{
+"a": "org:universiteit-antwerpen",
+"b": "paper:pmid-38218018",
+"r": "funded"
 },
 {
 "a": "org:university-college-london",
@@ -6635,6 +7846,11 @@
 "r": "site_of"
 },
 {
+"a": "org:university-of-kansas-medical-center",
+"b": "trial:nct02779192",
+"r": "site_of"
+},
+{
 "a": "org:university-of-manchester",
 "b": "paper:pmid-32690752",
 "r": "funded"
@@ -6642,6 +7858,11 @@
 {
 "a": "org:university-of-maryland-medical-center",
 "b": "trial:nct04915183",
+"r": "site_of"
+},
+{
+"a": "org:university-of-miami",
+"b": "trial:nct02779192",
 "r": "site_of"
 },
 {
@@ -6761,6 +7982,11 @@
 },
 {
 "a": "org:university-of-texas-southwestern",
+"b": "trial:nct02779192",
+"r": "site_of"
+},
+{
+"a": "org:university-of-texas-southwestern",
 "b": "trial:nct06340633",
 "r": "site_of"
 },
@@ -6810,16 +8036,6 @@
 "r": "site_of"
 },
 {
-"a": "org:va-puget-sound-health-care",
-"b": "trial:nct01451853",
-"r": "site_of"
-},
-{
-"a": "org:va-puget-sound-health-care-system",
-"b": "trial:nct01451853",
-"r": "collaborates"
-},
-{
 "a": "org:valley-children-s-hospital",
 "b": "trial:nct05382338",
 "r": "site_of"
@@ -6853,6 +8069,16 @@
 "a": "org:vitreo-retinal-associates-pa",
 "b": "trial:nct05537220",
 "r": "collaborates"
+},
+{
+"a": "org:vlaamse-regering",
+"b": "paper:pmid-32373054",
+"r": "funded"
+},
+{
+"a": "org:vlaamse-regering",
+"b": "paper:pmid-37709329",
+"r": "funded"
 },
 {
 "a": "org:wake-forest-university",
@@ -6900,9 +8126,24 @@
 "r": "funded"
 },
 {
+"a": "org:yunnan-university-of-finance-and-economics",
+"b": "paper:pmid-38218018",
+"r": "funded"
+},
+{
 "a": "org:zdravotnicka-zarizeni-olomouc-orl",
 "b": "trial:nct05776459",
 "r": "site_of"
+},
+{
+"a": "org:zonmw",
+"b": "paper:pmid-33815940",
+"r": "funded"
+},
+{
+"a": "org:zonmw",
+"b": "paper:pmid-39743754",
+"r": "funded"
 },
 {
 "a": "person:aaron-tward",
@@ -6922,6 +8163,16 @@
 {
 "a": "person:abbey-r-masonbrink",
 "b": "paper:pmid-32554517",
+"r": "authored"
+},
+{
+"a": "person:abdellatif-seddek",
+"b": "org:south-valley-university",
+"r": "affiliated"
+},
+{
+"a": "person:abdellatif-seddek",
+"b": "paper:doi-10-21608-svu-2023-152613-1216",
 "r": "authored"
 },
 {
@@ -6960,6 +8211,11 @@
 "r": "authored"
 },
 {
+"a": "person:andy-j-beynon",
+"b": "paper:pmid-33710989",
+"r": "authored"
+},
+{
 "a": "person:anne-chiaramello-ph-d",
 "b": "org:george-washington-university-school-of-medicine-and-health-s",
 "r": "affiliated"
@@ -6968,6 +8224,46 @@
 "a": "person:anne-chiaramello-ph-d",
 "b": "trial:nct06792500",
 "r": "investigator"
+},
+{
+"a": "person:anneleen-beerten",
+"b": "paper:pmid-36001698",
+"r": "authored"
+},
+{
+"a": "person:annick-gilles",
+"b": "org:antwerp-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:annick-gilles",
+"b": "org:university-of-antwerp",
+"r": "affiliated"
+},
+{
+"a": "person:annick-gilles",
+"b": "paper:pmid-39864432",
+"r": "authored"
+},
+{
+"a": "person:asmaa-wahaballah-basher",
+"b": "org:south-valley-university",
+"r": "affiliated"
+},
+{
+"a": "person:asmaa-wahaballah-basher",
+"b": "paper:doi-10-21608-svu-2023-152613-1216",
+"r": "authored"
+},
+{
+"a": "person:berina-ihtijarevic",
+"b": "org:antwerp-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:berina-ihtijarevic",
+"b": "paper:pmid-31998212",
+"r": "authored"
 },
 {
 "a": "person:brian-sheng-yep-yeo",
@@ -6990,6 +8286,16 @@
 "r": "authored"
 },
 {
+"a": "person:camille-levie",
+"b": "org:antwerp-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:camille-levie",
+"b": "paper:pmid-33555744",
+"r": "authored"
+},
+{
 "a": "person:chao-hui-yang",
 "b": "org:chang-gung-memorial-hospital",
 "r": "affiliated"
@@ -7002,6 +8308,16 @@
 {
 "a": "person:clemence-bougeard",
 "b": "paper:pmid-34777048",
+"r": "authored"
+},
+{
+"a": "person:cris-lanting",
+"b": "org:donders-institute-for-brain-cognition-and-behaviour",
+"r": "affiliated"
+},
+{
+"a": "person:cris-lanting",
+"b": "paper:pmid-33710989",
 "r": "authored"
 },
 {
@@ -7080,6 +8396,21 @@
 "r": "investigator"
 },
 {
+"a": "person:dorien-verdoodt",
+"b": "org:university-of-antwerp",
+"r": "affiliated"
+},
+{
+"a": "person:dorien-verdoodt",
+"b": "paper:pmid-33421658",
+"r": "authored"
+},
+{
+"a": "person:dorien-verdoodt",
+"b": "paper:pmid-38218018",
+"r": "authored"
+},
+{
 "a": "person:douglas-hartley",
 "b": "org:rinri-therapeutics",
 "r": "affiliated"
@@ -7090,6 +8421,31 @@
 "r": "investigator"
 },
 {
+"a": "person:dyan-ramekers",
+"b": "org:university-of-antwerp",
+"r": "affiliated"
+},
+{
+"a": "person:dyan-ramekers",
+"b": "org:utrecht-university",
+"r": "affiliated"
+},
+{
+"a": "person:dyan-ramekers",
+"b": "paper:pmid-40088601",
+"r": "authored"
+},
+{
+"a": "person:e-c-martin",
+"b": "org:maastricht-university-medical-centre",
+"r": "affiliated"
+},
+{
+"a": "person:e-c-martin",
+"b": "paper:pmid-38398443",
+"r": "authored"
+},
+{
 "a": "person:edwin-rubel",
 "b": "org:oricula-therapeutics",
 "r": "affiliated"
@@ -7098,6 +8454,21 @@
 "a": "person:edwin-rubel",
 "b": "trial:nct05730283",
 "r": "investigator"
+},
+{
+"a": "person:eleni-leventea",
+"b": "org:university-of-sheffield",
+"r": "affiliated"
+},
+{
+"a": "person:eleni-leventea",
+"b": "paper:pmid-34244442",
+"r": "authored"
+},
+{
+"a": "person:eline-van-beelen",
+"b": "paper:pmid-33710989",
+"r": "authored"
 },
 {
 "a": "person:emily-a-hurley",
@@ -7120,6 +8491,36 @@
 "r": "authored"
 },
 {
+"a": "person:erik-de-vrieze",
+"b": "org:donders-institute-for-brain-cognition-and-behaviour",
+"r": "affiliated"
+},
+{
+"a": "person:erik-de-vrieze",
+"b": "org:radboud-university-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:erik-de-vrieze",
+"b": "org:radboud-university-nijmegen",
+"r": "affiliated"
+},
+{
+"a": "person:erik-de-vrieze",
+"b": "paper:pmid-33710989",
+"r": "authored"
+},
+{
+"a": "person:erik-de-vrieze",
+"b": "paper:pmid-33815940",
+"r": "authored"
+},
+{
+"a": "person:erik-de-vrieze",
+"b": "paper:pmid-38218018",
+"r": "authored"
+},
+{
 "a": "person:erin-michelle-buchanan",
 "b": "org:american-academy-of-otolaryngology-head-and-neck-surgery",
 "r": "affiliated"
@@ -7127,6 +8528,26 @@
 {
 "a": "person:erin-michelle-buchanan",
 "b": "paper:pmid-32267799",
+"r": "authored"
+},
+{
+"a": "person:erwin-van-wijk",
+"b": "org:radboud-university-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:erwin-van-wijk",
+"b": "org:radboud-university-nijmegen",
+"r": "affiliated"
+},
+{
+"a": "person:erwin-van-wijk",
+"b": "paper:doi-10-5152-b-ent-2022-21791",
+"r": "authored"
+},
+{
+"a": "person:erwin-van-wijk",
+"b": "paper:pmid-33815940",
 "r": "authored"
 },
 {
@@ -7180,6 +8601,16 @@
 "r": "authored"
 },
 {
+"a": "person:fredericus-j-m-van-eeden",
+"b": "org:university-of-sheffield",
+"r": "affiliated"
+},
+{
+"a": "person:fredericus-j-m-van-eeden",
+"b": "paper:pmid-34244442",
+"r": "authored"
+},
+{
 "a": "person:gill-livingston",
 "b": "org:camden-and-islington-nhs-foundation-trust",
 "r": "affiliated"
@@ -7210,6 +8641,21 @@
 "r": "authored"
 },
 {
+"a": "person:guy-van-camp",
+"b": "org:antwerp-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:guy-van-camp",
+"b": "org:university-of-antwerp",
+"r": "affiliated"
+},
+{
+"a": "person:guy-van-camp",
+"b": "paper:pmid-33555744",
+"r": "authored"
+},
+{
 "a": "person:haidi-yang-doctor",
 "b": "org:sun-yat-sen-memorial-hospital-of-sun-yat-sen-university",
 "r": "affiliated"
@@ -7230,6 +8676,51 @@
 "r": "authored"
 },
 {
+"a": "person:hanne-gommeren",
+"b": "org:antwerp-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:hanne-gommeren",
+"b": "org:university-of-antwerp",
+"r": "affiliated"
+},
+{
+"a": "person:hanne-gommeren",
+"b": "paper:pmid-36607747",
+"r": "authored"
+},
+{
+"a": "person:hanne-gommeren",
+"b": "paper:pmid-37709329",
+"r": "authored"
+},
+{
+"a": "person:hannie-kremer",
+"b": "org:donders-institute-for-brain-cognition-and-behaviour",
+"r": "affiliated"
+},
+{
+"a": "person:hannie-kremer",
+"b": "org:radboud-university-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:hannie-kremer",
+"b": "paper:pmid-33710989",
+"r": "authored"
+},
+{
+"a": "person:hela-azaiez",
+"b": "org:university-of-iowa",
+"r": "affiliated"
+},
+{
+"a": "person:hela-azaiez",
+"b": "paper:pmid-32562050",
+"r": "authored"
+},
+{
 "a": "person:helen-elizabeth-nuttall",
 "b": "org:lancaster-university",
 "r": "affiliated"
@@ -7237,6 +8728,31 @@
 {
 "a": "person:helen-elizabeth-nuttall",
 "b": "paper:pmid-32826080",
+"r": "authored"
+},
+{
+"a": "person:helena-bosmans",
+"b": "org:hasselt-university",
+"r": "affiliated"
+},
+{
+"a": "person:helena-bosmans",
+"b": "paper:pmid-36001698",
+"r": "authored"
+},
+{
+"a": "person:henricus-p-m-kunst",
+"b": "org:radboud-institute-for-health-sciences",
+"r": "affiliated"
+},
+{
+"a": "person:henricus-p-m-kunst",
+"b": "org:radboud-university-nijmegen",
+"r": "affiliated"
+},
+{
+"a": "person:henricus-p-m-kunst",
+"b": "paper:pmid-33710989",
 "r": "authored"
 },
 {
@@ -7295,6 +8811,11 @@
 "r": "authored"
 },
 {
+"a": "person:jaap-oostrik",
+"b": "paper:pmid-33710989",
+"r": "authored"
+},
+{
 "a": "person:jan-k-buitelaar",
 "b": "org:donders-institute-for-brain-cognition-and-behaviour",
 "r": "affiliated"
@@ -7307,6 +8828,36 @@
 {
 "a": "person:jan-k-buitelaar",
 "b": "paper:pmid-34777048",
+"r": "authored"
+},
+{
+"a": "person:jarema-j-malicki",
+"b": "org:university-of-sheffield",
+"r": "affiliated"
+},
+{
+"a": "person:jarema-j-malicki",
+"b": "paper:pmid-34244442",
+"r": "authored"
+},
+{
+"a": "person:jeroen-j-smits",
+"b": "org:donders-institute-for-brain-cognition-and-behaviour",
+"r": "affiliated"
+},
+{
+"a": "person:jeroen-j-smits",
+"b": "paper:pmid-33710989",
+"r": "authored"
+},
+{
+"a": "person:jian-li",
+"b": "org:children-s-hospital-of-fudan-university",
+"r": "affiliated"
+},
+{
+"a": "person:jian-li",
+"b": "paper:pmid-38255649",
 "r": "authored"
 },
 {
@@ -7336,8 +8887,23 @@
 },
 {
 "a": "person:jonathan-kil",
-"b": "trial:nct01451853",
+"b": "trial:nct02779192",
 "r": "investigator"
+},
+{
+"a": "person:joost-j-a-stultiens",
+"b": "org:maastricht-university",
+"r": "affiliated"
+},
+{
+"a": "person:joost-j-a-stultiens",
+"b": "org:maastricht-university-medical-centre",
+"r": "affiliated"
+},
+{
+"a": "person:joost-j-a-stultiens",
+"b": "paper:pmid-39743754",
+"r": "authored"
 },
 {
 "a": "person:josef-coresh",
@@ -7377,6 +8943,41 @@
 {
 "a": "person:judith-e-c-lieu",
 "b": "paper:pmid-33258894",
+"r": "authored"
+},
+{
+"a": "person:julie-moyaert",
+"b": "org:antwerp-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:julie-moyaert",
+"b": "org:university-of-antwerp",
+"r": "affiliated"
+},
+{
+"a": "person:julie-moyaert",
+"b": "paper:doi-10-63028-10067-2158550151162165141",
+"r": "authored"
+},
+{
+"a": "person:julie-moyaert",
+"b": "paper:pmid-33555744",
+"r": "authored"
+},
+{
+"a": "person:julie-moyaert",
+"b": "paper:pmid-38167558",
+"r": "authored"
+},
+{
+"a": "person:julie-moyaert",
+"b": "paper:pmid-39864432",
+"r": "authored"
+},
+{
+"a": "person:julie-moyaert",
+"b": "paper:pmid-40088601",
 "r": "authored"
 },
 {
@@ -7430,6 +9031,16 @@
 "r": "affiliated"
 },
 {
+"a": "person:kazuo-yamamoto",
+"b": "org:the-university-of-tokyo",
+"r": "affiliated"
+},
+{
+"a": "person:kazuo-yamamoto",
+"b": "paper:pmid-35901072",
+"r": "authored"
+},
+{
 "a": "person:kevin-l-winthrop-mph",
 "b": "org:oregon-health-and-science-university",
 "r": "affiliated"
@@ -7438,6 +9049,21 @@
 "a": "person:kevin-l-winthrop-mph",
 "b": "trial:nct05730283",
 "r": "investigator"
+},
+{
+"a": "person:kevin-t-a-booth",
+"b": "org:harvard-university",
+"r": "affiliated"
+},
+{
+"a": "person:kevin-t-a-booth",
+"b": "org:university-of-iowa",
+"r": "affiliated"
+},
+{
+"a": "person:kevin-t-a-booth",
+"b": "paper:pmid-32562050",
+"r": "authored"
 },
 {
 "a": "person:kimberly-dienes",
@@ -7560,6 +9186,61 @@
 "r": "authored"
 },
 {
+"a": "person:m-l-a-fehrmann",
+"b": "org:donders-institute-for-brain-cognition-and-behaviour",
+"r": "affiliated"
+},
+{
+"a": "person:m-l-a-fehrmann",
+"b": "org:radboud-university-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:m-l-a-fehrmann",
+"b": "paper:pmid-39271588",
+"r": "authored"
+},
+{
+"a": "person:mahadi-salah",
+"b": "org:antwerp-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:mahadi-salah",
+"b": "org:jessa-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:mahadi-salah",
+"b": "org:university-of-antwerp",
+"r": "affiliated"
+},
+{
+"a": "person:mahadi-salah",
+"b": "paper:pmid-33492061",
+"r": "authored"
+},
+{
+"a": "person:mahadi-salah",
+"b": "paper:pmid-35020687",
+"r": "authored"
+},
+{
+"a": "person:marc-j-w-lammers",
+"b": "org:antwerp-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:marc-j-w-lammers",
+"b": "org:university-of-antwerp",
+"r": "affiliated"
+},
+{
+"a": "person:marc-j-w-lammers",
+"b": "paper:pmid-40088601",
+"r": "authored"
+},
+{
 "a": "person:marianne-leruezville",
 "b": "org:hopital-necker-enfants-malades",
 "r": "affiliated"
@@ -7610,6 +9291,16 @@
 "r": "investigator"
 },
 {
+"a": "person:meindert-lauwers",
+"b": "paper:pmid-36001698",
+"r": "authored"
+},
+{
+"a": "person:merel-oerlemans",
+"b": "paper:doi-10-24078-opto-2023-9-23701",
+"r": "authored"
+},
+{
 "a": "person:michael-hiller",
 "b": "org:max-planck-institute-for-psycholinguistics",
 "r": "affiliated"
@@ -7650,6 +9341,21 @@
 "r": "authored"
 },
 {
+"a": "person:nada-danialfarran",
+"b": "org:technion-israel-institute-of-technology",
+"r": "affiliated"
+},
+{
+"a": "person:nada-danialfarran",
+"b": "org:tel-aviv-university",
+"r": "affiliated"
+},
+{
+"a": "person:nada-danialfarran",
+"b": "paper:pmid-32939038",
+"r": "authored"
+},
+{
 "a": "person:natalie-loundon-pr",
 "b": "org:hopital-necker-enfants-malades",
 "r": "affiliated"
@@ -7675,6 +9381,11 @@
 "r": "authored"
 },
 {
+"a": "person:nicole-j-d-weegerink",
+"b": "paper:pmid-33710989",
+"r": "authored"
+},
+{
 "a": "person:nienke-c-c-vulink",
 "b": "org:amsterdam-umc-location-university-of-amsterdam",
 "r": "affiliated"
@@ -7687,6 +9398,21 @@
 {
 "a": "person:nienke-c-c-vulink",
 "b": "paper:pmid-32294104",
+"r": "authored"
+},
+{
+"a": "person:nils-guinand",
+"b": "org:university-hospital-of-geneva",
+"r": "affiliated"
+},
+{
+"a": "person:nils-guinand",
+"b": "org:university-of-geneva",
+"r": "affiliated"
+},
+{
+"a": "person:nils-guinand",
+"b": "paper:pmid-39743754",
 "r": "authored"
 },
 {
@@ -7712,6 +9438,21 @@
 {
 "a": "person:nirvikalpa-natarajan",
 "b": "paper:pmid-36983347",
+"r": "authored"
+},
+{
+"a": "person:olivier-m-vanderveken",
+"b": "org:antwerp-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:olivier-m-vanderveken",
+"b": "paper:pmid-33555744",
+"r": "authored"
+},
+{
+"a": "person:patrick-l-m-huygen",
+"b": "paper:pmid-33710989",
 "r": "authored"
 },
 {
@@ -7810,6 +9551,21 @@
 "r": "investigator"
 },
 {
+"a": "person:ralyath-balogoun",
+"b": "org:assistance-publique-hopitaux-de-paris",
+"r": "affiliated"
+},
+{
+"a": "person:ralyath-balogoun",
+"b": "org:hopital-necker-enfants-malades",
+"r": "affiliated"
+},
+{
+"a": "person:ralyath-balogoun",
+"b": "paper:pmid-42195045",
+"r": "authored"
+},
+{
 "a": "person:randall-w-grout",
 "b": "org:indiana-university-indianapolis",
 "r": "affiliated"
@@ -7822,6 +9578,26 @@
 {
 "a": "person:randall-w-grout",
 "b": "paper:pmid-35490285",
+"r": "authored"
+},
+{
+"a": "person:raymond-van-de-berg",
+"b": "org:maastricht-university",
+"r": "affiliated"
+},
+{
+"a": "person:raymond-van-de-berg",
+"b": "org:maastricht-university-medical-centre",
+"r": "affiliated"
+},
+{
+"a": "person:raymond-van-de-berg",
+"b": "paper:pmid-38398443",
+"r": "authored"
+},
+{
+"a": "person:raymond-van-de-berg",
+"b": "paper:pmid-39743754",
 "r": "authored"
 },
 {
@@ -7850,6 +9626,16 @@
 "r": "authored"
 },
 {
+"a": "person:richard-j-smith",
+"b": "org:university-of-iowa",
+"r": "affiliated"
+},
+{
+"a": "person:richard-j-smith",
+"b": "paper:pmid-35038006",
+"r": "authored"
+},
+{
 "a": "person:roch-a-nianogo",
 "b": "org:university-of-california-los-angeles",
 "r": "affiliated"
@@ -7867,6 +9653,36 @@
 {
 "a": "person:rodrigo-hasbun",
 "b": "paper:pmid-36472590",
+"r": "authored"
+},
+{
+"a": "person:ronald-j-e-pennings",
+"b": "org:donders-institute-for-brain-cognition-and-behaviour",
+"r": "affiliated"
+},
+{
+"a": "person:ronald-j-e-pennings",
+"b": "org:radboud-university-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:ronald-j-e-pennings",
+"b": "org:radboud-university-nijmegen",
+"r": "affiliated"
+},
+{
+"a": "person:ronald-j-e-pennings",
+"b": "paper:pmid-33710989",
+"r": "authored"
+},
+{
+"a": "person:ronald-j-e-pennings",
+"b": "paper:pmid-35204720",
+"r": "authored"
+},
+{
+"a": "person:ronald-j-e-pennings",
+"b": "paper:pmid-42259506",
 "r": "authored"
 },
 {
@@ -7895,6 +9711,16 @@
 "r": "authored"
 },
 {
+"a": "person:ryan-kendall-thorpe",
+"b": "org:university-of-iowa",
+"r": "affiliated"
+},
+{
+"a": "person:ryan-kendall-thorpe",
+"b": "paper:pmid-35038006",
+"r": "authored"
+},
+{
 "a": "person:ryan-m-corey",
 "b": "org:university-of-illinois-urbana-champaign",
 "r": "affiliated"
@@ -7902,6 +9728,41 @@
 {
 "a": "person:ryan-m-corey",
 "b": "paper:pmid-33138498",
+"r": "authored"
+},
+{
+"a": "person:saima-riazuddin",
+"b": "org:university-of-maryland-baltimore",
+"r": "affiliated"
+},
+{
+"a": "person:saima-riazuddin",
+"b": "paper:pmid-32562050",
+"r": "authored"
+},
+{
+"a": "person:samy-a-f-morad",
+"b": "org:south-valley-university",
+"r": "affiliated"
+},
+{
+"a": "person:samy-a-f-morad",
+"b": "paper:doi-10-21608-svu-2023-152613-1216",
+"r": "authored"
+},
+{
+"a": "person:sandrine-marlin",
+"b": "org:hopital-necker-enfants-malades",
+"r": "affiliated"
+},
+{
+"a": "person:sandrine-marlin",
+"b": "org:inserm",
+"r": "affiliated"
+},
+{
+"a": "person:sandrine-marlin",
+"b": "paper:pmid-42195045",
 "r": "authored"
 },
 {
@@ -7913,6 +9774,56 @@
 "a": "person:sarah-neuhaus-d-o",
 "b": "trial:nct05821959",
 "r": "investigator"
+},
+{
+"a": "person:sebastien-janssens-de-varebeke",
+"b": "org:jessa-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:sebastien-janssens-de-varebeke",
+"b": "org:university-of-antwerp",
+"r": "affiliated"
+},
+{
+"a": "person:sebastien-janssens-de-varebeke",
+"b": "paper:doi-10-47671-tvg-76-06-2003036",
+"r": "authored"
+},
+{
+"a": "person:sebastien-janssens-de-varebeke",
+"b": "paper:pmid-33492061",
+"r": "authored"
+},
+{
+"a": "person:sebastien-janssens-de-varebeke",
+"b": "paper:pmid-35020687",
+"r": "authored"
+},
+{
+"a": "person:sebastien-janssens-de-varebeke",
+"b": "paper:pmid-36001698",
+"r": "authored"
+},
+{
+"a": "person:sebastien-p-f-janssensdevarebeke",
+"b": "org:jessa-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:sebastien-p-f-janssensdevarebeke",
+"b": "org:university-of-antwerp",
+"r": "affiliated"
+},
+{
+"a": "person:sebastien-p-f-janssensdevarebeke",
+"b": "paper:pmid-34369416",
+"r": "authored"
+},
+{
+"a": "person:sebastien-p-f-janssensdevarebeke",
+"b": "paper:pmid-34369417",
+"r": "authored"
 },
 {
 "a": "person:shahram-rezapour",
@@ -7985,6 +9896,21 @@
 "r": "authored"
 },
 {
+"a": "person:stavit-allon-shalev",
+"b": "org:emek-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:stavit-allon-shalev",
+"b": "org:technion-israel-institute-of-technology",
+"r": "affiliated"
+},
+{
+"a": "person:stavit-allon-shalev",
+"b": "paper:pmid-32939038",
+"r": "authored"
+},
+{
 "a": "person:sunil-dutt-sharma",
 "b": "org:hospital-for-sick-children",
 "r": "affiliated"
@@ -7997,6 +9923,26 @@
 {
 "a": "person:sunil-dutt-sharma",
 "b": "paper:pmid-32203759",
+"r": "authored"
+},
+{
+"a": "person:sybren-m-m-robijn",
+"b": "org:radboud-university-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:sybren-m-m-robijn",
+"b": "org:radboud-university-nijmegen",
+"r": "affiliated"
+},
+{
+"a": "person:sybren-m-m-robijn",
+"b": "paper:pmid-35204720",
+"r": "authored"
+},
+{
+"a": "person:sybren-m-m-robijn",
+"b": "paper:pmid-42259506",
 "r": "authored"
 },
 {
@@ -8015,6 +9961,31 @@
 "r": "authored"
 },
 {
+"a": "person:tomoko-honda",
+"b": "org:the-university-of-tokyo",
+"r": "affiliated"
+},
+{
+"a": "person:tomoko-honda",
+"b": "paper:pmid-35901072",
+"r": "authored"
+},
+{
+"a": "person:vedat-topsakal",
+"b": "org:antwerp-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:vedat-topsakal",
+"b": "paper:pmid-33555744",
+"r": "authored"
+},
+{
+"a": "person:veiga-alonso-aida",
+"b": "paper:oa-w7110559883",
+"r": "authored"
+},
+{
 "a": "person:veronique-pierrat",
 "b": "org:inserm",
 "r": "affiliated"
@@ -8030,6 +10001,81 @@
 "r": "authored"
 },
 {
+"a": "person:vincent-van-rompaey",
+"b": "org:antwerp-university-hospital",
+"r": "affiliated"
+},
+{
+"a": "person:vincent-van-rompaey",
+"b": "org:universitair-ziekenhuis-brussel",
+"r": "affiliated"
+},
+{
+"a": "person:vincent-van-rompaey",
+"b": "org:university-of-antwerp",
+"r": "affiliated"
+},
+{
+"a": "person:vincent-van-rompaey",
+"b": "paper:doi-10-47671-tvg-76-06-2003036",
+"r": "authored"
+},
+{
+"a": "person:vincent-van-rompaey",
+"b": "paper:doi-10-5152-b-ent-2022-21791",
+"r": "authored"
+},
+{
+"a": "person:vincent-van-rompaey",
+"b": "paper:pmid-31998212",
+"r": "authored"
+},
+{
+"a": "person:vincent-van-rompaey",
+"b": "paper:pmid-32373054",
+"r": "authored"
+},
+{
+"a": "person:vincent-van-rompaey",
+"b": "paper:pmid-33421658",
+"r": "authored"
+},
+{
+"a": "person:vincent-van-rompaey",
+"b": "paper:pmid-33492061",
+"r": "authored"
+},
+{
+"a": "person:vincent-van-rompaey",
+"b": "paper:pmid-33555744",
+"r": "authored"
+},
+{
+"a": "person:vincent-van-rompaey",
+"b": "paper:pmid-34369416",
+"r": "authored"
+},
+{
+"a": "person:vincent-van-rompaey",
+"b": "paper:pmid-34369417",
+"r": "authored"
+},
+{
+"a": "person:vincent-van-rompaey",
+"b": "paper:pmid-36607747",
+"r": "authored"
+},
+{
+"a": "person:vincent-van-rompaey",
+"b": "paper:pmid-37709329",
+"r": "authored"
+},
+{
+"a": "person:vincent-van-rompaey",
+"b": "paper:pmid-38167558",
+"r": "authored"
+},
+{
 "a": "person:wei-liang-chen-m-d",
 "b": "org:children-s-national-research-institute",
 "r": "affiliated"
@@ -8038,6 +10084,21 @@
 "a": "person:wei-liang-chen-m-d",
 "b": "trial:nct06792500",
 "r": "investigator"
+},
+{
+"a": "person:wendy-j-huinck",
+"b": "org:donders-institute-for-brain-cognition-and-behaviour",
+"r": "affiliated"
+},
+{
+"a": "person:wendy-j-huinck",
+"b": "org:radboud-university-medical-center",
+"r": "affiliated"
+},
+{
+"a": "person:wendy-j-huinck",
+"b": "paper:pmid-39271588",
+"r": "authored"
 },
 {
 "a": "person:william-sedley",
@@ -8098,6 +10159,36 @@
 "a": "person:yilai-shu-ph-d",
 "b": "trial:nct07814677",
 "r": "investigator"
+},
+{
+"a": "person:yingqiu-peng",
+"b": "org:eye-ent-hospital-of-fudan-university",
+"r": "affiliated"
+},
+{
+"a": "person:yingqiu-peng",
+"b": "org:fudan-university",
+"r": "affiliated"
+},
+{
+"a": "person:yingqiu-peng",
+"b": "paper:pmid-38255649",
+"r": "authored"
+},
+{
+"a": "person:yunfeng-wang",
+"b": "org:eye-ent-hospital-of-fudan-university",
+"r": "affiliated"
+},
+{
+"a": "person:yunfeng-wang",
+"b": "org:fudan-university",
+"r": "affiliated"
+},
+{
+"a": "person:yunfeng-wang",
+"b": "paper:pmid-38255649",
+"r": "authored"
 },
 {
 "a": "person:yves-g-ville",

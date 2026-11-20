@@ -1,6 +1,6 @@
 {
 "assetId": "nct-nct04111172",
-"updated": "2026-11-19",
+"updated": "2026-11-20",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 68
@@ -53,6 +53,54 @@
 "sub": "",
 "url": "",
 "c": "United States"
+},
+{
+"k": "trial:nct06503146",
+"t": "trial",
+"n": "18F-Fibroblast Activation Protein Inhibitor ([18F]FAPI-74) PET Imaging for Cancer Detectio",
+"sub": "P2 · recruiting · 2025-2030",
+"url": "https://clinicaltrials.gov/study/NCT06503146",
+"c": ""
+},
+{
+"k": "org:national-cancer-institute-nci",
+"t": "funder",
+"n": "National Cancer Institute (NCI)",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:esther-mena-gonzalez-m-d",
+"t": "person",
+"n": "Esther Mena Gonzalez, M.D",
+"sub": "principal investigator · National Cancer Institute (NCI)",
+"url": "",
+"c": ""
+},
+{
+"k": "org:national-institutes-of-health-clinical-center",
+"t": "hospital",
+"n": "National Institutes of Health Clinical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:18f-fapi-74",
+"t": "drug",
+"n": "[18F]FAPI-74",
+"sub": "National Cancer Institute (NCI)",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:18f-fdg",
+"t": "drug",
+"n": "[18F]FDG",
+"sub": "National Cancer Institute (NCI)",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct07023731",
@@ -143,42 +191,42 @@
 "c": ""
 },
 {
-"k": "trial:nct07938658",
+"k": "trial:nct07939815",
 "t": "trial",
-"n": "Iparomlimab and Tuvonralimab Injection （QL1706）Combined With Chemotherapy (AG) and SBRT as",
-"sub": "P2 · active_not_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07938658",
+"n": "A Study of BMS-986548 as Monotherapy and in Combination With Anti-cancer Agents in Partici",
+"sub": "P1/P2 · not_yet_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07939815",
 "c": ""
 },
 {
-"k": "org:tongji-hospital",
-"t": "hospital",
-"n": "Tongji Hospital",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:qilu-pharmaceutical",
+"k": "org:bristol-myers-squibb",
 "t": "company",
-"n": "Qilu Pharmaceutical Co., Ltd.",
+"n": "Bristol-Myers Squibb",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:tongji-hospital-tongji-medical-college-hust",
-"t": "hospital",
-"n": "Tongji Hospital, Tongji Medical College, HUST",
-"sub": "",
+"k": "person:bristol-myers-squibb",
+"t": "person",
+"n": "Bristol-Myers Squibb",
+"sub": "study director · Bristol-Myers Squibb",
 "url": "",
-"c": "China"
+"c": ""
 },
 {
-"k": "drug:iparomlimab-and-tuvonralimab",
+"k": "drug:bms-986548",
 "t": "drug",
-"n": "Iparomlimab and Tuvonralimab",
-"sub": "Tongji Hospital",
+"n": "BMS-986548",
+"sub": "Bristol-Myers Squibb",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:cetuximab",
+"t": "drug",
+"n": "Cetuximab",
+"sub": "Bristol-Myers Squibb",
 "url": "",
 "c": ""
 },
@@ -303,42 +351,42 @@
 "c": ""
 },
 {
-"k": "trial:nct07939815",
+"k": "trial:nct07938658",
 "t": "trial",
-"n": "A Study of BMS-986548 as Monotherapy and in Combination With Anti-cancer Agents in Partici",
-"sub": "P1/P2 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07939815",
+"n": "Iparomlimab and Tuvonralimab Injection （QL1706）Combined With Chemotherapy (AG) and SBRT as",
+"sub": "P2 · active_not_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07938658",
 "c": ""
 },
 {
-"k": "org:bristol-myers-squibb",
-"t": "company",
-"n": "Bristol-Myers Squibb",
+"k": "org:tongji-hospital",
+"t": "hospital",
+"n": "Tongji Hospital",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "person:bristol-myers-squibb",
-"t": "person",
-"n": "Bristol-Myers Squibb",
-"sub": "study director · Bristol-Myers Squibb",
+"k": "org:qilu-pharmaceutical",
+"t": "company",
+"n": "Qilu Pharmaceutical Co., Ltd.",
+"sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:bms-986548",
-"t": "drug",
-"n": "BMS-986548",
-"sub": "Bristol-Myers Squibb",
+"k": "org:tongji-hospital-tongji-medical-college-hust",
+"t": "hospital",
+"n": "Tongji Hospital, Tongji Medical College, HUST",
+"sub": "",
 "url": "",
-"c": ""
+"c": "China"
 },
 {
-"k": "drug:cetuximab",
+"k": "drug:iparomlimab-and-tuvonralimab",
 "t": "drug",
-"n": "Cetuximab",
-"sub": "Bristol-Myers Squibb",
+"n": "Iparomlimab and Tuvonralimab",
+"sub": "Tongji Hospital",
 "url": "",
 "c": ""
 },
@@ -879,122 +927,114 @@
 "c": ""
 },
 {
-"k": "trial:nct06782412",
+"k": "trial:nct07235202",
 "t": "trial",
-"n": "Multicenter Validation Trial of [18F]AlF-FAPI-74 for PET Imaging of Cancer-associated Fibr",
-"sub": "P2/P3 · recruiting · 2025-2027",
-"url": "https://clinicaltrials.gov/study/NCT06782412",
+"n": "A Study of MR001 Combined With Chemotherapy in Patients With Locally Advanced or Metastati",
+"sub": "P1/P2 · recruiting · 2025-2028",
+"url": "https://clinicaltrials.gov/study/NCT07235202",
 "c": ""
 },
 {
-"k": "org:ku-leuven",
-"t": "academic",
-"n": "KU Leuven",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:university-hospital-ghent",
-"t": "hospital",
-"n": "University Hospital, Ghent",
-"sub": "",
-"url": "",
-"c": "Belgium"
-},
-{
-"k": "org:university-hospital-antwerp",
-"t": "hospital",
-"n": "University Hospital, Antwerp",
+"k": "org:shenzhen-majory-biotechnology",
+"t": "company",
+"n": "Shenzhen Majory Biotechnology Co., Ltd.",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:universitaire-ziekenhuizen-ku-leuven",
+"k": "org:beijing-tsinghua-changgung-hospital",
 "t": "hospital",
-"n": "Universitaire Ziekenhuizen KU Leuven",
+"n": "Beijing Tsinghua Changgung Hospital",
 "sub": "",
 "url": "",
-"c": ""
+"c": "China"
 },
 {
-"k": "org:kom-op-tegen-kanker",
-"t": "academic",
-"n": "Kom Op Tegen Kanker",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:university-hospital-antwerp-uza",
+"k": "org:chongqing-university-cancer-hospital",
 "t": "hospital",
-"n": "University Hospital Antwerp (UZA)",
+"n": "Chongqing University Cancer Hospital",
 "sub": "",
 "url": "",
-"c": "Belgium"
+"c": "China"
 },
 {
-"k": "org:uz-leuven",
+"k": "org:fujian-cancer-hospital",
 "t": "hospital",
-"n": "UZ Leuven",
+"n": "Fujian Cancer Hospital",
 "sub": "",
 "url": "",
-"c": "Belgium"
+"c": "China"
 },
 {
-"k": "trial:nct07805954",
-"t": "trial",
-"n": "Study of Zoldonrasib (RMC-9805) Plus Daraxonrasib (RMC-6236) Versus Gemcitabine and Nab-Pa",
-"sub": "P3 · recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07805954",
-"c": ""
-},
-{
-"k": "org:mayo-clinic-arizona",
+"k": "org:sun-yat-sen-memorial-hospital-sun-yat-sen-university",
 "t": "hospital",
-"n": "Mayo Clinic Arizona",
+"n": "Sun Yat-sen Memorial Hospital, Sun Yat-sen University",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": "China"
 },
 {
-"k": "org:honorhealth-research-institute",
+"k": "org:shenzhen-people-s-hospital",
 "t": "hospital",
-"n": "HonorHealth Research Institute",
+"n": "Shenzhen People's Hospital",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": "China"
 },
 {
-"k": "org:mayo-clinic-florida",
+"k": "org:cancer-hospital-chinese-academy-of-medical-sciences-shenzhen",
 "t": "hospital",
-"n": "Mayo Clinic Florida",
+"n": "Cancer Hospital Chinese Academy of Medical Sciences,Shenzhen",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": "China"
 },
 {
-"k": "org:mayo-clinic-rochester",
+"k": "org:the-fourth-hospital-of-hebei-medical-university",
 "t": "hospital",
-"n": "Mayo Clinic Rochester",
+"n": "The Fourth Hospital of Hebei Medical University",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": "China"
 },
 {
-"k": "org:rhode-island-hospital",
+"k": "org:harbin-medical-university-cancer-hospital",
 "t": "hospital",
-"n": "Rhode Island Hospital",
+"n": "Harbin Medical University Cancer Hospital",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": "China"
 },
 {
-"k": "drug:zoldonrasib",
+"k": "org:henan-cancer-hospital",
+"t": "hospital",
+"n": "Henan Cancer Hospital",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "org:union-hospital-tongji-medical-college-huazhong-university-of",
+"t": "hospital",
+"n": "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "drug:mr001",
 "t": "drug",
-"n": "zoldonrasib",
-"sub": "Revolution Medicines, Inc.",
+"n": "MR001",
+"sub": "Shenzhen Majory Biotechnology Co., Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:irinotecan-liposome-combined-with-5-fu-lv",
+"t": "drug",
+"n": "Irinotecan Liposome combined with 5-FU/LV",
+"sub": "Shenzhen Majory Biotechnology Co., Ltd.",
 "url": "",
 "c": ""
 },
@@ -1111,114 +1151,122 @@
 "c": ""
 },
 {
-"k": "trial:nct07235202",
+"k": "trial:nct06782412",
 "t": "trial",
-"n": "A Study of MR001 Combined With Chemotherapy in Patients With Locally Advanced or Metastati",
-"sub": "P1/P2 · recruiting · 2025-2028",
-"url": "https://clinicaltrials.gov/study/NCT07235202",
+"n": "Multicenter Validation Trial of [18F]AlF-FAPI-74 for PET Imaging of Cancer-associated Fibr",
+"sub": "P2/P3 · recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT06782412",
 "c": ""
 },
 {
-"k": "org:shenzhen-majory-biotechnology",
-"t": "company",
-"n": "Shenzhen Majory Biotechnology Co., Ltd.",
+"k": "org:ku-leuven",
+"t": "academic",
+"n": "KU Leuven",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:beijing-tsinghua-changgung-hospital",
+"k": "org:university-hospital-ghent",
 "t": "hospital",
-"n": "Beijing Tsinghua Changgung Hospital",
+"n": "University Hospital, Ghent",
 "sub": "",
 "url": "",
-"c": "China"
+"c": "Belgium"
 },
 {
-"k": "org:chongqing-university-cancer-hospital",
+"k": "org:university-hospital-antwerp",
 "t": "hospital",
-"n": "Chongqing University Cancer Hospital",
+"n": "University Hospital, Antwerp",
 "sub": "",
 "url": "",
-"c": "China"
+"c": ""
 },
 {
-"k": "org:fujian-cancer-hospital",
+"k": "org:universitaire-ziekenhuizen-ku-leuven",
 "t": "hospital",
-"n": "Fujian Cancer Hospital",
+"n": "Universitaire Ziekenhuizen KU Leuven",
 "sub": "",
 "url": "",
-"c": "China"
+"c": ""
 },
 {
-"k": "org:sun-yat-sen-memorial-hospital-sun-yat-sen-university",
-"t": "hospital",
-"n": "Sun Yat-sen Memorial Hospital, Sun Yat-sen University",
+"k": "org:kom-op-tegen-kanker",
+"t": "academic",
+"n": "Kom Op Tegen Kanker",
 "sub": "",
 "url": "",
-"c": "China"
+"c": ""
 },
 {
-"k": "org:shenzhen-people-s-hospital",
+"k": "org:university-hospital-antwerp-uza",
 "t": "hospital",
-"n": "Shenzhen People's Hospital",
+"n": "University Hospital Antwerp (UZA)",
 "sub": "",
 "url": "",
-"c": "China"
+"c": "Belgium"
 },
 {
-"k": "org:cancer-hospital-chinese-academy-of-medical-sciences-shenzhen",
+"k": "org:uz-leuven",
 "t": "hospital",
-"n": "Cancer Hospital Chinese Academy of Medical Sciences,Shenzhen",
+"n": "UZ Leuven",
 "sub": "",
 "url": "",
-"c": "China"
+"c": "Belgium"
 },
 {
-"k": "org:the-fourth-hospital-of-hebei-medical-university",
+"k": "trial:nct07805954",
+"t": "trial",
+"n": "Study of Zoldonrasib (RMC-9805) Plus Daraxonrasib (RMC-6236) Versus Gemcitabine and Nab-Pa",
+"sub": "P3 · recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07805954",
+"c": ""
+},
+{
+"k": "org:mayo-clinic-arizona",
 "t": "hospital",
-"n": "The Fourth Hospital of Hebei Medical University",
+"n": "Mayo Clinic Arizona",
 "sub": "",
 "url": "",
-"c": "China"
+"c": "United States"
 },
 {
-"k": "org:harbin-medical-university-cancer-hospital",
+"k": "org:honorhealth-research-institute",
 "t": "hospital",
-"n": "Harbin Medical University Cancer Hospital",
+"n": "HonorHealth Research Institute",
 "sub": "",
 "url": "",
-"c": "China"
+"c": "United States"
 },
 {
-"k": "org:henan-cancer-hospital",
+"k": "org:mayo-clinic-florida",
 "t": "hospital",
-"n": "Henan Cancer Hospital",
+"n": "Mayo Clinic Florida",
 "sub": "",
 "url": "",
-"c": "China"
+"c": "United States"
 },
 {
-"k": "org:union-hospital-tongji-medical-college-huazhong-university-of",
+"k": "org:mayo-clinic-rochester",
 "t": "hospital",
-"n": "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology",
+"n": "Mayo Clinic Rochester",
 "sub": "",
 "url": "",
-"c": "China"
+"c": "United States"
 },
 {
-"k": "drug:mr001",
+"k": "org:rhode-island-hospital",
+"t": "hospital",
+"n": "Rhode Island Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:zoldonrasib",
 "t": "drug",
-"n": "MR001",
-"sub": "Shenzhen Majory Biotechnology Co., Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:irinotecan-liposome-combined-with-5-fu-lv",
-"t": "drug",
-"n": "Irinotecan Liposome combined with 5-FU/LV",
-"sub": "Shenzhen Majory Biotechnology Co., Ltd.",
+"n": "zoldonrasib",
+"sub": "Revolution Medicines, Inc.",
 "url": "",
 "c": ""
 },
@@ -1351,110 +1399,6 @@
 "c": ""
 },
 {
-"k": "trial:nct04753879",
-"t": "trial",
-"n": "Multi-agent Low Dose Chemotherapy GAX-CI Followed by Olaparib and Pembro in Metastatic Pan",
-"sub": "P2 · completed · 2021-2026",
-"url": "https://clinicaltrials.gov/study/NCT04753879",
-"c": ""
-},
-{
-"k": "org:sidney-kimmel-comprehensive-cancer-center-at-johns-hopkins",
-"t": "academic",
-"n": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:skccc-johns-hopkins-medical-institution",
-"t": "academic",
-"n": "SKCCC Johns Hopkins Medical Institution",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:dung-le",
-"t": "person",
-"n": "Dung Le",
-"sub": "principal investigator · SKCCC Johns Hopkins Medical Institution",
-"url": "",
-"c": ""
-},
-{
-"k": "org:sidney-kimmel-comprehensive-cancer-center",
-"t": "company",
-"n": "Sidney Kimmel Comprehensive Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:cisplatin",
-"t": "drug",
-"n": "Cisplatin",
-"sub": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:capecitabine",
-"t": "drug",
-"n": "Capecitabine",
-"sub": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:olaparib",
-"t": "drug",
-"n": "Olaparib",
-"sub": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07777211",
-"t": "trial",
-"n": "A Study of GKL-006 Injection in Patients With Advanced Pancreatic Cancer",
-"sub": "P1/P2 · recruiting · 2025-2027",
-"url": "https://clinicaltrials.gov/study/NCT07777211",
-"c": ""
-},
-{
-"k": "org:beijing-gene-key-life-technology",
-"t": "company",
-"n": "Beijing Gene Key Life Technology Co., Ltd",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:no-1-shuaifuyuan-wangfujing-dongcheng-district",
-"t": "company",
-"n": "No. 1 Shuaifuyuan, Wangfujing, Dongcheng District",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "drug:gkl-006",
-"t": "drug",
-"n": "GKL-006",
-"sub": "Beijing Gene Key Life Technology Co., Ltd",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:nab-paclitaxel-and-gemcitabine",
-"t": "drug",
-"n": "Nab-paclitaxel and Gemcitabine",
-"sub": "Beijing Gene Key Life Technology Co., Ltd",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07492680",
 "t": "trial",
 "n": "A Study of Navlimetostat (BMS-986504) Monotherapy and in Combination With Other Agents in ",
@@ -1523,6 +1467,54 @@
 "t": "drug",
 "n": "Paclitaxel",
 "sub": "Bristol-Myers Squibb",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:cisplatin",
+"t": "drug",
+"n": "Cisplatin",
+"sub": "Bristol-Myers Squibb",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07777211",
+"t": "trial",
+"n": "A Study of GKL-006 Injection in Patients With Advanced Pancreatic Cancer",
+"sub": "P1/P2 · recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT07777211",
+"c": ""
+},
+{
+"k": "org:beijing-gene-key-life-technology",
+"t": "company",
+"n": "Beijing Gene Key Life Technology Co., Ltd",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:no-1-shuaifuyuan-wangfujing-dongcheng-district",
+"t": "company",
+"n": "No. 1 Shuaifuyuan, Wangfujing, Dongcheng District",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "drug:gkl-006",
+"t": "drug",
+"n": "GKL-006",
+"sub": "Beijing Gene Key Life Technology Co., Ltd",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:nab-paclitaxel-and-gemcitabine",
+"t": "drug",
+"n": "Nab-paclitaxel and Gemcitabine",
+"sub": "Beijing Gene Key Life Technology Co., Ltd",
 "url": "",
 "c": ""
 },
@@ -1599,18 +1591,58 @@
 "c": ""
 },
 {
-"k": "trial:nct06608927",
+"k": "trial:nct04753879",
 "t": "trial",
-"n": "Study of Quemliclustat and Chemotherapy Versus Placebo and Chemotherapy in Patients With M",
-"sub": "P3 · active_not_recruiting · 2024-2030",
-"url": "https://clinicaltrials.gov/study/NCT06608927",
+"n": "Multi-agent Low Dose Chemotherapy GAX-CI Followed by Olaparib and Pembro in Metastatic Pan",
+"sub": "P2 · completed · 2021-2026",
+"url": "https://clinicaltrials.gov/study/NCT04753879",
 "c": ""
 },
 {
-"k": "org:taiho-pharmaceutical",
-"t": "company",
-"n": "Taiho Pharmaceutical Co., Ltd.",
+"k": "org:sidney-kimmel-comprehensive-cancer-center-at-johns-hopkins",
+"t": "academic",
+"n": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
 "sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:skccc-johns-hopkins-medical-institution",
+"t": "academic",
+"n": "SKCCC Johns Hopkins Medical Institution",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:dung-le",
+"t": "person",
+"n": "Dung Le",
+"sub": "principal investigator · SKCCC Johns Hopkins Medical Institution",
+"url": "",
+"c": ""
+},
+{
+"k": "org:sidney-kimmel-comprehensive-cancer-center",
+"t": "company",
+"n": "Sidney Kimmel Comprehensive Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:capecitabine",
+"t": "drug",
+"n": "Capecitabine",
+"sub": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:olaparib",
+"t": "drug",
+"n": "Olaparib",
+"sub": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
 "url": "",
 "c": ""
 },
@@ -1671,50 +1703,18 @@
 "c": ""
 },
 {
-"k": "trial:nct06503146",
+"k": "trial:nct06608927",
 "t": "trial",
-"n": "18F-Fibroblast Activation Protein Inhibitor ([18F]FAPI-74) PET Imaging for Cancer Detectio",
-"sub": "P2 · recruiting · 2025-2030",
-"url": "https://clinicaltrials.gov/study/NCT06503146",
+"n": "Study of Quemliclustat and Chemotherapy Versus Placebo and Chemotherapy in Patients With M",
+"sub": "P3 · active_not_recruiting · 2024-2030",
+"url": "https://clinicaltrials.gov/study/NCT06608927",
 "c": ""
 },
 {
-"k": "org:national-cancer-institute-nci",
-"t": "funder",
-"n": "National Cancer Institute (NCI)",
+"k": "org:taiho-pharmaceutical",
+"t": "company",
+"n": "Taiho Pharmaceutical Co., Ltd.",
 "sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:esther-mena-gonzalez-m-d",
-"t": "person",
-"n": "Esther Mena Gonzalez, M.D",
-"sub": "principal investigator · National Cancer Institute (NCI)",
-"url": "",
-"c": ""
-},
-{
-"k": "org:national-institutes-of-health-clinical-center",
-"t": "hospital",
-"n": "National Institutes of Health Clinical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:18f-fapi-74",
-"t": "drug",
-"n": "[18F]FAPI-74",
-"sub": "National Cancer Institute (NCI)",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:18f-fdg",
-"t": "drug",
-"n": "[18F]FDG",
-"sub": "National Cancer Institute (NCI)",
 "url": "",
 "c": ""
 },
@@ -1779,62 +1779,6 @@
 "t": "person",
 "n": "Brett L Ecker",
 "sub": "principal investigator · Northwestern University",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07432633",
-"t": "trial",
-"n": "[18F]FPyQCP PET Imaging of Fibroblast Activation Protein in Selected Oncology Indications",
-"sub": "P1/P2 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07432633",
-"c": ""
-},
-{
-"k": "org:blue-earth-diagnostics",
-"t": "company",
-"n": "Blue Earth Diagnostics",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:medpace",
-"t": "company",
-"n": "Medpace, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:university-of-texas-southwestern-medical-center",
-"t": "hospital",
-"n": "University of Texas Southwestern Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "person:steven-rowe",
-"t": "person",
-"n": "Steven Rowe",
-"sub": "principal investigator · University of Texas Southwestern Medical Center",
-"url": "",
-"c": ""
-},
-{
-"k": "org:columbia-university-irving-medical-center-newyork-presbyteri",
-"t": "hospital",
-"n": "Columbia University Irving Medical Center / NewYork-Presbyterian Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:18f-fpyqcp",
-"t": "drug",
-"n": "[18F]FPyQCP",
-"sub": "Blue Earth Diagnostics",
 "url": "",
 "c": ""
 },
@@ -1947,6 +1891,62 @@
 "t": "drug",
 "n": "[212Pb]Pb-PSV359",
 "sub": "Perspective Therapeutics",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07432633",
+"t": "trial",
+"n": "[18F]FPyQCP PET Imaging of Fibroblast Activation Protein in Selected Oncology Indications",
+"sub": "P1/P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07432633",
+"c": ""
+},
+{
+"k": "org:blue-earth-diagnostics",
+"t": "company",
+"n": "Blue Earth Diagnostics",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:medpace",
+"t": "company",
+"n": "Medpace, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-texas-southwestern-medical-center",
+"t": "hospital",
+"n": "University of Texas Southwestern Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "person:steven-rowe",
+"t": "person",
+"n": "Steven Rowe",
+"sub": "principal investigator · University of Texas Southwestern Medical Center",
+"url": "",
+"c": ""
+},
+{
+"k": "org:columbia-university-irving-medical-center-newyork-presbyteri",
+"t": "hospital",
+"n": "Columbia University Irving Medical Center / NewYork-Presbyterian Hospital",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:18f-fpyqcp",
+"t": "drug",
+"n": "[18F]FPyQCP",
+"sub": "Blue Earth Diagnostics",
 "url": "",
 "c": ""
 },
@@ -2175,62 +2175,6 @@
 "c": ""
 },
 {
-"k": "trial:nct06492915",
-"t": "trial",
-"n": "Chiauranib in Patients With Locally Advanced or Metastatic Pancreatic Ductal Adenocarcinom",
-"sub": "P2 · active_not_recruiting · 2024-2027",
-"url": "https://clinicaltrials.gov/study/NCT06492915",
-"c": ""
-},
-{
-"k": "org:chipscreen-biosciences",
-"t": "company",
-"n": "Chipscreen Biosciences, Ltd.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:fudan-university",
-"t": "academic",
-"n": "Fudan University",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:xianjun-yu",
-"t": "person",
-"n": "Xianjun Yu",
-"sub": "principal investigator · Fudan University",
-"url": "",
-"c": ""
-},
-{
-"k": "org:fudan-university-shanghai-cancer-center",
-"t": "academic",
-"n": "Fudan University Shanghai Cancer Center",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "drug:chiauranib",
-"t": "drug",
-"n": "Chiauranib",
-"sub": "Chipscreen Biosciences, Ltd.",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:albumin-paclitaxel",
-"t": "drug",
-"n": "Albumin-paclitaxel",
-"sub": "Chipscreen Biosciences, Ltd.",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07252232",
 "t": "trial",
 "n": "Study of Daraxonrasib (RMC-6236) in Patients With Resected Pancreatic Ductal Adenocarcinom",
@@ -2301,6 +2245,62 @@
 "sub": "",
 "url": "",
 "c": "United States"
+},
+{
+"k": "trial:nct06492915",
+"t": "trial",
+"n": "Chiauranib in Patients With Locally Advanced or Metastatic Pancreatic Ductal Adenocarcinom",
+"sub": "P2 · active_not_recruiting · 2024-2027",
+"url": "https://clinicaltrials.gov/study/NCT06492915",
+"c": ""
+},
+{
+"k": "org:chipscreen-biosciences",
+"t": "company",
+"n": "Chipscreen Biosciences, Ltd.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:fudan-university",
+"t": "academic",
+"n": "Fudan University",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:xianjun-yu",
+"t": "person",
+"n": "Xianjun Yu",
+"sub": "principal investigator · Fudan University",
+"url": "",
+"c": ""
+},
+{
+"k": "org:fudan-university-shanghai-cancer-center",
+"t": "academic",
+"n": "Fudan University Shanghai Cancer Center",
+"sub": "",
+"url": "",
+"c": "China"
+},
+{
+"k": "drug:chiauranib",
+"t": "drug",
+"n": "Chiauranib",
+"sub": "Chipscreen Biosciences, Ltd.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:albumin-paclitaxel",
+"t": "drug",
+"n": "Albumin-paclitaxel",
+"sub": "Chipscreen Biosciences, Ltd.",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct06922591",
@@ -2395,6 +2395,166 @@
 "t": "drug",
 "n": "mFOLFIRINOX",
 "sub": "Tango Therapeutics, Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07701486",
+"t": "trial",
+"n": "A Study of More Frequent Dosing of VCN-01 Combined With Standard Chemotherapy in Patients ",
+"sub": "P1/P2 · recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07701486",
+"c": ""
+},
+{
+"k": "org:theriva-biologics-sl",
+"t": "company",
+"n": "Theriva Biologics SL",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:hospital-12-de-octubre",
+"t": "hospital",
+"n": "Hospital 12 de Octubre",
+"sub": "",
+"url": "",
+"c": "Spain"
+},
+{
+"k": "drug:vcn-01-oncolytic-adenovirus",
+"t": "drug",
+"n": "VCN-01 oncolytic adenovirus",
+"sub": "Theriva Biologics SL",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:nab-paclitaxel-gemcitabine",
+"t": "drug",
+"n": "Nab-paclitaxel + Gemcitabine",
+"sub": "Theriva Biologics SL",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06710132",
+"t": "trial",
+"n": "Study of Anti-CEACAM5 ADC M9140 in Participants With Advanced Solid Tumors (PROCEADE PanTu",
+"sub": "P1/P2 · active_not_recruiting · 2025-2027",
+"url": "https://clinicaltrials.gov/study/NCT06710132",
+"c": ""
+},
+{
+"k": "org:emd-serono-research-development-institute",
+"t": "company",
+"n": "EMD Serono Research & Development Institute, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:merck-healthcare-kgaa-darmstadt-germany-an-affiliate-of-merc",
+"t": "company",
+"n": "Merck Healthcare KGaA, Darmstadt, Germany, an affiliate of Merck KGaA, Darmstadt, Germany",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:merck-kgaa-darmstadt-germany",
+"t": "company",
+"n": "Merck KGaA, Darmstadt, Germany",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:university-of-california-los-angeles-300208353",
+"t": "academic",
+"n": "University of California - Los Angeles - 300208353",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:providence-medical-foundation",
+"t": "foundation",
+"n": "Providence Medical Foundation",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:georgetown-university-lombardi-comprehensive-cancer-center-1",
+"t": "academic",
+"n": "Georgetown University - Lombardi Comprehensive Cancer Center - 1134847",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:d-h-cancer-research-center",
+"t": "company",
+"n": "D&H Cancer Research Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:prisma-health-cancer-institute-itor-cru",
+"t": "hospital",
+"n": "Prisma Health Cancer Institute, ITOR, CRU",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:baptist-cancer-center",
+"t": "company",
+"n": "Baptist Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:the-university-of-texas-md-anderson-cancer-center",
+"t": "academic",
+"n": "The University of Texas MD Anderson Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:next-virginia",
+"t": "company",
+"n": "NEXT Virginia",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:flinders-medical-centre",
+"t": "hospital",
+"n": "Flinders Medical Centre",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "org:nepean-cancer-care-centre",
+"t": "company",
+"n": "Nepean Cancer Care Centre",
+"sub": "",
+"url": "",
+"c": "Australia"
+},
+{
+"k": "drug:m9140",
+"t": "drug",
+"n": "M9140",
+"sub": "EMD Serono Research & Development Institute, Inc.",
 "url": "",
 "c": ""
 },
@@ -2559,14 +2719,6 @@
 "c": "United States"
 },
 {
-"k": "org:providence-medical-foundation",
-"t": "foundation",
-"n": "Providence Medical Foundation",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
 "k": "org:rocky-mountain-cancer-center",
 "t": "company",
 "n": "Rocky Mountain Cancer Center",
@@ -2607,154 +2759,210 @@
 "c": ""
 },
 {
-"k": "trial:nct06710132",
+"k": "trial:nct07488676",
 "t": "trial",
-"n": "Study of Anti-CEACAM5 ADC M9140 in Participants With Advanced Solid Tumors (PROCEADE PanTu",
-"sub": "P1/P2 · active_not_recruiting · 2025-2027",
-"url": "https://clinicaltrials.gov/study/NCT06710132",
+"n": "A Study of ASP546C in Adults With Gastroesophageal Cancer, Pancreatic Cancer or Other Soli",
+"sub": "P1/P2 · recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07488676",
 "c": ""
 },
 {
-"k": "org:emd-serono-research-development-institute",
+"k": "org:astellas-pharma-global-development",
 "t": "company",
-"n": "EMD Serono Research & Development Institute, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:merck-healthcare-kgaa-darmstadt-germany-an-affiliate-of-merc",
-"t": "company",
-"n": "Merck Healthcare KGaA, Darmstadt, Germany, an affiliate of Merck KGaA, Darmstadt, Germany",
+"n": "Astellas Pharma Global Development, Inc.",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:merck-kgaa-darmstadt-germany",
-"t": "company",
-"n": "Merck KGaA, Darmstadt, Germany",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:university-of-california-los-angeles-300208353",
-"t": "academic",
-"n": "University of California - Los Angeles - 300208353",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:georgetown-university-lombardi-comprehensive-cancer-center-1",
-"t": "academic",
-"n": "Georgetown University - Lombardi Comprehensive Cancer Center - 1134847",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:d-h-cancer-research-center",
-"t": "company",
-"n": "D&H Cancer Research Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:prisma-health-cancer-institute-itor-cru",
+"k": "org:uab-medicine-uab-hospital",
 "t": "hospital",
-"n": "Prisma Health Cancer Institute, ITOR, CRU",
+"n": "UAB Medicine - UAB Hospital",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "org:baptist-cancer-center",
-"t": "company",
-"n": "Baptist Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:the-university-of-texas-md-anderson-cancer-center",
-"t": "academic",
-"n": "The University of Texas MD Anderson Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:next-virginia",
-"t": "company",
-"n": "NEXT Virginia",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:flinders-medical-centre",
+"k": "org:uc-irvine-health-chao-family-comprehensive-cancer-center",
 "t": "hospital",
-"n": "Flinders Medical Centre",
+"n": "UC Irvine Health-Chao Family Comprehensive Cancer Center",
 "sub": "",
 "url": "",
-"c": "Australia"
+"c": "United States"
 },
 {
-"k": "org:nepean-cancer-care-centre",
+"k": "org:university-of-california-san-francisco-ucsf-medical-center",
+"t": "hospital",
+"n": "University of California San Francisco (UCSF) Medical Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:winship-cancer-institute-at-emory-university",
+"t": "academic",
+"n": "Winship Cancer Institute at Emory University",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:indiana-university-iu-health-multi-d-oncology-clinic",
+"t": "hospital",
+"n": "Indiana University (IU) Health - Multi-D Oncology Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:barbara-ann-karmanos-cancer-center",
 "t": "company",
-"n": "Nepean Cancer Care Centre",
+"n": "Barbara Ann Karmanos Cancer Center",
 "sub": "",
 "url": "",
-"c": "Australia"
+"c": "United States"
 },
 {
-"k": "drug:m9140",
+"k": "org:start-midwest",
+"t": "company",
+"n": "START Midwest",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:health-partners-frauenshuh-cancer-center",
+"t": "hospital",
+"n": "Health Partners Frauenshuh Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:asp546c",
 "t": "drug",
-"n": "M9140",
-"sub": "EMD Serono Research & Development Institute, Inc.",
+"n": "ASP546C",
+"sub": "Astellas Pharma Global Development, Inc.",
 "url": "",
 "c": ""
 },
 {
-"k": "trial:nct07701486",
+"k": "trial:nct07659795",
 "t": "trial",
-"n": "A Study of More Frequent Dosing of VCN-01 Combined With Standard Chemotherapy in Patients ",
-"sub": "P1/P2 · recruiting · 2026-2027",
-"url": "https://clinicaltrials.gov/study/NCT07701486",
+"n": "A Phase 2 Study of VS-7375 in Patients With KRAS G12D-Mutated Colorectal Cancer",
+"sub": "P2 · recruiting · 2026-2028",
+"url": "https://clinicaltrials.gov/study/NCT07659795",
 "c": ""
 },
 {
-"k": "org:theriva-biologics-sl",
-"t": "company",
-"n": "Theriva Biologics SL",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:hospital-12-de-octubre",
+"k": "org:honorhealth",
 "t": "hospital",
-"n": "Hospital 12 de Octubre",
+"n": "HonorHealth",
 "sub": "",
 "url": "",
-"c": "Spain"
+"c": "United States"
 },
 {
-"k": "drug:vcn-01-oncolytic-adenovirus",
+"k": "org:valkyrie-clinical-trials-contact-for-more-locations",
+"t": "hospital",
+"n": "Valkyrie Clinical Trials (contact for more locations)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:brcr-coral-springs",
+"t": "company",
+"n": "BRCR - Coral Springs",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:brcr-tamarac",
+"t": "company",
+"n": "BRCR - Tamarac",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:indiana-university-simon-comprehensive-cancer-center",
+"t": "academic",
+"n": "Indiana University, Simon Comprehensive Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:panitumumab",
 "t": "drug",
-"n": "VCN-01 oncolytic adenovirus",
-"sub": "Theriva Biologics SL",
+"n": "panitumumab",
+"sub": "Verastem, Inc.",
 "url": "",
 "c": ""
 },
 {
-"k": "drug:nab-paclitaxel-gemcitabine",
+"k": "drug:cetuximab-mfolfox6",
 "t": "drug",
-"n": "Nab-paclitaxel + Gemcitabine",
-"sub": "Theriva Biologics SL",
+"n": "Cetuximab + mFOLFOX6",
+"sub": "Verastem, Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07749586",
+"t": "trial",
+"n": "A Study to Evaluate ARV-6723 Alone and With Pembrolizumab in Participants With Advanced So",
+"sub": "P1/P2 · recruiting · 2026-2032",
+"url": "https://clinicaltrials.gov/study/NCT07749586",
+"c": ""
+},
+{
+"k": "drug:arv-6723",
+"t": "drug",
+"n": "ARV-6723",
+"sub": "Arvinas Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:soc",
+"t": "drug",
+"n": "SOC",
+"sub": "Arvinas Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07863024",
+"t": "trial",
+"n": "Safety and Efficacy Study in Adults With Advanced Solid Tumors Receiving REGN13089-M404-M2",
+"sub": "P1/P2 · recruiting · 2026-2031",
+"url": "https://clinicaltrials.gov/study/NCT07863024",
+"c": ""
+},
+{
+"k": "org:regeneron-pharmaceuticals",
+"t": "company",
+"n": "Regeneron Pharmaceuticals",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:carolina-biooncology-institute",
+"t": "academic",
+"n": "Carolina BioOncology Institute",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:regn13089-m404-m2980",
+"t": "drug",
+"n": "REGN13089-M404-M2980",
+"sub": "Regeneron Pharmaceuticals",
 "url": "",
 "c": ""
 },
@@ -2879,86 +3087,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07659795",
-"t": "trial",
-"n": "A Phase 2 Study of VS-7375 in Patients With KRAS G12D-Mutated Colorectal Cancer",
-"sub": "P2 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07659795",
-"c": ""
-},
-{
-"k": "org:honorhealth",
-"t": "hospital",
-"n": "HonorHealth",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:valkyrie-clinical-trials-contact-for-more-locations",
-"t": "hospital",
-"n": "Valkyrie Clinical Trials (contact for more locations)",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:brcr-coral-springs",
-"t": "company",
-"n": "BRCR - Coral Springs",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:brcr-tamarac",
-"t": "company",
-"n": "BRCR - Tamarac",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:indiana-university-simon-comprehensive-cancer-center",
-"t": "academic",
-"n": "Indiana University, Simon Comprehensive Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:start-midwest",
-"t": "company",
-"n": "START Midwest",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:washington-university",
-"t": "academic",
-"n": "Washington University",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:panitumumab",
-"t": "drug",
-"n": "panitumumab",
-"sub": "Verastem, Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:cetuximab-mfolfox6",
-"t": "drug",
-"n": "Cetuximab + mFOLFOX6",
-"sub": "Verastem, Inc.",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct06682793",
 "t": "trial",
 "n": "A Study to Evaluate the Safety and Efficacy of A2B395, an Allogeneic Logic-gated CAR T, in",
@@ -3023,42 +3151,18 @@
 "c": "United States"
 },
 {
-"k": "drug:a2b395",
-"t": "drug",
-"n": "A2B395",
-"sub": "A2 Biotherapeutics Inc.",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07863024",
-"t": "trial",
-"n": "Safety and Efficacy Study in Adults With Advanced Solid Tumors Receiving REGN13089-M404-M2",
-"sub": "P1/P2 · recruiting · 2026-2031",
-"url": "https://clinicaltrials.gov/study/NCT07863024",
-"c": ""
-},
-{
-"k": "org:regeneron-pharmaceuticals",
-"t": "company",
-"n": "Regeneron Pharmaceuticals",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:carolina-biooncology-institute",
+"k": "org:washington-university",
 "t": "academic",
-"n": "Carolina BioOncology Institute",
+"n": "Washington University",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "drug:regn13089-m404-m2980",
+"k": "drug:a2b395",
 "t": "drug",
-"n": "REGN13089-M404-M2980",
-"sub": "Regeneron Pharmaceuticals",
+"n": "A2B395",
+"sub": "A2 Biotherapeutics Inc.",
 "url": "",
 "c": ""
 },
@@ -3111,58 +3215,114 @@
 "c": ""
 },
 {
-"k": "trial:nct06051695",
+"k": "trial:nct07811193",
 "t": "trial",
-"n": "A Study to Evaluate the Safety and Efficacy of Mesothelin-Targeting Logic-gated CAR T, in ",
-"sub": "P1/P2 · active_not_recruiting · 2024-2029",
-"url": "https://clinicaltrials.gov/study/NCT06051695",
+"n": "A Study to Evaluate the Efficacy of VVD-133214 in Combination With Pembrolizumab Compared ",
+"sub": "P2 · recruiting · 2026-2030",
+"url": "https://clinicaltrials.gov/study/NCT07811193",
 "c": ""
 },
 {
-"k": "org:tempus-ai",
+"k": "org:vividion-therapeutics",
 "t": "company",
-"n": "Tempus AI",
+"n": "Vividion Therapeutics, Inc.",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:banner-health",
-"t": "hospital",
-"n": "Banner Health",
+"k": "org:bayer",
+"t": "company",
+"n": "Bayer",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": ""
 },
 {
-"k": "org:nyu-langone-medical-center",
-"t": "hospital",
-"n": "NYU Langone Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:the-ohio-state-university-comprehensive-cancer-center",
+"k": "org:university-of-arizona-cancer-center-north-campus",
 "t": "academic",
-"n": "The Ohio State University Comprehensive Cancer Center",
+"n": "University of Arizona Cancer Center - North Campus",
 "sub": "",
 "url": "",
 "c": "United States"
 },
 {
-"k": "drug:a2b694",
-"t": "drug",
-"n": "A2B694",
-"sub": "A2 Biotherapeutics Inc.",
+"k": "org:university-of-michigan-rogel-cancer-center",
+"t": "academic",
+"n": "University of Michigan Rogel Cancer Center",
+"sub": "",
 "url": "",
-"c": ""
+"c": "United States"
 },
 {
-"k": "drug:a2b543",
+"k": "org:brigette-harris-cancer-pavilion-at-henry-ford-cancer-center",
+"t": "company",
+"n": "Brigette Harris Cancer Pavilion at Henry Ford Cancer Center - Detroit",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:mary-babb-randolph-cancer-center",
+"t": "company",
+"n": "Mary Babb Randolph Cancer Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:hospital-italiano-de-buenos-aires",
+"t": "hospital",
+"n": "Hospital Italiano de Buenos Aires",
+"sub": "",
+"url": "",
+"c": "Argentina"
+},
+{
+"k": "org:centro-medico-fleischer",
+"t": "company",
+"n": "Centro Medico Fleischer",
+"sub": "",
+"url": "",
+"c": "Argentina"
+},
+{
+"k": "org:instituto-alexander-fleming",
+"t": "academic",
+"n": "Instituto Alexander Fleming",
+"sub": "",
+"url": "",
+"c": "Argentina"
+},
+{
+"k": "org:investigaciones-oncologicas-c-colon",
+"t": "company",
+"n": "Investigaciones Oncológicas C Colón",
+"sub": "",
+"url": "",
+"c": "Argentina"
+},
+{
+"k": "org:sanatorio-allende-departamento-de-investigacion-clinica",
+"t": "company",
+"n": "Sanatorio Allende | Departamento de Investigación Clínica",
+"sub": "",
+"url": "",
+"c": "Argentina"
+},
+{
+"k": "org:fundacion-intecnus",
+"t": "company",
+"n": "Fundación Intecnus",
+"sub": "",
+"url": "",
+"c": "Argentina"
+},
+{
+"k": "drug:vvd-133214",
 "t": "drug",
-"n": "A2B543",
-"sub": "A2 Biotherapeutics Inc.",
+"n": "VVD-133214",
+"sub": "Vividion Therapeutics, Inc.",
 "url": "",
 "c": ""
 },
@@ -3319,114 +3479,58 @@
 "c": ""
 },
 {
-"k": "trial:nct07811193",
+"k": "trial:nct06051695",
 "t": "trial",
-"n": "A Study to Evaluate the Efficacy of VVD-133214 in Combination With Pembrolizumab Compared ",
-"sub": "P2 · recruiting · 2026-2030",
-"url": "https://clinicaltrials.gov/study/NCT07811193",
+"n": "A Study to Evaluate the Safety and Efficacy of Mesothelin-Targeting Logic-gated CAR T, in ",
+"sub": "P1/P2 · active_not_recruiting · 2024-2029",
+"url": "https://clinicaltrials.gov/study/NCT06051695",
 "c": ""
 },
 {
-"k": "org:vividion-therapeutics",
+"k": "org:tempus-ai",
 "t": "company",
-"n": "Vividion Therapeutics, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:bayer",
-"t": "company",
-"n": "Bayer",
+"n": "Tempus AI",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:university-of-arizona-cancer-center-north-campus",
-"t": "academic",
-"n": "University of Arizona Cancer Center - North Campus",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:university-of-michigan-rogel-cancer-center",
-"t": "academic",
-"n": "University of Michigan Rogel Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:brigette-harris-cancer-pavilion-at-henry-ford-cancer-center",
-"t": "company",
-"n": "Brigette Harris Cancer Pavilion at Henry Ford Cancer Center - Detroit",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:mary-babb-randolph-cancer-center",
-"t": "company",
-"n": "Mary Babb Randolph Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:hospital-italiano-de-buenos-aires",
+"k": "org:banner-health",
 "t": "hospital",
-"n": "Hospital Italiano de Buenos Aires",
+"n": "Banner Health",
 "sub": "",
 "url": "",
-"c": "Argentina"
+"c": "United States"
 },
 {
-"k": "org:centro-medico-fleischer",
-"t": "company",
-"n": "Centro Medico Fleischer",
+"k": "org:nyu-langone-medical-center",
+"t": "hospital",
+"n": "NYU Langone Medical Center",
 "sub": "",
 "url": "",
-"c": "Argentina"
+"c": "United States"
 },
 {
-"k": "org:instituto-alexander-fleming",
+"k": "org:the-ohio-state-university-comprehensive-cancer-center",
 "t": "academic",
-"n": "Instituto Alexander Fleming",
+"n": "The Ohio State University Comprehensive Cancer Center",
 "sub": "",
 "url": "",
-"c": "Argentina"
+"c": "United States"
 },
 {
-"k": "org:investigaciones-oncologicas-c-colon",
-"t": "company",
-"n": "Investigaciones Oncológicas C Colón",
-"sub": "",
-"url": "",
-"c": "Argentina"
-},
-{
-"k": "org:sanatorio-allende-departamento-de-investigacion-clinica",
-"t": "company",
-"n": "Sanatorio Allende | Departamento de Investigación Clínica",
-"sub": "",
-"url": "",
-"c": "Argentina"
-},
-{
-"k": "org:fundacion-intecnus",
-"t": "company",
-"n": "Fundación Intecnus",
-"sub": "",
-"url": "",
-"c": "Argentina"
-},
-{
-"k": "drug:vvd-133214",
+"k": "drug:a2b694",
 "t": "drug",
-"n": "VVD-133214",
-"sub": "Vividion Therapeutics, Inc.",
+"n": "A2B694",
+"sub": "A2 Biotherapeutics Inc.",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:a2b543",
+"t": "drug",
+"n": "A2B543",
+"sub": "A2 Biotherapeutics Inc.",
 "url": "",
 "c": ""
 },
@@ -3523,86 +3627,6 @@
 "t": "drug",
 "n": "Tucatinib",
 "sub": "Memorial Sloan Kettering Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07488676",
-"t": "trial",
-"n": "A Study of ASP546C in Adults With Gastroesophageal Cancer, Pancreatic Cancer or Other Soli",
-"sub": "P1/P2 · recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07488676",
-"c": ""
-},
-{
-"k": "org:astellas-pharma-global-development",
-"t": "company",
-"n": "Astellas Pharma Global Development, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:uab-medicine-uab-hospital",
-"t": "hospital",
-"n": "UAB Medicine - UAB Hospital",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:uc-irvine-health-chao-family-comprehensive-cancer-center",
-"t": "hospital",
-"n": "UC Irvine Health-Chao Family Comprehensive Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:winship-cancer-institute-at-emory-university",
-"t": "academic",
-"n": "Winship Cancer Institute at Emory University",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:indiana-university-iu-health-multi-d-oncology-clinic",
-"t": "hospital",
-"n": "Indiana University (IU) Health - Multi-D Oncology Clinic",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:barbara-ann-karmanos-cancer-center",
-"t": "company",
-"n": "Barbara Ann Karmanos Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:health-partners-frauenshuh-cancer-center",
-"t": "hospital",
-"n": "Health Partners Frauenshuh Cancer Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:dartmouth-hitchcock-medical-center",
-"t": "hospital",
-"n": "Dartmouth-Hitchcock Medical Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:asp546c",
-"t": "drug",
-"n": "ASP546C",
-"sub": "Astellas Pharma Global Development, Inc.",
 "url": "",
 "c": ""
 },
@@ -3783,6 +3807,70 @@
 "c": ""
 },
 {
+"k": "trial:nct04165772",
+"t": "trial",
+"n": "Study of Induction PD-1 Blockade in Subjects With Locally Advanced Mismatch Repair Deficie",
+"sub": "P2 · recruiting · 2019-2026",
+"url": "https://clinicaltrials.gov/study/NCT04165772",
+"c": ""
+},
+{
+"k": "org:tesaro",
+"t": "company",
+"n": "Tesaro, Inc.",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:hartford-healthcare-data-collection",
+"t": "hospital",
+"n": "Hartford Healthcare (Data Collection)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:baptist-alliance-mci-data-collection-only",
+"t": "foundation",
+"n": "Baptist Alliance MCI (Data Collection Only)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:memorial-sloan-kettering-commack-protocol-activities",
+"t": "company",
+"n": "Memorial Sloan Kettering Commack - Limited Protocol Activities",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:lehigh-valley-health-network-data-collection-only",
+"t": "hospital",
+"n": "Lehigh Valley Health Network (Data Collection Only)",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:tsr-042-or-dostarlimab",
+"t": "drug",
+"n": "TSR-042 or Dostarlimab",
+"sub": "Memorial Sloan Kettering Cancer Center",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:capecitabine-or-5-fu",
+"t": "drug",
+"n": "capecitabine or 5-FU",
+"sub": "Memorial Sloan Kettering Cancer Center",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct03929666",
 "t": "trial",
 "n": "A Safety and Efficacy Study of ZW25 (Zanidatamab) Plus Combination Chemotherapy in HER2-ex",
@@ -3851,70 +3939,6 @@
 "t": "drug",
 "n": "ZW25",
 "sub": "Jazz Pharmaceuticals",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct04165772",
-"t": "trial",
-"n": "Study of Induction PD-1 Blockade in Subjects With Locally Advanced Mismatch Repair Deficie",
-"sub": "P2 · recruiting · 2019-2026",
-"url": "https://clinicaltrials.gov/study/NCT04165772",
-"c": ""
-},
-{
-"k": "org:tesaro",
-"t": "company",
-"n": "Tesaro, Inc.",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:hartford-healthcare-data-collection",
-"t": "hospital",
-"n": "Hartford Healthcare (Data Collection)",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:baptist-alliance-mci-data-collection-only",
-"t": "foundation",
-"n": "Baptist Alliance MCI (Data Collection Only)",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:memorial-sloan-kettering-commack-protocol-activities",
-"t": "company",
-"n": "Memorial Sloan Kettering Commack - Limited Protocol Activities",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:lehigh-valley-health-network-data-collection-only",
-"t": "hospital",
-"n": "Lehigh Valley Health Network (Data Collection Only)",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:tsr-042-or-dostarlimab",
-"t": "drug",
-"n": "TSR-042 or Dostarlimab",
-"sub": "Memorial Sloan Kettering Cancer Center",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:capecitabine-or-5-fu",
-"t": "drug",
-"n": "capecitabine or 5-FU",
-"sub": "Memorial Sloan Kettering Cancer Center",
 "url": "",
 "c": ""
 },
@@ -4391,70 +4415,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07888309",
-"t": "trial",
-"n": "SCRT + Fruquintinib + Tislelizumab + CAPOX Versus SCRT + Tislelizumab + CAPOX as Neoadjuva",
-"sub": "P2 · recruiting · 2025-2030",
-"url": "https://clinicaltrials.gov/study/NCT07888309",
-"c": ""
-},
-{
-"k": "org:ruijin-hospital",
-"t": "hospital",
-"n": "Ruijin Hospital",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:shanghai-jiaotong-university-school-of-medicine-affiliated-r",
-"t": "hospital",
-"n": "Shanghai Jiaotong University School of Medicine Affiliated Ruijin Hospital",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:pei-xue",
-"t": "person",
-"n": "Pei Xue",
-"sub": "principal investigator · Shanghai Jiaotong University School of Medicine Affiliated Ruijin",
-"url": "",
-"c": ""
-},
-{
-"k": "org:shanghai-jiaotong-univeristy-school-of-medicine-affiliated-r",
-"t": "hospital",
-"n": "Shanghai Jiaotong Univeristy School of Medicine Affiliated Ruijin Hospital",
-"sub": "",
-"url": "",
-"c": "China"
-},
-{
-"k": "drug:fruquintinib",
-"t": "drug",
-"n": "Fruquintinib",
-"sub": "Ruijin Hospital",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:tislelizumab",
-"t": "drug",
-"n": "Tislelizumab",
-"sub": "Ruijin Hospital",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:capox",
-"t": "drug",
-"n": "CAPOX",
-"sub": "Ruijin Hospital",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct04751370",
 "t": "trial",
 "n": "Testing Nivolumab and Ipilimumab With Short-Course Radiation in Locally Advanced Rectal Ca",
@@ -4567,42 +4527,66 @@
 "c": ""
 },
 {
-"k": "trial:nct07529808",
+"k": "trial:nct07888309",
 "t": "trial",
-"n": "Phase 1/2 Study of BHB810 in Advanced Gastric and GEJ Adenocarcinoma",
-"sub": "P1/P2 · recruiting · 2026-2028",
-"url": "https://clinicaltrials.gov/study/NCT07529808",
+"n": "SCRT + Fruquintinib + Tislelizumab + CAPOX Versus SCRT + Tislelizumab + CAPOX as Neoadjuva",
+"sub": "P2 · recruiting · 2025-2030",
+"url": "https://clinicaltrials.gov/study/NCT07888309",
 "c": ""
 },
 {
-"k": "org:bighat-biosciences",
-"t": "company",
-"n": "BigHat Biosciences, Inc.",
+"k": "org:ruijin-hospital",
+"t": "hospital",
+"n": "Ruijin Hospital",
 "sub": "",
 "url": "",
 "c": ""
 },
 {
-"k": "org:city-of-hope-duarte",
-"t": "company",
-"n": "City of Hope Duarte",
+"k": "org:shanghai-jiaotong-university-school-of-medicine-affiliated-r",
+"t": "hospital",
+"n": "Shanghai Jiaotong University School of Medicine Affiliated Ruijin Hospital",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": ""
 },
 {
-"k": "org:university-of-california-at-los-angeles",
-"t": "academic",
-"n": "University of California at Los Angeles",
+"k": "person:pei-xue",
+"t": "person",
+"n": "Pei Xue",
+"sub": "principal investigator · Shanghai Jiaotong University School of Medicine Affiliated Ruijin",
+"url": "",
+"c": ""
+},
+{
+"k": "org:shanghai-jiaotong-univeristy-school-of-medicine-affiliated-r",
+"t": "hospital",
+"n": "Shanghai Jiaotong Univeristy School of Medicine Affiliated Ruijin Hospital",
 "sub": "",
 "url": "",
-"c": "United States"
+"c": "China"
 },
 {
-"k": "drug:bhb810",
+"k": "drug:fruquintinib",
 "t": "drug",
-"n": "BHB810",
-"sub": "BigHat Biosciences, Inc.",
+"n": "Fruquintinib",
+"sub": "Ruijin Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:tislelizumab",
+"t": "drug",
+"n": "Tislelizumab",
+"sub": "Ruijin Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:capox",
+"t": "drug",
+"n": "CAPOX",
+"sub": "Ruijin Hospital",
 "url": "",
 "c": ""
 }
@@ -4839,6 +4823,16 @@
 "r": "tested_in"
 },
 {
+"a": "drug:arv-6723",
+"b": "asset:nct-nct04111172",
+"r": "competes"
+},
+{
+"a": "drug:arv-6723",
+"b": "trial:nct07749586",
+"r": "tested_in"
+},
+{
 "a": "drug:arv-806",
 "b": "asset:nct-nct04111172",
 "r": "competes"
@@ -4901,16 +4895,6 @@
 {
 "a": "drug:bevacizumab-biosimilar",
 "b": "trial:nct06997497",
-"r": "tested_in"
-},
-{
-"a": "drug:bhb810",
-"b": "asset:nct-nct04111172",
-"r": "competes"
-},
-{
-"a": "drug:bhb810",
-"b": "trial:nct07529808",
 "r": "tested_in"
 },
 {
@@ -5845,6 +5829,11 @@
 },
 {
 "a": "drug:pembrolizumab",
+"b": "trial:nct07749586",
+"r": "tested_in"
+},
+{
+"a": "drug:pembrolizumab",
 "b": "trial:nct07811193",
 "r": "tested_in"
 },
@@ -5971,6 +5960,16 @@
 {
 "a": "drug:shr-1701",
 "b": "trial:nct07802184",
+"r": "tested_in"
+},
+{
+"a": "drug:soc",
+"b": "asset:nct-nct04111172",
+"r": "competes"
+},
+{
+"a": "drug:soc",
+"b": "trial:nct07749586",
 "r": "tested_in"
 },
 {
@@ -6385,12 +6384,32 @@
 },
 {
 "a": "org:arvinas",
+"b": "drug:arv-6723",
+"r": "develops"
+},
+{
+"a": "org:arvinas",
 "b": "drug:arv-806",
 "r": "develops"
 },
 {
 "a": "org:arvinas",
+"b": "drug:pembrolizumab",
+"r": "develops"
+},
+{
+"a": "org:arvinas",
+"b": "drug:soc",
+"r": "develops"
+},
+{
+"a": "org:arvinas",
 "b": "trial:nct07023731",
+"r": "sponsors"
+},
+{
+"a": "org:arvinas",
+"b": "trial:nct07749586",
 "r": "sponsors"
 },
 {
@@ -6487,16 +6506,6 @@
 "a": "org:beijing-tsinghua-changgung-hospital",
 "b": "trial:nct07235202",
 "r": "site_of"
-},
-{
-"a": "org:bighat-biosciences",
-"b": "drug:bhb810",
-"r": "develops"
-},
-{
-"a": "org:bighat-biosciences",
-"b": "trial:nct07529808",
-"r": "sponsors"
 },
 {
 "a": "org:biogenix",
@@ -6834,11 +6843,6 @@
 "r": "site_of"
 },
 {
-"a": "org:city-of-hope-duarte",
-"b": "trial:nct07529808",
-"r": "site_of"
-},
-{
 "a": "org:clearview-cancer-institute",
 "b": "trial:nct07562152",
 "r": "site_of"
@@ -6851,6 +6855,11 @@
 {
 "a": "org:clinical-trial-site",
 "b": "trial:nct07023731",
+"r": "site_of"
+},
+{
+"a": "org:clinical-trial-site",
+"b": "trial:nct07749586",
 "r": "site_of"
 },
 {
@@ -6927,11 +6936,6 @@
 "a": "org:daniel-nussbaum-m-d",
 "b": "trial:nct07905131",
 "r": "sponsors"
-},
-{
-"a": "org:dartmouth-hitchcock-medical-center",
-"b": "trial:nct07488676",
-"r": "site_of"
 },
 {
 "a": "org:duke-university",
@@ -8154,11 +8158,6 @@
 "r": "site_of"
 },
 {
-"a": "org:next-virginia",
-"b": "trial:nct07529808",
-"r": "site_of"
-},
-{
 "a": "org:no-1-shuaifuyuan-wangfujing-dongcheng-district",
 "b": "trial:nct07777211",
 "r": "site_of"
@@ -8929,11 +8928,6 @@
 "r": "site_of"
 },
 {
-"a": "org:university-of-california-at-los-angeles",
-"b": "trial:nct07529808",
-"r": "site_of"
-},
-{
 "a": "org:university-of-california-davis-comprehensive-cancer-center",
 "b": "trial:nct05673148",
 "r": "site_of"
@@ -8989,6 +8983,11 @@
 "r": "site_of"
 },
 {
+"a": "org:university-of-california-san-francisco-ucsf-medical-center",
+"b": "trial:nct07488676",
+"r": "site_of"
+},
+{
 "a": "org:university-of-chicago",
 "b": "trial:nct03929666",
 "r": "site_of"
@@ -9041,6 +9040,11 @@
 {
 "a": "org:university-of-michigan",
 "b": "trial:nct07020221",
+"r": "site_of"
+},
+{
+"a": "org:university-of-michigan",
+"b": "trial:nct07659795",
 "r": "site_of"
 },
 {
@@ -9206,11 +9210,6 @@
 {
 "a": "org:washington-university",
 "b": "trial:nct06682793",
-"r": "site_of"
-},
-{
-"a": "org:washington-university",
-"b": "trial:nct07659795",
 "r": "site_of"
 },
 {
