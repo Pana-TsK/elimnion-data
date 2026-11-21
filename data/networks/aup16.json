@@ -1,6 +1,6 @@
 {
 "assetId": "aup16",
-"updated": "2026-11-20",
+"updated": "2026-11-21",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 40,
@@ -984,6 +984,62 @@
 "c": ""
 },
 {
+"k": "trial:nct07396376",
+"t": "trial",
+"n": "Evaluation of ELU42 Topical Spray for the Treatment of Diabetic Foot Ulcers",
+"sub": "P1/P2 · recruiting · 2025-2026",
+"url": "https://clinicaltrials.gov/study/NCT07396376",
+"c": ""
+},
+{
+"k": "org:eluciderm",
+"t": "company",
+"n": "Eluciderm Inc",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "org:gateway-clinical-trials",
+"t": "hospital",
+"n": "Gateway Clinical Trials",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:independent-clincal-research",
+"t": "company",
+"n": "Independent Clincal Research LLC",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:curalta-clinical-trials",
+"t": "hospital",
+"n": "Curalta Clinical Trials",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "org:futuro-clinical-trials",
+"t": "hospital",
+"n": "Futuro Clinical Trials",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:elu42-topical-spray",
+"t": "drug",
+"n": "ELU42 Topical Spray",
+"sub": "Eluciderm Inc",
+"url": "",
+"c": ""
+},
+{
 "k": "trial:nct06111183",
 "t": "trial",
 "n": "Evaluation of AUP12602-C as New Topical Treatment for DFUs (DIAMEND STUDY)",
@@ -1084,62 +1140,6 @@
 "t": "drug",
 "n": "AUP1602-C",
 "sub": "Aurealis Oy",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07396376",
-"t": "trial",
-"n": "Evaluation of ELU42 Topical Spray for the Treatment of Diabetic Foot Ulcers",
-"sub": "P1/P2 · recruiting · 2025-2026",
-"url": "https://clinicaltrials.gov/study/NCT07396376",
-"c": ""
-},
-{
-"k": "org:eluciderm",
-"t": "company",
-"n": "Eluciderm Inc",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:gateway-clinical-trials",
-"t": "hospital",
-"n": "Gateway Clinical Trials",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:independent-clincal-research",
-"t": "company",
-"n": "Independent Clincal Research LLC",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:curalta-clinical-trials",
-"t": "hospital",
-"n": "Curalta Clinical Trials",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:futuro-clinical-trials",
-"t": "hospital",
-"n": "Futuro Clinical Trials",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:elu42-topical-spray",
-"t": "drug",
-"n": "ELU42 Topical Spray",
-"sub": "Eluciderm Inc",
 "url": "",
 "c": ""
 },
@@ -3363,15 +3363,23 @@
 "k": "person:nathalia-barbosa-de-aquino",
 "t": "person",
 "n": "Nathalia Barbosa de Aquino",
-"sub": "",
+"sub": "Universidade Federal de Pernambuco",
 "url": "https://orcid.org/0000-0002-0125-8084",
-"c": ""
+"c": "BR"
+},
+{
+"k": "org:universidade-federal-de-pernambuco",
+"t": "academic",
+"n": "Universidade Federal de Pernambuco",
+"sub": "",
+"url": "",
+"c": "BR"
 },
 {
 "k": "paper:pmid-37395769",
 "t": "paper",
 "n": "Diabetic Foot Ulcers: A Review",
-"sub": "JAMA 2023 · cited 2199",
+"sub": "JAMA 2023 · cited 2204",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37395769",
 "c": ""
 },
@@ -3435,7 +3443,7 @@
 "k": "paper:pmid-36548709",
 "t": "paper",
 "n": "Etiology, Epidemiology, and Disparities in the Burden of Diabetic Foot Ulcers",
-"sub": "Diabetes Care 2022 · cited 1750",
+"sub": "Diabetes Care 2022 · cited 1754",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36548709",
 "c": ""
 },
@@ -3483,7 +3491,7 @@
 "k": "paper:pmid-32209136",
 "t": "paper",
 "n": "Five year mortality and direct costs of care for people with diabetic foot complications a",
-"sub": "Journal of Foot and Ankle Research 2020 · cited 1166",
+"sub": "Journal of Foot and Ankle Research 2020 · cited 1167",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32209136",
 "c": ""
 },
@@ -3547,7 +3555,7 @@
 "k": "paper:pmid-34089902",
 "t": "paper",
 "n": "Macrophage polarization and diabetic wound healing",
-"sub": "Translational research 2021 · cited 800",
+"sub": "Translational research 2021 · cited 802",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34089902",
 "c": ""
 },
@@ -3627,7 +3635,7 @@
 "k": "paper:pmid-32139380",
 "t": "paper",
 "n": "Global Disability Burdens of Diabetes-Related Lower-Extremity Complications in 1990 and 20",
-"sub": "Diabetes Care 2020 · cited 697",
+"sub": "Diabetes Care 2020 · cited 698",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32139380",
 "c": ""
 },
@@ -3691,7 +3699,7 @@
 "k": "paper:pmid-32176451",
 "t": "paper",
 "n": "Guidelines on the prevention of foot ulcers in persons with diabetes (IWGDF 2019 update)",
-"sub": "Diabetes/Metabolism Research and Reviews 2020 · cited 634",
+"sub": "Diabetes/Metabolism Research and Reviews 2020 · cited 635",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32176451",
 "c": ""
 },
@@ -3715,7 +3723,7 @@
 "k": "paper:pmid-33680841",
 "t": "paper",
 "n": "The current burden of diabetic foot disease",
-"sub": "Journal of Clinical Orthopaedics and Trauma 2021 · cited 633",
+"sub": "Journal of Clinical Orthopaedics and Trauma 2021 · cited 634",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33680841",
 "c": ""
 },
@@ -3859,7 +3867,7 @@
 "k": "paper:pmid-35013299",
 "t": "paper",
 "n": "Single cell transcriptomic landscape of diabetic foot ulcers",
-"sub": "Nature Communications 2022 · cited 543",
+"sub": "Nature Communications 2022 · cited 544",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35013299",
 "c": ""
 },
@@ -3955,7 +3963,7 @@
 "k": "paper:pmid-34443506",
 "t": "paper",
 "n": "Skin Wound Healing: Normal Macrophage Function and Macrophage Dysfunction in Diabetic Woun",
-"sub": "Molecules 2021 · cited 515",
+"sub": "Molecules 2021 · cited 517",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34443506",
 "c": ""
 },
@@ -4163,7 +4171,7 @@
 "k": "paper:pmid-37302121",
 "t": "paper",
 "n": "Guidelines on the prevention of foot ulcers in persons with diabetes (IWGDF 2023 update)",
-"sub": "Diabetes/Metabolism Research and Reviews 2023 · cited 471",
+"sub": "Diabetes/Metabolism Research and Reviews 2023 · cited 474",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37302121",
 "c": ""
 },
@@ -4195,7 +4203,7 @@
 "k": "paper:pmid-38264279",
 "t": "paper",
 "n": "Diabetic peripheral neuropathy: pathogenetic mechanisms and treatment",
-"sub": "Frontiers in Endocrinology 2024 · cited 467",
+"sub": "Frontiers in Endocrinology 2024 · cited 468",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38264279",
 "c": ""
 },
@@ -4267,7 +4275,7 @@
 "k": "paper:pmid-36424137",
 "t": "paper",
 "n": "Microenvironment‐Based Diabetic Foot Ulcer Nanomedicine",
-"sub": "Advanced Science 2022 · cited 461",
+"sub": "Advanced Science 2022 · cited 462",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36424137",
 "c": ""
 },
@@ -4347,7 +4355,7 @@
 "k": "paper:pmid-37756368",
 "t": "paper",
 "n": "Human Wound and Its Burden: Updated 2022 Compendium of Estimates",
-"sub": "Advances in Wound Care 2023 · cited 460",
+"sub": "Advances in Wound Care 2023 · cited 461",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37756368",
 "c": ""
 },
@@ -4371,7 +4379,7 @@
 "k": "paper:pmid-36578871",
 "t": "paper",
 "n": "Diabetic foot ulcers: Classification, risk factors and management",
-"sub": "World Journal of Diabetes 2022 · cited 453",
+"sub": "World Journal of Diabetes 2022 · cited 455",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36578871",
 "c": ""
 },
@@ -4403,7 +4411,7 @@
 "k": "paper:pmid-37803944",
 "t": "paper",
 "n": "An Immunomodulatory Hydrogel by Hyperthermia‐Assisted Self‐Cascade Glucose Depletion and R",
-"sub": "Advanced Materials 2023 · cited 416",
+"sub": "Advanced Materials 2023 · cited 417",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37803944",
 "c": ""
 },
@@ -4747,7 +4755,7 @@
 "k": "paper:pmid-40274830",
 "t": "paper",
 "n": "Diabetic neuropathy: cutting-edge research and future directions",
-"sub": "Signal Transduction and Targeted Therapy 2025 · cited 356",
+"sub": "Signal Transduction and Targeted Therapy 2025 · cited 357",
 "url": "https://pubmed.ncbi.nlm.nih.gov/40274830",
 "c": ""
 },
@@ -4835,7 +4843,7 @@
 "k": "paper:pmid-32176445",
 "t": "paper",
 "n": "Guidelines on the classification of diabetic foot ulcers (IWGDF 2019)",
-"sub": "Diabetes/Metabolism Research and Reviews 2020 · cited 349",
+"sub": "Diabetes/Metabolism Research and Reviews 2020 · cited 351",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32176445",
 "c": ""
 },
@@ -4875,7 +4883,7 @@
 "k": "paper:pmid-36054820",
 "t": "paper",
 "n": "Global mortality of diabetic foot ulcer: A systematic review and meta‐analysis of observat",
-"sub": "Diabetes Obesity and Metabolism 2022 · cited 342",
+"sub": "Diabetes Obesity and Metabolism 2022 · cited 343",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36054820",
 "c": ""
 },
@@ -4915,7 +4923,7 @@
 "k": "paper:pmid-36891783",
 "t": "paper",
 "n": "Mechanisms of diabetic foot ulceration: A review",
-"sub": "Journal of Diabetes 2023 · cited 333",
+"sub": "Journal of Diabetes 2023 · cited 334",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36891783",
 "c": ""
 },
@@ -8182,6 +8190,11 @@
 "a": "person:murat-sert",
 "b": "paper:pmid-36578865",
 "r": "authored"
+},
+{
+"a": "person:nathalia-barbosa-de-aquino",
+"b": "org:universidade-federal-de-pernambuco",
+"r": "affiliated"
 },
 {
 "a": "person:nathalia-barbosa-de-aquino",

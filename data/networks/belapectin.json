@@ -1,6 +1,6 @@
 {
 "assetId": "belapectin",
-"updated": "2026-11-20",
+"updated": "2026-11-21",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 60,
@@ -17,11 +17,19 @@
 "c": ""
 },
 {
-"k": "trial:nct02407041",
+"k": "trial:nct02575404",
 "t": "trial",
-"n": "An Open-Label, Phase 2a Study to Evaluate Safety and Efficacy of GR-MD-02 for Treatment of",
-"sub": "P2 · completed · 2015-2018",
-"url": "https://clinicaltrials.gov/study/NCT02407041",
+"n": "GR-MD-02 Plus Pembrolizumab in Melanoma, Non-small Cell Lung Cancer, and Squamous Cell Hea",
+"sub": "P1 · completed · 2016-2022",
+"url": "https://clinicaltrials.gov/study/NCT02575404",
+"c": ""
+},
+{
+"k": "org:providence-health-services",
+"t": "hospital",
+"n": "Providence Health & Services",
+"sub": "",
+"url": "",
 "c": ""
 },
 {
@@ -30,6 +38,22 @@
 "n": "Galectin Therapeutics Inc.",
 "sub": "",
 "url": "",
+"c": ""
+},
+{
+"k": "person:brendan-curti",
+"t": "person",
+"n": "Brendan Curti",
+"sub": "principal investigator · Providence Health & Services",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct02407041",
+"t": "trial",
+"n": "An Open-Label, Phase 2a Study to Evaluate Safety and Efficacy of GR-MD-02 for Treatment of",
+"sub": "P2 · completed · 2015-2018",
+"url": "https://clinicaltrials.gov/study/NCT02407041",
 "c": ""
 },
 {
@@ -79,6 +103,22 @@
 "sub": "",
 "url": "",
 "c": "United States"
+},
+{
+"k": "trial:nct04987996",
+"t": "trial",
+"n": "GR-MD-02 + Pembrolizumab Versus Pembrolizumab Monotherapy in Melanoma and Squamous Cell He",
+"sub": "P2 · withdrawn · 2023-2031",
+"url": "https://clinicaltrials.gov/study/NCT04987996",
+"c": ""
+},
+{
+"k": "person:brendan-d-curti",
+"t": "person",
+"n": "Brendan D. Curti",
+"sub": "principal investigator · Providence Health & Services",
+"url": "https://orcid.org/0000-0003-3948-2708",
+"c": ""
 },
 {
 "k": "trial:nct01899859",
@@ -141,30 +181,6 @@
 "t": "person",
 "n": "Mohammad S Siddiqui",
 "sub": "principal investigator · Virginia Commonwealth University Medical Center",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct02575404",
-"t": "trial",
-"n": "GR-MD-02 Plus Pembrolizumab in Melanoma, Non-small Cell Lung Cancer, and Squamous Cell Hea",
-"sub": "P1 · completed · 2016-2022",
-"url": "https://clinicaltrials.gov/study/NCT02575404",
-"c": ""
-},
-{
-"k": "org:providence-health-services",
-"t": "hospital",
-"n": "Providence Health & Services",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:brendan-curti",
-"t": "person",
-"n": "Brendan Curti",
-"sub": "principal investigator · Providence Health & Services",
 "url": "",
 "c": ""
 },
@@ -265,22 +281,6 @@
 "c": "United States"
 },
 {
-"k": "trial:nct04987996",
-"t": "trial",
-"n": "GR-MD-02 + Pembrolizumab Versus Pembrolizumab Monotherapy in Melanoma and Squamous Cell He",
-"sub": "P2 · withdrawn · 2023-2031",
-"url": "https://clinicaltrials.gov/study/NCT04987996",
-"c": ""
-},
-{
-"k": "person:brendan-d-curti",
-"t": "person",
-"n": "Brendan D. Curti",
-"sub": "principal investigator · Providence Health & Services",
-"url": "https://orcid.org/0000-0003-3948-2708",
-"c": ""
-},
-{
 "k": "trial:nct06419374",
 "t": "trial",
 "n": "A Study to Evaluate the Efficacy and Safety of Pegozafermin in Participants With Compensat",
@@ -305,11 +305,11 @@
 "c": ""
 },
 {
-"k": "trial:nct07704892",
+"k": "trial:nct07701993",
 "t": "trial",
-"n": "A Study to Investigate Safety and Efficacy of Efimosfermin Compared With Placebo in Adult ",
+"n": "A Pivotal Clinical Study to Investigate the Safety and Efficacy of Efimosfermin Compared W",
 "sub": "P3 · recruiting · 2026-2033",
-"url": "https://clinicaltrials.gov/study/NCT07704892",
+"url": "https://clinicaltrials.gov/study/NCT07701993",
 "c": ""
 },
 {
@@ -369,83 +369,11 @@
 "c": ""
 },
 {
-"k": "trial:nct07701993",
+"k": "trial:nct07704892",
 "t": "trial",
-"n": "A Pivotal Clinical Study to Investigate the Safety and Efficacy of Efimosfermin Compared W",
+"n": "A Study to Investigate Safety and Efficacy of Efimosfermin Compared With Placebo in Adult ",
 "sub": "P3 · recruiting · 2026-2033",
-"url": "https://clinicaltrials.gov/study/NCT07701993",
-"c": ""
-},
-{
-"k": "trial:nct06528314",
-"t": "trial",
-"n": "A Study Evaluating Efruxifermin in Subjects With Compensated Cirrhosis Due to NASH/MASH",
-"sub": "P3 · recruiting · 2024-2030",
-"url": "https://clinicaltrials.gov/study/NCT06528314",
-"c": ""
-},
-{
-"k": "org:akero-therapeutics",
-"t": "company",
-"n": "Akero Therapeutics, Inc",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:efruxifermin",
-"t": "drug",
-"n": "Efruxifermin",
-"sub": "Akero Therapeutics, Inc",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07325526",
-"t": "trial",
-"n": "A Study to Test Whether BI 3802876 is Tolerated in People With Compensated Liver Cirrhosis",
-"sub": "P2 · recruiting · 2026-2027",
-"url": "https://clinicaltrials.gov/study/NCT07325526",
-"c": ""
-},
-{
-"k": "org:boehringer-ingelheim",
-"t": "company",
-"n": "Boehringer Ingelheim",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "org:southern-california-research-center",
-"t": "company",
-"n": "Southern California Research Center",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "org:mayo-clinic",
-"t": "hospital",
-"n": "Mayo Clinic",
-"sub": "",
-"url": "",
-"c": "United States"
-},
-{
-"k": "drug:bi-3802876",
-"t": "drug",
-"n": "BI 3802876",
-"sub": "Boehringer Ingelheim",
-"url": "",
-"c": ""
-},
-{
-"k": "trial:nct07933328",
-"t": "trial",
-"n": "Study to Evaluate ALN-CIDEB in Adults With Fibrotic Alcohol-Associated Liver Disease (ALD)",
-"sub": "P2 · not_yet_recruiting · 2026-2029",
-"url": "https://clinicaltrials.gov/study/NCT07933328",
+"url": "https://clinicaltrials.gov/study/NCT07704892",
 "c": ""
 },
 {
@@ -454,6 +382,14 @@
 "n": "LIVERAGE™ - Cirrhosis: A Study to Test Whether Survodutide Helps People With a Liver Disea",
 "sub": "P3 · recruiting · 2024-2029",
 "url": "https://clinicaltrials.gov/study/NCT06632457",
+"c": ""
+},
+{
+"k": "org:boehringer-ingelheim",
+"t": "company",
+"n": "Boehringer Ingelheim",
+"sub": "",
+"url": "",
 "c": ""
 },
 {
@@ -505,12 +441,76 @@
 "c": "United States"
 },
 {
+"k": "org:southern-california-research-center",
+"t": "company",
+"n": "Southern California Research Center",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
 "k": "org:ark-clinical-research",
 "t": "hospital",
 "n": "ARK Clinical Research",
 "sub": "",
 "url": "",
 "c": "United States"
+},
+{
+"k": "trial:nct07933328",
+"t": "trial",
+"n": "Study to Evaluate ALN-CIDEB in Adults With Fibrotic Alcohol-Associated Liver Disease (ALD)",
+"sub": "P2 · not_yet_recruiting · 2026-2029",
+"url": "https://clinicaltrials.gov/study/NCT07933328",
+"c": ""
+},
+{
+"k": "trial:nct07325526",
+"t": "trial",
+"n": "A Study to Test Whether BI 3802876 is Tolerated in People With Compensated Liver Cirrhosis",
+"sub": "P2 · recruiting · 2026-2027",
+"url": "https://clinicaltrials.gov/study/NCT07325526",
+"c": ""
+},
+{
+"k": "org:mayo-clinic",
+"t": "hospital",
+"n": "Mayo Clinic",
+"sub": "",
+"url": "",
+"c": "United States"
+},
+{
+"k": "drug:bi-3802876",
+"t": "drug",
+"n": "BI 3802876",
+"sub": "Boehringer Ingelheim",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct06528314",
+"t": "trial",
+"n": "A Study Evaluating Efruxifermin in Subjects With Compensated Cirrhosis Due to NASH/MASH",
+"sub": "P3 · recruiting · 2024-2030",
+"url": "https://clinicaltrials.gov/study/NCT06528314",
+"c": ""
+},
+{
+"k": "org:akero-therapeutics",
+"t": "company",
+"n": "Akero Therapeutics, Inc",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:efruxifermin",
+"t": "drug",
+"n": "Efruxifermin",
+"sub": "Akero Therapeutics, Inc",
+"url": "",
+"c": ""
 },
 {
 "k": "trial:nct07631637",
@@ -614,7 +614,7 @@
 "n": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
 "sub": "",
 "url": "",
-"c": ""
+"c": "US"
 },
 {
 "k": "person:bubu-a-banini",
@@ -1113,38 +1113,6 @@
 "c": ""
 },
 {
-"k": "trial:nct07350070",
-"t": "trial",
-"n": "TACE Combined With Tislelizumab, Lenvatinib, and Carvedilol for Unresectable HCC With Cirr",
-"sub": "P2 · not_yet_recruiting · 2025-2028",
-"url": "https://clinicaltrials.gov/study/NCT07350070",
-"c": ""
-},
-{
-"k": "org:tongji-hospital",
-"t": "hospital",
-"n": "Tongji Hospital",
-"sub": "",
-"url": "",
-"c": ""
-},
-{
-"k": "person:wanguang-zhang",
-"t": "person",
-"n": "Wanguang Zhang",
-"sub": "principal investigator · Tongji Hospital",
-"url": "",
-"c": ""
-},
-{
-"k": "drug:tace-combined-with-tislelizumab-lenvatinib-and-carvedilol",
-"t": "drug",
-"n": "TACE Combined With Tislelizumab, Lenvatinib, and Carvedilol",
-"sub": "Tongji Hospital",
-"url": "",
-"c": ""
-},
-{
 "k": "trial:nct07353827",
 "t": "trial",
 "n": "FOLFOX-HAIC Combined With Donafenib and Pucotenlimab as First-Line Treatment for Unresecta",
@@ -1181,6 +1149,38 @@
 "t": "drug",
 "n": "FOLFOX",
 "sub": "Sun Yat-sen University",
+"url": "",
+"c": ""
+},
+{
+"k": "trial:nct07350070",
+"t": "trial",
+"n": "TACE Combined With Tislelizumab, Lenvatinib, and Carvedilol for Unresectable HCC With Cirr",
+"sub": "P2 · not_yet_recruiting · 2025-2028",
+"url": "https://clinicaltrials.gov/study/NCT07350070",
+"c": ""
+},
+{
+"k": "org:tongji-hospital",
+"t": "hospital",
+"n": "Tongji Hospital",
+"sub": "",
+"url": "",
+"c": ""
+},
+{
+"k": "person:wanguang-zhang",
+"t": "person",
+"n": "Wanguang Zhang",
+"sub": "principal investigator · Tongji Hospital",
+"url": "",
+"c": ""
+},
+{
+"k": "drug:tace-combined-with-tislelizumab-lenvatinib-and-carvedilol",
+"t": "drug",
+"n": "TACE Combined With Tislelizumab, Lenvatinib, and Carvedilol",
+"sub": "Tongji Hospital",
 "url": "",
 "c": ""
 },
@@ -2172,7 +2172,7 @@
 "k": "paper:pmid-42065864",
 "t": "paper",
 "n": "Efficacy and safety of belapectin for the prevention of esophageal varices in patients wit",
-"sub": "Hepatology 2026 · cited 5",
+"sub": "Hepatology 2026 · cited 6",
 "url": "https://pubmed.ncbi.nlm.nih.gov/42065864",
 "c": ""
 },
@@ -2398,7 +2398,7 @@
 "n": "National Institutes of Health",
 "sub": "",
 "url": "",
-"c": ""
+"c": "US"
 },
 {
 "k": "org:national-cancer-institute",
@@ -2868,7 +2868,7 @@
 "k": "paper:pmid-38851997",
 "t": "paper",
 "n": "EASL–EASD–EASO Clinical Practice Guidelines on the management of metabolic dysfunction-ass",
-"sub": "Journal of Hepatology 2024 · cited 3087",
+"sub": "Journal of Hepatology 2024 · cited 3095",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38851997",
 "c": ""
 },
@@ -2900,7 +2900,7 @@
 "k": "paper:pmid-39159948",
 "t": "paper",
 "n": "Epidemiology of metabolic dysfunction-associated steatotic liver disease",
-"sub": "Clinical and Molecular Hepatology 2024 · cited 1220",
+"sub": "Clinical and Molecular Hepatology 2024 · cited 1223",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39159948",
 "c": ""
 },
@@ -2964,7 +2964,7 @@
 "k": "paper:pmid-38228377",
 "t": "paper",
 "n": "MASLD: a systemic metabolic disorder with cardiovascular and malignant complications",
-"sub": "Gut 2024 · cited 1189",
+"sub": "Gut 2024 · cited 1192",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38228377",
 "c": ""
 },
@@ -3076,7 +3076,7 @@
 "k": "paper:pmid-38908436",
 "t": "paper",
 "n": "Inflammasomes in chronic liver disease: Hepatic injury, fibrosis progression and systemic ",
-"sub": "Journal of Hepatology 2024 · cited 395",
+"sub": "Journal of Hepatology 2024 · cited 396",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38908436",
 "c": ""
 },
@@ -3204,7 +3204,7 @@
 "k": "paper:pmid-41212550",
 "t": "paper",
 "n": "Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults: A Review",
-"sub": "JAMA 2025 · cited 355",
+"sub": "JAMA 2025 · cited 356",
 "url": "https://pubmed.ncbi.nlm.nih.gov/41212550",
 "c": ""
 },
@@ -3212,7 +3212,7 @@
 "k": "paper:pmid-38867022",
 "t": "paper",
 "n": "An unbiased ranking of murine dietary models based on their proximity to human metabolic d",
-"sub": "Nature Metabolism 2024 · cited 297",
+"sub": "Nature Metabolism 2024 · cited 299",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38867022",
 "c": ""
 },
@@ -3308,7 +3308,7 @@
 "k": "paper:pmid-38869512",
 "t": "paper",
 "n": "EASL–EASD–EASO Clinical Practice Guidelines on the management of metabolic dysfunction-ass",
-"sub": "Diabetologia 2024 · cited 285",
+"sub": "Diabetologia 2024 · cited 287",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38869512",
 "c": ""
 },
@@ -3372,7 +3372,7 @@
 "k": "paper:pmid-39422487",
 "t": "paper",
 "n": "Resmetirom therapy for metabolic dysfunction-associated steatotic liver disease: October 2",
-"sub": "Hepatology 2024 · cited 263",
+"sub": "Hepatology 2024 · cited 264",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39422487",
 "c": ""
 },
@@ -3452,7 +3452,7 @@
 "k": "paper:pmid-39609545",
 "t": "paper",
 "n": "Therapeutic landscape of metabolic dysfunction-associated steatohepatitis (MASH)",
-"sub": "Nature Reviews Drug Discovery 2024 · cited 217",
+"sub": "Nature Reviews Drug Discovery 2024 · cited 219",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39609545",
 "c": ""
 },
@@ -3532,7 +3532,7 @@
 "k": "paper:pmid-39038768",
 "t": "paper",
 "n": "Expert Panel Recommendations: Practical Clinical Applications for Initiating and Monitorin",
-"sub": "Clinical Gastroenterology and Hepatology 2024 · cited 192",
+"sub": "Clinical Gastroenterology and Hepatology 2024 · cited 193",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39038768",
 "c": ""
 },
@@ -3572,7 +3572,7 @@
 "k": "paper:pmid-41201884",
 "t": "paper",
 "n": "Semaglutide therapy for metabolic dysfunction–associated steatohepatitis: November 2025 up",
-"sub": "Hepatology 2025 · cited 191",
+"sub": "Hepatology 2025 · cited 192",
 "url": "https://pubmed.ncbi.nlm.nih.gov/41201884",
 "c": ""
 },
@@ -3601,10 +3601,34 @@
 "c": "US"
 },
 {
+"k": "person:majid-mufaqam-syedabdul",
+"t": "person",
+"n": "Majid Mufaqam Syed‐Abdul",
+"sub": "University Health Network",
+"url": "https://orcid.org/0000-0002-2803-0274",
+"c": "CA"
+},
+{
+"k": "org:university-health-network",
+"t": "hospital",
+"n": "University Health Network",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
+"k": "org:university-of-toronto",
+"t": "academic",
+"n": "University of Toronto",
+"sub": "",
+"url": "",
+"c": "CA"
+},
+{
 "k": "paper:pmid-38891828",
 "t": "paper",
 "n": "Metabolic Dysfunction–Associated Steatotic Liver Disease: From Pathogenesis to Current The",
-"sub": "International Journal of Molecular Sciences 2024 · cited 181",
+"sub": "International Journal of Molecular Sciences 2024 · cited 180",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38891828",
 "c": ""
 },
@@ -3649,34 +3673,10 @@
 "c": ""
 },
 {
-"k": "person:majid-mufaqam-syedabdul",
-"t": "person",
-"n": "Majid Mufaqam Syed‐Abdul",
-"sub": "University Health Network",
-"url": "https://orcid.org/0000-0002-2803-0274",
-"c": "CA"
-},
-{
-"k": "org:university-health-network",
-"t": "hospital",
-"n": "University Health Network",
-"sub": "",
-"url": "",
-"c": "CA"
-},
-{
-"k": "org:university-of-toronto",
-"t": "academic",
-"n": "University of Toronto",
-"sub": "",
-"url": "",
-"c": "CA"
-},
-{
 "k": "paper:pmid-37792957",
 "t": "paper",
 "n": "Found in translation—Fibrosis in metabolic dysfunction–associated steatohepatitis (MASH)",
-"sub": "Science Translational Medicine 2023 · cited 173",
+"sub": "Science Translational Medicine 2023 · cited 174",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37792957",
 "c": ""
 },
@@ -3772,7 +3772,7 @@
 "k": "paper:pmid-38193865",
 "t": "paper",
 "n": "Therapeutic management of metabolic dysfunction associated steatotic liver disease",
-"sub": "United European Gastroenterology Journal 2024 · cited 152",
+"sub": "United European Gastroenterology Journal 2024 · cited 151",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38193865",
 "c": ""
 },
@@ -4340,7 +4340,7 @@
 "k": "paper:pmid-35120736",
 "t": "paper",
 "n": "Baveno VII – Renewing consensus in portal hypertension",
-"sub": "Journal of Hepatology 2021 · cited 3492",
+"sub": "Journal of Hepatology 2021 · cited 3500",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35120736",
 "c": ""
 },
@@ -4388,7 +4388,7 @@
 "k": "paper:pmid-34543610",
 "t": "paper",
 "n": "Liver cirrhosis",
-"sub": "The Lancet 2021 · cited 2048",
+"sub": "The Lancet 2021 · cited 2049",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34543610",
 "c": ""
 },
@@ -4441,10 +4441,42 @@
 "c": ""
 },
 {
+"k": "paper:pmid-31816111",
+"t": "paper",
+"n": "Hepatitis C Guidance 2019 Update: American Association for the Study of Liver Diseases–Inf",
+"sub": "Hepatology 2020 · cited 1096",
+"url": "https://pubmed.ncbi.nlm.nih.gov/31816111",
+"c": ""
+},
+{
+"k": "person:marc-g-ghany",
+"t": "person",
+"n": "Marc G. Ghany",
+"sub": "National Institutes of Health",
+"url": "https://orcid.org/0000-0003-2837-0188",
+"c": "US"
+},
+{
+"k": "person:timothy-r-m-morgan",
+"t": "person",
+"n": "Timothy R.M. Morgan",
+"sub": "VA Long Beach Healthcare System",
+"url": "https://orcid.org/0000-0003-1328-0307",
+"c": "US"
+},
+{
+"k": "org:va-long-beach-healthcare-system",
+"t": "hospital",
+"n": "VA Long Beach Healthcare System",
+"sub": "",
+"url": "",
+"c": "US"
+},
+{
 "k": "paper:pmid-33942342",
 "t": "paper",
 "n": "Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and He",
-"sub": "Hepatology 2021 · cited 1045",
+"sub": "Hepatology 2021 · cited 1046",
 "url": "https://pubmed.ncbi.nlm.nih.gov/33942342",
 "c": ""
 },
@@ -4484,7 +4516,7 @@
 "k": "paper:pmid-37700494",
 "t": "paper",
 "n": "Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD): A State-of-the-Art Revie",
-"sub": "Journal of Obesity & Metabolic Syndrome 2023 · cited 954",
+"sub": "Journal of Obesity & Metabolic Syndrome 2023 · cited 955",
 "url": "https://pubmed.ncbi.nlm.nih.gov/37700494",
 "c": ""
 },
@@ -4516,7 +4548,7 @@
 "k": "paper:pmid-35835713",
 "t": "paper",
 "n": "Microplastics detected in cirrhotic liver tissue",
-"sub": "EBioMedicine 2022 · cited 884",
+"sub": "EBioMedicine 2022 · cited 887",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35835713",
 "c": ""
 },
@@ -4652,7 +4684,7 @@
 "k": "paper:pmid-32673741",
 "t": "paper",
 "n": "The PREDICT study uncovers three clinical courses of acutely decompensated cirrhosis that ",
-"sub": "Journal of Hepatology 2020 · cited 597",
+"sub": "Journal of Hepatology 2020 · cited 598",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32673741",
 "c": ""
 },
@@ -4732,7 +4764,7 @@
 "k": "paper:pmid-38039993",
 "t": "paper",
 "n": "Lenvatinib plus pembrolizumab versus lenvatinib plus placebo for advanced hepatocellular c",
-"sub": "The Lancet Oncology 2023 · cited 543",
+"sub": "The Lancet Oncology 2023 · cited 544",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38039993",
 "c": ""
 },
@@ -4988,7 +5020,7 @@
 "k": "paper:pmid-39798579",
 "t": "paper",
 "n": "Durvalumab with or without bevacizumab with transarterial chemoembolisation in hepatocellu",
-"sub": "The Lancet 2025 · cited 410",
+"sub": "The Lancet 2025 · cited 413",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39798579",
 "c": ""
 },
@@ -5012,7 +5044,7 @@
 "k": "paper:pmid-38174913",
 "t": "paper",
 "n": "ACG Clinical Guideline: Alcohol-Associated Liver Disease",
-"sub": "The American Journal of Gastroenterology 2023 · cited 376",
+"sub": "The American Journal of Gastroenterology 2023 · cited 377",
 "url": "https://pubmed.ncbi.nlm.nih.gov/38174913",
 "c": ""
 },
@@ -5068,7 +5100,7 @@
 "k": "paper:pmid-36174643",
 "t": "paper",
 "n": "Endoscopic diagnosis and management of esophagogastric variceal hemorrhage: European Socie",
-"sub": "Endoscopy 2022 · cited 372",
+"sub": "Endoscopy 2022 · cited 373",
 "url": "https://pubmed.ncbi.nlm.nih.gov/36174643",
 "c": ""
 },
@@ -5436,7 +5468,7 @@
 "k": "paper:pmid-39349254",
 "t": "paper",
 "n": "Bile acid metabolism and signalling in liver disease",
-"sub": "Journal of Hepatology 2024 · cited 283",
+"sub": "Journal of Hepatology 2024 · cited 282",
 "url": "https://pubmed.ncbi.nlm.nih.gov/39349254",
 "c": ""
 },
@@ -5516,7 +5548,7 @@
 "k": "paper:pmid-34337369",
 "t": "paper",
 "n": "Portal hypertension in cirrhosis: Pathophysiological mechanisms and therapy",
-"sub": "JHEP Reports 2021 · cited 272",
+"sub": "JHEP Reports 2021 · cited 271",
 "url": "https://pubmed.ncbi.nlm.nih.gov/34337369",
 "c": ""
 },
@@ -5535,38 +5567,6 @@
 "sub": "",
 "url": "",
 "c": ""
-},
-{
-"k": "paper:pmid-32690850",
-"t": "paper",
-"n": "Mechanisms of Stroke in COVID-19",
-"sub": "Cerebrovascular Diseases 2020 · cited 261",
-"url": "https://pubmed.ncbi.nlm.nih.gov/32690850",
-"c": ""
-},
-{
-"k": "person:john-david-spence",
-"t": "person",
-"n": "John David Spence",
-"sub": "Western University",
-"url": "https://orcid.org/0000-0001-7478-1098",
-"c": "CA"
-},
-{
-"k": "org:western-university",
-"t": "academic",
-"n": "Western University",
-"sub": "",
-"url": "",
-"c": "CA"
-},
-{
-"k": "org:robarts-research-institute",
-"t": "academic",
-"n": "Robarts Research Institute",
-"sub": "",
-"url": "",
-"c": "CA"
 },
 {
 "k": "grant:nih-4r01ca255650-04",
@@ -7437,6 +7437,11 @@
 },
 {
 "a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
+"b": "paper:pmid-31816111",
+"r": "funded"
+},
+{
+"a": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
 "b": "paper:pmid-34923653",
 "r": "funded"
 },
@@ -7518,6 +7523,11 @@
 {
 "a": "org:national-institute-on-alcohol-abuse-and-alcoholism",
 "b": "paper:pmid-40120772",
+"r": "funded"
+},
+{
+"a": "org:national-institutes-of-health",
+"b": "paper:pmid-31816111",
 "r": "funded"
 },
 {
@@ -9361,21 +9371,6 @@
 "r": "authored"
 },
 {
-"a": "person:john-david-spence",
-"b": "org:robarts-research-institute",
-"r": "affiliated"
-},
-{
-"a": "person:john-david-spence",
-"b": "org:western-university",
-"r": "affiliated"
-},
-{
-"a": "person:john-david-spence",
-"b": "paper:pmid-32690850",
-"r": "authored"
-},
-{
 "a": "person:jonathan-m-hernandez-m-d",
 "b": "org:national-cancer-institute-nci",
 "r": "affiliated"
@@ -9608,6 +9603,21 @@
 {
 "a": "person:mandeep-singh-bajaj",
 "b": "paper:pmid-40434108",
+"r": "authored"
+},
+{
+"a": "person:marc-g-ghany",
+"b": "org:national-institute-of-diabetes-and-digestive-and-kidney-dise",
+"r": "affiliated"
+},
+{
+"a": "person:marc-g-ghany",
+"b": "org:national-institutes-of-health",
+"r": "affiliated"
+},
+{
+"a": "person:marc-g-ghany",
+"b": "paper:pmid-31816111",
 "r": "authored"
 },
 {
@@ -10374,6 +10384,16 @@
 "a": "person:thomas-schiano",
 "b": "trial:nct01899859",
 "r": "investigator"
+},
+{
+"a": "person:timothy-r-m-morgan",
+"b": "org:va-long-beach-healthcare-system",
+"r": "affiliated"
+},
+{
+"a": "person:timothy-r-m-morgan",
+"b": "paper:pmid-31816111",
+"r": "authored"
 },
 {
 "a": "person:tom-hare-ms",

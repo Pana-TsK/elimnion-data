@@ -1,6 +1,6 @@
 {
 "assetId": "etx155",
-"updated": "2026-11-20",
+"updated": "2026-11-21",
 "generatedBy": "elimnion-data pipeline",
 "sources": {
 "trials": 25,
@@ -888,6 +888,14 @@
 "c": "United States"
 },
 {
+"k": "trial:nct07019922",
+"t": "trial",
+"n": "A Clinical Trial of Elsunersen in Pediatric SCN2A-DEE to Assess Efficacy and Safety",
+"sub": "P3 · recruiting · 2025-2028",
+"url": "https://clinicaltrials.gov/study/NCT07019922",
+"c": ""
+},
+{
 "k": "trial:nct05737784",
 "t": "trial",
 "n": "A Clinical Trial of PRAX-222 in Pediatric Participants With Early Onset SCN2A Developmenta",
@@ -941,14 +949,6 @@
 "n": "PRAX-222 - Fixed Doses",
 "sub": "Praxis Precision Medicines",
 "url": "",
-"c": ""
-},
-{
-"k": "trial:nct07019922",
-"t": "trial",
-"n": "A Clinical Trial of Elsunersen in Pediatric SCN2A-DEE to Assess Efficacy and Safety",
-"sub": "P3 · recruiting · 2025-2028",
-"url": "https://clinicaltrials.gov/study/NCT07019922",
 "c": ""
 },
 {
@@ -1475,9 +1475,17 @@
 "k": "person:izel-yigit",
 "t": "person",
 "n": "İzel Yiğit",
+"sub": "Marmara University",
+"url": "",
+"c": "TR"
+},
+{
+"k": "org:marmara-university",
+"t": "academic",
+"n": "Marmara University",
 "sub": "",
 "url": "",
-"c": ""
+"c": "TR"
 },
 {
 "k": "paper:pmid-35429480",
@@ -2955,7 +2963,7 @@
 "k": "paper:pmid-35503717",
 "t": "paper",
 "n": "International League Against Epilepsy classification and definition of epilepsy syndromes ",
-"sub": "Epilepsia 2022 · cited 1164",
+"sub": "Epilepsia 2022 · cited 1165",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35503717",
 "c": ""
 },
@@ -3019,7 +3027,7 @@
 "k": "paper:pmid-35503712",
 "t": "paper",
 "n": "ILAE classification and definition of epilepsy syndromes with onset in neonates and infant",
-"sub": "Epilepsia 2022 · cited 1097",
+"sub": "Epilepsia 2022 · cited 1099",
 "url": "https://pubmed.ncbi.nlm.nih.gov/35503712",
 "c": ""
 },
@@ -3955,7 +3963,7 @@
 "k": "paper:pmid-32506321",
 "t": "paper",
 "n": "Epileptic channelopathies caused by neuronal Kv7 (KCNQ) channel dysfunction",
-"sub": "Pflügers Archiv - European Journal of Physiology 2020 · cited 122",
+"sub": "Pflügers Archiv - European Journal of Physiology 2020 · cited 123",
 "url": "https://pubmed.ncbi.nlm.nih.gov/32506321",
 "c": ""
 },
@@ -6970,6 +6978,11 @@
 "a": "person:isamu-kameshita",
 "b": "paper:pmid-32587608",
 "r": "authored"
+},
+{
+"a": "person:izel-yigit",
+"b": "org:marmara-university",
+"r": "affiliated"
 },
 {
 "a": "person:izel-yigit",
